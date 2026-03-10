@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2026-03-10T08:00:00Z",
+  "items": [
+    {
+      "id": "flight-tracker",
+      "title": "Flight paths",
+      "description": "A quick pulse of global air traffic density and route flow.",
+      "provider": "OpenSky / future embedded map",
+      "mode": "summary",
+      "image": "/media/modules/flights.svg",
+      "actionLabel": "View flight map",
+      "actionUrl": "https://opensky-network.org/network/explorer",
+      "metrics": [
+        { "label": "Transit mode", "value": "Live map later" },
+        { "label": "MVP mode", "value": "Safe link-out" }
+      ],
+      "safeNote": "No uncontrolled embed in MVP."
+    },
+    {
+      "id": "ship-tracker",
+      "title": "Sea lanes",
+      "description": "High-level movement across major shipping corridors and ports.",
+      "provider": "MarineTraffic / future snapshot",
+      "mode": "summary",
+      "image": "/media/modules/ships.svg",
+      "actionLabel": "Explore vessel map",
+      "actionUrl": "https://www.marinetraffic.com/",
+      "metrics": [
+        { "label": "Coverage", "value": "Global" },
+        { "label": "UX plan", "value": "Snapshot or safe API" }
+      ],
+      "safeNote": "Use reviewed integrations only."
+    },
+    {
+      "id": "earthquakes",
+      "title": "Earthquakes",
+      "description": "A rolling alert lane for notable global quake activity.",
+      "provider": "USGS",
+      "mode": "link",
+      "image": "/media/modules/earthquakes.svg",
+      "actionLabel": "Open USGS map",
+      "actionUrl": "https://earthquake.usgs.gov/earthquakes/map/",
+      "metrics": [
+        { "label": "Signal", "value": "24h watch" },
+        { "label": "Source", "value": "Authoritative" }
+      ],
+      "safeNote": "Link-first fallback keeps operations simple."
+    },
+    {
+      "id": "lightning",
+      "title": "Lightning",
+      "description": "Atmospheric energy snapshots for storms now crossing the globe.",
+      "provider": "LightningMaps.org",
+      "mode": "link",
+      "image": "/media/modules/lightning.svg",
+      "actionLabel": "View strikes",
+      "actionUrl": "https://www.lightningmaps.org/",
+      "metrics": [
+        { "label": "Visual style", "value": "Radar-like" },
+        { "label": "Future mode", "value": "Approved iframe" }
+      ],
+      "safeNote": "Keep external content sandboxed or linked."
+    },
+    {
+      "id": "satellites",
+      "title": "Satellites",
+      "description": "A clean orbital awareness card for what is moving overhead.",
+      "provider": "N2YO / future map",
+      "mode": "summary",
+      "image": "/media/modules/satellites.svg",
+      "actionLabel": "Track orbit",
+      "actionUrl": "https://www.n2yo.com/",
+      "metrics": [
+        { "label": "View", "value": "Orbital summary" },
+        { "label": "Replace later", "value": "With reviewed API" }
+      ],
+      "safeNote": "Prefer screenshots or JSON summaries before full embed."
+    },
+    {
+      "id": "weather-radar",
+      "title": "Weather radar",
+      "description": "Big-picture cloud, pressure, and storm movement at a glance.",
+      "provider": "Windy",
+      "mode": "link",
+      "image": "/media/modules/weather.svg",
+      "actionLabel": "Open radar",
+      "actionUrl": "https://www.windy.com/",
+      "metrics": [
+        { "label": "Best use", "value": "Quick check-in" },
+        { "label": "MVP path", "value": "Link or image tile" }
+      ],
+      "safeNote": "Direct embed should be legally reviewed first."
+    }
+  ]
+}

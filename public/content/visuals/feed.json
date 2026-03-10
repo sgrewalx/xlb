@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-03-10T07:45:00Z",
+  "items": [
+    {
+      "id": "visual-nocturne",
+      "title": "Tokyo Midnight Run",
+      "category": "Travel",
+      "image": "/media/visuals/tokyo-midnight.svg",
+      "alt": "Stylized neon city streets after rain.",
+      "credit": "Curated internal artwork"
+    },
+    {
+      "id": "visual-coast",
+      "title": "Atlantic Club Morning",
+      "category": "Lifestyle",
+      "image": "/media/visuals/atlantic-club.svg",
+      "alt": "Stylized terrace scene overlooking an ocean coastline.",
+      "credit": "Curated internal artwork"
+    },
+    {
+      "id": "visual-track",
+      "title": "Studio Sprint",
+      "category": "Fitness",
+      "image": "/media/visuals/studio-sprint.svg",
+      "alt": "Stylized motion poster inspired by a training studio.",
+      "credit": "Curated internal artwork"
+    },
+    {
+      "id": "visual-runway",
+      "title": "Monochrome Runway Notes",
+      "category": "Editorial",
+      "image": "/media/visuals/runway-notes.svg",
+      "alt": "Stylized editorial mood board with geometric shapes.",
+      "credit": "Curated internal artwork"
+    }
+  ]
+}

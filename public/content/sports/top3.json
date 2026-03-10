@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-03-10T08:15:00Z",
+  "section": "Top 3 Sports",
+  "items": [
+    {
+      "id": "sports-champions-race",
+      "title": "Champions race tightens after late comeback under the lights",
+      "source": "ESPN",
+      "url": "https://www.espn.com/",
+      "tag": "Football",
+      "publishedAt": "2026-03-10T03:40:00Z"
+    },
+    {
+      "id": "sports-nba-west",
+      "title": "Western playoff picture shifts again with three-way tie at the top",
+      "source": "The Athletic",
+      "url": "https://www.nytimes.com/athletic/",
+      "tag": "Basketball",
+      "publishedAt": "2026-03-10T02:15:00Z"
+    },
+    {
+      "id": "sports-tennis-surge",
+      "title": "Teen contender extends hard-court streak with another straight-set win",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport",
+      "tag": "Tennis",
+      "publishedAt": "2026-03-09T22:10:00Z"
+    }
+  ]
+}

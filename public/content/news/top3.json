@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-03-10T08:30:00Z",
+  "section": "Top 3 News",
+  "items": [
+    {
+      "id": "news-energy-grid",
+      "title": "Europe accelerates grid upgrades as electricity demand climbs",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/",
+      "tag": "World",
+      "publishedAt": "2026-03-10T06:20:00Z"
+    },
+    {
+      "id": "news-ai-policy",
+      "title": "Asia-Pacific regulators align on baseline AI safety disclosures",
+      "source": "Associated Press",
+      "url": "https://apnews.com/",
+      "tag": "Policy",
+      "publishedAt": "2026-03-10T05:50:00Z"
+    },
+    {
+      "id": "news-climate-ports",
+      "title": "Major ports test heat resilience plans ahead of another extreme season",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/",
+      "tag": "Climate",
+      "publishedAt": "2026-03-10T04:40:00Z"
+    }
+  ]
+}

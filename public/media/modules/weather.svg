@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420">
+  <defs>
+    <linearGradient id="storm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#17304a" />
+      <stop offset="100%" stop-color="#0a1220" />
+    </linearGradient>
+  </defs>
+  <rect width="720" height="420" rx="28" fill="url(#storm)" />
+  <path d="M82 208c86-74 174-84 254-26s166 62 304-10" fill="none" stroke="#5ea0ff" stroke-width="12" opacity=".7" />
+  <path d="M92 246c112-42 190-32 252 24s158 62 274 18" fill="none" stroke="#7cf6d4" stroke-width="12" opacity=".75" />
+  <path d="M132 132c28-16 58-16 84 0s56 16 84 0 58-16 84 0" fill="none" stroke="#ff7e56" stroke-width="10" stroke-linecap="round" />
+</svg>
