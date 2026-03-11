@@ -17,7 +17,7 @@ export function HomePage() {
   return (
     <>
       <Seo
-        title="XLB | Live curiosity dashboard"
+        title="XLB | Experience Love Bonding"
         description="Top 3 news, top 3 sports, quotes, visual feeds, games, and world-in-motion modules in one lightweight dashboard."
         path="/"
       />
