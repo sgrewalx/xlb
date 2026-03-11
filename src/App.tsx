@@ -124,9 +124,7 @@ function HeaderQuote({
   return (
     <div className="header-quote-strip">
       <p>“{selectedQuote.quote}”</p>
-      <span>
-        {selectedQuote.author} / {selectedQuote.context}
-      </span>
+      <span>{selectedQuote.author}</span>
     </div>
   );
 }
