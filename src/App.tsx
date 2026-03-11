@@ -11,18 +11,18 @@ const LAST_QUOTE_KEY = "xlb:last-quote-id";
 const aboutSections = [
   {
     heading: "What XLB is",
-    body: "XLB is about Experience, Love, Bond.",
+    body: "XLB is about Experience, Love, Bonding.",
   },
   {
     heading: "Operating principle",
-    body: "A little bit of everything. Nothing overwhelming. Just take it easy.",
+    body: "A little bit of everything. Nothing overwhelming. Easy.",
   },
 ];
 
 const privacySections = [
   {
     heading: "Data stance",
-    body: "We do not have any logins etc. and we store minimal data as of now",
+    body: "We do not have any logins etc. and we store minimal data as of now.",
   },
   {
     heading: "External links",
