@@ -1,50 +1,59 @@
+import { FeedItem } from "../types/content";
+
 interface HeroProps {
-  newsCount: number;
-  sportsCount: number;
-  modulesCount: number;
-  visualsCount: number;
+  loading: boolean;
+  error: string | null;
+  items?: FeedItem[];
 }
 
-export function Hero({
-  newsCount,
-  sportsCount,
-  modulesCount,
-  visualsCount,
-}: HeroProps) {
+const HERO_LABELS: Record<string, string> = {
+  experience: "X",
+  love: "L",
+  bonding: "B",
+};
+
+export function Hero({ loading, error, items }: HeroProps) {
   return (
     <section className="hero-panel">
-      <div className="hero-copy">
-        <div className="hero-badge">Live curiosity dashboard</div>
-        <h1>XLB</h1>
-        <p className="hero-tagline">Always something next.</p>
-        <p className="hero-body">
-          Five minutes. Stay informed. Stay entertained. The homepage is built as
-          a lightweight ambient dashboard fed by static JSON and safe reviewed
-          modules.
-        </p>
-        <div className="hero-actions">
-          <a href="#news">See today’s top 3</a>
-          <a href="#live-world" className="button-secondary">
-            Explore world motion
-          </a>
-        </div>
-      </div>
-      <div className="hero-stack">
-        <article className="hero-card hero-card-primary">
-          <span>Now loading</span>
-          <strong>{newsCount + sportsCount}</strong>
-          <p>signal cards across news and sports</p>
-        </article>
-        <article className="hero-card">
-          <span>Live world</span>
-          <strong>{modulesCount}</strong>
-          <p>pluggable modules ready for safe upgrades</p>
-        </article>
-        <article className="hero-card">
-          <span>Visual feed</span>
-          <strong>{visualsCount}</strong>
-          <p>reviewed aesthetic tiles with no user uploads</p>
-        </article>
+      <div className="hero-letter-stack" aria-label="XLB intro panels">
+        {loading
+          ? Array.from({ length: 3 }).map((_, index) => (
+              <article className="hero-card hero-letter-card card-skeleton" key={`hero-${index}`}>
+                <div className="skeleton-line skeleton-tag" />
+                <div className="skeleton-line skeleton-title" />
+                <div className="skeleton-line skeleton-copy" />
+              </article>
+            ))
+          : null}
+
+        {error ? (
+          <article className="hero-card hero-letter-card card-error">
+            <p>Could not load these stories.</p>
+            <span>{error}</span>
+          </article>
+        ) : null}
+
+        {items?.map((item) => (
+          <article
+            className={`hero-card hero-letter-card hero-letter-card-${HERO_LABELS[item.tag.toLowerCase()]?.toLowerCase() ?? "x"}`}
+            key={item.id}
+          >
+            <p className="section-eyebrow hero-letter-label">
+              {HERO_LABELS[item.tag.toLowerCase()] ?? item.tag.slice(0, 1)}
+            </p>
+            <h2 className="hero-story-title">{item.title}</h2>
+            <div className="hero-story-meta">
+              <span>{item.source}</span>
+              <span>
+                {new Intl.DateTimeFormat("en", {
+                  month: "short",
+                  day: "numeric",
+                  timeZone: "UTC",
+                }).format(new Date(item.publishedAt))}
+              </span>
+            </div>
+          </article>
+        ))}
       </div>
     </section>
   );

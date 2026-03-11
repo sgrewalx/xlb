@@ -1,7 +1,7 @@
 interface SectionHeaderProps {
   eyebrow: string;
-  title: string;
-  description: string;
+  title?: string;
+  description?: string;
   updatedAt?: string;
 }
 
@@ -32,12 +32,14 @@ export function SectionHeader({
     <div className="section-header">
       <div>
         <p className="section-eyebrow">{eyebrow}</p>
-        <h2>{title}</h2>
+        {title ? <h2>{title}</h2> : null}
       </div>
-      <div className="section-meta">
-        <p>{description}</p>
-        {formatted ? <span>Updated {formatted}</span> : null}
-      </div>
+      {description || formatted ? (
+        <div className="section-meta">
+          {description ? <p>{description}</p> : null}
+          {formatted ? <span>Updated {formatted}</span> : null}
+        </div>
+      ) : null}
     </div>
   );
 }

@@ -4,19 +4,43 @@ import { SectionHeader } from "./SectionHeader";
 interface TopListSectionProps {
   id: string;
   eyebrow: string;
-  title: string;
-  description: string;
+  title?: string;
+  description?: string;
+  headerTags?: string[];
+  hideItemTags?: boolean;
+  visualMode?: "sports";
   loading: boolean;
   error: string | null;
   updatedAt?: string;
   items?: FeedItem[];
 }
 
+const SPORTS_VISUALS: Record<string, { image: string; label: string; className: string }> = {
+  football: {
+    image: "/media/sports/football.svg",
+    label: "Football",
+    className: "top-card-media-football",
+  },
+  basketball: {
+    image: "/media/sports/basketball.svg",
+    label: "Basketball",
+    className: "top-card-media-basketball",
+  },
+  tennis: {
+    image: "/media/sports/tennis.svg",
+    label: "Tennis",
+    className: "top-card-media-tennis",
+  },
+};
+
 export function TopListSection({
   id,
   eyebrow,
   title,
   description,
+  headerTags,
+  hideItemTags = false,
+  visualMode,
   loading,
   error,
   updatedAt,
@@ -24,12 +48,24 @@ export function TopListSection({
 }: TopListSectionProps) {
   return (
     <section id={id} className="section-block">
-      <SectionHeader
-        eyebrow={eyebrow}
-        title={title}
-        description={description}
-        updatedAt={updatedAt}
-      />
+      {headerTags?.length ? (
+        <div className="games-header top-list-header">
+          <p className="section-eyebrow">{eyebrow}</p>
+          <div className="top-list-tags" aria-label={`${eyebrow} categories`}>
+            {headerTags.map((tag) => (
+              <p className="games-mode-label" key={tag}>
+                {tag}
+              </p>
+            ))}
+          </div>
+        </div>
+      ) : (
+        <SectionHeader
+          eyebrow={eyebrow}
+          title={title}
+          description={description}
+        />
+      )}
       <div className="top-grid">
         {loading
           ? Array.from({ length: 3 }).map((_, index) => (
@@ -56,9 +92,26 @@ export function TopListSection({
             target="_blank"
             rel="noreferrer"
           >
+            {visualMode === "sports" ? (
+              <div
+                className={`top-card-media ${
+                  SPORTS_VISUALS[item.tag.toLowerCase()]?.className ?? ""
+                }`}
+              >
+                <img
+                  src={
+                    SPORTS_VISUALS[item.tag.toLowerCase()]?.image ??
+                    "/media/sports/football.svg"
+                  }
+                  alt=""
+                  loading="lazy"
+                />
+                <span>{SPORTS_VISUALS[item.tag.toLowerCase()]?.label ?? item.tag}</span>
+              </div>
+            ) : null}
             <div className="card-index">{String(index + 1).padStart(2, "0")}</div>
             <div className="card-chip-row">
-              <span className="chip">{item.tag}</span>
+              {!hideItemTags ? <span className="chip">{item.tag}</span> : <span />}
               <span className="muted">{item.source}</span>
             </div>
             <h3>{item.title}</h3>

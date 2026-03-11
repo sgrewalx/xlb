@@ -1,0 +1,57 @@
+name: Refresh News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Refresh news manifest
+        run: npm run automation:news
+
+      - name: Validate content
+        run: npm run validate:content
+
+      - name: Detect manifest changes
+        id: changes
+        run: |
+          if git diff --quiet -- public/content/news/top3.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configure git identity
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit manifest update
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git add public/content/news/top3.json
+          git commit -m "chore: refresh news manifest"
+
+      - name: Push to main
+        if: steps.changes.outputs.changed == 'true'
+        run: git push origin HEAD:main

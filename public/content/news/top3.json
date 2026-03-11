@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-03-10T08:30:00Z",
+  "updatedAt": "2026-03-11T11:24:40.928Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-energy-grid",
-      "title": "Europe accelerates grid upgrades as electricity demand climbs",
+      "id": "news-global-shipping-costs-ease-as-port-congestion-im-a2877d5e22",
+      "title": "Global shipping costs ease as port congestion improves",
       "source": "Reuters",
-      "url": "https://www.reuters.com/",
+      "url": "https://www.reuters.com/world/global-shipping-costs-ease-2026-03-11",
       "tag": "World",
-      "publishedAt": "2026-03-10T06:20:00Z"
+      "publishedAt": "2026-03-11T10:25:00.000Z"
     },
     {
-      "id": "news-ai-policy",
-      "title": "Asia-Pacific regulators align on baseline AI safety disclosures",
+      "id": "news-storm-recovery-enters-second-week-across-souther-83ce626fbe",
+      "title": "Storm recovery enters second week across southern Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world-europe-12345678",
+      "tag": "Europe",
+      "publishedAt": "2026-03-11T10:05:00.000Z"
+    },
+    {
+      "id": "news-pacific-leaders-outline-joint-wildfire-readiness-347fc0d910",
+      "title": "Pacific leaders outline joint wildfire readiness plan",
       "source": "Associated Press",
-      "url": "https://apnews.com/",
-      "tag": "Policy",
-      "publishedAt": "2026-03-10T05:50:00Z"
-    },
-    {
-      "id": "news-climate-ports",
-      "title": "Major ports test heat resilience plans ahead of another extreme season",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/",
+      "url": "https://apnews.com/article/pacific-wildfire-readiness-plan-1234567890ab",
       "tag": "Climate",
-      "publishedAt": "2026-03-10T04:40:00Z"
+      "publishedAt": "2026-03-11T09:58:00.000Z"
     }
   ]
 }

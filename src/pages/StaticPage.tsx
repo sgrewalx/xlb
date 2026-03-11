@@ -24,7 +24,7 @@ export function StaticPage({
       <section className="static-hero">
         <p className="section-eyebrow">{eyebrow}</p>
         <h1>{title.replace(" | XLB", "")}</h1>
-        <p>{description}</p>
+        {description ? <p>{description}</p> : null}
       </section>
       <section className="static-grid">
         {sections.map((section) => (

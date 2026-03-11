@@ -6,7 +6,7 @@ export function Footer() {
       <div>
         <p className="footer-brand">XLB</p>
         <p className="muted">
-          A little of everything. Nothing overwhelming.
+          A little bit of everything. Nothing overwhelming. Just take it easy.
         </p>
       </div>
       <nav className="footer-links" aria-label="Footer">

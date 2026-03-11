@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build",
     "preview": "vite preview",
-    "validate:content": "node scripts/validate-content.mjs"
+    "validate:content": "node scripts/validate-content.mjs",
+    "automation:news": "node automation/fetch-news/run.mjs"
   },
   "dependencies": {
     "react": "^19.0.0",
