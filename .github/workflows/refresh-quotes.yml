@@ -1,0 +1,57 @@
+name: Refresh Quotes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-quotes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh quotes manifest
+        run: npm run automation:quotes
+
+      - name: Validate content
+        run: npm run validate:content
+
+      - name: Detect manifest changes
+        id: changes
+        run: |
+          if git diff --quiet -- public/content/quotes/quotes.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configure git identity
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit manifest update
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git add public/content/quotes/quotes.json
+          git commit -m "chore: refresh quotes manifest"
+
+      - name: Push to main
+        if: steps.changes.outputs.changed == 'true'
+        run: git push origin HEAD:main

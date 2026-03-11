@@ -8,7 +8,9 @@
     "build": "tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build",
     "preview": "vite preview",
     "validate:content": "node scripts/validate-content.mjs",
-    "automation:news": "node automation/fetch-news/run.mjs"
+    "automation:news": "node automation/fetch-news/run.mjs",
+    "automation:sports": "node automation/fetch-sports/run.mjs",
+    "automation:quotes": "node automation/refresh-quotes/run.mjs"
   },
   "dependencies": {
     "react": "^19.0.0",
