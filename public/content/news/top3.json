@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-03-16T02:23:07.595Z",
+  "updatedAt": "2026-03-16T13:10:01.113Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-us-israeli-strike-pounds-city-of-hamadan-iran-5d93df7c07",
-      "title": "US-Israeli strike pounds city of Hamadan, Iran",
+      "id": "news-iran-hits-key-uae-oil-port-and-dubai-airport-0f3d8b44f7",
+      "title": "Iran hits key UAE oil port and Dubai airport",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-03-16T12:43:32.000Z"
+    },
+    {
+      "id": "news-strait-of-hormuz-which-countries-s-ships-has-ira-d777f15613",
+      "title": "Strait of Hormuz: Which countries’s ships has Iran allowed safe passage to?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israeli-strike-pounds-city-of-hamadan-iran?traffic_source=rss",
-      "tag": "Show Types",
-      "publishedAt": "2026-03-16T01:26:27.000Z"
+      "url": "https://www.aljazeera.com/economy/2026/3/16/strait-of-hormuz-which-countriess-ships-has-iran-allowed-safe-passage-to?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-03-16T12:43:00.000Z"
     },
     {
-      "id": "news-oscars-2026-winners-list-in-full-updating-live-43b2d21031",
-      "title": "Oscars 2026: Winners list in full (updating live)",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-03-16T00:37:27.000Z"
-    },
-    {
-      "id": "news-race-on-to-establish-globally-recognised-ai-free-54be0a7604",
-      "title": "Race on to establish globally recognised 'AI-free' logo",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-03-16T00:32:50.000Z"
+      "id": "news-quran-echoes-loudly-as-palestinian-reciters-gath-3cf88fc8ec",
+      "title": "Quran echoes loudly as Palestinian reciters gather in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/3/16/quran-echoes-loudly-as-palestinian-reciters-gather-in-gaza?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-03-16T12:38:42.000Z"
     }
   ]
 }
