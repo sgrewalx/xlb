@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-03-17T02:39:02.169Z",
+  "updatedAt": "2026-03-18T02:45:10.375Z",
   "items": [
-    {
-      "id": "bell-hooks",
-      "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
-      "author": "bell hooks",
-      "context": "Connection"
-    },
     {
       "id": "henri-matisse",
       "quote": "Creativity takes courage.",
@@ -30,6 +24,12 @@
       "quote": "Absorb what is useful, discard what is not, add what is uniquely your own.",
       "author": "Bruce Lee",
       "context": "Focus"
+    },
+    {
+      "id": "jane-jacobs",
+      "quote": "New ideas need old buildings.",
+      "author": "Jane Jacobs",
+      "context": "Cities"
     }
   ]
 }
