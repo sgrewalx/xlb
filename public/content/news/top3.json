@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-03-19T13:03:02.467Z",
+  "updatedAt": "2026-03-20T02:01:18.389Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-video-why-iran-s-attack-on-qatar-s-gas-fields-ma-9aa5bb60d9",
-      "title": "Video: Why Iran’s attack on Qatar’s gas fields matters",
+      "id": "news-bachelorette-s-new-season-pulled-after-taylor-fr-2ccdd543ee",
+      "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-03-20T01:41:58.000Z"
+    },
+    {
+      "id": "news-palestinians-bury-four-women-killed-in-iranian-m-5b5cbe7c1b",
+      "title": "Palestinians bury four women killed in Iranian missile attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/video-why-irans-attack-on-qatars-gas-fields-matters?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinians-bury-four-women-killed-in-iranian-missile-attack?traffic_source=rss",
       "tag": "Show Types",
-      "publishedAt": "2026-03-19T12:39:14.000Z"
+      "publishedAt": "2026-03-20T01:09:50.000Z"
     },
     {
-      "id": "news-the-us-israel-war-with-iran-will-not-end-with-a--582b69e446",
-      "title": "The US–Israel war with Iran will not end with a clear victor",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/3/19/the-us-israel-war-with-iran-will-not-end-with-a-clear?traffic_source=rss",
-      "tag": "Opinions",
-      "publishedAt": "2026-03-19T12:38:18.000Z"
-    },
-    {
-      "id": "news-iran-s-dilemma-in-war-and-peace-d091279aa2",
-      "title": "Iran’s dilemma in war and peace",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/3/19/irans-dilemma-in-war-and-peace?traffic_source=rss",
-      "tag": "Opinions",
-      "publishedAt": "2026-03-19T12:34:22.000Z"
+      "id": "news-gas-shortage-caused-by-iran-war-may-push-india-b-79bc858949",
+      "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-03-20T00:59:29.000Z"
     }
   ]
 }
