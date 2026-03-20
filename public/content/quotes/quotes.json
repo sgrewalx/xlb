@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-03-19T02:46:49.753Z",
+  "updatedAt": "2026-03-20T02:37:34.411Z",
   "items": [
-    {
-      "id": "helen-keller",
-      "quote": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller",
-      "context": "Adventure"
-    },
     {
       "id": "maya-angelou",
       "quote": "You can't use up creativity. The more you use, the more you have.",
@@ -30,6 +24,12 @@
       "quote": "The world is before you and you need not take it or leave it as it was when you came in.",
       "author": "James Baldwin",
       "context": "Change"
+    },
+    {
+      "id": "ursula-le-guin",
+      "quote": "It is good to have an end to journey toward; but it is the journey that matters, in the end.",
+      "author": "Ursula K. Le Guin",
+      "context": "Motion"
     }
   ]
 }
