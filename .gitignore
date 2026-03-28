@@ -6,3 +6,5 @@ terraform.tfstate
 terraform.tfstate.*
 *.tfvars
 *.tsbuildinfo
+data/analytics/*.json
+data/analytics/*.csv

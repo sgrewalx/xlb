@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-03-27T00:00:00.000Z",
+  "items": [
+    {
+      "id": "exp-live-space-foundation",
+      "title": "Expand the first space-events landing pages",
+      "ownerAgent": "opportunity-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "Dedicated launch and NASA live pages should outperform generic homepage cards for repeat visits and watch-clicks.",
+      "targetPaths": [
+        "/live",
+        "/live/space",
+        "/events/"
+      ],
+      "successMetric": "Higher watch-click rate and repeat sessions from space pages over 28 days.",
+      "rollbackPlan": "Freeze generation for weak topics and remove low-performing internal links.",
+      "notes": "Human review required before enabling new page templates in production."
+    }
+  ]
+}

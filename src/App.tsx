@@ -1,21 +1,31 @@
-import { useEffect, useState } from "react";
+import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, Route, Routes, useLocation } from "react-router-dom";
+import { AnalyticsTracker } from "./components/AnalyticsTracker";
 import { Footer } from "./components/Footer";
 import { useContent } from "./hooks/useContent";
+import { EventPage } from "./pages/EventPage";
+import { GalleryPage } from "./pages/GalleryPage";
+import { GamesPage } from "./pages/GamesPage";
 import { HomePage } from "./pages/HomePage";
+import { LiveEventsPage } from "./pages/LiveEventsPage";
+import { NewsPage } from "./pages/NewsPage";
+import { SportsPage } from "./pages/SportsPage";
 import { StaticPage } from "./pages/StaticPage";
+import { TopicPage } from "./pages/TopicPage";
 import { QuoteFeed, QuoteItem } from "./types/content";
+
+const OpsDashboardPage = import.meta.env.DEV ? lazy(() => import("./pages/OpsDashboardPage")) : null;
 
 const LAST_QUOTE_KEY = "xlb:last-quote-id";
 
 const aboutSections = [
   {
     heading: "What XLB is",
-    body: "XLB is about Experience, Love, Bonding.",
+    body: "XLB is evolving into a live-events destination focused on public-interest moments across space and earth topics.",
   },
   {
     heading: "Operating principle",
-    body: "A little bit of everything. Nothing overwhelming. Easy.",
+    body: "Use automation for monitoring, ranking, and iteration, while keeping humans in the loop for higher-risk decisions.",
   },
 ];
 
@@ -131,31 +141,81 @@ function HeaderQuote({
 
 function AppChrome() {
   const quotes = useContent<QuoteFeed>("/content/quotes/quotes.json");
+  const location = useLocation();
+  const isOpsView = import.meta.env.DEV && location.pathname === "/__ops";
 
   return (
     <div className="site-shell">
-      <header className="site-header">
-        <HeaderQuote
-          items={quotes.data?.items}
-          loading={quotes.loading}
-          error={quotes.error}
-        />
-        <div className="brand-row">
+      <AnalyticsTracker />
+      {isOpsView ? (
+        <header className="ops-shell-header">
           <Link className="brand-mark" to="/">
             <span>XLB</span>
           </Link>
-          <nav className="site-nav" aria-label="Primary">
-            <a href="/#games">Games</a>
-            <a href="/#live-world">Live World</a>
-            <a href="/#visuals">Gallery</a>
-            <a href="/#sports">Sports</a>
-            <a href="/#news">News</a>
-          </nav>
-        </div>
-      </header>
+          <div className="ops-shell-meta">
+            <span>Local Ops</span>
+            <small>Visible only in development</small>
+          </div>
+        </header>
+      ) : (
+        <header className="site-header">
+          <HeaderQuote
+            items={quotes.data?.items}
+            loading={quotes.loading}
+            error={quotes.error}
+          />
+          <div className="brand-row">
+            <Link className="brand-mark" to="/">
+              <span>XLB</span>
+            </Link>
+            <nav className="site-nav" aria-label="Primary">
+              <Link to="/live">Live</Link>
+              <Link to="/live/space">Space</Link>
+              <Link to="/live/earth">Earth</Link>
+              <Link to="/games">Games</Link>
+              <Link to="/gallery">Gallery</Link>
+              <Link to="/sports">Sports</Link>
+              <Link to="/news">News</Link>
+            </nav>
+          </div>
+        </header>
+      )}
       <main className="page-shell">
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/live" element={<LiveEventsPage />} />
+          <Route path="/live/:category" element={<LiveEventsPage />} />
+          <Route path="/events/:slug" element={<EventPage />} />
+          <Route path="/topics/:slug" element={<TopicPage />} />
+          <Route path="/games" element={<GamesPage />} />
+          <Route path="/gallery" element={<GalleryPage />} />
+          <Route path="/sports" element={<SportsPage />} />
+          <Route path="/news" element={<NewsPage />} />
+          {OpsDashboardPage ? (
+            <Route
+              path="/__ops"
+              element={
+                <Suspense
+                  fallback={
+                    <StaticPage
+                      title="Loading ops dashboard | XLB"
+                      description="Loading local ops data."
+                      path="/__ops"
+                      eyebrow="Ops"
+                      sections={[
+                        {
+                          heading: "Loading",
+                          body: "Reading local automation reports and snapshots.",
+                        },
+                      ]}
+                    />
+                  }
+                >
+                  <OpsDashboardPage />
+                </Suspense>
+              }
+            />
+          ) : null}
           <Route
             path="/about"
             element={
@@ -235,7 +295,7 @@ function AppChrome() {
           />
         </Routes>
       </main>
-      <Footer />
+      {isOpsView ? null : <Footer />}
     </div>
   );
 }

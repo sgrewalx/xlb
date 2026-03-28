@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "strategy": "live-events",
+  "defaultMode": "proposal",
+  "protectedPaths": [
+    "infra/",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/build.yml",
+    "infra/iam/"
+  ],
+  "autoApprove": {
+    "paths": [
+      "public/content/live/",
+      "public/content/topics/",
+      "automation/snapshots/",
+      "automation/experiments/",
+      "docs/"
+    ],
+    "allowedActions": [
+      "refresh_event_inventory",
+      "update_metadata",
+      "refresh_internal_links",
+      "archive_stale_content",
+      "update_reports"
+    ]
+  },
+  "humanReview": {
+    "paths": [
+      "src/",
+      "public/robots.txt",
+      "public/sitemap.xml",
+      ".github/workflows/"
+    ],
+    "requiredForActions": [
+      "change_ad_density",
+      "introduce_new_tracker_source",
+      "change_tracking_behavior",
+      "change_monetization_provider",
+      "publish_sensitive_topic"
+    ]
+  },
+  "blockedActions": [
+    "modify_infrastructure_without_request",
+    "publish_unattributed_stream",
+    "store_full_third_party_articles",
+    "imply_source_endorsement"
+  ],
+  "riskLevels": {
+    "low": {
+      "approval": "auto_merge_allowed_after_validation_and_maturity_thresholds"
+    },
+    "medium": {
+      "approval": "pull_request_and_human_review"
+    },
+    "high": {
+      "approval": "proposal_only"
+    }
+  },
+  "autonomyThresholds": {
+    "minimumHealthyStreak": 3,
+    "minimumAnalyticsStreak": 3,
+    "minimumAutonomyStreak": 3,
+    "minimumAnalyticsCoverage": 0.6,
+    "minimumSourceStabilityStreak": 3
+  }
+}

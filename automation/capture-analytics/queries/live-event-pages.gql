@@ -1,0 +1,32 @@
+query XlbLiveEventPages($zoneTag: string, $start: Time, $end: Time) {
+  viewer {
+    zones(filter: { zoneTag: $zoneTag }) {
+      httpRequestsAdaptiveGroups(
+        limit: 100
+        orderBy: [sum_requests_DESC]
+        filter: {
+          datetime_geq: $start
+          datetime_lt: $end
+          clientRequestPath_in: [
+            "/live"
+            "/live/space"
+            "/live/earth"
+            "/events/nasa-live-programming"
+            "/events/upcoming-launch-window"
+            "/events/global-earthquake-watch"
+          ]
+        }
+      ) {
+        dimensions {
+          clientRequestPath
+        }
+        sum {
+          requests
+          browserMap {
+            pageViews
+          }
+        }
+      }
+    }
+  }
+}

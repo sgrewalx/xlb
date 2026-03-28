@@ -1,0 +1,44 @@
+{
+  "capturedAt": "2026-03-27T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-26T00:00:00.000Z",
+    "end": "2026-03-27T00:00:00.000Z"
+  },
+  "rows": [
+    {
+      "path": "/live",
+      "clicks": 42,
+      "impressions": 860,
+      "ctr": 0.0488,
+      "position": 11.8
+    },
+    {
+      "path": "/live/space",
+      "clicks": 37,
+      "impressions": 590,
+      "ctr": 0.0627,
+      "position": 9.6
+    },
+    {
+      "path": "/events/nasa-live-programming",
+      "clicks": 28,
+      "impressions": 410,
+      "ctr": 0.0682,
+      "position": 8.9
+    },
+    {
+      "path": "/events/upcoming-launch-window",
+      "clicks": 6,
+      "impressions": 190,
+      "ctr": 0.0315,
+      "position": 18.4
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "clicks": 24,
+      "impressions": 480,
+      "ctr": 0.05,
+      "position": 10.2
+    }
+  ]
+}

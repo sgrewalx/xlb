@@ -6,24 +6,24 @@
     <title>XLB | Experience Love Bonding</title>
     <meta
       name="description"
-      content="XLB is a lightweight live curiosity dashboard with top news, sports, quotes, games, and world-in-motion modules."
+      content="Source-backed live events across space and earth, built for quick scanning, repeat visits, and clean follow-through."
     />
     <meta name="theme-color" content="#07111f" />
     <meta name="robots" content="index,follow" />
     <link rel="canonical" href="https://xlb.codemachine.in/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="XLB | Always something next" />
+    <meta property="og:title" content="XLB | Live events worth checking" />
     <meta
       property="og:description"
-      content="Five minutes. Stay informed. Stay entertained."
+      content="Track live public-interest moments across space and earth with clean event and topic pages."
     />
     <meta property="og:url" content="https://xlb.codemachine.in/" />
     <meta property="og:image" content="https://xlb.codemachine.in/og-image.svg" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="XLB | Always something next" />
+    <meta name="twitter:title" content="XLB | Live events worth checking" />
     <meta
       name="twitter:description"
-      content="A little of everything. Nothing overwhelming."
+      content="Track live public-interest moments across space and earth with clean event and topic pages."
     />
     <meta name="twitter:image" content="https://xlb.codemachine.in/og-image.svg" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -35,12 +35,41 @@
         "@type": "WebSite",
         "name": "XLB",
         "url": "https://xlb.codemachine.in/",
-        "description": "A lightweight live curiosity dashboard with snackable world signals.",
+        "description": "Source-backed live public-interest events across space and earth topics.",
         "publisher": {
           "@type": "Organization",
           "name": "CodeMachine"
         }
       }
+    </script>
+    <script>
+      (function () {
+        const measurementId = "%VITE_GA_MEASUREMENT_ID%";
+
+        if (
+          !measurementId ||
+          measurementId === "undefined" ||
+          measurementId.startsWith("%VITE_")
+        ) {
+          return;
+        }
+
+        const analyticsScript = document.createElement("script");
+        analyticsScript.async = true;
+        analyticsScript.src = `https://www.googletagmanager.com/gtag/js?id=${measurementId}`;
+        analyticsScript.dataset.analyticsId = measurementId;
+        document.head.appendChild(analyticsScript);
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          window.dataLayer.push(arguments);
+        }
+        window.gtag = window.gtag || gtag;
+        window.gtag("js", new Date());
+        window.gtag("config", measurementId, {
+          send_page_view: false,
+        });
+      })();
     </script>
     <script
       defer

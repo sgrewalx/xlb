@@ -1,0 +1,93 @@
+{
+  "capturedAt": "2026-03-27T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-26T00:00:00.000Z",
+    "end": "2026-03-27T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": true,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/live",
+      "pageviews": 248,
+      "visits": 171,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 41,
+      "revenueUsd": 0,
+      "engagementScore": 74,
+      "decision": "review",
+      "notes": "Imported from GA4-style export. | Imported from Search Console-style export. | Strong hub traffic from live navigation."
+    },
+    {
+      "path": "/live/space",
+      "pageviews": 164,
+      "visits": 118,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 38,
+      "revenueUsd": 0,
+      "engagementScore": 79,
+      "decision": "review",
+      "notes": "Imported from GA4-style export. | Imported from Search Console-style export. | Launch and NASA intent is outperforming the generic live hub."
+    },
+    {
+      "path": "/live/earth",
+      "pageviews": 97,
+      "visits": 75,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 11,
+      "revenueUsd": 0,
+      "engagementScore": 52,
+      "decision": "review",
+      "notes": "Imported from GA4-style export. | Earth hub is useful but not yet sticky."
+    },
+    {
+      "path": "/events/nasa-live-programming",
+      "pageviews": 126,
+      "visits": 92,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 33,
+      "revenueUsd": 0,
+      "engagementScore": 82,
+      "decision": "review",
+      "notes": "Imported from GA4-style export. | Imported from Search Console-style export. | NASA page is the strongest current watch destination."
+    },
+    {
+      "path": "/events/upcoming-launch-window",
+      "pageviews": 48,
+      "visits": 35,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 7,
+      "revenueUsd": 0,
+      "engagementScore": 44,
+      "decision": "review",
+      "notes": "Imported from GA4-style export. | Imported from Search Console-style export. | Placeholder launch page needs richer source data before expansion."
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "pageviews": 119,
+      "visits": 95,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 29,
+      "revenueUsd": 0,
+      "engagementScore": 77,
+      "decision": "review",
+      "notes": "Imported from GA4-style export. | Imported from Search Console-style export. | Earthquake monitoring shows repeat-visit potential."
+    }
+  ]
+}

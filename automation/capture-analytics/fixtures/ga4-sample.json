@@ -1,0 +1,57 @@
+{
+  "capturedAt": "2026-03-27T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-26T00:00:00.000Z",
+    "end": "2026-03-27T00:00:00.000Z"
+  },
+  "rows": [
+    {
+      "path": "/live",
+      "screenPageViews": 231,
+      "sessions": 162,
+      "eventCount": 39,
+      "engagementRate": 0.61,
+      "averageSessionDuration": 96
+    },
+    {
+      "path": "/live/space",
+      "screenPageViews": 152,
+      "sessions": 109,
+      "eventCount": 36,
+      "engagementRate": 0.68,
+      "averageSessionDuration": 118
+    },
+    {
+      "path": "/live/earth",
+      "screenPageViews": 91,
+      "sessions": 72,
+      "eventCount": 10,
+      "engagementRate": 0.47,
+      "averageSessionDuration": 74
+    },
+    {
+      "path": "/events/nasa-live-programming",
+      "screenPageViews": 119,
+      "sessions": 86,
+      "eventCount": 31,
+      "engagementRate": 0.72,
+      "averageSessionDuration": 132
+    },
+    {
+      "path": "/events/upcoming-launch-window",
+      "screenPageViews": 45,
+      "sessions": 32,
+      "eventCount": 6,
+      "engagementRate": 0.39,
+      "averageSessionDuration": 61
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "screenPageViews": 112,
+      "sessions": 89,
+      "eventCount": 26,
+      "engagementRate": 0.69,
+      "averageSessionDuration": 123
+    }
+  ]
+}

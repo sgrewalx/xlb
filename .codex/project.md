@@ -1,11 +1,11 @@
 # XLB Agent Context
 XLB powers the website:
 https://xlb.codemachine.in
-The site is a curiosity-driven website that aggregates global information modules including news, sports, quotes, visuals, and live-world trackers. The architecture is intentionally simple so automation can safely update content.
+The site is evolving from a broad curiosity dashboard into a live-events publishing system focused on repeat-visit, automation-friendly public-interest events. The architecture remains intentionally simple so automation can safely update content.
 ---
 
 # Core Principle
-The frontend code rarely changes. Automation modifies JSON manifests that the frontend reads dynamically. This allows the site to evolve without changing application code.
+The frontend code should change less often than the content layer. Automation modifies JSON manifests, experiments, and analytics snapshots that the frontend and generation pipeline read dynamically. This allows the site to evolve without changing application code every time a topic wins or loses.
 ---
 
 # Architecture
@@ -35,6 +35,7 @@ sports/top3.json
 quotes/quotes.json  
 visuals/feed.json  
 modules/modules.json  
+live/events.json  
 
 Each manifest contains:
 updatedAt timestamp  
@@ -46,28 +47,35 @@ Rules:
 - visuals are curated only
 - no user uploads
 - external sources must link to original content
+- live events should prefer authoritative source links and clear event status
 
 Validation command:
 npm run validate:content
 ---
 
 # Automation Strategy
-Automation updates content manifests. Automation jobs include:
+Automation updates content manifests, analytics snapshots, and experiment queues. Current jobs include:
 fetch-news  
 fetch-sports  
 refresh-quotes  
-refresh-visuals  
-analyze-metrics  
+
+Planned jobs include:
+refresh-live-events  
+capture-analytics  
+rank-opportunities  
 optimize-content  
+prune-low-value-topics  
 
 Automation scripts live in:
 automation/
 
 These scripts may:
-fetch RSS feeds  
+fetch source feeds  
 filter unsafe content  
-rank headlines  
+rank topics and events  
 generate manifests  
+score experiments  
+recommend pruning or expansion
 
 Automation must never modify:
 Terraform infrastructure  
@@ -76,17 +84,27 @@ GitHub deploy workflows
 ---
 
 # Analytics and Optimization
-The site tracks user engagement events.
+The site should track user engagement and content performance signals.
+Preferred source order:
+GA4  
+Search Console  
+AdSense  
+Cloudflare Web Analytics as an optional supplemental signal  
+
 Metrics include:
 page views  
-card clicks  
+watch clicks  
 external link clicks  
-module opens  
+return visits  
+search impressions  
+CTR  
+revenue per page  
 
 Analytics data feeds a daily optimization job that may:
-rotate headlines  
-promote popular sections  
+promote winning event clusters  
+rotate or demote weak topics  
 introduce experiments  
+archive stale pages  
 
 ---
 # Safety Rules
@@ -97,8 +115,9 @@ sexual content
 illegal material  
 extremist content  
 
-Only headlines and links are allowed for news.
-Full article text must never be stored.
+Only short summaries and links are allowed for third-party news and event coverage.
+Full third-party article text must never be stored.
+Agents must not imply endorsement from public institutions or source organizations.
 ---
 
 # Long-Term Goal
@@ -109,4 +128,6 @@ traffic
 → AI analysis  
 → content optimization  
 → redeploy  
-The system should gradually become a fully autonomous curiosity dashboard.
+The system should gradually become a supervised-autonomy live-events site where low-risk changes can ship automatically and higher-risk changes pause for human review.
+Low-risk autonomy is earned only after repeated healthy runs with real analytics coverage; it should not unlock from a single snapshot.
+Source adapters must also prove stability across repeated non-fallback runs before unattended deploy is allowed.

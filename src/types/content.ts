@@ -61,3 +61,76 @@ export interface ModulesFeed {
   updatedAt: string;
   items: LiveModule[];
 }
+
+export interface LiveEventItem {
+  id: string;
+  slug: string;
+  title: string;
+  status: "upcoming" | "live" | "ended" | "watch" | "monitoring";
+  category: "space" | "earth";
+  topic: string;
+  startsAt: string;
+  endsAt?: string;
+  summary: string;
+  whyItMatters?: string;
+  sourceName: string;
+  sourceUrl: string;
+  watchUrl: string;
+  coverageMode: "link" | "embed_candidate" | "summary";
+  safeToPromote: boolean;
+  heroPriority?: number;
+  rightsProfile: string;
+  cadence: string;
+  audienceIntent: string;
+  updatedAt: string;
+}
+
+export interface LiveEventsFeed {
+  updatedAt: string;
+  section: string;
+  items: LiveEventItem[];
+}
+
+export interface LiveEventScore {
+  slug: string;
+  pagePath: string;
+  category: "space" | "earth";
+  score: number;
+  scoringMode: "cold-start" | "blended" | "observed";
+  coldStartScore: number;
+  heuristicScore: number;
+  observedScore: number;
+  pageviews: number;
+  watchClicks: number;
+  engagementScore: number;
+  searchImpressions: number;
+  searchCtr: number;
+  categoryPageviews: number;
+  sourceStability: "stable" | "earning-trust" | "degraded" | "unknown";
+  recencyBand: string;
+  recommendation: "expand" | "hold" | "prune" | "review";
+  notes: string;
+}
+
+export interface LiveEventScoreboard {
+  updatedAt: string;
+  sourceSnapshot: string;
+  items: LiveEventScore[];
+}
+
+export interface TopicItem {
+  slug: string;
+  title: string;
+  category: "space" | "earth";
+  summary: string;
+  eventCount: number;
+  promotedEventCount: number;
+  bestScore: number;
+  recommendation: "expand" | "hold" | "prune" | "review";
+  updatedAt: string;
+}
+
+export interface TopicsFeed {
+  updatedAt: string;
+  items: TopicItem[];
+}

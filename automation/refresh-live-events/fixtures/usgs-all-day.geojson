@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1775017200000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+    "title": "USGS All Earthquakes, Past Day"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.6,
+        "place": "87 km SE of Pondaguitan, Philippines",
+        "time": 1775015400000,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000abcd"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "South Sandwich Islands region",
+        "time": 1775011800000,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000abce"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 2.7,
+        "place": "10 km NNW of The Geysers, California",
+        "time": 1775008200000,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc7000abcf"
+      }
+    }
+  ]
+}

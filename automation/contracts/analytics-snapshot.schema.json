@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xlb.codemachine.in/schemas/analytics-snapshot.schema.json",
+  "title": "XLB Analytics Snapshot",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "capturedAt",
+    "window",
+    "sources",
+    "pages"
+  ],
+  "properties": {
+    "capturedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "window": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "start",
+        "end"
+      ],
+      "properties": {
+        "start": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "end": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "sources": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "cloudflare": {
+          "type": "boolean"
+        },
+        "searchConsole": {
+          "type": "boolean"
+        },
+        "ga4": {
+          "type": "boolean"
+        },
+        "adsense": {
+          "type": "boolean"
+        }
+      }
+    },
+    "pages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "path",
+          "pageviews",
+          "engagementScore",
+          "decision"
+        ],
+        "properties": {
+          "path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pageviews": {
+            "type": "number",
+            "minimum": 0
+          },
+          "visits": {
+            "type": "number",
+            "minimum": 0
+          },
+          "searchImpressions": {
+            "type": "number",
+            "minimum": 0
+          },
+          "searchCtr": {
+            "type": "number",
+            "minimum": 0
+          },
+          "avgPosition": {
+            "type": "number",
+            "minimum": 0
+          },
+          "watchClicks": {
+            "type": "number",
+            "minimum": 0
+          },
+          "revenueUsd": {
+            "type": "number",
+            "minimum": 0
+          },
+          "engagementScore": {
+            "type": "number",
+            "minimum": 0
+          },
+          "decision": {
+            "type": "string",
+            "enum": [
+              "expand",
+              "hold",
+              "prune",
+              "review"
+            ]
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

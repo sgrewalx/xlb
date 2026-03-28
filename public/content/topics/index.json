@@ -1,0 +1,49 @@
+{
+  "updatedAt": "2026-03-28T03:54:13.156Z",
+  "items": [
+    {
+      "slug": "earthquakes",
+      "title": "Earthquakes",
+      "category": "earth",
+      "summary": "Automation monitors 1 event record in this topic. Current states: monitoring.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 100,
+      "recommendation": "hold",
+      "updatedAt": "2026-03-28T03:54:13.156Z"
+    },
+    {
+      "slug": "nasa",
+      "title": "Nasa",
+      "category": "space",
+      "summary": "Automation monitors 1 event record in this topic. Current states: watch.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 100,
+      "recommendation": "hold",
+      "updatedAt": "2026-03-28T03:54:13.156Z"
+    },
+    {
+      "slug": "launches",
+      "title": "Launches",
+      "category": "space",
+      "summary": "Automation monitors 3 event records in this topic. Current states: upcoming.",
+      "eventCount": 3,
+      "promotedEventCount": 3,
+      "bestScore": 100,
+      "recommendation": "hold",
+      "updatedAt": "2026-03-28T03:54:13.156Z"
+    },
+    {
+      "slug": "space-weather",
+      "title": "Space Weather",
+      "category": "space",
+      "summary": "Automation monitors 1 event record in this topic. Current states: monitoring.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 0,
+      "recommendation": "hold",
+      "updatedAt": "2026-03-28T03:54:13.156Z"
+    }
+  ]
+}

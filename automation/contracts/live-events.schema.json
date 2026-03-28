@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xlb.codemachine.in/schemas/live-events.schema.json",
+  "title": "XLB Live Events Feed",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "updatedAt",
+    "section",
+    "items"
+  ],
+  "properties": {
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "section": {
+      "type": "string",
+      "minLength": 1
+    },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "slug",
+          "title",
+          "status",
+          "category",
+          "topic",
+          "startsAt",
+          "summary",
+          "sourceName",
+          "sourceUrl",
+          "watchUrl",
+          "coverageMode",
+          "safeToPromote",
+          "updatedAt"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "upcoming",
+              "live",
+              "ended",
+              "watch",
+              "monitoring"
+            ]
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "space",
+              "earth"
+            ]
+          },
+          "topic": {
+            "type": "string",
+            "minLength": 1
+          },
+          "startsAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endsAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "whyItMatters": {
+            "type": "string"
+          },
+          "sourceName": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sourceUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "watchUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "coverageMode": {
+            "type": "string",
+            "enum": [
+              "link",
+              "embed_candidate",
+              "summary"
+            ]
+          },
+          "safeToPromote": {
+            "type": "boolean"
+          },
+          "heroPriority": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "updatedAt": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      }
+    }
+  }
+}

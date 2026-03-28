@@ -1,0 +1,57 @@
+{
+  "capturedAt": "2026-03-27T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-26T00:00:00.000Z",
+    "end": "2026-03-27T00:00:00.000Z"
+  },
+  "pages": [
+    {
+      "path": "/live",
+      "pageviews": 248,
+      "visits": 171,
+      "watchClicks": 41,
+      "engagementScore": 74,
+      "notes": "Strong hub traffic from live navigation."
+    },
+    {
+      "path": "/live/space",
+      "pageviews": 164,
+      "visits": 118,
+      "watchClicks": 38,
+      "engagementScore": 79,
+      "notes": "Launch and NASA intent is outperforming the generic live hub."
+    },
+    {
+      "path": "/live/earth",
+      "pageviews": 97,
+      "visits": 75,
+      "watchClicks": 11,
+      "engagementScore": 52,
+      "notes": "Earth hub is useful but not yet sticky."
+    },
+    {
+      "path": "/events/nasa-live-programming",
+      "pageviews": 126,
+      "visits": 92,
+      "watchClicks": 33,
+      "engagementScore": 82,
+      "notes": "NASA page is the strongest current watch destination."
+    },
+    {
+      "path": "/events/upcoming-launch-window",
+      "pageviews": 48,
+      "visits": 35,
+      "watchClicks": 7,
+      "engagementScore": 44,
+      "notes": "Placeholder launch page needs richer source data before expansion."
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "pageviews": 119,
+      "visits": 95,
+      "watchClicks": 29,
+      "engagementScore": 77,
+      "notes": "Earthquake monitoring shows repeat-visit potential."
+    }
+  ]
+}

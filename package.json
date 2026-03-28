@@ -5,12 +5,25 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build",
+    "build": "npm run generate:sitemap && tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build",
+    "generate:sitemap": "node scripts/generate-sitemap.mjs",
+    "test": "node --test automation/**/*.test.mjs",
     "preview": "vite preview",
     "validate:content": "node scripts/validate-content.mjs",
     "automation:news": "node automation/fetch-news/run.mjs",
     "automation:sports": "node automation/fetch-sports/run.mjs",
-    "automation:quotes": "node automation/refresh-quotes/run.mjs"
+    "automation:quotes": "node automation/refresh-quotes/run.mjs",
+    "automation:analytics": "node automation/capture-analytics/import-snapshot.mjs",
+    "automation:import-ga4": "node automation/capture-analytics/import-ga4.mjs",
+    "automation:import-search-console": "node automation/capture-analytics/import-search-console.mjs",
+    "automation:merge-analytics": "node automation/capture-analytics/merge-snapshots.mjs",
+    "automation:rank-live": "node automation/rank-live-events/run.mjs",
+    "automation:fetch-cloudflare": "node automation/capture-analytics/fetch-cloudflare.mjs",
+    "automation:live-events": "node automation/refresh-live-events/run.mjs",
+    "automation:source-health": "node automation/refresh-live-events/health-check.mjs",
+    "automation:assess-live-risk": "node automation/governance/assess-live-risk.mjs",
+    "automation:check-deploy-readiness": "node automation/governance/check-deploy-readiness.mjs",
+    "automation:ops-summary": "node automation/governance/generate-ops-summary.mjs"
   },
   "dependencies": {
     "react": "^19.0.0",

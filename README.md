@@ -1,6 +1,6 @@
 # XLB
 
-XLB is a production-sensible static MVP for `xlb.codemachine.in`: a dark-first, curiosity-driven dashboard built with `Vite + React + TypeScript`, deployed to `S3 + CloudFront`, and provisioned with Terraform.
+XLB is a static live-events site for `xlb.codemachine.in`: a source-backed, automation-friendly frontend built with `Vite + React + TypeScript`, deployed to `S3 + CloudFront`, and provisioned with Terraform.
 
 ## A. High-level architecture
 
@@ -207,6 +207,18 @@ Build:
 ```bash
 npm run build
 ```
+
+Analytics automation:
+```bash
+npm run automation:analytics
+npm run automation:rank-live
+npm run automation:live-events
+```
+
+Environment setup:
+- copy `.env.example` values as needed for local runs
+- `automation:analytics` imports any normalized snapshot file
+- `automation:fetch-cloudflare` is optional and only applies if the site is configured as a Cloudflare zone
 
 ## F. AWS deployment plan
 
