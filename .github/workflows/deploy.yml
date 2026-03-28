@@ -2,6 +2,12 @@ name: Deploy
 
 on:
   workflow_dispatch:
+    inputs:
+      allow_beta_deploy:
+        description: "Allow a supervised soft beta deploy when readiness is review-required"
+        required: true
+        default: false
+        type: boolean
   push:
     branches:
       - main
@@ -43,7 +49,15 @@ jobs:
         run: npm run automation:assess-live-risk
 
       - name: Check deploy readiness
-        run: XLB_FAIL_ON_BLOCKED_DEPLOY=1 XLB_FAIL_ON_REVIEW_DEPLOY=1 npm run automation:check-deploy-readiness
+        run: |
+          FAIL_ON_REVIEW=1
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.allow_beta_deploy }}" = "true" ]; then
+            echo "Supervised beta deploy override enabled for review-required readiness."
+            FAIL_ON_REVIEW=0
+          fi
+
+          XLB_FAIL_ON_BLOCKED_DEPLOY=1 XLB_FAIL_ON_REVIEW_DEPLOY=$FAIL_ON_REVIEW npm run automation:check-deploy-readiness
 
       - name: Publish ops summary
         run: npm run automation:ops-summary
