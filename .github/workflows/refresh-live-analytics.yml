@@ -95,7 +95,7 @@ jobs:
 
       - name: Create pull request for review
         if: steps.changes.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ github.token }}
           branch: ${{ env.BRANCH_NAME }}
