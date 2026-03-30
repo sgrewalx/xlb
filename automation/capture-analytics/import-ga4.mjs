@@ -7,7 +7,7 @@ const INPUT_FILE = process.env.XLB_GA4_SOURCE
   : new URL("./fixtures/ga4-sample.json", import.meta.url);
 
 async function main() {
-  const payload = await loadInput();
+  const payload = applySnapshotDateOverride(await loadInput());
   const snapshot = normalizeGa4Snapshot(payload);
   const outputFile = new URL(`../snapshots/ga4-${snapshot.capturedAt.slice(0, 10)}.json`, import.meta.url);
   const changed = await writeJsonIfChanged(outputFile, snapshot);
@@ -79,6 +79,31 @@ function normalizeGa4Snapshot(payload) {
         notes: "Imported from GA4-style export.",
       };
     }),
+  };
+}
+
+function applySnapshotDateOverride(payload) {
+  const snapshotDate = process.env.XLB_SNAPSHOT_DATE;
+
+  if (!snapshotDate) {
+    return payload;
+  }
+
+  const end = new Date(`${snapshotDate}T00:00:00.000Z`);
+  if (Number.isNaN(end.valueOf())) {
+    throw new Error(`Invalid XLB_SNAPSHOT_DATE: ${snapshotDate}`);
+  }
+
+  const start = new Date(end);
+  start.setUTCDate(start.getUTCDate() - 1);
+
+  return {
+    ...payload,
+    capturedAt: new Date(`${snapshotDate}T06:00:00.000Z`).toISOString(),
+    window: {
+      start: start.toISOString(),
+      end: end.toISOString(),
+    },
   };
 }
 
