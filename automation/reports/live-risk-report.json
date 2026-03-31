@@ -1,5 +1,5 @@
 {
-  "assessedAt": "2026-03-28T04:01:02.368Z",
+  "assessedAt": "2026-03-30T05:52:05.267Z",
   "level": "medium",
   "approval": "pr-required",
   "analyticsSignals": {
@@ -10,13 +10,13 @@
     "heuristicOverrideEligible": false,
     "eventCoverageRatio": 0.33,
     "ga4Enabled": true,
-    "searchConsoleEnabled": true
+    "searchConsoleEnabled": false
   },
   "autonomyState": {
     "status": "cold-start",
     "isAutoDeployEligible": false,
     "streaks": {
-      "healthySource": 2,
+      "healthySource": 3,
       "analyticsCoverage": 0,
       "autonomyEligible": 0
     },

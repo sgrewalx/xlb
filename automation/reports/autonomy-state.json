@@ -1,9 +1,9 @@
 {
-  "assessedAt": "2026-03-28T04:01:02.368Z",
+  "assessedAt": "2026-03-30T05:52:05.267Z",
   "status": "cold-start",
   "isAutoDeployEligible": false,
   "streaks": {
-    "healthySource": 2,
+    "healthySource": 3,
     "analyticsCoverage": 0,
     "autonomyEligible": 0
   },
@@ -13,6 +13,13 @@
     "minimumAutonomyStreak": 3
   },
   "recentRuns": [
+    {
+      "assessedAt": "2026-03-30T05:52:05.267Z",
+      "sourceHealthy": true,
+      "hasRealAnalyticsCoverage": false,
+      "coldStartOverrideEligible": false,
+      "eligibleForAutoDeployNow": false
+    },
     {
       "assessedAt": "2026-03-28T04:01:02.368Z",
       "sourceHealthy": true,

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-28T03:54:13.810Z",
+  "checkedAt": "2026-03-30T05:51:42.422Z",
   "status": "healthy",
   "stability": {
     "status": "earning-trust",
@@ -20,10 +20,16 @@
       "freshSeedCount": 3,
       "staleSeedCount": 0,
       "error": null,
-      "healthyStreak": 4,
-      "nonFallbackStreak": 4,
+      "healthyStreak": 5,
+      "nonFallbackStreak": 5,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-03-30T05:51:42.422Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 3
+        },
         {
           "checkedAt": "2026-03-28T03:54:13.810Z",
           "status": "healthy",
@@ -63,10 +69,16 @@
       "strongestMagnitude": 5.4,
       "largeCount": 14,
       "error": null,
-      "healthyStreak": 3,
-      "nonFallbackStreak": 3,
+      "healthyStreak": 4,
+      "nonFallbackStreak": 4,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-03-30T05:51:42.422Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-03-28T03:54:13.810Z",
           "status": "healthy",
@@ -101,10 +113,16 @@
       "recentPeakKp": 3,
       "alertLevel": "quiet",
       "error": null,
-      "healthyStreak": 1,
-      "nonFallbackStreak": 2,
+      "healthyStreak": 2,
+      "nonFallbackStreak": 3,
       "stable": false,
       "recentRuns": [
+        {
+          "checkedAt": "2026-03-30T05:51:42.422Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-03-28T03:54:13.810Z",
           "status": "healthy",

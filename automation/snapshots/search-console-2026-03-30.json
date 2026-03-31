@@ -1,0 +1,80 @@
+{
+  "capturedAt": "2026-03-30T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-29T00:00:00.000Z",
+    "end": "2026-03-30T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": false,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/live",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 860,
+      "searchCtr": 0.0488,
+      "avgPosition": 11.8,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from Search Console-style export."
+    },
+    {
+      "path": "/live/space",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 590,
+      "searchCtr": 0.0627,
+      "avgPosition": 9.6,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from Search Console-style export."
+    },
+    {
+      "path": "/events/nasa-live-programming",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 410,
+      "searchCtr": 0.0682,
+      "avgPosition": 8.9,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from Search Console-style export."
+    },
+    {
+      "path": "/events/upcoming-launch-window",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 190,
+      "searchCtr": 0.0315,
+      "avgPosition": 18.4,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from Search Console-style export."
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 480,
+      "searchCtr": 0.05,
+      "avgPosition": 10.2,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from Search Console-style export."
+    }
+  ]
+}

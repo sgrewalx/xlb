@@ -1,0 +1,93 @@
+{
+  "capturedAt": "2026-03-30T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-29T00:00:00.000Z",
+    "end": "2026-03-30T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": false,
+    "ga4": true,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/live",
+      "pageviews": 231,
+      "visits": 162,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 39,
+      "revenueUsd": 0,
+      "engagementScore": 73,
+      "decision": "review",
+      "notes": "Imported from GA4-style export."
+    },
+    {
+      "path": "/live/space",
+      "pageviews": 152,
+      "visits": 109,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 36,
+      "revenueUsd": 0,
+      "engagementScore": 78,
+      "decision": "review",
+      "notes": "Imported from GA4-style export."
+    },
+    {
+      "path": "/live/earth",
+      "pageviews": 91,
+      "visits": 72,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 10,
+      "revenueUsd": 0,
+      "engagementScore": 58,
+      "decision": "review",
+      "notes": "Imported from GA4-style export."
+    },
+    {
+      "path": "/events/nasa-live-programming",
+      "pageviews": 119,
+      "visits": 86,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 31,
+      "revenueUsd": 0,
+      "engagementScore": 80,
+      "decision": "review",
+      "notes": "Imported from GA4-style export."
+    },
+    {
+      "path": "/events/upcoming-launch-window",
+      "pageviews": 45,
+      "visits": 32,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 6,
+      "revenueUsd": 0,
+      "engagementScore": 47,
+      "decision": "review",
+      "notes": "Imported from GA4-style export."
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "pageviews": 112,
+      "visits": 89,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 26,
+      "revenueUsd": 0,
+      "engagementScore": 78,
+      "decision": "review",
+      "notes": "Imported from GA4-style export."
+    }
+  ]
+}
