@@ -9,6 +9,13 @@ permissions:
   contents: write
   pull-requests: write
 
+env:
+  GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
+  SEARCH_CONSOLE_SITE_URL: ${{ vars.SEARCH_CONSOLE_SITE_URL }}
+  XLB_GA4_LOOKBACK_DAYS: ${{ vars.XLB_GA4_LOOKBACK_DAYS }}
+  XLB_SEARCH_CONSOLE_LAG_DAYS: ${{ vars.XLB_SEARCH_CONSOLE_LAG_DAYS }}
+  XLB_SEARCH_CONSOLE_LOOKBACK_DAYS: ${{ vars.XLB_SEARCH_CONSOLE_LOOKBACK_DAYS }}
+
 jobs:
   refresh-live-analytics:
     runs-on: ubuntu-latest
@@ -29,11 +36,28 @@ jobs:
       - name: Compute snapshot date
         run: echo "XLB_SNAPSHOT_DATE=$(date -u +%F)" >> "$GITHUB_ENV"
 
-      - name: Import GA4 snapshot
-        run: npm run automation:import-ga4
+      - name: Prepare Google service account
+        if: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON != '' }}
+        run: |
+          CREDENTIALS_FILE="${RUNNER_TEMP}/google-service-account.json"
+          printf '%s' '${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}' > "${CREDENTIALS_FILE}"
+          echo "GOOGLE_APPLICATION_CREDENTIALS=${CREDENTIALS_FILE}" >> "$GITHUB_ENV"
 
-      - name: Import Search Console snapshot
-        run: npm run automation:import-search-console
+      - name: Capture GA4 snapshot
+        run: |
+          if [ -n "${GOOGLE_APPLICATION_CREDENTIALS:-}" ] && [ -n "${GA4_PROPERTY_ID:-}" ]; then
+            npm run automation:fetch-ga4
+          else
+            npm run automation:import-ga4
+          fi
+
+      - name: Capture Search Console snapshot
+        run: |
+          if [ -n "${GOOGLE_APPLICATION_CREDENTIALS:-}" ] && [ -n "${SEARCH_CONSOLE_SITE_URL:-}" ]; then
+            npm run automation:fetch-search-console
+          else
+            npm run automation:import-search-console
+          fi
 
       - name: Merge analytics snapshots
         run: npm run automation:merge-analytics

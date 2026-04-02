@@ -49,6 +49,34 @@ Current tracked GA4 behaviors in the app:
 - `watch_source` outbound clicks
 - `open_source` outbound clicks
 
+## Automated Production Ingestion
+
+The site already emits real GA4 telemetry in production.
+To make the **automation loop** consume real analytics, configure:
+
+- GitHub secret: `GOOGLE_SERVICE_ACCOUNT_JSON`
+- GitHub variable: `GA4_PROPERTY_ID`
+- GitHub variable: `SEARCH_CONSOLE_SITE_URL`
+
+Optional tuning variables:
+
+- `XLB_GA4_LOOKBACK_DAYS`
+- `XLB_SEARCH_CONSOLE_LAG_DAYS`
+- `XLB_SEARCH_CONSOLE_LOOKBACK_DAYS`
+
+The refresh workflow will then prefer:
+
+- `npm run automation:fetch-ga4`
+- `npm run automation:fetch-search-console`
+
+and fall back to the existing sample/import path only when the Google credentials or IDs are missing.
+
+Important setup notes:
+
+- the GA4 service account must have access to the GA4 property
+- the same service account email must be added to the Search Console property
+- without those permissions, the workflow will keep using fallback imports
+
 ### 1. Import a normalized snapshot
 
 Use when you already have data in the normalized snapshot shape:
@@ -68,6 +96,20 @@ npm run automation:merge-analytics
 ```
 
 The merge step produces a single combined snapshot that the ranking job can use.
+
+### 2b. Fetch live GA4 and Search Console data via Google APIs
+
+Use when Google service-account credentials and property IDs are available:
+
+```bash
+GOOGLE_APPLICATION_CREDENTIALS=/absolute/path/to/google-service-account.json
+GA4_PROPERTY_ID=123456789
+SEARCH_CONSOLE_SITE_URL=https://xlb.codemachine.in/
+XLB_SNAPSHOT_DATE=2026-04-02
+npm run automation:fetch-ga4
+npm run automation:fetch-search-console
+npm run automation:merge-analytics
+```
 
 Suggested local workflow for real exports:
 

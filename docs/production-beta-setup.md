@@ -21,6 +21,18 @@ Optional repository variable for supervised beta automation:
   - when enabled, `main` pushes may auto-deploy even if readiness is only `review-required`
   - truly `blocked` deploys still fail
 
+Optional secret and variables for real analytics ingestion in automation:
+
+- secret: `GOOGLE_SERVICE_ACCOUNT_JSON`
+- variable: `GA4_PROPERTY_ID`
+- variable: `SEARCH_CONSOLE_SITE_URL`
+
+Recommended optional variables:
+
+- `XLB_GA4_LOOKBACK_DAYS=1`
+- `XLB_SEARCH_CONSOLE_LAG_DAYS=2`
+- `XLB_SEARCH_CONSOLE_LOOKBACK_DAYS=7`
+
 Current deploy environment values live in [deploy.yml](/home/sg/cmt7/xlb/.github/workflows/deploy.yml):
 
 - `SITE_BUCKET`
