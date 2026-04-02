@@ -1,4 +1,5 @@
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
+import { formatTopicTitle, summarizeTopic } from "../shared/live-topic-copy.mjs";
 import { fetchNasaLaunchSeeds } from "./fetch-nasa-launches.mjs";
 import { fetchNoaaSpaceWeatherSeeds } from "./fetch-noaa-space-weather.mjs";
 import { fetchUsgsEarthquakeSeeds } from "./fetch-usgs-earthquakes.mjs";
@@ -202,9 +203,9 @@ function buildTopics(events, scoreMap, updatedAt) {
 
     return {
       slug: topic,
-      title: toTitle(topic),
+      title: formatTopicTitle(topic),
       category,
-      summary: summarizeTopic(items),
+      summary: summarizeTopic(items, scoreMap),
       eventCount: items.length,
       promotedEventCount: promotedCount,
       bestScore,
@@ -225,19 +226,6 @@ function tunePriority(priority, recommendation) {
 
   return priority;
 }
-
-function summarizeTopic(items) {
-  const statusLabels = [...new Set(items.map((item) => item.status))].join(", ");
-  return `Automation monitors ${items.length} event record${items.length === 1 ? "" : "s"} in this topic. Current states: ${statusLabels}.`;
-}
-
-function toTitle(value) {
-  return value
-    .split("-")
-    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
-    .join(" ");
-}
-
 main().catch((error) => {
   console.error(error instanceof Error ? error.message : String(error));
   process.exitCode = 1;

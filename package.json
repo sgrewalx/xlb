@@ -20,6 +20,8 @@
     "automation:rank-live": "node automation/rank-live-events/run.mjs",
     "automation:fetch-cloudflare": "node automation/capture-analytics/fetch-cloudflare.mjs",
     "automation:live-events": "node automation/refresh-live-events/run.mjs",
+    "automation:apply-low-risk-fixes": "node automation/content-audit/apply-low-risk-fixes.mjs",
+    "automation:content-audit": "node automation/content-audit/run.mjs",
     "automation:source-health": "node automation/refresh-live-events/health-check.mjs",
     "automation:assess-live-risk": "node automation/governance/assess-live-risk.mjs",
     "automation:check-deploy-readiness": "node automation/governance/check-deploy-readiness.mjs",

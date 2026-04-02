@@ -1,24 +1,24 @@
 {
-  "assessedAt": "2026-03-30T05:52:05.267Z",
+  "assessedAt": "2026-04-02T06:00:49.400Z",
   "level": "medium",
   "approval": "pr-required",
   "analyticsSignals": {
     "hasSnapshot": true,
     "hasRealAnalyticsCoverage": false,
-    "hasDecisionCoverage": false,
+    "hasDecisionCoverage": true,
     "coldStartOverrideEligible": false,
-    "heuristicOverrideEligible": false,
+    "heuristicOverrideEligible": true,
     "eventCoverageRatio": 0.33,
     "ga4Enabled": true,
-    "searchConsoleEnabled": false
+    "searchConsoleEnabled": true
   },
   "autonomyState": {
-    "status": "cold-start",
+    "status": "earning-trust",
     "isAutoDeployEligible": false,
     "streaks": {
-      "healthySource": 3,
+      "healthySource": 4,
       "analyticsCoverage": 0,
-      "autonomyEligible": 0
+      "autonomyEligible": 1
     },
     "thresholds": {
       "minimumHealthyStreak": 3,
@@ -27,7 +27,6 @@
     }
   },
   "reasons": [
-    "source stability streak not reached yet",
-    "analytics coverage is still too thin for auto-deploy"
+    "autonomy maturity streak not reached yet (1/3)"
   ]
 }

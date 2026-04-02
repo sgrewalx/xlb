@@ -1,0 +1,56 @@
+{
+  "updatedAt": "2026-04-02T06:00:08.433Z",
+  "summary": {
+    "auditedEventCount": 6,
+    "auditedTopicCount": 4,
+    "findingCount": 4,
+    "lowRiskAutofixableCount": 0,
+    "mediumRiskQueueCount": 4,
+    "snapshotPageCount": 6
+  },
+  "findings": [
+    {
+      "id": "supporting-context-aurora-watch",
+      "type": "strengthen_supporting_context",
+      "risk": "medium",
+      "autofixEligible": false,
+      "targetPaths": [
+        "/events/aurora-watch",
+        "/topics/space-weather"
+      ],
+      "summary": "Aurora watch is still in review with no real views or impressions, so it needs stronger supporting context before expansion."
+    },
+    {
+      "id": "supporting-context-nasa-s-northrop-grumman-crs-24",
+      "type": "strengthen_supporting_context",
+      "risk": "medium",
+      "autofixEligible": false,
+      "targetPaths": [
+        "/events/nasa-s-northrop-grumman-crs-24",
+        "/topics/launches"
+      ],
+      "summary": "NASA’s Northrop Grumman CRS-24 is still in review with no real views or impressions, so it needs stronger supporting context before expansion."
+    },
+    {
+      "id": "supporting-context-nasa-s-boeing-starliner-1",
+      "type": "strengthen_supporting_context",
+      "risk": "medium",
+      "autofixEligible": false,
+      "targetPaths": [
+        "/events/nasa-s-boeing-starliner-1",
+        "/topics/launches"
+      ],
+      "summary": "NASA’s Boeing Starliner-1 is still in review with no real views or impressions, so it needs stronger supporting context before expansion."
+    },
+    {
+      "id": "source-stability-noaa-space-weather",
+      "type": "source_stability_watch",
+      "risk": "medium",
+      "autofixEligible": false,
+      "targetPaths": [
+        "/automation/reports/live-source-health.json"
+      ],
+      "summary": "noaa-space-weather is still earning trust, so dependent pages should stay supervised until the healthy streak improves."
+    }
+  ]
+}

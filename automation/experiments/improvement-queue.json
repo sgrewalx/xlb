@@ -1,0 +1,64 @@
+{
+  "updatedAt": "2026-04-02T06:00:08.433Z",
+  "items": [
+    {
+      "id": "imp-supporting-context-aurora-watch",
+      "title": "Strengthen supporting context for aurora-watch",
+      "ownerAgent": "improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "Aurora watch is still in review with no real views or impressions, so it needs stronger supporting context before expansion.",
+      "targetPaths": [
+        "/events/aurora-watch",
+        "/topics/space-weather"
+      ],
+      "successMetric": "The page earns first impressions, clicks, or stronger downstream engagement after supporting context is improved.",
+      "rollbackPlan": "Keep the page in review and avoid further promotion if the supporting-context experiment stays weak.",
+      "notes": "Leave queued for supervised follow-up until real traffic data is available."
+    },
+    {
+      "id": "imp-supporting-context-nasa-s-northrop-grumman-crs-24",
+      "title": "Strengthen supporting context for nasa-s-northrop-grumman-crs-24",
+      "ownerAgent": "improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "NASA’s Northrop Grumman CRS-24 is still in review with no real views or impressions, so it needs stronger supporting context before expansion.",
+      "targetPaths": [
+        "/events/nasa-s-northrop-grumman-crs-24",
+        "/topics/launches"
+      ],
+      "successMetric": "The page earns first impressions, clicks, or stronger downstream engagement after supporting context is improved.",
+      "rollbackPlan": "Keep the page in review and avoid further promotion if the supporting-context experiment stays weak.",
+      "notes": "Leave queued for supervised follow-up until real traffic data is available."
+    },
+    {
+      "id": "imp-supporting-context-nasa-s-boeing-starliner-1",
+      "title": "Strengthen supporting context for nasa-s-boeing-starliner-1",
+      "ownerAgent": "improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "NASA’s Boeing Starliner-1 is still in review with no real views or impressions, so it needs stronger supporting context before expansion.",
+      "targetPaths": [
+        "/events/nasa-s-boeing-starliner-1",
+        "/topics/launches"
+      ],
+      "successMetric": "The page earns first impressions, clicks, or stronger downstream engagement after supporting context is improved.",
+      "rollbackPlan": "Keep the page in review and avoid further promotion if the supporting-context experiment stays weak.",
+      "notes": "Leave queued for supervised follow-up until real traffic data is available."
+    },
+    {
+      "id": "imp-source-stability-noaa-space-weather",
+      "title": "Keep noaa-space-weather under supervised watch",
+      "ownerAgent": "improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "noaa-space-weather is still earning trust, so dependent pages should stay supervised until the healthy streak improves.",
+      "targetPaths": [
+        "/automation/reports/live-source-health.json"
+      ],
+      "successMetric": "The page earns first impressions, clicks, or stronger downstream engagement after supporting context is improved.",
+      "rollbackPlan": "Keep the page in review and avoid further promotion if the supporting-context experiment stays weak.",
+      "notes": "Leave queued for supervised follow-up until real traffic data is available."
+    }
+  ]
+}

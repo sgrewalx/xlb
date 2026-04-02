@@ -5,6 +5,9 @@ const RISK_FILE = new URL("../../automation/reports/live-risk-report.json", impo
 const DEPLOY_FILE = new URL("../../automation/reports/deploy-readiness.json", import.meta.url);
 const AUTONOMY_FILE = new URL("../../automation/reports/autonomy-state.json", import.meta.url);
 const SCOREBOARD_FILE = new URL("../../public/content/live/scoreboard.json", import.meta.url);
+const AUDIT_FILE = new URL("../../automation/reports/content-audit.json", import.meta.url);
+const AUTOFIX_FILE = new URL("../../automation/reports/low-risk-autofix.json", import.meta.url);
+const IMPROVEMENT_QUEUE_FILE = new URL("../../automation/experiments/improvement-queue.json", import.meta.url);
 
 async function readJson(url) {
   const raw = await readFile(url, "utf8");
@@ -18,13 +21,16 @@ function titleCase(value) {
 }
 
 async function main() {
-  const [health, risk, deploy, autonomy, scoreboard, snapshot] = await Promise.all([
+  const [health, risk, deploy, autonomy, scoreboard, snapshot, audit, autofix, improvementQueue] = await Promise.all([
     readJson(HEALTH_FILE),
     readJson(RISK_FILE),
     readJson(DEPLOY_FILE),
     readJson(AUTONOMY_FILE),
     readJson(SCOREBOARD_FILE),
     readLatestMergedSnapshot(),
+    readOptionalJson(AUDIT_FILE),
+    readOptionalJson(AUTOFIX_FILE),
+    readOptionalJson(IMPROVEMENT_QUEUE_FILE),
   ]);
 
   const topItems = Array.isArray(scoreboard.items) ? scoreboard.items.slice(0, 5) : [];
@@ -39,6 +45,9 @@ async function main() {
         .slice(0, 5)
     : [];
   const nextActions = buildNextActions({ health, risk, topItems, expandItems });
+  const queuedImprovements = Array.isArray(improvementQueue?.items)
+    ? improvementQueue.items.filter((item) => item.status === "queued").slice(0, 5)
+    : [];
 
   const markdown = [
     "## XLB Ops Summary",
@@ -50,6 +59,8 @@ async function main() {
     `- Source stability: **${titleCase(health.stability?.status)}**`,
     `- Analytics coverage: **${Math.round(Number(risk.analyticsSignals?.eventCoverageRatio ?? 0) * 100)}%**`,
     `- Analytics sources: **GA4 ${risk.analyticsSignals?.ga4Enabled ? "on" : "off"} / Search Console ${risk.analyticsSignals?.searchConsoleEnabled ? "on" : "off"}**`,
+    `- Audit findings: **${audit?.summary?.findingCount ?? 0}**`,
+    `- Low-risk autofixes applied: **${autofix?.appliedCount ?? 0}**`,
     "",
     "### Current Blockers",
     ...reasons.map((reason) => `- ${reason}`),
@@ -83,6 +94,12 @@ async function main() {
     "### Recommended Next Actions",
     ...nextActions.map((action) => `- ${action}`),
     "",
+    "### Improvement Queue",
+    ...queuedImprovements.map(
+      (item) => `- ${item.title} | risk ${item.risk} | targets ${item.targetPaths.join(", ")}`,
+    ),
+    ...(!queuedImprovements.length ? ["- no queued medium/high follow-ups remain after low-risk autofixes"] : []),
+    "",
   ].join("\n");
 
   console.log(markdown);
@@ -105,6 +122,14 @@ async function readLatestMergedSnapshot() {
   }
 
   return readJson(new URL(`../../automation/snapshots/${latestMerged}`, import.meta.url));
+}
+
+async function readOptionalJson(url) {
+  try {
+    return await readJson(url);
+  } catch {
+    return null;
+  }
 }
 
 function buildNextActions({ health, risk, topItems, expandItems }) {

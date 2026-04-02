@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-03-30T05:51:44.903Z",
+  "updatedAt": "2026-04-02T05:59:34.514Z",
   "items": [
     {
       "slug": "earthquakes",
       "title": "Earthquakes",
       "category": "earth",
-      "summary": "Automation monitors 1 event record in this topic. Current states: monitoring.",
+      "summary": "USGS Earthquake Hazards Program keeps this topic current with source-backed global quake monitoring and rapid revisit value when seismic activity spikes.",
       "eventCount": 1,
       "promotedEventCount": 1,
       "bestScore": 129,
       "recommendation": "hold",
-      "updatedAt": "2026-03-30T05:51:44.903Z"
+      "updatedAt": "2026-04-02T05:59:34.514Z"
     },
     {
       "slug": "nasa",
-      "title": "Nasa",
+      "title": "NASA",
       "category": "space",
-      "summary": "Automation monitors 1 event record in this topic. Current states: watch.",
+      "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
       "eventCount": 1,
       "promotedEventCount": 1,
       "bestScore": 131,
       "recommendation": "hold",
-      "updatedAt": "2026-03-30T05:51:44.903Z"
-    },
-    {
-      "slug": "launches",
-      "title": "Launches",
-      "category": "space",
-      "summary": "Automation monitors 3 event records in this topic. Current states: upcoming.",
-      "eventCount": 3,
-      "promotedEventCount": 3,
-      "bestScore": 52,
-      "recommendation": "hold",
-      "updatedAt": "2026-03-30T05:51:44.903Z"
+      "updatedAt": "2026-04-02T05:59:34.514Z"
     },
     {
       "slug": "space-weather",
       "title": "Space Weather",
       "category": "space",
-      "summary": "Automation monitors 1 event record in this topic. Current states: monitoring.",
+      "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
       "eventCount": 1,
       "promotedEventCount": 1,
       "bestScore": 52,
       "recommendation": "hold",
-      "updatedAt": "2026-03-30T05:51:44.903Z"
+      "updatedAt": "2026-04-02T05:59:34.514Z"
+    },
+    {
+      "slug": "launches",
+      "title": "Launches",
+      "category": "space",
+      "summary": "3 source-backed launch pages are active here, led by NASA’s Boeing Starliner-1 around Apr 1.",
+      "eventCount": 3,
+      "promotedEventCount": 3,
+      "bestScore": 52,
+      "recommendation": "hold",
+      "updatedAt": "2026-04-02T05:59:34.514Z"
     }
   ]
 }

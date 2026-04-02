@@ -44,6 +44,12 @@ jobs:
       - name: Refresh live event manifests
         run: npm run automation:live-events
 
+      - name: Apply low-risk autofixes
+        run: npm run automation:apply-low-risk-fixes
+
+      - name: Run content audit
+        run: npm run automation:content-audit
+
       - name: Check source health
         run: XLB_FAIL_ON_DEGRADED_SOURCES=1 npm run automation:source-health
 
@@ -59,7 +65,7 @@ jobs:
       - name: Detect changes
         id: changes
         run: |
-          if git diff --quiet -- public/content/live public/content/topics automation/snapshots automation/reports public/sitemap.xml; then
+          if git diff --quiet -- public/content/live public/content/topics automation/snapshots automation/reports automation/experiments public/sitemap.xml; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -86,7 +92,7 @@ jobs:
       - name: Commit analytics refresh
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git add public/content/live public/content/topics automation/snapshots automation/reports public/sitemap.xml
+          git add public/content/live public/content/topics automation/snapshots automation/reports automation/experiments public/sitemap.xml
           git commit -m "chore: refresh live analytics and event rankings"
 
       - name: Push automation branch

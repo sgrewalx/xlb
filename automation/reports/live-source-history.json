@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-03-30T05:51:42.422Z",
-  "allSourcesStable": false,
+  "checkedAt": "2026-04-02T06:00:49.225Z",
+  "allSourcesStable": true,
   "thresholds": {
     "minimumStableRuns": 3
   },
@@ -16,10 +16,16 @@
       "freshSeedCount": 3,
       "staleSeedCount": 0,
       "error": null,
-      "healthyStreak": 5,
-      "nonFallbackStreak": 5,
+      "healthyStreak": 6,
+      "nonFallbackStreak": 6,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-02T06:00:49.225Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 3
+        },
         {
           "checkedAt": "2026-03-30T05:51:42.422Z",
           "status": "healthy",
@@ -59,16 +65,22 @@
       "earthquakeItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 341,
+      "fetchedSeedCount": 321,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 5.4,
-      "largeCount": 14,
+      "strongestMagnitude": 7.4,
+      "largeCount": 26,
       "error": null,
-      "healthyStreak": 4,
-      "nonFallbackStreak": 4,
+      "healthyStreak": 5,
+      "nonFallbackStreak": 5,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-02T06:00:49.225Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-03-30T05:51:42.422Z",
           "status": "healthy",
@@ -105,14 +117,20 @@
       "fetchedSeedCount": 359,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 2,
-      "recentPeakKp": 3,
-      "alertLevel": "quiet",
+      "latestKp": 4,
+      "recentPeakKp": 5,
+      "alertLevel": "storm",
       "error": null,
-      "healthyStreak": 2,
-      "nonFallbackStreak": 3,
-      "stable": false,
+      "healthyStreak": 3,
+      "nonFallbackStreak": 4,
+      "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-02T06:00:49.225Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-03-30T05:51:42.422Z",
           "status": "healthy",
