@@ -73,8 +73,8 @@ export function trackOutboundClick({ destination, label, category, context }: Ou
   }
 
   ensureAnalytics();
-  window.gtag?.("event", "click", {
-    event_category: category,
+  window.gtag?.("event", category, {
+    event_category: "outbound_link",
     event_label: label,
     link_url: destination,
     link_domain: safeDomain(destination),
