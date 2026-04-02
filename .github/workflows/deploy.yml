@@ -58,6 +58,11 @@ jobs:
             FAIL_ON_REVIEW=0
           fi
 
+          if [ "${{ vars.ALLOW_SOFT_BETA_AUTO_DEPLOY }}" = "true" ]; then
+            echo "Repository soft-beta auto-deploy override enabled for review-required readiness."
+            FAIL_ON_REVIEW=0
+          fi
+
           XLB_FAIL_ON_BLOCKED_DEPLOY=1 XLB_FAIL_ON_REVIEW_DEPLOY=$FAIL_ON_REVIEW npm run automation:check-deploy-readiness
 
       - name: Publish ops summary

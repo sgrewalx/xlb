@@ -14,6 +14,13 @@ The deploy workflow already expects:
 
 - `AWS_DEPLOY_ROLE_ARN`
 
+Optional repository variable for supervised beta automation:
+
+- `ALLOW_SOFT_BETA_AUTO_DEPLOY`
+  - set to `true` in GitHub `Settings -> Secrets and variables -> Actions -> Variables`
+  - when enabled, `main` pushes may auto-deploy even if readiness is only `review-required`
+  - truly `blocked` deploys still fail
+
 Current deploy environment values live in [deploy.yml](/home/sg/cmt7/xlb/.github/workflows/deploy.yml):
 
 - `SITE_BUCKET`
@@ -66,7 +73,8 @@ npm run build
 For soft beta, keep the following true:
 
 - live-event automation remains PR-based
-- deployment remains supervised by a human
+- deployment remains blocked when readiness is `blocked`
+- deployment may be manually approved or repo-variable-enabled while readiness is `review-required`
 - automation summaries are reviewed in GitHub Actions
 - local ops view remains available at `/__ops` only in development
 
