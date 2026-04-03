@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-02T02:49:04.136Z",
+  "updatedAt": "2026-04-03T02:51:48.113Z",
   "items": [
-    {
-      "id": "bruce-lee",
-      "quote": "Absorb what is useful, discard what is not, add what is uniquely your own.",
-      "author": "Bruce Lee",
-      "context": "Focus"
-    },
     {
       "id": "jane-jacobs",
       "quote": "New ideas need old buildings.",
@@ -30,6 +24,12 @@
       "quote": "If you want to fly, you have to give up the things that weigh you down.",
       "author": "Toni Morrison",
       "context": "Lift"
+    },
+    {
+      "id": "mary-oliver",
+      "quote": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver",
+      "context": "Life"
     }
   ]
 }
