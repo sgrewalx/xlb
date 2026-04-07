@@ -1,11 +1,11 @@
 {
-  "assessedAt": "2026-04-02T06:00:49.400Z",
-  "status": "earning-trust",
+  "assessedAt": "2026-04-07T08:51:53.158Z",
+  "status": "cold-start",
   "isAutoDeployEligible": false,
   "streaks": {
-    "healthySource": 4,
+    "healthySource": 1,
     "analyticsCoverage": 0,
-    "autonomyEligible": 1
+    "autonomyEligible": 0
   },
   "thresholds": {
     "minimumHealthyStreak": 3,
@@ -13,6 +13,27 @@
     "minimumAutonomyStreak": 3
   },
   "recentRuns": [
+    {
+      "assessedAt": "2026-04-07T08:51:53.158Z",
+      "sourceHealthy": true,
+      "hasRealAnalyticsCoverage": false,
+      "coldStartOverrideEligible": false,
+      "eligibleForAutoDeployNow": false
+    },
+    {
+      "assessedAt": "2026-04-07T08:50:49.840Z",
+      "sourceHealthy": false,
+      "hasRealAnalyticsCoverage": false,
+      "coldStartOverrideEligible": false,
+      "eligibleForAutoDeployNow": false
+    },
+    {
+      "assessedAt": "2026-04-07T08:50:01.804Z",
+      "sourceHealthy": false,
+      "hasRealAnalyticsCoverage": false,
+      "coldStartOverrideEligible": false,
+      "eligibleForAutoDeployNow": false
+    },
     {
       "assessedAt": "2026-04-02T06:00:49.400Z",
       "sourceHealthy": true,

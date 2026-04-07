@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-04-02T06:00:49.225Z",
-  "allSourcesStable": true,
+  "checkedAt": "2026-04-07T08:51:52.739Z",
+  "allSourcesStable": false,
   "thresholds": {
     "minimumStableRuns": 3
   },
@@ -9,17 +9,35 @@
       "id": "nasa-launch-schedule",
       "status": "healthy",
       "fallbackUsed": false,
-      "launchItemCount": 3,
+      "launchItemCount": 2,
       "placeholderCount": 0,
       "staleUpcomingCount": 0,
       "fetchedSeedCount": 3,
-      "freshSeedCount": 3,
-      "staleSeedCount": 0,
+      "freshSeedCount": 2,
+      "staleSeedCount": 1,
       "error": null,
-      "healthyStreak": 6,
-      "nonFallbackStreak": 6,
-      "stable": true,
+      "healthyStreak": 1,
+      "nonFallbackStreak": 9,
+      "stable": false,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-07T08:51:52.739Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 2
+        },
+        {
+          "checkedAt": "2026-04-07T08:50:49.259Z",
+          "status": "degraded",
+          "fallbackUsed": false,
+          "freshSeedCount": 3
+        },
+        {
+          "checkedAt": "2026-04-07T08:50:01.393Z",
+          "status": "degraded",
+          "fallbackUsed": false,
+          "freshSeedCount": 3
+        },
         {
           "checkedAt": "2026-04-02T06:00:49.225Z",
           "status": "healthy",
@@ -65,16 +83,34 @@
       "earthquakeItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 321,
+      "fetchedSeedCount": 263,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 7.4,
-      "largeCount": 26,
+      "strongestMagnitude": 5.9,
+      "largeCount": 6,
       "error": null,
-      "healthyStreak": 5,
-      "nonFallbackStreak": 5,
+      "healthyStreak": 8,
+      "nonFallbackStreak": 8,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-07T08:51:52.739Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
+        {
+          "checkedAt": "2026-04-07T08:50:49.259Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
+        {
+          "checkedAt": "2026-04-07T08:50:01.393Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-04-02T06:00:49.225Z",
           "status": "healthy",
@@ -114,17 +150,35 @@
       "spaceWeatherItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 359,
+      "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 4,
-      "recentPeakKp": 5,
-      "alertLevel": "storm",
+      "latestKp": 1,
+      "recentPeakKp": 2,
+      "alertLevel": "quiet",
       "error": null,
-      "healthyStreak": 3,
-      "nonFallbackStreak": 4,
+      "healthyStreak": 6,
+      "nonFallbackStreak": 7,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-07T08:51:52.739Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
+        {
+          "checkedAt": "2026-04-07T08:50:49.259Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
+        {
+          "checkedAt": "2026-04-07T08:50:01.393Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-04-02T06:00:49.225Z",
           "status": "healthy",

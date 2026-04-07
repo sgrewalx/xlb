@@ -73,8 +73,9 @@ async function main() {
 
 export function getLaunchDegradedReasons(launchItems) {
   const degradedReasons = [];
+  const relevantLaunchItems = launchItems.filter((item) => item.status === "upcoming");
 
-  if (launchItems.length < 2) {
+  if (relevantLaunchItems.length < 2) {
     degradedReasons.push("launch topic has fewer than 2 source-backed events");
   }
 
@@ -83,7 +84,7 @@ export function getLaunchDegradedReasons(launchItems) {
     degradedReasons.push("launch topic still contains placeholder events");
   }
 
-  const staleUpcomingItems = launchItems.filter((item) => {
+  const staleUpcomingItems = relevantLaunchItems.filter((item) => {
     const now = Date.now();
     const startsAt = Date.parse(item.startsAt);
     return Number.isFinite(startsAt) && startsAt < now - 2 * 24 * 60 * 60 * 1000;
@@ -132,6 +133,10 @@ function countPlaceholders(items) {
 
 function countStaleUpcoming(items) {
   return items.filter((item) => {
+    if (item.status !== "upcoming") {
+      return false;
+    }
+
     const now = Date.now();
     const startsAt = Date.parse(item.startsAt);
     return Number.isFinite(startsAt) && startsAt < now - 2 * 24 * 60 * 60 * 1000;

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T05:59:34.514Z",
+  "updatedAt": "2026-04-07T08:51:52.207Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 129,
       "recommendation": "hold",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     },
     {
       "slug": "nasa",
@@ -21,7 +21,18 @@
       "promotedEventCount": 1,
       "bestScore": 131,
       "recommendation": "hold",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "updatedAt": "2026-04-07T08:51:52.207Z"
+    },
+    {
+      "slug": "launches",
+      "title": "Launches",
+      "category": "space",
+      "summary": "2 source-backed launch pages are active here, led by NASA’s Northrop Grumman CRS-24 around Apr 8.",
+      "eventCount": 2,
+      "promotedEventCount": 2,
+      "bestScore": 52,
+      "recommendation": "hold",
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     },
     {
       "slug": "space-weather",
@@ -32,18 +43,7 @@
       "promotedEventCount": 1,
       "bestScore": 52,
       "recommendation": "hold",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
-    },
-    {
-      "slug": "launches",
-      "title": "Launches",
-      "category": "space",
-      "summary": "3 source-backed launch pages are active here, led by NASA’s Boeing Starliner-1 around Apr 1.",
-      "eventCount": 3,
-      "promotedEventCount": 3,
-      "bestScore": 52,
-      "recommendation": "hold",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     }
   ]
 }

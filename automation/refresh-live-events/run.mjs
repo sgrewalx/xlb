@@ -29,6 +29,7 @@ async function main() {
 
       return {
         ...item,
+        status: normalizeEventStatus(item),
         safeToPromote:
           item.safeToPromote && score ? score.recommendation !== "prune" : item.safeToPromote,
         heroPriority: tunePriority(item.heroPriority ?? 0, score?.recommendation),
@@ -226,6 +227,21 @@ function tunePriority(priority, recommendation) {
 
   return priority;
 }
+
+function normalizeEventStatus(item) {
+  if (item.status !== "upcoming") {
+    return item.status;
+  }
+
+  const startsAt = Date.parse(item.startsAt);
+
+  if (!Number.isFinite(startsAt)) {
+    return item.status;
+  }
+
+  return startsAt < Date.now() ? "ended" : item.status;
+}
+
 main().catch((error) => {
   console.error(error instanceof Error ? error.message : String(error));
   process.exitCode = 1;

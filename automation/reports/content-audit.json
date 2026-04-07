@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-02T06:17:47.919Z",
+  "updatedAt": "2026-04-07T08:51:50.186Z",
   "summary": {
     "auditedEventCount": 6,
     "auditedTopicCount": 4,
-    "findingCount": 3,
+    "findingCount": 4,
     "lowRiskAutofixableCount": 0,
-    "mediumRiskQueueCount": 3,
+    "mediumRiskQueueCount": 4,
     "snapshotPageCount": 6
   },
   "findings": [
@@ -41,6 +41,16 @@
         "/topics/launches"
       ],
       "summary": "NASA’s Boeing Starliner-1 is still in review with no real views or impressions, so it needs stronger supporting context before expansion."
+    },
+    {
+      "id": "source-stability-nasa-launch-schedule",
+      "type": "source_stability_watch",
+      "risk": "medium",
+      "autofixEligible": false,
+      "targetPaths": [
+        "/automation/reports/live-source-health.json"
+      ],
+      "summary": "nasa-launch-schedule is still earning trust, so dependent pages should stay supervised until the healthy streak improves."
     }
   ]
 }

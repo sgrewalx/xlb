@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T05:59:34.514Z",
+  "updatedAt": "2026-04-07T08:51:52.207Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-04-02T05:55:25.730Z",
-      "summary": "USGS reported 321 earthquake events in the last 24 hours. Strongest reported event: M7.4 near 126 km WNW of Ternate, Indonesia.",
+      "startsAt": "2026-04-07T08:44:51.680Z",
+      "summary": "USGS reported 263 earthquake events in the last 24 hours. Strongest reported event: M5.9 near Pacific-Antarctic Ridge.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,7 +21,7 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     },
     {
       "id": "space-nasa-live-programming",
@@ -42,28 +42,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
-    },
-    {
-      "id": "space-aurora-watch",
-      "slug": "aurora-watch",
-      "title": "Aurora watch",
-      "status": "monitoring",
-      "category": "space",
-      "topic": "space-weather",
-      "startsAt": "2026-04-02T05:56:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 4. Recent peak reached Kp 5. NOAA SWPC monitoring remains active.",
-      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
-      "sourceName": "NOAA Space Weather Prediction Center",
-      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 95,
-      "rightsProfile": "public-information",
-      "cadence": "continuous",
-      "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     },
     {
       "id": "space-launch-nasa-s-northrop-grumman-crs-24",
@@ -72,7 +51,7 @@
       "status": "upcoming",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-04-08T12:00:00.000Z",
+      "startsAt": "2026-04-08T08:49:00.000Z",
       "summary": "NASA’s Northrop Grumman CRS-24 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -84,28 +63,28 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     },
     {
-      "id": "space-launch-nasa-s-boeing-starliner-1",
-      "slug": "nasa-s-boeing-starliner-1",
-      "title": "NASA’s Boeing Starliner-1",
-      "status": "upcoming",
+      "id": "space-aurora-watch",
+      "slug": "aurora-watch",
+      "title": "Aurora watch",
+      "status": "monitoring",
       "category": "space",
-      "topic": "launches",
-      "startsAt": "2026-04-01T12:00:00.000Z",
-      "summary": "NASA’s Boeing Starliner-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: starliner.",
-      "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/nasas-boeing-starliner-1/",
-      "watchUrl": "https://www.nasa.gov/live",
+      "topic": "space-weather",
+      "startsAt": "2026-04-07T08:47:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
+      "sourceName": "NOAA Space Weather Prediction Center",
+      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 82,
+      "heroPriority": 84,
       "rightsProfile": "public-information",
-      "cadence": "scheduled",
-      "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "cadence": "continuous",
+      "audienceIntent": "monitor-live",
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     },
     {
       "id": "space-launch-nasa-s-spacex-crs-34",
@@ -126,7 +105,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-02T05:59:34.514Z"
+      "updatedAt": "2026-04-07T08:51:52.207Z"
     }
   ]
 }
