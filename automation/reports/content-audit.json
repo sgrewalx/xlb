@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-02T06:00:08.433Z",
+  "updatedAt": "2026-04-02T06:17:47.919Z",
   "summary": {
     "auditedEventCount": 6,
     "auditedTopicCount": 4,
-    "findingCount": 4,
+    "findingCount": 3,
     "lowRiskAutofixableCount": 0,
-    "mediumRiskQueueCount": 4,
+    "mediumRiskQueueCount": 3,
     "snapshotPageCount": 6
   },
   "findings": [
@@ -41,16 +41,6 @@
         "/topics/launches"
       ],
       "summary": "NASA’s Boeing Starliner-1 is still in review with no real views or impressions, so it needs stronger supporting context before expansion."
-    },
-    {
-      "id": "source-stability-noaa-space-weather",
-      "type": "source_stability_watch",
-      "risk": "medium",
-      "autofixEligible": false,
-      "targetPaths": [
-        "/automation/reports/live-source-health.json"
-      ],
-      "summary": "noaa-space-weather is still earning trust, so dependent pages should stay supervised until the healthy streak improves."
     }
   ]
 }
