@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-06T03:21:04.580Z",
+  "updatedAt": "2026-04-07T02:54:09.491Z",
   "items": [
-    {
-      "id": "toni-morrison",
-      "quote": "If you want to fly, you have to give up the things that weigh you down.",
-      "author": "Toni Morrison",
-      "context": "Lift"
-    },
     {
       "id": "mary-oliver",
       "quote": "Tell me, what is it you plan to do with your one wild and precious life?",
@@ -30,6 +24,12 @@
       "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
       "author": "bell hooks",
       "context": "Connection"
+    },
+    {
+      "id": "henri-matisse",
+      "quote": "Creativity takes courage.",
+      "author": "Henri Matisse",
+      "context": "Art"
     }
   ]
 }
