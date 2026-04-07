@@ -37,11 +37,14 @@ jobs:
         run: echo "XLB_SNAPSHOT_DATE=$(date -u +%F)" >> "$GITHUB_ENV"
 
       - name: Prepare Google service account
-        if: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON != '' }}
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
         run: |
-          CREDENTIALS_FILE="${RUNNER_TEMP}/google-service-account.json"
-          printf '%s' '${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}' > "${CREDENTIALS_FILE}"
-          echo "GOOGLE_APPLICATION_CREDENTIALS=${CREDENTIALS_FILE}" >> "$GITHUB_ENV"
+          if [ -n "${GOOGLE_SERVICE_ACCOUNT_JSON:-}" ]; then
+            CREDENTIALS_FILE="${RUNNER_TEMP}/google-service-account.json"
+            printf '%s' "${GOOGLE_SERVICE_ACCOUNT_JSON}" > "${CREDENTIALS_FILE}"
+            echo "GOOGLE_APPLICATION_CREDENTIALS=${CREDENTIALS_FILE}" >> "$GITHUB_ENV"
+          fi
 
       - name: Capture GA4 snapshot
         run: |
