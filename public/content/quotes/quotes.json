@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-08T02:55:38.230Z",
+  "updatedAt": "2026-04-09T02:50:02.152Z",
   "items": [
-    {
-      "id": "octavia-butler",
-      "quote": "All that you touch you change. All that you change changes you.",
-      "author": "Octavia E. Butler",
-      "context": "Growth"
-    },
     {
       "id": "anais-nin",
       "quote": "Life shrinks or expands in proportion to one's courage.",
@@ -30,6 +24,12 @@
       "quote": "Life is either a daring adventure or nothing at all.",
       "author": "Helen Keller",
       "context": "Adventure"
+    },
+    {
+      "id": "maya-angelou",
+      "quote": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "context": "Creation"
     }
   ]
 }
