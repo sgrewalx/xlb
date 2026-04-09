@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
+concurrency:
+  group: refresh-sports
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -54,4 +60,17 @@ jobs:
 
       - name: Push to main
         if: steps.changes.outputs.changed == 'true'
-        run: git push origin HEAD:main
+        run: |
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed; retrying after a short delay..."
+            sleep 5
+          done
+
+          echo "Unable to push refreshed sports manifest after 3 attempts."
+          exit 1
