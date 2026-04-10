@@ -15,6 +15,10 @@ const staticPaths = [
   "/live",
   "/live/space",
   "/live/earth",
+  "/games",
+  "/gallery",
+  "/sports",
+  "/news",
 ];
 
 async function main() {
