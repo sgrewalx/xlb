@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T08:51:52.207Z",
+  "updatedAt": "2026-04-10T02:49:11.578Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -8,31 +8,9 @@
       "summary": "USGS Earthquake Hazards Program keeps this topic current with source-backed global quake monitoring and rapid revisit value when seismic activity spikes.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 129,
+      "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
-    },
-    {
-      "slug": "nasa",
-      "title": "NASA",
-      "category": "space",
-      "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
-      "eventCount": 1,
-      "promotedEventCount": 1,
-      "bestScore": 131,
-      "recommendation": "hold",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
-    },
-    {
-      "slug": "launches",
-      "title": "Launches",
-      "category": "space",
-      "summary": "2 source-backed launch pages are active here, led by NASA’s Northrop Grumman CRS-24 around Apr 8.",
-      "eventCount": 2,
-      "promotedEventCount": 2,
-      "bestScore": 52,
-      "recommendation": "hold",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
+      "updatedAt": "2026-04-10T02:49:11.578Z"
     },
     {
       "slug": "space-weather",
@@ -41,9 +19,31 @@
       "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 52,
+      "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
+      "updatedAt": "2026-04-10T02:49:11.578Z"
+    },
+    {
+      "slug": "nasa",
+      "title": "NASA",
+      "category": "space",
+      "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 83,
+      "recommendation": "hold",
+      "updatedAt": "2026-04-10T02:49:11.578Z"
+    },
+    {
+      "slug": "launches",
+      "title": "Launches",
+      "category": "space",
+      "summary": "2 source-backed launch pages are active here, led by NASA’s Northrop Grumman CRS-24 around Apr 11.",
+      "eventCount": 2,
+      "promotedEventCount": 2,
+      "bestScore": 77,
+      "recommendation": "hold",
+      "updatedAt": "2026-04-10T02:49:11.578Z"
     }
   ]
 }

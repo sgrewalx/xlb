@@ -1,151 +1,21 @@
 {
-  "updatedAt": "2026-04-10T01:40:45.852Z",
-  "sourceSnapshot": "2026-03-30T06:00:00.000Z",
+  "updatedAt": "2026-04-10T02:49:10.677Z",
+  "sourceSnapshot": "2026-04-10T06:00:00.000Z",
   "inputQuality": {
-    "quality": "fallback-import",
-    "hasLiveGa4": false,
+    "quality": "live-api",
+    "hasLiveGa4": true,
     "hasLiveSearchConsole": false,
-    "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
+    "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 6,
+    "pageCount": 8,
     "sitemapPathCount": 22,
-    "opportunityCount": 12,
+    "opportunityCount": 9,
     "searchOpportunityCount": 0,
-    "engagementOpportunityCount": 4,
-    "indexWatchCount": 8
+    "engagementOpportunityCount": 0,
+    "indexWatchCount": 9
   },
   "opportunities": [
-    {
-      "id": "traffic-engagement_expand-live",
-      "path": "/live",
-      "signal": "engagement_expand",
-      "score": 235,
-      "risk": "low",
-      "title": "Expand high-engagement path /live",
-      "hypothesis": "/live shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
-      "metrics": {
-        "pageviews": 231,
-        "visits": 162,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 39,
-        "engagementScore": 73
-      },
-      "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
-      }
-    },
-    {
-      "id": "traffic-engagement_expand-live-space",
-      "path": "/live/space",
-      "signal": "engagement_expand",
-      "score": 184,
-      "risk": "low",
-      "title": "Expand high-engagement path /live/space",
-      "hypothesis": "/live/space shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
-      "metrics": {
-        "pageviews": 152,
-        "visits": 109,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 36,
-        "engagementScore": 78
-      },
-      "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
-      }
-    },
-    {
-      "id": "traffic-engagement_expand-events-nasa-live-programming",
-      "path": "/events/nasa-live-programming",
-      "signal": "engagement_expand",
-      "score": 163,
-      "risk": "low",
-      "title": "Expand high-engagement path /events/nasa-live-programming",
-      "hypothesis": "/events/nasa-live-programming shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
-      "metrics": {
-        "pageviews": 119,
-        "visits": 86,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 31,
-        "engagementScore": 80
-      },
-      "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
-      }
-    },
-    {
-      "id": "traffic-engagement_expand-events-global-earthquake-watch",
-      "path": "/events/global-earthquake-watch",
-      "signal": "engagement_expand",
-      "score": 156,
-      "risk": "low",
-      "title": "Expand high-engagement path /events/global-earthquake-watch",
-      "hypothesis": "/events/global-earthquake-watch shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
-      "metrics": {
-        "pageviews": 112,
-        "visits": 89,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 26,
-        "engagementScore": 78
-      },
-      "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
-      }
-    },
-    {
-      "id": "traffic-index-watch-games",
-      "path": "/games",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /games",
-      "hypothesis": "/games is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
-      }
-    },
     {
       "id": "traffic-index-watch-gallery",
       "path": "/gallery",
@@ -166,20 +36,20 @@
         "engagementScore": 0
       },
       "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
+        "quality": "live-api",
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
     {
-      "id": "traffic-index-watch-sports",
-      "path": "/sports",
+      "id": "traffic-index-watch-events-global-earthquake-watch",
+      "path": "/events/global-earthquake-watch",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /sports",
-      "hypothesis": "/sports is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/global-earthquake-watch",
+      "hypothesis": "/events/global-earthquake-watch is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
@@ -192,36 +62,10 @@
         "engagementScore": 0
       },
       "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
+        "quality": "live-api",
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
-      }
-    },
-    {
-      "id": "traffic-index-watch-news",
-      "path": "/news",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /news",
-      "hypothesis": "/news is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
     {
@@ -244,10 +88,10 @@
         "engagementScore": 0
       },
       "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
+        "quality": "live-api",
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
     {
@@ -270,10 +114,10 @@
         "engagementScore": 0
       },
       "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
+        "quality": "live-api",
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
     {
@@ -296,10 +140,10 @@
         "engagementScore": 0
       },
       "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
+        "quality": "live-api",
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
     {
@@ -322,10 +166,88 @@
         "engagementScore": 0
       },
       "inputQuality": {
-        "quality": "fallback-import",
-        "hasLiveGa4": false,
+        "quality": "live-api",
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": false,
-        "notes": "Snapshot appears to come from fallback/import data; use it for pipeline testing, not unattended optimization."
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-topics-nasa",
+      "path": "/topics/nasa",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/nasa",
+      "hypothesis": "/topics/nasa is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": false,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-topics-launches",
+      "path": "/topics/launches",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/launches",
+      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": false,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-topics-space-weather",
+      "path": "/topics/space-weather",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/space-weather",
+      "hypothesis": "/topics/space-weather is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": false,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     }
   ]
