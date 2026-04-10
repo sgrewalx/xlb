@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T08:51:52.207Z",
+  "updatedAt": "2026-04-10T02:49:11.329Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-04-07T08:44:51.680Z",
-      "summary": "USGS reported 263 earthquake events in the last 24 hours. Strongest reported event: M5.9 near Pacific-Antarctic Ridge.",
+      "startsAt": "2026-04-10T02:37:41.970Z",
+      "summary": "USGS reported 267 earthquake events in the last 24 hours. Strongest reported event: M5.2 near South Shetland Islands.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,7 +21,28 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
+      "updatedAt": "2026-04-10T02:49:11.329Z"
+    },
+    {
+      "id": "space-aurora-watch",
+      "slug": "aurora-watch",
+      "title": "Aurora watch",
+      "status": "monitoring",
+      "category": "space",
+      "topic": "space-weather",
+      "startsAt": "2026-04-10T02:39:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 4. Recent peak is Kp 4. NOAA SWPC monitoring remains active.",
+      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
+      "sourceName": "NOAA Space Weather Prediction Center",
+      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "coverageMode": "link",
+      "safeToPromote": true,
+      "heroPriority": 98,
+      "rightsProfile": "public-information",
+      "cadence": "continuous",
+      "audienceIntent": "monitor-live",
+      "updatedAt": "2026-04-10T02:49:11.329Z"
     },
     {
       "id": "space-nasa-live-programming",
@@ -38,11 +59,11 @@
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 98,
+      "heroPriority": 90,
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
+      "updatedAt": "2026-04-10T02:49:11.329Z"
     },
     {
       "id": "space-launch-nasa-s-northrop-grumman-crs-24",
@@ -51,7 +72,7 @@
       "status": "upcoming",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-04-08T08:49:00.000Z",
+      "startsAt": "2026-04-11T07:41:00.000Z",
       "summary": "NASA’s Northrop Grumman CRS-24 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -63,28 +84,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
-    },
-    {
-      "id": "space-aurora-watch",
-      "slug": "aurora-watch",
-      "title": "Aurora watch",
-      "status": "monitoring",
-      "category": "space",
-      "topic": "space-weather",
-      "startsAt": "2026-04-07T08:47:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
-      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
-      "sourceName": "NOAA Space Weather Prediction Center",
-      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 84,
-      "rightsProfile": "public-information",
-      "cadence": "continuous",
-      "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
+      "updatedAt": "2026-04-10T02:49:11.329Z"
     },
     {
       "id": "space-launch-nasa-s-spacex-crs-34",
@@ -101,11 +101,11 @@
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 76,
+      "heroPriority": 84,
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-07T08:51:52.207Z"
+      "updatedAt": "2026-04-10T02:49:11.329Z"
     }
   ]
 }

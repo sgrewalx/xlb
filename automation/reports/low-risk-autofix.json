@@ -1,31 +1,5 @@
 {
-  "updatedAt": "2026-04-02T05:59:32.491Z",
-  "appliedCount": 4,
-  "changes": [
-    {
-      "slug": "earthquakes",
-      "updates": [
-        "summary"
-      ]
-    },
-    {
-      "slug": "nasa",
-      "updates": [
-        "title",
-        "summary"
-      ]
-    },
-    {
-      "slug": "launches",
-      "updates": [
-        "summary"
-      ]
-    },
-    {
-      "slug": "space-weather",
-      "updates": [
-        "summary"
-      ]
-    }
-  ]
+  "updatedAt": "2026-04-10T02:49:11.578Z",
+  "appliedCount": 0,
+  "changes": []
 }

@@ -1,36 +1,14 @@
 {
-  "updatedAt": "2026-04-10T01:39:33.812Z",
+  "updatedAt": "2026-04-10T02:49:11.802Z",
   "summary": {
     "auditedEventCount": 5,
     "auditedTopicCount": 4,
-    "findingCount": 3,
+    "findingCount": 1,
     "lowRiskAutofixableCount": 0,
-    "mediumRiskQueueCount": 3,
-    "snapshotPageCount": 6
+    "mediumRiskQueueCount": 1,
+    "snapshotPageCount": 8
   },
   "findings": [
-    {
-      "id": "supporting-context-nasa-s-northrop-grumman-crs-24",
-      "type": "strengthen_supporting_context",
-      "risk": "medium",
-      "autofixEligible": false,
-      "targetPaths": [
-        "/events/nasa-s-northrop-grumman-crs-24",
-        "/topics/launches"
-      ],
-      "summary": "NASA’s Northrop Grumman CRS-24 is still in review with no real views or impressions, so it needs stronger supporting context before expansion."
-    },
-    {
-      "id": "supporting-context-aurora-watch",
-      "type": "strengthen_supporting_context",
-      "risk": "medium",
-      "autofixEligible": false,
-      "targetPaths": [
-        "/events/aurora-watch",
-        "/topics/space-weather"
-      ],
-      "summary": "Aurora watch is still in review with no real views or impressions, so it needs stronger supporting context before expansion."
-    },
     {
       "id": "source-stability-nasa-launch-schedule",
       "type": "source_stability_watch",

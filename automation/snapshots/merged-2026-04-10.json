@@ -1,0 +1,119 @@
+{
+  "capturedAt": "2026-04-10T06:00:00.000Z",
+  "window": {
+    "start": "2026-04-03T00:00:00.000Z",
+    "end": "2026-04-10T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": true,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/sports",
+      "pageviews": 10,
+      "visits": 3,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 30,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/",
+      "pageviews": 9,
+      "visits": 4,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 56,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/news",
+      "pageviews": 7,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 30,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/live",
+      "pageviews": 6,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 39,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/live/earth",
+      "pageviews": 4,
+      "visits": 1,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 30,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/live/space",
+      "pageviews": 4,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 57,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/events/nasa-live-programming",
+      "pageviews": 2,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 36,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/games",
+      "pageviews": 2,
+      "visits": 1,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    }
+  ]
+}
