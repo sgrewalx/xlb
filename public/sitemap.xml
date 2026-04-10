@@ -1,25 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xlb.codemachine.in/</loc></url>
+  <url>
+    <loc>https://xlb.codemachine.in/</loc>
+    <lastmod>2026-04-10</lastmod>
+  </url>
   <url><loc>https://xlb.codemachine.in/about</loc></url>
   <url><loc>https://xlb.codemachine.in/privacy</loc></url>
   <url><loc>https://xlb.codemachine.in/terms</loc></url>
   <url><loc>https://xlb.codemachine.in/contact</loc></url>
   <url><loc>https://xlb.codemachine.in/advertise</loc></url>
-  <url><loc>https://xlb.codemachine.in/live</loc></url>
-  <url><loc>https://xlb.codemachine.in/live/space</loc></url>
-  <url><loc>https://xlb.codemachine.in/live/earth</loc></url>
+  <url>
+    <loc>https://xlb.codemachine.in/live</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/live/space</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/live/earth</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
   <url><loc>https://xlb.codemachine.in/games</loc></url>
   <url><loc>https://xlb.codemachine.in/gallery</loc></url>
-  <url><loc>https://xlb.codemachine.in/sports</loc></url>
-  <url><loc>https://xlb.codemachine.in/news</loc></url>
-  <url><loc>https://xlb.codemachine.in/events/global-earthquake-watch</loc></url>
-  <url><loc>https://xlb.codemachine.in/events/nasa-live-programming</loc></url>
-  <url><loc>https://xlb.codemachine.in/events/nasa-s-northrop-grumman-crs-24</loc></url>
-  <url><loc>https://xlb.codemachine.in/events/aurora-watch</loc></url>
-  <url><loc>https://xlb.codemachine.in/events/nasa-s-spacex-crs-34</loc></url>
-  <url><loc>https://xlb.codemachine.in/topics/earthquakes</loc></url>
-  <url><loc>https://xlb.codemachine.in/topics/nasa</loc></url>
-  <url><loc>https://xlb.codemachine.in/topics/launches</loc></url>
-  <url><loc>https://xlb.codemachine.in/topics/space-weather</loc></url>
+  <url>
+    <loc>https://xlb.codemachine.in/sports</loc>
+    <lastmod>2026-04-10</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/news</loc>
+    <lastmod>2026-04-10</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/events/global-earthquake-watch</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/events/nasa-live-programming</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/events/nasa-s-northrop-grumman-crs-24</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/events/aurora-watch</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/events/nasa-s-spacex-crs-34</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/topics/earthquakes</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/topics/nasa</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/topics/launches</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://xlb.codemachine.in/topics/space-weather</loc>
+    <lastmod>2026-04-07</lastmod>
+  </url>
 </urlset>

@@ -3,6 +3,10 @@ import { readFile, writeFile } from "node:fs/promises";
 const SITE_ORIGIN = "https://xlb.codemachine.in";
 const EVENTS_FILE = new URL("../public/content/live/events.json", import.meta.url);
 const TOPICS_FILE = new URL("../public/content/topics/index.json", import.meta.url);
+const NEWS_FILE = new URL("../public/content/news/top3.json", import.meta.url);
+const SPORTS_FILE = new URL("../public/content/sports/top3.json", import.meta.url);
+const QUOTES_FILE = new URL("../public/content/quotes/quotes.json", import.meta.url);
+const XLB_FILE = new URL("../public/content/xlb/top3.json", import.meta.url);
 const OUTPUT_FILE = new URL("../public/sitemap.xml", import.meta.url);
 
 const staticPaths = [
@@ -22,12 +26,42 @@ const staticPaths = [
 ];
 
 async function main() {
-  const events = await readJson(EVENTS_FILE);
-  const topics = await readJson(TOPICS_FILE);
+  const [events, topics, news, sports, quotes, xlb] = await Promise.all([
+    readJson(EVENTS_FILE),
+    readJson(TOPICS_FILE),
+    readJson(NEWS_FILE),
+    readJson(SPORTS_FILE),
+    readJson(QUOTES_FILE),
+    readJson(XLB_FILE),
+  ]);
+  const homeLastmod = maxDate([
+    events.updatedAt,
+    topics.updatedAt,
+    news.updatedAt,
+    sports.updatedAt,
+    quotes.updatedAt,
+    xlb.updatedAt,
+  ]);
+  const pathLastmod = new Map([
+    ["/", homeLastmod],
+    ["/live", events.updatedAt],
+    ["/live/space", events.updatedAt],
+    ["/live/earth", events.updatedAt],
+    ["/sports", sports.updatedAt],
+    ["/news", news.updatedAt],
+  ]);
 
   const dynamicPaths = [
-    ...(events.items ?? []).map((item) => `/events/${item.slug}`),
-    ...(topics.items ?? []).map((item) => `/topics/${item.slug}`),
+    ...(events.items ?? []).map((item) => {
+      const path = `/events/${item.slug}`;
+      pathLastmod.set(path, item.updatedAt ?? events.updatedAt);
+      return path;
+    }),
+    ...(topics.items ?? []).map((item) => {
+      const path = `/topics/${item.slug}`;
+      pathLastmod.set(path, item.updatedAt ?? topics.updatedAt);
+      return path;
+    }),
   ];
 
   const paths = [...new Set([...staticPaths, ...dynamicPaths])];
@@ -35,7 +69,7 @@ async function main() {
   const xml = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
-    ...paths.map((path) => `  <url><loc>${SITE_ORIGIN}${path}</loc></url>`),
+    ...paths.map((path) => formatUrl(path, pathLastmod.get(path))),
     "</urlset>",
     "",
   ].join("\n");
@@ -47,6 +81,37 @@ async function main() {
 async function readJson(fileUrl) {
   const contents = await readFile(fileUrl, "utf8");
   return JSON.parse(contents);
+}
+
+function formatUrl(path, lastmod) {
+  if (!lastmod) {
+    return `  <url><loc>${SITE_ORIGIN}${path}</loc></url>`;
+  }
+
+  return [
+    "  <url>",
+    `    <loc>${SITE_ORIGIN}${path}</loc>`,
+    `    <lastmod>${dateOnly(lastmod)}</lastmod>`,
+    "  </url>",
+  ].join("\n");
+}
+
+function maxDate(values) {
+  const timestamps = values
+    .map((value) => Date.parse(value))
+    .filter((value) => Number.isFinite(value));
+
+  return new Date(Math.max(...timestamps)).toISOString();
+}
+
+function dateOnly(value) {
+  const timestamp = Date.parse(value);
+
+  if (!Number.isFinite(timestamp)) {
+    return new Date().toISOString().slice(0, 10);
+  }
+
+  return new Date(timestamp).toISOString().slice(0, 10);
 }
 
 main().catch((error) => {

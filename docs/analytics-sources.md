@@ -77,6 +77,12 @@ Important setup notes:
 - the same service account email must be added to the Search Console property
 - without those permissions, the workflow will keep using fallback imports
 
+Current setup note:
+
+- `SEARCH_CONSOLE_SITE_URL` is set to `https://xlb.codemachine.in/`
+- `XLB_GA4_LOOKBACK_DAYS`, `XLB_SEARCH_CONSOLE_LAG_DAYS`, and `XLB_SEARCH_CONSOLE_LOOKBACK_DAYS` are configured in GitHub Actions variables
+- `GA4_PROPERTY_ID` and `GOOGLE_SERVICE_ACCOUNT_JSON` still need to be added before the daily workflow can consume live Google API data
+
 ### 1. Import a normalized snapshot
 
 Use when you already have data in the normalized snapshot shape:

@@ -65,6 +65,9 @@ jobs:
       - name: Merge analytics snapshots
         run: npm run automation:merge-analytics
 
+      - name: Generate traffic opportunity queue
+        run: XLB_ANALYTICS_SNAPSHOT=./automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json npm run automation:traffic-opportunities
+
       - name: Rank live events
         run: XLB_ANALYTICS_SNAPSHOT=./automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json npm run automation:rank-live
 
