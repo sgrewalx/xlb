@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-04-10T11:41:53.889Z",
+  "updatedAt": "2026-04-10T12:53:22.331Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-what-to-know-about-israel-s-strikes-on-lebanon-5bd6d4e3c8",
-      "title": "What to Know About Israel’s Strikes on Lebanon",
+      "id": "news-iran-war-live-updates-u-s-prepares-for-talks-wit-f509cbc250",
+      "title": "Iran War Live Updates: U.S. Prepares for Talks With Iran as Lebanon Impasse Threatens Cease-Fire",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/09/world/middleeast/what-to-know-israel-strikes-lebanon.html",
-      "tag": "Us And Israeli",
-      "publishedAt": "2026-04-10T11:35:36.000Z",
-      "summary": "XLB brief: a timely us and israeli item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-china-s-xi-meets-taiwan-opposition-leader-ahead--bad00bba15",
-      "title": "China's Xi meets Taiwan opposition leader ahead of key summit with Trump",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition",
+      "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
       "tag": "World",
-      "publishedAt": "2026-04-10T11:29:04.000Z",
-      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-10T12:45:44.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-starmer-implies-he-didn-t-tell-trump-he-was-fed--fb1f13cb5a",
-      "title": "Starmer implies he didn’t tell Trump he was ‘fed up’ about his impact on rising UK energy bills – UK politics live",
+      "id": "news-us-inflation-jumps-to-highest-level-in-almost-tw-3a138e3087",
+      "title": "US inflation jumps to highest level in almost two years",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
+      "tag": "Money",
+      "publishedAt": "2026-04-10T12:43:09.000Z",
+      "summary": "XLB brief: a timely money item from BBC, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Money and business signals can change household, market, and work decisions quickly."
+    },
+    {
+      "id": "news-epstein-survivors-criticise-melania-trump-after--b29c8ef728",
+      "title": "Epstein survivors criticise Melania Trump after surprise statement – US politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
-      "tag": "Politics",
-      "publishedAt": "2026-04-10T11:28:23.000Z",
-      "summary": "XLB brief: a timely politics item from The Guardian, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/10/donald-trump-melania-jeffrey-epstein-iran-inflation-latest-news-updates",
+      "tag": "Us News",
+      "publishedAt": "2026-04-10T12:38:45.000Z",
+      "summary": "XLB brief: a timely us news item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
 }
