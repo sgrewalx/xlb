@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-09T02:50:02.152Z",
+  "updatedAt": "2026-04-10T03:21:38.378Z",
   "items": [
-    {
-      "id": "anais-nin",
-      "quote": "Life shrinks or expands in proportion to one's courage.",
-      "author": "Anais Nin",
-      "context": "Courage"
-    },
     {
       "id": "bell-hooks",
       "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
@@ -30,6 +24,12 @@
       "quote": "You can't use up creativity. The more you use, the more you have.",
       "author": "Maya Angelou",
       "context": "Creation"
+    },
+    {
+      "id": "bruce-lee",
+      "quote": "Absorb what is useful, discard what is not, add what is uniquely your own.",
+      "author": "Bruce Lee",
+      "context": "Focus"
     }
   ]
 }
