@@ -21,6 +21,16 @@ const SPORTS_FEEDS = [
     url: "https://feeds.bbci.co.uk/sport/tennis/rss.xml",
     defaultTag: "Tennis",
   },
+  {
+    source: "BBC Sport",
+    url: "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
+    defaultTag: "Cricket",
+  },
+  {
+    source: "BBC Sport",
+    url: "https://feeds.bbci.co.uk/sport/athletics/rss.xml",
+    defaultTag: "Running",
+  },
 ];
 
 async function main() {

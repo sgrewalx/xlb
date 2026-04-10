@@ -7,28 +7,41 @@ const SECTION_NAME = "Top 3 News";
 
 const NEWS_FEEDS = [
   {
-    source: "Reuters",
-    url: "https://feeds.reuters.com/Reuters/worldNews",
-    defaultTag: "World",
-    fixture: "reuters.xml",
-  },
-  {
     source: "BBC",
     url: "https://feeds.bbci.co.uk/news/world/rss.xml",
     defaultTag: "World",
     fixture: "bbc.xml",
   },
   {
-    source: "Associated Press",
-    url: "https://apnews.com/rss/apf-topnews",
-    defaultTag: "World",
-    fixture: "ap.xml",
+    source: "BBC",
+    url: "https://feeds.bbci.co.uk/news/business/rss.xml",
+    defaultTag: "Money",
+  },
+  {
+    source: "BBC",
+    url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    defaultTag: "Climate",
   },
   {
     source: "Al Jazeera",
     url: "https://www.aljazeera.com/xml/rss/all.xml",
     defaultTag: "World",
     fixture: "aljazeera.xml",
+  },
+  {
+    source: "The Guardian",
+    url: "https://www.theguardian.com/world/rss",
+    defaultTag: "World",
+  },
+  {
+    source: "The New York Times",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    defaultTag: "World",
+  },
+  {
+    source: "NPR",
+    url: "https://feeds.npr.org/1004/rss.xml",
+    defaultTag: "World",
   },
 ];
 
@@ -89,6 +102,7 @@ async function main() {
 
 function selectTopArticles(articles) {
   const deduped = [];
+  const seenSources = new Set();
   const seenUrls = new Set();
   const seenTitles = new Set();
 
@@ -103,6 +117,11 @@ function selectTopArticles(articles) {
       continue;
     }
 
+    if (seenSources.has(article.source)) {
+      continue;
+    }
+
+    seenSources.add(article.source);
     seenUrls.add(article.url);
     seenTitles.add(normalizedTitle);
     deduped.push(article);
