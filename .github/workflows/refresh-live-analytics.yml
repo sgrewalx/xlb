@@ -104,7 +104,8 @@ jobs:
       - name: Read risk level
         id: risk
         run: |
-          echo "level=$(node -p 'JSON.parse(require(\"fs\").readFileSync(\"automation/reports/live-risk-report.json\",\"utf8\")).level')" >> "$GITHUB_OUTPUT"
+          LEVEL="$(node -e "const fs = require('fs'); process.stdout.write(JSON.parse(fs.readFileSync('automation/reports/live-risk-report.json', 'utf8')).level)")"
+          echo "level=${LEVEL}" >> "$GITHUB_OUTPUT"
 
       - name: Configure git identity
         if: steps.changes.outputs.changed == 'true'
@@ -127,18 +128,16 @@ jobs:
 
       - name: Push automation branch
         if: steps.changes.outputs.changed == 'true'
-        run: git push origin HEAD:"${BRANCH_NAME}"
+        run: git push --force-with-lease origin HEAD:"${BRANCH_NAME}"
 
-      - name: Create pull request for review
+      - name: Create or update pull request for review
         if: steps.changes.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v8
-        with:
-          token: ${{ github.token }}
-          branch: ${{ env.BRANCH_NAME }}
-          base: main
-          title: "chore: refresh live analytics and event rankings"
-          commit-message: "chore: refresh live analytics and event rankings"
-          body: |
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BODY_FILE="$(mktemp)"
+
+          cat > "${BODY_FILE}" <<'EOF'
             Automated live analytics refresh.
 
             Risk level: `${{ steps.risk.outputs.level }}`
@@ -146,6 +145,18 @@ jobs:
             See the workflow summary for the latest source health, deploy readiness, and top event decisions.
 
             This workflow now routes live-event inventory changes through PR review instead of pushing directly to `main`.
-          labels: |
-            automation
-            live-events
+          EOF
+
+          if gh pr view "${BRANCH_NAME}" --repo "${GITHUB_REPOSITORY}" >/dev/null 2>&1; then
+            gh pr edit "${BRANCH_NAME}" \
+              --repo "${GITHUB_REPOSITORY}" \
+              --title "chore: refresh live analytics and event rankings" \
+              --body-file "${BODY_FILE}"
+          else
+            gh pr create \
+              --repo "${GITHUB_REPOSITORY}" \
+              --head "${BRANCH_NAME}" \
+              --base main \
+              --title "chore: refresh live analytics and event rankings" \
+              --body-file "${BODY_FILE}"
+          fi
