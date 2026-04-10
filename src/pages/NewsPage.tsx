@@ -4,7 +4,7 @@ import { useContent } from "../hooks/useContent";
 import { TopFeed } from "../types/content";
 
 export function NewsPage() {
-  const news = useContent<TopFeed>("/content/news/top3.json");
+  const news = useContent<TopFeed>("/content/news/top.json");
 
   return (
     <>
@@ -25,7 +25,8 @@ export function NewsPage() {
         id="news"
         eyebrow="News"
         title="Top stories"
-        description="A short list of timely stories with direct links to the original reporting."
+        description="A wider scan of timely stories with XLB-written briefs and direct links to original reporting."
+        expanded
         loading={news.loading}
         error={news.error}
         updatedAt={news.data?.updatedAt}

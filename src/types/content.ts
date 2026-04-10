@@ -5,6 +5,8 @@ export interface FeedItem {
   url: string;
   tag: string;
   publishedAt: string;
+  summary?: string;
+  whyItMatters?: string;
 }
 
 export interface TopFeed {

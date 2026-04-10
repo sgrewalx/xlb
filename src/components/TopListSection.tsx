@@ -9,6 +9,7 @@ interface TopListSectionProps {
   headerTags?: string[];
   hideItemTags?: boolean;
   visualMode?: "sports";
+  expanded?: boolean;
   loading: boolean;
   error: string | null;
   updatedAt?: string;
@@ -31,6 +32,16 @@ const SPORTS_VISUALS: Record<string, { image: string; label: string; className: 
     label: "Tennis",
     className: "top-card-media-tennis",
   },
+  cricket: {
+    image: "/media/sports/football.svg",
+    label: "Cricket",
+    className: "top-card-media-cricket",
+  },
+  running: {
+    image: "/media/sports/tennis.svg",
+    label: "Running",
+    className: "top-card-media-running",
+  },
 };
 
 export function TopListSection({
@@ -41,6 +52,7 @@ export function TopListSection({
   headerTags,
   hideItemTags = false,
   visualMode,
+  expanded = false,
   loading,
   error,
   updatedAt,
@@ -66,9 +78,9 @@ export function TopListSection({
           description={description}
         />
       )}
-      <div className="top-grid">
+      <div className={`top-grid ${expanded ? "top-grid-expanded" : ""}`}>
         {loading
-          ? Array.from({ length: 3 }).map((_, index) => (
+          ? Array.from({ length: expanded ? 6 : 3 }).map((_, index) => (
               <article className="card card-skeleton" key={`${id}-${index}`}>
                 <div className="skeleton-line skeleton-tag" />
                 <div className="skeleton-line skeleton-title" />
@@ -115,6 +127,15 @@ export function TopListSection({
               <span className="muted">{item.source}</span>
             </div>
             <h3>{item.title}</h3>
+            {expanded && item.summary ? (
+              <p className="top-card-summary">{item.summary}</p>
+            ) : null}
+            {expanded && item.whyItMatters ? (
+              <p className="top-card-why">
+                <span>Why it matters</span>
+                {item.whyItMatters}
+              </p>
+            ) : null}
             <p className="muted">
               {new Intl.DateTimeFormat("en", {
                 hour: "2-digit",

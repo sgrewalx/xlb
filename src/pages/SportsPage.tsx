@@ -4,7 +4,7 @@ import { useContent } from "../hooks/useContent";
 import { TopFeed } from "../types/content";
 
 export function SportsPage() {
-  const sports = useContent<TopFeed>("/content/sports/top3.json");
+  const sports = useContent<TopFeed>("/content/sports/top.json");
 
   return (
     <>
@@ -28,6 +28,7 @@ export function SportsPage() {
         headerTags={["Football", "Basketball", "Tennis", "Running", "Cricket"]}
         hideItemTags
         visualMode="sports"
+        expanded
         loading={sports.loading}
         error={sports.error}
         updatedAt={sports.data?.updatedAt}

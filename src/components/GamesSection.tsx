@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 type SudokuValue = number | null;
 type SudokuBoard = SudokuValue[][];
 type Difficulty = "easy" | "medium" | "hard";
+type GameMode = "sudoku" | "memory";
 
 interface SudokuConfig {
   label: string;
@@ -87,6 +88,13 @@ const SUDOKU_CONFIGS: Record<Difficulty, SudokuConfig> = {
     ],
   },
 };
+const MEMORY_SYMBOLS = ["X", "L", "B", "SUN", "ORB", "TIDE"];
+
+function buildMemoryDeck() {
+  return [...MEMORY_SYMBOLS, ...MEMORY_SYMBOLS]
+    .map((label, index) => ({ id: `${label}-${index}`, label }))
+    .sort(() => Math.random() - 0.5);
+}
 
 function cloneBoard(board: SudokuBoard) {
   return board.map((row) => [...row]);
@@ -185,15 +193,24 @@ function formatElapsed(seconds: number) {
 }
 
 export default function GamesSection() {
+  const [activeGame, setActiveGame] = useState<GameMode>("sudoku");
   const [difficulty, setDifficulty] = useState<Difficulty>("easy");
   const [board, setBoard] = useState<SudokuBoard>(() => cloneBoard(SUDOKU_CONFIGS.easy.puzzle));
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
+  const [memoryDeck, setMemoryDeck] = useState(() => buildMemoryDeck());
+  const [flippedCards, setFlippedCards] = useState<number[]>([]);
+  const [matchedLabels, setMatchedLabels] = useState<string[]>([]);
 
   const conflicts = getConflictKeys(board);
   const { correctEntries, totalEmptyCells } = getProgress(board, difficulty, conflicts);
   const isSolved = correctEntries === totalEmptyCells && conflicts.size === 0;
+  const memorySolved = matchedLabels.length === MEMORY_SYMBOLS.length;
 
   useEffect(() => {
+    if (activeGame !== "sudoku") {
+      return;
+    }
+
     if (isSolved) {
       return;
     }
@@ -203,7 +220,28 @@ export default function GamesSection() {
     }, 1000);
 
     return () => window.clearInterval(interval);
-  }, [difficulty, isSolved]);
+  }, [activeGame, difficulty, isSolved]);
+
+  useEffect(() => {
+    if (flippedCards.length !== 2) {
+      return;
+    }
+
+    const [firstIndex, secondIndex] = flippedCards;
+    const firstCard = memoryDeck[firstIndex];
+    const secondCard = memoryDeck[secondIndex];
+
+    if (firstCard.label === secondCard.label) {
+      setMatchedLabels((current) =>
+        current.includes(firstCard.label) ? current : [...current, firstCard.label],
+      );
+      const timeout = window.setTimeout(() => setFlippedCards([]), 420);
+      return () => window.clearTimeout(timeout);
+    }
+
+    const timeout = window.setTimeout(() => setFlippedCards([]), 820);
+    return () => window.clearTimeout(timeout);
+  }, [flippedCards, memoryDeck]);
 
   function loadDifficulty(nextDifficulty: Difficulty) {
     setDifficulty(nextDifficulty);
@@ -236,6 +274,26 @@ export default function GamesSection() {
     setElapsedSeconds(0);
   }
 
+  function resetMemory() {
+    setMemoryDeck(buildMemoryDeck());
+    setFlippedCards([]);
+    setMatchedLabels([]);
+  }
+
+  function handleMemoryCardClick(index: number) {
+    const card = memoryDeck[index];
+
+    if (
+      flippedCards.includes(index) ||
+      matchedLabels.includes(card.label) ||
+      flippedCards.length >= 2
+    ) {
+      return;
+    }
+
+    setFlippedCards((current) => [...current, index]);
+  }
+
   const status = isSolved
     ? "Solved clean. Nice."
     : conflicts.size > 0
@@ -246,69 +304,115 @@ export default function GamesSection() {
     <section id="games" className="section-block">
       <div className="games-header">
         <p className="section-eyebrow">Games</p>
-        <p className="games-mode-label">Sudoku</p>
+        <div className="top-list-tags" aria-label="Game choices">
+          {(["sudoku", "memory"] as GameMode[]).map((mode) => (
+            <button
+              className={`games-mode-button ${activeGame === mode ? "is-active" : ""}`}
+              key={mode}
+              onClick={() => setActiveGame(mode)}
+              type="button"
+            >
+              {mode === "sudoku" ? "Sudoku" : "Memory"}
+            </button>
+          ))}
+        </div>
       </div>
       <div className="games-grid">
-        <article className="card game-card sudoku-card">
-          <div className="sudoku-toolbar">
-            <div className="sudoku-difficulty-pills" aria-label="Sudoku difficulty">
-              {(["easy", "medium", "hard"] as Difficulty[]).map((option) => (
-                <button
-                  className={`sudoku-pill ${difficulty === option ? "is-active" : ""}`}
-                  key={option}
-                  onClick={() => loadDifficulty(option)}
-                  type="button"
-                >
-                  {SUDOKU_CONFIGS[option].label}
-                </button>
-              ))}
+        {activeGame === "sudoku" ? (
+          <article className="card game-card sudoku-card">
+            <div className="sudoku-toolbar">
+              <div className="sudoku-difficulty-pills" aria-label="Sudoku difficulty">
+                {(["easy", "medium", "hard"] as Difficulty[]).map((option) => (
+                  <button
+                    className={`sudoku-pill ${difficulty === option ? "is-active" : ""}`}
+                    key={option}
+                    onClick={() => loadDifficulty(option)}
+                    type="button"
+                  >
+                    {SUDOKU_CONFIGS[option].label}
+                  </button>
+                ))}
+              </div>
+              <button className="ghost-button sudoku-reset-button" onClick={resetBoard} type="button">
+                Start/Reset
+              </button>
             </div>
-            <button className="ghost-button sudoku-reset-button" onClick={resetBoard} type="button">
-              Start/Reset
-            </button>
-          </div>
-          <div className="sudoku-board" aria-label="Playable Sudoku board">
-            {board.flatMap((row, rowIndex) =>
-              row.map((value, columnIndex) => {
-                const key = `${rowIndex}-${columnIndex}`;
-                const isGiven = SUDOKU_CONFIGS[difficulty].puzzle[rowIndex][columnIndex] !== null;
-                const isConflict = conflicts.has(key);
+            <div className="sudoku-board" aria-label="Playable Sudoku board">
+              {board.flatMap((row, rowIndex) =>
+                row.map((value, columnIndex) => {
+                  const key = `${rowIndex}-${columnIndex}`;
+                  const isGiven = SUDOKU_CONFIGS[difficulty].puzzle[rowIndex][columnIndex] !== null;
+                  const isConflict = conflicts.has(key);
+
+                  return (
+                    <label
+                      className={`sudoku-cell ${
+                        isGiven ? "is-filled" : "is-editable"
+                      } ${isConflict ? "is-conflict" : ""}`}
+                      key={key}
+                    >
+                      <span className="sr-only">
+                        Row {rowIndex + 1} column {columnIndex + 1}
+                      </span>
+                      {isGiven ? (
+                        <span>{value}</span>
+                      ) : (
+                        <input
+                          aria-label={`Sudoku row ${rowIndex + 1} column ${columnIndex + 1}`}
+                          inputMode="numeric"
+                          maxLength={1}
+                          onChange={(event) =>
+                            handleChange(rowIndex, columnIndex, event.target.value)
+                          }
+                          pattern="[1-9]"
+                          type="text"
+                          value={value ?? ""}
+                        />
+                      )}
+                    </label>
+                  );
+                }),
+              )}
+            </div>
+            <div className="sudoku-footer">
+              {status ? <p className="sudoku-status">{status}</p> : null}
+              <p className="sudoku-timer-readout">{formatElapsed(elapsedSeconds)}</p>
+            </div>
+          </article>
+        ) : (
+          <article className="card game-card memory-card">
+            <div className="memory-toolbar">
+              <div>
+                <p className="memory-kicker">Memory Match</p>
+                <h3>Pair the XLB signals</h3>
+              </div>
+              <button className="ghost-button sudoku-reset-button" onClick={resetMemory} type="button">
+                Start/Reset
+              </button>
+            </div>
+            <div className="memory-grid" aria-label="Playable memory matching board">
+              {memoryDeck.map((card, index) => {
+                const isRevealed = flippedCards.includes(index) || matchedLabels.includes(card.label);
 
                 return (
-                  <label
-                    className={`sudoku-cell ${
-                      isGiven ? "is-filled" : "is-editable"
-                    } ${isConflict ? "is-conflict" : ""}`}
-                    key={key}
+                  <button
+                    className={`memory-tile ${isRevealed ? "is-revealed" : ""}`}
+                    key={card.id}
+                    onClick={() => handleMemoryCardClick(index)}
+                    type="button"
                   >
-                    <span className="sr-only">
-                      Row {rowIndex + 1} column {columnIndex + 1}
-                    </span>
-                    {isGiven ? (
-                      <span>{value}</span>
-                    ) : (
-                      <input
-                        aria-label={`Sudoku row ${rowIndex + 1} column ${columnIndex + 1}`}
-                        inputMode="numeric"
-                        maxLength={1}
-                        onChange={(event) =>
-                          handleChange(rowIndex, columnIndex, event.target.value)
-                        }
-                        pattern="[1-9]"
-                        type="text"
-                        value={value ?? ""}
-                      />
-                    )}
-                  </label>
+                    <span>{isRevealed ? card.label : "XLB"}</span>
+                  </button>
                 );
-              }),
-            )}
-          </div>
-          <div className="sudoku-footer">
-            {status ? <p className="sudoku-status">{status}</p> : null}
-            <p className="sudoku-timer-readout">{formatElapsed(elapsedSeconds)}</p>
-          </div>
-        </article>
+              })}
+            </div>
+            <div className="sudoku-footer">
+              <p className="sudoku-status">
+                {memorySolved ? "All pairs matched." : `${matchedLabels.length} of ${MEMORY_SYMBOLS.length} pairs matched.`}
+              </p>
+            </div>
+          </article>
+        )}
       </div>
     </section>
   );

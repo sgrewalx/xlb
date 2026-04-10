@@ -40,7 +40,7 @@ jobs:
       - name: Detect manifest changes
         id: changes
         run: |
-          if git diff --quiet -- public/content/sports/top3.json; then
+          if git diff --quiet -- public/content/sports/top3.json public/content/sports/top.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -55,7 +55,7 @@ jobs:
       - name: Commit manifest update
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git add public/content/sports/top3.json
+          git add public/content/sports/top3.json public/content/sports/top.json
           git commit -m "chore: refresh sports manifest"
 
       - name: Push to main

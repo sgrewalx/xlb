@@ -5,7 +5,9 @@ const root = new URL("../public/content/", import.meta.url);
 
 const files = [
   ["news/top3.json", validateTopFeed],
+  ["news/top.json", validateExpandedFeed],
   ["sports/top3.json", validateTopFeed],
+  ["sports/top.json", validateExpandedFeed],
   ["quotes/quotes.json", validateQuotes],
   ["visuals/feed.json", validateVisuals],
   ["modules/modules.json", validateModules],
@@ -18,6 +20,25 @@ function assert(condition, message) {
   if (!condition) {
     throw new Error(message);
   }
+}
+
+function validateExpandedFeed(json, label) {
+  assert(isString(json.updatedAt), `${label}: updatedAt is required`);
+  assert(isString(json.section), `${label}: section is required`);
+  assert(Array.isArray(json.items), `${label}: items must be an array`);
+  assert(json.items.length >= 3, `${label}: items must contain at least 3 entries`);
+  assert(json.items.length <= 24, `${label}: items must contain no more than 24 entries`);
+
+  json.items.forEach((item, index) => {
+    assert(isString(item.id), `${label}: item ${index} id required`);
+    assert(isString(item.title), `${label}: item ${index} title required`);
+    assert(isString(item.source), `${label}: item ${index} source required`);
+    assert(isString(item.url), `${label}: item ${index} url required`);
+    assert(isString(item.tag), `${label}: item ${index} tag required`);
+    assert(isString(item.publishedAt), `${label}: item ${index} publishedAt required`);
+    assert(isString(item.summary), `${label}: item ${index} summary required`);
+    assert(isString(item.whyItMatters), `${label}: item ${index} whyItMatters required`);
+  });
 }
 
 function isString(value) {

@@ -26,6 +26,17 @@ const POSTER_SERIES: PosterSeries[] = [
     ],
   },
   {
+    id: "orbital-weather",
+    title: "Orbital Weather",
+    label: "Space signal",
+    caption: "Aurora color bands and soft telemetry arcs.",
+    palettes: [
+      { primary: "#b9ff8a", secondary: "#081728", glow: "#7cf6d4", angle: "140deg" },
+      { primary: "#d7c6ff", secondary: "#10142d", glow: "#5ea0ff", angle: "130deg" },
+      { primary: "#fff1a6", secondary: "#161320", glow: "#ff7e56", angle: "150deg" },
+    ],
+  },
+  {
     id: "tidal-form",
     title: "Tidal Form",
     label: "Coastline",
@@ -37,6 +48,17 @@ const POSTER_SERIES: PosterSeries[] = [
     ],
   },
   {
+    id: "quake-lines",
+    title: "Quake Lines",
+    label: "Earth pulse",
+    caption: "Seismic rings translated into poster rhythm.",
+    palettes: [
+      { primary: "#ffb199", secondary: "#1f1715", glow: "#ff7e56", angle: "155deg" },
+      { primary: "#7cf6d4", secondary: "#091b20", glow: "#ffd86b", angle: "135deg" },
+      { primary: "#f1f6ff", secondary: "#0d1324", glow: "#5ea0ff", angle: "145deg" },
+    ],
+  },
+  {
     id: "editorial-run",
     title: "Editorial Run",
     label: "Studio motion",
@@ -45,6 +67,17 @@ const POSTER_SERIES: PosterSeries[] = [
       { primary: "#ffffff", secondary: "#0a0d16", glow: "#ff7e56", angle: "140deg" },
       { primary: "#eef6ff", secondary: "#17112b", glow: "#5ea0ff", angle: "120deg" },
       { primary: "#ffe7d8", secondary: "#1c1620", glow: "#7cf6d4", angle: "150deg" },
+    ],
+  },
+  {
+    id: "quiet-score",
+    title: "Quiet Score",
+    label: "Mood board",
+    caption: "A calm visual register for slower browsing.",
+    palettes: [
+      { primary: "#f8f0d7", secondary: "#151a22", glow: "#ffd86b", angle: "120deg" },
+      { primary: "#b7fff0", secondary: "#071c1f", glow: "#7cf6d4", angle: "150deg" },
+      { primary: "#ffd0c0", secondary: "#20101c", glow: "#ff7e56", angle: "140deg" },
     ],
   },
 ];
@@ -76,7 +109,7 @@ export function VisualFeed() {
           return (
             <article className="card gallery-card" key={series.id}>
               <div className="gallery-poster" style={getPosterStyle(index, paletteIndex)}>
-                <div className="gallery-poster-frame">
+                <div className={`gallery-poster-frame gallery-poster-frame-${index % 3}`}>
                   <span>{series.label}</span>
                   <strong>{series.title}</strong>
                   <small>XLB / poster lab / {String(paletteIndex + 1).padStart(2, "0")}</small>

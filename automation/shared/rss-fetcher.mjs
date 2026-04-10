@@ -69,6 +69,9 @@ function normalizeEntry(block, feed) {
   );
   const categories = extractMany(block, ["category", "dc:subject"]);
   const tag = cleanTag(categories[0] ?? feed.defaultTag ?? "World");
+  const excerpt = cleanExcerpt(
+    extractFirst(block, ["description", "summary", "content:encoded"]),
+  );
 
   if (!title || !url || !publishedAt) {
     return null;
@@ -78,6 +81,7 @@ function normalizeEntry(block, feed) {
     source: feed.source,
     tag,
     title,
+    excerpt,
     url,
     publishedAt,
   };
@@ -140,6 +144,16 @@ function cleanTag(value) {
     .slice(0, 3)
     .map((part) => part.charAt(0).toUpperCase() + part.slice(1).toLowerCase())
     .join(" ");
+}
+
+function cleanExcerpt(value) {
+  const cleaned = cleanText(value);
+
+  if (!cleaned) {
+    return "";
+  }
+
+  return cleaned.length > 180 ? `${cleaned.slice(0, 177).trim()}...` : cleaned;
 }
 
 function decodeXml(value) {
