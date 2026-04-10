@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T02:49:10.881Z",
+  "updatedAt": "2026-04-10T05:30:42.844Z",
   "sourceSnapshot": "2026-04-10T06:00:00.000Z",
   "items": [
     {
@@ -20,7 +20,7 @@
       "sourceStability": "unknown",
       "recencyBand": "recurring",
       "recommendation": "hold",
-      "notes": "cold-start scoring active; priority 98, rights public-information, cadence recurring, intent watch-live, status watch, coverage link, safe to promote; heuristics recurring watch surface. Imported from the GA4 Data API."
+      "notes": "cold-start scoring active; priority 90, rights public-information, cadence recurring, intent watch-live, status watch, coverage link, safe to promote; heuristics recurring watch surface. Imported from the GA4 Data API."
     },
     {
       "slug": "global-earthquake-watch",
@@ -60,7 +60,27 @@
       "sourceStability": "stable",
       "recencyBand": "continuous",
       "recommendation": "expand",
-      "notes": "cold-start scoring active; priority 84, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
+      "notes": "cold-start scoring active; priority 98, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
+    },
+    {
+      "slug": "nasa-s-northrop-grumman-crs-24",
+      "pagePath": "/events/nasa-s-northrop-grumman-crs-24",
+      "category": "space",
+      "score": 79,
+      "scoringMode": "cold-start",
+      "coldStartScore": 93,
+      "heuristicScore": 71,
+      "observedScore": 0,
+      "pageviews": 0,
+      "watchClicks": 0,
+      "engagementScore": 0,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "categoryPageviews": 4,
+      "sourceStability": "earning-trust",
+      "recencyBand": "next-7-days",
+      "recommendation": "expand",
+      "notes": "cold-start scoring active; priority 88, rights public-information, cadence scheduled, intent watch-live, status upcoming, coverage link, safe to promote; heuristics starts within 7 days, source healthy but earning trust. Promoted event without a dedicated analytics note yet."
     },
     {
       "slug": "nasa-s-spacex-crs-34",
@@ -80,27 +100,7 @@
       "sourceStability": "earning-trust",
       "recencyBand": "next-30-days",
       "recommendation": "expand",
-      "notes": "cold-start scoring active; priority 76, rights public-information, cadence scheduled, intent watch-live, status upcoming, coverage link, safe to promote; heuristics starts within 30 days, source healthy but earning trust. Promoted event without a dedicated analytics note yet."
-    },
-    {
-      "slug": "nasa-s-northrop-grumman-crs-24",
-      "pagePath": "/events/nasa-s-northrop-grumman-crs-24",
-      "category": "space",
-      "score": 71,
-      "scoringMode": "cold-start",
-      "coldStartScore": 83,
-      "heuristicScore": 31,
-      "observedScore": 0,
-      "pageviews": 0,
-      "watchClicks": 0,
-      "engagementScore": 0,
-      "searchImpressions": 0,
-      "searchCtr": 0,
-      "categoryPageviews": 4,
-      "sourceStability": "earning-trust",
-      "recencyBand": "stale",
-      "recommendation": "hold",
-      "notes": "cold-start scoring active; priority 88, rights public-information, cadence scheduled, intent watch-live, status upcoming, coverage link, safe to promote; heuristics stale event timing, source healthy but earning trust. Promoted event without a dedicated analytics note yet."
+      "notes": "cold-start scoring active; priority 84, rights public-information, cadence scheduled, intent watch-live, status upcoming, coverage link, safe to promote; heuristics starts within 30 days, source healthy but earning trust. Promoted event without a dedicated analytics note yet."
     }
   ]
 }

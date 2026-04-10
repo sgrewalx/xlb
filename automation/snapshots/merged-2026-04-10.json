@@ -13,14 +13,14 @@
   "pages": [
     {
       "path": "/sports",
-      "pageviews": 10,
+      "pageviews": 15,
       "visits": 3,
       "searchImpressions": 0,
       "searchCtr": 0,
       "avgPosition": 0,
       "watchClicks": 0,
       "revenueUsd": 0,
-      "engagementScore": 30,
+      "engagementScore": 100,
       "decision": "review",
       "notes": "Imported from the GA4 Data API."
     },
@@ -33,20 +33,20 @@
       "avgPosition": 0,
       "watchClicks": 0,
       "revenueUsd": 0,
-      "engagementScore": 56,
+      "engagementScore": 77,
       "decision": "review",
       "notes": "Imported from the GA4 Data API."
     },
     {
       "path": "/news",
-      "pageviews": 7,
+      "pageviews": 9,
       "visits": 2,
       "searchImpressions": 0,
       "searchCtr": 0,
       "avgPosition": 0,
       "watchClicks": 0,
       "revenueUsd": 0,
-      "engagementScore": 30,
+      "engagementScore": 91,
       "decision": "review",
       "notes": "Imported from the GA4 Data API."
     },
@@ -59,7 +59,7 @@
       "avgPosition": 0,
       "watchClicks": 0,
       "revenueUsd": 0,
-      "engagementScore": 39,
+      "engagementScore": 83,
       "decision": "review",
       "notes": "Imported from the GA4 Data API."
     },
@@ -72,7 +72,7 @@
       "avgPosition": 0,
       "watchClicks": 0,
       "revenueUsd": 0,
-      "engagementScore": 30,
+      "engagementScore": 72,
       "decision": "review",
       "notes": "Imported from the GA4 Data API."
     },
@@ -85,7 +85,7 @@
       "avgPosition": 0,
       "watchClicks": 0,
       "revenueUsd": 0,
-      "engagementScore": 57,
+      "engagementScore": 72,
       "decision": "review",
       "notes": "Imported from the GA4 Data API."
     },
@@ -111,7 +111,7 @@
       "avgPosition": 0,
       "watchClicks": 0,
       "revenueUsd": 0,
-      "engagementScore": 0,
+      "engagementScore": 89,
       "decision": "review",
       "notes": "Imported from the GA4 Data API."
     }
