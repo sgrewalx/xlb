@@ -971,29 +971,11 @@ img {
   font-size: 0.92rem;
 }
 
-.top-card-summary,
-.top-card-why {
+.top-card-summary {
   margin: 0;
   color: var(--muted);
   font-size: 0.92rem;
   line-height: 1.55;
-}
-
-.top-card-why {
-  padding: 12px;
-  border-radius: var(--radius-md);
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid rgba(255, 255, 255, 0.05);
-}
-
-.top-card-why span {
-  display: block;
-  margin-bottom: 6px;
-  color: var(--accent);
-  font-size: 0.7rem;
-  font-weight: 800;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
 }
 
 .top-grid-expanded .top-card h3 {

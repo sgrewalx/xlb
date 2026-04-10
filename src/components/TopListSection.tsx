@@ -130,12 +130,6 @@ export function TopListSection({
             {expanded && item.summary ? (
               <p className="top-card-summary">{item.summary}</p>
             ) : null}
-            {expanded && item.whyItMatters ? (
-              <p className="top-card-why">
-                <span>Why it matters</span>
-                {item.whyItMatters}
-              </p>
-            ) : null}
             <p className="muted">
               {new Intl.DateTimeFormat("en", {
                 hour: "2-digit",
