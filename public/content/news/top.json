@@ -1,24 +1,34 @@
 {
-  "updatedAt": "2026-04-11T06:53:52.021Z",
+  "updatedAt": "2026-04-11T07:45:08.461Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-djibouti-s-president-guelleh-wins-sixth-straight-13c3831fff",
-      "title": "Djibouti’s President Guelleh wins sixth straight term in office",
+      "id": "news-video-vance-arrives-in-pakistan-for-talks-with-i-3f0de43db1",
+      "title": "Video: Vance arrives in Pakistan for talks with Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
-      "tag": "News",
-      "publishedAt": "2026-04-11T06:26:36.000Z",
-      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+      "tag": "Show Types",
+      "publishedAt": "2026-04-11T07:34:16.000Z",
+      "summary": "XLB brief: a timely show types item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-here-s-the-latest-ce7c4d43d7",
-      "title": "Here’s the latest.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/heres-the-latest",
+      "id": "news-pakistan-hosts-u-s-iran-peace-talks-after-weeks--b6fac9ca84",
+      "title": "Pakistan hosts U.S.-Iran peace talks after weeks of frantic diplomacy",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran",
       "tag": "World",
-      "publishedAt": "2026-04-11T06:18:45.000Z",
+      "publishedAt": "2026-04-11T07:04:41.000Z",
+      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-iranian-delegation-arrives-at-peace-talks-with-v-3773bf87e8",
+      "title": "Iranian Delegation Arrives at Peace Talks, With Vance en Route",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
+      "tag": "World",
+      "publishedAt": "2026-04-11T06:53:48.000Z",
       "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
@@ -43,22 +53,42 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-shortlisted-for-an-oscar-homebound-is-a-daring-m-d641af4947",
-      "title": "Shortlisted for an Oscar, 'Homebound' is a daring movie about two dear friends",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/10/g-s1-116860/oscar-homebound-india-pandemic-hindu-dalit-muslim",
-      "tag": "World",
-      "publishedAt": "2026-04-10T17:22:44.000Z",
-      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+      "id": "news-artemis-ii-marks-historic-lunar-return-with-paci-82b3e38e92",
+      "title": "Artemis II marks historic lunar return with Pacific splashdown success",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-04-11T07:23:43.000Z",
+      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iranian-delegation-arrives-at-peace-talks-with-v-709b7f2112",
-      "title": "Iranian Delegation Arrives at Peace Talks, With Vance en Route",
+      "id": "news-chelsea-vs-manchester-city-premier-league-team-n-8eec860c3c",
+      "title": "Chelsea vs Manchester City: Premier League – team news, start, lineups",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/11/chelsea-vs-manchester-city-premier-league-team-news-start-lineups?traffic_source=rss",
+      "tag": "Sport",
+      "publishedAt": "2026-04-11T07:16:05.000Z",
+      "summary": "XLB brief: a timely sport item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-djibouti-s-president-guelleh-wins-sixth-straight-13c3831fff",
+      "title": "Djibouti’s President Guelleh wins sixth straight term in office",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-04-11T06:26:36.000Z",
+      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-here-s-the-latest-ce7c4d43d7",
+      "title": "Here’s the latest.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
+      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/heres-the-latest",
       "tag": "World",
-      "publishedAt": "2026-04-11T06:11:30.000Z",
+      "publishedAt": "2026-04-11T06:18:45.000Z",
       "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
@@ -90,36 +120,6 @@
       "tag": "Us And Israeli",
       "publishedAt": "2026-04-11T05:11:37.000Z",
       "summary": "XLB brief: a timely us and israeli item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-state-failing-to-learn-lessons-of-southport-atta-317467c6e6",
-      "title": "State failing to learn lessons of Southport attack, say victims’ lawyers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/state-failing-lessons-southport-attack-victims-lawyers",
-      "tag": "Southport Attack",
-      "publishedAt": "2026-04-11T05:00:42.000Z",
-      "summary": "XLB brief: a timely southport attack item from The Guardian, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-king-signs-up-david-beckham-to-his-chelsea-flowe-879eb74c35",
-      "title": "King signs up David Beckham to his Chelsea flower show team",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/11/king-signs-up-david-beckham-to-his-chelsea-flower-show-team",
-      "tag": "Chelsea Flower Show",
-      "publishedAt": "2026-04-11T05:00:42.000Z",
-      "summary": "XLB brief: a timely chelsea flower show item from The Guardian, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-the-war-over-omagh-s-gold-the-21bn-mine-plan-tea-fff5a41f7e",
-      "title": "The war over Omagh’s gold: the £21bn mine plan tearing a community apart",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/omagh-northern-ireland-gold-mine-21bn-inquiry",
-      "tag": "Northern Ireland",
-      "publishedAt": "2026-04-11T05:00:41.000Z",
-      "summary": "XLB brief: a timely northern ireland item from The Guardian, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
