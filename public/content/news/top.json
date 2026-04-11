@@ -1,55 +1,105 @@
 {
-  "updatedAt": "2026-04-11T09:33:24.344Z",
+  "updatedAt": "2026-04-11T10:26:38.835Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-djibouti-s-president-wins-unprecedented-sixth-te-a94b55a8b3",
-      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-11T09:32:18.000Z",
-      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-iran-war-live-updates-vance-lands-in-pakistan-fo-dc93d8581d",
+      "id": "news-iran-war-live-updates-vance-lands-in-pakistan-fo-b92d9eed2d",
       "title": "Iran War Live Updates: Vance Lands in Pakistan for Peace Talks With Iran",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
       "tag": "World",
-      "publishedAt": "2026-04-11T09:21:10.000Z",
+      "publishedAt": "2026-04-11T10:10:10.000Z",
       "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-mcdonald-s-ceo-blames-mother-s-etiquette-trainin-fd4b6f72fd",
-      "title": "McDonald’s CEO blames mother’s etiquette training for awkward burger bite in video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/11/mcdonalds-ceo-taste-test-video-blames-etiquette",
-      "tag": "Mcdonald's",
-      "publishedAt": "2026-04-11T09:00:43.000Z",
-      "summary": "XLB brief: a timely mcdonald's item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-nasa-hails-success-of-artemis-moon-mission-but-s-fbd330740c",
+      "title": "NASA hails success of Artemis moon mission but says more work to do",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
+      "tag": "Show Types",
+      "publishedAt": "2026-04-11T10:07:11.000Z",
+      "summary": "XLB brief: a timely show types item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-what-s-at-stake-in-benin-s-presidential-election-810ae93265",
-      "title": "What’s at stake in Benin’s presidential election?",
+      "id": "news-world-s-first-safari-park-celebrates-60-years-e9265d9353",
+      "title": "World's first safari park celebrates 60 years",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn4vjxmn018o?at_medium=RSS&at_campaign=rss",
+      "tag": "Climate",
+      "publishedAt": "2026-04-11T10:06:02.000Z",
+      "summary": "XLB brief: a timely climate item from BBC, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Climate and environment stories tend to affect everyday decisions, policy choices, and long-term public risk."
+    },
+    {
+      "id": "news-in-syria-instability-allowed-isis-fighters-to-fl-f95c3932fc",
+      "title": "In Syria, instability allowed ISIS fighters to flee camps, but many of their families still detained",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/11/nx-s1-5767032/in-syria-instability-allowed-isis-fighters-to-flee-camps-but-many-of-their-families-still-detained",
+      "tag": "World",
+      "publishedAt": "2026-04-11T10:00:00.000Z",
+      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-explosives-found-near-pipeline-in-serbia-probabl-1092f1483c",
+      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
+      "tag": "Hungary",
+      "publishedAt": "2026-04-11T09:36:01.000Z",
+      "summary": "XLB brief: a timely hungary item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-there-are-few-public-details-about-the-high-leve-b2d2fa42a5",
+      "title": "There are few public details about the high-level talks — not even the timing.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/vance-talks-details",
+      "tag": "World",
+      "publishedAt": "2026-04-11T10:10:09.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-uk-to-hold-off-on-deal-ceding-chagos-islands-ami-8dbad41537",
+      "title": "UK to hold off on deal ceding Chagos Islands amid US opposition",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/4/11/uk-to-hold-off-on-deal-ceding-chagos-islands-amid-us-opposition?traffic_source=rss",
       "tag": "News",
-      "publishedAt": "2026-04-11T09:00:39.000Z",
+      "publishedAt": "2026-04-11T10:06:53.000Z",
       "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-peru-s-election-a-battle-for-the-presidency-amid-2c4c669ffc",
-      "title": "Peru's election: A battle for the Presidency amid political chaos and crime",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/11/nx-s1-5777736/peru-election-president-crime-corruption",
+      "id": "news-when-the-moon-met-canada-2a878eb7fa",
+      "title": "When the Moon Met Canada",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/11/world/canada/artemis-moon-jeremy-hansen-nasa-space-canada.html",
+      "tag": "Hansen, Jeremy (1976-",
+      "publishedAt": "2026-04-11T10:05:21.000Z",
+      "summary": "XLB brief: a timely hansen, jeremy (1976- item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-in-new-war-with-israel-hezbollah-defies-notion-t-757b1e2347",
+      "title": "In New War With Israel, Hezbollah Defies Notion That It Was Crippled",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/hezbollah-israel.html",
+      "tag": "Israel",
+      "publishedAt": "2026-04-11T09:45:13.000Z",
+      "summary": "XLB brief: a timely israel item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-djibouti-s-president-wins-unprecedented-sixth-te-01b66a1529",
+      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
       "tag": "World",
-      "publishedAt": "2026-04-11T09:00:00.000Z",
-      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-11T09:42:39.000Z",
+      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
@@ -70,56 +120,6 @@
       "tag": "Us And Israeli",
       "publishedAt": "2026-04-11T09:20:27.000Z",
       "summary": "XLB brief: a timely us and israeli item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-here-s-the-latest-357930ea48",
-      "title": "Here’s the latest.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/heres-the-latest",
-      "tag": "World",
-      "publishedAt": "2026-04-11T09:14:50.000Z",
-      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-you-are-my-god-japan-s-pm-tells-british-rock-ban-9e26c76066",
-      "title": "'You are my god', Japan's PM tells British rock band Deep Purple",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-11T09:12:36.000Z",
-      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-iran-tries-to-grasp-economic-devastation-of-war--c62218e516",
-      "title": "Iran Tries to Grasp Economic Devastation of War, and Find a Way Past It",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-economy-war.html",
-      "tag": "Us And Israeli",
-      "publishedAt": "2026-04-11T09:02:24.000Z",
-      "summary": "XLB brief: a timely us and israeli item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-killing-of-masood-masjoody-exposes-deep-rifts-in-7908b9c2e2",
-      "title": "Killing of Masood Masjoody Exposes Deep Rifts in Canada’s Iranian Diaspora",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/canada/iran-murder-masjoody-vancouver-canada.html",
-      "tag": "Murders, Attempted Murders",
-      "publishedAt": "2026-04-11T09:00:21.000Z",
-      "summary": "XLB brief: a timely murders, attempted murders item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-mexico-s-police-focus-on-world-cup-while-thousan-703413bda2",
-      "title": "Mexico’s Police Focus on World Cup While Thousands Remain Missing",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/video/world/americas/100000010775303/mexico-fifa-world-cup-security-disappeared.html",
-      "tag": "Stadiums And Arenas",
-      "publishedAt": "2026-04-11T09:00:08.000Z",
-      "summary": "XLB brief: a timely stadiums and arenas item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
