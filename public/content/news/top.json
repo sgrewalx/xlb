@@ -1,26 +1,46 @@
 {
-  "updatedAt": "2026-04-11T10:26:38.835Z",
+  "updatedAt": "2026-04-11T11:24:34.503Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-vance-lands-in-pakistan-fo-b92d9eed2d",
+      "id": "news-record-number-of-homes-in-great-britain-turn-to--5668b86ea5",
+      "title": "Record number of homes in Great Britain turn to green energy as fuel prices soar",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/11/homes-great-britain-green-energy-fuel-prices",
+      "tag": "Energy Industry",
+      "publishedAt": "2026-04-11T11:00:47.000Z",
+      "summary": "XLB brief: a timely energy industry item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-india-cracks-down-on-satirists-for-turning-its-p-671b81aa91",
+      "title": "India cracks down on satirists for turning its prime minister into a punch line",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/11/g-s1-116582/india-cracks-down-satirists-turning-prime-minister-punch-line-modi",
+      "tag": "World",
+      "publishedAt": "2026-04-11T11:00:00.000Z",
+      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-we-need-a-regional-agreement-for-the-strait-of-h-0fa35c2085",
+      "title": "We need a regional agreement for the Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss",
+      "tag": "Opinions",
+      "publishedAt": "2026-04-11T10:56:33.000Z",
+      "summary": "XLB brief: a timely opinions item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-vance-lands-in-pakistan-fo-b99f000b98",
       "title": "Iran War Live Updates: Vance Lands in Pakistan for Peace Talks With Iran",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
       "tag": "World",
-      "publishedAt": "2026-04-11T10:10:10.000Z",
+      "publishedAt": "2026-04-11T10:43:46.000Z",
       "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-nasa-hails-success-of-artemis-moon-mission-but-s-fbd330740c",
-      "title": "NASA hails success of Artemis moon mission but says more work to do",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
-      "tag": "Show Types",
-      "publishedAt": "2026-04-11T10:07:11.000Z",
-      "summary": "XLB brief: a timely show types item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
       "id": "news-world-s-first-safari-park-celebrates-60-years-e9265d9353",
@@ -33,23 +53,53 @@
       "whyItMatters": "Climate and environment stories tend to affect everyday decisions, policy choices, and long-term public risk."
     },
     {
-      "id": "news-in-syria-instability-allowed-isis-fighters-to-fl-f95c3932fc",
-      "title": "In Syria, instability allowed ISIS fighters to flee camps, but many of their families still detained",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/11/nx-s1-5767032/in-syria-instability-allowed-isis-fighters-to-flee-camps-but-many-of-their-families-still-detained",
+      "id": "news-native-americans-were-gambling-with-dice-6-000-y-c55df655fc",
+      "title": "Native Americans were gambling with dice 6,000 years earlier than anyone else, study says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
+      "tag": "Archaeology",
+      "publishedAt": "2026-04-11T11:00:47.000Z",
+      "summary": "XLB brief: a timely archaeology item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israel-in-row-with-south-korean-leader-over-pale-b0d5921604",
+      "title": "Israel in row with South Korean leader over Palestinian abuse concerns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-04-11T10:47:55.000Z",
+      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-here-s-the-latest-1ba4721b3b",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/heres-the-latest",
       "tag": "World",
-      "publishedAt": "2026-04-11T10:00:00.000Z",
-      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-11T10:34:41.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-explosives-found-near-pipeline-in-serbia-probabl-1092f1483c",
-      "title": "Explosives found near pipeline in Serbia probably ‘Russian provocation’, says expert",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/explosives-serbia-pipeline-likely-russian-provocation-says-military-expert-hungary-ukraine",
-      "tag": "Hungary",
-      "publishedAt": "2026-04-11T09:36:01.000Z",
-      "summary": "XLB brief: a timely hungary item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-monthly-report-dda9450ec0",
+      "title": "Monthly Report",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/11/briefing/monthly-report.html",
+      "tag": "Internal-storyline-no",
+      "publishedAt": "2026-04-11T10:28:51.000Z",
+      "summary": "XLB brief: a timely internal-storyline-no item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-video-crucial-talks-says-al-jazeera-reporter-at--3e7923f936",
+      "title": "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss",
+      "tag": "Show Types",
+      "publishedAt": "2026-04-11T10:24:16.000Z",
+      "summary": "XLB brief: a timely show types item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -63,63 +113,13 @@
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-uk-to-hold-off-on-deal-ceding-chagos-islands-ami-8dbad41537",
-      "title": "UK to hold off on deal ceding Chagos Islands amid US opposition",
+      "id": "news-nasa-hails-success-of-artemis-moon-mission-but-s-fbd330740c",
+      "title": "NASA hails success of Artemis moon mission but says more work to do",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/uk-to-hold-off-on-deal-ceding-chagos-islands-amid-us-opposition?traffic_source=rss",
-      "tag": "News",
-      "publishedAt": "2026-04-11T10:06:53.000Z",
-      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-when-the-moon-met-canada-2a878eb7fa",
-      "title": "When the Moon Met Canada",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/canada/artemis-moon-jeremy-hansen-nasa-space-canada.html",
-      "tag": "Hansen, Jeremy (1976-",
-      "publishedAt": "2026-04-11T10:05:21.000Z",
-      "summary": "XLB brief: a timely hansen, jeremy (1976- item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-in-new-war-with-israel-hezbollah-defies-notion-t-757b1e2347",
-      "title": "In New War With Israel, Hezbollah Defies Notion That It Was Crippled",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/hezbollah-israel.html",
-      "tag": "Israel",
-      "publishedAt": "2026-04-11T09:45:13.000Z",
-      "summary": "XLB brief: a timely israel item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-djibouti-s-president-wins-unprecedented-sixth-te-01b66a1529",
-      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-11T09:42:39.000Z",
-      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-eu-airline-industry-warns-of-fuel-shortages-if-s-49755613ca",
-      "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
-      "tag": "Money",
-      "publishedAt": "2026-04-11T09:21:28.000Z",
-      "summary": "XLB brief: a timely money item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Money and business signals can change household, market, and work decisions quickly."
-    },
-    {
-      "id": "news-many-iranians-are-glad-the-fighting-has-paused-s-7b66b22de7",
-      "title": "Many Iranians Are Glad the Fighting Has Paused. Some Hard-liners Aren’t.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iranians-hardliners-ceasefire.html",
-      "tag": "Us And Israeli",
-      "publishedAt": "2026-04-11T09:20:27.000Z",
-      "summary": "XLB brief: a timely us and israeli item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss",
+      "tag": "Show Types",
+      "publishedAt": "2026-04-11T10:07:11.000Z",
+      "summary": "XLB brief: a timely show types item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
