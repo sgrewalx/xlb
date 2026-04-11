@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-04-11T13:50:13.115Z",
+  "updatedAt": "2026-04-11T14:30:47.186Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-irish-police-push-back-fuel-protesters-at-oil-re-b31ae7dc47",
-      "title": "Irish police push back fuel protesters at oil refinery",
+      "id": "news-what-we-know-about-the-u-s-iran-cease-fire-talks-9aa3a447a8",
+      "title": "What We Know About the U.S.-Iran Cease-Fire Talks in Pakistan",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-us-ceasefire-talks-negotiations.html",
+      "tag": "Us And Israeli",
+      "publishedAt": "2026-04-11T14:28:03.000Z",
+      "summary": "XLB brief: a timely us and israeli item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-frontrunner-for-california-governor-denies-sexua-43884035e2",
+      "title": "Frontrunner for California governor denies sexual assault allegations",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
       "tag": "World",
-      "publishedAt": "2026-04-11T13:44:14.000Z",
+      "publishedAt": "2026-04-11T14:24:24.000Z",
       "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-arsenal-shocked-by-bournemouth-offering-man-city-ced76f69ef",
-      "title": "Arsenal shocked by Bournemouth offering Man City Premier League lifeline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/11/arsenal-shocked-by-bournemouth-offering-man-city-premier-league-lifeline?traffic_source=rss",
-      "tag": "Sport",
-      "publishedAt": "2026-04-11T13:36:18.000Z",
-      "summary": "XLB brief: a timely sport item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-why-the-nato-alliance-is-not-as-likely-to-dissol-e58982cdfb",
+      "title": "Why the Nato alliance is not as likely to dissolve as Trump makes it seem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/nato-alliance-trump-threats",
+      "tag": "Nato",
+      "publishedAt": "2026-04-11T14:00:49.000Z",
+      "summary": "XLB brief: a timely nato item from The Guardian, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-u-s-and-iran-begin-peace-t-a52abb5d67",
-      "title": "Iran War Live Updates: U.S. and Iran Begin Peace Talks, Iranian Media Says",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
-      "tag": "World",
-      "publishedAt": "2026-04-11T13:35:45.000Z",
-      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     }
   ]
 }
