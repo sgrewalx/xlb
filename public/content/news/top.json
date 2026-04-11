@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-04-11T05:55:25.147Z",
+  "updatedAt": "2026-04-11T06:53:52.021Z",
   "section": "Expanded News",
   "items": [
+    {
+      "id": "news-djibouti-s-president-guelleh-wins-sixth-straight-13c3831fff",
+      "title": "Djibouti’s President Guelleh wins sixth straight term in office",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-04-11T06:26:36.000Z",
+      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-here-s-the-latest-ce7c4d43d7",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/heres-the-latest",
+      "tag": "World",
+      "publishedAt": "2026-04-11T06:18:45.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
     {
       "id": "news-concerns-after-satellite-provider-restricts-iran-c59224f147",
       "title": "Concerns after satellite provider restricts Iran images following US pressure",
@@ -10,16 +30,6 @@
       "tag": "World",
       "publishedAt": "2026-04-11T05:40:51.000Z",
       "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-iranian-delegation-arrives-at-peace-talks-with-v-7c51ac1a6e",
-      "title": "Iranian Delegation Arrives at Peace Talks, With Vance en Route",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
-      "tag": "World",
-      "publishedAt": "2026-04-11T05:28:13.000Z",
-      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
@@ -33,16 +43,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-what-is-happening-on-day-43-of-the-us-i-e5e76b66f2",
-      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-      "tag": "News",
-      "publishedAt": "2026-04-11T04:49:17.000Z",
-      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-shortlisted-for-an-oscar-homebound-is-a-daring-m-d641af4947",
       "title": "Shortlisted for an Oscar, 'Homebound' is a daring movie about two dear friends",
       "source": "NPR",
@@ -53,12 +53,12 @@
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-here-s-the-latest-703e3a1682",
-      "title": "Here’s the latest.",
+      "id": "news-iranian-delegation-arrives-at-peace-talks-with-v-709b7f2112",
+      "title": "Iranian Delegation Arrives at Peace Talks, With Vance en Route",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/heres-the-latest",
+      "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
       "tag": "World",
-      "publishedAt": "2026-04-11T05:16:42.000Z",
+      "publishedAt": "2026-04-11T06:11:30.000Z",
       "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
