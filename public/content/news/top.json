@@ -1,7 +1,107 @@
 {
-  "updatedAt": "2026-04-11T14:30:47.186Z",
+  "updatedAt": "2026-04-11T15:26:24.728Z",
   "section": "Expanded News",
   "items": [
+    {
+      "id": "news-fuel-tankers-regain-access-to-oil-refinery-8b7a3b2bd3",
+      "title": "Fuel tankers regain access to oil refinery",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-04-11T15:25:09.000Z",
+      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-iran-war-live-updates-u-s-and-iran-hold-historic-ab7db0963c",
+      "title": "Iran War Live Updates: U.S. and Iran Hold Historic High-Level Peace Talks",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
+      "tag": "World",
+      "publishedAt": "2026-04-11T15:17:48.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-hungry-fury-light-and-lean-for-heavyweight-comeb-ad7c518ff3",
+      "title": "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov?traffic_source=rss",
+      "tag": "Sport",
+      "publishedAt": "2026-04-11T15:04:46.000Z",
+      "summary": "XLB brief: a timely sport item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-reportedly-says-he-ll-issue-mass-pardons-a-8bb2552131",
+      "title": "Trump reportedly says he’ll issue mass pardons at end of his presidential term",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/11/trump-mass-pardons-end-of-presidential-term",
+      "tag": "Donald Trump",
+      "publishedAt": "2026-04-11T14:17:33.000Z",
+      "summary": "XLB brief: a timely donald trump item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-india-cracks-down-on-satirists-for-turning-its-p-671b81aa91",
+      "title": "India cracks down on satirists for turning its prime minister into a punch line",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/11/g-s1-116582/india-cracks-down-satirists-turning-prime-minister-punch-line-modi",
+      "tag": "World",
+      "publishedAt": "2026-04-11T11:00:00.000Z",
+      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-here-s-the-latest-daaded9b53",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/heres-the-latest",
+      "tag": "World",
+      "publishedAt": "2026-04-11T15:17:46.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-christians-return-to-jerusalem-s-holy-sepulchre--210680824c",
+      "title": "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-04-11T15:04:39.000Z",
+      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-police-begin-arrests-at-uk-protest-against-pales-2f357a5f3a",
+      "title": "Police begin arrests at UK protest against Palestine Action ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/11/police-begin-arrests-at-uk-protest-against-palestine-action-ban?traffic_source=rss",
+      "tag": "News",
+      "publishedAt": "2026-04-11T15:01:18.000Z",
+      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-overlooked-no-more-margaret-gipsy-moth-fearless--4a97093594",
+      "title": "Overlooked No More: Margaret Gipsy Moth, Fearless CNN Camera Operator",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/11/obituaries/margaret-gipsy-moth-overlooked.html",
+      "tag": "Moth, Margaret Gipsy",
+      "publishedAt": "2026-04-11T14:48:51.000Z",
+      "summary": "XLB brief: a timely moth, margaret gipsy item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-iran-ceasefire-can-pressure-incentives-and-ri-43af868563",
+      "title": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/this-is-america/2026/4/11/us-iran-ceasefire-can-pressure-incentives-and-risks-deliver-a-final-deal?traffic_source=rss",
+      "tag": "Show Types",
+      "publishedAt": "2026-04-11T14:39:38.000Z",
+      "summary": "XLB brief: a timely show types item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
     {
       "id": "news-what-we-know-about-the-u-s-iran-cease-fire-talks-9aa3a447a8",
       "title": "What We Know About the U.S.-Iran Cease-Fire Talks in Pakistan",
@@ -21,106 +121,6 @@
       "publishedAt": "2026-04-11T14:24:24.000Z",
       "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-why-the-nato-alliance-is-not-as-likely-to-dissol-e58982cdfb",
-      "title": "Why the Nato alliance is not as likely to dissolve as Trump makes it seem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/nato-alliance-trump-threats",
-      "tag": "Nato",
-      "publishedAt": "2026-04-11T14:00:49.000Z",
-      "summary": "XLB brief: a timely nato item from The Guardian, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-arsenal-shocked-by-bournemouth-offering-man-city-ced76f69ef",
-      "title": "Arsenal shocked by Bournemouth, offering Man City Premier League lifeline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/11/arsenal-shocked-by-bournemouth-offering-man-city-premier-league-lifeline?traffic_source=rss",
-      "tag": "Sport",
-      "publishedAt": "2026-04-11T13:36:18.000Z",
-      "summary": "XLB brief: a timely sport item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-india-cracks-down-on-satirists-for-turning-its-p-671b81aa91",
-      "title": "India cracks down on satirists for turning its prime minister into a punch line",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/11/g-s1-116582/india-cracks-down-satirists-turning-prime-minister-punch-line-modi",
-      "tag": "World",
-      "publishedAt": "2026-04-11T11:00:00.000Z",
-      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-iran-has-been-consistent-in-war-will-it-be-consi-f6536acd7d",
-      "title": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html",
-      "tag": "Us And Israeli",
-      "publishedAt": "2026-04-11T14:22:30.000Z",
-      "summary": "XLB brief: a timely us and israeli item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-u-s-and-iran-begin-peace-t-680305177e",
-      "title": "Iran War Live Updates: U.S. and Iran Begin Peace Talks, Iranian Media Says",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
-      "tag": "World",
-      "publishedAt": "2026-04-11T14:17:56.000Z",
-      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-there-are-few-public-details-about-the-high-leve-297a637615",
-      "title": "There are few public details about the high-level talks — not even the timing.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan/vance-talks-details",
-      "tag": "World",
-      "publishedAt": "2026-04-11T14:17:54.000Z",
-      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-irish-police-push-back-fuel-protesters-at-oil-re-f42e7b3c09",
-      "title": "Irish police push back fuel protesters at oil refinery",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-11T14:07:19.000Z",
-      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-19-year-old-woman-dies-after-being-attacked-by-a-cb11ea4051",
-      "title": "19-year-old woman dies after being attacked by a dog in Essex",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/19-year-old-woman-dies-after-dog-attack-in-essex",
-      "tag": "Uk News",
-      "publishedAt": "2026-04-11T13:54:25.000Z",
-      "summary": "XLB brief: a timely uk news item from The Guardian, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-man-in-bahamian-jail-after-wife-disappears-in-46c5d9d285",
-      "title": "US man in Bahamian jail after wife disappears into Atlantic waters during boat trip",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/11/lynette-brian-hooker-bahamas-jail",
-      "tag": "Bahamas",
-      "publishedAt": "2026-04-11T13:53:54.000Z",
-      "summary": "XLB brief: a timely bahamas item from The Guardian, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-iran-talks-on-ending-war-begin-in-pakistan-5fd1dc6cc0",
-      "title": "US-Iran talks on ending war begin in Pakistan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan?traffic_source=rss",
-      "tag": "News",
-      "publishedAt": "2026-04-11T13:26:53.000Z",
-      "summary": "XLB brief: a timely news item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
 }
