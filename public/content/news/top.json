@@ -1,25 +1,35 @@
 {
-  "updatedAt": "2026-04-12T10:31:58.773Z",
+  "updatedAt": "2026-04-12T11:28:44.421Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-top-iranian-negotiator-sug-016eb8eb39",
-      "title": "Iran War Live Updates: Top Iranian Negotiator Suggests Iran Is Open to Further Peace Talks",
+      "id": "news-iran-war-live-updates-top-iranian-negotiator-sug-885cc70a99",
+      "title": "Iran War Live Updates: Top Iranian Negotiator Suggests Further Peace Talks Are Possible",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
       "tag": "Running",
-      "publishedAt": "2026-04-12T10:29:48.000Z",
+      "publishedAt": "2026-04-12T11:25:27.000Z",
       "summary": "XLB brief: a timely running item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-wes-streeting-attacks-trump-s-outrageous-iran-wa-3972675956",
-      "title": "Wes Streeting attacks Trump’s ‘outrageous’ Iran war rhetoric",
+      "id": "news-lifestyle-blogger-said-to-have-inspired-devil-we-9f27403f0f",
+      "title": "Lifestyle blogger said to have inspired Devil Wears Prada character uses unpaid student interns",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/12/lifestyle-blogger-devil-wears-prada-anna-wintour-assistant-pay-interns",
       "tag": "World",
-      "publishedAt": "2026-04-12T10:09:33.000Z",
+      "publishedAt": "2026-04-12T11:00:17.000Z",
       "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-benin-holds-presidential-election-amid-deteriora-e3fc639b06",
+      "title": "Benin holds presidential election amid deteriorating security situation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss",
+      "tag": "World",
+      "publishedAt": "2026-04-12T10:51:36.000Z",
+      "summary": "XLB brief: a timely world item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
@@ -43,82 +53,72 @@
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-saudi-arabia-says-key-oil-pipeline-back-to-full--e519770b15",
-      "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss",
+      "id": "news-in-pakistan-talks-iran-saw-a-u-s-trying-to-dicta-421dfd54d0",
+      "title": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html",
       "tag": "World",
-      "publishedAt": "2026-04-12T09:47:24.000Z",
-      "summary": "XLB brief: a timely world item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-12T11:24:22.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-here-s-the-latest-9fcb4c6e76",
+      "id": "news-remote-working-tribunal-cases-in-great-britain-f-6675f35ee3",
+      "title": "Remote working tribunal cases in Great Britain fall for first time since Covid",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/12/remote-working-tribunal-cases-great-britain-fall-for-first-time-since-covid-hit",
+      "tag": "World",
+      "publishedAt": "2026-04-12T11:00:17.000Z",
+      "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-home-office-to-announce-closure-of-11-asylum-hot-e5f57f242a",
+      "title": "Home Office to announce closure of 11 asylum hotels in next week",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
+      "tag": "World",
+      "publishedAt": "2026-04-12T11:00:16.000Z",
+      "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-trump-s-new-budget-ignores-dying-americans-and-g-259f904bb4",
+      "title": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
+      "tag": "World",
+      "publishedAt": "2026-04-12T11:00:16.000Z",
+      "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-here-s-the-latest-c4e9b60164",
       "title": "Here’s the latest.",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/heres-the-latest",
       "tag": "World",
-      "publishedAt": "2026-04-12T10:29:47.000Z",
+      "publishedAt": "2026-04-12T10:44:31.000Z",
       "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-netanyahu-says-war-with-iran-is-not-yet-over-e17109a5aa",
+      "id": "news-netanyahu-says-war-with-iran-is-not-yet-over-52db30affe",
       "title": "Netanyahu Says War With Iran is ‘Not Yet Over’",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html",
       "tag": "World",
-      "publishedAt": "2026-04-12T10:15:25.000Z",
+      "publishedAt": "2026-04-12T10:15:26.000Z",
       "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-asha-bhosle-the-sound-of-bollywood-dies-aged-92-f5294fa810",
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-04-12T10:03:00.000Z",
-      "summary": "XLB brief: a timely running item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-legendary-bollywood-singer-asha-bhosle-dies-aged-2957207857",
-      "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+      "id": "news-union-berlin-s-marie-louise-eta-becomes-first-fe-62d6a7899b",
+      "title": "Union Berlin’s Marie-Louise Eta becomes first female manager of men’s team",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/4/12/union-berlins-marie-louise-eta-becomes-first-woman-manager-of-mens-team?traffic_source=rss",
       "tag": "World",
-      "publishedAt": "2026-04-12T09:40:55.000Z",
-      "summary": "XLB brief: a timely world item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-no-deal-u-s-iran-peace-talks-in-islamabad-collap-8a1964fe7b",
-      "title": "No Deal: U.S.-Iran peace talks in Islamabad collapse",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
-      "tag": "World",
-      "publishedAt": "2026-04-12T09:40:24.000Z",
-      "summary": "XLB brief: a timely world item from NPR, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-we-need-real-peace-easter-truce-fails-to-lift-gr-e684cea32f",
-      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-12T09:38:31.000Z",
-      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-more-than-500-people-arrested-at-london-rally-fo-264ae4b34a",
-      "title": "More than 500 people arrested at London rally for Palestine Action",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-12T09:36:42.000Z",
+      "publishedAt": "2026-04-12T10:14:22.000Z",
       "summary": "XLB brief: a timely world item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     }
