@@ -68,10 +68,10 @@ function normalizeEntry(block, feed) {
     extractFirst(block, ["pubDate", "published", "updated", "dc:date"]),
   );
   const categories = extractMany(block, ["category", "dc:subject"]);
-  const tag = normalizeSportsTag(categories, feed.defaultTag ?? "Sports");
   const excerpt = cleanExcerpt(
     extractFirst(block, ["description", "summary", "content:encoded"]),
   );
+  const tag = normalizeSportsTag(categories, feed.defaultTag ?? "Sports", title, excerpt);
 
   if (!title || !url || !publishedAt) {
     return null;
@@ -132,7 +132,7 @@ function cleanText(value) {
     .trim();
 }
 
-function normalizeSportsTag(categories, defaultTag) {
+function normalizeSportsTag(categories, defaultTag, title, excerpt) {
   const normalizedCategories = categories
     .flatMap((value) => cleanText(value).toLowerCase().split(/[|,/]+/g))
     .map((value) => value.trim())
@@ -167,7 +167,47 @@ function normalizeSportsTag(categories, defaultTag) {
     }
   }
 
+  const combinedText = `${title} ${excerpt}`;
+  const inferredTag = inferSportsTagFromText(combinedText);
+
+  if (inferredTag) {
+    return inferredTag;
+  }
+
   return cleanTag(defaultTag);
+}
+
+function inferSportsTagFromText(text) {
+  const normalized = cleanText(text).toLowerCase();
+
+  if (normalized.includes("football") || normalized.includes("soccer")) {
+    return "Football";
+  }
+
+  if (normalized.includes("basketball")) {
+    return "Basketball";
+  }
+
+  if (normalized.includes("tennis")) {
+    return "Tennis";
+  }
+
+  if (normalized.includes("cricket")) {
+    return "Cricket";
+  }
+
+  if (
+    normalized.includes("athletics") ||
+    normalized.includes("running") ||
+    normalized.includes("track") ||
+    normalized.includes("marathon") ||
+    normalized.includes("olympic") ||
+    normalized.includes("olympics")
+  ) {
+    return "Running";
+  }
+
+  return "";
 }
 
 function cleanTag(value) {
