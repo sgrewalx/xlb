@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-04-12T12:42:51.175Z",
+  "updatedAt": "2026-04-12T13:55:48.641Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-donald-trump-and-marco-rubio-watch-ufc-fights-in-6ca5a354e9",
-      "title": "Donald Trump and Marco Rubio watch UFC fights in Miami as peace talks with Iran fail",
+      "id": "news-iran-war-live-updates-trump-says-u-s-will-blocka-e1a5f33ac2",
+      "title": "Iran War Live Updates: Trump Says U.S. Will ‘Blockade’ Strait of Hormuz After Peace Talks Fail",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
+      "tag": "Running",
+      "publishedAt": "2026-04-12T13:51:09.000Z",
+      "summary": "XLB brief: a timely running item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-planeloads-of-negotiators-and-too-little-time-us-6d30597099",
+      "title": "Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/apr/12/donald-trump-marco-rubio-ufc-iran-war",
+      "url": "https://www.theguardian.com/world/2026/apr/12/us-iran-21-hours-talks-war-vance-pakistan",
       "tag": "World",
-      "publishedAt": "2026-04-12T12:32:36.000Z",
+      "publishedAt": "2026-04-12T13:47:21.000Z",
       "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-live-chelsea-vs-manchester-city-premier-league-bcceed01c4",
-      "title": "LIVE: Chelsea vs Manchester City – Premier League",
+      "id": "news-explaining-benin-s-presidential-election-cef66cd841",
+      "title": "Explaining Benin’s presidential election",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss",
       "tag": "World",
-      "publishedAt": "2026-04-12T12:30:00.000Z",
+      "publishedAt": "2026-04-12T13:25:22.000Z",
       "summary": "XLB brief: a timely world item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-iran-war-live-updates-top-iranian-negotiator-sug-c99fb54ce9",
-      "title": "Iran War Live Updates: Top Iranian Negotiator Suggests Further Peace Talks Are Possible",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
-      "tag": "Running",
-      "publishedAt": "2026-04-12T12:27:52.000Z",
-      "summary": "XLB brief: a timely running item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
 }
