@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-11T02:46:32.612Z",
+  "updatedAt": "2026-04-12T03:25:32.343Z",
   "items": [
-    {
-      "id": "henri-matisse",
-      "quote": "Creativity takes courage.",
-      "author": "Henri Matisse",
-      "context": "Art"
-    },
     {
       "id": "helen-keller",
       "quote": "Life is either a daring adventure or nothing at all.",
@@ -30,6 +24,12 @@
       "quote": "New ideas need old buildings.",
       "author": "Jane Jacobs",
       "context": "Cities"
+    },
+    {
+      "id": "james-baldwin",
+      "quote": "The world is before you and you need not take it or leave it as it was when you came in.",
+      "author": "James Baldwin",
+      "context": "Change"
     }
   ]
 }
