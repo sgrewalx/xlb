@@ -10,6 +10,8 @@ const files = [
   ["sports/top.json", validateExpandedFeed],
   ["tech/top3.json", validateTopFeed],
   ["tech/top.json", validateExpandedFeed],
+  ["video/top3.json", validateTopFeed],
+  ["video/top.json", validateExpandedFeed],
   ["quotes/quotes.json", validateQuotes],
   ["visuals/feed.json", validateVisuals],
   ["modules/modules.json", validateModules],

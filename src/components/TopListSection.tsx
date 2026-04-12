@@ -9,7 +9,7 @@ interface TopListSectionProps {
   description?: string;
   headerTags?: string[];
   hideItemTags?: boolean;
-  visualMode?: "sports";
+  visualMode?: "sports" | "video";
   expanded?: boolean;
   loading: boolean;
   error: string | null;
@@ -117,7 +117,17 @@ export function TopListSection({
             target="_blank"
             rel="noreferrer"
           >
-            {visualMode === "sports" ? (
+            {visualMode === "video" && item.embedUrl ? (
+              <div className="top-card-media top-card-video-frame">
+                <iframe
+                  src={item.embedUrl}
+                  title={item.title}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  loading="lazy"
+                />
+              </div>
+            ) : visualMode === "sports" ? (
               <div
                 className={`top-card-media ${
                   SPORTS_VISUALS[item.tag.toLowerCase()]?.className ?? ""

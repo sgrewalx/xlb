@@ -7,6 +7,7 @@ export interface FeedItem {
   publishedAt: string;
   summary?: string;
   whyItMatters?: string;
+  embedUrl?: string;
 }
 
 export interface TopFeed {

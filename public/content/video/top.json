@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-04-12T00:00:00.000Z",
+  "section": "Expanded Video",
+  "items": [
+    {
+      "id": "video-bbc-video-breaking-news",
+      "title": "Breaking news: Major global event coverage",
+      "source": "BBC Video",
+      "url": "https://www.bbc.com/news/video",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T08:00:00.000Z",
+      "summary": "XLB brief: a timely video item from BBC Video, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual storytelling that can make complex topics more accessible and engaging."
+    },
+    {
+      "id": "video-reuters-market-update",
+      "title": "Market update: Economic indicators shift",
+      "source": "Reuters Video",
+      "url": "https://www.reuters.com/video",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T07:00:00.000Z",
+      "summary": "XLB brief: a timely video item from Reuters Video, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Financial video updates help viewers understand market movements through expert analysis."
+    },
+    {
+      "id": "video-al-jazeera-world-affairs",
+      "title": "World affairs: Diplomatic developments",
+      "source": "Al Jazeera Video",
+      "url": "https://www.aljazeera.com/video",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T06:00:00.000Z",
+      "summary": "XLB brief: a timely video item from Al Jazeera Video, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "International video coverage brings global perspectives directly to viewers."
+    },
+    {
+      "id": "video-youtube-bbc-news-latest",
+      "title": "Latest news briefing from BBC",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=example",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T05:00:00.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "YouTube videos offer extended coverage and in-depth reporting on key stories."
+    },
+    {
+      "id": "video-youtube-reuters-insight",
+      "title": "Reuters insight: Industry trends",
+      "source": "YouTube - Reuters",
+      "url": "https://www.youtube.com/watch?v=example",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T04:00:00.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Reuters, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Professional video production enhances understanding of complex business topics."
+    },
+    {
+      "id": "video-vimeo-national-geographic-nature",
+      "title": "Nature documentary: Wildlife conservation",
+      "source": "Vimeo - National Geographic",
+      "url": "https://vimeo.com/example",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T03:00:00.000Z",
+      "summary": "XLB brief: a timely video item from Vimeo - National Geographic, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "High-quality documentary videos educate and inspire action on environmental issues."
+    }
+  ]
+}

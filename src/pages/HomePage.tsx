@@ -70,6 +70,11 @@ export function HomePage() {
             <h3>Tech</h3>
             <p>A compact scan of the latest technology headlines, product updates, and platform moves.</p>
           </Link>
+          <Link className="card section-hub-card section-hub-card-video" to="/video">
+            <span className="chip chip-earth">Video</span>
+            <h3>Video</h3>
+            <p>Watch a curated video feed from free publishers and channels, selected for timeliness.</p>
+          </Link>
           <Link className="card section-hub-card section-hub-card-news" to="/news">
             <span className="chip chip-earth">News</span>
             <h3>News</h3>

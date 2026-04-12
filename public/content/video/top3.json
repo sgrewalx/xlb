@@ -1,0 +1,29 @@
+{
+  "updatedAt": "2026-04-12T00:00:00.000Z",
+  "items": [
+    {
+      "id": "video-bbc-video-breaking-news",
+      "title": "Breaking news: Major global event coverage",
+      "source": "BBC Video",
+      "url": "https://www.bbc.com/news/video",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T08:00:00.000Z"
+    },
+    {
+      "id": "video-reuters-market-update",
+      "title": "Market update: Economic indicators shift",
+      "source": "Reuters Video",
+      "url": "https://www.reuters.com/video",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T07:00:00.000Z"
+    },
+    {
+      "id": "video-al-jazeera-world-affairs",
+      "title": "World affairs: Diplomatic developments",
+      "source": "Al Jazeera Video",
+      "url": "https://www.aljazeera.com/video",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T06:00:00.000Z"
+    }
+  ]
+}

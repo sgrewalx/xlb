@@ -14,6 +14,7 @@
     "automation:sports": "node automation/fetch-sports/run.mjs",
     "automation:quotes": "node automation/refresh-quotes/run.mjs",
     "automation:tech": "node automation/fetch-tech/run.mjs",
+    "automation:video": "node automation/fetch-video/run.mjs",
     "automation:analytics": "node automation/capture-analytics/import-snapshot.mjs",
     "automation:import-ga4": "node automation/capture-analytics/import-ga4.mjs",
     "automation:import-search-console": "node automation/capture-analytics/import-search-console.mjs",

@@ -1,19 +1,19 @@
-name: Refresh Tech
+name: Refresh Video
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */2 * * *"
 
 concurrency:
-  group: refresh-tech
+  group: refresh-video
   cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  refresh-tech:
+  refresh-video:
     runs-on: ubuntu-latest
 
     steps:
@@ -31,8 +31,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Refresh tech manifest
-        run: npm run automation:tech
+      - name: Refresh video manifest
+        run: npm run automation:video
 
       - name: Validate content
         run: npm run validate:content
@@ -40,7 +40,7 @@ jobs:
       - name: Detect manifest changes
         id: changes
         run: |
-          if git diff --quiet -- public/content/tech/top3.json public/content/tech/top.json; then
+          if git diff --quiet -- public/content/video/top3.json public/content/video/top.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -55,8 +55,8 @@ jobs:
       - name: Commit manifest update
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git add public/content/tech/top3.json public/content/tech/top.json
-          git commit -m "chore: refresh tech manifest"
+          git add public/content/video/top3.json public/content/video/top.json
+          git commit -m "chore: refresh video manifest"
 
       - name: Push to main
         if: steps.changes.outputs.changed == 'true'
@@ -72,5 +72,5 @@ jobs:
             sleep 5
           done
 
-          echo "Unable to push refreshed tech manifest after 3 attempts."
+          echo "Unable to push refreshed video manifest after 3 attempts."
           exit 1

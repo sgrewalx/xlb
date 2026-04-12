@@ -13,6 +13,7 @@ import { SportsPage } from "./pages/SportsPage";
 import { StaticPage } from "./pages/StaticPage";
 import { TechPage } from "./pages/TechPage";
 import { TopicPage } from "./pages/TopicPage";
+import { VideoPage } from "./pages/VideoPage";
 import { QuoteFeed, QuoteItem } from "./types/content";
 
 const OpsDashboardPage = import.meta.env.DEV ? lazy(() => import("./pages/OpsDashboardPage")) : null;
@@ -178,6 +179,7 @@ function AppChrome() {
               <Link to="/sports">Sports</Link>
               <Link to="/news">News</Link>
               <Link to="/tech">Tech</Link>
+              <Link to="/video">Video</Link>
             </nav>
           </div>
         </header>
@@ -194,6 +196,7 @@ function AppChrome() {
           <Route path="/sports" element={<SportsPage />} />
           <Route path="/news" element={<NewsPage />} />
           <Route path="/tech" element={<TechPage />} />
+          <Route path="/video" element={<VideoPage />} />
           {OpsDashboardPage ? (
             <Route
               path="/__ops"
