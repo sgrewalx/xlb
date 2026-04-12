@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-04-12T08:37:47.658Z",
+  "updatedAt": "2026-04-12T09:35:29.083Z",
   "section": "Expanded Sports",
   "items": [
+    {
+      "id": "sports-transfer-rumors-news-carrick-pushing-for-man-uni-f9af1732e3",
+      "title": "Transfer rumors, news: Carrick pushing for Man United to sign Rogers",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/48463995/transfer-rumors-news-carrick-wants-aston-villa-morgan-rogers-manchester-united",
+      "tag": "Football",
+      "publishedAt": "2026-04-12T09:52:09.000Z",
+      "summary": "XLB brief: a fresh football item from ESPN, kept short so the page stays scan-first and source-linked.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-essex-v-somerset-notts-v-glamorgan-and-more-coun-e33b3fc243",
+      "title": "Essex v Somerset, Notts v Glamorgan and more: county cricket, day three – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/live/2026/apr/12/essex-v-somerset-notts-v-glamorgan-and-more-county-cricket-day-three-live",
+      "tag": "Cricket",
+      "publishedAt": "2026-04-12T09:28:51.000Z",
+      "summary": "XLB brief: a fresh cricket item from The Guardian, kept short so the page stays scan-first and source-linked.",
+      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
+    },
+    {
+      "id": "sports-after-fernando-mendoza-and-ty-simpson-third-qb-d-b260804555",
+      "title": "After Fernando Mendoza and Ty Simpson, third QB drafted may have a long wait",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-fernando-mendoza-and-ty-simpson-third-qb-drafted-may-have-a-long-wait",
+      "tag": "Sports",
+      "publishedAt": "2026-04-12T08:37:49.000Z",
+      "summary": "XLB brief: a fresh sports item from NBC Sports, kept short so the page stays scan-first and source-linked.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
     {
       "id": "sports-australian-teenager-gout-faster-than-bolt-at-18-677225fbcd",
       "title": "Australian teenager Gout faster than Bolt at 18",
@@ -11,36 +41,6 @@
       "publishedAt": "2026-04-12T08:28:44.000Z",
       "summary": "XLB brief: a fresh running item from BBC Sport, kept short so the page stays scan-first and source-linked.",
       "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
-    },
-    {
-      "id": "sports-arsenal-angst-de-zerbi-targets-spurs-revival-uni-ccb6269f3b",
-      "title": "Arsenal angst, De Zerbi targets Spurs revival, Union Berlin appoint first female head coach – matchday live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/live/2026/apr/12/premier-league-buildup-news-discussion-and-more-matchday-live",
-      "tag": "Football",
-      "publishedAt": "2026-04-12T08:20:54.000Z",
-      "summary": "XLB brief: a fresh football item from The Guardian, kept short so the page stays scan-first and source-linked.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-arkansas-sports-betting-2026-best-ar-sportsbooks-11d8535212",
-      "title": "Arkansas sports betting 2026: Best AR sportsbooks",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/arkansas",
-      "tag": "Sports",
-      "publishedAt": "2026-04-12T08:00:34.000Z",
-      "summary": "XLB brief: a fresh sports item from CBS Sports, kept short so the page stays scan-first and source-linked.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-namibia-v-scotland-odi-tri-series-scorecard-ea0faf947f",
-      "title": "Namibia v Scotland - ODI tri-series scorecard",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237064?at_medium=RSS&at_campaign=rss",
-      "tag": "Cricket",
-      "publishedAt": "2026-04-12T00:00:00.000Z",
-      "summary": "XLB brief: a fresh cricket item from BBC Sport, kept short so the page stays scan-first and source-linked.",
-      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
     },
     {
       "id": "sports-alcaraz-sinner-to-vie-for-monte-carlo-title-no-1-709d9fee2d",
@@ -60,6 +60,26 @@
       "tag": "Basketball",
       "publishedAt": "2026-04-11T07:23:57.000Z",
       "summary": "XLB brief: a fresh basketball item from BBC Sport, kept short so the page stays scan-first and source-linked.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-arsenal-angst-de-zerbi-targets-spurs-revival-uni-cf5daeea3b",
+      "title": "Arsenal angst, De Zerbi targets Spurs revival, Union Berlin appoint first female head coach – matchday live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/live/2026/apr/12/premier-league-buildup-news-discussion-and-more-matchday-live",
+      "tag": "Football",
+      "publishedAt": "2026-04-12T09:10:19.000Z",
+      "summary": "XLB brief: a fresh football item from The Guardian, kept short so the page stays scan-first and source-linked.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-arkansas-sports-betting-2026-best-ar-sportsbooks-11d8535212",
+      "title": "Arkansas sports betting 2026: Best AR sportsbooks",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/arkansas",
+      "tag": "Sports",
+      "publishedAt": "2026-04-12T08:00:34.000Z",
+      "summary": "XLB brief: a fresh sports item from CBS Sports, kept short so the page stays scan-first and source-linked.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
@@ -101,26 +121,6 @@
       "publishedAt": "2026-04-12T07:30:11.000Z",
       "summary": "XLB brief: a fresh running item from The Guardian, kept short so the page stays scan-first and source-linked.",
       "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
-    },
-    {
-      "id": "sports-wasted-weekend-takes-wind-out-of-wsl-s-sails-and-6efe10e993",
-      "title": "Wasted weekend takes wind out of WSL’s sails … and get ready for more",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/apr/12/wasted-weekend-international-break-womens-super-league-football",
-      "tag": "Football",
-      "publishedAt": "2026-04-12T07:00:11.000Z",
-      "summary": "XLB brief: a fresh football item from The Guardian, kept short so the page stays scan-first and source-linked.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-tottenham-will-go-down-sutton-9c2f772960",
-      "title": "Tottenham will go down - Sutton",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/football/videos/crk1r774yxgo?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-04-12T06:00:34.000Z",
-      "summary": "XLB brief: a fresh football item from BBC Sport, kept short so the page stays scan-first and source-linked.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     }
   ]
 }
