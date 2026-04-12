@@ -35,6 +35,31 @@ const SPORTS_FEEDS = [
     url: "https://feeds.bbci.co.uk/sport/athletics/rss.xml",
     defaultTag: "Running",
   },
+  {
+    source: "ESPN",
+    url: "https://www.espn.com/espn/rss/soccer/news",
+    defaultTag: "Football",
+  },
+  {
+    source: "ESPN",
+    url: "https://www.espn.com/espn/rss/basketball/news",
+    defaultTag: "Basketball",
+  },
+  {
+    source: "ESPN",
+    url: "https://www.espn.com/espn/rss/tennis/news",
+    defaultTag: "Tennis",
+  },
+  {
+    source: "ESPN",
+    url: "https://www.espn.com/espn/rss/cricket/news",
+    defaultTag: "Cricket",
+  },
+  {
+    source: "ESPN",
+    url: "https://www.espn.com/espn/rss/olympics/news",
+    defaultTag: "Running",
+  },
 ];
 
 async function main() {

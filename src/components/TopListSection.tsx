@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { FeedItem } from "../types/content";
 import { SectionHeader } from "./SectionHeader";
 
@@ -58,16 +59,28 @@ export function TopListSection({
   updatedAt,
   items,
 }: TopListSectionProps) {
+  const [selectedTag, setSelectedTag] = useState<string | null>(null);
+  const filteredItems = selectedTag ? items?.filter(item => item.tag === selectedTag) : items;
   return (
     <section id={id} className="section-block">
       {headerTags?.length ? (
         <div className="games-header top-list-header">
           <p className="section-eyebrow">{eyebrow}</p>
           <div className="top-list-tags" aria-label={`${eyebrow} categories`}>
+            <button
+              className={`games-mode-label ${selectedTag === null ? 'active' : ''}`}
+              onClick={() => setSelectedTag(null)}
+            >
+              All
+            </button>
             {headerTags.map((tag) => (
-              <p className="games-mode-label" key={tag}>
+              <button
+                className={`games-mode-label ${selectedTag === tag ? 'active' : ''}`}
+                key={tag}
+                onClick={() => setSelectedTag(tag)}
+              >
                 {tag}
-              </p>
+              </button>
             ))}
           </div>
         </div>
@@ -96,7 +109,7 @@ export function TopListSection({
           </article>
         ) : null}
 
-        {items?.map((item, index) => (
+        {filteredItems?.map((item, index) => (
           <a
             className="card top-card"
             key={item.id}
