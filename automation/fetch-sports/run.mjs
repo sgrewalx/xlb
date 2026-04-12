@@ -155,6 +155,16 @@ const SPORTS_FEEDS = [
     url: "https://www.cbssports.com/rss/headlines/",
     defaultTag: "Sports",
   },
+  {
+    source: "NBC Sports",
+    url: "https://www.nbcsports.com/index.atom",
+    defaultTag: "Sports",
+  },
+  {
+    source: "Fox Sports",
+    url: "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i",
+    defaultTag: "Sports",
+  },
 ];
 
 async function main() {
