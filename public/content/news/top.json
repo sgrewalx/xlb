@@ -1,26 +1,36 @@
 {
-  "updatedAt": "2026-04-12T08:54:05.840Z",
+  "updatedAt": "2026-04-12T09:39:17.751Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-u-s-and-iran-fail-to-agree-82876ba419",
+      "id": "news-we-need-real-peace-easter-truce-fails-to-lift-gr-e684cea32f",
+      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-04-12T09:38:31.000Z",
+      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-iran-war-live-updates-u-s-and-iran-fail-to-agree-0cfe7aadac",
       "title": "Iran War Live Updates: U.S. and Iran Fail to Agree on Peace Deal, Vance Says, Leaving Cease-Fire’s Fate Uncertain",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
       "tag": "Running",
-      "publishedAt": "2026-04-12T08:31:17.000Z",
+      "publishedAt": "2026-04-12T09:31:57.000Z",
       "summary": "XLB brief: a timely running item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-asha-bhosle-the-sound-of-bollywood-dies-aged-92-944a73b703",
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-04-12T08:24:01.000Z",
-      "summary": "XLB brief: a timely running item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+      "id": "news-too-powerful-for-the-public-inside-anthropic-s-b-356c62897b",
+      "title": "‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
+      "tag": "World",
+      "publishedAt": "2026-04-12T09:00:13.000Z",
+      "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
       "id": "news-what-happened-in-40-days-of-war-on-iran-d26b6be7d8",
@@ -30,16 +40,6 @@
       "tag": "World",
       "publishedAt": "2026-04-12T08:09:55.000Z",
       "summary": "XLB brief: a timely world item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-can-t-beet-it-humble-mangelwurzel-to-star-at-che-df0c76b478",
-      "title": "Can’t beet it! Humble mangelwurzel to star at Chelsea flower show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/12/humble-mangelwurzel-chelsea-flower-show",
-      "tag": "World",
-      "publishedAt": "2026-04-12T08:00:11.000Z",
-      "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
@@ -53,73 +53,73 @@
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-control-of-the-strait-of-hormuz-and-iran-s-urani-1807f7e8eb",
-      "title": "Control of the Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html",
-      "tag": "World",
-      "publishedAt": "2026-04-12T08:20:25.000Z",
-      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-the-prophet-and-the-mysterious-death-of-charmain-07a046da80",
-      "title": "The prophet and the mysterious death of Charmain Speirs",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-12T08:17:20.000Z",
-      "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-iran-war-what-is-happening-on-day-44-of-the-us-i-31ee94f76b",
-      "title": "Iran war: What is happening on day 44 of the US-Iran conflict?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-12T08:07:31.000Z",
-      "summary": "XLB brief: a timely world item from Al Jazeera, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-u-s-iran-talks-timeline-key-moments-between-two--869804551c",
-      "title": "U.S.-Iran Talks Timeline: Key Moments Between Two Adversaries",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/world/middleeast/us-iran-talks-timeline-key-moments.html",
-      "tag": "World",
-      "publishedAt": "2026-04-12T07:54:01.000Z",
-      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-hungarians-vote-in-big-numbers-on-whether-to-end-0cc7a4103a",
+      "id": "news-hungarians-vote-in-big-numbers-on-whether-to-end-9e46c65f55",
       "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
       "tag": "World",
-      "publishedAt": "2026-04-12T07:44:27.000Z",
+      "publishedAt": "2026-04-12T09:31:51.000Z",
       "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-peruvians-to-go-to-polls-hoping-to-break-cycle-o-cffd5a1f0e",
-      "title": "Peruvians to go to polls hoping to break cycle of instability",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
-      "tag": "World",
-      "publishedAt": "2026-04-12T07:32:52.000Z",
-      "summary": "XLB brief: a timely world item from The Guardian, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-at-least-30-feared-dead-in-crush-at-haitian-tour-3594edf03b",
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "id": "news-ukraine-and-russia-accuse-each-other-of-hundreds-de153c2da8",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
       "tag": "World",
-      "publishedAt": "2026-04-12T07:22:28.000Z",
+      "publishedAt": "2026-04-12T09:19:47.000Z",
       "summary": "XLB brief: a timely world item from BBC, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-peru-votes-for-president-with-35-names-on-the-ba-d00f30c16d",
+      "title": "Peru Votes for President, With 35 Names on the Ballot",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
+      "tag": "World",
+      "publishedAt": "2026-04-12T09:02:23.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-inside-tyre-a-lebanese-city-bombarded-by-israel-ee97ea0504",
+      "title": "Inside Tyre, a Lebanese City Bombarded by Israel",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html",
+      "tag": "World",
+      "publishedAt": "2026-04-12T09:02:10.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-mass-stampede-at-haitian-tourist-site-leaves-doz-9d47d948b1",
+      "title": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html",
+      "tag": "World",
+      "publishedAt": "2026-04-12T09:01:59.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-the-escalating-global-a-i-arms-race-14d45cb66a",
+      "title": "The Escalating Global A.I. Arms Race",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
+      "tag": "World",
+      "publishedAt": "2026-04-12T09:00:32.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-rejected-by-dozens-of-emergency-rooms-south-kore-c18bcfa1b3",
+      "title": "Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
+      "tag": "World",
+      "publishedAt": "2026-04-12T09:00:18.000Z",
+      "summary": "XLB brief: a timely world item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     }
   ]
