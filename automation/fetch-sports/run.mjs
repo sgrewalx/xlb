@@ -60,6 +60,31 @@ const SPORTS_FEEDS = [
     url: "https://www.espn.com/espn/rss/olympics/news",
     defaultTag: "Running",
   },
+  {
+    source: "The Guardian",
+    url: "https://www.theguardian.com/football/rss",
+    defaultTag: "Football",
+  },
+  {
+    source: "The Guardian",
+    url: "https://www.theguardian.com/sport/basketball/rss",
+    defaultTag: "Basketball",
+  },
+  {
+    source: "The Guardian",
+    url: "https://www.theguardian.com/sport/tennis/rss",
+    defaultTag: "Tennis",
+  },
+  {
+    source: "The Guardian",
+    url: "https://www.theguardian.com/sport/cricket/rss",
+    defaultTag: "Cricket",
+  },
+  {
+    source: "The Guardian",
+    url: "https://www.theguardian.com/sport/athletics/rss",
+    defaultTag: "Running",
+  },
 ];
 
 async function main() {
