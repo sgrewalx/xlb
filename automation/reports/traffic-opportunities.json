@@ -1,44 +1,122 @@
 {
-  "updatedAt": "2026-04-10T02:49:10.677Z",
-  "sourceSnapshot": "2026-04-10T06:00:00.000Z",
+  "updatedAt": "2026-04-12T05:49:57.856Z",
+  "sourceSnapshot": "2026-04-12T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
-    "hasLiveSearchConsole": false,
+    "hasLiveSearchConsole": true,
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 8,
+    "pageCount": 9,
     "sitemapPathCount": 22,
-    "opportunityCount": 9,
+    "opportunityCount": 12,
     "searchOpportunityCount": 0,
-    "engagementOpportunityCount": 0,
-    "indexWatchCount": 9
+    "engagementOpportunityCount": 4,
+    "indexWatchCount": 8
   },
   "opportunities": [
     {
-      "id": "traffic-index-watch-gallery",
-      "path": "/gallery",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /gallery",
-      "hypothesis": "/gallery is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "id": "traffic-engagement_expand-news",
+      "path": "/news",
+      "signal": "engagement_expand",
+      "score": 120,
+      "risk": "medium",
+      "title": "Expand high-engagement path /news",
+      "hypothesis": "/news shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
       "metrics": {
-        "pageviews": 0,
-        "visits": 0,
+        "pageviews": 28,
+        "visits": 4,
         "searchImpressions": 0,
         "searchCtr": 0,
         "avgPosition": 0,
         "watchClicks": 0,
-        "engagementScore": 0
+        "engagementScore": 100
       },
       "inputQuality": {
         "quality": "live-api",
         "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-engagement_expand-sports",
+      "path": "/sports",
+      "signal": "engagement_expand",
+      "score": 117,
+      "risk": "medium",
+      "title": "Expand high-engagement path /sports",
+      "hypothesis": "/sports shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
+      "metrics": {
+        "pageviews": 42,
+        "visits": 6,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 88
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-engagement_expand-games",
+      "path": "/games",
+      "signal": "engagement_expand",
+      "score": 108,
+      "risk": "medium",
+      "title": "Expand high-engagement path /games",
+      "hypothesis": "/games shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
+      "metrics": {
+        "pageviews": 12,
+        "visits": 2,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 100
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-engagement_expand-home",
+      "path": "/",
+      "signal": "engagement_expand",
+      "score": 85,
+      "risk": "medium",
+      "title": "Expand high-engagement path /",
+      "hypothesis": "/ shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
+      "metrics": {
+        "pageviews": 11,
+        "visits": 6,
+        "searchImpressions": 2,
+        "searchCtr": 0,
+        "avgPosition": 11,
+        "watchClicks": 0,
+        "engagementScore": 77
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
@@ -64,33 +142,7 @@
       "inputQuality": {
         "quality": "live-api",
         "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-24",
-      "path": "/events/nasa-s-northrop-grumman-crs-24",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-24",
-      "hypothesis": "/events/nasa-s-northrop-grumman-crs-24 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
+        "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
@@ -116,7 +168,33 @@
       "inputQuality": {
         "quality": "live-api",
         "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-24",
+      "path": "/events/nasa-s-northrop-grumman-crs-24",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-24",
+      "hypothesis": "/events/nasa-s-northrop-grumman-crs-24 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
@@ -142,7 +220,7 @@
       "inputQuality": {
         "quality": "live-api",
         "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
+        "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
@@ -168,59 +246,7 @@
       "inputQuality": {
         "quality": "live-api",
         "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-index-watch-topics-nasa",
-      "path": "/topics/nasa",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /topics/nasa",
-      "hypothesis": "/topics/nasa is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-index-watch-topics-launches",
-      "path": "/topics/launches",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /topics/launches",
-      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
+        "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     },
@@ -246,7 +272,59 @@
       "inputQuality": {
         "quality": "live-api",
         "hasLiveGa4": true,
-        "hasLiveSearchConsole": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-topics-nasa",
+      "path": "/topics/nasa",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/nasa",
+      "hypothesis": "/topics/nasa is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-topics-launches",
+      "path": "/topics/launches",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/launches",
+      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
     }

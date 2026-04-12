@@ -1,0 +1,28 @@
+{
+  "capturedAt": "2026-04-12T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-14T00:00:00.000Z",
+    "end": "2026-04-11T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": false,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 11,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    }
+  ]
+}
