@@ -11,6 +11,7 @@ import { LiveEventsPage } from "./pages/LiveEventsPage";
 import { NewsPage } from "./pages/NewsPage";
 import { SportsPage } from "./pages/SportsPage";
 import { StaticPage } from "./pages/StaticPage";
+import { TechPage } from "./pages/TechPage";
 import { TopicPage } from "./pages/TopicPage";
 import { QuoteFeed, QuoteItem } from "./types/content";
 
@@ -176,6 +177,7 @@ function AppChrome() {
               <Link to="/gallery">Gallery</Link>
               <Link to="/sports">Sports</Link>
               <Link to="/news">News</Link>
+              <Link to="/tech">Tech</Link>
             </nav>
           </div>
         </header>
@@ -191,6 +193,7 @@ function AppChrome() {
           <Route path="/gallery" element={<GalleryPage />} />
           <Route path="/sports" element={<SportsPage />} />
           <Route path="/news" element={<NewsPage />} />
+          <Route path="/tech" element={<TechPage />} />
           {OpsDashboardPage ? (
             <Route
               path="/__ops"

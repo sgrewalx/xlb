@@ -1,0 +1,29 @@
+{
+  "updatedAt": "2026-04-12T00:00:00.000Z",
+  "items": [
+    {
+      "id": "tech-the-verge-ai-product-launch",
+      "title": "A major AI product launches with a new design system",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/2026/4/12/ai-product-launch",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T08:00:00.000Z"
+    },
+    {
+      "id": "tech-techcrunch-startup-fundraising",
+      "title": "Startup funding heats up for developer tools and AI infrastructure",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/12/startup-fundraising",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T07:00:00.000Z"
+    },
+    {
+      "id": "tech-wired-smartphone-software-update",
+      "title": "A new smartphone software update changes privacy defaults",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/new-smartphone-software-update",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T06:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-04-12T00:00:00.000Z",
+  "section": "Expanded Tech",
+  "items": [
+    {
+      "id": "tech-the-verge-ai-product-launch",
+      "title": "A major AI product launches with a new design system",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/2026/4/12/ai-product-launch",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T08:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Technology product updates can affect the way people work, create, and manage risk across platforms."
+    },
+    {
+      "id": "tech-techcrunch-startup-fundraising",
+      "title": "Startup funding heats up for developer tools and AI infrastructure",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/12/startup-fundraising",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T07:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from TechCrunch, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Funding trends in developer tooling and AI infrastructure signal where engineering and product demand are moving fastest."
+    },
+    {
+      "id": "tech-wired-smartphone-software-update",
+      "title": "A new smartphone software update changes privacy defaults",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/new-smartphone-software-update",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T06:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Changes to privacy defaults matter for people making quick decisions about device and app behavior."
+    },
+    {
+      "id": "tech-reuters-chip-supply-chain",
+      "title": "Global chip supply chain tensions are easing this quarter",
+      "source": "Reuters Technology",
+      "url": "https://www.reuters.com/technology/chip-supply-chain",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T05:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from Reuters Technology, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Semiconductor supply shifts influence hardware availability, pricing, and enterprise deployment timelines."
+    },
+    {
+      "id": "tech-engadget-augmented-reality-update",
+      "title": "A major AR headset gets a significant software update",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2026/04/12/augmented-reality-update",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T04:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from Engadget, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Augmented reality updates can affect the developer ecosystem and product adoption curves."
+    },
+    {
+      "id": "tech-bbc-ai-regulation-memo",
+      "title": "UK ministers debate the next wave of AI regulation",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/technology-12345678",
+      "tag": "Technology",
+      "publishedAt": "2026-04-12T03:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from BBC Technology, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "AI regulation conversations shape product roadmaps and what technology leaders need to watch next."
+    }
+  ]
+}

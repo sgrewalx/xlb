@@ -65,6 +65,11 @@ export function HomePage() {
             <h3>Sports</h3>
             <p>Quick access to the sports stories and fixtures worth opening right now.</p>
           </Link>
+          <Link className="card section-hub-card section-hub-card-tech" to="/tech">
+            <span className="chip chip-space">Tech</span>
+            <h3>Tech</h3>
+            <p>A compact scan of the latest technology headlines, product updates, and platform moves.</p>
+          </Link>
           <Link className="card section-hub-card section-hub-card-news" to="/news">
             <span className="chip chip-earth">News</span>
             <h3>News</h3>
