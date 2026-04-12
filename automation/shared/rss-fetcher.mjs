@@ -68,7 +68,7 @@ function normalizeEntry(block, feed) {
     extractFirst(block, ["pubDate", "published", "updated", "dc:date"]),
   );
   const categories = extractMany(block, ["category", "dc:subject"]);
-  const tag = cleanTag(categories[0] ?? feed.defaultTag ?? "World");
+  const tag = normalizeSportsTag(categories, feed.defaultTag ?? "Sports");
   const excerpt = cleanExcerpt(
     extractFirst(block, ["description", "summary", "content:encoded"]),
   );
@@ -130,6 +130,44 @@ function cleanText(value) {
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function normalizeSportsTag(categories, defaultTag) {
+  const normalizedCategories = categories
+    .flatMap((value) => cleanText(value).toLowerCase().split(/[|,/]+/g))
+    .map((value) => value.trim())
+    .filter(Boolean);
+
+  for (const category of normalizedCategories) {
+    if (category.includes("football") || category.includes("soccer")) {
+      return "Football";
+    }
+
+    if (category.includes("basketball")) {
+      return "Basketball";
+    }
+
+    if (category.includes("tennis")) {
+      return "Tennis";
+    }
+
+    if (category.includes("cricket")) {
+      return "Cricket";
+    }
+
+    if (
+      category.includes("athletics") ||
+      category.includes("running") ||
+      category.includes("track") ||
+      category.includes("marathon") ||
+      category.includes("olympic") ||
+      category.includes("olympics")
+    ) {
+      return "Running";
+    }
+  }
+
+  return cleanTag(defaultTag);
 }
 
 function cleanTag(value) {

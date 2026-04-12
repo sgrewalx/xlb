@@ -85,6 +85,76 @@ const SPORTS_FEEDS = [
     url: "https://www.theguardian.com/sport/athletics/rss",
     defaultTag: "Running",
   },
+  {
+    source: "AP News",
+    url: "https://feeds.apnews.com/rss/sports/football",
+    defaultTag: "Football",
+  },
+  {
+    source: "AP News",
+    url: "https://feeds.apnews.com/rss/sports/basketball",
+    defaultTag: "Basketball",
+  },
+  {
+    source: "AP News",
+    url: "https://feeds.apnews.com/rss/sports/tennis",
+    defaultTag: "Tennis",
+  },
+  {
+    source: "AP News",
+    url: "https://feeds.apnews.com/rss/sports/cricket",
+    defaultTag: "Cricket",
+  },
+  {
+    source: "AP News",
+    url: "https://feeds.apnews.com/rss/sports/olympics",
+    defaultTag: "Running",
+  },
+  {
+    source: "Reuters",
+    url: "https://feeds.reuters.com/reuters/footballNews",
+    defaultTag: "Football",
+  },
+  {
+    source: "Reuters",
+    url: "https://feeds.reuters.com/reuters/basketballNews",
+    defaultTag: "Basketball",
+  },
+  {
+    source: "Reuters",
+    url: "https://feeds.reuters.com/reuters/tennisNews",
+    defaultTag: "Tennis",
+  },
+  {
+    source: "Reuters",
+    url: "https://feeds.reuters.com/reuters/cricketNews",
+    defaultTag: "Cricket",
+  },
+  {
+    source: "Reuters",
+    url: "https://feeds.reuters.com/reuters/olympicsNews",
+    defaultTag: "Running",
+  },
+  {
+    source: "CNN",
+    url: "https://rss.cnn.com/rss/edition_sport.rss",
+    defaultTag: "Sports",
+  },
+  {
+    source: "New York Times",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+    defaultTag: "Sports",
+  },
+  {
+    source: "Sky Sports",
+    url: "https://www.skysports.com/rss/12040",
+    defaultTag: "Football",
+  },
+  {
+    source: "CBS Sports",
+    url: "https://www.cbssports.com/rss/headlines/",
+    defaultTag: "Sports",
+  },
 ];
 
 async function main() {
