@@ -1,19 +1,61 @@
 {
-  "updatedAt": "2026-04-10T02:49:10.677Z",
+  "updatedAt": "2026-04-12T05:49:57.856Z",
   "items": [
     {
-      "id": "traffic-index-watch-gallery",
-      "title": "Watch index coverage for /gallery",
+      "id": "traffic-engagement_expand-news",
+      "title": "Expand high-engagement path /news",
       "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
+      "risk": "medium",
       "status": "queued",
-      "hypothesis": "/gallery is in the sitemap but has not appeared in the current analytics snapshot.",
+      "hypothesis": "/news shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "targetPaths": [
-        "/gallery"
+        "/news"
       ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-engagement_expand-sports",
+      "title": "Expand high-engagement path /sports",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/sports shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "targetPaths": [
+        "/sports"
+      ],
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-engagement_expand-games",
+      "title": "Expand high-engagement path /games",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/games shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "targetPaths": [
+        "/games"
+      ],
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-engagement_expand-home",
+      "title": "Expand high-engagement path /",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/ shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "targetPaths": [
+        "/"
+      ],
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
@@ -30,20 +72,6 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-24",
-      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-24",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/events/nasa-s-northrop-grumman-crs-24 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/events/nasa-s-northrop-grumman-crs-24"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
       "id": "traffic-index-watch-events-aurora-watch",
       "title": "Watch index coverage for /events/aurora-watch",
       "ownerAgent": "traffic-improvement-agent",
@@ -52,6 +80,20 @@
       "hypothesis": "/events/aurora-watch is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/events/aurora-watch"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-24",
+      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-24",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/events/nasa-s-northrop-grumman-crs-24 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/events/nasa-s-northrop-grumman-crs-24"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
@@ -86,6 +128,20 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
+      "id": "traffic-index-watch-topics-space-weather",
+      "title": "Watch index coverage for /topics/space-weather",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/topics/space-weather is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/topics/space-weather"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
       "id": "traffic-index-watch-topics-nasa",
       "title": "Watch index coverage for /topics/nasa",
       "ownerAgent": "traffic-improvement-agent",
@@ -108,20 +164,6 @@
       "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/topics/launches"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
-      "id": "traffic-index-watch-topics-space-weather",
-      "title": "Watch index coverage for /topics/space-weather",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/topics/space-weather is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/topics/space-weather"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
