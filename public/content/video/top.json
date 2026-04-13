@@ -1,66 +1,138 @@
 {
-  "updatedAt": "2026-04-12T00:00:00.000Z",
+  "updatedAt": "2026-04-13T02:59:35.337Z",
   "section": "Expanded Video",
   "items": [
     {
-      "id": "video-bbc-video-breaking-news",
-      "title": "Breaking news: Major global event coverage",
-      "source": "BBC Video",
-      "url": "https://www.bbc.com/news/video",
-      "tag": "Video",
-      "publishedAt": "2026-04-12T08:00:00.000Z",
-      "summary": "XLB brief: a timely video item from BBC Video, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual storytelling that can make complex topics more accessible and engaging."
-    },
-    {
-      "id": "video-reuters-market-update",
-      "title": "Market update: Economic indicators shift",
-      "source": "Reuters Video",
-      "url": "https://www.reuters.com/video",
-      "tag": "Video",
-      "publishedAt": "2026-04-12T07:00:00.000Z",
-      "summary": "XLB brief: a timely video item from Reuters Video, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Financial video updates help viewers understand market movements through expert analysis."
-    },
-    {
-      "id": "video-al-jazeera-world-affairs",
-      "title": "World affairs: Diplomatic developments",
-      "source": "Al Jazeera Video",
-      "url": "https://www.aljazeera.com/video",
-      "tag": "Video",
-      "publishedAt": "2026-04-12T06:00:00.000Z",
-      "summary": "XLB brief: a timely video item from Al Jazeera Video, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "International video coverage brings global perspectives directly to viewers."
-    },
-    {
-      "id": "video-youtube-bbc-news-latest",
-      "title": "Latest news briefing from BBC",
+      "id": "video-trump-imposes-us-blockade-on-strait-of-hormuz-af-bf80f14a1f",
+      "title": "Trump imposes US blockade on strait of Hormuz after failed peace talks with Iran | BBC News",
       "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/watch?v=example",
+      "url": "https://www.youtube.com/watch?v=nG5KOLoZr6U",
       "tag": "Video",
-      "publishedAt": "2026-04-12T05:00:00.000Z",
+      "publishedAt": "2026-04-12T21:41:32.000Z",
       "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "YouTube videos offer extended coverage and in-depth reporting on key stories."
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/nG5KOLoZr6U?rel=0"
     },
     {
-      "id": "video-youtube-reuters-insight",
-      "title": "Reuters insight: Industry trends",
-      "source": "YouTube - Reuters",
-      "url": "https://www.youtube.com/watch?v=example",
+      "id": "video-donald-trump-reacts-after-us-iran-peace-talks-fa-8241b44aaa",
+      "title": "Donald Trump reacts after US-Iran peace talks fail to reach agreement | BBC News",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=JnzcRlGQgsI",
       "tag": "Video",
-      "publishedAt": "2026-04-12T04:00:00.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Reuters, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Professional video production enhances understanding of complex business topics."
+      "publishedAt": "2026-04-12T20:10:33.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/JnzcRlGQgsI?rel=0"
     },
     {
-      "id": "video-vimeo-national-geographic-nature",
-      "title": "Nature documentary: Wildlife conservation",
-      "source": "Vimeo - National Geographic",
-      "url": "https://vimeo.com/example",
+      "id": "video-tucker-carlson-says-the-us-attacked-iran-at-the--201c143855",
+      "title": "Tucker Carlson says the US attacked Iran ‘at the behest and then demand of Israel'. #Iran #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/pq5ai5mTDiY",
       "tag": "Video",
-      "publishedAt": "2026-04-12T03:00:00.000Z",
-      "summary": "XLB brief: a timely video item from Vimeo - National Geographic, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "High-quality documentary videos educate and inspire action on environmental issues."
+      "publishedAt": "2026-04-12T18:31:17.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": null
+    },
+    {
+      "id": "video-how-science-could-help-sue-big-polluters-bbc-new-0240cef802",
+      "title": "How science could help sue big polluters | BBC News",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=Yzkwyzx9iQM",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T17:30:07.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/Yzkwyzx9iQM?rel=0"
+    },
+    {
+      "id": "video-rachel-zegler-nominated-for-olivier-after-balcon-1812029cdf",
+      "title": "Rachel Zegler nominated for Olivier after balcony performance of Evita. #Olivier #Shorts #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/j6RMaiNGuUc",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T17:15:11.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": null
+    },
+    {
+      "id": "video-us-iran-talks-fail-what-happens-next-bbc-newscas-9a51167248",
+      "title": "US-Iran talks fail - what happens next? | BBC Newscast",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=ARnxZ3WCHt4",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T16:15:04.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/ARnxZ3WCHt4?rel=0"
+    },
+    {
+      "id": "video-hungarians-vote-in-big-numbers-on-whether-to-end-5575df4e9f",
+      "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival. #Hungary #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/CaswKDV1RPg",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T15:45:01.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": null
+    },
+    {
+      "id": "video-donald-trump-says-us-to-blockade-strait-of-hormu-24865f3ed5",
+      "title": "Donald Trump says US to 'blockade' Strait of Hormuz after Iran talks fail | BBC News",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=3IK3ItC4LQw",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T15:16:52.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/3IK3ItC4LQw?rel=0"
+    },
+    {
+      "id": "video-streeting-says-its-disappointing-talks-to-end-th-bfe9ef3d63",
+      "title": "Streeting says its \"disappointing\" talks to end the US-Israel war with Iran had ended. #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/vqwUHtLhS7E",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T14:35:46.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": null
+    },
+    {
+      "id": "video-artemis-crew-take-on-obstacle-course-after-retur-add0bdddbf",
+      "title": "Artemis crew take on obstacle course after return to Earth. #ArtemisII #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/PDNJrQES5mI",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T14:00:38.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": null
+    },
+    {
+      "id": "video-hungarians-vote-in-big-numbers-on-whether-to-end-332b6db76f",
+      "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival | BBC News",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=igWXu0W0J48",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T13:45:05.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/igWXu0W0J48?rel=0"
+    },
+    {
+      "id": "video-the-man-making-viral-lego-style-ai-videos-for-ir-abb377ddff",
+      "title": "The man making viral Lego-style AI videos for Iran. #AI #Iran #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/jwyGlYHMSNs",
+      "tag": "Video",
+      "publishedAt": "2026-04-12T12:30:53.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": null
     }
   ]
 }

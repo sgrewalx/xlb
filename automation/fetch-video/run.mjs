@@ -1,84 +1,91 @@
 import { fileURLToPath } from "node:url";
-import fs from "node:fs/promises";
-import path from "node:path";
+import { createHash } from "node:crypto";
+import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
 import { fetchRssFeed } from "../shared/rss-fetcher.mjs";
 
-const ROOT = path.dirname(fileURLToPath(import.meta.url));
-const OUTPUT_DIR = path.join(ROOT, "../../public/content/video");
-const TOP3_OUTPUT_FILE = path.join(OUTPUT_DIR, "top3.json");
-const EXPANDED_OUTPUT_FILE = path.join(OUTPUT_DIR, "top.json");
+const TOP3_OUTPUT_FILE = new URL("../../public/content/video/top3.json", import.meta.url);
+const EXPANDED_OUTPUT_FILE = new URL("../../public/content/video/top.json", import.meta.url);
+const SECTION_NAME = "Top 3 Video";
+const EXPANDED_SECTION_NAME = "Expanded Video";
+const TOP3_COUNT = 3;
+const EXPANDED_COUNT = 12;
 
 const VIDEO_FEEDS = [
   {
-    label: "BBC Video",
-    rss: "https://feeds.bbci.co.uk/news/video_and_audio/video/rss.xml",
+    source: "BBC Video",
+    url: "https://feeds.bbci.co.uk/news/video_and_audio/video/rss.xml",
     defaultTag: "Video",
   },
   {
-    label: "Reuters Video",
-    rss: "https://feeds.reuters.com/reuters/video",
+    source: "Reuters Video",
+    url: "https://feeds.reuters.com/reuters/video",
     defaultTag: "Video",
   },
   {
-    label: "Al Jazeera Video",
-    rss: "https://www.aljazeera.com/xml/rss/video.xml",
+    source: "Al Jazeera Video",
+    url: "https://www.aljazeera.com/xml/rss/video.xml",
     defaultTag: "Video",
   },
   {
-    label: "YouTube - BBC News",
-    rss: "https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA",
+    source: "YouTube - BBC News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA",
     defaultTag: "Video",
   },
   {
-    label: "YouTube - Reuters",
-    rss: "https://www.youtube.com/feeds/videos.xml?channel_id=UChqURNrGhbh1wA5WS0jct_Q",
+    source: "YouTube - Reuters",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UChqURNrGhbh1wA5WS0jct_Q",
     defaultTag: "Video",
   },
   {
-    label: "Vimeo - National Geographic",
-    rss: "https://vimeo.com/channels/natgeo/videos/rss",
+    source: "Vimeo - National Geographic",
+    url: "https://vimeo.com/channels/natgeo/videos/rss",
     defaultTag: "Video",
   },
   {
-    label: "Dailymotion - BBC News",
-    rss: "https://www.dailymotion.com/rss/user/bbcnews",
+    source: "Dailymotion - BBC News",
+    url: "https://www.dailymotion.com/rss/user/bbcnews",
     defaultTag: "Video",
   },
 ];
 
-const TOP3_COUNT = 3;
-const EXPANDED_COUNT = 12;
-
-function slugify(text) {
-  return text
+function slugify(value) {
+  return value
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "")
     .slice(0, 80);
 }
 
-function normalizeTag(tag) {
-  return tag?.toLowerCase().trim() || "video";
-}
-
-function buildItem(source, article) {
-  const tags = Array.from(
-    new Set([
-      source.defaultTag,
-      article.tag,
-    ].filter(Boolean).map(normalizeTag))
-  );
-
+function buildItem(article, source) {
   return {
-    id: `${source.label.toLowerCase().replace(/\W+/g, "-")}-${slugify(article.title)}`,
-    url: article.url,
+    id: buildArticleId(article, source),
     title: article.title,
-    description: article.excerpt || "",
-    source: source.label,
-    publishedAt: article.publishedAt || new Date().toISOString(),
+    source: source.source,
+    url: article.url,
     tag: article.tag || source.defaultTag,
+    publishedAt: article.publishedAt,
+    summary: buildSummary(article, source),
+    whyItMatters: buildWhyItMatters(article, source),
     embedUrl: getEmbedUrl(article.url),
   };
+}
+
+function buildArticleId(article, source) {
+  const slug = slugify(article.title).slice(0, 48) || "video-item";
+  const fingerprint = createHash("sha1")
+    .update(`${source.source}|${article.url}|${article.publishedAt}`)
+    .digest("hex")
+    .slice(0, 10);
+
+  return `video-${slug}-${fingerprint}`;
+}
+
+function buildSummary(article, source) {
+  return `XLB brief: a timely ${source.defaultTag.toLowerCase()} item from ${source.source}, selected from the current source feed for quick context and source-first reading.`;
+}
+
+function buildWhyItMatters(article, source) {
+  return `Video content provides visual context and can help explain why current events matter in a way that text alone cannot.`;
 }
 
 function getEmbedUrl(url) {
@@ -88,8 +95,7 @@ function getEmbedUrl(url) {
     const pathname = parsed.pathname.replace(/\/+$/, "");
 
     if (hostname.includes("youtube.com")) {
-      const params = parsed.searchParams;
-      const videoId = params.get("v");
+      const videoId = parsed.searchParams.get("v");
       if (videoId) {
         return `https://www.youtube.com/embed/${videoId}?rel=0`;
       }
@@ -122,60 +128,132 @@ function getEmbedUrl(url) {
   }
 }
 
-function sortArticles(items) {
-  return [...items].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-}
+function selectTopArticles(articles, count) {
+  const deduped = [];
+  const seenUrls = new Set();
+  const seenTitles = new Set();
 
-function dedupeArticles(items) {
-  const seen = new Set();
-  return items.filter((article) => {
-    const signature = `${article.title}|${article.path}`;
-    if (seen.has(signature)) return false;
-    seen.add(signature);
-    return true;
-  });
-}
-
-function buildManifest(items) {
-  return {
-    updatedAt: new Date().toISOString(),
-    items,
-  };
-}
-
-async function writeJson(filePath, data) {
-  await fs.mkdir(path.dirname(filePath), { recursive: true });
-  await fs.writeFile(filePath, JSON.stringify(data, null, 2) + "\n");
-}
-
-async function run() {
-  const results = await Promise.allSettled(
-    VIDEO_FEEDS.map(async (source) => {
-      const feed = await fetchRssFeed(source.rss);
-      return {
-        source,
-        items: (feed?.items || []).map((item) => buildItem(source, item)),
-      };
-    })
+  const ranked = [...articles].sort(
+    (left, right) => Date.parse(right.publishedAt) - Date.parse(left.publishedAt),
   );
 
-  const allItems = [];
-  for (const result of results) {
-    if (result.status === "fulfilled") {
-      allItems.push(...result.value.items);
+  for (const article of ranked) {
+    const normalizedTitle = article.title.toLowerCase();
+
+    if (seenUrls.has(article.url) || seenTitles.has(normalizedTitle)) {
+      continue;
+    }
+
+    addArticle(article, deduped, seenUrls, seenTitles);
+
+    if (deduped.length === count) {
+      break;
     }
   }
 
-  const distinctItems = dedupeArticles(allItems);
-  const sortedItems = sortArticles(distinctItems);
-  const expandedItems = sortedItems.slice(0, EXPANDED_COUNT);
-  const top3Items = expandedItems.slice(0, TOP3_COUNT);
+  if (deduped.length < count) {
+    for (const article of ranked) {
+      const normalizedTitle = article.title.toLowerCase();
 
-  await writeJson(EXPANDED_OUTPUT_FILE, buildManifest(expandedItems));
-  await writeJson(TOP3_OUTPUT_FILE, buildManifest(top3Items));
+      if (seenUrls.has(article.url) || seenTitles.has(normalizedTitle)) {
+        continue;
+      }
+
+      addArticle(article, deduped, seenUrls, seenTitles);
+
+      if (deduped.length === count) {
+        break;
+      }
+    }
+  }
+
+  return deduped;
+}
+
+function addArticle(article, deduped, seenUrls, seenTitles) {
+  seenUrls.add(article.url);
+  seenTitles.add(article.title.toLowerCase());
+  deduped.push(article);
+}
+
+function mergeFallbackItems(primaryItems, fallbackItems, targetCount) {
+  const seen = new Set(primaryItems.map((item) => item.id));
+  const merged = [...primaryItems];
+
+  for (const item of fallbackItems) {
+    if (merged.length >= targetCount) break;
+    if (!seen.has(item.id)) {
+      merged.push(item);
+      seen.add(item.id);
+    }
+  }
+
+  return merged;
+}
+
+async function run() {
+  const results = await Promise.allSettled(VIDEO_FEEDS.map((source) => fetchRssFeed(source)));
+  const articles = [];
+
+  results.forEach((result, index) => {
+    const source = VIDEO_FEEDS[index];
+
+    if (result.status === "fulfilled") {
+      console.log(`fetched ${result.value.length} entries from ${source.source}`);
+      articles.push(...result.value);
+      return;
+    }
+
+    console.warn(`failed ${source.source}: ${result.reason?.message ?? result.reason}`);
+  });
+
+  const expanded = selectTopArticles(articles, EXPANDED_COUNT);
+  let top3 = expanded.slice(0, TOP3_COUNT);
+
+  const existingExpanded = await readJsonIfExists(EXPANDED_OUTPUT_FILE);
+  const existingTop3 = await readJsonIfExists(TOP3_OUTPUT_FILE);
+
+  if (expanded.length < TOP3_COUNT && existingExpanded?.items?.length >= TOP3_COUNT) {
+    expanded.splice(0, expanded.length, ...existingExpanded.items.slice(0, EXPANDED_COUNT));
+  }
+
+  if (top3.length < TOP3_COUNT) {
+    const fallbackItems = [];
+
+    if (existingTop3?.items?.length) {
+      fallbackItems.push(...existingTop3.items);
+    }
+
+    if (existingExpanded?.items?.length) {
+      fallbackItems.push(...existingExpanded.items);
+    }
+
+    top3 = mergeFallbackItems(top3, fallbackItems, TOP3_COUNT);
+  }
+
+  if (expanded.length < TOP3_COUNT) {
+    expanded.splice(0, expanded.length, ...top3.slice(0, EXPANDED_COUNT));
+  }
+
+  const nextTop3Items = top3.map((article) => buildItem(article, { source: article.source, defaultTag: article.tag }));
+  const nextExpandedItems = expanded.map((article) => buildItem(article, { source: article.source, defaultTag: article.tag }));
+
+  const top3Payload = {
+    updatedAt: new Date().toISOString(),
+    items: nextTop3Items,
+  };
+
+  const expandedPayload = {
+    updatedAt: new Date().toISOString(),
+    section: EXPANDED_SECTION_NAME,
+    items: nextExpandedItems,
+  };
+
+  await writeJsonIfChanged(TOP3_OUTPUT_FILE, top3Payload);
+  await writeJsonIfChanged(EXPANDED_OUTPUT_FILE, expandedPayload);
 }
 
 run().catch((error) => {
-  console.error(error);
+  console.error(error instanceof Error ? error.message : error);
   process.exit(1);
 });

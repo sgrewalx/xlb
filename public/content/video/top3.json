@@ -1,29 +1,38 @@
 {
-  "updatedAt": "2026-04-12T00:00:00.000Z",
+  "updatedAt": "2026-04-13T02:59:35.337Z",
   "items": [
     {
-      "id": "video-bbc-video-breaking-news",
-      "title": "Breaking news: Major global event coverage",
-      "source": "BBC Video",
-      "url": "https://www.bbc.com/news/video",
+      "id": "video-trump-imposes-us-blockade-on-strait-of-hormuz-af-bf80f14a1f",
+      "title": "Trump imposes US blockade on strait of Hormuz after failed peace talks with Iran | BBC News",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=nG5KOLoZr6U",
       "tag": "Video",
-      "publishedAt": "2026-04-12T08:00:00.000Z"
+      "publishedAt": "2026-04-12T21:41:32.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/nG5KOLoZr6U?rel=0"
     },
     {
-      "id": "video-reuters-market-update",
-      "title": "Market update: Economic indicators shift",
-      "source": "Reuters Video",
-      "url": "https://www.reuters.com/video",
+      "id": "video-donald-trump-reacts-after-us-iran-peace-talks-fa-8241b44aaa",
+      "title": "Donald Trump reacts after US-Iran peace talks fail to reach agreement | BBC News",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=JnzcRlGQgsI",
       "tag": "Video",
-      "publishedAt": "2026-04-12T07:00:00.000Z"
+      "publishedAt": "2026-04-12T20:10:33.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/JnzcRlGQgsI?rel=0"
     },
     {
-      "id": "video-al-jazeera-world-affairs",
-      "title": "World affairs: Diplomatic developments",
-      "source": "Al Jazeera Video",
-      "url": "https://www.aljazeera.com/video",
+      "id": "video-tucker-carlson-says-the-us-attacked-iran-at-the--201c143855",
+      "title": "Tucker Carlson says the US attacked Iran ‘at the behest and then demand of Israel'. #Iran #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/pq5ai5mTDiY",
       "tag": "Video",
-      "publishedAt": "2026-04-12T06:00:00.000Z"
+      "publishedAt": "2026-04-12T18:31:17.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": null
     }
   ]
 }
