@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-13T09:27:47.621Z",
+  "updatedAt": "2026-04-13T11:09:36.809Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-sam-altman-reportedly-targeted-in-second-attack-d2834b573d",
-      "title": "Sam Altman reportedly targeted in second attack",
+      "id": "tech-did-neuralink-make-the-wrong-bet-f2edf5c89f",
+      "title": "Did Neuralink make the wrong bet?",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "url": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
       "tag": "Technology",
-      "publishedAt": "2026-04-13T09:25:57.000Z",
+      "publishedAt": "2026-04-13T11:00:00.000Z",
       "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-internet-s-most-powerful-archiving-tool-is-i-a55059c7d7",
+      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T11:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gta-maker-rockstar-games-hacked-again-but-downpl-620c29f32a",
+      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T10:20:54.000Z",
+      "summary": "XLB brief: a timely technology item from BBC Technology, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-audacity-is-the-broligarchy-takedown-you-wer-36067b2215",
-      "title": "‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for",
-      "tag": "Technology",
-      "publishedAt": "2026-04-12T12:00:00.000Z",
-      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-shock-from-iran-war-has-trump-s-vision-for-us-en-f5d576b774",
       "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
       "source": "Ars Technica",
@@ -53,13 +63,43 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-boss-sam-altman-s-home-targeted-with-molo-30fe9aae66",
-      "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
+      "id": "tech-the-dumbest-hack-of-the-year-exposed-a-very-real-bd41e77876",
+      "title": "The Dumbest Hack of the Year Exposed a Very Real Problem",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons",
       "tag": "Technology",
-      "publishedAt": "2026-04-10T21:01:18.000Z",
-      "summary": "XLB brief: a timely technology item from BBC Technology, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-13T10:30:00.000Z",
+      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-s-new-xbox-gamepad-cursor-adds-a-virtu-5afbab09d0",
+      "title": "Microsoft’s new Xbox Gamepad Cursor adds a virtual mouse to handhelds",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T10:29:17.000Z",
+      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-agents-are-coming-for-your-dating-life-34930fad46",
+      "title": "AI Agents Are Coming for Your Dating Life",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T10:00:00.000Z",
+      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-sam-altman-reportedly-targeted-in-second-attack-d2834b573d",
+      "title": "Sam Altman reportedly targeted in second attack",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T09:25:57.000Z",
+      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -79,46 +119,6 @@
       "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model",
       "tag": "Technology",
       "publishedAt": "2026-04-12T21:14:38.000Z",
-      "summary": "XLB brief: a timely technology item from TechCrunch, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-room-for-the-moon-is-thrillingly-weird-experimen-f57b4e9330",
-      "title": "Room for the Moon is thrillingly weird experimental pop",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
-      "tag": "Technology",
-      "publishedAt": "2026-04-12T20:00:00.000Z",
-      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-reportedly-testing-four-designs-for-upcomi-a2844dc537",
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses",
-      "tag": "Technology",
-      "publishedAt": "2026-04-12T19:58:42.000Z",
-      "summary": "XLB brief: a timely technology item from TechCrunch, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-us-government-wants-reddit-to-snitch-on-one--c7bb1bff9c",
-      "title": "The US government wants Reddit to snitch on one of its users through a grand jury",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/social-media/the-us-government-wants-reddit-to-snitch-on-one-of-its-users-through-a-grand-jury-190532844.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-12T19:05:32.000Z",
-      "summary": "XLB brief: a timely technology item from Engadget, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-x-says-it-s-reducing-payments-to-clickbait-accou-5f674cb4f9",
-      "title": "X says it’s reducing payments to clickbait accounts",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts",
-      "tag": "Technology",
-      "publishedAt": "2026-04-12T17:02:20.000Z",
       "summary": "XLB brief: a timely technology item from TechCrunch, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
