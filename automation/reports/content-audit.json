@@ -1,23 +1,12 @@
 {
-  "updatedAt": "2026-04-12T05:49:59.356Z",
+  "updatedAt": "2026-04-13T15:06:24.091Z",
   "summary": {
     "auditedEventCount": 5,
     "auditedTopicCount": 4,
-    "findingCount": 1,
+    "findingCount": 0,
     "lowRiskAutofixableCount": 0,
-    "mediumRiskQueueCount": 1,
+    "mediumRiskQueueCount": 0,
     "snapshotPageCount": 9
   },
-  "findings": [
-    {
-      "id": "source-stability-nasa-launch-schedule",
-      "type": "source_stability_watch",
-      "risk": "medium",
-      "autofixEligible": false,
-      "targetPaths": [
-        "/automation/reports/live-source-health.json"
-      ],
-      "summary": "nasa-launch-schedule is still earning trust, so dependent pages should stay supervised until the healthy streak improves."
-    }
-  ]
+  "findings": []
 }

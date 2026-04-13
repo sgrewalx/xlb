@@ -26,6 +26,7 @@ export function NewsPage() {
         eyebrow="News"
         title="Top stories"
         description="A wider scan of timely stories with XLB-written briefs and direct links to original reporting."
+        headerTags={["US", "Europe", "India"]}
         expanded
         loading={news.loading}
         error={news.error}

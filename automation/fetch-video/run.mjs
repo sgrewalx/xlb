@@ -46,6 +46,31 @@ const VIDEO_FEEDS = [
     url: "https://www.dailymotion.com/rss/user/bbcnews",
     defaultTag: "Video",
   },
+  {
+    source: "YouTube - NDTV",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZFMm1mMw0F81Z37GLGSIGA",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - India Today",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYPvAwZP8wRWNraUv5DVcIg",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - Aaj Tak",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCt4t-jeY85JegMlZ-E5UWtA",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - Zee News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6LGumH7v3pd1LWZuP-3gNA",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - Times Now",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6RJ7-PaXg6TIH2BzZfTV7w",
+    defaultTag: "Video",
+  },
 ];
 
 function slugify(value) {

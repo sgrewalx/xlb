@@ -45,6 +45,31 @@ const TECH_FEEDS = [
     url: "https://feeds.bbci.co.uk/news/technology/rss.xml",
     defaultTag: "Technology",
   },
+  {
+    source: "Gadgets 360",
+    url: "https://gadgets360.com/rssfeeds/default.rss",
+    defaultTag: "Technology",
+  },
+  {
+    source: "Tech2",
+    url: "https://www.firstpost.com/tech-2/rss",
+    defaultTag: "Technology",
+  },
+  {
+    source: "YourStory",
+    url: "https://yourstory.com/feed",
+    defaultTag: "Technology",
+  },
+  {
+    source: "The Hindu Technology",
+    url: "https://www.thehindu.com/sci-tech/technology/?service=rss",
+    defaultTag: "Technology",
+  },
+  {
+    source: "Business Standard Tech",
+    url: "https://www.business-standard.com/rss/tech-telecom-116.rss",
+    defaultTag: "Technology",
+  },
 ];
 
 function slugify(value) {

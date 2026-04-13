@@ -165,6 +165,36 @@ const SPORTS_FEEDS = [
     url: "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i",
     defaultTag: "Sports",
   },
+  {
+    source: "ESPNcricinfo",
+    url: "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+    defaultTag: "Cricket",
+  },
+  {
+    source: "ESPNcricinfo",
+    url: "https://www.espncricinfo.com/rss/content/story/feeds/6.xml",
+    defaultTag: "Cricket",
+  },
+  {
+    source: "The Hindu Sports",
+    url: "https://www.thehindu.com/sport/?service=rss",
+    defaultTag: "Sports",
+  },
+  {
+    source: "Times of India Sports",
+    url: "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+    defaultTag: "Sports",
+  },
+  {
+    source: "NDTV Sports",
+    url: "https://sports.ndtv.com/rss",
+    defaultTag: "Sports",
+  },
+  {
+    source: "Hindustan Times Sports",
+    url: "https://www.hindustantimes.com/feeds/rss/sports/rssfeed.xml",
+    defaultTag: "Sports",
+  },
 ];
 
 async function main() {

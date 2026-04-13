@@ -217,6 +217,11 @@ function cleanTag(value) {
     return "World";
   }
 
+  // Special case for US to keep it uppercase
+  if (cleaned.toUpperCase() === "US") {
+    return "US";
+  }
+
   return cleaned
     .split(/\s+/)
     .slice(0, 3)

@@ -13,39 +13,69 @@ const NEWS_FEEDS = [
   {
     source: "BBC",
     url: "https://feeds.bbci.co.uk/news/world/rss.xml",
-    defaultTag: "World",
+    defaultTag: "Europe",
     fixture: "bbc.xml",
   },
   {
     source: "BBC",
     url: "https://feeds.bbci.co.uk/news/business/rss.xml",
-    defaultTag: "Money",
+    defaultTag: "US",
   },
   {
     source: "BBC",
     url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-    defaultTag: "Climate",
+    defaultTag: "World",
   },
   {
     source: "Al Jazeera",
     url: "https://www.aljazeera.com/xml/rss/all.xml",
-    defaultTag: "World",
+    defaultTag: "Europe",
     fixture: "aljazeera.xml",
   },
   {
     source: "The Guardian",
     url: "https://www.theguardian.com/world/rss",
-    defaultTag: "World",
+    defaultTag: "Europe",
   },
   {
     source: "The New York Times",
     url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    defaultTag: "World",
+    defaultTag: "US",
   },
   {
     source: "NPR",
     url: "https://feeds.npr.org/1004/rss.xml",
-    defaultTag: "World",
+    defaultTag: "US",
+  },
+  {
+    source: "The Hindu",
+    url: "https://www.thehindu.com/news/national/?service=rss",
+    defaultTag: "India",
+  },
+  {
+    source: "The Hindu",
+    url: "https://www.thehindu.com/news/international/?service=rss",
+    defaultTag: "Europe",
+  },
+  {
+    source: "Times of India",
+    url: "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+    defaultTag: "India",
+  },
+  {
+    source: "Hindustan Times",
+    url: "https://www.hindustantimes.com/feeds/rss/ht-insight/rssfeed.xml",
+    defaultTag: "India",
+  },
+  {
+    source: "Indian Express",
+    url: "https://indianexpress.com/section/india/feed/",
+    defaultTag: "India",
+  },
+  {
+    source: "NDTV",
+    url: "https://feeds.feedburner.com/ndtvnews-india-news",
+    defaultTag: "India",
   },
 ];
 
