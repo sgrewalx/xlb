@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-04-13T13:02:17.707Z",
+  "updatedAt": "2026-04-13T15:08:09.836Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-strait-of-hormuz-blockade-is-causing-a-slow--c0ae9405a6",
-      "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
+      "id": "tech-pragmata-is-just-ok-but-it-could-ve-been-great-985fd17c6b",
+      "title": "Pragmata is just OK, but it could’ve been great",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis",
+      "url": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
+      "tag": "Running",
+      "publishedAt": "2026-04-13T15:00:00.000Z",
+      "summary": "Over the last few years, Capcom has done an exceptional job of solidifying its lineup of big, long-running franchises. The likes of Monster Hunter, Resident Evil, and Street Fig...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hack-at-anodot-leaves-over-a-dozen-breached-comp-6e59541b36",
+      "title": "Hack at Anodot leaves over a dozen breached companies facing extortion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion",
       "tag": "Technology",
-      "publishedAt": "2026-04-13T13:00:00.000Z",
-      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-13T14:46:36.000Z",
+      "summary": "The data breach at Anodot, which affects customers like Rockstar Games, is the latest hack aimed at stealing data from a large number of corporate giants.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-two-suspects-have-been-arrested-for-allegedly-sh-dc81857669",
+      "title": "Two suspects have been arrested for allegedly shooting at Sam Altman's house",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/two-suspects-have-been-arrested-for-allegedly-shooting-at-sam-altmans-house-142655308.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T14:26:55.000Z",
+      "summary": "OpenAI CEO Sam Altman's house may have been the target of a second attack after San Francisco Police Department arrested two suspects for a reported shooting in the Russian Hill...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-you-should-be-more-freaked-out-by-shingles-ca9956e524",
+      "title": "You Should Be More Freaked Out by Shingles",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T14:00:00.000Z",
+      "summary": "The viral infection leaves millions with chronic pain, increased stroke risk, and lifelong nerve damage—yet vaccination rates remain dangerously low.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-spins-up-ai-version-of-mark-zuckerberg-to-e-308a13181f",
+      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T13:52:46.000Z",
+      "summary": "The Meta chief is personally involved in training and testing his animated AI.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -19,107 +59,67 @@
       "url": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
       "publishedAt": "2026-04-13T12:19:13.000Z",
-      "summary": "XLB brief: a timely technology item from BBC Technology, selected from the current source feed for quick context and source-first reading.",
+      "summary": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-roblox-introduces-mandatory-age-gated-account-ti-55a7a076b9",
-      "title": "Roblox introduces mandatory age-gated account tiers",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/roblox-introduces-mandatory-age-gated-account-tiers-121535702.html?src=rss",
+      "id": "tech-switchbot-s-button-pressing-robot-is-now-availab-66ba4c8f76",
+      "title": "SwitchBot’s button-pressing robot is now available with a rechargeable battery",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
       "tag": "Technology",
-      "publishedAt": "2026-04-13T12:15:35.000Z",
-      "summary": "XLB brief: a timely technology item from Engadget, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-13T14:00:00.000Z",
+      "summary": "SwitchBot is introducing a new version of the tiny button-pressing robot that helped launch the company a decade ago. The functionality of the new SwitchBot Bot is exactly the s...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-roblox-introduces-kids-and-select-accounts-for-a-1231eb80eb",
-      "title": "Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat",
+      "id": "tech-can-puck-reinvent-the-news-business-for-the-infl-a211dabf31",
+      "title": "Can Puck reinvent the news business for the influencer age?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T14:00:00.000Z",
+      "summary": "Today, I’m talking with Sarah Personette, CEO of Puck, which is a fancy new media company that’s been around for just about five years now. Puck hires big stars and gives them n...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-byd-s-fastest-charging-car-in-the-world-is-aston-d987e51721",
+      "title": "BYD's Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/byd-denza-z9-gt-fastest-charging-car-in-the-world",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T13:56:13.000Z",
+      "summary": "WIRED witnessed the game-changing Denza Z9 GT charge its battery in just 9 minutes. But the pricing for BYD's premium brand looks like a huge mistake.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-mark-zuckerberg-is-reportedly-building-an-ai-clo-38db401427",
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "tag": "Technology",
+      "publishedAt": "2026-04-13T13:40:03.000Z",
+      "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-slate-auto-raises-650m-to-fund-its-affordable-ev-3dd0b3d453",
+      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat",
+      "url": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans",
       "tag": "Technology",
-      "publishedAt": "2026-04-13T12:15:00.000Z",
-      "summary": "XLB brief: a timely technology item from TechCrunch, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-13T13:26:33.000Z",
+      "summary": "Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-4-best-water-filter-pitchers-2026-pfas-micro-691efdc34a",
-      "title": "The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/best-water-filter-pitchers",
+      "id": "tech-meta-is-reportedly-building-an-ai-clone-of-mark--19dc3d13c6",
+      "title": "Meta is reportedly building an AI clone of Mark Zuckerberg",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/meta-is-reportedly-building-an-ai-clone-of-mark-zuckerberg-130242840.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-13T11:37:00.000Z",
-      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-to-teach-in-the-time-of-chatgpt-is-to-know-pain-01d9b8e62d",
-      "title": "To teach in the time of ChatGPT is to know pain",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain",
-      "tag": "Technology",
-      "publishedAt": "2026-04-13T11:00:32.000Z",
-      "summary": "XLB brief: a timely technology item from Ars Technica, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-roblox-will-need-age-verification-to-make-sure-y-408e504e6d",
-      "title": "Roblox will need age verification to make sure you’re at least 9 years old",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts",
-      "tag": "Technology",
-      "publishedAt": "2026-04-13T12:15:00.000Z",
-      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-roblox-has-games-again-9dce6c3048",
-      "title": "Roblox has games again",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections",
-      "tag": "Technology",
-      "publishedAt": "2026-04-13T12:15:00.000Z",
-      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gta-maker-rockstar-games-hacked-again-but-downpl-0e3bafb512",
-      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-13T11:55:47.000Z",
-      "summary": "XLB brief: a timely technology item from BBC Technology, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-did-neuralink-make-the-wrong-bet-f2edf5c89f",
-      "title": "Did Neuralink make the wrong bet?",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
-      "tag": "Technology",
-      "publishedAt": "2026-04-13T11:00:00.000Z",
-      "summary": "XLB brief: a timely technology item from The Verge, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-internet-s-most-powerful-archiving-tool-is-i-a55059c7d7",
-      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril",
-      "tag": "Technology",
-      "publishedAt": "2026-04-13T11:00:00.000Z",
-      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-dumbest-hack-of-the-year-exposed-a-very-real-bd41e77876",
-      "title": "The Dumbest Hack of the Year Exposed a Very Real Problem",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons",
-      "tag": "Technology",
-      "publishedAt": "2026-04-13T10:30:00.000Z",
-      "summary": "XLB brief: a timely technology item from Wired, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-13T13:02:42.000Z",
+      "summary": "Picture this: You're a senior Meta employee looking for feedback from the CEO. But, instead of hearing from the real Mark Zuckerberg, you get a response from a Zuckerberg AI cha...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
