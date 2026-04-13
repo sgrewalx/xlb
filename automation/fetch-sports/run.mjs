@@ -300,7 +300,20 @@ function toManifestItem(article) {
 }
 
 function buildBrief(article) {
+  const raw = article.excerpt || article.summary || "";
+
+  if (raw.trim()) {
+    return trimExcerpt(raw, 180);
+  }
+
   return `XLB brief: a fresh ${article.tag.toLowerCase()} item from ${article.source}, kept short so the page stays scan-first and source-linked.`;
+}
+
+function trimExcerpt(text, maxLength = 180) {
+  const cleaned = text.trim().replace(/\s+/g, " ");
+  return cleaned.length <= maxLength
+    ? cleaned
+    : `${cleaned.slice(0, maxLength - 1).trim()}…`;
 }
 
 function buildWhyItMatters(article) {

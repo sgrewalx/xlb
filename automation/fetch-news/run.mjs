@@ -182,7 +182,20 @@ function toManifestItem(article) {
 }
 
 function buildBrief(article) {
+  const raw = article.excerpt || article.summary || "";
+
+  if (raw.trim()) {
+    return trimExcerpt(raw, 180);
+  }
+
   return `XLB brief: a timely ${article.tag.toLowerCase()} item from ${article.source}, selected from the current source feed for quick context and source-first reading.`;
+}
+
+function trimExcerpt(text, maxLength = 180) {
+  const cleaned = text.trim().replace(/\s+/g, " ");
+  return cleaned.length <= maxLength
+    ? cleaned
+    : `${cleaned.slice(0, maxLength - 1).trim()}…`;
 }
 
 function buildWhyItMatters(article) {
