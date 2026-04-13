@@ -1,19 +1,4 @@
 {
-  "updatedAt": "2026-04-12T05:49:59.356Z",
-  "items": [
-    {
-      "id": "imp-source-stability-nasa-launch-schedule",
-      "title": "Keep nasa-launch-schedule under supervised watch",
-      "ownerAgent": "improvement-agent",
-      "risk": "medium",
-      "status": "queued",
-      "hypothesis": "nasa-launch-schedule is still earning trust, so dependent pages should stay supervised until the healthy streak improves.",
-      "targetPaths": [
-        "/automation/reports/live-source-health.json"
-      ],
-      "successMetric": "The page earns first impressions, clicks, or stronger downstream engagement after supporting context is improved.",
-      "rollbackPlan": "Keep the page in review and avoid further promotion if the supporting-context experiment stays weak.",
-      "notes": "Leave queued for supervised follow-up until real traffic data is available."
-    }
-  ]
+  "updatedAt": "2026-04-13T05:47:19.323Z",
+  "items": []
 }

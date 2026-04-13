@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-12T05:49:59.523Z",
+  "checkedAt": "2026-04-13T05:47:19.481Z",
   "allSourcesStable": true,
   "thresholds": {
     "minimumStableRuns": 3
@@ -16,10 +16,16 @@
       "freshSeedCount": 2,
       "staleSeedCount": 1,
       "error": null,
-      "healthyStreak": 3,
-      "nonFallbackStreak": 11,
+      "healthyStreak": 4,
+      "nonFallbackStreak": 12,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-13T05:47:19.481Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 2
+        },
         {
           "checkedAt": "2026-04-12T05:49:59.523Z",
           "status": "healthy",
@@ -95,16 +101,22 @@
       "earthquakeItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 208,
+      "fetchedSeedCount": 217,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 5.4,
-      "largeCount": 8,
+      "strongestMagnitude": 5.5,
+      "largeCount": 14,
       "error": null,
-      "healthyStreak": 10,
-      "nonFallbackStreak": 10,
+      "healthyStreak": 11,
+      "nonFallbackStreak": 11,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-13T05:47:19.481Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-04-12T05:49:59.523Z",
           "status": "healthy",
@@ -174,17 +186,23 @@
       "spaceWeatherItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 359,
+      "fetchedSeedCount": 348,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 2,
-      "recentPeakKp": 2,
+      "latestKp": 0,
+      "recentPeakKp": 1,
       "alertLevel": "quiet",
       "error": null,
-      "healthyStreak": 8,
-      "nonFallbackStreak": 9,
+      "healthyStreak": 9,
+      "nonFallbackStreak": 10,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-13T05:47:19.481Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-04-12T05:49:59.523Z",
           "status": "healthy",
