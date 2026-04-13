@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-04-13T15:09:57.946Z",
+  "updatedAt": "2026-04-13T16:56:36.240Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-oil-price-tops-100-a-barrel-after-peace-talks-fa-b4c0b30711",
-      "title": "Oil price tops $100 a barrel after peace talks fail and Trump orders blockade",
+      "id": "news-iran-war-live-updates-u-s-begins-blockade-of-str-ed95a7f021",
+      "title": "Iran War Live Updates: U.S. Begins Blockade of Strait of Hormuz",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
+      "tag": "US",
+      "publishedAt": "2026-04-13T16:54:54.000Z",
+      "summary": "The U.S. military said it would block ships entering or leaving Iranian ports or coastal areas, in an effort to cut off Iran’s oil income. Traffic had already been at a standsti...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-workers-protest-over-wage-hike-leads-to-unrest-v-bc91a13687",
+      "title": "Workers’ protest over wage hike leads to unrest, violent face-off in Noida",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-violent-updates-delhi-border-april-13-2026/article70856363.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-13T16:47:52.000Z",
+      "summary": "U.P. forms high-level committee to resolve industrial discord; U.P. CM Yogi Adityanath appeals to workers to be wary of those attempting to spread industrial unrest; trade union...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-shabana-mahmood-says-southport-inquiry-report-ex-d6a063712e",
+      "title": "Shabana Mahmood says Southport inquiry report exposed ‘systematic failures across multiple public sector organisations’ – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
-      "tag": "World",
-      "publishedAt": "2026-04-13T15:04:25.000Z",
-      "summary": "US Navy to impose blockade today in bid to choke off flow of Iranian oil Explainer: strait of Hormuz blockade Business live – latest updates Oil prices jumped back above $100 a...",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-green-light-to-build-nuclear-power-station-that--f8d2e1b318",
-      "title": "Green light to build nuclear power station that promises 8,000 jobs",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c87w5ld0p80o?at_medium=RSS&at_campaign=rss",
-      "tag": "Money",
-      "publishedAt": "2026-04-13T14:57:37.000Z",
-      "summary": "Rolls-Royce has said the project will create 8,000 jobs across Britain.",
-      "whyItMatters": "Money and business signals can change household, market, and work decisions quickly."
-    },
-    {
-      "id": "news-us-judge-dismisses-trump-s-10bn-lawsuit-against--3c542c1d04",
-      "title": "US judge dismisses Trump’s $10bn lawsuit against WSJ over Epstein story",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/us-judge-dismisses-trumps-10bn-lawsuit-against-wsj-over-epstein-story?traffic_source=rss",
-      "tag": "World",
-      "publishedAt": "2026-04-13T14:57:22.000Z",
-      "summary": "Dismissed lawsuit follows WSJ's report on letter allegedly signed by Donald Trump for Jeffrey Epstein’s 50th birthday.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+      "url": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-04-13T16:47:14.000Z",
+      "summary": "The home secretary made the comments after an inquiry revealed that the system ‘completely failed’ Keir Starmer has confirmed that he wants to stop children being exposed to add...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
 }
