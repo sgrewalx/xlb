@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-04-14T20:42:59.286Z",
+  "updatedAt": "2026-04-14T21:42:32.104Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-what-to-expect-from-google-i-o-2026-2aad1982b4",
-      "title": "What to expect from Google I/O 2026",
+      "id": "tech-naacp-sues-xai-over-data-center-pollution-3aa98f0b4d",
+      "title": "NAACP sues xAI over data center pollution",
       "source": "Engadget",
-      "url": "https://www.engadget.com/ai/what-to-expect-from-google-io-2026-200252914.html?src=rss",
+      "url": "https://www.engadget.com/ai/naacp-sues-xai-over-data-center-pollution-213511352.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-14T20:02:52.000Z",
-      "summary": "We're sliding into developer conference season and one of the biggest events on the upcoming calendar is Google I/O. This year's edition is taking place on May 19 and 20 . As us...",
+      "publishedAt": "2026-04-14T21:35:11.000Z",
+      "summary": "The NAACP is suing xAI and a subsidiary called MZX Tech for allegedly operating unpermitted methane gas turbines to power its Colossus 2 data center in South Memphis. The associ...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-in-the-wake-of-anthropic-s-mythos-openai-has-a-n-8b818a824b",
-      "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T20:00:17.000Z",
-      "summary": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-dozens-of-4k-blu-rays-are-included-in-amazon-s-t-21b197c047",
-      "title": "Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T19:37:16.000Z",
-      "summary": "Amazon has switched on its semi-regular three for $33 sale for a large batch of 4K Blu-ray movies. As usual, there are too many to list individually, though it’s a comprehensive...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-uk-gov-s-mythos-ai-tests-help-separate-cybersecu-3a78891ea6",
-      "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T19:11:25.000Z",
-      "summary": "New model is the first AI system to complete a difficult multi-step infiltration challenge.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-someone-planted-backdoors-in-dozens-of-wordpress-046465f27c",
-      "title": "Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites",
+      "id": "tech-ai-datacenter-startup-fluidstack-in-talks-for-1b-029d2dd9bc",
+      "title": "AI datacenter startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites",
+      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report",
       "tag": "Technology",
-      "publishedAt": "2026-04-14T18:31:34.000Z",
-      "summary": "Dozens of WordPress plug-ins were allegedly hijacked to push malware after they were sold to a new corporate owner.",
+      "publishedAt": "2026-04-14T21:33:38.000Z",
+      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-life-793decf1ad",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-14T21:30:00.000Z",
+      "summary": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-10-best-tv-shows-to-stream-this-month-april--2b22aa0959",
+      "title": "The 10 Best TV Shows to Stream This Month (April 2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-best-shows-to-stream-right-now",
+      "tag": "Technology",
+      "publishedAt": "2026-04-14T20:59:34.000Z",
+      "summary": "The Boys, The Testaments, and Stranger Things: Tales From ’85 are just a few of the TV shows we’re binging this month.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-fcc-just-saved-netgear-from-its-router-ban-f-2a4108598c",
+      "title": "The FCC just saved Netgear from its router ban for no obvious reason",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
+      "tag": "Technology",
+      "publishedAt": "2026-04-14T20:57:07.000Z",
+      "summary": "The United States' foreign router ban didn't make a whole lot of sense, and today may not change that. The FCC has just granted Netgear a conditional approval to import its futu...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-americans-ask-ai-for-health-care-hospitals-think-d6e6aebe9d",
+      "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots",
+      "tag": "Technology",
+      "publishedAt": "2026-04-14T20:30:20.000Z",
+      "summary": "Do you trust AI chatbots for health advice? What about one in your patient portal?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-man-charged-with-attempted-murder-over-attack-on-662669c276",
-      "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T01:05:54.000Z",
-      "summary": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-league-of-legends-new-wasd-control-scheme-will-b-ddaf7064b5",
-      "title": "League of Legends' new WASD control scheme will be enabled for ranked later this month",
+      "id": "tech-what-to-expect-from-google-i-o-2026-2aad1982b4",
+      "title": "What to expect from Google I/O 2026",
       "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/league-of-legends-new-wasd-control-scheme-will-be-enabled-for-ranked-later-this-month-193858052.html?src=rss",
-      "tag": "Running",
-      "publishedAt": "2026-04-14T19:38:58.000Z",
-      "summary": "Riot Games released a pile of updates for its long-running MOBA League of Legends . One of the more noteworthy changes coming to the game is the official launch of WASD controls...",
+      "url": "https://www.engadget.com/ai/what-to-expect-from-google-io-2026-200252914.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-14T20:02:52.000Z",
+      "summary": "We're sliding into developer conference season and one of the biggest events on the upcoming calendar is Google I/O. This year's edition is taking place on May 19 and 20 . As us...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-most-wired-watches-at-watches-and-wonders-20-7e63b74a51",
-      "title": "The Most WIRED Watches at Watches and Wonders 2026",
+      "id": "tech-in-the-wake-of-anthropic-s-mythos-openai-has-a-n-8b818a824b",
+      "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
       "source": "Wired",
-      "url": "https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026",
+      "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy",
       "tag": "Technology",
-      "publishedAt": "2026-04-14T19:37:26.000Z",
-      "summary": "Forget worldly woes for a few minutes and gawk at these spectacular and mind-bogglingly spendy timepieces we saw in Geneva.",
+      "publishedAt": "2026-04-14T20:00:17.000Z",
+      "summary": "OpenAI says its safeguards “sufficiently reduce cyber risk” for now, while GPT-5.4-Cyber is a new cybersecurity-focused model.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
