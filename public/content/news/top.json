@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-04-14T21:43:23.267Z",
+  "updatedAt": "2026-04-14T22:38:45.690Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-new-footage-shows-joy-at-orion-capsule-hatch-bei-52a36369da",
-      "title": "New footage shows joy at Orion capsule hatch being opened",
+      "id": "news-iran-war-live-updates-u-s-says-israel-and-lebano-08c06e56b6",
+      "title": "Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz",
+      "tag": "US",
+      "publishedAt": "2026-04-14T22:37:51.000Z",
+      "summary": "Fighting continued in southern Lebanon between Israel and Iranian-backed Hezbollah militants, even as Israeli and Lebanese diplomats met in Washington. The war in Lebanon has th...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-10l-execution-petitions-pending-in-district-cour-3599810e6d",
+      "title": "10L execution petitions pending in district courts",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/10l-execution-petitions-pending-in-district-courts/articleshow/130270292.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-14T22:22:21.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-news-live-really-dangerous-time-for-global-econo-aea6fd92f8",
+      "title": "News live: ‘really dangerous time’ for global economy as Australians pay price for Middle East conflict, Chalmers says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-04-14T22:20:54.000Z",
+      "summary": "Treasurer says IMF ‘really sounding the alarm’ about potential for global recession. Follow updates live Get our breaking news email , free app or daily news podcast The treasur...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-imd-forecasts-heatwave-in-northwest-central-and--6e8b156a59",
+      "title": "IMD forecasts heatwave in northwest, central and south India up to April 20",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/imd-forecasts-heatwave-in-northwest-central-and-south-india-up-to-april-20-10637014",
+      "tag": "India",
+      "publishedAt": "2026-04-14T22:16:00.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-14-year-old-gives-birth-case-filed-against-newbo-12303d4c73",
+      "title": "14-Year-Old Gives Birth; Case Filed Against Newborn's Father: Police",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/14-year-old-gives-birth-case-filed-against-newborns-father-police-11358453",
+      "tag": "India",
+      "publishedAt": "2026-04-14T22:08:45.000Z",
+      "summary": "A 14-year-old girl gave birth to a son on Tuesday at the district hospital in Pithoragarh, following which a case was registered against the father of the newborn, officials said.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-interstellar-a-e-the-scottish-doctor-of-space-me-c365da6e89",
+      "title": "Interstellar A&E: The Scottish doctor of space medicine",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/videos/cyv11je1emeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c2k34qjnxw2o?at_medium=RSS&at_campaign=rss",
       "tag": "World",
-      "publishedAt": "2026-04-14T21:36:49.000Z",
-      "summary": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a happy reunion with the four astronauts.",
+      "publishedAt": "2026-04-14T22:05:55.000Z",
+      "summary": "Dr Christina Mackaill has been teaching emergency departments about how to treat astronauts after returning to Earth.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-mario-r-os-montt-bishop-and-brother-of-genocidal-c52d2a554d",
-      "title": "Mario Ríos Montt, Bishop and Brother of Genocidal General, Dies at 94",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/14/world/americas/mario-rios-montt-dead.html",
-      "tag": "US",
-      "publishedAt": "2026-04-14T21:32:45.000Z",
-      "summary": "In Guatemala, he led the Catholic Church’s human rights office. His brother, a dictator who took power in a coup, was convicted of crimes against humanity.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-streeting-relaunches-women-s-health-strategy-to--aa593afc93",
-      "title": "Streeting relaunches women’s health strategy to tackle ‘medical misogyny’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/14/wes-streeting-women-nhs-england-health-strategy",
-      "tag": "Europe",
-      "publishedAt": "2026-04-14T21:30:49.000Z",
-      "summary": "Health secretary says NHS is ‘failing women’ and pledges to end ‘gaslighting’ by doctors Wes Streeting has vowed to stop women being “gaslit” by doctors as he relaunches the wom...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-canada-faces-calls-to-rescind-planned-cuts-to-re-bddc60b8cf",
-      "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
+      "id": "news-fifth-woman-accuses-former-us-lawmaker-eric-swal-1df6db7904",
+      "title": "Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-04-14T21:02:23.000Z",
-      "summary": "Health workers and rights advocates say co-payments, set to take effect on May 1, amount to 'de facto denial of care'.",
+      "publishedAt": "2026-04-14T21:49:03.000Z",
+      "summary": "The Democratic representative has resigned his seat in Congress over multiple sexual misconduct allegations.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -50,36 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-04-14T20:59:23.000Z",
       "summary": "SP chief alleges delimitation exercise will ignore caste data from upcoming Census and enable gerrymandering ahead of the 2029 general election",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-zoji-la-tunnel-to-ladakh-on-brink-of-breakthroug-47a4edef17",
-      "title": "Zoji La tunnel to Ladakh on brink of breakthrough",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/zoji-la-tunnel-to-ladakh-on-brink-of-breakthrough/articleshow/130266970.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-14T19:56:23.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-revanth-reddy-writes-to-pm-over-delimitation-urg-ec0a39a005",
-      "title": "Revanth Reddy Writes To PM Over Delimitation, Urges Southern States To Unite",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/revanth-reddy-writes-to-pm-over-delimitation-urges-southern-states-to-unite-11357491",
-      "tag": "India",
-      "publishedAt": "2026-04-14T19:41:46.000Z",
-      "summary": "The Women's Reservation Bill, delimitation, and the increase in seats are separate and not connected, Revanth Reddy said in a letter.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-13-killed-20-injured-in-boiler-blast-at-vedanta--faf8fd9c2a",
-      "title": "13 killed, 20 injured in boiler blast at Vedanta plant in Chhattisgarh",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/vedanta-power-plant-chhattisgarh-600-degree-steam-men-lunch-dead-10636801",
-      "tag": "India",
-      "publishedAt": "2026-04-14T17:19:14.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-news-live-latitude-financial-pays-near-7cdcad7bad",
-      "title": "Australia news live: Latitude Financial pays nearly $4m for spam law breach; Callan Park masterplan revealed",
+      "id": "news-naacp-lawsuit-accuses-elon-musk-s-xai-of-polluti-334f8af0d8",
+      "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+      "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
       "tag": "Europe",
-      "publishedAt": "2026-04-14T21:30:36.000Z",
-      "summary": "Australian Communications and Media Authority finds company breached spam laws more than 2.7m times Get our breaking news email , free app or daily news podcast Monitoring socia...",
+      "publishedAt": "2026-04-14T22:19:02.000Z",
+      "summary": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis area A new lawsuit accuses Elon Musk’s artificial intelligence...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-thousands-rattled-by-4-5-magnitude-earthquake-in-d42075d1c8",
-      "title": "Thousands rattled by 4.5-magnitude earthquake in central west NSW",
+      "id": "news-middle-east-crisis-live-trump-says-iran-negotiat-deec6bb462",
+      "title": "Middle East crisis live: Trump says Iran negotiations could resume in ‘next two days’; US talks between Lebanon and Israel end",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/15/central-west-nsw-earthquake-orange-cadia-goldmine",
+      "url": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
       "tag": "Europe",
-      "publishedAt": "2026-04-14T21:29:49.000Z",
-      "summary": "Geoscience Australia says aftershocks likely but much lighter and in a smaller area Follow our Australia news live blog for latest updates Get our breaking news email , free app...",
+      "publishedAt": "2026-04-14T22:16:25.000Z",
+      "summary": "US president says the country is ‘inclined’ to go to Pakistan for more talks; Israel and Lebanon held direct negotiations in Washington for the first time since 1990s US-Iran pe...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
