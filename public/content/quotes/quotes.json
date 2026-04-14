@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-13T14:48:04.738Z",
+  "updatedAt": "2026-04-14T03:21:46.206Z",
   "items": [
-    {
-      "id": "anais-nin",
-      "quote": "Life shrinks or expands in proportion to one's courage.",
-      "author": "Anais Nin",
-      "context": "Courage"
-    },
     {
       "id": "bell-hooks",
       "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
@@ -30,6 +24,12 @@
       "quote": "I am not what happened to me, I am what I choose to become.",
       "author": "Carl Jung",
       "context": "Self"
+    },
+    {
+      "id": "carl-jung-2",
+      "quote": "No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you.",
+      "author": "Carl Jung",
+      "context": "Work"
     }
   ]
 }
