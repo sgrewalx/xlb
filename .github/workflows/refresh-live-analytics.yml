@@ -77,6 +77,12 @@ jobs:
       - name: Apply low-risk autofixes
         run: npm run automation:apply-low-risk-fixes
 
+      - name: Apply traffic opportunities
+        run: npm run automation:apply-opportunities
+        
+      - name: Regenerate sitemap
+        run: node scripts/generate-sitemap.mjs
+
       - name: Run content audit
         run: npm run automation:content-audit
 

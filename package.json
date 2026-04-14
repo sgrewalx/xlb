@@ -22,6 +22,7 @@
     "automation:fetch-search-console": "node automation/capture-analytics/fetch-search-console.mjs",
     "automation:merge-analytics": "node automation/capture-analytics/merge-snapshots.mjs",
     "automation:traffic-opportunities": "node automation/traffic-opportunities/run.mjs",
+    "automation:apply-opportunities": "node automation/apply-traffic-opportunities/run.mjs",
     "automation:rank-live": "node automation/rank-live-events/run.mjs",
     "automation:fetch-cloudflare": "node automation/capture-analytics/fetch-cloudflare.mjs",
     "automation:live-events": "node automation/refresh-live-events/run.mjs",

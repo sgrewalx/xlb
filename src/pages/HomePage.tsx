@@ -26,7 +26,7 @@ export function HomePage() {
       <LiveEventsSection
         eyebrow="Live"
         title="Events to watch"
-        description="Fresh coverage across space and earth, chosen for repeat visits and real-world relevance."
+        description="Fresh coverage across space and earth, and what's happening in the real-world."
         updatedAt={liveEvents.data?.updatedAt}
         loading={liveEvents.loading}
         error={liveEvents.error}

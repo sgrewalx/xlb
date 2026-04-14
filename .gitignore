@@ -9,4 +9,5 @@ terraform.tfstate.*
 data/analytics/*.json
 data/analytics/*.csv
 xlb.md
-quotes_dump.txt.txt
+quotes_dump.txt
+xlb.txt

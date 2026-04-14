@@ -42,7 +42,10 @@ jobs:
 
       - name: Validate content
         run: npm run validate:content
-
+        
+      - name: Apply traffic opportunities
+        run: npm run automation:apply-opportunities
+    
       - name: Check source health
         run: npm run automation:source-health
 
