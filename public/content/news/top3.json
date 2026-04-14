@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-04-14T16:57:59.569Z",
+  "updatedAt": "2026-04-14T18:05:34.071Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-how-many-ships-are-crossing-the-strait-of-hormuz-dc7b8e2016",
+      "id": "news-the-man-who-defeated-viktor-orban-d18867d2bd",
+      "title": "The Man Who Defeated Viktor Orban",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html",
+      "tag": "US",
+      "publishedAt": "2026-04-14T18:00:54.000Z",
+      "summary": "For years, Peter Magyar was a loyal ally of Viktor Orban, the far-right Hungarian leader. Then he changed sides — and defeated his former boss in a landslide victory on Sunday....",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-how-many-ships-are-crossing-the-strait-of-hormuz-c8425ff470",
       "title": "How many ships are crossing the Strait of Hormuz?",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
       "tag": "US",
-      "publishedAt": "2026-04-14T16:57:06.000Z",
+      "publishedAt": "2026-04-14T17:59:21.000Z",
       "summary": "Four vessels with links to Iran have crossed the Strait of Hormuz despite the start of a US naval blockade, but two of those vessels appear to have reversed course.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-woman-allegedly-kills-daughter-found-dead-in-whi-2955e68497",
-      "title": "Woman allegedly kills daughter, found dead in Whitefield",
+      "id": "news-ge-aerospace-hal-near-final-deal-on-co-productio-0dadb1a45f",
+      "title": "GE Aerospace, HAL near final deal on co-production of F414 jet engines",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/woman-allegedly-kills-daughter-found-dead-in-whitefield/article70862365.ece",
+      "url": "https://www.thehindu.com/news/national/ge-aerospace-hal-near-final-deal-on-co-production-of-f414-jet-engines/article70861967.ece",
       "tag": "India",
-      "publishedAt": "2026-04-14T16:50:36.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-will-viktor-orban-s-legacy-live-on-in-brussels-e-e4b3a67291",
-      "title": "Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html",
-      "tag": "US",
-      "publishedAt": "2026-04-14T16:49:36.000Z",
-      "summary": "Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.",
+      "publishedAt": "2026-04-14T17:59:20.000Z",
+      "summary": "The two sides, which have been in talks for nearly three years since signing an agreement on the co-production of F414 fighter jet engines, are now close to concluding key eleme...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
