@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T05:49:58.887Z",
+  "updatedAt": "2026-04-14T05:29:54.280Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-04-12T05:37:38.010Z",
-      "summary": "USGS reported 208 earthquake events in the last 24 hours. Strongest reported event: M5.4 near 182 km SSE of Nemuro, Japan.",
+      "startsAt": "2026-04-14T05:19:10.416Z",
+      "summary": "USGS reported 298 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 20 km ESE of Silver Springs, Nevada.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,7 +21,7 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-12T05:49:58.887Z"
+      "updatedAt": "2026-04-14T05:29:54.280Z"
     },
     {
       "id": "space-aurora-watch",
@@ -30,8 +30,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-04-12T05:46:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 2. Recent peak is Kp 2. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-04-14T05:06:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -42,7 +42,7 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-12T05:49:58.887Z"
+      "updatedAt": "2026-04-14T05:29:54.280Z"
     },
     {
       "id": "space-nasa-live-programming",
@@ -63,28 +63,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-12T05:49:58.887Z"
-    },
-    {
-      "id": "space-launch-nasa-s-northrop-grumman-crs-24",
-      "slug": "nasa-s-northrop-grumman-crs-24",
-      "title": "NASA’s Northrop Grumman CRS-24",
-      "status": "ended",
-      "category": "space",
-      "topic": "launches",
-      "startsAt": "2026-04-11T07:41:00.000Z",
-      "summary": "NASA’s Northrop Grumman CRS-24 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
-      "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/nasas-northrop-grumman-crs-24/",
-      "watchUrl": "https://www.nasa.gov/live",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 88,
-      "rightsProfile": "public-information",
-      "cadence": "scheduled",
-      "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-12T05:49:58.887Z"
+      "updatedAt": "2026-04-14T05:29:54.280Z"
     },
     {
       "id": "space-launch-nasa-s-spacex-crs-34",
@@ -105,7 +84,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-12T05:49:58.887Z"
+      "updatedAt": "2026-04-14T05:29:54.280Z"
     }
   ]
 }
