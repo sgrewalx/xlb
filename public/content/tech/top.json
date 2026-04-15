@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-15T19:20:54.329Z",
+  "updatedAt": "2026-04-15T20:38:34.643Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-ticketmaster-is-an-illegal-monopoly-jury-rules-789e5671af",
-      "title": "Ticketmaster is an illegal monopoly, jury rules",
+      "id": "tech-ford-s-ev-and-software-chief-doug-field-is-leavi-0684b306b6",
+      "title": "Ford’s EV and software chief Doug Field is leaving the company",
       "source": "The Verge",
-      "url": "https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict",
+      "url": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T19:09:17.000Z",
-      "summary": "Live Nation-Ticketmaster is an illegal monopolist, a Manhattan jury ruled, according to Bloomberg. The verdict, reached after several days of deliberation, leaves the live enter...",
+      "publishedAt": "2026-04-15T20:05:00.000Z",
+      "summary": "Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Replacing him will be Alan Clark...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-playstation-plus-april-catalog-adds-include-hori-996e728f50",
+      "title": "PlayStation Plus April catalog adds include Horizon Remastered, Squirrel with a Gun and Frank Stone",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/playstation/playstation-plus-april-catalog-adds-include-horizon-remastered-squirrel-with-a-gun-and-frank-stone-194534366.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T19:45:34.000Z",
+      "summary": "For PlayStation Plus subscribers, April is going to be a little bit spooky, a tad sporty and extra squirrelly. PlayStation Plus Extra and Premium players will get access to The...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-updates-its-agents-sdk-to-help-enterprise-9d7affc1bb",
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T19:28:36.000Z",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,26 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-15T18:55:52.000Z",
       "summary": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-hightouch-reaches-100m-arr-fueled-by-marketing-t-663b6c8f07",
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T18:55:12.000Z",
-      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-there-s-yet-another-study-about-how-bad-ai-is-fo-df5026b1a5",
-      "title": "There's yet another study about how bad AI is for our brains",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T18:34:19.000Z",
-      "summary": "A group of researchers from across the US and the UK have conducted a study on what AI does to our brains and the results are, in a word, grim. These results were published in a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ftc-pushes-ad-agencies-into-dropping-brand-safet-58a3a74acc",
-      "title": "FTC pushes ad agencies into dropping brand safety rules",
+      "id": "tech-trump-s-posting-even-more-ai-generated-trump-jes-dfba470fe0",
+      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
       "source": "The Verge",
-      "url": "https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety",
+      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T19:00:23.000Z",
-      "summary": "The Federal Trade Commission (FTC) and a group of eight states have announced a proposed settlement with big ad agencies that will prevent them from working together to avoid ce...",
+      "publishedAt": "2026-04-15T19:50:31.000Z",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Hea...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-linkedin-data-shows-ai-isn-t-to-blame-for-hiring-e41bb0f5a2",
-      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet",
+      "id": "tech-ticketmaster-is-an-illegal-monopoly-jury-finds-789e5671af",
+      "title": "Ticketmaster is an illegal monopoly, jury finds",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T18:51:54.000Z",
-      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+      "publishedAt": "2026-04-15T19:09:17.000Z",
+      "summary": "Live Nation-Ticketmaster is an illegal monopolist, a Manhattan jury found, according to Bloomberg. The jury found the company liable on three counts: illegally monopolizing the...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
