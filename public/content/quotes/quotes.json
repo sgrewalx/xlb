@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-14T03:21:46.206Z",
+  "updatedAt": "2026-04-15T03:19:49.078Z",
   "items": [
-    {
-      "id": "bell-hooks",
-      "quote": "Rarely, if ever, are any of us healed in isolation. Healing is an act of communion.",
-      "author": "bell hooks",
-      "context": "Connection"
-    },
     {
       "id": "henri-matisse",
       "quote": "Creativity takes courage.",
@@ -30,6 +24,12 @@
       "quote": "No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you.",
       "author": "Carl Jung",
       "context": "Work"
+    },
+    {
+      "id": "karl-marx",
+      "quote": "Religious suffering is, at one and the same time, the expression of real suffering and a protest against real suffering. Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.",
+      "author": "Karl Marx",
+      "context": "Religion"
     }
   ]
 }
