@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-04-15T01:30:11.223Z",
+  "updatedAt": "2026-04-15T04:38:57.833Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-how-pixeldust-technologies-is-building-enterpris-e2d5d522d0",
-      "title": "How Pixeldust Technologies is building enterprise-grade platforms in record time",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/04/pixeldust-technologies-building-enterprise-grade-platforms-record-time",
+      "id": "tech-google-sued-by-rival-app-store-aptoide-over-alle-2aa8b276da",
+      "title": "Google sued by rival app store Aptoide over alleged monopoly",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-sued-by-rival-app-store-aptoide-over-alleged-monopoly/article70863713.ece",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T01:20:00.000Z",
-      "summary": "The Mumbai-based deeptech startup prides itself on taking complex digital challenges from concept to live, scalable platforms, often in weeks, not months.",
+      "publishedAt": "2026-04-15T04:29:45.000Z",
+      "summary": "Aptoide is a Portuguese company ​that specialiaes in mobile games and calls ⁠itself the world’s third-largest Android app store",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gemini-personal-intelligence-rolls-out-in-india--76789b88ae",
+      "title": "Gemini Personal Intelligence Rolls Out in India With App Integration, Contextual AI Responses",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/news/gemini-personal-intelligence-india-rollout-app-integration-contextual-ai-responses-11359067",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T04:16:58.000Z",
+      "summary": "Google on Monday announced the rollout of Personal Intelligence for Gemini in India. The feature expands the AI assistant’s capabilities with contextual responses and improved a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-4-must-read-books-that-spark-creativity-and-new--8dc53976ae",
+      "title": "4 must-read books that spark creativity and new ideas",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/04/books-creativity-ideas",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T03:00:00.000Z",
+      "summary": "Discover 4 powerful books that help unlock creativity, challenge your thinking, and inspire fresh ideas for everyday life and work.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-s-rise-is-giving-some-openai-investors-a3e0ca8d34",
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T02:31:04.000Z",
+      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's cur...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-godzilla-goes-to-new-york-in-minus-zero-teaser-t-f69dc0fe20",
+      "title": "Godzilla goes to New York in 'Minus Zero' teaser trailer",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/entertainment/godzilla-goes-to-new-york-in-minus-zero-teaser-trailer-015029346.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T01:50:29.000Z",
+      "summary": "Japanese entertainment company Toho has released a teaser video for Godzilla Minus Zero , the upcoming sequel to the award-winning film Godzilla Minus One . The teaser shows the...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sony-is-nerfing-its-bravia-tvs-program-guide-905d7ce5e9",
-      "title": "Sony is nerfing its Bravia TVs' program guide",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/home/home-theater/sony-is-nerfing-its-bravia-tvs-program-guide-225640797.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T22:56:40.000Z",
-      "summary": "Sony is removing some features from its TV guide and program guide displays for channels received by an over the air TV antenna on select models of Bravia televisions from 2023-...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-ukraine-s-military-robot-surge-aims-to-offset-dr-821be9fd57",
       "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
       "source": "Ars Technica",
@@ -53,43 +83,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ai-data-center-startup-fluidstack-in-talks-for-1-029d2dd9bc",
-      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T21:33:38.000Z",
-      "summary": "Fundraising is reportedly flowing for Fluidstack after it secured a $50 billion deal to build data centers for Anthropic.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tech-life-793decf1ad",
+      "id": "tech-tech-life-ac19ca3656",
       "title": "Tech Life",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxq?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
       "publishedAt": "2026-04-14T21:30:00.000Z",
       "summary": "Can pedestrians, runners and cyclists safely share the road with self-driving vehicles?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-realme-launches-narzo-100-lite-5g-in-india-for-b-7f70c7b163",
-      "title": "Realme launches Narzo 100 Lite 5G in India for budget buyers",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/realme-launches-narzo-100-lite-5g-in-india-for-budget-buyers/article70862399.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T16:45:49.000Z",
-      "summary": "Realme Narzo 100 Lite 5G holds a 7,000 mAh battery and supports 15W charging and reverse charging",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-carrington-level-solar-storm-could-disrupt-satel-56acc29430",
-      "title": "Carrington-Level Solar Storm Could Disrupt Satellites, GPS, and Power Grids, Scientists Warn",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/carrington-event-scale-solar-storm-could-threaten-modern-technology-11355470",
-      "tag": "Technology",
-      "publishedAt": "2026-04-14T16:15:48.000Z",
-      "summary": "A solar superstorm like the Carrington Event could disrupt satellites, GPS, and power grids worldwide. Scientists warn that while rare, such events pose a serious threat to mode...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gobblecube-raises-15m-in-series-a-led-by-susqueh-04c0536a8f",
-      "title": "GobbleCube raises $15M in Series A led by Susquehanna Venture Capital",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/04/funding-gobblecube-15-million-series-a-susquehanna-venture-capital",
+      "id": "tech-openai-unveils-gpt-5-4-cyber-a-week-after-anthro-7427c9bbd8",
+      "title": "OpenAI unveils GPT-5.4-Cyber a week after Anthropic’s announcement of AI model",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-unveils-gpt-54-cyber-a-week-after-anthropics-announcement-of-ai-model/article70863661.ece",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T00:30:00.000Z",
-      "summary": "GobbleCube will use this funding for product development, hiring, and market expansion activities.",
+      "publishedAt": "2026-04-15T04:27:40.000Z",
+      "summary": "OpenAI, ‌creator of popular chatbot ChatGPT, said that GPT-5.4-Cyber will initially be rolled out on a ‌limited basis to vetted users",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-s-finally-giving-up-on-its-massive-sur-5dce367432",
-      "title": "Microsoft’s finally giving up on its massive Surface Hub touchscreen displays",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+      "id": "tech-amazon-announces-globalstar-acquisition-partners-7c66545a66",
+      "title": "Amazon Announces Globalstar Acquisition; Partners With Apple for Satellite Features on iPhone, Apple Watch",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/internet/news/amazon-globalstar-aquisition-satellite-network-expansion-apple-partnership-iphone-apple-watch-features-11358942",
       "tag": "Technology",
-      "publishedAt": "2026-04-14T22:56:52.000Z",
-      "summary": "Microsoft is reportedly ending production of its Surface Hub 3 collaborative office display and canceling plans for a Surface Hub 4, according to Windows Central. The extra-larg...",
+      "publishedAt": "2026-04-15T03:31:43.000Z",
+      "summary": "Amazon on Tuesday announced plans to acquire satellite communications company Globalstar. The move will allow Amazon to expand its low Earth orbit (LEO) satellite internet const...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
