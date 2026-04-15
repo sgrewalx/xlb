@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-15T21:43:08.321Z",
+  "updatedAt": "2026-04-15T22:34:09.712Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-wait-could-they-still-actually-break-up-live-nat-895490ab76",
-      "title": "Wait, could they still actually break up Live Nation?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation",
+      "id": "tech-youtube-now-lets-you-turn-off-shorts-2353510158",
+      "title": "YouTube now lets you turn off Shorts",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T21:38:09.000Z",
-      "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+      "publishedAt": "2026-04-15T22:18:36.000Z",
+      "summary": "YouTube's time management settings now have an option to put a zero-minute time limit on Shorts, effectively removing them from your app in Android and iOS. The option is an upd...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-s-new-college-deal-is-a-half-hearted-a-a6101199bb",
+      "title": "Microsoft's new college deal is a half-hearted answer to the $500 MacBook Neo",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/computing/laptops/microsofts-new-college-deal-is-a-half-hearted-answer-to-the-500-macbook-neo-215336362.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T21:53:36.000Z",
+      "summary": "Apple's MacBook Neo is a $600 (or $500 for students) shot across the bow at affordable Windows laptops, and it seems like Microsoft has ready its first response. The newly annou...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ford-ev-and-tech-chief-leaving-automaker-d1cf951506",
+      "title": "Ford EV and tech chief leaving automaker",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T21:52:05.000Z",
+      "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +43,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-federal-jury-finds-concert-business-live-nation--202aebf875",
-      "title": "Federal jury finds concert business Live Nation is a monopoly",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/entertainment/music/federal-jury-finds-concert-business-live-nation-is-a-monopoly-203924011.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T20:39:24.000Z",
-      "summary": "Live Nation, which operates the Ticketmaster platform, has been determined to be a monopoly . A federal jury handed down its decision today that the company violated federal and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-totalrecall-reloaded-tool-finds-a-side-entrance--52a709d1ae",
       "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
       "source": "Ars Technica",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-15T20:36:28.000Z",
       "summary": "\"The vault is solid. The delivery truck is not.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ford-s-ev-and-software-chief-doug-field-is-leavi-0684b306b6",
-      "title": "Ford’s EV and software chief Doug Field is leaving the company",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T20:05:00.000Z",
-      "summary": "Ford is shaking things up as it relates to its EV and software teams. Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and s...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-wait-could-they-still-actually-break-up-live-nat-895490ab76",
+      "title": "Wait, could they still actually break up Live Nation?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T21:38:09.000Z",
+      "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-monarch-tractor-s-collapse-ends-with-an-acquisit-c21d50bdcf",
       "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-15T21:05:21.000Z",
       "summary": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-trump-s-posting-even-more-ai-generated-trump-jes-dfba470fe0",
-      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T19:50:31.000Z",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Hea...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
