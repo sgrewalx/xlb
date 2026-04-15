@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-04-15T17:59:22.827Z",
+  "updatedAt": "2026-04-15T19:20:54.329Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-ticketmaster-is-an-illegal-monopoly-jury-rules-789e5671af",
+      "title": "Ticketmaster is an illegal monopoly, jury rules",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T19:09:17.000Z",
+      "summary": "Live Nation-Ticketmaster is an illegal monopolist, a Manhattan jury ruled, according to Bloomberg. The verdict, reached after several days of deliberation, leaves the live enter...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nasa-wants-to-put-nuclear-reactors-on-the-moon-b6b95fa2f3",
+      "title": "NASA Wants to Put Nuclear Reactors on the Moon",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T18:55:52.000Z",
+      "summary": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hightouch-reaches-100m-arr-fueled-by-marketing-t-663b6c8f07",
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T18:55:12.000Z",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-there-s-yet-another-study-about-how-bad-ai-is-fo-df5026b1a5",
+      "title": "There's yet another study about how bad AI is for our brains",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T18:34:19.000Z",
+      "summary": "A group of researchers from across the US and the UK have conducted a study on what AI does to our brains and the results are, in a word, grim. These results were published in a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-space-force-looks-at-moving-significant-number-o-01536c38a3",
+      "title": "Space Force looks at moving \"significant number\" of launches from ULA to SpaceX",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T18:33:53.000Z",
+      "summary": "\"If the spacecraft is ready to go, that's going to give it a priority.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-new-einstein-cross-reveals-surprising-galaxy-evo-b314b9df58",
       "title": "New Einstein Cross Reveals Surprising Galaxy Evolution",
@@ -13,26 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-this-khosla-backed-autonomous-pod-startup-just-r-8f2e720800",
-      "title": "This Khosla-backed autonomous pod startup just raised $170M. Now, it’s aiming for more.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T17:46:28.000Z",
-      "summary": "Glydways is in talks to raise another $250 million as it prepares to launch three pilot programs.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-surface-pcs-are-getting-big-price-hike-27f09b18ec",
-      "title": "Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T17:28:30.000Z",
-      "summary": "The price increases range from $200 to $300, and Microsoft doesn’t sell a sub-$1,000 Surface anymore. The rising cost of consumer tech is a common theme in 2026.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-gujarat-high-court-issues-notices-to-meta-x-goog-e7eaa1454d",
       "title": "Gujarat High Court issues notices to Meta, X, Google over PIL petition seeking curb on misuse of AI",
       "source": "The Hindu Technology",
@@ -40,36 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-15T17:05:33.000Z",
       "summary": "The Union and Gujarat governments informed the court about frequent delays, repeated procedural obligations and non-compliance by certain tech platforms to lawful notices issued...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-unleashes-a-native-gemini-app-for-the-mac-2f32b62b8f",
-      "title": "Google unleashes a native Gemini app for the Mac",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/google-unleashes-a-native-gemini-app-for-the-mac-170500185.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T17:05:00.000Z",
-      "summary": "Not content with stuffing Gemini into all of its own apps and services, Google wants you to adopt its AI assistant on desktops and laptops too. The company released a Gemini Win...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-best-buy-s-ultimate-upgrade-sale-features-deals--400f1199a5",
-      "title": "Best Buy’s Ultimate Upgrade Sale features deals on dozens of our favorite gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/911853/best-buy-ultimate-upgrade-sale-2026-tech-deals-apple",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T17:04:34.000Z",
-      "summary": "If you missed out on Amazon’s recent spring sales event, Best Buy’s Ultimate Upgrade Sale presents yet another opportunity to score steep discounts on some of our favorite gadge...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-adobe-takes-creative-cloud-into-claude-code-esqu-99a2cb7b91",
-      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T16:54:33.000Z",
-      "summary": "This is a big step in a new strategic direction for Adobe.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-accel-raises-5b-to-back-late-stage-bets-48abe047b9",
-      "title": "Accel raises $5B to back late-stage bets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets",
+      "id": "tech-ftc-pushes-ad-agencies-into-dropping-brand-safet-58a3a74acc",
+      "title": "FTC pushes ad agencies into dropping brand safety rules",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T17:37:56.000Z",
-      "summary": "Accel announced on Tuesday that it raised $5 billion in fresh capital to back late-stage companies building AI.",
+      "publishedAt": "2026-04-15T19:00:23.000Z",
+      "summary": "The Federal Trade Commission (FTC) and a group of eight states have announced a proposed settlement with big ad agencies that will prevent them from working together to avoid ce...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-india-s-vibe-coding-startup-emergent-enters-open-e010e5b3d7",
-      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "id": "tech-linkedin-data-shows-ai-isn-t-to-blame-for-hiring-e41bb0f5a2",
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T17:24:18.000Z",
-      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+      "publishedAt": "2026-04-15T18:51:54.000Z",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
