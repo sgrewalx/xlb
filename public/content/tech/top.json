@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-04-15T11:49:39.660Z",
+  "updatedAt": "2026-04-15T13:01:39.307Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-microsoft-faces-fresh-windows-recall-security-co-cf94b415a5",
-      "title": "Microsoft faces fresh Windows Recall security concerns",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/912101/microsoft-windows-recall-new-security-concerns-response",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T11:30:00.000Z",
-      "summary": "When Microsoft tried to launch Recall, an AI-powered Windows feature that screenshots most of what you do on your PC, it was labeled a \"disaster\" for cybersecurity and a \"privac...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-best-gopro-camera-2026-compact-budget-accessorie-48e7a1ada6",
-      "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-gopro-hero-camera",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T11:30:00.000Z",
-      "summary": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-oneplus-buds-ace-3-launch-teased-might-debut-wit-cee0558947",
-      "title": "OnePlus Buds Ace 3 Launch Teased, Might Debut With OnePlus Ace 6 Ultra This Month",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/audio/news/oneplus-buds-ace-3-launch-teaser-design-colour-options-features-11360850",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T10:28:45.000Z",
-      "summary": "OnePlus has begun teasing the Buds Ace 3 alongside the upcoming Ace 6 Ultra in China, with a Weibo post hinting at a launch later this month. The earbuds are shown in black and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-to-punish-sites-that-trap-people-in-with--5615d469f2",
-      "title": "Google to punish sites that trap people in with back button tricks",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T10:02:19.000Z",
-      "summary": "The tech giant said it will punish sites that block back button navigation from June.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spotify-launches-the-ability-to-purchase-physica-bcad352f39",
-      "title": "Spotify launches the ability to purchase physical books in the US and UK",
+      "id": "tech-adobe-s-new-firefly-ai-assistant-can-use-creativ-c42e236d55",
+      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/15/spotify-launches-the-ability-to-purchase-physical-books-in-the-us-and-uk",
+      "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T10:00:00.000Z",
-      "summary": "Spotify users in the US and UK can officially purchase physical books through the Android app. iOS users will get the feature next week.",
+      "publishedAt": "2026-04-15T13:01:00.000Z",
+      "summary": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-more-phone-cameras-should-come-with-silly-teleph-141d83f1a7",
+      "title": "More phone cameras should come with silly telephoto lenses",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T13:00:00.000Z",
+      "summary": "Upgrading your phone with a camera grip attachment is one thing. But doll-sized telephoto lenses that you mount on top of the rear camera? C'mon. I wrote the Vivo X300 off as a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-booking-com-customers-warned-of-reservation-hija-f40b0e9469",
+      "title": "Booking.com customers warned of 'reservation hijacking' after hack",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T12:05:58.000Z",
+      "summary": "The travel platform said it had changed Pins to protect customers but would not say how many were affected.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-12-best-standing-desks-of-2026-tested-and-review-a1f15d5d0e",
+      "title": "12 Best Standing Desks of 2026, Tested and Reviewed",
+      "source": "Wired",
+      "url": "https://www.wired.com/gallery/best-standing-desks",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T12:04:00.000Z",
+      "summary": "Take your home office to new heights with our favorite motorized standing desks.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-s-synthid-ai-watermarking-tech-claimed-to-33066d27ec",
+      "title": "Google’s SynthID AI Watermarking Tech Claimed to Be Reverse-Engineered",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/news/google-synthid-ai-watermarking-tech-reverse-engineered-developer-claims-11361320",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T11:47:55.000Z",
+      "summary": "First previewed in 2023, it is a watermarking technology that adds an invisible and imperceptible layer of watermark into the content, including text, images, videos, and audio....",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nothing-launches-warp-for-file-transferring-betw-47a7a5babf",
+      "title": "Nothing launches Warp for file transferring between Android, Mac and Windows",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-launches-warp-for-file-transferring-between-android-mac-and-windows/article70865038.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-04-15T11:33:03.000Z",
+      "summary": "Nothing said that Warp does not store or access data",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-15T10:00:00.000Z",
       "summary": "Struggling to take action? These 7 powerful books help you stop overthinking, build momentum, and start making real progress today.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-asus-launches-new-range-of-premium-laptops-in-in-82111f6840",
-      "title": "Asus launches new range of premium laptops in India including Zenbook Duo",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/asus-launches-new-range-of-premium-laptops-in-india-including-zenbook-duo/article70864579.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-04-15T09:02:58.000Z",
-      "summary": "The lineup is powered by Intel Core Ultra processors series 3 and Qualcomm Snapdragon X2 Elite series processors, with AI capabilities",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-best-wi-fi-routers-of-2026-for-working-gaming-an-feeeef7b4f",
-      "title": "Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-wifi-routers",
+      "id": "tech-adobe-embraces-conversational-ai-editing-marking-899fa2444d",
+      "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T11:30:00.000Z",
-      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "publishedAt": "2026-04-15T13:00:00.000Z",
+      "summary": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-snap-is-laying-off-16-percent-of-its-staff-as-it-7f89866707",
-      "title": "Snap is laying off 16 percent of its staff as it leans into AI",
+      "id": "tech-amazon-s-new-fire-tv-stick-hd-is-its-slimmest-ev-d1b66d8b6c",
+      "title": "Amazon’s new Fire TV Stick HD is its ‘slimmest ever’",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/912314/snap-layoffs-1000-staffers-ai-profitability",
+      "url": "https://www.theverge.com/tech/912346/amazon-fire-tv-stick-hd-slimmest-ever",
       "tag": "Technology",
-      "publishedAt": "2026-04-15T11:26:08.000Z",
-      "summary": "Snap is laying off roughly 16 percent of its global workforce in a cost-cutting effort to chase improved profitability with the help of AI. The cuts will impact around 1,000 ful...",
+      "publishedAt": "2026-04-15T13:00:00.000Z",
+      "summary": "Amazon has taken the wraps off a new Fire TV Stick HD that it says is its slimmest yet. At $34.99, the device offers a design that Amazon says is 30 percent thinner than the pre...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
