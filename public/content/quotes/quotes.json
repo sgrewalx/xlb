@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-15T03:19:49.078Z",
+  "updatedAt": "2026-04-16T03:28:13.419Z",
   "items": [
-    {
-      "id": "henri-matisse",
-      "quote": "Creativity takes courage.",
-      "author": "Henri Matisse",
-      "context": "Art"
-    },
     {
       "id": "helen-keller",
       "quote": "Life is either a daring adventure or nothing at all.",
@@ -30,6 +24,12 @@
       "quote": "Religious suffering is, at one and the same time, the expression of real suffering and a protest against real suffering. Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.",
       "author": "Karl Marx",
       "context": "Religion"
+    },
+    {
+      "id": "bertrand-russell",
+      "quote": "The best life is the one in which the creative impulses play the largest part and the possessive impulses the smallest.",
+      "author": "Bertrand Russell",
+      "context": "Life"
     }
   ]
 }
