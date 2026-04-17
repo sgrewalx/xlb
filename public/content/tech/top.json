@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-04-17T12:56:57.041Z",
+  "updatedAt": "2026-04-17T14:19:26.011Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-creative-software-industry-has-declared-war--93b8f35bb4",
-      "title": "The creative software industry has declared war on Adobe",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "id": "tech-republican-mutiny-sinks-trump-s-push-to-extend-w-eee2fbc6bb",
+      "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T12:51:16.000Z",
-      "summary": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come. The Creative Cloud provider's suite of design tools...",
+      "publishedAt": "2026-04-17T14:07:02.000Z",
+      "summary": "A post-midnight revolt in the House sank the White House's efforts to extend Section 702—a spy program the FBI has used to look into members of Congress, protesters, and politic...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ghost-orchid-in-the-machine-b1c544cba3",
+      "title": "Ghost orchid in the machine",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T14:00:00.000Z",
+      "summary": "Vacuum cleaners, personal massagers, electronic baby rockers, and walking pads: These are the secondhand machines Rachel Youn sources to create their kinetic sculptures. Made wi...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-with-us-spy-laws-set-to-expire-lawmakers-are-spl-318f001813",
+      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T14:00:00.000Z",
+      "summary": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Se...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-what-is-claude-mythos-and-what-risks-does-it-pos-bc5cebe945",
+      "title": "What is Claude Mythos and what risks does it pose?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T13:41:01.000Z",
+      "summary": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-honor-600-pro-and-honor-600-key-specifications-f-16e69d6c06",
+      "title": "Honor 600 Pro and Honor 600 Key Specifications, Features Revealed via Official Listing",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/honor-600-pro-series-chipset-battery-capacity-camera-configuration-revealed-specifications-features-11372088",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T13:08:54.000Z",
+      "summary": "Honor 600 Pro and Honor 600 will be powered by Qualcomm’s Snapdragon 8 Elite and Snapdragon 7 Gen 4 chipsets globally, respectively, the company revealed on Friday. The smartpho...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-rocket-report-starship-v3-test-fired-esa-s-tenta-671fb0df61",
+      "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T13:06:24.000Z",
+      "summary": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tcl-s-rgb-mini-led-tvs-will-start-at-8-000-3babc1e6f8",
+      "title": "TCL's RGB-Mini LED TVs will start at $8,000",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/home/home-theater/tcls-rgb-mini-led-tvs-will-start-at-8000-130000543.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T13:00:00.000Z",
+      "summary": "TCL introduced its new flagship X11L SQD-Mini LED TV at CES 2026, and now a few months later, the company is ready to expand its lineup with more SQD-Mini LED models and its fir...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,46 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-coolfly-aura-review-more-angles-fewer-advantages-db473fc81b",
-      "title": "Coolfly Aura Review: More Angles, Fewer Advantages",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/coolfly-aura-smart-bird-feeder",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T12:30:00.000Z",
-      "summary": "Coolfly’s Aura is colorful, clever, and flexible, but its signature feature ends up being more hassle than help.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ethereum-nft-platform-shuts-down-after-blacklove-446f71a350",
-      "title": "Ethereum NFT Platform Shuts Down After Blacklove Sale Falls Through",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/cryptocurrency/news/ethereum-nft-platform-shuts-down-after-blacklove-deal-collapses-crypto-markets-11371836",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T12:23:08.000Z",
-      "summary": "Ethereum-based NFT platform Foundation is shutting down after a planned acquisition by Blackdove fell through. The move reflects ongoing challenges in the NFT market, even as tr...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-engadget-podcast-allbirds-goes-from-shoes-to-ai-5df6ab0313",
-      "title": "Engadget Podcast: Allbirds goes from shoes to AI",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/engadget-podcast-allbirds-goes-from-shoes-to-ai-115922991.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T11:59:22.000Z",
-      "summary": "So a shoe company turned into an AI company…. That’s it, that’s the joke. In this episode, Devindra chats with Engadget’s Daniel Cooper about Allbirds’ sudden transformation and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-recent-advances-push-big-tech-closer-to-the-q-da-d2b1fb2871",
-      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T11:00:50.000Z",
-      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-a-third-of-our-sales-happen-in-non-metro-cities--c0575da890",
       "title": "A third of our sales happen in non-metro cities, DailyObjects CEO says",
       "source": "The Hindu Technology",
@@ -70,26 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-17T08:29:13.000Z",
       "summary": "The company started with smartphone cases and then went deeper into charging solutions, power banks, cables, and bags",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-new-leaders-new-fund-sequoia-has-raised-7b-to-ex-2f668fd6b2",
-      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T02:55:06.000Z",
-      "summary": "The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-could-a-digital-twin-make-you-into-a-superworker-48ee530442",
-      "title": "Could a digital twin make you into a 'superworker'?",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-16T23:04:15.000Z",
-      "summary": "Firms say digital twins make staff more productive, but are they a potential legal minefield?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-vivo-x300-fe-storage-options-leaked-alongside-li-e55acf0e75",
-      "title": "Vivo X300 FE Storage Options Leaked Alongside Live Image With Telephoto Extender Kit",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/vivo-x300-fe-ram-storage-configurations-tipped-telephoto-converter-image-specifications-features-11371796",
+      "id": "tech-the-south-korean-president-is-doing-quote-post-d-b212568c3b",
+      "title": "The South Korean president is doing quote-post diplomacy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/913587/south-korea-lee-jae-myung-israel",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T12:14:40.000Z",
-      "summary": "Vivo X300 FE will go on sale in India in two variants, a tipster claims. The handset will reportedly be available for purchase in 12GB + 256GB and 12GB + 512GB RAM and storage c...",
+      "publishedAt": "2026-04-17T14:00:00.000Z",
+      "summary": "\"This is no different from Comfort Women or the Holocaust,\" wrote South Korean President Lee Jae-myung on X last week, quoting a post with a video of Israeli Defense Forces sold...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-geforce-now-explained-what-is-it-features-subscr-b583a19953",
-      "title": "GeForce Now Explained: What Is It, Features, Subscription Plans and More",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/games/features/nvidia-geforce-now-what-is-it-features-subscriptions-and-more-11371666",
+      "id": "tech-peloton-stay-in-your-lane-f8e2b1b7f4",
+      "title": "Peloton, stay in your lane",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/913766/optimizer-peloton-fitness-business-column",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T12:03:04.000Z",
-      "summary": "Nvidia GeForce Now has officially made its way to India, nearly a decade after its global introduction. It signals a significant step for cloud gaming in the country, following...",
+      "publishedAt": "2026-04-17T14:00:00.000Z",
+      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're go...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
