@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-17T17:41:04.156Z",
+  "updatedAt": "2026-04-17T18:44:00.768Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-this-charming-gadget-writes-bad-ai-poetry-ce752f9d50",
-      "title": "This charming gadget writes bad AI poetry",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+      "id": "tech-tokenmaxxing-is-making-developers-less-productiv-fe80dfb57b",
+      "title": "“Tokenmaxxing” is making developers less productive than they think",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T17:30:00.000Z",
-      "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it loo...",
+      "publishedAt": "2026-04-17T18:42:45.000Z",
+      "summary": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-25-000-buys-plenty-of-used-evs-here-are-some-opt-614fcdc528",
+      "title": "$25,000 buys plenty of used EVs: Here are some options",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T18:31:48.000Z",
+      "summary": "Is $20,000–$25,000 a sweet spot for secondhand electric cars? We think so.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-betting-on-the-news-raises-ethical-questions-for-b736b7a090",
+      "title": "Betting on the news raises ethical questions for journalists",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T18:07:43.000Z",
+      "summary": "Prediction market exchanges have created an environment where just about any piece of information is potentially monetizable: How well will BTS's new song perform this week? How...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,23 +43,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-zoom-teams-up-with-world-to-verify-humans-in-mee-3153e5d1a2",
-      "title": "Zoom teams up with World to verify humans in meetings",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T17:15:00.000Z",
-      "summary": "Zoom will show a badge on verified participants' tile.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-sam-altman-s-human-verification-company-thinks-i-f72e8f4e54",
       "title": "Sam Altman's 'human verification' company thinks its eye-scanning orbs could solve ticket scalping",
       "source": "Engadget",
       "url": "https://www.engadget.com/ai/sam-altmans-human-verification-company-thinks-its-eye-scanning-orbs-could-solve-ticket-scalping-171500555.html?src=rss",
       "tag": "Technology",
       "publishedAt": "2026-04-17T17:15:00.000Z",
-      "summary": ",Among them, is a new tool called Concert Kit that could help bands and artists fight back against ticket scalping bots. The new feature relies on the revamped World ID, the orb...",
+      "summary": "Sam Altman's cryptocurrency turned identity verification startup Tools for Humanity is offering a new set of perks to people who scan their eyes at one of the company's orbs. Am...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-rocket-report-starship-v3-test-fired-esa-s-tenta-671fb0df61",
-      "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T13:06:24.000Z",
-      "summary": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-a-third-of-our-sales-happen-in-non-metro-cities--c0575da890",
       "title": "A third of our sales happen in non-metro cities, DailyObjects CEO says",
       "source": "The Hindu Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gigs-turns-your-concert-history-into-a-personal--bc61f0e378",
-      "title": "Gigs turns your concert history into a personal live music archive",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive",
+      "id": "tech-satellite-and-drone-images-reveal-big-delays-in--03f8754aa7",
+      "title": "Satellite and drone images reveal big delays in US data center construction",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T16:55:45.000Z",
-      "summary": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more.",
+      "publishedAt": "2026-04-17T18:08:25.000Z",
+      "summary": "Data centers face construction delays and energy bottleneck as resistance grows.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bluesky-blames-ddos-attack-for-server-outages-ed636f2d70",
-      "title": "Bluesky blames DDoS attack for server outages",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/social-media/bluesky-blames-ddos-attack-for-server-outages-150515882.html?src=rss",
+      "id": "tech-hackers-are-abusing-unpatched-windows-security-f-c3a890f0d6",
+      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T16:47:12.000Z",
-      "summary": "Bluesky is once again having a wobble. The platform said some of its systems are down and that it’s “investigating an incident with service in one of our reginos” (that’s Bluesk...",
+      "publishedAt": "2026-04-17T17:48:46.000Z",
+      "summary": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulner...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
