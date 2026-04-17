@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-04-17T14:19:26.011Z",
+  "updatedAt": "2026-04-17T15:51:23.111Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-republican-mutiny-sinks-trump-s-push-to-extend-w-eee2fbc6bb",
-      "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T14:07:02.000Z",
-      "summary": "A post-midnight revolt in the House sank the White House's efforts to extend Section 702—a spy program the FBI has used to look into members of Congress, protesters, and politic...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ghost-orchid-in-the-machine-b1c544cba3",
-      "title": "Ghost orchid in the machine",
+      "id": "tech-dairy-queen-is-putting-an-ai-chatbot-in-its-driv-163226cc51",
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
-      "summary": "Vacuum cleaners, personal massagers, electronic baby rockers, and walking pads: These are the secondhand machines Rachel Youn sources to create their kinetic sculptures. Made wi...",
+      "publishedAt": "2026-04-17T15:46:37.000Z",
+      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up dr...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-with-us-spy-laws-set-to-expire-lawmakers-are-spl-318f001813",
-      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance",
+      "id": "tech-ai-drafting-my-stories-over-my-dead-body-f9363f4636",
+      "title": "AI Drafting My Stories? Over My Dead Body",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
-      "summary": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Se...",
+      "publishedAt": "2026-04-17T15:46:06.000Z",
+      "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-scientists-just-created-the-largest-3d-map-of-th-a10541cace",
+      "title": "Scientists Just Created the Largest 3D Map of the Universe Ever to Study Dark Energy",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/dark-energy-spectroscopic-instrument-creates-largest-3d-map-of-the-universe-11365559",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T15:30:29.000Z",
+      "summary": "The Dark Energy Spectroscopic Instrument has created the largest 3D map of the Universe, charting millions of galaxies. Early results suggest dark energy may evolve over time, c...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-exit-8-is-cinema-for-the-livestreaming-era-047d729d4a",
+      "title": "Exit 8 is cinema for the livestreaming era",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/entertainment/tv-movies/exit-8-is-cinema-for-the-livestreaming-era-151112907.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T15:11:12.000Z",
+      "summary": "The rules of Exit 8 , both the cult indie game and the recent film adaptation, are simple: You're stuck in a subway station that loops around endlessly. If you notice any anomal...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-uber-will-now-pick-up-your-returns-from-your-doo-a5b0f24bf6",
+      "title": "Uber will now pick up your returns from your doorstep",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T15:02:00.000Z",
+      "summary": "The new returns feature is the company's latest effort to become an everything app.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-from-delivery-hubs-to-decision-centres-india-s-g-582650e0ac",
+      "title": "From delivery hubs to decision centres: India’s GCCs reshape the global enterprise",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/04/tdelivery-hubs-decisions-centres-indias-gccs-reshape-global-enterprisehe-ys",
+      "tag": "Technology",
+      "publishedAt": "2026-04-17T14:12:29.000Z",
+      "summary": "At DevSparks 2026 in Pune, leaders from MetLife Global Capability Center and Allvue Systems discussed how GCCs in India are moving beyond delivery roles to own products, platfor...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -43,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-honor-600-pro-and-honor-600-key-specifications-f-16e69d6c06",
-      "title": "Honor 600 Pro and Honor 600 Key Specifications, Features Revealed via Official Listing",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/honor-600-pro-series-chipset-battery-capacity-camera-configuration-revealed-specifications-features-11372088",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T13:08:54.000Z",
-      "summary": "Honor 600 Pro and Honor 600 will be powered by Qualcomm’s Snapdragon 8 Elite and Snapdragon 7 Gen 4 chipsets globally, respectively, the company revealed on Friday. The smartpho...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-rocket-report-starship-v3-test-fired-esa-s-tenta-671fb0df61",
       "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
       "source": "Ars Technica",
@@ -60,26 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-17T13:06:24.000Z",
       "summary": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tcl-s-rgb-mini-led-tvs-will-start-at-8-000-3babc1e6f8",
-      "title": "TCL's RGB-Mini LED TVs will start at $8,000",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/home/home-theater/tcls-rgb-mini-led-tvs-will-start-at-8000-130000543.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T13:00:00.000Z",
-      "summary": "TCL introduced its new flagship X11L SQD-Mini LED TV at CES 2026, and now a few months later, the company is ready to expand its lineup with more SQD-Mini LED models and its fir...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-indiaai-mission-selects-10-startups-as-part-of-i-81963d0cea",
-      "title": "IndiaAI Mission selects 10 startups as part of its second cohort",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/04/indiaai-mission-selects-10-startups-second-cohort",
-      "tag": "Technology",
-      "publishedAt": "2026-04-17T12:49:41.000Z",
-      "summary": "These 10 startups have been chosen through a multi-stage selection process and will represent India's dynamic AI innovation ecosystem at Station F, for an immersive programme de...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-south-korean-president-is-doing-quote-post-d-b212568c3b",
-      "title": "The South Korean president is doing quote-post diplomacy",
+      "id": "tech-the-airpods-pro-3-are-50-off-right-now-nearly-ma-4d07f2ed64",
+      "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
       "source": "The Verge",
-      "url": "https://www.theverge.com/policy/913587/south-korea-lee-jae-myung-israel",
+      "url": "https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
-      "summary": "\"This is no different from Comfort Women or the Holocaust,\" wrote South Korean President Lee Jae-myung on X last week, quoting a post with a video of Israeli Defense Forces sold...",
+      "publishedAt": "2026-04-17T15:07:50.000Z",
+      "summary": "From OLED TVs to smartphones, Best Buy’s Upgrade Sale has slashed prices on all kinds of tech, including a wide range of Apple devices. We’ve rounded up the best deals from the...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-peloton-stay-in-your-lane-f8e2b1b7f4",
-      "title": "Peloton, stay in your lane",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/913766/optimizer-peloton-fitness-business-column",
+      "id": "tech-anthropic-launches-claude-design-a-new-product-f-aae68e0f88",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
       "tag": "Technology",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
-      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're go...",
+      "publishedAt": "2026-04-17T15:00:00.000Z",
+      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
