@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-17T03:23:03.605Z",
+  "updatedAt": "2026-04-18T02:54:27.175Z",
   "items": [
-    {
-      "id": "carl-jung-1",
-      "quote": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung",
-      "context": "Self"
-    },
     {
       "id": "carl-jung-2",
       "quote": "No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you.",
@@ -30,6 +24,12 @@
       "quote": "A man's character is seen or tested when he has everything, and a woman's character is tested when her man has nothing.",
       "author": "Anon",
       "context": "Character"
+    },
+    {
+      "id": "arthur-schopenhauer-1",
+      "quote": "Talent hits a target no one else can hit; genius hits a target no one else can see.",
+      "author": "Arthur Schopenhauer",
+      "context": "Genius"
     }
   ]
 }
