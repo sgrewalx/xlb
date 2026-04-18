@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-14T05:29:54.807Z",
+  "checkedAt": "2026-04-18T05:13:25.748Z",
   "allSourcesStable": false,
   "thresholds": {
     "minimumStableRuns": 3
@@ -7,19 +7,25 @@
   "sources": [
     {
       "id": "nasa-launch-schedule",
-      "status": "degraded",
+      "status": "healthy",
       "fallbackUsed": false,
-      "launchItemCount": 1,
+      "launchItemCount": 2,
       "placeholderCount": 0,
       "staleUpcomingCount": 0,
       "fetchedSeedCount": 3,
-      "freshSeedCount": 1,
-      "staleSeedCount": 2,
+      "freshSeedCount": 2,
+      "staleSeedCount": 1,
       "error": null,
-      "healthyStreak": 0,
-      "nonFallbackStreak": 12,
+      "healthyStreak": 1,
+      "nonFallbackStreak": 13,
       "stable": false,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-18T05:13:25.748Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 2
+        },
         {
           "checkedAt": "2026-04-14T05:29:54.807Z",
           "status": "degraded",
@@ -101,16 +107,22 @@
       "earthquakeItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 298,
+      "fetchedSeedCount": 304,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 5.7,
-      "largeCount": 11,
+      "strongestMagnitude": 5.4,
+      "largeCount": 16,
       "error": null,
-      "healthyStreak": 11,
-      "nonFallbackStreak": 11,
+      "healthyStreak": 12,
+      "nonFallbackStreak": 12,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-18T05:13:25.748Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-04-14T05:29:54.807Z",
           "status": "healthy",
@@ -186,17 +198,23 @@
       "spaceWeatherItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 339,
+      "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 0,
-      "recentPeakKp": 2,
-      "alertLevel": "quiet",
+      "latestKp": 4,
+      "recentPeakKp": 4,
+      "alertLevel": "active",
       "error": null,
-      "healthyStreak": 9,
-      "nonFallbackStreak": 10,
+      "healthyStreak": 10,
+      "nonFallbackStreak": 11,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-04-18T05:13:25.748Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-04-14T05:29:54.807Z",
           "status": "healthy",
