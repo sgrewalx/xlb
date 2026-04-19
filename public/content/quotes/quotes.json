@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-18T02:54:27.175Z",
+  "updatedAt": "2026-04-19T03:30:17.317Z",
   "items": [
-    {
-      "id": "carl-jung-2",
-      "quote": "No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you.",
-      "author": "Carl Jung",
-      "context": "Work"
-    },
     {
       "id": "karl-marx",
       "quote": "Religious suffering is, at one and the same time, the expression of real suffering and a protest against real suffering. Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.",
@@ -30,6 +24,12 @@
       "quote": "Talent hits a target no one else can hit; genius hits a target no one else can see.",
       "author": "Arthur Schopenhauer",
       "context": "Genius"
+    },
+    {
+      "id": "arthur-schopenhauer-2",
+      "quote": "For the more a man has in himself, the less he will want from other people, the less, indeed, other people can be to him. This is why a high degree of intellect tends to make a man unsocial. True.",
+      "author": "Arthur Schopenhauer",
+      "context": "Intellect"
     }
   ]
 }
