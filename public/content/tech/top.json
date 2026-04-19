@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-04-19T16:29:00.334Z",
+  "updatedAt": "2026-04-19T17:28:40.046Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-palantir-posts-mini-manifesto-denouncing-inclusi-b10e44d905",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures",
+      "tag": "Technology",
+      "publishedAt": "2026-04-19T16:30:00.000Z",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-tesla-is-rolling-out-its-robotaxi-service-to-dal-e39e5521f3",
       "title": "Tesla is rolling out its Robotaxi service to Dallas and Houston",
@@ -10,16 +20,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-19T16:07:42.000Z",
       "summary": "Tesla is expanding its Robotaxi footprint across Texas by introducing availability in both Dallas and Houston. As announced in a post on X , the EV maker is rolling out its Robo...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-techcrunch-mobility-uber-enters-its-assetmaxxing-3c842dc6af",
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era",
-      "tag": "Technology",
-      "publishedAt": "2026-04-19T16:01:00.000Z",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-techcrunch-mobility-uber-enters-its-assetmaxxing-3c842dc6af",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era",
+      "tag": "Technology",
+      "publishedAt": "2026-04-19T16:01:00.000Z",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-the-stars-my-destination-is-classic-proto-cyberp-e9f92758e3",
       "title": "The Stars My Destination is classic proto-cyberpunk",
       "source": "The Verge",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-19T14:00:00.000Z",
       "summary": "This might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Ti...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cracks-are-starting-to-form-on-fusion-energy-s-f-65040bf6e5",
-      "title": "Cracks are starting to form on fusion energy’s funding boom",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom",
-      "tag": "Technology",
-      "publishedAt": "2026-04-19T12:51:10.000Z",
-      "summary": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
