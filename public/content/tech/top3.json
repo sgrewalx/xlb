@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-04-19T19:35:23.782Z",
+  "updatedAt": "2026-04-19T20:26:59.990Z",
   "items": [
+    {
+      "id": "tech-cloud-development-platform-vercel-was-hacked-0e01f4913e",
+      "title": "Cloud development platform Vercel was hacked",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "tag": "Technology",
+      "publishedAt": "2026-04-19T19:54:52.000Z",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of Sh...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-the-12-month-window-bfa014e104",
       "title": "The 12-month window",
@@ -19,16 +29,6 @@
       "tag": "Running",
       "publishedAt": "2026-04-19T19:13:08.000Z",
       "summary": "To make up for an incredibly laughable inaugural event , Beijing is running back its humanoid robot half-marathon. Fortunately, the event that pits humanoid robots made by Chine...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-blue-origin-s-rocket-reuse-achievement-marred-by-0b6d64f3d2",
-      "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster",
-      "tag": "Technology",
-      "publishedAt": "2026-04-19T18:19:19.000Z",
-      "summary": "Blue Origin's reused first stage hit its targets, but New Glenn's upper stage did not.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
