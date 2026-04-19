@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-04-18T23:27:34.511Z",
+  "updatedAt": "2026-04-19T01:57:35.814Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-six-are-missing-after-cargo-ship-is-found-overtu-dc9ea5123b",
-      "title": "Six Are Missing After Cargo Ship Is Found Overturned Near Guam",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/18/us/super-typhoon-sinklau-coast-guard-search.html",
-      "tag": "US",
-      "publishedAt": "2026-04-18T23:26:18.000Z",
-      "summary": "The ship, the Mariana, was found overturned days after the Coast Guard lost contact with its crew, after a super typhoon struck.",
+      "id": "news-daylight-bank-heist-in-singrauli-one-accused-hel-fadb0ee4e2",
+      "title": "Daylight bank heist in Singrauli: One accused held; M.P. police launch manhunt in four States",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/daylight-bank-heist-in-singrauli-one-accused-held-mp-police-launch-manhunt-in-four-states/article70878520.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-19T01:47:16.000Z",
+      "summary": "According to the police, the accused was detained by the Railway Protection Force (RPF) from an express train near Aurangabad’s Nabinagar station when he was found in suspicious...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-nda-looks-to-spin-lok-sabha-defeat-into-win-with-da9206d539",
-      "title": "NDA looks to spin Lok Sabha defeat into win with women voters",
+      "id": "news-more-than-3-400-iranians-killed-in-war-as-it-hap-572a1dbab0",
+      "title": "More than 3,400 Iranians killed in war - as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues",
+      "tag": "Europe",
+      "publishedAt": "2026-04-19T01:15:15.000Z",
+      "summary": "This blog is now closed. Our latest main story on the Middle East crisis is here. Separate to the Pakistani army chief’s trip to Iran (see post at 07:53 ), the Pakistani prime m...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-parliament-adjourned-sine-die-lok-sabha-producti-1a090b236f",
+      "title": "Parliament adjourned sine die; Lok Sabha productivity at 93%, says Om Birla",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/nda-looks-to-spin-lok-sabha-defeat-into-win-with-women-voters/articleshow/130363713.cms",
+      "url": "https://timesofindia.indiatimes.com/india/parliament-adjourned-sine-die-lok-sabha-productivity-at-93-says-om-birla/articleshow/130363964.cms",
       "tag": "India",
-      "publishedAt": "2026-04-18T23:19:05.000Z",
+      "publishedAt": "2026-04-19T01:03:01.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-fully-closes-strait-of-hormuz-over-u-s-bloc-079f305c0e",
-      "title": "Iran fully closes Strait of Hormuz over U.S. blockade",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/iran-fully-closes-strait-of-hormuz-over-us-blockade/article70879044.ece",
+      "id": "news-north-korea-launches-ballistic-missiles-toward-s-5dde220d27",
+      "title": "North Korea launches ballistic missiles toward sea",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles",
+      "tag": "US",
+      "publishedAt": "2026-04-19T00:54:43.000Z",
+      "summary": "South Korea's Joint Chiefs of Staff says the launches happened on Sunday morning from the North's eastern Sinpo area.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-north-korea-launches-ballistic-missiles-towards--3e7cd8e847",
+      "title": "North Korea launches ballistic missiles towards sea off its east coast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-04-18T23:16:59.000Z",
-      "summary": "Iran's Revolutionary Guard navy warned vessels not to move from their anchorage in the Persian Gulf and the Sea of Oman, as “approaching the Strait of Hormuz will be considered...",
+      "publishedAt": "2026-04-19T00:28:45.000Z",
+      "summary": "Multiple ballistic missiles fired from eastern Sinpo area in seventh such test this year.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-tensions-rise-in-strait-of-413401d9e4",
+      "title": "Iran War Live Updates: Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+      "tag": "US",
+      "publishedAt": "2026-04-18T23:51:55.000Z",
+      "summary": "Iran’s Revolutionary Guards said they were closing the strait until the U.S. blockade is lifted. Two ships reported being hit as they tried to pass through the strait.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-budget-session-lok-sabha-clocks-93-productivity--d311f7fe3a",
+      "title": "Budget Session: Lok Sabha clocks 93% productivity, Rajya Sabha 110%",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/budget-session-lok-sabha-clocks-93-productivity-rajya-sabha-110-10644168",
+      "tag": "India",
+      "publishedAt": "2026-04-18T23:47:56.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,46 +80,6 @@
       "tag": "US",
       "publishedAt": "2026-04-18T23:02:48.000Z",
       "summary": "Scams have exploded over the last few years. Can countries and companies come together to turn the tables on the scammers?",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-queen-elizabeth-ii-s-official-biographer-named-a-7358f8b75a",
-      "title": "Queen Elizabeth II’s official biographer named as historian Anna Keay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/19/queen-elizabeth-ii-official-biographer-anna-keay",
-      "tag": "Europe",
-      "publishedAt": "2026-04-18T23:01:25.000Z",
-      "summary": "The author, who will interview members of royal family for book, says being chosen for role is a ‘profound honour’ Anna Keay, a historian whose most celebrated book is about Bri...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-strait-of-hormuz-closure-economic-terrorism-is-i-6a122b067a",
-      "title": "Strait of Hormuz closure economic terrorism… is impacting India too: UAE minister",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/strait-of-hormuz-closure-economic-terrorism-is-impacting-india-too-uae-minister-10644142",
-      "tag": "India",
-      "publishedAt": "2026-04-18T23:01:06.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-life-jacket-worn-by-a-passenger-who-survived-the-3a28ecb865",
-      "title": "Life jacket worn by a passenger who survived the Titanic auctioned off for over $900,000",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/18/nx-s1-5789909/life-jacket-titanic-auction",
-      "tag": "US",
-      "publishedAt": "2026-04-18T21:43:56.000Z",
-      "summary": "A life jacket worn by a passenger on the RMS Titanic has sold at auction for 670,000 pounds, which is more than $900,000.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-reasserts-control-of-hormuz-strait-as-trump-f7f6d135f9",
-      "title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-18T21:41:06.000Z",
-      "summary": "Top negotiator Mohammad Bagher Ghalibaf says US naval blockade of Iran's ports is 'a clumsy and ignorant decision'.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ec-to-challenge-high-court-s-professor-poll-duty-4514deab0e",
-      "title": "EC to challenge High Court’s professor poll duty order before division bench",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/ec-to-challenge-high-courts-professor-poll-duty-order-before-division-bench/articleshow/130363707.cms",
+      "id": "news-tcs-nashik-case-door-locked-nida-s-neighbours-sa-5bd45fa90c",
+      "title": "TCS Nashik case: Door locked, Nida’s neighbours say they barely saw the family",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/tcs-nashik-case-door-locked-nidas-neighbours-say-they-barely-saw-the-family/article70879939.ece",
       "tag": "India",
-      "publishedAt": "2026-04-18T23:08:38.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-19T01:37:26.000Z",
+      "summary": "Nida Khan is named in one of the nine FIRs. In the FIR registered at Deolali Camp police station, she has been accused of speaking ill about Hinduism",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-live-updates-tensions-rise-in-strait-of-f8d86e5720",
-      "title": "Iran War Live Updates: Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
-      "tag": "US",
-      "publishedAt": "2026-04-18T23:08:26.000Z",
-      "summary": "Iran’s Revolutionary Guards said they were closing the strait until the U.S. blockade is lifted. Two ships reported being hit as they tried to pass through the strait.",
+      "id": "news-construction-on-trump-s-white-house-ballroom-can-b4b484fb2b",
+      "title": "Construction on Trump’s White House ballroom can continue for now, U.S. Appeals Court says",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/construction-on-trumps-white-house-ballroom-can-continue-for-now-us-appeals-court-says/article70879928.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-04-19T01:19:11.000Z",
+      "summary": "A U.S. appeals court is allowing construction to continue on President Donald Trump’s $400 million ballroom",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
