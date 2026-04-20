@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-04-20T16:57:24.196Z",
+  "updatedAt": "2026-04-20T17:56:22.681Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-tehran-and-washington-plan-ebe3575512",
+      "id": "news-iran-war-live-updates-tehran-and-washington-plan-001bf8d6e9",
       "title": "Iran War Live Updates: Tehran and Washington Plan New Talks in Pakistan",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-04-20T16:53:06.000Z",
+      "publishedAt": "2026-04-20T17:48:54.000Z",
       "summary": "Despite mixed messages in public, several Iranian officials indicated their delegation would travel to Islamabad on Tuesday, when Vice President JD Vance is scheduled to arrive...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-students-gain-hands-on-experience-on-drone-techn-b184b2ecd0",
-      "title": "Students gain hands-on experience on drone technology at outreach programme",
+      "id": "news-starmer-says-it-beggars-belief-he-wasn-t-told-ab-07f3755495",
+      "title": "Starmer says it ‘beggars belief’ he wasn’t told about Mandelson vetting failure as he faces down the Commons – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/20/keir-starmer-peter-mandelson-vetting-reform-immigration-iran-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-04-20T17:48:06.000Z",
+      "summary": "MPs jeered as PM said it is ‘incredible’ he was not told full story and he was wrong to appoint Mandelson as US ambassador At his press conference Nigel Farage was asked about r...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-two-wheeler-borne-elderly-man-killed-after-bmtc--f46fb170e1",
+      "title": "Two-wheeler borne elderly man killed after BMTC bus knocks him down",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-gain-hands-on-experience-on-drone-technology-at-outreach-programme/article70885564.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/two-wheeler-borne-elderly-man-killed-after-bmtc-bus-knocks-him-down/article70885888.ece",
       "tag": "India",
-      "publishedAt": "2026-04-20T16:46:40.000Z",
+      "publishedAt": "2026-04-20T17:46:31.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-starmer-orders-inquiry-into-any-security-concern-cd19c2a471",
-      "title": "Starmer orders inquiry into any security concerns over Mandelson’s tenure in US",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/20/starmer-commons-statement-foreign-office-stripped-power-overrule-vetting",
+      "id": "news-guwahati-logs-highest-april-rainfall-in-75-years-f180679f51",
+      "title": "Guwahati logs highest April rainfall in 75 years; 1 dead, schools closed",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/guwahati-logs-highest-april-rainfall-in-75-years-1-dead-schools-closed/articleshow/130399290.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-20T17:35:29.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-police-gunfight-with-favela-gang-traps-200-touri-42cc673287",
+      "title": "Police gunfight with favela gang traps 200 tourists on hilltop",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-04-20T16:43:57.000Z",
-      "summary": "PM sets out his side of events relating to appointment and security vetting in address to parliament UK politics live – latest updates Keir Starmer has ordered an investigation...",
+      "publishedAt": "2026-04-20T17:34:10.000Z",
+      "summary": "The access route to Morro Dois Irmãos was blocked during the operation in Vidigal, leaving scores of alarmed sightseers stuck on the hill.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-launches-tariff-refund-system-as-thousands-of-df922ce60c",
+      "title": "US launches tariff refund system as thousands of importers line up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/20/us-launches-tariff-refund-system-as-thousands-of-importers-line-up?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-20T17:16:52.000Z",
+      "summary": "More than 330,000 importers paid up to $166bn in tariffs on 53 million shipments ​of imported goods.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-omar-questions-centre-s-right-time-for-j-k-state-a17b3d1225",
+      "title": "Omar questions Centre’s ‘right time’ for J&K statehood, flags delay after 3-step promise",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/omar-abdullah-nowshera-rally-jammu-kashmir-statehood-bjp-promises-10646967",
+      "tag": "India",
+      "publishedAt": "2026-04-20T17:04:15.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,46 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-04-20T16:30:01.000Z",
       "summary": "JEE Main 2026 Result LIVE updates: The National Testing Agency (NTA) is most likely to release the April session BE/BTech paper results and scorecards today, April 20, 2026.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-expands-limited-internet-access-but-restric-d5169cf83f",
-      "title": "Iran expands limited internet access but restrictions remain for most",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/iran-expands-limited-internet-access-but-restrictions-remain-for-most?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-20T16:28:08.000Z",
-      "summary": "More Iranians being sold 'privilege' of limited internet access, but most remain in the dark.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-more-than-200-rescued-from-is-linked-group-in-dr-298cf5e84c",
-      "title": "More than 200 rescued from IS-linked group in DR Congo",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy7144jr68lo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-20T16:25:12.000Z",
-      "summary": "The youngest of those freed from an Allied Democratic Forces camp is a girl aged just 14, Uganda's army says.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-farm-groups-and-civil-societies-urge-govt-not-to-8395bfe87a",
-      "title": "Farm groups and civil societies urge govt not to agree imports of GM farm products amid fresh round of India-US trade talks",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/farm-groups-and-civil-societies-urge-govt-not-to-agree-imports-of-gm-farm-products-amid-fresh-round-of-india-us-trade-talks/articleshow/130397391.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-20T16:18:36.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-nitish-kumar-signals-continued-control-as-jd-u-r-e81ff7a6e3",
-      "title": "Nitish Kumar signals continued control as JD(U) recalibrates after power shift to BJP",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/nitish-kumar-jdu-meeting-nishant-kumar-consensus-leader-bihar-bjp-10646933",
-      "tag": "India",
-      "publishedAt": "2026-04-20T16:14:57.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israeli-soldier-in-lebanon-sledgehammered-a-stat-25d8fba8ba",
-      "title": "Israeli Soldier in Lebanon Sledgehammered a Statue of Jesus",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
-      "tag": "US",
-      "publishedAt": "2026-04-20T16:52:31.000Z",
-      "summary": "The military is investigating the soldier. Prime Minister Benjamin Netanyahu expressed regret for any hurt caused to “believers in Lebanon and around the world.”",
+      "id": "news-doval-s-riyadh-visit-on-pm-s-instructions-part-o-9f3e0a804f",
+      "title": "Doval’s Riyadh visit on PM’s instructions, part of government outreach to Gulf: MEA",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/nsa-doval-discusses-bilateral-relations-regional-situation-with-saudi-leaders/article70883229.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-20T17:44:12.000Z",
+      "summary": "In a statement, the Saudi Ministry of Foreign Affairs said that the talks between the Saudi Foreign Minister and Mr. Doval had reviewed areas of India-Saudi cooperation, “alongs...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-21-killed-over-61-injured-after-bus-tumbles-down-7bc93d126c",
-      "title": "21 killed, over 61 injured after bus tumbles down hillside in Jammu’s Udhampur",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/bus-accident-in-jammu-and-kashmir-udhampur-death-toll/article70883306.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-20T16:45:43.000Z",
-      "summary": "The bus crushed an autorickshaw before landing upside down on the road below. President, PM express grief",
+      "id": "news-a-decisive-win-raises-bulgarians-hopes-for-chang-6b42225ea9",
+      "title": "A Decisive Win Raises Bulgarians’ Hopes for Change",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/20/world/europe/bulgaria-election-result-rumen-radev.html",
+      "tag": "US",
+      "publishedAt": "2026-04-20T17:41:45.000Z",
+      "summary": "An election victory by a former president, Rumen Radev, gives the country a chance for stability and to clean out the corruption that has stymied its growth.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
