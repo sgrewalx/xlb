@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-20T23:34:47.066Z",
+  "updatedAt": "2026-04-21T01:30:10.724Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-anthropic-takes-5b-from-amazon-and-pledges-100b--b985075f37",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return",
+      "id": "tech-tim-cook-to-step-down-as-apple-ceo-as-hardware-c-eef622d121",
+      "title": "Tim Cook to step down as Apple CEO as hardware chief John Ternus takes over",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/business/Industry/apple-ceo-john-ternus-tim-cook-steps-down/article70886197.ece",
       "tag": "Technology",
-      "publishedAt": "2026-04-20T23:10:27.000Z",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "publishedAt": "2026-04-21T01:19:37.000Z",
+      "summary": "Mr. Cook, who has led Apple since 2011, will become the company’s ‌executive chairman",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-who-is-john-ternus-the-incoming-apple-ceo-839b5e363f",
+      "title": "Who is John Ternus, the incoming Apple CEO?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T01:02:04.000Z",
+      "summary": "After 15 years, Tim Cook will hand off his role as Apple CEO to John Ternus, senior vice president of hardware engineering.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tim-cook-will-still-be-apple-s-trump-whisperer-172e71a7fe",
+      "title": "Tim Cook will still be Apple’s Trump whisperer",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T00:14:45.000Z",
+      "summary": "Though Tim Cook is shedding his CEO title for the role of Apple's executive chairman, it appears he'll keep one of his most important duties: that of the company's Trump whisper...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-lenovo-legion-go-s-is-ramageddon-s-latest-vi-5d6e875f99",
-      "title": "The Lenovo Legion Go S is RAMageddon’s latest victim",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
-      "tag": "Technology",
-      "publishedAt": "2026-04-20T22:49:42.000Z",
-      "summary": "You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-a-humanoid-robot-set-a-half-marathon-record-in-c-cd1e34c0bc",
       "title": "A Humanoid Robot Set a Half-Marathon Record in China",
       "source": "Wired",
@@ -50,16 +60,6 @@
       "tag": "Running",
       "publishedAt": "2026-04-20T22:33:27.000Z",
       "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tim-cook-to-step-down-as-apple-ceo-as-hardware-c-a79b3e253a",
-      "title": "Tim Cook to step down as Apple CEO as hardware chief John Ternus takes over",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/business/Industry/apple-ceo-john-ternus-tim-cook-steps-down/article70886197.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-04-20T21:39:43.000Z",
-      "summary": "Mr. Cook, who has led Apple since 2011, will become the company’s ‌executive chairman",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-anthropic-takes-5b-from-amazon-and-pledges-100b--b985075f37",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return",
+      "tag": "Technology",
+      "publishedAt": "2026-04-20T23:10:27.000Z",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-apple-names-new-chief-executive-to-replace-tim-c-36af08cc59",
       "title": "Apple names new chief executive to replace Tim Cook",
       "source": "BBC Technology",
@@ -110,16 +120,6 @@
       "tag": "Running",
       "publishedAt": "2026-04-20T22:55:39.000Z",
       "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-rolls-out-gemini-in-chrome-in-7-new-count-b3e6592993",
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries",
-      "tag": "Technology",
-      "publishedAt": "2026-04-20T22:00:00.000Z",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desk...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
