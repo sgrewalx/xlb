@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-04-21T18:58:28.783Z",
+  "updatedAt": "2026-04-21T20:02:57.700Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-sam-altman-throws-shade-at-anthropic-s-cyber-mod-7c818dbfa3",
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T18:51:52.000Z",
-      "summary": "The AI industry's mudslinging continues.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-framework-s-laptop-13-pro-launch-event-245352ea53",
-      "title": "Framework’s Laptop 13 Pro launch event",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T18:41:08.000Z",
-      "summary": "Framework CEO Nirav Patel is showing off his company’s latest modular, repairable laptops in San Francisco today. The headliner is the new Laptop 13 Pro, which is its first mach...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-netflix-s-devil-may-cry-animated-adaptation-retu-68e19a3375",
-      "title": "Netflix's Devil May Cry animated adaptation returns for a second season on May 12",
+      "id": "tech-ai-company-deletes-the-3-million-okcupid-photos--3f9c52b07e",
+      "title": "AI company deletes the 3 million OKCupid photos it used for facial recognition training",
       "source": "Engadget",
-      "url": "https://www.engadget.com/entertainment/tv-movies/netflixs-devil-may-cry-animated-adaptation-returns-for-a-second-season-on-may-12-184003226.html?src=rss",
+      "url": "https://www.engadget.com/ai/ai-company-deletes-the-3-million-okcupid-photos-it-used-for-facial-recognition-training-195223996.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T18:40:03.000Z",
-      "summary": "Netflix's hit animated adaptation of the video game series Devil May Cry is returning for a second season on May 12. The streamer has released a full trailer alongside this anno...",
+      "publishedAt": "2026-04-21T19:52:23.000Z",
+      "summary": "When online platforms violate their own privacy policies to sell your photos, have no fear: They just might have to pay an undisclosed settlement fee 12 years later. (Who says j...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-mozilla-used-anthropic-s-mythos-to-find-and-fix--de6bddbd93",
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox",
+      "id": "tech-openai-faces-criminal-probe-over-role-of-chatgpt-6554cf58ca",
+      "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T18:30:00.000Z",
-      "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+      "publishedAt": "2026-04-21T19:15:34.000Z",
+      "summary": "The firm, co-founded by Sam Altman, said it is \"not responsible\" for the attack at Florida State University",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tim-cook-was-an-innovator-just-not-the-jobs-kind-311000dac6",
+      "title": "Tim Cook was an innovator — just not the Jobs kind",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T19:15:00.000Z",
+      "summary": "Under Steve Jobs, Apple released the groundbreaking products that defined the company. But the company wouldn't be what it is today without Tim Cook's reign of ruthless efficien...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-research-lab-neocognition-lands-40m-seed-to-b-95aede5b2d",
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T19:11:29.000Z",
+      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-framework-has-a-better-more-take-apart-able-lapt-1ba914c9b2",
+      "title": "Framework Has a Better, More Take-Apart-Able Laptop",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/framework-laptop-13-pro",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T19:09:11.000Z",
+      "summary": "The company announced its new Framework Laptop 13 Pro, along with updates to its 16-inch model.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-21T15:51:18.000Z",
       "summary": "NASA has shut down an instrument on Voyager 1 to conserve power, extending its mission in interstellar space as it continues to send valuable data back to Earth.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ofcom-investigating-telegram-over-child-sexual-a-6387e3198a",
-      "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T13:59:23.000Z",
-      "summary": "The popular messaging service told the BBC in a statement it \"categorically denies Ofcom's accusations\".",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-x-makes-it-1-900-percent-more-expensive-to-post--04afb52f3a",
-      "title": "X makes it 1,900 percent more expensive to post links",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
+      "id": "tech-meta-has-misled-users-about-scam-ads-on-facebook-9d74f229c0",
+      "title": "Meta has misled users about scam ads on Facebook and Instagram, lawsuit says",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/social-media/meta-has-misled-users-about-scam-ads-on-facebook-and-instagram-lawsuit-says-193220235.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T18:27:18.000Z",
-      "summary": "Posting links to X through custom social media software just got a lot more expensive. On Monday, X significantly increased how much it costs to post a URL via the X API, which...",
+      "publishedAt": "2026-04-21T19:32:20.000Z",
+      "summary": "Meta is facing a new lawsuit over its advertising practices. The nonprofit group Consumer Federation of America (CFA) has filed a proposed class-action suit against Meta for \"fa...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-framework-is-building-an-egpu-kit-for-its-laptop-402b312ac5",
-      "title": "Framework is building an eGPU kit for its Laptop 16",
+      "id": "tech-new-york-attorney-general-sues-two-prediction-ma-0bd66bc64c",
+      "title": "New York Attorney General sues two prediction markets on illegal gambling allegations",
       "source": "Engadget",
-      "url": "https://www.engadget.com/computing/laptops/framework-is-building-an-egpu-kit-for-its-laptop-16-181516238.html?src=rss",
+      "url": "https://www.engadget.com/big-tech/new-york-attorney-general-sues-two-prediction-markets-on-illegal-gambling-allegations-192012225.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T18:15:16.000Z",
-      "summary": "Framework’s Laptop 13 Pro may be the star of today’s launch, but it is by no means the only product the company is unveiling. We’re also seeing some quality-of-life upgrades for...",
+      "publishedAt": "2026-04-21T19:20:12.000Z",
+      "summary": "New York is the latest state to take a stand against prediction markets. Attorney General Letitia James has sued Coinbase Financial Markets and Gemini Titan on charges that both...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
