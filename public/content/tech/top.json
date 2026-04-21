@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-04-21T22:31:44.656Z",
+  "updatedAt": "2026-04-21T23:28:26.283Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-unauthorized-group-has-gained-access-to-anthropi-c7c52b48be",
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T23:26:45.000Z",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spacex-and-cursor-strike-partnership-that-might--68069896ce",
+      "title": "SpaceX and Cursor strike partnership that might end in a $60 billion acquisition",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/spacex-and-cursor-strike-partnership-that-might-end-in-a-60-billion-acquisition-232131487.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T23:21:31.000Z",
+      "summary": "SpaceX and AI company Cursor have struck a new partnership that could see the owner of X buy the AI company for $60 billion later this year. \"SpaceXAI and @cursor_ai are now wor...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-uk-gaming-icon-peter-molyneux-on-ai-his-final-cr-c59a85769d",
+      "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T23:00:24.000Z",
+      "summary": "The creator of iconic series such as Fable says Masters of Albion will be the last game he makes.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-bi-22929ea43f",
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T22:45:37.000Z",
+      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cur...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-pentagon-wants-54b-for-drones-more-than-most-nat-30e24bd721",
       "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
@@ -10,46 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-21T21:57:54.000Z",
       "summary": "The proposed Pentagon drone investment rivals Ukraine’s entire military budget.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-hacking-tools-like-mythos-can-be-net-positive-de14b23ea4",
-      "title": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T21:43:48.000Z",
-      "summary": "The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tim-cook-is-stepping-down-as-ceo-of-apple-here-s-75556aa11e",
-      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T21:09:09.000Z",
-      "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cash-app-now-supports-accounts-for-kids-6-12-b03856e4e3",
-      "title": "Cash App now supports accounts for kids 6-12",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/apps/cash-app-now-supports-accounts-for-kids-6-12-210651025.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T21:06:51.000Z",
-      "summary": "Cash App, the banking and payments app run by Block, has added support for parent-managed kids accounts . The new accounts include key benefits from the service's normal account...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-we-translated-the-palantir-manifesto-for-actual--088483b395",
-      "title": "We translated the Palantir manifesto for actual human beings",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/915237/palantir-manifesto",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T21:06:21.000Z",
-      "summary": "Palantir CEO Alex Karp is a man in charge of one of the most important and frightening companies in the world. Karp's new book, cowritten with Nicholas Zamiska, is called The Te...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-mozilla-anthropic-s-mythos-found-271-zero-day-vu-aa94031e42",
-      "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150",
+      "id": "tech-spacex-is-working-with-cursor-and-has-an-option--cccc93f7cb",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T21:40:41.000Z",
-      "summary": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+      "publishedAt": "2026-04-21T22:58:22.000Z",
+      "summary": "Only Elon would do this before an IPO.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-supreme-court-arguments-make-it-clear-that-fcc-f-c16b5f763d",
-      "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T21:28:27.000Z",
-      "summary": "FCC tells Supreme Court its fines are nonbinding unless a jury upholds penalty.",
+      "id": "tech-meta-to-track-workers-clicks-and-keystrokes-to-t-1415258deb",
+      "title": "Meta to track workers' clicks and keystrokes to train AI",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
+      "tag": "Running",
+      "publishedAt": "2026-04-21T22:47:56.000Z",
+      "summary": "The firm will take data from the way employees work for its artificial intelligence models.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
