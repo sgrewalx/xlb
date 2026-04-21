@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-04-21T16:48:59.737Z",
+  "updatedAt": "2026-04-21T17:52:34.324Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-xbox-cuts-game-pass-prices-but-new-call-of-duty--1d28ac2ab1",
-      "title": "Xbox cuts Game Pass prices but new Call of Duty games will no longer hit the service on day one",
+      "id": "tech-nasa-s-curiosity-rover-found-promising-organic-c-512add6085",
+      "title": "NASA's Curiosity Rover found promising organic chemicals on Mars",
       "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/xbox/xbox-cuts-game-pass-prices-but-new-call-of-duty-games-will-no-longer-hit-the-service-on-day-one-163636536.html?src=rss",
+      "url": "https://www.engadget.com/science/space/nasas-curiosity-rover-found-promising-organic-chemicals-on-mars-174514375.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T16:36:36.000Z",
-      "summary": "Xbox is cutting the prices of both Game Pass Ultimate and PC Game Pass, effective immediately, but there’s one big caveat. First, the good news: Game Pass Ultimate now costs $23...",
+      "publishedAt": "2026-04-21T17:45:14.000Z",
+      "summary": "The search for signs of life on Mars continues to yield promising data. A first-of-its-kind wet chemistry experiment, published Tuesday in Nature , confirmed the presence of ess...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-is-sued-over-scam-ads-on-facebook-and-insta-21228a89f5",
-      "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T16:24:41.000Z",
-      "summary": "A lawsuit from the Consumer Federation of America accuses Meta of misleading consumers about its efforts to combat scams advertisements on its platforms.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ordering-with-the-starbucks-chatgpt-app-was-a-tr-b650885ce2",
-      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T16:19:40.000Z",
-      "summary": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-former-pinterest-team-redesigns-email-with-extra-8b63df395a",
-      "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
+      "id": "tech-a-look-at-tim-cook-s-15-year-legacy-as-ceo-of-ap-7554a78839",
+      "title": "A look at Tim Cook’s 15-year legacy as CEO of Apple",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good",
+      "url": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T16:00:00.000Z",
-      "summary": "Extra, from a team of former Pinterest designers and engineers, reimagines email around your life instead of the traditional inbox.",
+      "publishedAt": "2026-04-21T17:40:20.000Z",
+      "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tim-cook-s-legacy-is-turning-apple-into-a-subscr-4a8526b2a4",
+      "title": "Tim Cook's Legacy Is Turning Apple Into a Subscription",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/apple-tim-cook-subscription-business",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T17:35:12.000Z",
+      "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-celebrities-will-be-able-to-find-and-request-rem-f18ef8fc40",
+      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T17:30:24.000Z",
+      "summary": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-gets-5b-investment-from-amazon-will-us-2fa965678f",
+      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T17:00:04.000Z",
+      "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-21T15:51:18.000Z",
       "summary": "NASA has shut down an instrument on Voyager 1 to conserve power, extending its mission in interstellar space as it continues to send valuable data back to Earth.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-catl-s-new-lfp-battery-can-charge-from-10-to-98--201a26601d",
-      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T15:01:43.000Z",
-      "summary": "The self-heating Shenxing battery still performs even in Arctic temperatures.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-lg-s-super-thin-wallpaper-oled-tv-starts-at-5-50-dabe76c8a7",
-      "title": "LG's super-thin Wallpaper OLED TV starts at $5,500",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/general/lgs-super-thin-wallpaper-oled-tv-starts-at-5500-163415130.html?src=rss",
+      "id": "tech-twelve-south-s-magnetic-powerbug-charger-is-down-d840609a34",
+      "title": "Twelve South’s magnetic PowerBug charger is down to just $35",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/915978/twelve-south-powerbug-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T16:34:15.000Z",
-      "summary": "The single most impressive piece of technology I saw at CES this year was LG’s revamped Wallpaper TV , AKA the OLED evo w6 . It’s about as thin as a typical pencil, it’s complet...",
+      "publishedAt": "2026-04-21T17:30:00.000Z",
+      "summary": "If you’re tired of dealing with a cluttered desk or nightstand, the Twelve South PowerBug cuts down on cables by plugging directly into the wall and handling multiple devices at...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-dyson-s-newest-floor-scrubber-is-already-on-sale-7c4f1670d2",
-      "title": "Dyson’s newest floor scrubber is already on sale for 20 percent off",
+      "id": "tech-govee-s-new-rechargeable-table-lamp-is-less-than-d91a7390e8",
+      "title": "Govee’s new rechargeable table lamp is less than half the price of Hue’s",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale",
+      "url": "https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T16:09:00.000Z",
-      "summary": "Dyson feels like it’s been on a tear as of late. The company recently introduced a handheld version of its iconic fan and a travel-friendly hair dryer, along with a mopping vers...",
+      "publishedAt": "2026-04-21T17:26:27.000Z",
+      "summary": "Nearly four years after Philips Hue launched its Go portable table lamp, Govee has announced its own version for less than half the price. While the Hue Go is currently listed f...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
