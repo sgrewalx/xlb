@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-20T03:32:14.406Z",
+  "updatedAt": "2026-04-21T03:24:23.933Z",
   "items": [
-    {
-      "id": "bertrand-russell",
-      "quote": "The best life is the one in which the creative impulses play the largest part and the possessive impulses the smallest.",
-      "author": "Bertrand Russell",
-      "context": "Life"
-    },
     {
       "id": "anon",
       "quote": "A man's character is seen or tested when he has everything, and a woman's character is tested when her man has nothing.",
@@ -30,6 +24,12 @@
       "quote": "Don’t waste time arguing with idiots. They’ll drag you down to their level and they’ll beat you with experience.",
       "author": "Mark Twain",
       "context": "Wisdom"
+    },
+    {
+      "id": "e-b-white",
+      "quote": "Prejudice is a great time saver. You can form opinions without having to get the facts.",
+      "author": "E. B. White",
+      "context": "Opinion"
     }
   ]
 }
