@@ -1,35 +1,45 @@
 {
-  "updatedAt": "2026-04-22T18:59:29.471Z",
+  "updatedAt": "2026-04-22T20:06:36.612Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-lg-s-first-rgb-tv-starts-at-5000-and-is-availabl-d2e6e5542a",
-      "title": "LG's first RGB TV starts at $5000 and is available to pre-order today",
+      "id": "tech-alexis-ohanian-shocks-washington-with-pro-immigr-b16807da95",
+      "title": "Alexis Ohanian shocks Washington with pro-immigration remarks",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
+      "tag": "Technology",
+      "publishedAt": "2026-04-22T20:04:45.000Z",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge readers about tech politics, political tech, and how they're muddying the waters of Washington, DC. My birthday is this we...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-spacex-preempted-a-2b-fundraise-with-a-60b-b-500c30a920",
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer",
+      "tag": "Running",
+      "publishedAt": "2026-04-22T19:51:51.000Z",
+      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billio...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-you-want-your-moon-landings-in-hdtv-so-does-nasa-8bce1e501a",
+      "title": "You want your Moon landings in HDTV? So does NASA—here's how it's happening.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening",
+      "tag": "Technology",
+      "publishedAt": "2026-04-22T19:42:13.000Z",
+      "summary": "\"You just push this button, and in three hours, you're counting photons.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-lg-s-first-rgb-tv-starts-at-5-000-and-is-availab-d2e6e5542a",
+      "title": "LG's first RGB TV starts at $5,000 and is available to pre-order today",
       "source": "Engadget",
       "url": "https://www.engadget.com/home/home-theater/lgs-first-rgb-tv-starts-at-5000-and-is-available-to-pre-order-today-185159193.html?src=rss",
       "tag": "Technology",
       "publishedAt": "2026-04-22T18:51:59.000Z",
       "summary": "LG has announced the pricing and availability of its Micro RGB evo , the company's first take on a TV display trend that kicked off in earnest at CES 2026. The LG Micro RGB evo...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-former-mrbeast-exec-sues-over-years-of-alleged-h-6f2d61fc26",
-      "title": "Former MrBeast exec sues over ‘years’ of alleged harassment",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
-      "tag": "Technology",
-      "publishedAt": "2026-04-22T18:49:02.000Z",
-      "summary": "A former employee of Jimmy \"MrBeast\" Donaldson has filed a lawsuit alleging that she faced \"intentional infliction of emotional distress\" from harassment at the YouTuber's produ...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-from-the-stage-to-the-future-where-are-startup-b-0b2b3dd759",
-      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now",
-      "tag": "Technology",
-      "publishedAt": "2026-04-22T18:42:26.000Z",
-      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-22T18:00:00.000Z",
       "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-unveils-two-new-tpus-designed-for-the-age-6a45d95a57",
-      "title": "Google unveils two new TPUs designed for the \"agentic era\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era",
-      "tag": "Technology",
-      "publishedAt": "2026-04-22T17:10:32.000Z",
-      "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-cloud-launches-two-new-ai-chips-to-compet-a3c0dff05c",
-      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "id": "tech-france-confirms-data-breach-at-government-agency-24217e498c",
+      "title": "France confirms data breach at government agency that manages citizens’ IDs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia",
+      "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids",
       "tag": "Technology",
-      "publishedAt": "2026-04-22T18:39:27.000Z",
-      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      "publishedAt": "2026-04-22T19:34:41.000Z",
+      "summary": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ember-s-self-heating-smart-mug-is-more-than-50-o-dc450fca97",
-      "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
+      "id": "tech-microsoft-issues-emergency-update-for-macos-and--79ba8dd7c3",
+      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat",
       "tag": "Technology",
-      "publishedAt": "2026-04-22T17:58:23.000Z",
-      "summary": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your...",
+      "publishedAt": "2026-04-22T19:32:56.000Z",
+      "summary": "When authentication fails, things can go very, very wrong.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
