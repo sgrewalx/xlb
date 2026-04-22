@@ -1,85 +1,95 @@
 {
-  "updatedAt": "2026-04-22T06:54:15.414Z",
+  "updatedAt": "2026-04-22T08:26:24.571Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-andhra-pradesh-will-lose-five-lok-sabha-seats-if-49f3c921e9",
-      "title": "Andhra Pradesh will lose five Lok Sabha seats if 131st Amendment is not revived, says Purandeswari",
+      "id": "news-neighbourhood-first-needs-a-reboot-f55b6dc3cc",
+      "title": "Neighbourhood First needs a reboot",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/ht-insight/international-affairs/neighbourhood-first-needs-a-reboot-101776845160131.html",
+      "tag": "India",
+      "publishedAt": "2026-04-22T08:24:19.000Z",
+      "summary": "This article is authored by Rajiv Bhatia.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bjp-delegation-meets-eci-seeks-stringent-action--6de4a06af5",
+      "title": "BJP delegation meets ECI, seeks stringent action against Kharge for ‘terrorist’ remark targeting PM",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-will-lose-five-lok-sabha-seats-if-131st-amendment-is-not-revived-says-purandeswari/article70889037.ece",
+      "url": "https://www.thehindu.com/news/national/bjp-delegation-meets-eci-seeks-stringent-action-against-kharge-for-terrorist-remark-targeting-pm/article70892008.ece",
       "tag": "India",
-      "publishedAt": "2026-04-22T06:45:09.000Z",
-      "summary": "Rajamahendravaram BJP MP seeks an apology from Opposition for defeating the Bill; she says the amendment’s delimitation formula, with a larger Lok Sabha, would have protected so...",
+      "publishedAt": "2026-04-22T08:21:26.000Z",
+      "summary": "Nirmala Sitharaman alleged that the Congress is “completely frustrated” and making such remarks against the Prime Minister amid Assembly polls in Tamil Nadu and West Bengal beca...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-channel-seven-s-spotlight-digging-for-dirt-on-cl-fe00fdd0cc",
-      "title": "Channel Seven’s Spotlight digging for dirt on clean energy ignores fundamental facts and basic journalistic standards | Temperature Check",
+      "id": "news-middle-east-crisis-live-trump-extends-ceasefire--ff0a9a5735",
+      "title": "Middle East crisis live: Trump extends ceasefire but blockade continues as second ship attacked in strait of Hormuz",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/22/channel-seven-7news-spotlight-clean-energy-investigation-ignores-fundamental-facts",
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
       "tag": "Europe",
-      "publishedAt": "2026-04-22T06:42:03.000Z",
-      "summary": "Program portrayed efforts to wean Australia off fossil fuels as morally bankrupt, trashing rainforests and enslaving Australia to China Get our breaking news email , free app or...",
+      "publishedAt": "2026-04-22T08:16:24.000Z",
+      "summary": "Cargo ship attacked northwest of Iran after earlier reports that the IRGC had fired at a gunboat off the coast of Oman Trump announces ceasefire extension Why Trump’s erratic co...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-uk-inflation-rises-after-iran-war-pushes-up-fuel-4058b0e0c5",
-      "title": "UK inflation rises after Iran war pushes up fuel prices",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-04-22T06:38:50.000Z",
-      "summary": "The figures provide the first official look at the impact of the Iran war on the cost of living in the UK.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-extends-cease-fire-with-iran-3d8e41c5b3",
-      "title": "Trump Extends Cease-Fire With Iran",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news",
-      "tag": "US",
-      "publishedAt": "2026-04-22T06:31:06.000Z",
-      "summary": "The pause in hostilities had been set to expire within hours. The president said Pakistan, which is trying to mediate an end to the war, requested he hold off any attacks.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-second-maternity-leave-can-t-be-denied-merely-be-7197589ee4",
-      "title": "Second maternity leave can't be denied merely because sought within 2 years of first: Allahabad HC",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/second-maternity-leave-cant-be-denied-merely-because-sought-within-2-years-of-first-allahabad-hc/articleshow/130433919.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-22T06:30:32.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-poll-body-bans-outsiders-from-hotels-in-bengal-a-bddfca565e",
-      "title": "Poll Body Bans Outsiders From Hotels In Bengal Ahead Of Polling",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/bengal-assembly-elections-2026-poll-body-bans-outsiders-from-hotels-in-bengal-ahead-of-polling-11391603",
-      "tag": "India",
-      "publishedAt": "2026-04-22T05:51:53.000Z",
-      "summary": "The restriction has come into force from 6 pm on Tuesday and will remain in place until the conclusion of polling on Wednesday.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-yusuf-pathan-s-relatives-arrested-for-assault-fa-b0ca91c9ff",
-      "title": "Yusuf Pathan’s relatives arrested for assault, family cries conspiracy ahead of elections",
+      "id": "news-such-disgraceful-conduct-can-t-be-normalised-bjp-24297442ae",
+      "title": "‘Such disgraceful conduct can’t be normalised’: BJP to ECI on Kharge’s ‘terrorist’ remark",
       "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/arrests-yusuf-pathan-relatives-mother-in-law-motive-malign-reputation-polls-10649400",
+      "url": "https://indianexpress.com/article/india/kharge-terrorist-remark-modi-bjp-ec-complaint-10649887",
       "tag": "India",
-      "publishedAt": "2026-04-22T05:29:44.000Z",
+      "publishedAt": "2026-04-22T08:14:34.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-what-s-happening-on-day-54-as-trump-ext-281fadfbc9",
-      "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+      "id": "news-up-board-result-date-and-time-class-10-12-result-455c481b1f",
+      "title": "UP Board Result Date And Time: Class 10, 12 Results To Be Out On April 23 At 4 PM",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/up-board-result-date-and-time-announced-class-10-12-results-to-be-out-on-april-23-11392199",
+      "tag": "India",
+      "publishedAt": "2026-04-22T08:14:33.000Z",
+      "summary": "UP Board Result Date And Time: The UP Board Class 10 ( High School) and Class 12 (Intermediate) examinations 2026 results will be declared on April 23 at 4pm.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-uk-inflation-rises-after-iran-war-pushes-up-fuel-be2b8ad466",
+      "title": "UK inflation rises after Iran war pushes up fuel prices",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-04-22T08:07:02.000Z",
+      "summary": "The figures provide the first official look at the impact of the Iran war on the cost of living in the UK.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-extends-cease-fire-with-iran-06ffb6e8eb",
+      "title": "Trump Extends Cease-Fire With Iran",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news",
+      "tag": "US",
+      "publishedAt": "2026-04-22T07:56:26.000Z",
+      "summary": "The pause in hostilities had been set to expire within hours. The president said Pakistan, which is trying to mediate an end to the war, requested he hold off any attacks.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-s-un-ambassador-responds-to-us-ceasefire-ex-20476b030c",
+      "title": "Iran’s UN ambassador responds to US ceasefire extension",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-04-22T05:25:57.000Z",
-      "summary": "Trump said the US would extend the ceasefire with Iran until it presents a proposal and talks conclude.",
+      "publishedAt": "2026-04-22T07:33:42.000Z",
+      "summary": "Iran’s UN Ambassador has responded to US President Donald Trump’s announcement of an extension to the ceasefire.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-it-is-possible-rajnath-says-india-may-play-its-r-c1587e569c",
+      "title": "'It is possible': Rajnath says India may 'play its role' in bringing peace in West Asia",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/it-is-possible-rajnath-says-india-may-play-its-role-in-bringing-peace-in-west-asia/articleshow/130434961.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-22T07:22:43.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-a-reactor-goes-critical-at-a-critical-moment-588166f9e1",
-      "title": "A reactor goes critical at a critical moment",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/governance/a-reactor-goes-critical-at-a-critical-moment-101776686036787.html",
+      "id": "news-ex-andhra-pradesh-chief-minister-nadendla-bhaska-f3b21ff3aa",
+      "title": "Ex-Andhra Pradesh Chief Minister Nadendla Bhaskara Rao dies at 90",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ex-andhra-pradesh-chief-minister-nadendla-bhaskara-rao-dies-at-90/article70891964.ece",
       "tag": "India",
-      "publishedAt": "2026-04-21T03:32:41.000Z",
-      "summary": "Authors - Omkar Dhanke, research analyst & Debajit Palit, centre head, Centre for Climate Change and Energy Transition, Chintan Research Foundation, New Delhi.",
+      "publishedAt": "2026-04-22T08:20:43.000Z",
+      "summary": "Mr. Bhaskara Rao, who served as Chief Minister for 31 days in 1984 after a political revolt against N.T. Rama Rao, died at a private hospital in Hyderabad on Wednesday; his last...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-tamil-nadu-sir-2026-how-to-check-your-name-in-fi-3e2eaa62c6",
-      "title": "Tamil Nadu SIR 2026: How to check your name in final voter list",
+      "id": "news-dhruva-natchathiram-release-madras-high-court-to-f702dc42ed",
+      "title": "Dhruva Natchathiram release: Madras High Court to pass orders on April 24",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-final-voters-list-2026-published-how-to-check-your-name/article70665776.ece",
+      "url": "https://www.thehindu.com/entertainment/movies/dhruva-natchathiram-release-madras-high-court-to-pass-orders-on-april-24/article70891506.ece",
       "tag": "India",
-      "publishedAt": "2026-04-22T06:43:24.000Z",
-      "summary": "The final voter roll was initially scheduled for release on February 17 but was later postponed to February 23.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-assembly-elections-2026-live-evms-reach-polling--9d38bbb047",
-      "title": "Assembly Elections 2026 LIVE: EVMs reach polling centres as 5.73 crore voters set to decide fate of 4,023 candidates in Tamil Nadu",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/assembly-elections-2026-april-22-highlights-tamil-nadu-kerala-puducherry-chennai-kerala-assam-poll-updates-poll-results-date/article70891255.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-22T06:43:02.000Z",
-      "summary": "A total of 5,73,43,291 electors are expected to exercise their franchise",
+      "publishedAt": "2026-04-22T08:20:17.000Z",
+      "summary": "Justice Senthilkumar Ramamoorthy wound up hearing oral arguments in the case and decided to dictate orders on April 24, 2026",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
