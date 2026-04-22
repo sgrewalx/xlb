@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-04-22T22:40:25.378Z",
+  "updatedAt": "2026-04-22T23:40:00.750Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-reported-seizure-of-ships--fe32aa07f4",
+      "id": "news-australia-news-live-james-valentine-s-family-rev-391474bc45",
+      "title": "Australia news live: James Valentine’s family reveal broadcaster used voluntary assisted dying; Mark Butler says NDIS changes are ‘confronting’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-04-22T23:30:40.000Z",
+      "summary": "Robbie Buck and Wendy Harmer pay tribute to ABC radio presenter and musician who had been diagnosed with oesophageal cancer. Follow today’s news live Get our breaking news email...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-south-american-migrants-deported-to-drc-say-faci-31c612b4db",
+      "title": "South American migrants deported to DRC say facing pressure to return home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/south-american-migrants-deported-to-drc-say-facing-pressure-to-return-home?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-22T23:19:02.000Z",
+      "summary": "Rights advocates have accused Trump administration of using third-country deportations to intimidate asylum seekers.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ban-forever-chemicals-in-uniforms-and-frying-pan-11df1d3a12",
+      "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-04-22T23:11:24.000Z",
+      "summary": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-iran-war-live-updates-reported-seizure-of-ships--e0d7958ede",
       "title": "Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
       "tag": "US",
-      "publishedAt": "2026-04-22T22:30:42.000Z",
+      "publishedAt": "2026-04-22T23:08:26.000Z",
       "summary": "Iran’s Revolutionary Guards said they had seized two ships near the Strait of Hormuz. A Trump spokeswoman said the president did not view those actions as violating the cease-fire.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-pentagon-announces-us-navy-secretary-is-leaving--a29e340884",
-      "title": "Pentagon announces US navy secretary is leaving ‘effective immediately’ – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-04-22T22:29:59.000Z",
-      "summary": "Amid Iran blockade, John C Phelan has been immediately replaced with undersecretary Hung Cao, says Pentagon on social media with no explanation Sign up for the Breaking News US...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-eliminate-jobs-tax-for-workers-to-compete-with-a-f0ae9c21a8",
-      "title": "Eliminate jobs tax for workers to compete with AI, says Sunak",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-04-22T22:14:20.000Z",
-      "summary": "The former prime minister said graduates' concerns about getting entry-level jobs are justified.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-rail-corridor-for-odisha-bauxite-mines-days-afte-b9c4891429",
-      "title": "Rail corridor for Odisha bauxite mines days after tribal-police clash",
+      "id": "news-india-international-water-week-in-sept-a59b366215",
+      "title": "India International Water Week in Sept",
       "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/rail-corridor-for-odisha-bauxite-mines-days-after-tribal-police-clash-10651040",
+      "url": "https://indianexpress.com/article/india/india-international-water-week-in-sept-10651068",
       "tag": "India",
-      "publishedAt": "2026-04-22T22:10:38.000Z",
+      "publishedAt": "2026-04-22T23:06:08.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-prediction-market-kalshi-docks-three-us-candidat-f612ee53a5",
-      "title": "Prediction market Kalshi docks three US candidates for betting on own races",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/prediction-market-kalshi-docks-three-us-candidates-for-betting-on-own-races?traffic_source=rss",
+      "id": "news-iran-israel-war-live-iran-says-won-t-reopen-horm-e18592ff11",
+      "title": "Iran-Israel war LIVE: Iran says won't reopen Hormuz as long as U.S. blockade remains",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
       "tag": "Europe",
-      "publishedAt": "2026-04-22T22:03:13.000Z",
-      "summary": "Penalties come amid calls for greater oversight; company pledges to proactively police 'insider trading' on platforms.",
+      "publishedAt": "2026-04-22T23:00:29.000Z",
+      "summary": "Iran Guards say 'seized' two ships attempting to cross Strait of Hormuz; Iran says it has yet to decide whether to join a new round of talks with the U.S.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "India",
       "publishedAt": "2026-04-22T21:44:09.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-tamil-nadu-assembly-election-2026-constituency-w-587316e2f3",
-      "title": "Tamil Nadu Assembly election 2026: Constituency Watch – a compilation",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-constituency-watch-a-package/article70761075.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-22T20:58:40.000Z",
-      "summary": "Tune in to The Hindu’s Constituency Watch segment to follow our on-ground Assembly election coverage",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-king-charles-will-not-meet-epstein-victims-durin-42978a43ca",
-      "title": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html",
-      "tag": "US",
-      "publishedAt": "2026-04-22T22:28:24.000Z",
-      "summary": "Representative Ro Khanna had asked Buckingham Palace for a private meeting between the victims and King Charles during his planned visit to the U.S. next week.",
+      "id": "news-middle-east-crisis-live-white-house-says-trump-s-1e1c50f2b8",
+      "title": "Middle East crisis live: White House says Trump ‘satisfied’ with blockade after Iran says it seized two ships in strait of Hormuz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
+      "tag": "Europe",
+      "publishedAt": "2026-04-22T23:29:00.000Z",
+      "summary": "White House says Trump ‘understands Iran is in a very weak position’; state media says the ships have been transferred to Iran’s coast ‘Impossible’ to reopen strait of Hormuz am...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-news-live-james-valentine-s-former-col-f5090e1214",
-      "title": "Australia news live: James Valentine’s former colleagues pay tribute after death of broadcaster; rental vacancies at record low in most big cities",
+      "id": "news-pentagon-says-navy-secretary-is-leaving-marking--c760f9b172",
+      "title": "Pentagon says navy secretary is leaving, marking another top leader’s departure",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+      "url": "https://www.theguardian.com/us-news/2026/apr/22/navy-secretary-john-phelan-leaving-post",
       "tag": "Europe",
-      "publishedAt": "2026-04-22T22:27:08.000Z",
-      "summary": "Robbie Buck and Wendy Harmer pay tribute to ABC radio presenter and musician who had been diagnosed with oesophageal cancer. Follow today’s news live Get our breaking news email...",
+      "publishedAt": "2026-04-22T23:27:50.000Z",
+      "summary": "Exit of John Phelan, navy’s top civilian official, comes a week after Pete Hegseth fired army’s top officer The Pentagon announced on Wednesday that the navy’s top civilian offi...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
