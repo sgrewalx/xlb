@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-21T23:28:26.283Z",
+  "updatedAt": "2026-04-22T01:28:47.397Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-unauthorized-group-has-gained-access-to-anthropi-c7c52b48be",
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims",
+      "id": "tech-how-gumo-is-building-an-ai-co-pilot-for-travel-p-440990211d",
+      "title": "How Gumo is building an AI co-pilot for travel planning",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/04/how-gumo-is-building-an-ai-co-pilot-for-travel-planning",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T23:26:45.000Z",
-      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "publishedAt": "2026-04-22T01:20:00.000Z",
+      "summary": "Bengaluru-based Gumo is tackling travel decision fatigue with context-led planning, personalised match scores, and an AI-first approach that has helped it scale to 22,000 monthl...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-redwood-materials-lays-off-10-in-restructuring-t-a886adf17b",
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business",
+      "tag": "Technology",
+      "publishedAt": "2026-04-22T00:37:33.000Z",
+      "summary": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tim-cook-put-down-the-roots-in-india-apple-was-b-08b7f9d3cf",
+      "title": "Tim Cook put down the roots in India Apple was bullish on",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/business/Industry/tim-cook-put-down-the-roots-in-india-apple-was-bullish-on/article70889423.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-04-22T00:33:28.000Z",
+      "summary": "As Apple’s CEO during a time of dramatic smartphone growth in India, he leaves successors a market he knew wouldn’t flourish in his time, and paves way for future generations of...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meity-moots-stricter-disclosure-norms-for-ai-gen-6d954271c4",
-      "title": "MeitY moots stricter disclosure norms for AI-generated content, proposes tweaks to IT rules",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/meity-moots-stricter-disclosure-norms-for-ai-generated-content-proposes-tweaks-to-it-rules/article70890207.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T19:11:26.000Z",
-      "summary": "New rules will require clear and continuous labels identifying synthetically generated information to be visible throughout the entire duration of the visual display",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-framework-has-a-better-more-take-apartable-lapto-1ba914c9b2",
       "title": "Framework Has a Better, More Take-Apartable Laptop",
       "source": "Wired",
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-dhan-parent-raise-financial-acquires-stratzy-bcefbf1424",
-      "title": "Dhan parent Raise Financial acquires Stratzy",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/04/dhan-parent-raise-financial-acquires-stratzy",
-      "tag": "Technology",
-      "publishedAt": "2026-04-21T12:54:48.000Z",
-      "summary": "The acquisition expands Raise Financial's portfolio in stock market trading with new offering in the algorithmic investing segment.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-is-working-with-cursor-and-has-an-option--cccc93f7cb",
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+      "id": "tech-meta-will-record-employees-keystrokes-and-use-it-e240daa2a4",
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models",
       "tag": "Technology",
-      "publishedAt": "2026-04-21T22:58:22.000Z",
-      "summary": "Only Elon would do this before an IPO.",
+      "publishedAt": "2026-04-21T23:45:21.000Z",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-to-track-workers-clicks-and-keystrokes-to-t-1415258deb",
-      "title": "Meta to track workers' clicks and keystrokes to train AI",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-04-21T22:47:56.000Z",
-      "summary": "The firm will take data from the way employees work for its artificial intelligence models.",
+      "id": "tech-unauthorized-group-has-gained-access-to-anthropi-c7c52b48be",
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims",
+      "tag": "Technology",
+      "publishedAt": "2026-04-21T23:26:45.000Z",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
