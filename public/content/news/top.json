@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-04-22T17:54:39.307Z",
+  "updatedAt": "2026-04-22T19:02:54.276Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-billionaire-backer-sues-trump-family-s-crypto-fi-023c12b84b",
+      "id": "news-woman-who-set-male-friend-on-fire-in-police-cust-0c44ee8b0c",
+      "title": "Woman who set male friend on fire in police custody in Bengaluru",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/woman-who-set-male-friend-on-fire-in-police-custody-in-bengaluru/article70893537.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-22T19:00:01.000Z",
+      "summary": "A day after a man was burnt alive, the Byadarahlli police have taken Prema, 27, his female friend, into three days custody to ascertain the exact motive behind the murder",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-reported-seizure-of-ships--7ec7b37f7e",
+      "title": "Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
+      "tag": "US",
+      "publishedAt": "2026-04-22T18:58:25.000Z",
+      "summary": "Iran’s Revolutionary Guards said they had seized two ships near the Strait of Hormuz. The United States and Iran have been seeking to exert control over the strategic waterway a...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-iran-says-it-has-seized--dc5fcc7454",
+      "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
+      "tag": "Europe",
+      "publishedAt": "2026-04-22T18:48:25.000Z",
+      "summary": "State media says the ships have been transferred to Iran’s coast Trump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran deal If you’re j...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-air-raid-blackout-exercises-announced-in-parts-o-a29958fdf1",
+      "title": "Air raid blackout exercises announced in parts of Kashmir Valley",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/air-raid-blackout-exercises-announced-in-parts-of-kashmir-valley-10650894",
+      "tag": "India",
+      "publishedAt": "2026-04-22T18:48:22.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bad-optics-israel-jails-soldiers-who-smashed-jes-2a21e58603",
+      "title": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-22T18:22:26.000Z",
+      "summary": "Critics say Israeli attacks on Christian sites challenge claims of a Judeo-Christian shared heritage and mutual respect.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-billionaire-backer-sues-trump-family-s-crypto-fi-1dedfe8783",
       "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-04-22T17:53:26.000Z",
+      "publishedAt": "2026-04-22T18:10:42.000Z",
       "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-democrats-hail-virginia-s-redistricting-plan-and-bc5f5a1d79",
-      "title": "Democrats hail Virginia’s redistricting plan and warn Republicans’ plan to redraw Florida could backfire – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-04-22T17:49:20.000Z",
-      "summary": "House Democratic leader Hakeem Jeffries says, ‘we will not let Trump rig the midterms’ and that the result should serve as a warning to Ron DeSantis Virginia voters approve new...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-battle-over-strait-intensi-6b4df88db8",
-      "title": "Iran War Live Updates: Battle Over Strait Intensifies as Iranian Forces Say They Seized 2 Ships",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
-      "tag": "US",
-      "publishedAt": "2026-04-22T17:49:04.000Z",
-      "summary": "The Revolutionary Guards said they had seized two cargo ships near the Strait of Hormuz, state media reported. The United States and Iran have been seeking to exert control over...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-women-s-panel-chief-flags-lapses-in-sexual-haras-2e4f03d131",
-      "title": "Women’s panel chief flags lapses in sexual harassment inquiry at Ayurvedic college",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/womens-panel-chief-flags-lapses-in-sexual-harassment-inquiry-at-ayurvedic-college/article70893953.ece",
+      "id": "news-cumulative-seizures-of-potential-poll-inducement-2bff7103ed",
+      "title": "Cumulative seizures of potential poll inducements in West Bengal, Tamil Nadu touches Rs 1,072 crore",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/cumulative-seizures-of-potential-poll-inducements-in-west-bengal-tamil-nadu-touches-rs-1072-crore/articleshow/130449353.cms",
       "tag": "India",
-      "publishedAt": "2026-04-22T17:47:53.000Z",
-      "summary": "Complaint alleges threats to students; Internal Complaints Committee formed late and without external member, says Rayapati Sailaja",
+      "publishedAt": "2026-04-22T17:57:53.000Z",
+      "summary": "Of the total 127.7-crore cash seizures, over 100 crore crore were in Tamil Nadu and Rs 27.5 crore in West Bengal. Around 39.3 lakh litres of liquor valued at Rs 102.5 crore was...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-2-days-2-rapes-1-murder-ex-house-help-s-crime-tr-e94cf69a03",
+      "title": "2 Days, 2 Rapes, 1 Murder: Ex-House Help's Crime Trail From Alwar To Delhi",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/delhi-irs-daughter-murder-east-of-kailash-2-days-2-rapes-1-murder-ex-house-helps-crime-trail-from-alwar-to-delhi-11395167",
+      "tag": "India",
+      "publishedAt": "2026-04-22T17:56:53.000Z",
+      "summary": "After the assault in Alwar, Rahul travelled to Delhi, where the murder took place.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,46 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-goa-row-youtuber-s-brother-held-over-remarks-on--b4d5dd2030",
-      "title": "Goa row: YouTuber’s brother held over remarks on St Francis Xavier; LOC out for Gautam Khattar",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/goa-row-youtubers-brother-held-remarks-st-francis-xavier-gautam-khattar-10650853",
-      "tag": "India",
-      "publishedAt": "2026-04-22T17:05:22.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-air-force-jets-conduct-precision-drills-on-up-s--c521c0e2ec",
-      "title": "Air Force Jets Conduct Precision Drills On UP's Purvanchal Expressway",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/air-force-jets-conduct-precision-drills-on-ups-purvanchal-expressway-11394741",
-      "tag": "India",
-      "publishedAt": "2026-04-22T16:50:19.000Z",
-      "summary": "A diverse fleet of aircraft, including Jaguar, Mirage-2000, Sukhoi-30 MKI, C-295 and AN-32, alongside Mi-17 V5 helicopter, took part in the exercise.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-assembly-elections-2026-tamil-nadu-to-vote-acros-ef138481e8",
-      "title": "Assembly elections 2026: Tamil Nadu to vote across all seats, Bengal in phase 1; can Stalin, Mamata hold their bastions?",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/assembly-elections-2026-tamil-nadu-to-vote-across-all-seats-bengal-in-phase-1-can-stalin-mamata-hold-their-bastions-dmk-aiadmk-tmc-bjp-congress-vijay-tvk/articleshow/130447043.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-22T16:45:50.000Z",
-      "summary": "West Bengal and Tamil Nadu are set for high-stakes assembly elections on April 23, with intense campaigns by national and regional parties. Over Rs 1,000 crore in inducements ha...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-chelsea-sack-rosenior-after-only-three-months-at-f99932bc9d",
-      "title": "Chelsea sack Rosenior after only three months at Premier League club",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/22/chelsea-sack-rosenior-after-only-3-months-at-premier-league-club?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-22T16:45:17.000Z",
-      "summary": "Chelsea only appointed Liam Rosenior in January, but the FIFA Club World Cup holders have lost their last five games.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-iranians-are-leaving-the-country-just-to-access--289732249b",
       "title": "Iranians are leaving the country just to access the internet",
       "source": "NPR",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-eu-approves-90bn-loan-for-ukraine-as-pipeline-is-64a345f2e0",
-      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-22T17:48:44.000Z",
-      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+      "id": "news-here-s-the-latest-80d4c155d1",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/heres-the-latest",
+      "tag": "US",
+      "publishedAt": "2026-04-22T18:58:22.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-morgan-mcsweeney-keir-starmer-s-former-chief-of--bb25182b33",
-      "title": "Morgan McSweeney, Keir Starmer’s former chief of staff, to be questioned by MPs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/22/morgan-mcsweeney-starmer-former-chief-of-staff-to-be-questioned-by-mps",
-      "tag": "Europe",
-      "publishedAt": "2026-04-22T17:46:00.000Z",
-      "summary": "Exclusive: McSweeney summoned by foreign affairs select committee in rare step, as Mandelson vetting row continues Morgan McSweeney is facing a showdown with MPs who will grill...",
+      "id": "news-pope-leo-is-skipping-some-of-africa-s-biggest-ca-3dd2268c13",
+      "title": "Pope Leo Is Skipping Some of Africa’s Biggest Catholic Nations",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-visit-snubbed.html",
+      "tag": "US",
+      "publishedAt": "2026-04-22T18:57:10.000Z",
+      "summary": "As the pontiff arrives in the tiny authoritarian nation of Equatorial Guinea, some Catholics in Africa say they are excited about his visit but are feeling a little left out.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
