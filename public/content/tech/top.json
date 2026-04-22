@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-04-22T17:53:02.862Z",
+  "updatedAt": "2026-04-22T18:59:29.471Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-watch-sony-s-elite-ping-pong-robot-beat-top-rank-848d7f3e21",
-      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
-      "tag": "Technology",
-      "publishedAt": "2026-04-22T17:43:38.000Z",
-      "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FOREPHUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is th...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-vampire-survivors-developer-poncle-is-opening-mo-1f1ef6c3cf",
-      "title": "Vampire Survivors developer Poncle is opening more studios and has over 15 games in the works",
+      "id": "tech-lg-s-first-rgb-tv-starts-at-5000-and-is-availabl-d2e6e5542a",
+      "title": "LG's first RGB TV starts at $5000 and is available to pre-order today",
       "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/vampire-survivors-developer-poncle-is-opening-more-studios-and-has-over-15-games-in-the-works-174022348.html?src=rss",
+      "url": "https://www.engadget.com/home/home-theater/lgs-first-rgb-tv-starts-at-5000-and-is-available-to-pre-order-today-185159193.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-22T17:40:23.000Z",
-      "summary": "Vampire Survivors developer Poncle has big plans for the future, according to an interview The Game Business conducted with the company's chief strategy officer Matteo Sapio. It...",
+      "publishedAt": "2026-04-22T18:51:59.000Z",
+      "summary": "LG has announced the pricing and availability of its Micro RGB evo , the company's first take on a TV display trend that kicked off in earnest at CES 2026. The LG Micro RGB evo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-turns-chrome-into-an-ai-coworker-for-the--6981312427",
-      "title": "Google turns Chrome into an AI coworker for the workplace",
+      "id": "tech-former-mrbeast-exec-sues-over-years-of-alleged-h-6f2d61fc26",
+      "title": "Former MrBeast exec sues over ‘years’ of alleged harassment",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
+      "tag": "Technology",
+      "publishedAt": "2026-04-22T18:49:02.000Z",
+      "summary": "A former employee of Jimmy \"MrBeast\" Donaldson has filed a lawsuit alleging that she faced \"intentional infliction of emotional distress\" from harassment at the YouTuber's produ...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-from-the-stage-to-the-future-where-are-startup-b-0b2b3dd759",
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace",
+      "url": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now",
       "tag": "Technology",
-      "publishedAt": "2026-04-22T17:30:00.000Z",
-      "summary": "Google brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "publishedAt": "2026-04-22T18:42:26.000Z",
+      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tabloid-reports-linking-10-missing-and-dead-scie-24eeff2b3a",
-      "title": "Tabloid reports linking 10 missing and dead scientists spur FBI probe",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe",
+      "id": "tech-5-ai-models-tried-to-scam-me-some-of-them-were-s-3cf0761bc1",
+      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity",
       "tag": "Technology",
-      "publishedAt": "2026-04-22T16:46:31.000Z",
-      "summary": "FBI suspects foreign spies may be targeting scientists with access to government secrets.",
+      "publishedAt": "2026-04-22T18:00:00.000Z",
+      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-unveils-two-new-tpus-designed-for-the-age-6a45d95a57",
+      "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era",
+      "tag": "Technology",
+      "publishedAt": "2026-04-22T17:10:32.000Z",
+      "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-22T16:07:47.000Z",
       "summary": "From a Delhi slum to the UN: How Devendra Kumar's Ladli Foundation is changing 30 lakh lives Not many people can say they learned to survive",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-new-york-bans-government-employees-from-insider--942927d2aa",
-      "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets",
-      "tag": "Technology",
-      "publishedAt": "2026-04-22T16:00:00.000Z",
-      "summary": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-threads-introduces-live-chats-for-following-live-fe7f789991",
-      "title": "Threads introduces 'live chats' for following live events",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/social-media/threads-introduces-live-chats-for-following-live-events-170007658.html?src=rss",
+      "id": "tech-google-cloud-launches-two-new-ai-chips-to-compet-a3c0dff05c",
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia",
       "tag": "Technology",
-      "publishedAt": "2026-04-22T17:00:07.000Z",
-      "summary": "Meta has introduced a new \"live chats\" feature to Threads, enabling people on the platform to participate in real-time conversations about live events they’re interested in. Liv...",
+      "publishedAt": "2026-04-22T18:39:27.000Z",
+      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-threads-is-adding-live-chats-to-boost-real-time--914a208a7a",
-      "title": "Threads is adding Live Chats to boost real-time engagement",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement",
+      "id": "tech-ember-s-self-heating-smart-mug-is-more-than-50-o-dc450fca97",
+      "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
       "tag": "Technology",
-      "publishedAt": "2026-04-22T17:00:00.000Z",
-      "summary": "Users can send messages, photos, videos, links, and emoji reactions in Live Chats.",
+      "publishedAt": "2026-04-22T17:58:23.000Z",
+      "summary": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
