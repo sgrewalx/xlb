@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-21T03:24:23.933Z",
+  "updatedAt": "2026-04-22T03:22:15.574Z",
   "items": [
-    {
-      "id": "anon",
-      "quote": "A man's character is seen or tested when he has everything, and a woman's character is tested when her man has nothing.",
-      "author": "Anon",
-      "context": "Character"
-    },
     {
       "id": "arthur-schopenhauer-1",
       "quote": "Talent hits a target no one else can hit; genius hits a target no one else can see.",
@@ -30,6 +24,12 @@
       "quote": "Prejudice is a great time saver. You can form opinions without having to get the facts.",
       "author": "E. B. White",
       "context": "Opinion"
+    },
+    {
+      "id": "caractacus-potts",
+      "quote": "From the ashes of disaster grow the roses of success.",
+      "author": "Caractacus Potts",
+      "context": "Success"
     }
   ]
 }
