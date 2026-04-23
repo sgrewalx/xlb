@@ -1,25 +1,55 @@
 {
-  "updatedAt": "2026-04-23T22:34:52.573Z",
+  "updatedAt": "2026-04-23T23:36:47.363Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-claude-is-connecting-directly-to-your-personal-a-b8e6f09253",
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "id": "tech-authorities-arrest-special-forces-soldier-who-al-bd134d67ea",
+      "title": "Authorities arrest special forces soldier who allegedly made $400k on Polymarket bet involving Maduro operation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T22:27:11.000Z",
-      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerou...",
+      "publishedAt": "2026-04-23T23:32:33.000Z",
+      "summary": "The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-newly-deciphered-sabotage-malware-may-have-targe-647e92046a",
-      "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+      "id": "tech-us-special-forces-soldier-arrested-for-polymarke-49c433067d",
+      "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
       "source": "Wired",
-      "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack",
+      "url": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T22:00:00.000Z",
-      "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by th...",
+      "publishedAt": "2026-04-23T23:15:21.000Z",
+      "summary": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a predict...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-white-house-memo-claims-mass-ai-theft-by-chinese-9002056e0f",
+      "title": "White House memo claims mass AI theft by Chinese firms",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T23:13:14.000Z",
+      "summary": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-claude-can-now-connect-to-lifestyle-apps-like-sp-850ad2e7a3",
+      "title": "Claude can now connect to lifestyle apps like Spotify, Instacart and AllTrails",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/claude-can-now-connect-to-lifestyle-apps-like-spotify-instacart-and-alltrails-225510552.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T22:55:10.000Z",
+      "summary": "Anthropic is expanding its directory of connected services for its Claude AI chatbot. The platform can now link up with your accounts on AllTrails, Audible, Booking.com, Instaca...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-arrests-soldier-who-allegedly-made-400k-on-ma-c2d4289afa",
+      "title": "US arrests soldier who allegedly made $400k on Maduro Polymarket bets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T22:49:11.000Z",
+      "summary": "We knew someone made over $400,000 on suspicious Polymarket bets around the US operation to capture Venezuelan president Nicolas Maduro, but now we have a name: Gannon Ken Van D...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,36 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-23T21:45:10.000Z",
       "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-these-are-the-countries-moving-to-ban-social-med-354fbdb207",
-      "title": "These are the countries moving to ban social media for children",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T21:33:51.000Z",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-is-reportedly-offering-voluntary-buyou-bce221f711",
-      "title": "Microsoft is reportedly offering voluntary buyouts to up to 7 percent of its employees",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/big-tech/microsoft-is-reportedly-offering-voluntary-buyouts-to-up-to-7-percent-of-its-employees-200050484.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T20:00:50.000Z",
-      "summary": "Microsoft is planning to get rid of more US employees via its first voluntary buyout program, CNBC reports . The buyout program will reportedly be offered to US employees at \"th...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-says-it-will-cut-8-000-jobs-as-ai-spending--08b43b178d",
-      "title": "Meta says it will cut 8,000 jobs as AI spending grows",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T19:12:22.000Z",
-      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-brendan-carr-s-war-on-wokeness-targets-inclusive-c9b3416963",
-      "title": "Brendan Carr’s war on wokeness targets inclusive children’s television",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming",
+      "id": "tech-meta-says-it-will-cut-8-000-jobs-as-ai-spending--79d50ec780",
+      "title": "Meta says it will cut 8,000 jobs as AI spending soars",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T21:36:46.000Z",
-      "summary": "Under the guidance of consummate bully / chairman Brendan Carr, the FCC is taking steps towards cracking down on children's entertainment that in any way explores the complexiti...",
+      "publishedAt": "2026-04-23T22:56:00.000Z",
+      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-carbon-nanotube-wiring-gets-closer-to-competing--7c06be6f51",
-      "title": "Carbon nanotube wiring gets closer to competing with copper",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper",
+      "id": "tech-redwood-materials-loses-coo-amid-layoffs-restruc-db7e421589",
+      "title": "Redwood Materials loses COO amid layoffs, restructuring",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T21:22:09.000Z",
-      "summary": "While this material degrades over time, it could point to better ones.",
+      "publishedAt": "2026-04-23T22:44:12.000Z",
+      "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
