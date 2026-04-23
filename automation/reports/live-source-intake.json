@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-04-14T05:29:54.280Z",
+  "generatedAt": "2026-04-23T05:36:11.207Z",
   "staticItemCount": 1,
   "sources": [
     {
       "id": "nasa-launch-schedule",
-      "status": "degraded",
+      "status": "healthy",
       "fallbackUsed": false,
       "fetchedSeedCount": 3,
-      "freshSeedCount": 1,
-      "staleSeedCount": 2
+      "freshSeedCount": 2,
+      "staleSeedCount": 1
     },
     {
       "id": "usgs-earthquakes",
       "status": "healthy",
       "fallbackUsed": false,
-      "fetchedSeedCount": 298,
+      "fetchedSeedCount": 276,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 5.7,
-      "largeCount": 11
+      "strongestMagnitude": 5,
+      "largeCount": 13
     },
     {
       "id": "noaa-space-weather",
       "status": "healthy",
       "fallbackUsed": false,
-      "fetchedSeedCount": 339,
+      "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 0,
-      "recentPeakKp": 2,
+      "latestKp": 3,
+      "recentPeakKp": 3,
       "alertLevel": "quiet"
     }
   ]

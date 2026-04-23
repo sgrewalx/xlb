@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T05:29:54.280Z",
+  "updatedAt": "2026-04-23T05:36:11.207Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-04-14T05:19:10.416Z",
-      "summary": "USGS reported 298 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 20 km ESE of Silver Springs, Nevada.",
+      "startsAt": "2026-04-23T05:33:01.550Z",
+      "summary": "USGS reported 276 earthquake events in the last 24 hours. Strongest reported event: M5 near 31 km ENE of Luganville, Vanuatu.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,7 +21,7 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-14T05:29:54.280Z"
+      "updatedAt": "2026-04-23T05:36:11.207Z"
     },
     {
       "id": "space-aurora-watch",
@@ -30,8 +30,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-04-14T05:06:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-04-23T05:32:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 3. Recent peak is Kp 3. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -42,7 +42,7 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-04-14T05:29:54.280Z"
+      "updatedAt": "2026-04-23T05:36:11.207Z"
     },
     {
       "id": "space-nasa-live-programming",
@@ -63,7 +63,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-14T05:29:54.280Z"
+      "updatedAt": "2026-04-23T05:36:11.207Z"
     },
     {
       "id": "space-launch-nasa-s-spacex-crs-34",
@@ -72,7 +72,7 @@
       "status": "upcoming",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-05-01T12:00:00.000Z",
+      "startsAt": "2026-05-12T12:00:00.000Z",
       "summary": "NASA’s SpaceX CRS-34 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -80,11 +80,32 @@
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 84,
+      "heroPriority": 82,
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-04-14T05:29:54.280Z"
+      "updatedAt": "2026-04-23T05:36:11.207Z"
+    },
+    {
+      "id": "space-launch-clps-flight-astrobotic-griffin-1",
+      "slug": "clps-flight-astrobotic-griffin-1",
+      "title": "CLPS Flight: Astrobotic Griffin-1",
+      "status": "upcoming",
+      "category": "space",
+      "topic": "launches",
+      "startsAt": "2026-07-01T12:00:00.000Z",
+      "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
+      "sourceName": "NASA Launch Schedule",
+      "sourceUrl": "https://www.nasa.gov/event/clps-flight-astrobotics-griffin-mission-one/",
+      "watchUrl": "https://www.nasa.gov/live",
+      "coverageMode": "link",
+      "safeToPromote": true,
+      "heroPriority": 76,
+      "rightsProfile": "public-information",
+      "cadence": "scheduled",
+      "audienceIntent": "watch-live",
+      "updatedAt": "2026-04-23T05:36:11.207Z"
     }
   ]
 }

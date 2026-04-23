@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T05:29:54.492Z",
+  "updatedAt": "2026-04-23T05:36:11.616Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-04-23T05:36:11.616Z"
     },
     {
       "slug": "space-weather",
@@ -21,7 +21,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-04-23T05:36:11.616Z"
     },
     {
       "slug": "nasa",
@@ -30,20 +30,20 @@
       "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 89,
+      "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-04-23T05:36:11.616Z"
     },
     {
       "slug": "launches",
       "title": "Launches",
       "category": "space",
-      "summary": "1 source-backed launch page are active here, led by NASA’s SpaceX CRS-34 around May 1.",
-      "eventCount": 1,
-      "promotedEventCount": 1,
-      "bestScore": 80,
+      "summary": "2 source-backed launch pages are active here, led by NASA’s SpaceX CRS-34 around May 12.",
+      "eventCount": 2,
+      "promotedEventCount": 2,
+      "bestScore": 71,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-04-23T05:36:11.616Z"
     }
   ]
 }
