@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-04-23T15:30:27.541Z",
+  "updatedAt": "2026-04-23T17:10:08.123Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-25-years-later-is-it-time-for-a-new-ipod-678ab5429e",
-      "title": "25 years later, is it time for a new iPod?",
+      "id": "tech-keychron-s-customizable-v1-mechanical-keyboard-i-8abee05ab7",
+      "title": "Keychron’s customizable V1 mechanical keyboard is back down to $45",
       "source": "The Verge",
-      "url": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
+      "url": "https://www.theverge.com/gadgets/916757/keychron-v1-skullcandy-method-360-anc-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T15:30:00.000Z",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year ma...",
+      "publishedAt": "2026-04-23T17:02:48.000Z",
+      "summary": "If you’ve ever wished your laptop keyboard was better tailored to your workflow, the Keychron V1 is a solid upgrade. It doesn’t cost as much as most other mechanical keyboards,...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-five-annapurna-interactive-games-get-switch-2-re-54f5947e51",
+      "title": "Five Annapurna Interactive games get Switch 2 releases",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/nintendo/five-annapurna-interactive-games-get-switch-2-releases-164950446.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T16:49:50.000Z",
+      "summary": "If you’re a Switch 2 owner itching for something new to play and you happen to be partial to an Annapurna Interactive game, then boy is it your lucky day. The prolific indie pub...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-bluesky-now-supports-better-quality-photos-daa346b539",
+      "title": "Bluesky now supports better quality photos",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T16:41:14.000Z",
+      "summary": "The max size is now 2MB and max resolution is 4000x4000.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-palantir-employees-are-starting-to-wonder-if-the-f9aaf4a76e",
+      "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T16:01:51.000Z",
+      "summary": "Interviews with current and former Palantir employees, along with internal Slack messages obtained by WIRED, suggest a workforce in turmoil.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-salmon-raises-100m-in-equity-and-debt-to-bring-d-0f71edd156",
-      "title": "Salmon raises $100M in equity and debt to bring digital credit to underbanked Filipinos",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T14:55:49.000Z",
-      "summary": "Salmon is targeting underbanked Filipinos, with little to no credit history, as well as people unhappy with the incumbent lenders' reliability issues.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-amazon-india-to-invest-rs-2-800-cr-to-boost-work-3b2c86280a",
       "title": "Amazon India to invest Rs 2,800 Cr to boost worker safety, expand logistics network",
       "source": "YourStory",
@@ -43,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-turkey-wants-to-ban-social-media-for-kids-under--a72f2c0461",
-      "title": "Turkey wants to ban social media for kids under 15",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/social-media/turkey-wants-to-ban-social-media-for-kids-under-15-143053462.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T14:30:53.000Z",
-      "summary": "The Turkish parliament has voted through a bill that would ban all children under the age of 15 from using social media. As part of the legislation, social media platforms would...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-assassin-s-creed-black-flag-resynced-pricing-lea-b3879119a7",
       "title": "Assassin's Creed Black Flag Resynced Pricing Leaked Ahead of Official Reveal",
       "source": "Gadgets 360",
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-23T13:30:06.000Z",
       "summary": "The pricing for Assassin's Creed Black Flag Resynced has leaked ahead of the game's official reveal. According to a tipster, the Launch Edition of the Black Flag remake will be...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-lume-cube-edge-light-go-review-2026-versatile-po-a45e762f1e",
-      "title": "Lume Cube Edge Light Go Review (2026): Versatile, Portable",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T12:29:00.000Z",
-      "summary": "Portable lamps are rarely, if ever, as powerful, precise, and multipurpose as the Lume Cube Edge Light Go.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-offers-voluntary-retirement-to-long-se-dcd29425f9",
-      "title": "Microsoft offers voluntary retirement to long-serving employees",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes",
+      "id": "tech-microsoft-offers-buyout-for-up-to-7-of-u-s-emplo-0636be49ca",
+      "title": "Microsoft offers buyout for up to 7% of U.S. employees",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T15:22:20.000Z",
-      "summary": "Microsoft is changing up its annual rewards and performance programs today, and offering long-serving employees in the US the ability to voluntarily retire. It's the first time...",
+      "publishedAt": "2026-04-23T16:38:49.000Z",
+      "summary": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-greenhouse-gases-from-data-center-boom-could-out-58be32156f",
-      "title": "Greenhouse gases from data center boom could outpace entire nations",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations",
+      "id": "tech-ubisoft-has-finally-dropped-a-trailer-for-that-a-8ed58f8d25",
+      "title": "Ubisoft has finally dropped a trailer for that Assassin's Creed: Black Flag remake",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/ubisoft-has-finally-dropped-a-trailer-for-that-assassins-creed-black-flag-remake-162610745.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T14:51:16.000Z",
-      "summary": "Plants from OpenAI, Meta, xAI, and Microsoft could emit more than 129M tons annually.",
+      "publishedAt": "2026-04-23T16:26:10.000Z",
+      "summary": "Ubisoft has finally given us some real details about Assassin's Creed: Black Flag Resynced , after confirming the remake earlier this year . It's set to release on July 9 for PC...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
