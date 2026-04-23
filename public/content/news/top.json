@@ -1,85 +1,95 @@
 {
-  "updatedAt": "2026-04-23T13:13:22.011Z",
+  "updatedAt": "2026-04-23T15:46:00.891Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-reported-ship-seizures-add-7ca7bce0e5",
-      "title": "Iran War Live Updates: Reported Ship Seizures Add to Anxiety in Oil Markets",
+      "id": "news-iran-war-live-updates-trump-threatens-iranian-bo-c34f0273f3",
+      "title": "Iran War Live Updates: Trump Threatens Iranian Boats He Says Are Mining the Strait of Hormuz",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
       "tag": "US",
-      "publishedAt": "2026-04-23T13:09:19.000Z",
-      "summary": "Oil was hovering above $100 a barrel and there were no public signs of a breakthrough in peace efforts. The White House said President Trump does not view Iran’s reported seizur...",
+      "publishedAt": "2026-04-23T15:42:28.000Z",
+      "summary": "President Trump’s latest threats came after the Pentagon said the U.S. military had boarded a second tanker carrying oil from Iran. Both sides are trying to exert authority over...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-nandyal-mp-prioritises-safe-drinking-water-for-s-85f3020d7b",
-      "title": "Nandyal MP prioritises safe drinking water for schools, underprivileged areas",
+      "id": "news-tempers-rise-on-second-day-of-stir-as-rtc-calls--e704f60f69",
+      "title": "Tempers rise on second day of stir as RTC calls for temporary driver applications",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/nandyal-mp-prioritises-safe-drinking-water-for-schools-underprivileged-areas/article70897310.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/tempers-rise-on-second-day-of-stir-as-rtc-calls-for-temporary-driver-applications/article70898405.ece",
       "tag": "India",
-      "publishedAt": "2026-04-23T13:08:10.000Z",
-      "summary": "Inaugurating a mineral water plant at Talamudipi village in Nandikotkur constituency, Byreddy Shabari urges villagers to take responsibility for the maintenance of thel water pl...",
+      "publishedAt": "2026-04-23T15:39:40.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-eu-approves-90bn-loan-for-ukraine-and-fresh-russ-4f209ac5e0",
-      "title": "EU approves €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-04-23T13:03:23.000Z",
-      "summary": "Move comes after Hungary and Slovakia dropped opposition following reopening of the Druzhba oil pipeline Meanwhile, Ukraine’s president Volodymyr Zelenskiy said that Kyiv will s...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-women-s-reservation-and-the-delimitation-s-bagga-39675ca1c8",
-      "title": "Women’s reservation and the delimitation’s baggage",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/gender-equality/womens-reservation-and-the-delimitation-s-baggage-101776947694055.html",
-      "tag": "India",
-      "publishedAt": "2026-04-23T12:43:10.000Z",
-      "summary": "This article is authored by Urvashi Prasad, senior fellow and Rajdeep Singh, executive assistant, Leadership Office, Pahle India Foundation, New Delhi.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-irs-officer-s-daughter-murder-autopsy-shows-mult-f9e108cee9",
-      "title": "IRS officer's daughter murder: Autopsy shows 'multiple abrasions, nasal fracture' and signs of physical struggle before death",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/irs-officers-daughter-murder-autopsy-shows-multiple-abrasions-nasal-fracture-and-signs-of-physical-struggle-before-death/articleshow/130468771.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-23T12:41:17.000Z",
-      "summary": "Autopsy findings in the rape and murder of an IRS officer's daughter reveal multiple injuries indicating a violent struggle. The 22-year-old victim sustained abrasions, contusio...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-protester-hurls-red-fluid-at-reza-pahlavi-during-08c820c23e",
-      "title": "Protester hurls red fluid at Reza Pahlavi during Germany visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protester-hurls-red-fluid-at-reza-pahlavi-during-germany-visit?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-23T12:32:34.000Z",
-      "summary": "The exiled former crown prince of Iran Reza Pahlavi was splashed with red fluid by an activist during a visit to Berlin.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-delhi-court-asks-google-x-to-remove-videos-of-ar-0505c26fed",
-      "title": "Delhi Court Asks Google, X To Remove Videos Of Arvind Kejriwal's Case Hearing",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/delhi-high-court-asks-google-x-to-remove-videos-of-arvind-kejriwals-case-hearing-11398558",
-      "tag": "India",
-      "publishedAt": "2026-04-23T11:44:52.000Z",
-      "summary": "The court noted submissions by Meta that it had already taken down some URLs flagged by the High Court's Registrar General.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pope-leo-criticises-equatorial-guinea-prisons-as-91948976d8",
-      "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+      "id": "news-trump-tells-bbc-that-king-s-visit-could-absolute-f01f928679",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-04-23T11:42:44.000Z",
-      "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
+      "publishedAt": "2026-04-23T15:34:15.000Z",
+      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bjp-leads-big-protest-against-opposition-in-guwa-d55eecf3e9",
+      "title": "BJP Leads Big Protest Against Opposition in Guwahati Over Women's Quota Bill",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/bjp-leads-big-protest-against-opposition-in-guwahati-over-womens-quota-bill-11399960",
+      "tag": "India",
+      "publishedAt": "2026-04-23T15:34:12.000Z",
+      "summary": "The demonstration, which saw participation from women across different sections of society, was organised to condemn Opposition parties accused of blocking the Constitution (131...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-trump-orders-navy-to-att-0908843158",
+      "title": "Middle East crisis live: Trump orders navy to attack any boats laying mines in strait of Hormuz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-04-23T15:32:21.000Z",
+      "summary": "President says forces can ‘shoot and kill’ any boat laying mines and claims the US has ‘total control’ of the strait ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceas...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-real-challenge-facing-modern-business-is-not-dat-369019377c",
+      "title": "Real challenge facing modern business is not data, but decisions",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/ht-insight/future-tech/real-challenge-facing-modern-business-is-not-data-but-decisions-101776957779465.html",
+      "tag": "India",
+      "publishedAt": "2026-04-23T15:25:11.000Z",
+      "summary": "This article is authored by Sandeep Kaur, guest lecturer, American University of Kurdistan, Iraq.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-2-rapes-and-a-murder-in-span-of-hours-alwar-vill-71435ce3e8",
+      "title": "2 rapes and a murder in span of hours, Alwar village left with more questions than answers",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/alwar-rahul-meena-irs-officer-daughter-murder-rape-gambling-debt-10652521",
+      "tag": "India",
+      "publishedAt": "2026-04-23T15:23:18.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-military-board-seize-another-ship-in-internat-19c9f35f2a",
+      "title": "US military board, seize another ship in international waters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/us-military-board-seize-another-ship-in-international-waters?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-23T15:16:21.000Z",
+      "summary": "The Pentagon has released video of US soldiers descending from helicopters to board and seize another ship.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-modi-ji-what-are-you-scared-of-kharge-targets-pm-8d1bbf4765",
+      "title": "'Modi ji what are you scared of?' Kharge targets PM over Trump's 'hellhole' remark",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/modi-ji-what-are-you-scared-of-kharge-targets-pm-over-trumps-hellhole-remark/articleshow/130472431.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-23T15:14:29.000Z",
+      "summary": "Congress President Mallikarjun Kharge criticized Prime Minister Narendra Modi for his silence on Donald Trump's derogatory remarks about India. Kharge questioned Modi's stance,...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,32 +103,22 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-banaras-hadapsar-amrit-bharat-express-train-numb-b5c3a4ca24",
-      "title": "Banaras-Hadapsar Amrit Bharat Express: Train number, route, stoppages, frequency, time table",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/banaras-hadapsar-amrit-bharat-express-train-number-route-stoppages-frequency-time-table-10651752",
-      "tag": "India",
-      "publishedAt": "2026-04-23T09:58:55.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-two-delivery-executives-arrested-for-harassing-w-fb3be5054a",
-      "title": "Two delivery executives arrested for harassing woman in Yelahanka",
+      "id": "news-tgiic-earns-517-crore-in-10-09-acre-auction-in-o-3aa4e7cd90",
+      "title": "TGIIC earns ₹517 crore in 10.09 acre auction in Osmansagar",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/two-delivery-executives-arrested-for-harassing-woman-in-yelahanka/article70897308.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/tgiic-earns-517-crore-in-1009-acre-auction-in-osmansagar/article70898363.ece",
       "tag": "India",
-      "publishedAt": "2026-04-23T13:07:37.000Z",
+      "publishedAt": "2026-04-23T15:39:24.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-over-1-700-cases-booked-in-malkajgiri-traffic-cr-8bd5e0a5f1",
-      "title": "Over 1,700 cases booked in Malkajgiri traffic crackdown on wrong-side driving",
+      "id": "news-pcc-chief-meets-rahul-over-bc-quota-in-women-s-r-4aa5c9e807",
+      "title": "PCC chief meets Rahul over BC quota in women’s reservation",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/over-1700-cases-booked-in-malkajgiri-traffic-crackdown-on-wrong-side-driving/article70894044.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/pcc-chief-meets-rahul-over-bc-quota-in-womens-reservation/article70897861.ece",
       "tag": "India",
-      "publishedAt": "2026-04-23T13:07:08.000Z",
+      "publishedAt": "2026-04-23T15:39:15.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
