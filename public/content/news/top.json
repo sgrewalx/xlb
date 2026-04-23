@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-04-23T11:55:51.253Z",
+  "updatedAt": "2026-04-23T13:13:22.011Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-eu-set-to-sign-off-90bn-loan-for-ukraine-and-fre-1ee4649be1",
-      "title": "EU set to sign off €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
+      "id": "news-iran-war-live-updates-reported-ship-seizures-add-7ca7bce0e5",
+      "title": "Iran War Live Updates: Reported Ship Seizures Add to Anxiety in Oil Markets",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+      "tag": "US",
+      "publishedAt": "2026-04-23T13:09:19.000Z",
+      "summary": "Oil was hovering above $100 a barrel and there were no public signs of a breakthrough in peace efforts. The White House said President Trump does not view Iran’s reported seizur...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-nandyal-mp-prioritises-safe-drinking-water-for-s-85f3020d7b",
+      "title": "Nandyal MP prioritises safe drinking water for schools, underprivileged areas",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/nandyal-mp-prioritises-safe-drinking-water-for-schools-underprivileged-areas/article70897310.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-23T13:08:10.000Z",
+      "summary": "Inaugurating a mineral water plant at Talamudipi village in Nandikotkur constituency, Byreddy Shabari urges villagers to take responsibility for the maintenance of thel water pl...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-eu-approves-90bn-loan-for-ukraine-and-fresh-russ-4f209ac5e0",
+      "title": "EU approves €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-04-23T11:48:38.000Z",
+      "publishedAt": "2026-04-23T13:03:23.000Z",
       "summary": "Move comes after Hungary and Slovakia dropped opposition following reopening of the Druzhba oil pipeline Meanwhile, Ukraine’s president Volodymyr Zelenskiy said that Kyiv will s...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-women-s-reservation-and-the-delimitation-s-bagga-39675ca1c8",
+      "title": "Women’s reservation and the delimitation’s baggage",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/ht-insight/gender-equality/womens-reservation-and-the-delimitation-s-baggage-101776947694055.html",
+      "tag": "India",
+      "publishedAt": "2026-04-23T12:43:10.000Z",
+      "summary": "This article is authored by Urvashi Prasad, senior fellow and Rajdeep Singh, executive assistant, Leadership Office, Pahle India Foundation, New Delhi.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-irs-officer-s-daughter-murder-autopsy-shows-mult-f9e108cee9",
+      "title": "IRS officer's daughter murder: Autopsy shows 'multiple abrasions, nasal fracture' and signs of physical struggle before death",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/irs-officers-daughter-murder-autopsy-shows-multiple-abrasions-nasal-fracture-and-signs-of-physical-struggle-before-death/articleshow/130468771.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-23T12:41:17.000Z",
+      "summary": "Autopsy findings in the rape and murder of an IRS officer's daughter reveal multiple injuries indicating a violent struggle. The 22-year-old victim sustained abrasions, contusio...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-protester-hurls-red-fluid-at-reza-pahlavi-during-08c820c23e",
+      "title": "Protester hurls red fluid at Reza Pahlavi during Germany visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protester-hurls-red-fluid-at-reza-pahlavi-during-germany-visit?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-23T12:32:34.000Z",
+      "summary": "The exiled former crown prince of Iran Reza Pahlavi was splashed with red fluid by an activist during a visit to Berlin.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-delhi-court-asks-google-x-to-remove-videos-of-ar-0505c26fed",
+      "title": "Delhi Court Asks Google, X To Remove Videos Of Arvind Kejriwal's Case Hearing",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/delhi-high-court-asks-google-x-to-remove-videos-of-arvind-kejriwals-case-hearing-11398558",
+      "tag": "India",
+      "publishedAt": "2026-04-23T11:44:52.000Z",
+      "summary": "The court noted submissions by Meta that it had already taken down some URLs flagged by the High Court's Registrar General.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,16 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-aunty-ne-bulaya-tha-how-ex-domestic-help-entered-e9ede1c016",
-      "title": "‘Aunty ne bulaya tha’: How ex-domestic help entered home, killed IRS officer’s daughter",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/aunty-ne-bulaya-tha-how-ex-domestic-help-entered-home-killed-irs-officers-daughter/articleshow/130466401.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-23T11:38:04.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-tensions-rise-in-two-ceasefires-in-the-middle-ea-d94c4004a6",
       "title": "Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted",
       "source": "NPR",
@@ -40,46 +90,6 @@
       "tag": "US",
       "publishedAt": "2026-04-23T11:37:10.000Z",
       "summary": "Tensions are rising in the Middle East as shaky ceasefire agreements between the U.S., Israel and Iran, and Lebanon and Israel, are tested. And, the Secretary of the Navy is out...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-will-bulgaria-s-new-leader-cast-his-lot-with-eur-6a9e83aaf7",
-      "title": "Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html",
-      "tag": "US",
-      "publishedAt": "2026-04-23T11:35:22.000Z",
-      "summary": "With a record of pro-Russia statements, Rumen Radev handily won elections this week. Now Bulgarians and his E.U. partners wait to see which way he will turn.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sc-asks-if-ed-is-arguing-failure-of-constitution-9542cb2c61",
-      "title": "SC asks if ED is arguing 'failure of constitutional machinery' in WB by claiming rule of law breach",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/sc-asks-if-ed-is-arguing-failure-of-constitutional-machinery-in-wb-by-claiming-rule-of-law-breach/article70897109.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-23T11:34:37.000Z",
-      "summary": "ED cites ‘well-established pattern’ of rule of law violations",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-how-iran-raised-hormuz-stakes-by-capturing-ships-166b517d8d",
-      "title": "How Iran raised Hormuz stakes by capturing ships",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-23T11:25:44.000Z",
-      "summary": "After the US and Israel launched a war on Iran on February 28, Tehran blocked the Strait of Hormuz.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-up-board-results-2026-90-42-pass-10th-80-38-clea-d6caa1ca9c",
-      "title": "UP Board Results 2026: 90.42% Pass 10th, 80.38% Clear 12th; Check Topper List",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/education/up-board-class-10-12-results-2026-out-direct-download-link-here-90-42-pass-10th-80-38-clear-12th-meet-toppers-here-11398333",
-      "tag": "India",
-      "publishedAt": "2026-04-23T11:10:17.000Z",
-      "summary": "UP Board Class 10, 12 Results 2026 Out: This year, the overall pass percentage for Class 10 stands at 90.42%, while 80.38% students cleared the Class 12 examinations.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-how-india-builds-will-define-its-ecological-futu-290af8de11",
-      "title": "How India builds will define its ecological future",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/climate-change/how-india-builds-will-define-its-ecological-future-101776879668608.html",
+      "id": "news-two-delivery-executives-arrested-for-harassing-w-fb3be5054a",
+      "title": "Two delivery executives arrested for harassing woman in Yelahanka",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/two-delivery-executives-arrested-for-harassing-woman-in-yelahanka/article70897308.ece",
       "tag": "India",
-      "publishedAt": "2026-04-22T17:43:29.000Z",
-      "summary": "This article is authored by Akshat Seth, managing director and CEO, BirlaNu.",
+      "publishedAt": "2026-04-23T13:07:37.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-first-thing-impossible-to-reopen-strait-of-hormu-01d664635b",
-      "title": "First Thing: ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire breaches, Iran says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/23/first-thing-impossible-reopen-strait-of-hormuz-flagrant-ceasefire-breaches-iran-us",
-      "tag": "Europe",
-      "publishedAt": "2026-04-23T11:43:21.000Z",
-      "summary": "Iran seizes two ships in critical waterway as Washington and Tehran maintain separate blockades. Plus, Jodi Kantor on how to find a career you love Good morning. Iranian forces...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-middle-east-crisis-live-us-and-iran-in-blockade--685a20f30a",
-      "title": "Middle East crisis live: US and Iran in blockade stalemate as Pentagon reportedly says clearing strait of Hormuz could take six months",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-04-23T11:41:29.000Z",
-      "summary": "Leaked assessment says clearing mines could take half a year; US navy secretary leaves office ‘immediately’ ‘Impossible’ to reopen strait of Hormuz amid ‘flagrant’ ceasefire bre...",
+      "id": "news-over-1-700-cases-booked-in-malkajgiri-traffic-cr-8bd5e0a5f1",
+      "title": "Over 1,700 cases booked in Malkajgiri traffic crackdown on wrong-side driving",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/over-1700-cases-booked-in-malkajgiri-traffic-crackdown-on-wrong-side-driving/article70894044.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-23T13:07:08.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
