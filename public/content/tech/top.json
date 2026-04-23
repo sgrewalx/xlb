@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-04-23T21:41:09.924Z",
+  "updatedAt": "2026-04-23T22:34:52.573Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-claude-is-connecting-directly-to-your-personal-a-b8e6f09253",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T22:27:11.000Z",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerou...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-newly-deciphered-sabotage-malware-may-have-targe-647e92046a",
+      "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T22:00:00.000Z",
+      "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by th...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-accuses-china-of-industrial-scale-ai-theft-ch-433863398b",
+      "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander",
+      "tag": "Technology",
+      "publishedAt": "2026-04-23T21:45:10.000Z",
+      "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-these-are-the-countries-moving-to-ban-social-med-354fbdb207",
       "title": "These are the countries moving to ban social media for children",
@@ -10,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-23T21:33:51.000Z",
       "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-rednote-draws-a-line-between-china-and-the-world-38fc418f4a",
-      "title": "Rednote Draws a Line Between China and the World",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T20:23:48.000Z",
-      "summary": "As the platform expands abroad, it’s taking steps to separate Chinese users from the international audiences it once brought together.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sonos-big-sale-on-refurbished-speakers-is-about--49fae24bea",
-      "title": "Sonos’ big sale on refurbished speakers is about to end",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T19:54:04.000Z",
-      "summary": "Portable audio and home theater upgrades can be very pricey, which is why we make a habit out of telling readers when there are good deals happening. With that in mind, here’s a...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-meta-says-it-will-cut-8-000-jobs-as-ai-spending--08b43b178d",
       "title": "Meta says it will cut 8,000 jobs as AI spending grows",
       "source": "BBC Technology",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-23T19:12:22.000Z",
       "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-rfk-jr-s-rejection-of-germ-theory-debunked-in-se-65b464c3b1",
-      "title": "RFK Jr.’s rejection of germ theory debunked in Senate hearing",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing",
-      "tag": "Technology",
-      "publishedAt": "2026-04-23T18:05:53.000Z",
-      "summary": "Kennedy falsely argues that vaccines did little to lower childhood deaths.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bret-taylor-s-sierra-buys-yc-backed-ai-startup-f-e0d2cf7ebb",
-      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment",
+      "id": "tech-brendan-carr-s-war-on-wokeness-targets-inclusive-c9b3416963",
+      "title": "Brendan Carr’s war on wokeness targets inclusive children’s television",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T21:00:00.000Z",
-      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "publishedAt": "2026-04-23T21:36:46.000Z",
+      "summary": "Under the guidance of consummate bully / chairman Brendan Carr, the FCC is taking steps towards cracking down on children's entertainment that in any way explores the complexiti...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-instagram-tests-a-new-instants-app-for-sharing-d-2374f04e97",
-      "title": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos",
+      "id": "tech-carbon-nanotube-wiring-gets-closer-to-competing--7c06be6f51",
+      "title": "Carbon nanotube wiring gets closer to competing with copper",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper",
       "tag": "Technology",
-      "publishedAt": "2026-04-23T20:03:53.000Z",
-      "summary": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours.",
+      "publishedAt": "2026-04-23T21:22:09.000Z",
+      "summary": "While this material degrades over time, it could point to better ones.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
