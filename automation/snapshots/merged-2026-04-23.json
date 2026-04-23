@@ -1,0 +1,158 @@
+{
+  "capturedAt": "2026-04-23T06:00:00.000Z",
+  "window": {
+    "start": "2026-04-16T00:00:00.000Z",
+    "end": "2026-04-23T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": true,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/video",
+      "pageviews": 23,
+      "visits": 5,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 89,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/tech",
+      "pageviews": 18,
+      "visits": 5,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 75,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/sports",
+      "pageviews": 17,
+      "visits": 5,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 3,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 100,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API. | Imported from the Search Console API."
+    },
+    {
+      "path": "/news",
+      "pageviews": 13,
+      "visits": 4,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 76,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/live/space",
+      "pageviews": 7,
+      "visits": 4,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 100,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/",
+      "pageviews": 5,
+      "visits": 5,
+      "searchImpressions": 4,
+      "searchCtr": 0,
+      "avgPosition": 6,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 72,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API. | Imported from the Search Console API."
+    },
+    {
+      "path": "/live/earth",
+      "pageviews": 5,
+      "visits": 3,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 72,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/games",
+      "pageviews": 4,
+      "visits": 2,
+      "searchImpressions": 1,
+      "searchCtr": 0,
+      "avgPosition": 4,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 70,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API. | Imported from the Search Console API."
+    },
+    {
+      "path": "/live",
+      "pageviews": 4,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 72,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 3,
+      "visits": 2,
+      "searchImpressions": 3,
+      "searchCtr": 0,
+      "avgPosition": 4,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 70,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API. | Imported from the Search Console API."
+    },
+    {
+      "path": "/topics/nasa",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 5.5,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    }
+  ]
+}
