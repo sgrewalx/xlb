@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-04-24T17:43:07.429Z",
+  "updatedAt": "2026-04-24T18:37:35.615Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-google-to-invest-up-to-40b-in-anthropic-in-cash--435cda258d",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
+      "tag": "Technology",
+      "publishedAt": "2026-04-24T18:00:03.000Z",
+      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-beatbot-pool-cleaning-robots-are-on-sale-for-a-l-a7eb23ccd8",
+      "title": "Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-04-24T17:43:33.000Z",
+      "summary": "Get ready for summer with discounts on the best robot pool cleaners we’ve tested.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-soldier-won-410k-in-polymarket-bets-on-timing-of-2553172bd2",
+      "title": "Soldier won $410K in Polymarket bets on timing of Maduro capture, US alleges",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/soldier-won-410k-in-polymarket-bets-on-timing-of-maduro-capture-us-alleges",
+      "tag": "Technology",
+      "publishedAt": "2026-04-24T17:41:43.000Z",
+      "summary": "It's like \"Pete Rose betting on his own team,\" Trump says of arrested soldier.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-bmw-is-one-step-closer-to-selling-you-a-color-ch-72b30b6b20",
       "title": "BMW is one step closer to selling you a color-changing car",
@@ -10,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-24T17:31:44.000Z",
       "summary": "At CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It wa...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-designed-drugs-by-a-deepmind-spinoff-are-head-ad2198fed4",
-      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T17:17:36.000Z",
-      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-marked-up-mac-minis-flood-ebay-amid-shortages-dr-aaec8f4785",
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory",
-      "tag": "Running",
-      "publishedAt": "2026-04-24T16:42:19.000Z",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-meta-sets-up-automatic-blocking-for-govt-police--ea7852f429",
       "title": "Meta sets up automatic blocking for govt., police-referred content",
       "source": "The Hindu Technology",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-24T16:26:43.000Z",
       "summary": "India is now part of a small group of countries where content takedown notices are complied with immediately, giving police and the government wide powers of immediate and lasti...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-man-faces-5-years-in-prison-for-using-ai-to-fake-b44c257f42",
-      "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T15:05:23.000Z",
-      "summary": "Beloved wolf gripped the nation after burrowing out of the zoo.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -113,13 +113,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-ram-shortage-could-get-even-worse-if-samsung-f050e8024f",
-      "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
+      "id": "tech-meet-the-19-meter-cretaceous-kraken-that-swam-wi-f9aed375af",
+      "title": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs",
       "tag": "Technology",
-      "publishedAt": "2026-04-24T17:11:33.000Z",
-      "summary": "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing...",
+      "publishedAt": "2026-04-24T17:23:49.000Z",
+      "summary": "Layer by layer, researchers revealed the jaws of an ancient predator.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
