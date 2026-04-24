@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-24T02:48:50.098Z",
+  "updatedAt": "2026-04-24T06:09:22.111Z",
   "section": "Expanded Video",
   "items": [
+    {
+      "id": "video-inside-putin-s-russia-we-re-cut-off-from-the-out-687d289a94",
+      "title": "Inside Putin’s Russia: ‘We’re cut off from the outside world’ | BBC News",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/watch?v=-gawdIcdY00",
+      "tag": "Video",
+      "publishedAt": "2026-04-24T05:00:00.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/-gawdIcdY00?rel=0"
+    },
     {
       "id": "video-everything-you-need-to-know-in-the-mandelson-vet-0fdacaaf52",
       "title": "Everything you need to know in the Mandelson vetting row | BBC Newscast",
@@ -122,17 +133,6 @@
       "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/a3JUPvC7YdI?rel=0"
-    },
-    {
-      "id": "video-president-trump-has-said-the-king-s-state-visit--74328f1de4",
-      "title": "President Trump has said the King’s state visit could help repair US-UK relations. #BBCNews",
-      "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/shorts/NM40PuZ6trQ",
-      "tag": "Video",
-      "publishedAt": "2026-04-23T20:13:07.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": null
     }
   ]
 }
