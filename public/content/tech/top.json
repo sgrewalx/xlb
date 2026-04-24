@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-04-24T16:44:51.644Z",
+  "updatedAt": "2026-04-24T17:43:07.429Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-bmw-is-one-step-closer-to-selling-you-a-color-ch-72b30b6b20",
+      "title": "BMW is one step closer to selling you a color-changing car",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
+      "tag": "Technology",
+      "publishedAt": "2026-04-24T17:31:44.000Z",
+      "summary": "At CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It wa...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-designed-drugs-by-a-deepmind-spinoff-are-head-ad2198fed4",
+      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg",
+      "tag": "Technology",
+      "publishedAt": "2026-04-24T17:17:36.000Z",
+      "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-macbook-neo-is-a-glimpse-into-john-ternus-s--93dc3632ff",
+      "title": "The MacBook Neo is a glimpse into John Ternus's Apple",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/computing/laptops/the-macbook-neo-is-a-glimpse-into-john-ternuss-apple-170000842.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-24T17:00:00.000Z",
+      "summary": "John Ternus was unavoidable when Apple debuted the Macbook Neo. He kicked off an intimate media event for the Neo, introducing it as a transformative machine for Apple thanks to...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-marked-up-mac-minis-flood-ebay-amid-shortages-dr-aaec8f4785",
       "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
@@ -13,16 +43,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-xreal-s-best-ar-glasses-are-599-for-good-now-6474ed07ce",
-      "title": "Xreal’s best AR glasses are $599 for good now",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T16:33:30.000Z",
-      "summary": "The Xreal One Pro are the company’s best AR glasses, touting thin optics that keep out reflections so you can enjoy a crisp, contrast-rich image of whatever content you’re watch...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-meta-sets-up-automatic-blocking-for-govt-police--ea7852f429",
       "title": "Meta sets up automatic blocking for govt., police-referred content",
       "source": "The Hindu Technology",
@@ -30,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-24T16:26:43.000Z",
       "summary": "India is now part of a small group of countries where content takedown notices are complied with immediately, giving police and the government wide powers of immediate and lasti...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-latest-push-to-extend-key-us-spy-powers-is-s-4f343f4db4",
-      "title": "The Latest Push to Extend Key US Spy Powers Is Still a Mess",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T15:10:03.000Z",
-      "summary": "A US surveillance program that lets the FBI view Americans’ communications without a warrant is up for renewal. A new bill aims to address mounting lawmaker concerns—with smoke...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-engadget-podcast-tim-cook-s-apple-era-and-what-l-3933a35599",
-      "title": "Engadget Podcast: Tim Cook’s Apple era and what lies ahead for John Ternus",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/computing/engadget-podcast-tim-cooks-apple-era-and-what-lies-ahead-for-john-ternus-121853488.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T12:18:53.000Z",
-      "summary": "The Apple rumors were true, once again. This week, the company announced that Tim Cook will be stepping down from his CEO role on September 1. Replacing him will be John Ternus,...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-360-degree-cameras-have-a-new-superpower-57c91e9d00",
-      "title": "360-degree cameras have a new superpower",
+      "id": "tech-google-s-handsome-pixel-watch-4-is-on-sale-for-4-8877378b85",
+      "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T15:30:00.000Z",
-      "summary": "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360,...",
+      "url": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
+      "tag": "Running",
+      "publishedAt": "2026-04-24T17:25:49.000Z",
+      "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Goog...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tesla-s-cybercab-goes-into-production-so-why-is--6a3096374e",
-      "title": "Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?",
+      "id": "tech-the-ram-shortage-could-get-even-worse-if-samsung-f050e8024f",
+      "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
       "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings",
+      "url": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
       "tag": "Technology",
-      "publishedAt": "2026-04-24T15:17:27.000Z",
-      "summary": "Tesla's Cybercab is now in production at the company's Gigafactory in Austin, Texas, but Elon Musk is sounding unusually cautious about the rollout. The robotaxi's start of prod...",
+      "publishedAt": "2026-04-24T17:11:33.000Z",
+      "summary": "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
