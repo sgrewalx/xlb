@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-04-24T20:38:24.452Z",
+  "updatedAt": "2026-04-24T21:40:50.272Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-tamil-nadu-election-2026-kancheepuram-district-s-7154ffb620",
-      "title": "Tamil Nadu election 2026: Kancheepuram district sees over 87% polling",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kancheepuram-district-sees-over-87-polling/article70898631.ece",
+      "id": "news-china-car-giant-byd-says-it-can-thrive-without-u-dd67eb89d6",
+      "title": "China car giant BYD says it can thrive without US",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-04-24T21:25:16.000Z",
+      "summary": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-top-democrat-says-doj-dropped-bogus-powell-inves-5d80f55a4a",
+      "title": "Top Democrat says DoJ dropped ‘bogus’ Powell investigation to ‘clear the path’ for Trump Fed chair nominee Warsh – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/24/doj-watchdog-epstein-donald-trump-iran-war-budget-bill-latest-news",
+      "tag": "Europe",
+      "publishedAt": "2026-04-24T21:20:23.000Z",
+      "summary": "Senator Elizabeth Warren says inquiry into current Fed chair Jerome Powell stopped just for ‘Senate Republicans to install Trump’s sock puppet Kevin Warsh’ Sign up for the Break...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-kushner-and-witkoff-traveling-to-pakistan-to-res-b8829143f0",
+      "title": "Kushner and Witkoff Traveling to Pakistan to Resume Talks With Iran",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/24/world/middleeast/kushner-witkoff-pakistan-iran.html",
+      "tag": "US",
+      "publishedAt": "2026-04-24T21:16:58.000Z",
+      "summary": "Iran’s foreign minister has already arrived in the country, state media reported. He was believed to be carrying a written response to a U.S. proposal to end the war.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-anti-defection-law-won-t-apply-to-aap-mps-say-ex-b38f23f2e0",
+      "title": "Anti-defection law won't apply to AAP MPs, say experts",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/anti-defection-law-wont-apply-to-aap-mps-say-experts/articleshow/130504026.cms",
       "tag": "India",
-      "publishedAt": "2026-04-24T20:31:07.000Z",
+      "publishedAt": "2026-04-24T21:11:03.000Z",
+      "summary": "Tenth Schedule Sterile, Replace It, Says Singhvi",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-sending-envoys-to-pakistan-raising-hopes-of-t-f85a7f205d",
+      "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-24T20:54:28.000Z",
+      "summary": "Iranian Foreign Minister Abbas Araghchi arrives in Islamabad, but Tehran yet to commit to more talks with US delegation.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-tamil-nadu-election-2026-a-poll-boycott-and-bloc-fe479a7e83",
+      "title": "Tamil Nadu election 2026: A poll boycott and blockade of EVMs in Harur constituency",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-poll-boycott-to-resist-shared-education-and-blockade-of-evms-demanding-repoll-in-k-eachambadi-in-harur/article70898533.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-24T20:46:27.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-high-school-senior-identified-as-person-killed-i-c4626f4cba",
-      "title": "High school senior identified as person killed in shooting at Lousiana mall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/24/louisiana-mall-shooting-victim-identified-martha-odom",
-      "tag": "Europe",
-      "publishedAt": "2026-04-24T20:27:08.000Z",
-      "summary": "Martha Odom, 16, died from a gunshot wound to the chest according to the local coroner’s statement A high school senior has been identified as the person killed in a mass shooti...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-kushner-and-witkoff-to-tal-98780afec5",
-      "title": "Iran War Live Updates: Kushner and Witkoff to Talk With Iranian Officials in Pakistan",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
+      "id": "news-vessels-seized-by-the-u-s-this-week-were-part-of-b179f3d620",
+      "title": "Vessels seized by the U.S. this week were part of a global 'shadow fleet'",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/24/nx-s1-5795895/vessels-seized-by-the-u-s-this-week-were-part-of-a-global-shadow-fleet",
       "tag": "US",
-      "publishedAt": "2026-04-24T20:22:13.000Z",
-      "summary": "Iran’s foreign minister, Abbas Araghchi, will also be in Islamabad this weekend, and Iranian officials said he planned to meet with the two Americans.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-relatives-of-10-scientists-who-died-or-vanished--22a20fa40f",
-      "title": "Relatives of 10 scientists who died or vanished grapple with impact of wild speculation",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyw9rpdl4po?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-04-24T20:15:17.000Z",
-      "summary": "Conspiracies are running rampant online after the deaths or disappearances of at least 10 people tied to sensitive US research.",
+      "publishedAt": "2026-04-24T20:39:08.000Z",
+      "summary": "NPR's Juana Summers speaks with Elisabeth Braw, senior fellow at the Atlantic Council, about shadow vessels, after the U.S. military's seizure of two Iranian-linked oil tankers.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -50,26 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-04-24T20:14:04.000Z",
       "summary": "Raghav Chadha to join BJP, says two-thirds of AAP members in Rajya Sabha are merging with the ruling party",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-petro-becomes-first-president-to-visit-venezuela-935f11eb13",
-      "title": "Petro becomes first president to visit Venezuela since Maduro abduction",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-24T20:00:08.000Z",
-      "summary": "Border security set to loom large as Colombia's leader meets interim Venezuelan President Delcy Rodriguez.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-j-k-man-who-joined-anti-insurgency-ops-to-avenge-f1529a9f6b",
-      "title": "J&K man who joined ‘anti-insurgency’ ops to avenge brother’s killing dies at 62",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/jk-man-who-joined-anti-insurgency-ops-to-avenge-brothers-killing-dies-at-62/articleshow/130503233.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-24T19:10:39.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-kushner-and-u-s-envoy-witkoff-will-head-to-pakis-53365ac891",
-      "title": "Kushner and U.S. envoy Witkoff will head to Pakistan for new Iran talks",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
+      "id": "news-democratic-maine-governor-vetoes-first-us-state--7ef85c6f0f",
+      "title": "Democratic Maine governor vetoes first US state freeze on new datacenters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/24/maine-governor-blocks-datacenter-moratorium",
+      "tag": "Europe",
+      "publishedAt": "2026-04-24T21:12:17.000Z",
+      "summary": "Janet Mills says moratorium would’ve been ‘appropriate’ if it didn’t interfere with ongoing datacenter project in Maine The Democratic governor of Maine on Friday vetoed a bill...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-witkoff-and-kushner-to-tal-1ab27767f4",
+      "title": "Iran War Live Updates: Witkoff and Kushner to Talk With Iranian Officials in Pakistan",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-04-24T11:59:28.000Z",
-      "summary": "Iran's foreign minister arrived in Islamabad, and the White House says Steve Witkoff and Jared Kushner will go there Saturday to try to \"move the ball forward towards a deal.\"",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-supreme-court-asks-bengal-poll-officers-to-pursu-c0c7485c8e",
-      "title": "Supreme Court asks Bengal poll officers to pursue appeals on SIR exclusion",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/sc-asks-west-bengal-poll-officers-to-pursue-appeals-on-voter-roll-exclusion/article70901360.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-24T20:30:26.000Z",
-      "summary": "Bench declines relief in SIR electoral roll case; directs petitioners to tribunals amid polling",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-record-turnouts-in-west-bengal-tamil-nadu-polls--fae014c3e6",
-      "title": "Record turnouts in West Bengal, Tamil Nadu polls a display of citizen power: Supreme Court",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/sir-cji-hails-record-voter-turn-out-in-first-phase-of-west-bengal-polls/article70900896.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-24T20:26:41.000Z",
-      "summary": "Solicitor General Tushar Mehta said one ought to focus on the “historic” percentage of polling recorded in both West Bengal and Tamil Nadu",
+      "publishedAt": "2026-04-24T21:07:33.000Z",
+      "summary": "Iran’s foreign minister, Abbas Araghchi, arrived in Islamabad on Friday, and Iranian officials said he planned to meet with the two Americans. They are expected to leave Saturda...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
