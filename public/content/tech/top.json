@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-04-25T20:29:07.674Z",
+  "updatedAt": "2026-04-25T21:28:20.735Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-maine-s-governor-vetoes-data-center-moratorium-9fed5e58f5",
+      "title": "Maine’s governor vetoes data center moratorium",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium",
+      "tag": "Technology",
+      "publishedAt": "2026-04-25T20:57:08.000Z",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-altman-apologises-after-openai-failed-to-alert-p-d899e5e73c",
       "title": "Altman apologises after OpenAI failed to alert police before Tumbler Ridge killings",
@@ -20,16 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-25T19:20:15.000Z",
       "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Sc...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-ceo-apologizes-to-tumbler-ridge-community-e6625e8ce4",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community",
-      "tag": "Technology",
-      "publishedAt": "2026-04-25T17:17:56.000Z",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a re...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -113,13 +113,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-climate-tech-ipo-window-could-finally-be-cra-37e384806a",
-      "title": "The climate tech IPO window could finally be cracking open",
+      "id": "tech-openai-ceo-apologizes-to-tumbler-ridge-community-e6625e8ce4",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community",
       "tag": "Technology",
-      "publishedAt": "2026-04-25T16:33:00.000Z",
-      "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+      "publishedAt": "2026-04-25T17:17:56.000Z",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a re...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
