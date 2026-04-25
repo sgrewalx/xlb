@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-04-25T21:29:39.253Z",
+  "updatedAt": "2026-04-25T22:29:07.374Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-2-c-i-a-officers-killed-in-mexico-crash-lacked-p-9e70ef0b98",
-      "title": "2 C.I.A. Officers Killed in Mexico Crash Lacked Proper Authorization",
+      "id": "news-shah-didi-gets-angry-when-i-threaten-goons-must--a4963ee719",
+      "title": "Shah: 'Didi gets angry when I threaten goons. Must I embrace them?'",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/shah-didi-gets-angry-when-i-threaten-goons-must-i-embrace-them/articleshow/130524212.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-25T22:17:06.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-trump-calls-off-witkoff-an-c500af126d",
+      "title": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html",
+      "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
       "tag": "US",
-      "publishedAt": "2026-04-25T21:25:23.000Z",
-      "summary": "The two Americans were killed on Sunday when their vehicle crashed while returning from an antidrug operation led by Mexico’s armed forces in the state of Chihuahua.",
+      "publishedAt": "2026-04-25T22:14:40.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-cancels-us-envoys-trip-to-pakistan-for-tal-bb4c53d2b6",
-      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "id": "news-israel-iran-war-live-trump-cancels-u-s-envoys-vi-357fec7928",
+      "title": "Israel-Iran war LIVE: Trump cancels U.S. envoys’ visit to Pakistan for talks; says 'does not mean restart of war'",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
       "tag": "Europe",
-      "publishedAt": "2026-04-25T21:14:42.000Z",
-      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+      "publishedAt": "2026-04-25T22:14:15.000Z",
+      "summary": "Iran’s Foreign Minister leaves Islamabad without meeting U.S. envoys, say Pakistan officials; Iran resumes commercial flights from Tehran’s international airport for the first t...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-middle-east-crisis-live-donald-trump-cancels-us--2718f9914e",
+      "id": "news-middle-east-crisis-live-donald-trump-cancels-us--bdb12e5c53",
       "title": "Middle East crisis live: Donald Trump cancels US envoy trip to Pakistan for ceasefire talks with Iran",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
       "tag": "Europe",
-      "publishedAt": "2026-04-25T21:06:52.000Z",
+      "publishedAt": "2026-04-25T22:13:24.000Z",
       "summary": "US president says ‘too much time’ has been ‘wasted on traveling’ as Israel strikes Lebanon, claiming Hezbollah also launched rockets We have some images coming through the newsw...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-in-a-rare-interview-a-leader-of-the-world-s-larg-7b4efba8b0",
+      "title": "In a rare interview, a leader of the world's largest right-wing group talks to NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist",
+      "tag": "US",
+      "publishedAt": "2026-04-25T21:45:00.000Z",
+      "summary": "The second-in-command of the RSS, a Hindu nationalist organization in India, rarely speaks to the Western press. Here's what he said about his group's controversial history.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-cancels-us-envoys-trip-to-pakistan-for-tal-e3d0818338",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T21:34:12.000Z",
+      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,26 +70,6 @@
       "tag": "Europe",
       "publishedAt": "2026-04-25T21:03:51.000Z",
       "summary": "Authorities in Cauca region demand 'decisive' government action after deadly explosion on Pan-American Highway.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-orphaned-twice-sir-strips-kolkata-s-kerala-born--b620fa59ba",
-      "title": "Orphaned twice: SIR strips Kolkata's Kerala-born man of vote, identity",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/orphaned-twice-sir-strips-kolkatas-kerala-born-man-of-vote-identity/articleshow/130522794.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-25T20:26:24.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-experts-discuss-preventive-care-and-data-led-app-37989ebd09",
-      "title": "Experts discuss preventive care and data-led approach to public health challenges",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/experts-discuss-preventive-care-and-data-led-approach-to-public-health-challenges/article70905096.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-25T20:10:36.000Z",
-      "summary": "The webinar discussed challenges from infectious diseases to NCDs, climate-linked risks, and the growing role of AI and policy in building resilient healthcare systems",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mali-hit-by-wave-of-coordinated-attacks-from-arm-f85c04e026",
-      "title": "Mali hit by wave of coordinated attacks from armed groups",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups",
-      "tag": "US",
-      "publishedAt": "2026-04-25T14:57:23.000Z",
-      "summary": "Gunfire and explosions have rocked Mali's capital Bamako and other key cities in one of the most significant coordinated attacks in years, as armed groups, including jihadist in...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-trump-calls-off-witkoff-an-55459b8543",
-      "title": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
+      "id": "news-trump-cancels-witkoff-and-kushner-s-trip-for-ira-a91b490b84",
+      "title": "Trump Cancels Witkoff and Kushner’s Trip for Iran Talks, Saying, ‘We Have All the Cards.’",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
+      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html",
       "tag": "US",
-      "publishedAt": "2026-04-25T21:22:54.000Z",
-      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-25T22:14:37.000Z",
+      "summary": "The last-minute scuttling of the trip is the latest sign of how far apart the two sides are on reaching a deal to end the Iran war.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-explosions-and-gunfire-as-armed-groups-launch-co-d839fad009",
-      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-25T21:13:49.000Z",
-      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
+      "id": "news-india-advises-nationals-in-mali-to-stay-indoors--2da3d4aba3",
+      "title": "India advises nationals in Mali to stay indoors, exercise caution due to security developments",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-advises-nationals-in-mali-to-stay-indoors-exercise-caution-due-to-security-developments/article70906718.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-25T22:14:00.000Z",
+      "summary": "The Indian embassy added that it was closely monitoring the evolving situation in coordination with Malian authorities and will issue further updates as required",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
