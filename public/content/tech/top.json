@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-25T10:35:39.161Z",
+  "updatedAt": "2026-04-25T11:32:13.577Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-saros-shows-off-the-ps5-s-dualsense-tricks-ff167e6bb9",
-      "title": "‘Saros’ Shows Off the PS5’s DualSense Tricks",
+      "id": "tech-best-apps-for-focus-2026-focus-friend-forest-foc-e8ec9b8302",
+      "title": "Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller",
       "source": "Wired",
-      "url": "https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks",
+      "url": "https://www.wired.com/story/3-focus-timer-apps-focus-friend-forest-focus-traveller",
       "tag": "Technology",
-      "publishedAt": "2026-04-25T10:30:00.000Z",
-      "summary": "The new game from the creators of Returnal goes all-in on the PlayStation’s haptics and 3D audio. Maybe it will catch on with other game developers.",
+      "publishedAt": "2026-04-25T11:30:00.000Z",
+      "summary": "Distractions? What distractions? Here are our recommendations for apps that help you stay focused on the task at hand.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-us-gets-the-worst-phones-ff5b23f18f",
+      "title": "The US gets the worst phones",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+      "tag": "Technology",
+      "publishedAt": "2026-04-25T11:00:00.000Z",
+      "summary": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-vampire-crawlers-peter-molyneux-s-return-and-oth-2039f573fa",
+      "title": "Vampire Crawlers, Peter Molyneux's return and other new indie games worth checking out",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/vampire-crawlers-peter-molyneuxs-return-and-other-new-indie-games-worth-checking-out-110000340.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-25T11:00:00.000Z",
+      "summary": "Welcome to our latest roundup of what's going on in the indie game space. If you're looking for something new to play this weekend, we've got a bunch of options for you. We've a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-xchat-the-standalone-app-for-messaging-on-x-is-a-e52ecac689",
-      "title": "XChat, the standalone app for messaging on X, is available on iOS now",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T21:48:26.000Z",
-      "summary": "XChat, the standalone app for accessing X's messaging feature, is available to download now for iOS . X first suggested it would be stripping direct messaging from X in 2025 , b...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-will-let-you-pause-windows-updates-ind-94efb165d8",
-      "title": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
-      "tag": "Technology",
-      "publishedAt": "2026-04-24T20:45:58.000Z",
-      "summary": "Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to us...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-saros-shows-off-the-ps5-s-dualsense-tricks-ff167e6bb9",
+      "title": "‘Saros’ Shows Off the PS5’s DualSense Tricks",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/saros-shows-off-the-ps5-dualsense-tricks",
+      "tag": "Technology",
+      "publishedAt": "2026-04-25T10:30:00.000Z",
+      "summary": "The new game from the creators of Returnal goes all-in on the PlayStation’s haptics and 3D audio. Maybe it will catch on with other game developers.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-discord-sleuths-gained-unauthorized-access-to-an-131352da84",
       "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
       "source": "Wired",
@@ -110,16 +120,6 @@
       "tag": "Running",
       "publishedAt": "2026-04-25T10:30:00.000Z",
       "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-online-civil-war-about-michael-is-a-battle-o-e214bd2446",
-      "title": "The Online Civil War About ‘Michael’ Is a Battle Over Truth",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-online-civil-war-about-michael-is-a-battle-over-truth",
-      "tag": "Technology",
-      "publishedAt": "2026-04-25T10:00:00.000Z",
-      "summary": "Fans want to reclaim the music and myth of Michael Jackson in the new biopic while critics call for accountability. Who’s right?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
