@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-04-25T21:28:20.735Z",
+  "updatedAt": "2026-04-25T22:26:52.516Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-maine-s-governor-vetoes-data-center-moratorium-9fed5e58f5",
-      "title": "Maine’s governor vetoes data center moratorium",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium",
+      "id": "tech-openai-s-sam-altman-apologizes-for-not-reporting-bb58abea96",
+      "title": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/openais-sam-altman-apologizes-for-not-reporting-chatgpt-account-of-tumbler-ridge-suspect-to-police-221400813.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-25T20:57:08.000Z",
-      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "publishedAt": "2026-04-25T22:14:00.000Z",
+      "summary": "Two months following the deadly shooting in Tumbler Ridge, British Columbia, OpenAI's Sam Altman has formally apologized for not informing police of the alarming ChatGPT convers...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-created-a-test-marketplace-for-agent-o-28dde8df4a",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce",
+      "tag": "Technology",
+      "publishedAt": "2026-04-25T21:43:37.000Z",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-25T19:20:15.000Z",
       "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Sc...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nasa-s-initial-takeaways-from-the-artemis-ii-mis-dfab082a61",
-      "title": "NASA's initial takeaways from the Artemis II mission, and more science stories",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/science/nasas-initial-takeaways-from-the-artemis-ii-mission-and-more-science-stories-160000808.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-25T16:00:00.000Z",
-      "summary": "Now that Artemis II is all wrapped up , NASA has begun its post-game performance analyses of all the systems that worked together to get four astronauts safely to the moon and b...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-maine-s-governor-vetoes-data-center-moratorium-9fed5e58f5",
+      "title": "Maine’s governor vetoes data center moratorium",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium",
+      "tag": "Technology",
+      "publishedAt": "2026-04-25T20:57:08.000Z",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-an-influx-of-used-evs-could-drive-down-prices-fd63d3a9f0",
       "title": "An influx of used EVs could drive down prices",
       "source": "The Verge",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-25T18:25:23.000Z",
       "summary": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-ceo-apologizes-to-tumbler-ridge-community-e6625e8ce4",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community",
-      "tag": "Technology",
-      "publishedAt": "2026-04-25T17:17:56.000Z",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a re...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
