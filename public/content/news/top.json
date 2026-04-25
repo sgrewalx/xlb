@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-04-25T16:33:29.631Z",
+  "updatedAt": "2026-04-25T17:32:24.812Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-ashok-kumar-lahiri-appointed-as-niti-aayog-vice--c1388be1a7",
-      "title": "Ashok Kumar Lahiri appointed as Niti Aayog Vice-Chairperson",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/ashok-kumar-lahiri-appointed-as-niti-aayog-vice-chairperson/article70906031.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-25T16:27:14.000Z",
-      "summary": "Ashok Kumar Lahiri, a former Chief Economic Advisor to the government, replaces Suman K. Bery",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-teenager-charged-in-london-with-woman-s-murder-a-bc8988595e",
-      "title": "Teenager charged in London with woman’s murder after UAE extradition",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/25/teenager-charged-in-london-with-womans-after-uae-extradition",
-      "tag": "Europe",
-      "publishedAt": "2026-04-25T16:25:01.000Z",
-      "summary": "Enzo Bettamio alleged to have stabbed Kamonnan Thiamphanit in April 2024 at a property in Bayswater A teenager has been charged with murder over the death of a 27-year-old woman...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-trump-calls-off-witkoff-an-c576e6e367",
+      "id": "news-iran-war-live-updates-trump-calls-off-witkoff-an-2b2612c84b",
       "title": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
       "tag": "US",
-      "publishedAt": "2026-04-25T16:14:02.000Z",
+      "publishedAt": "2026-04-25T17:30:35.000Z",
       "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-fire-breaks-out-at-scrapyard-near-pullepady-brid-eae8887025",
+      "title": "Fire breaks out at scrapyard near Pullepady bridge",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/fire-breaks-out-at-scrapyard-near-pullepady-bridge/article70906428.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-25T17:28:08.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-clashes-across-manipur-s-valley-as-protests-agai-bba1bd7b45",
+      "title": "Clashes across Manipur’s valley as protests against killing of 2 Meitei children spiral",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/manipur-imphal-clashes-cocomi-rally-protests-10655973",
+      "tag": "India",
+      "publishedAt": "2026-04-25T17:24:06.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-donald-trump-cancels-us--5bf425f4d2",
+      "title": "Middle East crisis live: Donald Trump cancels US envoy trip to Pakistan for ceasefire talks with Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T17:15:11.000Z",
+      "summary": "US president says ‘too much time’ has been ‘wasted on traveling’ as Israel strikes Lebanon, claiming Hezbollah also launched rockets We have some images coming through the newsw...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-palestinians-in-west-bank-and-some-in-gaza-vote--d54bc01087",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T17:01:55.000Z",
+      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-to-allow-venezuelan-government-to-cover-madur-c6b5a2eaeb",
+      "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T16:21:24.000Z",
+      "summary": "Defence lawyers had asked for case to be thrown out, claiming Maduro's rights were violated following US abduction.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,26 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-explosions-and-gunfire-as-armed-groups-launch-co-d872c80e03",
-      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-25T15:32:50.000Z",
-      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bihar-schoolteacher-murdered-and-dumped-on-highw-e5fc2942c5",
-      "title": "Bihar schoolteacher murdered and dumped on highway, husband who ‘remarried days later’ arrested",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/bihar-chapra-teacher-murder-husband-arrest-remarriage-10655871",
-      "tag": "India",
-      "publishedAt": "2026-04-25T15:22:11.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-mali-hit-by-wave-of-coordinated-attacks-from-arm-f85c04e026",
       "title": "Mali hit by wave of coordinated attacks from armed groups",
       "source": "NPR",
@@ -80,16 +90,6 @@
       "tag": "US",
       "publishedAt": "2026-04-25T14:57:23.000Z",
       "summary": "Gunfire and explosions have rocked Mali's capital Bamako and other key cities in one of the most significant coordinated attacks in years, as armed groups, including jihadist in...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-after-years-of-avoidance-trump-to-attend-first-w-b1e6bd4de9",
-      "title": "After years of avoidance, Trump to attend first White House press dinner",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-25T14:33:58.000Z",
-      "summary": "Professional organisations call on attendees to 'speak forcefully' at annual event, which will not feature a comedian.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,22 +103,22 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-chief-secretary-to-chair-newly-acquired-l-t-metr-60a079d34c",
-      "title": "Chief Secretary to Chair newly acquired L&T Metro Rail Hyderabad to run HMR phase one",
+      "id": "news-seven-e-bikes-catch-fire-near-ranipet-town-4ca1fafed7",
+      "title": "Seven e-bikes catch fire near Ranipet town",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/chief-secretary-to-chair-newly-acquired-lt-metro-rail-hyderabad-to-run-hmr-phase-one/article70906236.ece",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-e-bikes-catch-fire-near-ranipet-town/article70905622.ece",
       "tag": "India",
-      "publishedAt": "2026-04-25T16:27:03.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-25T17:20:53.000Z",
+      "summary": "The police said that a mechanic was checking the condition of batteries at the shop when the explosion happened",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-case-against-resident-for-obstructing-census-wor-fe632a820a",
-      "title": "Case against resident for obstructing Census work",
+      "id": "news-telugu-short-film-selected-for-screening-at-dpif-cc3abd39d7",
+      "title": "Telugu short film selected for screening at DPIFF 2026",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/case-against-resident-for-obstructing-census-work/article70905852.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/telugu-short-film-selected-for-screening-at-dpiff-2026/article70906301.ece",
       "tag": "India",
-      "publishedAt": "2026-04-25T16:25:11.000Z",
+      "publishedAt": "2026-04-25T17:20:42.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
