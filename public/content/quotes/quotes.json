@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-24T03:28:22.426Z",
+  "updatedAt": "2026-04-25T02:56:17.353Z",
   "items": [
-    {
-      "id": "mark-twain",
-      "quote": "Don’t waste time arguing with idiots. They’ll drag you down to their level and they’ll beat you with experience.",
-      "author": "Mark Twain",
-      "context": "Wisdom"
-    },
     {
       "id": "e-b-white",
       "quote": "Prejudice is a great time saver. You can form opinions without having to get the facts.",
@@ -30,6 +24,12 @@
       "quote": "Absorb what is useful, discard what is not, add what is uniquely your own.",
       "author": "Bruce Lee",
       "context": "Focus"
+    },
+    {
+      "id": "jane-jacobs",
+      "quote": "New ideas need old buildings.",
+      "author": "Jane Jacobs",
+      "context": "Cities"
     }
   ]
 }
