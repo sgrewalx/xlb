@@ -1,24 +1,54 @@
 {
-  "updatedAt": "2026-04-25T20:30:58.507Z",
+  "updatedAt": "2026-04-25T21:29:39.253Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-trump-calls-off-witkoff-an-1971819991",
-      "title": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
+      "id": "news-2-c-i-a-officers-killed-in-mexico-crash-lacked-p-9e70ef0b98",
+      "title": "2 C.I.A. Officers Killed in Mexico Crash Lacked Proper Authorization",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
+      "url": "https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html",
       "tag": "US",
-      "publishedAt": "2026-04-25T20:27:20.000Z",
-      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-25T21:25:23.000Z",
+      "summary": "The two Americans were killed on Sunday when their vehicle crashed while returning from an antidrug operation led by Mexico’s armed forces in the state of Chihuahua.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-drdo-unveils-advanced-armoured-vehicles-for-comb-ec07f0600d",
-      "title": "DRDO unveils advanced armoured vehicles for combat support and deployment in Ladakh, deserts, riverine areas",
+      "id": "news-trump-cancels-us-envoys-trip-to-pakistan-for-tal-bb4c53d2b6",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T21:14:42.000Z",
+      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-donald-trump-cancels-us--2718f9914e",
+      "title": "Middle East crisis live: Donald Trump cancels US envoy trip to Pakistan for ceasefire talks with Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T21:06:52.000Z",
+      "summary": "US president says ‘too much time’ has been ‘wasted on traveling’ as Israel strikes Lebanon, claiming Hezbollah also launched rockets We have some images coming through the newsw...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-explosion-in-southwest-colombia-kills-at-leat-se-c998fdeb87",
+      "title": "Explosion in southwest Colombia kills at leat seven, state governor says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T21:03:51.000Z",
+      "summary": "Authorities in Cauca region demand 'decisive' government action after deadly explosion on Pan-American Highway.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-orphaned-twice-sir-strips-kolkata-s-kerala-born--b620fa59ba",
+      "title": "Orphaned twice: SIR strips Kolkata's Kerala-born man of vote, identity",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/drdo-unveils-advanced-armoured-vehicles-for-combat-support-and-deployment-in-ladakh-deserts-riverine-areas/articleshow/130522776.cms",
+      "url": "https://timesofindia.indiatimes.com/india/orphaned-twice-sir-strips-kolkatas-kerala-born-man-of-vote-identity/articleshow/130522794.cms",
       "tag": "India",
-      "publishedAt": "2026-04-25T20:18:04.000Z",
+      "publishedAt": "2026-04-25T20:26:24.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
@@ -30,36 +60,6 @@
       "tag": "India",
       "publishedAt": "2026-04-25T20:10:36.000Z",
       "summary": "The webinar discussed challenges from infectious diseases to NCDs, climate-linked risks, and the growing role of AI and policy in building resilient healthcare systems",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-middle-east-crisis-live-donald-trump-cancels-us--7d98055109",
-      "title": "Middle East crisis live: Donald Trump cancels US envoy trip to Pakistan for ceasefire talks with Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
-      "tag": "Europe",
-      "publishedAt": "2026-04-25T20:08:14.000Z",
-      "summary": "US president says ‘too much time’ has been ‘wasted on traveling’ as Israel strikes Lebanon, claiming Hezbollah also launched rockets We have some images coming through the newsw...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-s-authorities-project-hardened-stance-with--6aefa35ea0",
-      "title": "Iran’s authorities project hardened stance with more talks on horizon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-25T19:54:57.000Z",
-      "summary": "Abbas Araghchi met senior Pakistani officials in Islamabad and left for Oman to be later bound for Russia.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-orb-n-steps-down-from-hungarian-parliament-after-9b81fab205",
-      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-25T19:22:31.000Z",
-      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-in-boost-for-army-s-high-mobility-tactical-force-43f60b8b7b",
-      "title": "In boost for Army’s high-mobility tactical force, 16th Bhairon Battalion raised at Belagavi",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/in-boost-for-armys-high-mobility-tactical-force-16th-bhairon-battalion-raised-at-belagavi/articleshow/130522771.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-25T20:12:02.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-iran-war-live-updates-trump-calls-off-witkoff-an-55459b8543",
+      "title": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
+      "tag": "US",
+      "publishedAt": "2026-04-25T21:22:54.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-sea-diplomacy-indian-navy-ships-dock-in-maldives-02f0db9585",
-      "title": "Sea diplomacy: Indian Navy ships dock in Maldives’ Addu Atoll, make port call at Canary Islands",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/sea-diplomacy-indian-navy-ships-dock-in-maldives-addu-atoll-make-port-call-at-canary-islands/articleshow/130522751.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-25T20:07:24.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-explosions-and-gunfire-as-armed-groups-launch-co-d839fad009",
+      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-25T21:13:49.000Z",
+      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
