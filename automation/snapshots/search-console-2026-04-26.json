@@ -1,0 +1,80 @@
+{
+  "capturedAt": "2026-04-26T06:00:00.000Z",
+  "window": {
+    "start": "2026-03-28T00:00:00.000Z",
+    "end": "2026-04-25T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": false,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 4,
+      "searchCtr": 0,
+      "avgPosition": 6,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 3,
+      "searchCtr": 0,
+      "avgPosition": 4,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/games",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 1,
+      "searchCtr": 0,
+      "avgPosition": 4,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/sports",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 3,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/topics/nasa",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 5.5,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    }
+  ]
+}
