@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-04-26T12:42:30.633Z",
+  "updatedAt": "2026-04-26T13:59:42.725Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-plan-to-quietly-kill-coyote-v-acme-blew-up-i-93c494c18a",
-      "title": "The plan to quietly kill Coyote v. Acme blew up in David Zaslav’s face",
+      "id": "tech-after-three-months-on-linux-i-don-t-miss-windows-6cbe8dc0f3",
+      "title": "After three months on Linux, I don’t miss Windows at all",
       "source": "The Verge",
-      "url": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
+      "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
       "tag": "Technology",
-      "publishedAt": "2026-04-26T12:00:00.000Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Hollywood trends and streaming culture, follow Charles Pulliam-Moore...",
+      "publishedAt": "2026-04-26T13:00:00.000Z",
+      "summary": "In January I finally made good on my threat/promise to install Linux on my desktop. I wanted to see how far I could get using a Linux PC as my main computer without doing a bunc...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,6 +30,16 @@
       "tag": "Technology",
       "publishedAt": "2026-04-26T11:34:00.000Z",
       "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and even charms, this is the guide for you.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-new-robotic-control-software-avoids-jamming-thei-16197653ce",
+      "title": "New robotic control software avoids jamming their joints",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits",
+      "tag": "Technology",
+      "publishedAt": "2026-04-26T11:09:29.000Z",
+      "summary": "Software lets robots learn from each other even if they have different hardware.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-artemis-ii-broke-fred-haise-s-distance-record-bu-d872f2ef53",
-      "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on",
-      "tag": "Technology",
-      "publishedAt": "2026-04-25T11:40:58.000Z",
-      "summary": "\"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-the-plan-to-quietly-kill-coyote-v-acme-blew-up-i-93c494c18a",
+      "title": "The plan to quietly kill Coyote v. Acme blew up in David Zaslav’s face",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
+      "tag": "Technology",
+      "publishedAt": "2026-04-26T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Hollywood trends and streaming culture, follow Charles Pulliam-Moore...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-the-smart-bird-feeders-everyone-s-talking-about--62c7ef183a",
       "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
       "source": "Wired",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-26T11:04:00.000Z",
       "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-best-permanent-outdoor-lights-2026-govee-euf-4691c78026",
-      "title": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights",
-      "tag": "Technology",
-      "publishedAt": "2026-04-26T10:31:00.000Z",
-      "summary": "Permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the effort and cost?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
