@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-04-26T11:33:09.758Z",
+  "updatedAt": "2026-04-26T12:42:30.633Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-smart-bird-feeders-everyone-s-talking-about--62c7ef183a",
-      "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/best-smart-bird-feeders",
+      "id": "tech-the-plan-to-quietly-kill-coyote-v-acme-blew-up-i-93c494c18a",
+      "title": "The plan to quietly kill Coyote v. Acme blew up in David Zaslav’s face",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
       "tag": "Technology",
-      "publishedAt": "2026-04-26T11:04:00.000Z",
-      "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "publishedAt": "2026-04-26T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Hollywood trends and streaming culture, follow Charles Pulliam-Moore...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-visitor-from-another-star-interstellar-comet-r-d23380ea98",
+      "title": "A Visitor from Another Star: Interstellar Comet Reveals Alien Origins",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/interstellar-comet-3i-atlas-reveals-frozen-origins-beyond-solar-system-11403659",
+      "tag": "Technology",
+      "publishedAt": "2026-04-26T11:43:23.000Z",
+      "summary": "Observations of 3I/ATLAS reveal high levels of heavy water, suggesting it formed in an extremely cold star system. The discovery offers new insights into how planets form beyond...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-best-kindle-accessories-2026-cases-page-turn-14a7f2f229",
+      "title": "The Best Kindle Accessories (2026): Cases, Page Turners, Stickers",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-kindle-accessories",
+      "tag": "Technology",
+      "publishedAt": "2026-04-26T11:34:00.000Z",
+      "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and even charms, this is the guide for you.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-26T07:53:31.000Z",
       "summary": "The satellite named PRSC-EO3 was lifted off at 8:15 p.m. (Beijing Time) by a Long March-6 carrier rocket and successfully entered its planned orbit",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-jerax-season-1-ott-release-where-to-watch-this-k-1b265faaa0",
-      "title": "Jerax Season 1 OTT Release: Where to Watch This Kannada Fantasy Comedy Series",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/entertainment/news/jerax-season-1-ott-release-watch-kannada-fantasy-comedy-on-zee5-india-plot-cast-details-11403697",
-      "tag": "Technology",
-      "publishedAt": "2026-04-26T07:42:05.000Z",
-      "summary": "Jerax Season 1 is a Kannada fantasy comedy that explores chaos in a small town when a Xerox machine starts creating human clones.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-fires-the-entire-national-science-board-b7f844d67b",
-      "title": "Trump fires the entire National Science Board",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
-      "tag": "Technology",
-      "publishedAt": "2026-04-25T19:20:15.000Z",
-      "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Sc...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-artemis-ii-broke-fred-haise-s-distance-record-bu-d872f2ef53",
       "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
       "source": "Ars Technica",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-the-smart-bird-feeders-everyone-s-talking-about--62c7ef183a",
+      "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders",
+      "tag": "Technology",
+      "publishedAt": "2026-04-26T11:04:00.000Z",
+      "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-the-best-permanent-outdoor-lights-2026-govee-euf-4691c78026",
       "title": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
       "source": "Wired",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-26T10:31:00.000Z",
       "summary": "Permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the effort and cost?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ikea-s-new-blow-up-chair-was-tested-by-cats-f085a5af0a",
-      "title": "Ikea's New Blow-Up Chair Was Tested by Cats",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats",
-      "tag": "Technology",
-      "publishedAt": "2026-04-26T10:00:00.000Z",
-      "summary": "Part of the new PS 2026 collection, it's taken the Swedish company 26 years to finally nail inflatable furniture.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
