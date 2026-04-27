@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-04-27T10:55:12.163Z",
+  "updatedAt": "2026-04-27T12:17:56.101Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-how-an-expecting-mother-s-booster-shots-can-prot-10e21a7463",
-      "title": "How an expecting mother’s booster shots can protect her newborn from a host of diseases",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/how-an-expecting-mothers-booster-shots-can-protect-her-newborn-from-a-host-of-diseases/article70900617.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-27T10:48:23.000Z",
-      "summary": "The Tdap vaccine, Covid-19 and flu shots and the RSV vaccine are some of the important immunisations that expecting mothers should discuss with their health practitioners",
+      "id": "news-hezbollah-says-it-will-keep-weapons-as-lebanon-s-386681f1a7",
+      "title": "Hezbollah Says It Will Keep Weapons as Lebanon Says Israeli Strikes Killed 14",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html",
+      "tag": "US",
+      "publishedAt": "2026-04-27T12:12:15.000Z",
+      "summary": "Despite a cease-fire, Israel and Hezbollah have been trading attacks almost daily.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-odesa-bears-brunt-of-latest-russian-attacks-on-u-0121932d48",
+      "id": "news-alleged-correspondents-dinner-shooter-to-appear--7f028c8c3a",
+      "title": "Alleged Correspondents' Dinner shooter to appear in court. And, Charles III visits U.S.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/27/g-s1-118874/up-first-newsletter-white-house-correspondence-dinner-cole-allen-king-charles-spacex-openai-elon-musk",
+      "tag": "US",
+      "publishedAt": "2026-04-27T12:11:18.000Z",
+      "summary": "The suspect in the White House Correspondents' Dinner shooting incident is set to appear in federal court today. And, King Charles III and Queen Camilla arrive in Washington tod...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-tamil-nadu-election-2026-highlights-over-85-vote-ed3126a6fc",
+      "title": "Tamil Nadu election 2026 highlights: Over 85% voter turnout in State for the first time since Independence",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-voting-live-updates-23-april-2026/article70894196.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-27T12:10:17.000Z",
+      "summary": "Limited bus services affect polling day travel; robots dressed in 'dhavanis' (half-sarees) welcome and assist voters in several booths across the State; several young voters sho...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-russian-fighters-confirm-withdrawal-from-norther-ef4ce13534",
+      "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-27T12:08:40.000Z",
+      "summary": "Ethnic Tuareg fighters say they are in control of Kidal following a weekend of nationwide attacks, alongside Islamist groups",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-odesa-bears-brunt-of-latest-russian-attacks-on-u-1924293e9a",
       "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-04-27T10:46:36.000Z",
-      "summary": "Across country, at least 14 have been injured as Zelenskyy highlights importance of air defences In more uplifting news, a Polish social media influencer has raised more than £5...",
+      "publishedAt": "2026-04-27T11:55:36.000Z",
+      "summary": "Across country, at least 14 have been injured as Zelenskyy highlights importance of air defences Back to foreign affairs, Russia’s foreign ministry said it had summoned the Germ...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-what-good-will-a-police-complaint-do-comic-after-6b80cbcbf8",
-      "title": "What good will a police complaint do: Comic after TDP men disrupted Bengaluru show",
+      "id": "news-fighting-over-access-to-water-in-chad-kills-at-l-bd35704e59",
+      "title": "Fighting over access to water in Chad kills at least 42, army intervenes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/chad-clashes-over-water-resources-kill-at-least-42-in-eastern-province?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-27T11:46:03.000Z",
+      "summary": "Dispute over water spirals into reprisal attacks, government says situation is 'under control'.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ayodhya-mumbai-ltt-amrit-bharat-train-to-commenc-d1c8ea5fc2",
+      "title": "Ayodhya-Mumbai (LTT) Amrit Bharat train to commence inaugural run on April 28: check stoppages, timings",
       "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/comic-tdp-men-disrupted-bengaluru-show-10658333",
+      "url": "https://indianexpress.com/article/india/ayodhya-mumbai-ltt-amrit-bharat-train-to-commence-inaugural-run-on-april-28-check-stoppages-timings-10658330",
       "tag": "India",
-      "publishedAt": "2026-04-27T10:44:00.000Z",
+      "publishedAt": "2026-04-27T11:44:12.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-homeowners-fight-for-control-of-their-community--93d24cdb19",
-      "title": "Homeowners Fight for Control of Their Community in China",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/27/world/asia/china-homeowners-associations.html",
-      "tag": "US",
-      "publishedAt": "2026-04-27T10:42:18.000Z",
-      "summary": "They signed petitions, organized rallies and held strategy sessions over karaoke, debating how far to push the authorities in their dispute with a developer.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -50,26 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-04-27T10:35:48.000Z",
       "summary": "The order says that individuals affiliated with the Jamaat-e-Islami exercise their influence over administrative and academic matters of the seminary.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-oil-prices-rise-as-us-iran-peace-talks-stall-1140a6fa70",
-      "title": "Oil prices rise as US-Iran peace talks stall",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-27T10:26:46.000Z",
-      "summary": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-s-foreign-minister-in-russia-for-talks-88194de650",
-      "title": "Iran’s foreign minister in Russia for talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/irans-foreign-minister-in-russia-for-talks?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-27T10:23:55.000Z",
-      "summary": "Iran’s foreign minister in Russia for talks",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-palestinian-officials-hail-local-elections-in-a--ff06611f6b",
-      "title": "Palestinian officials hail local elections in a Gaza community and the West Bank",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/27/g-s1-118847/local-elections-in-gaza-and-the-west-bank",
-      "tag": "US",
-      "publishedAt": "2026-04-27T05:09:03.000Z",
-      "summary": "Palestinian officials say local elections in Gaza and the West Bank mark a step toward a long-delayed presidential election. The Palestinian Authority hasn't held a presidential...",
+      "id": "news-welcome-to-nation-building-nda-goodbye-to-indi-a-6a84aaa4b2",
+      "title": "\"Welcome to nation-building NDA, goodbye to INDI Alliance\": Kiren Rijiju on AAP MPs joining BJP",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/welcome-to-nation-building-nda-goodbye-to-indi-alliance-kiren-rijiju-on-aap-mps-joining-bjp/article70912065.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-27T12:07:55.000Z",
+      "summary": "Rijiju also took a swipe at the Opposition INDIA bloc, calling it the “Tukde-Tukde INDI Alliance.”",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-tamil-nadu-election-2026-polling-peaceful-in-cud-320647d487",
-      "title": "Tamil Nadu election 2026: Polling peaceful in Cuddalore district amid heavy turnout",
+      "id": "news-post-covid-mushroom-boom-ap-exporter-tells-guntu-a7cfef6d76",
+      "title": "Post-COVID mushroom boom: AP exporter tells Guntur workshop firm needs 300 kg a day",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/polling-peaceful-in-cuddalore-district-amid-heavy-turnout/article70897728.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/post-covid-mushroom-boom-ap-exporter-tells-guntur-workshop-firm-needs-300-kg-a-day/article70911773.ece",
       "tag": "India",
-      "publishedAt": "2026-04-27T10:47:17.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-man-involved-in-fatal-accident-on-durgam-cheruvu-b14550c19f",
-      "title": "Man involved in fatal accident on Durgam Cheruvu Cable Bridge nabbed in Ooty",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/man-involved-in-fatal-accident-on-durgam-cheruvu-cable-bridge-nabbed-in-ooty/article70910978.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-27T10:46:18.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-04-27T12:06:53.000Z",
+      "summary": "At a one-day workshop in Guntur, the Women’s Wing of the Andhra Pradesh Chambers of Commerce and Industry Federation pitched mushroom cultivation as a viable business for women",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
