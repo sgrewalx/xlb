@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-04-27T21:49:20.708Z",
+  "updatedAt": "2026-04-27T22:42:26.786Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-mali-rebels-strike-major-blow-against-junta-and--cbb648c3e7",
-      "title": "Mali Rebels Strike Major Blow Against Junta and Russia’s Africa Corps",
+      "id": "news-600-google-staff-urge-ceo-to-reject-classified-m-d776c7e3ba",
+      "title": "600 Google staff urge CEO to reject classified military AI contract",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/technology/600-google-staff-urge-ceo-to-reject-classified-military-ai-contract/article70913974.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-04-27T22:38:13.000Z",
+      "summary": "The letter, addressed to Chief Executive Sundar Pichai and signed by workers from Google DeepMind, Cloud, and other divisions, comes as the tech giant is in active negotiations...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-criminal-complaint-against-white-house-press-din-dc160bc163",
+      "title": "Criminal complaint against White House press dinner shooting suspect quotes his anger at ‘a pedophile, rapist and traitor’ – US politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/27/white-house-correspondents-dinner-shooting-suspect-charges-donald-trump-king-charles-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-04-27T22:34:48.000Z",
+      "summary": "Complaint filed in federal court on Monday quotes part of Cole Allen’s manifesto, sent to family and friends by email shortly before he tried to charge into event Sign up for th...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-mangaluru-cooker-blast-accused-gets-10-years-ri-2000b08f5c",
+      "title": "Mangaluru cooker blast accused gets 10 years' RI",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/mangaluru-cooker-blast-accused-gets-10-years-ri/articleshow/130566419.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-27T22:24:39.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-carney-to-launch-sovereign-wealth-fund-to-distan-ad0a9f36e1",
+      "title": "Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/27/world/africa/mali-jnim-violence-russia.html",
+      "url": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html",
       "tag": "US",
-      "publishedAt": "2026-04-27T21:44:04.000Z",
-      "summary": "Coordinated attacks signified a major escalation of insurgent violence in a region of West Africa where military leaders had seized power and warmed to Moscow in recent years.",
+      "publishedAt": "2026-04-27T22:00:56.000Z",
+      "summary": "The sovereign wealth fund announced by Prime Minister Mark Carney will be far smaller than ones in other oil producers like Norway and the Middle East.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bahrain-strips-69-people-of-citizenship-over-ira-d15b816756",
+      "title": "Bahrain strips 69 people of citizenship over Iran support",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-27T21:51:37.000Z",
+      "summary": "Rights groups have described the move as a 'blatant abuse of power'.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,26 +63,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-rajya-sabha-chairman-accepts-merger-of-7-aap-mps-1971e6d30d",
-      "title": "Rajya Sabha chairman accepts merger of 7 AAP MPs with BJP",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-chairman-accepts-merger-of-7-aap-mps-with-bjp/articleshow/130564601.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-27T21:39:04.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-donald-trump-and-melania-greet-king-charles-and--44cd824f53",
-      "title": "Donald Trump and Melania greet King Charles and Camilla at start of White House visit – US politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/27/white-house-correspondents-dinner-shooting-suspect-charges-donald-trump-king-charles-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-04-27T21:34:24.000Z",
-      "summary": "King Charles and Queen Camilla visiting US for four days with any meeting between king and president to be off-camera to avoid awkwardness King Charles arrives in Washington for...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-centre-picks-former-union-minister-dinesh-trived-b60f5ab578",
       "title": "Centre picks former Union minister Dinesh Trivedi as Indian envoy to Dhaka",
       "source": "Indian Express",
@@ -50,26 +70,6 @@
       "tag": "India",
       "publishedAt": "2026-04-27T21:26:51.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-leavitt-blames-democrats-for-cult-of-hatred-agai-bb2b194d44",
-      "title": "Leavitt blames democrats for ‘cult of hatred’ against Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/leavitt-blames-democrats-for-cult-of-hatred-against-trump?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-27T21:15:49.000Z",
-      "summary": "White House press secretary Karoline Leavitt blamed democrats for promoting the rhetoric which fuels 'cult of hatred'.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-government-signs-mou-with-state-legal-services-a-8160a6c266",
-      "title": "Government signs MoU with State Legal Services Authority to promote legal awareness and child protection in schools",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/government-signs-mou-with-state-legal-services-authority-to-promote-legal-awareness-and-child-protection-in-schools/article70913275.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-27T21:07:34.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-my-husband-might-give-up-work-to-care-for-our-ki-f8fe35efb2",
-      "title": "'My husband might give up work to care for our kids' - nursery bills in Wales highest in Britain",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c86e6g6989qo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-04-27T21:43:01.000Z",
-      "summary": "Parents in Wales say the cost of childcare is one of their biggest worries ahead of the election.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-australia-news-live-rsl-to-review-welcome-to-cou-d5a8868e37",
-      "title": "Australia news live: RSL to review welcome to country policy; Angus Taylor vows to double fuel reserve",
+      "id": "news-news-live-canavan-pushes-6bn-policy-to-double-fu-a022d30bf4",
+      "title": "News live: Canavan pushes $6bn policy to double fuel reserve; Trump nominates new ambassador to Australia;",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-04-27T21:32:48.000Z",
-      "summary": "Club chief says ‘anodyne acknowledgments’ can be ‘overworked’. Follow today’s news live Get our breaking news email , free app or daily news podcast The prime minister, Anthony...",
+      "publishedAt": "2026-04-27T22:31:35.000Z",
+      "summary": "David Brat, a former Republican member of the US House of Representatives, to be next ambassador. Follow today’s news live Get our breaking news email , free app or daily news p...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-supreme-court-hears-whether-smartphone-locati-a84491415e",
+      "title": "US supreme court hears whether smartphone location data warrants infringe users’ privacy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/27/us-supreme-court-smartphone-location-data-privacy",
+      "tag": "Europe",
+      "publishedAt": "2026-04-27T22:28:56.000Z",
+      "summary": "Lawyer for DoJ argued actions taken in public while in possession of a smartphone afforded no expectation of privacy The US supreme court is considering whether sprawling warran...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
