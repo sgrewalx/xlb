@@ -1,65 +1,85 @@
 {
-  "updatedAt": "2026-04-27T12:16:17.098Z",
+  "updatedAt": "2026-04-27T14:57:56.343Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-meta-ai-business-assistant-expanded-to-global-ma-3638f92228",
-      "title": "Meta AI Business Assistant Expanded to Global Markets, to Let Advertisers Optimise Marketing Campaigns",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/ai/news/meta-ai-business-assistant-expansion-major-global-markets-conversational-tool-marketing-campaign-optimisation-11415691",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T12:05:01.000Z",
-      "summary": "Meta is now expanding its artificial intelligence (AI) tool for marketing campaigns to major global markets. Dubbed the Meta AI Business Assistant, it is a conversational AI pla...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-govee-s-multicolor-ceiling-light-doubles-as-a-lo-20cb7a2353",
-      "title": "Govee’s multicolor ceiling light doubles as a low-res screen",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T12:00:00.000Z",
-      "summary": "The smart lighting company is having a busy month. After releasing its first solar-powered lights, a cordless table lamp, and an updated LED light wall over the past few weeks,...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spotify-s-next-frontier-fitness-content-4c60ff4822",
-      "title": "Spotify’s next frontier: fitness content",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T12:00:00.000Z",
-      "summary": "Spotify is adding fitness as its next major category, launching workout videos, playlists, and Peloton classes inside the app for free and Premium users.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ford-s-mustang-cobra-jet-sets-a-new-ev-quarter-m-da7061b568",
-      "title": "Ford's Mustang Cobra Jet sets a new EV quarter mile record at 6.87 seconds",
+      "id": "tech-spotify-is-now-a-fitness-app-too-d792170acc",
+      "title": "Spotify is now a fitness app too",
       "source": "Engadget",
-      "url": "https://www.engadget.com/transportation/evs/fords-mustang-cobra-jet-sets-a-new-ev-quarter-mile-record-at-687-seconds-112259793.html?src=rss",
+      "url": "https://www.engadget.com/apps/spotify-is-now-a-fitness-app-too-144037057.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T11:22:59.000Z",
-      "summary": "Ford Racing's Mustang Cobra Jet 2200 just ran a quarter mile in 6.87 seconds at 221 mph at an NHRA event in Charlotte, setting a new world record for an EV. The run smashed Ford...",
+      "publishedAt": "2026-04-27T14:40:37.000Z",
+      "summary": "In its quest to become an all-in-one app, Spotify is now breaking into the fitness app world by offering \"guided workout experiences\" and on-demand Peloton classes. Premium subs...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-best-iphone-charger-cable-wireless-magsafe-and-m-628292823a",
-      "title": "Best iPhone Charger: Cable, Wireless, MagSafe, and More",
+      "id": "tech-canva-apologizes-after-its-ai-tool-replaces-pale-0c5f4a71b9",
+      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T14:29:23.000Z",
+      "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate edi...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-urdu-wikisource-open-source-global-digital-libra-c0e0d76017",
+      "title": "Urdu Wikisource, open source global digital library for Urdu literature, launched",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/news/national/urdu-wikisource-open-source-global-digital-library-for-urdu-literature-launched/article70911838.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T14:26:36.000Z",
+      "summary": "International partnerships provide foundational content, including rare Urdu texts, for the Wikisource platform to reach this milestone",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-what-s-behind-europe-s-efforts-to-ditch-us-softw-c01d5c88f7",
+      "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T14:17:59.000Z",
+      "summary": "Governments across Europe are looking to rely less on American tech providers.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-man-behind-alphago-thinks-ai-is-taking-the-w-944eb78c73",
+      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
       "source": "Wired",
-      "url": "https://www.wired.com/story/best-iphone-charger",
+      "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T11:08:00.000Z",
-      "summary": "Whether you’re a Screen Time champion or you’re constantly on Low Power Mode, we found an iPhone charger perfect for you.",
+      "publishedAt": "2026-04-27T14:00:00.000Z",
+      "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-metasports-interactive-raises-20m-from-metica-un-bd5954afe0",
-      "title": "Metasports Interactive raises $20M from Metica under UA model",
+      "id": "tech-vivo-y500s-launched-with-7-200mah-battery-50-meg-5d17362ba3",
+      "title": "Vivo Y500s Launched With 7,200mAh Battery, 50-Megapixel Main Camera: Price, Spcifications",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/vivo-y500s-price-launch-availability-specifications-features-11416341",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T13:54:15.000Z",
+      "summary": "Vivo has launched the Vivo Y500s in China with a focus on battery life and durability. The phone features a 7200mAh battery, a 6.75-inch 120Hz display, and a Snapdragon 4 Gen 2...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-startup-news-and-updates-daily-roundup-april-27--63fd9a8fe7",
+      "title": "Startup news and updates: Daily roundup (April 27, 2026)",
       "source": "YourStory",
-      "url": "https://yourstory.com/2026/04/funding-metasports-interactive-20-million-metica-ua-model",
-      "tag": "Cricket",
-      "publishedAt": "2026-04-27T10:50:57.000Z",
-      "summary": "Metasports said the funds will support the growth of its flagship multiplayer cricket game, Hitwicket, while also boosting marketing efforts and user acquisition.",
+      "url": "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-27-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T12:39:18.000Z",
+      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here’s the roundup for Monday, April 27, 2026",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-china-blocks-meta-s-2bn-acquisition-of-ai-start--b7c72ed141",
+      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T12:21:42.000Z",
+      "summary": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-china-blocks-meta-s-acquisition-of-ai-firm-manus-47326128fc",
-      "title": "China blocks Meta's acquisition of AI firm Manus, says state planner",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/china-blocks-metas-acquisition-of-ai-firm-manus-says-state-planner/article70911356.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T09:07:04.000Z",
-      "summary": "China has blocked Meta’s acquisition of AI startup Manus, the country’s top economic planning body said",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-i-brought-my-husband-back-for-his-funeral-as-a-h-653ce9ff85",
-      "title": "I brought my husband back for his funeral as a hologram",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-25T23:03:52.000Z",
-      "summary": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spotify-is-partnering-with-peloton-for-guided-wo-28092bfca9",
-      "title": "Spotify is partnering with Peloton for guided workouts",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
-      "tag": "Running",
-      "publishedAt": "2026-04-27T12:00:00.000Z",
-      "summary": "Spotify has dabbled in customized running playlists, but now it's diving more firmly into the fitness space with curated playlists and content from creators like Yoga with Kassa...",
+      "id": "tech-oprah-brings-her-podcast-to-amazon-s-streaming-s-ee3ed975cd",
+      "title": "Oprah brings her podcast to Amazon's streaming services",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/entertainment/oprah-brings-her-podcast-to-amazons-streaming-services-142846445.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T14:28:46.000Z",
+      "summary": "Amazon has brought another high-profile podcasting name into its fold after agreeing to a multiyear licensing deal with Oprah Winfrey. Her podcast will expand to two episodes a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-is-this-samsung-s-upcoming-wide-foldable-68e9a86c71",
-      "title": "Is this Samsung’s upcoming wide foldable?",
+      "id": "tech-that-ul-safety-logo-is-a-lot-more-complicated-th-fe29de9ad9",
+      "title": "That UL safety logo is a lot more complicated than it looks",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak",
+      "url": "https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T11:52:18.000Z",
-      "summary": "The wide foldable phone that Samsung is reportedly developing is expected to arrive later this year, and now we may have some idea of what it will look like. Leaker and journali...",
+      "publishedAt": "2026-04-27T14:00:00.000Z",
+      "summary": "Today, I’m talking with Jennifer Scanlon, who is the CEO of UL Solutions. That’s Underwriters Laboratories – you know, the UL logo listed on all your electronics? That symbol me...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
