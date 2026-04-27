@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-26T03:34:57.826Z",
+  "updatedAt": "2026-04-27T03:38:54.596Z",
   "items": [
-    {
-      "id": "caractacus-potts",
-      "quote": "From the ashes of disaster grow the roses of success.",
-      "author": "Caractacus Potts",
-      "context": "Success"
-    },
     {
       "id": "maya-angelou",
       "quote": "You can't use up creativity. The more you use, the more you have.",
@@ -30,6 +24,12 @@
       "quote": "The world is before you and you need not take it or leave it as it was when you came in.",
       "author": "James Baldwin",
       "context": "Change"
+    },
+    {
+      "id": "ursula-le-guin",
+      "quote": "It is good to have an end to journey toward; but it is the journey that matters, in the end.",
+      "author": "Ursula K. Le Guin",
+      "context": "Motion"
     }
   ]
 }
