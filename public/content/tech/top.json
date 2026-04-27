@@ -1,45 +1,65 @@
 {
-  "updatedAt": "2026-04-27T08:05:47.221Z",
+  "updatedAt": "2026-04-27T10:53:16.267Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-openai-developing-custom-chips-with-mediatek-qua-88eeccdb02",
-      "title": "OpenAI Developing Custom Chips With MediaTek, Qualcomm for ‘AI Agent’ Smartphones: Ming-Chi Kuo",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/ai/news/openai-custom-smartphone-chipset-mediatek-qualcomm-ai-agent-smartphones-ming-chi-kuo-11414469",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T07:51:45.000Z",
-      "summary": "OpenAI is said to be moving towards building new custom processors for smartphones. According to an analyst, the San Francisco-based artificial intelligence (AI) company has par...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-russian-hackers-used-signal-app-to-deceive-targe-6cfbc525fc",
-      "title": "Russian hackers used Signal app to deceive targets, German officials say",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/russian-hackers-used-signal-app-to-deceive-targets-german-officials-say/article70911208.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T07:50:45.000Z",
-      "summary": "Multiple warnings have already been issued regarding Russia-linked hackers and espionage agents using platforms such as Signal, Telegram, and WhatsApp for operations",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-capital-a-raises-rs-160-cr-in-first-close-of-fun-33a43961fc",
-      "title": "Capital-A raises Rs 160 Cr in first close of Fund II",
+      "id": "tech-jamtara-was-the-trailer-the-real-story-is-ai-pow-3e3966bd87",
+      "title": "Jamtara was the trailer; the real story is AI-powered fraud",
       "source": "YourStory",
-      "url": "https://yourstory.com/2026/04/capitala-raises-rs-160-cr-first-close-fund-ii",
+      "url": "https://yourstory.com/2026/04/jamtara-was-just-the-trailer-fraud-runs-on-ai-now",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T06:36:00.000Z",
-      "summary": "The fund, which focuses on manufacturing startups, is targeting a total base corpus of Rs 300 crore, with a greenshoe option to selectively upsize to Rs 400 crore.",
+      "publishedAt": "2026-04-27T10:19:00.000Z",
+      "summary": "As digital lending scales in India, fraud is no longer a downstream risk. AI-powered synthetic identities are forcing lenders to rethink underwriting itself.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-truecaller-faces-mounting-pressures-as-its-growt-36ae5223d3",
-      "title": "Truecaller faces mounting pressures as its growth matures",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures",
+      "id": "tech-what-is-ethernet-everything-you-need-to-know-abo-455a439fa5",
+      "title": "What Is Ethernet? Everything You Need to Know About Wired Networks",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/what-is-ethernet",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T03:00:00.000Z",
-      "summary": "As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India.",
+      "publishedAt": "2026-04-27T10:18:00.000Z",
+      "summary": "Ethernet delivers stable, speedy, secure wired connections to the internet and between devices.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-this-touchscreen-mouse-is-my-over-engineering-ni-2d9f4e07c7",
+      "title": "This touchscreen mouse is my over-engineering nightmare",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T10:10:30.000Z",
+      "summary": "Turtle Beach's latest collection of PC peripherals are so focused around touchscreen displays that the company even slapped one on a gaming mouse. The $160 wireless Command Seri...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-inks-deal-for-solar-power-at-night-beamed-f-9a0b3a49c9",
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-100-000-experiment-what-happens-when-an-ai-a-435e359a55",
+      "title": "The $100,000 Experiment: What Happens When an AI Agent Manages a Store with Its Own Credit Card?",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/features/ai-store-andon-market-luna-ceo-hiring-staff-100000-dollars-credit-card-san-francisco-details-11414916",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T09:44:48.000Z",
+      "summary": "The world’s first artificial intelligence (AI) store, which is entirely designed, managed, and run by an AI agent, is here. A San Francisco-based startup, Andon Labs, designed a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-china-blocks-meta-s-acquisition-of-ai-firm-manus-47326128fc",
+      "title": "China blocks Meta's acquisition of AI firm Manus, says state planner",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/china-blocks-metas-acquisition-of-ai-firm-manus-says-state-planner/article70911356.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T09:07:04.000Z",
+      "summary": "China has blocked Meta’s acquisition of AI startup Manus, the country’s top economic planning body said",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -63,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-s-new-gradient-icon-design-is-coming-to-m-ba648310d7",
-      "title": "Google’s new gradient icon design is coming to more apps",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
-      "tag": "Technology",
-      "publishedAt": "2026-04-26T18:34:26.000Z",
-      "summary": "In late 2025, Google started rolling out new icons with a gradient design. Now it seems the new look is coming to the rest of Google's apps. 9to5Google got its hands on images o...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-staged-conspiracy-theories-are-everywhere-follow-8720c49b1d",
-      "title": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents’ Dinner Shooting",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting",
-      "tag": "Technology",
-      "publishedAt": "2026-04-26T14:43:47.000Z",
-      "summary": "The word “staged” exploded on social media following the attack, as both right- and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-i-brought-my-husband-back-for-his-funeral-as-a-h-653ce9ff85",
       "title": "I brought my husband back for his funeral as a hologram",
       "source": "BBC Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-oneplus-nord-ce-6-lite-price-range-chipset-and-o-70fa0f6961",
-      "title": "OnePlus Nord CE 6 Lite Price Range, Chipset and Other Key Specifications Revealed as India Launch Draws Near",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/oneplus-nord-ce-6-lite-price-in-india-chipset-battery-revealed-specifications-features-11414459",
+      "id": "tech-here-s-how-much-san-francisco-tech-companies-pay-941b73b4ee",
+      "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T07:50:09.000Z",
-      "summary": "OnePlus Nord CE 6 Lite will be launched in India on May 7 with a MediaTek Dimensity 7400 Apex chipset, the smartphone maker revealed on Monday. The handset will also be equipped...",
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "summary": "A recent attack on Sam Altman’s home and OpenAI offices has put corporate security under renewed scrutiny. Records reveal how much some tech firms spend to arm up.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bitcoin-trades-near-78-000-as-etf-inflows-and-ma-0dc6550b3b",
-      "title": "Bitcoin Trades Near $78,000 as ETF Inflows and Macro Optimism Support Stabilising Cryptocurrency Prices",
+      "id": "tech-xchat-launched-for-iphone-ipad-what-is-it-key-fe-15691da952",
+      "title": "XChat Launched for iPhone, iPad: What is It, Key Features and How the App Works",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-trades-near-usd-78000-as-etf-inflows-and-macro-optimism-support-prices-bitcoin-ethereum-btc-eth-crypto-prices-11414423",
+      "url": "https://www.gadgets360.com/apps/features/xchat-launched-for-iphone-ipad-what-is-it-how-it-works-and-top-features-11414934",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T07:41:27.000Z",
-      "summary": "Bitcoin traded near $78,000 on Monday as steady ETF inflows and improving macro sentiment supported prices. Analysts say the market remains near key resistance, with $80,000 eme...",
+      "publishedAt": "2026-04-27T09:41:10.000Z",
+      "summary": "Elon Musk’s X has expanded its portfolio of apps with the launch of XChat. Currently available on iPhone and iPad, it is a standalone messaging app that builds on existing X net...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
