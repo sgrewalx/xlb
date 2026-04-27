@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-04-27T21:46:13.895Z",
+  "updatedAt": "2026-04-27T22:40:53.231Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-open-source-package-with-1-million-monthly-downl-4affdfdf7c",
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T21:04:03.000Z",
+      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-canonical-lays-out-a-plan-for-ai-in-ubuntu-linux-23548c04f3",
       "title": "Canonical lays out a plan for AI in Ubuntu Linux",
@@ -10,16 +20,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-27T20:47:45.000Z",
       "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, share...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-musk-and-altman-face-off-in-trial-that-will-dete-7da55c4694",
-      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T20:45:18.000Z",
-      "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-musk-and-altman-face-off-in-trial-that-will-dete-7da55c4694",
+      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T20:45:18.000Z",
+      "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-openai-ends-its-exclusive-partnership-with-micro-c92d184aff",
       "title": "OpenAI ends its exclusive partnership with Microsoft",
       "source": "Ars Technica",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-27T20:10:11.000Z",
       "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-elon-musk-boosts-new-yorker-s-sam-altman-expos-o-ef411c3649",
-      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T20:08:51.000Z",
-      "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
