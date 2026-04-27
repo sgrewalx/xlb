@@ -1,9 +1,9 @@
 {
-  "assessedAt": "2026-04-14T05:29:54.958Z",
+  "assessedAt": "2026-04-27T06:07:26.860Z",
   "status": "cold-start",
   "isAutoDeployEligible": false,
   "streaks": {
-    "healthySource": 4,
+    "healthySource": 5,
     "analyticsCoverage": 0,
     "autonomyEligible": 0
   },
@@ -13,6 +13,13 @@
     "minimumAutonomyStreak": 3
   },
   "recentRuns": [
+    {
+      "assessedAt": "2026-04-27T06:07:26.860Z",
+      "sourceHealthy": true,
+      "hasRealAnalyticsCoverage": false,
+      "coldStartOverrideEligible": false,
+      "eligibleForAutoDeployNow": false
+    },
     {
       "assessedAt": "2026-04-14T05:29:54.958Z",
       "sourceHealthy": true,
@@ -99,13 +106,6 @@
     },
     {
       "assessedAt": "2026-03-28T03:44:13.472Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-03-28T03:37:45.474Z",
       "sourceHealthy": true,
       "hasRealAnalyticsCoverage": false,
       "coldStartOverrideEligible": false,
