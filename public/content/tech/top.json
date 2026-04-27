@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-04-27T10:53:16.267Z",
+  "updatedAt": "2026-04-27T12:16:17.098Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-jamtara-was-the-trailer-the-real-story-is-ai-pow-3e3966bd87",
-      "title": "Jamtara was the trailer; the real story is AI-powered fraud",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/04/jamtara-was-just-the-trailer-fraud-runs-on-ai-now",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T10:19:00.000Z",
-      "summary": "As digital lending scales in India, fraud is no longer a downstream risk. AI-powered synthetic identities are forcing lenders to rethink underwriting itself.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-what-is-ethernet-everything-you-need-to-know-abo-455a439fa5",
-      "title": "What Is Ethernet? Everything You Need to Know About Wired Networks",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/what-is-ethernet",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T10:18:00.000Z",
-      "summary": "Ethernet delivers stable, speedy, secure wired connections to the internet and between devices.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-this-touchscreen-mouse-is-my-over-engineering-ni-2d9f4e07c7",
-      "title": "This touchscreen mouse is my over-engineering nightmare",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T10:10:30.000Z",
-      "summary": "Turtle Beach's latest collection of PC peripherals are so focused around touchscreen displays that the company even slapped one on a gaming mouse. The $160 wireless Command Seri...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-inks-deal-for-solar-power-at-night-beamed-f-9a0b3a49c9",
-      "title": "Meta inks deal for solar power at night, beamed from space",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T10:00:00.000Z",
-      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-100-000-experiment-what-happens-when-an-ai-a-435e359a55",
-      "title": "The $100,000 Experiment: What Happens When an AI Agent Manages a Store with Its Own Credit Card?",
+      "id": "tech-meta-ai-business-assistant-expanded-to-global-ma-3638f92228",
+      "title": "Meta AI Business Assistant Expanded to Global Markets, to Let Advertisers Optimise Marketing Campaigns",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/ai/features/ai-store-andon-market-luna-ceo-hiring-staff-100000-dollars-credit-card-san-francisco-details-11414916",
+      "url": "https://www.gadgets360.com/ai/news/meta-ai-business-assistant-expansion-major-global-markets-conversational-tool-marketing-campaign-optimisation-11415691",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T09:44:48.000Z",
-      "summary": "The world’s first artificial intelligence (AI) store, which is entirely designed, managed, and run by an AI agent, is here. A San Francisco-based startup, Andon Labs, designed a...",
+      "publishedAt": "2026-04-27T12:05:01.000Z",
+      "summary": "Meta is now expanding its artificial intelligence (AI) tool for marketing campaigns to major global markets. Dubbed the Meta AI Business Assistant, it is a conversational AI pla...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-govee-s-multicolor-ceiling-light-doubles-as-a-lo-20cb7a2353",
+      "title": "Govee’s multicolor ceiling light doubles as a low-res screen",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T12:00:00.000Z",
+      "summary": "The smart lighting company is having a busy month. After releasing its first solar-powered lights, a cordless table lamp, and an updated LED light wall over the past few weeks,...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spotify-s-next-frontier-fitness-content-4c60ff4822",
+      "title": "Spotify’s next frontier: fitness content",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T12:00:00.000Z",
+      "summary": "Spotify is adding fitness as its next major category, launching workout videos, playlists, and Peloton classes inside the app for free and Premium users.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ford-s-mustang-cobra-jet-sets-a-new-ev-quarter-m-da7061b568",
+      "title": "Ford's Mustang Cobra Jet sets a new EV quarter mile record at 6.87 seconds",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/transportation/evs/fords-mustang-cobra-jet-sets-a-new-ev-quarter-mile-record-at-687-seconds-112259793.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T11:22:59.000Z",
+      "summary": "Ford Racing's Mustang Cobra Jet 2200 just ran a quarter mile in 6.87 seconds at 221 mph at an NHRA event in Charlotte, setting a new world record for an EV. The run smashed Ford...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-best-iphone-charger-cable-wireless-magsafe-and-m-628292823a",
+      "title": "Best iPhone Charger: Cable, Wireless, MagSafe, and More",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-iphone-charger",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T11:08:00.000Z",
+      "summary": "Whether you’re a Screen Time champion or you’re constantly on Low Power Mode, we found an iPhone charger perfect for you.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-metasports-interactive-raises-20m-from-metica-un-bd5954afe0",
+      "title": "Metasports Interactive raises $20M from Metica under UA model",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/04/funding-metasports-interactive-20-million-metica-ua-model",
+      "tag": "Cricket",
+      "publishedAt": "2026-04-27T10:50:57.000Z",
+      "summary": "Metasports said the funds will support the growth of its flagship multiplayer cricket game, Hitwicket, while also boosting marketing efforts and user acquisition.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meet-the-players-who-lost-big-money-on-peter-mol-3f799871a8",
+      "title": "Meet the players who lost big money on Peter Molyneux’s failed Legacy",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux",
+      "tag": "Technology",
+      "publishedAt": "2026-04-27T10:45:31.000Z",
+      "summary": "After millions in NFT sales, the hyped “play to earn” game was effectively dead in weeks.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,26 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-27T09:07:04.000Z",
       "summary": "China has blocked Meta’s acquisition of AI startup Manus, the country’s top economic planning body said",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-forced-windows-updates-can-now-be-paused-forever-673d51b6f1",
-      "title": "Forced Windows updates can now be paused forever",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/computing/forced-windows-updates-can-now-be-paused-forever-200338487.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-26T20:03:39.000Z",
-      "summary": "No more getting caught by a forced Windows 11 update while you're in the middle of a meeting or a match. Microsoft announced some major changes coming to Windows Update on its b...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-strange-new-worlds-s4-teaser-strikes-a-more-seri-c1c37a5f83",
-      "title": "Strange New Worlds S4 teaser strikes a more serious tone",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone",
-      "tag": "Technology",
-      "publishedAt": "2026-04-26T19:52:22.000Z",
-      "summary": "\"I have ever been prone to seek adventure and to investigate where wiser men would have left well enough alone.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-here-s-how-much-san-francisco-tech-companies-pay-941b73b4ee",
-      "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T10:00:00.000Z",
-      "summary": "A recent attack on Sam Altman’s home and OpenAI offices has put corporate security under renewed scrutiny. Records reveal how much some tech firms spend to arm up.",
+      "id": "tech-spotify-is-partnering-with-peloton-for-guided-wo-28092bfca9",
+      "title": "Spotify is partnering with Peloton for guided workouts",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
+      "tag": "Running",
+      "publishedAt": "2026-04-27T12:00:00.000Z",
+      "summary": "Spotify has dabbled in customized running playlists, but now it's diving more firmly into the fitness space with curated playlists and content from creators like Yoga with Kassa...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-xchat-launched-for-iphone-ipad-what-is-it-key-fe-15691da952",
-      "title": "XChat Launched for iPhone, iPad: What is It, Key Features and How the App Works",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/apps/features/xchat-launched-for-iphone-ipad-what-is-it-how-it-works-and-top-features-11414934",
+      "id": "tech-is-this-samsung-s-upcoming-wide-foldable-68e9a86c71",
+      "title": "Is this Samsung’s upcoming wide foldable?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T09:41:10.000Z",
-      "summary": "Elon Musk’s X has expanded its portfolio of apps with the launch of XChat. Currently available on iPhone and iPad, it is a standalone messaging app that builds on existing X net...",
+      "publishedAt": "2026-04-27T11:52:18.000Z",
+      "summary": "The wide foldable phone that Samsung is reportedly developing is expected to arrive later this year, and now we may have some idea of what it will look like. Leaker and journali...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
