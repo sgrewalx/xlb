@@ -1,0 +1,93 @@
+{
+  "capturedAt": "2026-04-27T06:00:00.000Z",
+  "window": {
+    "start": "2026-04-20T00:00:00.000Z",
+    "end": "2026-04-27T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": false,
+    "ga4": true,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/tech",
+      "pageviews": 5,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 71,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/news",
+      "pageviews": 4,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 72,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/sports",
+      "pageviews": 4,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 71,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/video",
+      "pageviews": 4,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 71,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/",
+      "pageviews": 2,
+      "visits": 2,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 73,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 2,
+      "visits": 1,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 71,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    }
+  ]
+}
