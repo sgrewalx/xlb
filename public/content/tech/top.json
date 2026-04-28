@@ -1,35 +1,45 @@
 {
-  "updatedAt": "2026-04-28T17:30:20.666Z",
+  "updatedAt": "2026-04-28T19:20:01.087Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-games-done-quick-will-host-its-first-ever-event--4940ba490c",
-      "title": "Games Done Quick will host its first ever event in Europe",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/gaming/games-done-quick-will-host-its-first-ever-event-in-europe-170637194.html?src=rss",
-      "tag": "Running",
-      "publishedAt": "2026-04-28T17:06:38.000Z",
-      "summary": "Games Done Quick, the charity video game speedrunning series, is making its European debut in a live event at Germany’s Gamescom this summer. GDQ’s marathon event will run for t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-tv-s-new-horror-series-is-scarier-because--eeeaf4c810",
-      "title": "Apple TV’s new horror series is scarier because it’s also hilarious",
+      "id": "tech-elon-musk-takes-the-stand-in-high-profile-trial--c86195f624",
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
       "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T17:00:13.000Z",
-      "summary": "Kate O'Flynn views comedy and horror as \"kind of the same thing.\" Both are at their best when they surprise - a laugh or a scare that comes out of nowhere hits the hardest. That...",
+      "publishedAt": "2026-04-28T19:00:13.000Z",
+      "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding te...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-us-supreme-court-appears-split-over-controversia-3015ee0117",
-      "title": "US Supreme Court appears split over controversial use of ‘geofence’ search warrants",
+      "id": "tech-amazon-launches-an-ai-powered-audio-q-a-experien-8d692bfe8e",
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T16:18:08.000Z",
-      "summary": "The U.S. top court is expected to rule on whether to allow police to identify criminal suspects by dragnet searching the databases of tech giants.",
+      "publishedAt": "2026-04-28T18:49:54.000Z",
+      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-it-s-undignified-hundreds-of-workers-training-me-f64bee2447",
+      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T18:36:47.000Z",
+      "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nvidia-starts-offering-a-12gb-version-of-the-507-e0918596e2",
+      "title": "NVIDIA starts offering a 12GB version of the 5070 for laptops",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/computing/laptops/nvidia-starts-offering-a-12gb-version-of-the-5070-for-laptops-180057515.html?src=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T18:00:57.000Z",
+      "summary": "NVIDIA is releasing a new variant of its 5070 GPU for laptops. Nestled in a blog post about the latest version of its Game Ready Drivers, the company notes its partners will soo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-28T15:38:09.000Z",
       "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-uae-to-exit-opec-after-nearly-60-years-1516368085",
-      "title": "UAE to Exit OPEC After Nearly 60 Years",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T15:00:35.000Z",
-      "summary": "On May 1, the United Arab Emirates will end its a 59-year membership in the oil consortium, allowing it to raise output during one of the most volatile energy markets in years.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-latest-kindle-paperwhite-drops-to-its-best-p-d200310caa",
-      "title": "The latest Kindle Paperwhite drops to its best price all year",
+      "id": "tech-you-can-get-dragged-into-a-police-investigation--630406680e",
+      "title": "You can get dragged into a police investigation by proximity alone — for now",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale",
+      "url": "https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T16:59:13.000Z",
-      "summary": "Mother’s Day is coming up, and if you’re looking for a present, we recently published our gift guide with a range of ideas. One of those recommendations is the $109.99 entry-lev...",
+      "publishedAt": "2026-04-28T18:45:00.000Z",
+      "summary": "A years-old bank heist may soon have major privacy implications for every American who owns a cellphone. On Monday, the Supreme Court heard arguments in Chatrie v. United States...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-claude-can-now-plug-directly-into-photoshop-blen-7530873150",
-      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+      "id": "tech-google-home-makes-it-easier-to-understand-why-de-65dbb1120b",
+      "title": "Google Home makes it easier to understand why devices aren’t working",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "url": "https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T16:49:08.000Z",
-      "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender,...",
+      "publishedAt": "2026-04-28T18:31:08.000Z",
+      "summary": "Thanks to Google Home's latest update, users may be able to get offline devices working again with less troubleshooting. Now, whenever a device goes offline, users may get \"inst...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
