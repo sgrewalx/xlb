@@ -9,6 +9,7 @@ const SECTION_NAME = "Top 3 Video";
 const EXPANDED_SECTION_NAME = "Expanded Video";
 const TOP3_COUNT = 3;
 const EXPANDED_COUNT = 12;
+const MAX_VIDEO_AGE_DAYS = 14;
 
 const VIDEO_FEEDS = [
   {
@@ -137,6 +138,11 @@ function getEmbedUrl(url) {
       if (videoId) {
         return `https://www.youtube.com/embed/${videoId}?rel=0`;
       }
+
+      const shortsId = pathname.match(/^\/shorts\/([^/?#]+)/)?.[1];
+      if (shortsId) {
+        return `https://www.youtube.com/embed/${shortsId}?rel=0`;
+      }
     }
 
     if (hostname.includes("youtu.be")) {
@@ -171,9 +177,9 @@ function selectTopArticles(articles, count) {
   const seenUrls = new Set();
   const seenTitles = new Set();
 
-  const ranked = [...articles].sort(
-    (left, right) => Date.parse(right.publishedAt) - Date.parse(left.publishedAt),
-  );
+  const ranked = [...articles]
+    .filter(isFreshVideo)
+    .sort((left, right) => Date.parse(right.publishedAt) - Date.parse(left.publishedAt));
 
   for (const article of ranked) {
     const normalizedTitle = article.title.toLowerCase();
@@ -206,6 +212,20 @@ function selectTopArticles(articles, count) {
   }
 
   return deduped;
+}
+
+function isFreshVideo(article) {
+  const publishedAt = Date.parse(article.publishedAt);
+
+  if (!Number.isFinite(publishedAt)) {
+    return false;
+  }
+
+  const now = Date.now();
+  const maxFutureSkew = 6 * 60 * 60 * 1000;
+  const maxAge = MAX_VIDEO_AGE_DAYS * 24 * 60 * 60 * 1000;
+
+  return publishedAt <= now + maxFutureSkew && now - publishedAt <= maxAge;
 }
 
 function addArticle(article, deduped, seenUrls, seenTitles) {
@@ -259,14 +279,18 @@ async function run() {
     const fallbackItems = [];
 
     if (existingTop3?.items?.length) {
-      fallbackItems.push(...existingTop3.items);
+      fallbackItems.push(...existingTop3.items.filter(isFreshVideo));
     }
 
     if (existingExpanded?.items?.length) {
-      fallbackItems.push(...existingExpanded.items);
+      fallbackItems.push(...existingExpanded.items.filter(isFreshVideo));
     }
 
     top3 = mergeFallbackItems(top3, fallbackItems, TOP3_COUNT);
+  }
+
+  if (top3.length < TOP3_COUNT) {
+    throw new Error(`Expected at least ${TOP3_COUNT} fresh videos, received ${top3.length}`);
   }
 
   if (expanded.length < TOP3_COUNT) {

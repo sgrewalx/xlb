@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import { LiveEventFeed } from "../components/LiveEventFeed";
 import { Seo } from "../components/Seo";
 import { useContent } from "../hooks/useContent";
 import { trackOutboundClick } from "../lib/analytics";
@@ -227,6 +228,8 @@ export function EventPage() {
           </div>
         </aside>
       </section>
+
+      <LiveEventFeed item={item} />
 
       <section className="section-block">
         <div className="event-columns">

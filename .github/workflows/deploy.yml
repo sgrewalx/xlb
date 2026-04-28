@@ -8,6 +8,15 @@ on:
         required: true
         default: false
         type: boolean
+  workflow_run:
+    workflows:
+      - Refresh News
+      - Refresh Sports
+      - Refresh Tech
+      - Refresh Video
+      - Refresh Quotes
+    types:
+      - completed
   push:
     branches:
       - main
@@ -26,6 +35,14 @@ env:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: >-
+      ${{
+        github.event_name != 'workflow_run' ||
+        (
+          github.event.workflow_run.conclusion == 'success' &&
+          github.event.workflow_run.head_branch == 'main'
+        )
+      }}
 
     steps:
       - name: Checkout

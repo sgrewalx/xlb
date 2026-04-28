@@ -1952,6 +1952,59 @@ img {
   background: rgba(18, 34, 57, 0.92);
 }
 
+.live-feed-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.live-feed-header h2 {
+  margin: 0;
+  font-size: clamp(1.7rem, 3vw, 2.6rem);
+}
+
+.live-feed-panel {
+  display: grid;
+  grid-template-columns: minmax(240px, 0.42fr) minmax(0, 1fr);
+  gap: 16px;
+}
+
+.live-feed-summary,
+.live-feed-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.live-feed-row {
+  display: grid;
+  grid-template-columns: 90px minmax(0, 1fr) 160px;
+  gap: 14px;
+  align-items: center;
+  min-height: 58px;
+  padding: 14px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.035);
+}
+
+.live-feed-row span {
+  color: #7cf6d4;
+  font-weight: 800;
+}
+
+.live-feed-row strong {
+  overflow-wrap: anywhere;
+}
+
+.live-feed-row time {
+  color: var(--muted);
+  font-size: 0.9rem;
+  text-align: right;
+}
+
 .static-card {
   min-height: 220px;
 }
@@ -2072,6 +2125,7 @@ img {
   .site-footer,
   .sudoku-toolbar,
   .sudoku-footer,
+  .live-feed-header,
   .event-columns,
   .topic-summary-grid,
   .earthquake-footer,
@@ -2085,8 +2139,18 @@ img {
   }
 
   .event-fact-grid,
+  .live-feed-panel,
   .live-event-meta {
     grid-template-columns: 1fr;
+  }
+
+  .live-feed-row {
+    grid-template-columns: 76px minmax(0, 1fr);
+  }
+
+  .live-feed-row time {
+    grid-column: 2;
+    text-align: left;
   }
 
   .live-page-hero-rail {

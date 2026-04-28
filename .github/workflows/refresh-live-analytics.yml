@@ -122,9 +122,10 @@ jobs:
       - name: Create automation branch
         if: steps.changes.outputs.changed == 'true'
         run: |
-          BRANCH_NAME="automation/live-refresh-${XLB_SNAPSHOT_DATE}-${GITHUB_RUN_ID}"
+          BRANCH_NAME="automation/live-refresh"
           echo "BRANCH_NAME=${BRANCH_NAME}" >> "$GITHUB_ENV"
-          git checkout -b "${BRANCH_NAME}"
+          git fetch origin "${BRANCH_NAME}" || true
+          git checkout -B "${BRANCH_NAME}"
 
       - name: Commit analytics refresh
         if: steps.changes.outputs.changed == 'true'
@@ -134,7 +135,7 @@ jobs:
 
       - name: Push automation branch
         if: steps.changes.outputs.changed == 'true'
-        run: git push origin HEAD:"${BRANCH_NAME}"
+        run: git push --force-with-lease origin HEAD:"${BRANCH_NAME}"
 
       - name: Create or update pull request for review
         if: steps.changes.outputs.changed == 'true'
@@ -150,7 +151,7 @@ jobs:
 
             See the workflow summary for the latest source health, deploy readiness, and top event decisions.
 
-            This workflow now routes live-event inventory changes through PR review instead of pushing directly to `main`.
+            This workflow routes live-event inventory changes through one rolling PR review branch instead of creating a new branch every day.
           EOF
 
           if gh pr view "${BRANCH_NAME}" --repo "${GITHUB_REPOSITORY}" >/dev/null 2>&1; then
