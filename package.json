@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run generate:sitemap && tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build",
+    "build": "npm run generate:sitemap && tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build && node scripts/generate-route-documents.mjs",
     "generate:sitemap": "node scripts/generate-sitemap.mjs",
     "test": "node --test automation/**/*.test.mjs",
     "preview": "vite preview",

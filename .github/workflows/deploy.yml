@@ -117,8 +117,18 @@ jobs:
             --exclude "content/*" \
             --cache-control "public,max-age=60,must-revalidate"
 
+      - name: Upload route documents as HTML
+        run: |
+          node -e "const fs = require('fs'); for (const route of JSON.parse(fs.readFileSync('dist/route-documents.json', 'utf8'))) console.log(route.replace(/^\\/+/, ''))" |
+          while IFS= read -r key; do
+            aws s3 cp "dist/index.html" "s3://${SITE_BUCKET}/${key}" \
+              --cache-control "public,max-age=60,must-revalidate" \
+              --content-type "text/html" \
+              --metadata-directive REPLACE
+          done
+
       - name: Invalidate CloudFront
         run: |
           aws cloudfront create-invalidation \
             --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" \
-            --paths "/" "/index.html" "/content/*"
+            --paths "/*"

@@ -15,7 +15,15 @@ interface EarthquakeResponse {
   features: EarthquakeFeature[];
 }
 
-type SpaceWeatherRow = [string, string, string, string] | string[];
+type SpaceWeatherEntry =
+  | {
+      time_tag: string;
+      Kp: number;
+      a_running?: number;
+      station_count?: number;
+    }
+  | [string, string, string, string]
+  | string[];
 
 type FeedState<T> = {
   data: T | null;
@@ -24,6 +32,12 @@ type FeedState<T> = {
 };
 
 function formatTime(value: number | string) {
+  const date = new Date(value);
+
+  if (Number.isNaN(date.valueOf())) {
+    return "Time pending";
+  }
+
   return new Intl.DateTimeFormat("en", {
     hour: "2-digit",
     minute: "2-digit",
@@ -31,7 +45,7 @@ function formatTime(value: number | string) {
     day: "numeric",
     timeZone: "UTC",
     timeZoneName: "short",
-  }).format(new Date(value));
+  }).format(date);
 }
 
 function useLiveJson<T>(url: string | null) {
@@ -144,10 +158,20 @@ function EarthquakeLiveFeed() {
 }
 
 function SpaceWeatherLiveFeed() {
-  const feed = useLiveJson<SpaceWeatherRow[]>(
+  const feed = useLiveJson<SpaceWeatherEntry[]>(
     "https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json",
   );
-  const rows = useMemo(() => (feed.data ?? []).slice(1).slice(-8).reverse(), [feed.data]);
+  const rows = useMemo(
+    () =>
+      (feed.data ?? [])
+        .map(normalizeSpaceWeatherEntry)
+        .filter((entry): entry is NonNullable<ReturnType<typeof normalizeSpaceWeatherEntry>> =>
+          Boolean(entry),
+        )
+        .slice(-8)
+        .reverse(),
+    [feed.data],
+  );
   const latest = rows[0];
 
   return (
@@ -155,26 +179,51 @@ function SpaceWeatherLiveFeed() {
       <div className="live-feed-summary">
         <div className="signal-panel signal-panel-accent">
           <span>Current Kp</span>
-          <strong>{latest?.[1] ?? "..."}</strong>
+          <strong>{latest?.kp ?? "..."}</strong>
         </div>
         <div className="signal-panel">
           <span>Observed</span>
-          <strong>{latest?.[0] ? formatTime(latest[0]) : "..."}</strong>
+          <strong>{latest?.time ? formatTime(latest.time) : "..."}</strong>
         </div>
       </div>
       <div className="live-feed-list">
         {feed.loading ? <p className="muted">Loading NOAA K-index observations...</p> : null}
         {feed.error ? <p className="muted">Live NOAA feed unavailable: {feed.error}</p> : null}
         {rows.map((row) => (
-          <div className="live-feed-row" key={row[0]}>
-            <span>Kp {row[1]}</span>
-            <strong>{row[2] || "Geomagnetic observation"}</strong>
-            <time>{formatTime(row[0])}</time>
+          <div className="live-feed-row" key={row.time}>
+            <span>Kp {row.kp}</span>
+            <strong>{row.label}</strong>
+            <time>{formatTime(row.time)}</time>
           </div>
         ))}
       </div>
     </div>
   );
+}
+
+function normalizeSpaceWeatherEntry(entry: SpaceWeatherEntry) {
+  if (Array.isArray(entry)) {
+    const [time, kp, label] = entry;
+    if (!time || !kp || time === "time_tag") {
+      return null;
+    }
+
+    return {
+      time,
+      kp,
+      label: label || "Geomagnetic observation",
+    };
+  }
+
+  if (!entry.time_tag || typeof entry.Kp !== "number") {
+    return null;
+  }
+
+  return {
+    time: entry.time_tag,
+    kp: entry.Kp.toFixed(2).replace(/\.?0+$/, ""),
+    label: `${entry.station_count ?? "Multiple"} stations reporting`,
+  };
 }
 
 export function LiveEventFeed({ item }: { item: LiveEventItem }) {
