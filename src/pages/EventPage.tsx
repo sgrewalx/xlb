@@ -100,6 +100,7 @@ export function EventPage() {
           title="Event not found | XLB"
           description="The requested live event page is not available."
           path="/404"
+          robots="noindex,follow"
         />
         <section className="static-hero">
           <p className="section-eyebrow">Event</p>

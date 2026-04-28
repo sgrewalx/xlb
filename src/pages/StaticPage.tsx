@@ -4,6 +4,7 @@ interface StaticPageProps {
   title: string;
   description: string;
   path: string;
+  robots?: "index,follow" | "noindex,follow";
   eyebrow: string;
   sections: Array<{
     heading: string;
@@ -15,12 +16,13 @@ export function StaticPage({
   title,
   description,
   path,
+  robots,
   eyebrow,
   sections,
 }: StaticPageProps) {
   return (
     <>
-      <Seo title={title} description={description} path={path} />
+      <Seo title={title} description={description} path={path} robots={robots} />
       <section className="static-hero">
         <p className="section-eyebrow">{eyebrow}</p>
         <h1>{title.replace(" | XLB", "")}</h1>

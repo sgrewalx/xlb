@@ -5,6 +5,8 @@ const EVENTS_FILE = new URL("../public/content/live/events.json", import.meta.ur
 const TOPICS_FILE = new URL("../public/content/topics/index.json", import.meta.url);
 const NEWS_FILE = new URL("../public/content/news/top3.json", import.meta.url);
 const SPORTS_FILE = new URL("../public/content/sports/top3.json", import.meta.url);
+const TECH_FILE = new URL("../public/content/tech/top3.json", import.meta.url);
+const VIDEO_FILE = new URL("../public/content/video/top3.json", import.meta.url);
 const QUOTES_FILE = new URL("../public/content/quotes/quotes.json", import.meta.url);
 const XLB_FILE = new URL("../public/content/xlb/top3.json", import.meta.url);
 const OUTPUT_FILE = new URL("../public/sitemap.xml", import.meta.url);
@@ -23,14 +25,18 @@ const staticPaths = [
   "/gallery",
   "/sports",
   "/news",
+  "/tech",
+  "/video",
 ];
 
 async function main() {
-  const [events, topics, news, sports, quotes, xlb] = await Promise.all([
+  const [events, topics, news, sports, tech, video, quotes, xlb] = await Promise.all([
     readJson(EVENTS_FILE),
     readJson(TOPICS_FILE),
     readJson(NEWS_FILE),
     readJson(SPORTS_FILE),
+    readJson(TECH_FILE),
+    readJson(VIDEO_FILE),
     readJson(QUOTES_FILE),
     readJson(XLB_FILE),
   ]);
@@ -39,6 +45,8 @@ async function main() {
     topics.updatedAt,
     news.updatedAt,
     sports.updatedAt,
+    tech.updatedAt,
+    video.updatedAt,
     quotes.updatedAt,
     xlb.updatedAt,
   ]);
@@ -49,6 +57,8 @@ async function main() {
     ["/live/earth", events.updatedAt],
     ["/sports", sports.updatedAt],
     ["/news", news.updatedAt],
+    ["/tech", tech.updatedAt],
+    ["/video", video.updatedAt],
   ]);
 
   const dynamicPaths = [

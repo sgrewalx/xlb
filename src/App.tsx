@@ -289,6 +289,7 @@ function AppChrome() {
                 title="Not found | XLB"
                 description="The page you requested is not available."
                 path="/404"
+                robots="noindex,follow"
                 eyebrow="404"
                 sections={[
                   {

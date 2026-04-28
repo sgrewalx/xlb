@@ -29,7 +29,12 @@ export function TopicPage() {
   if (!topic) {
     return (
       <>
-        <Seo title="Topic not found | XLB" description="The requested topic is not available." path="/404" />
+        <Seo
+          title="Topic not found | XLB"
+          description="The requested topic is not available."
+          path="/404"
+          robots="noindex,follow"
+        />
         <section className="static-hero">
           <p className="section-eyebrow">Topic</p>
           <h1>Topic not found</h1>
