@@ -1,65 +1,75 @@
 {
-  "updatedAt": "2026-04-28T19:20:01.087Z",
+  "updatedAt": "2026-04-28T20:59:14.440Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-elon-musk-takes-the-stand-in-high-profile-trial--c86195f624",
-      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "id": "tech-elon-musk-tells-the-jury-that-all-he-wants-to-do-95f02e83ff",
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T19:00:13.000Z",
-      "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding te...",
+      "publishedAt": "2026-04-28T20:46:54.000Z",
+      "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going thr...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-amazon-launches-an-ai-powered-audio-q-a-experien-8d692bfe8e",
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T18:49:54.000Z",
-      "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-it-s-undignified-hundreds-of-workers-training-me-f64bee2447",
-      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+      "id": "tech-sniffies-users-worry-about-a-straightification-o-ab46ba4a72",
+      "title": "Sniffies’ Users Worry About a ‘Straightification’ of the Gay Hookup App",
       "source": "Wired",
-      "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs",
+      "url": "https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T18:36:47.000Z",
-      "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+      "publishedAt": "2026-04-28T20:25:33.000Z",
+      "summary": "Tinder and Hinge parent company Match Group invested $100 million into the queer cruising app Sniffies. The move has left users feeling uneasy about what happens next.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nvidia-starts-offering-a-12gb-version-of-the-507-e0918596e2",
-      "title": "NVIDIA starts offering a 12GB version of the 5070 for laptops",
+      "id": "tech-texas-instruments-made-a-new-flagship-graphing-c-ad3fbc48a4",
+      "title": "Texas Instruments made a new flagship graphing calculator: the TI-84 Evo",
       "source": "Engadget",
-      "url": "https://www.engadget.com/computing/laptops/nvidia-starts-offering-a-12gb-version-of-the-5070-for-laptops-180057515.html?src=rss",
+      "url": "https://www.engadget.com/mobile/texas-instruments-made-a-new-flagship-graphing-calculator-the-ti-84-evo-201903438.html?src=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T18:00:57.000Z",
-      "summary": "NVIDIA is releasing a new variant of its 5070 GPU for laptops. Nestled in a blog post about the latest version of its Game Ready Drivers, the company notes its partners will soo...",
+      "publishedAt": "2026-04-28T20:19:03.000Z",
+      "summary": "Texas Instruments graphing calculators have helped many a student with algebra, pre-calculus and upside-down anatomical slang. Now, the company is back with an upgrade for the m...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-github-will-start-charging-copilot-users-based-o-c7d82413d4",
-      "title": "GitHub will start charging Copilot users based on their actual AI usage",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage",
+      "id": "tech-union-government-speaking-to-anthropic-about-con-c025e91151",
+      "title": "Union government speaking to Anthropic about concerns over Mythos: top MeitY official",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/union-government-speaking-to-anthropic-about-concerns-over-mythos-topmeityofficial/article70915651.ece",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T15:41:32.000Z",
-      "summary": "GitHub says it can no longer absorb \"escalating inference cost\" from it heaviest AI users.",
+      "publishedAt": "2026-04-28T20:16:01.000Z",
+      "summary": "The impact of artificial intelligence on cybersecurity has emerged as a “very real threat” and it has come up in “very real terms” with the release of Mythos by Anthropic: MeitY...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-sam-altman-and-his-former-hero-elon-musk-are-6596841829",
-      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
+      "id": "tech-amazon-is-already-offering-new-openai-products-o-e5d283d766",
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T19:48:02.000Z",
+      "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-musk-says-basis-of-charitable-giving-at-stake-in-b735bf4c34",
+      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
       "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T15:38:09.000Z",
-      "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+      "publishedAt": "2026-04-28T19:43:02.000Z",
+      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-humanoid-robots-start-sorting-luggage-in-tokyo-a-334510cbd8",
+      "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T18:01:36.000Z",
+      "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-lenovo-launches-idea-tab-pro-gen-2-tablet-with-q-874b23272d",
-      "title": "Lenovo launches Idea Tab Pro Gen 2 tablet with Qualcomm processor",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/lenovo-launches-idea-tab-pro-gen-2-tablet-with-qualcomm-processor/article70915166.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T06:42:49.000Z",
-      "summary": "The tablet comes with quad JBL speakers with Dolby Atmos",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-you-can-get-dragged-into-a-police-investigation--630406680e",
-      "title": "You can get dragged into a police investigation by proximity alone — for now",
+      "id": "tech-taylor-swift-is-stepping-up-the-legal-war-on-ai--f7af7e3a6d",
+      "title": "Taylor Swift is stepping up the legal war on AI copycats",
       "source": "The Verge",
-      "url": "https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T18:45:00.000Z",
-      "summary": "A years-old bank heist may soon have major privacy implications for every American who owns a cellphone. On Monday, the Supreme Court heard arguments in Chatrie v. United States...",
+      "publishedAt": "2026-04-28T20:30:00.000Z",
+      "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copy...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-home-makes-it-easier-to-understand-why-de-65dbb1120b",
-      "title": "Google Home makes it easier to understand why devices aren’t working",
+      "id": "tech-now-youtube-tv-lets-you-multiview-any-channel-yo-9ab6a652f7",
+      "title": "Now YouTube TV lets you multiview any channel you want",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update",
+      "url": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T18:31:08.000Z",
-      "summary": "Thanks to Google Home's latest update, users may be able to get offline devices working again with less troubleshooting. Now, whenever a device goes offline, users may get \"inst...",
+      "publishedAt": "2026-04-28T19:46:19.000Z",
+      "summary": "YouTube CEO Neal Mohan announced Tuesday that YouTube TV is getting \"fully customizable\" multiview. Users have \"full control to mix and match live streams\" and can \"build the pe...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
