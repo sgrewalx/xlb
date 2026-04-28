@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-04-27T23:42:59.199Z",
+  "updatedAt": "2026-04-28T02:00:12.179Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-starfield-ps5-review-bethesda-s-flawed-interstel-f65345870b",
+      "title": "Starfield PS5 Review: Bethesda's Flawed Interstellar RPG Rewards Patience",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/games/reviews/starfield-ps5-review-bethesda-11416335",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T01:30:01.000Z",
+      "summary": "Starfield has finally arrived on PS5, along with a major update that promises to streamline the fragmented space travel experience. There are several other quality-of-life impro...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-some-musk-v-altman-jurors-don-t-like-elon-musk-ed9a7d4418",
+      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T00:39:30.000Z",
+      "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-put-it-in-pencil-nasa-s-artemis-iii-mission-will-5af705579e",
+      "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T00:14:09.000Z",
+      "summary": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-is-testing-ai-chatbot-search-for-youtube-c8f1812f41",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T00:01:54.000Z",
+      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-why-spotify-has-no-button-to-filter-out-ai-music-ab51c9934c",
       "title": "Why Spotify has no button to filter out AI music",
@@ -23,26 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-open-source-package-with-1-million-monthly-downl-4affdfdf7c",
-      "title": "Open source package with 1 million monthly downloads stole user credentials",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T21:04:03.000Z",
-      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-canonical-lays-out-a-plan-for-ai-in-ubuntu-linux-23548c04f3",
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T20:47:45.000Z",
-      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, share...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-letterboxd-the-social-platform-for-film-buffs-re-d89048692d",
       "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
       "source": "TechCrunch",
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-m5-macbook-air-has-never-been-cheaper-05d71d3789",
-      "title": "The M5 MacBook Air Has Never Been Cheaper",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/m5-macbook-air-never-been-cheaper",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T20:27:01.000Z",
-      "summary": "Despite launching less than two months ago, the M5 MacBook Air has dropped back down to its lowest price since launching.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-images-of-samsung-s-rumored-smart-glasses-have-l-8d6c129971",
       "title": "Images of Samsung's rumored smart glasses have leaked",
       "source": "Engadget",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-27T18:41:29.000Z",
       "summary": "Images and details about Samsung's upcoming smart glasses have leaked, according to a report by Android Headlines . We knew these were coming at some point , but we now have wha...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-vivo-y500s-launched-with-7-200mah-battery-50-meg-5d17362ba3",
-      "title": "Vivo Y500s Launched With 7,200mAh Battery, 50-Megapixel Main Camera: Price, Spcifications",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/vivo-y500s-price-launch-availability-specifications-features-11416341",
-      "tag": "Technology",
-      "publishedAt": "2026-04-27T13:54:15.000Z",
-      "summary": "Vivo has launched the Vivo Y500s in China with a focus on battery life and durability. The phone features a 7200mAh battery, a 6.75-inch 120Hz display, and a Snapdragon 4 Gen 2...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-musk-and-altman-face-off-in-trial-that-will-dete-7da55c4694",
-      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+      "id": "tech-open-source-package-with-1-million-monthly-downl-4affdfdf7c",
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future",
+      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T20:45:18.000Z",
-      "summary": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
+      "publishedAt": "2026-04-27T21:04:03.000Z",
+      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-a-tightening-of-the-fist-in-india-s-digital-publ-57e83b4c39",
-      "title": "A tightening of the fist in India’s digital public square",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+      "id": "tech-canonical-lays-out-a-plan-for-ai-in-ubuntu-linux-23548c04f3",
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
       "tag": "Technology",
-      "publishedAt": "2026-04-27T20:42:36.000Z",
-      "summary": "The draft amendments to India’s Information Technology Rules trigger fears of digital overreach and a departure from existing judicial rulings",
+      "publishedAt": "2026-04-27T20:47:45.000Z",
+      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, share...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
