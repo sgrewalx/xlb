@@ -1,25 +1,55 @@
 {
-  "updatedAt": "2026-04-28T15:19:20.175Z",
+  "updatedAt": "2026-04-28T17:30:20.666Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-dji-s-new-mic-mini-2-adds-colorful-covers-to-hel-7712916373",
-      "title": "DJI’s new Mic Mini 2 adds colorful covers to help them blend in",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/919553/dji-mic-mini-2-wireless-microphone-transmitter-magnetic-cover",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T15:04:04.000Z",
-      "summary": "Following the launch of the Osmo Pocket 4 earlier this month, DJI has announced a new version of its smallest wireless microphone system. The DJI Mic Mini 2 doesn't bring a lot...",
+      "id": "tech-games-done-quick-will-host-its-first-ever-event--4940ba490c",
+      "title": "Games Done Quick will host its first ever event in Europe",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/gaming/games-done-quick-will-host-its-first-ever-event-in-europe-170637194.html?src=rss",
+      "tag": "Running",
+      "publishedAt": "2026-04-28T17:06:38.000Z",
+      "summary": "Games Done Quick, the charity video game speedrunning series, is making its European debut in a live event at Germany’s Gamescom this summer. GDQ’s marathon event will run for t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ted-lasso-s-fourth-season-starts-august-5-4d17dc56db",
-      "title": "Ted Lasso’s fourth season starts August 5",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/entertainment/streaming/ted-lassos-fourth-season-starts-august-5-150337209.html?src=rss",
+      "id": "tech-apple-tv-s-new-horror-series-is-scarier-because--eeeaf4c810",
+      "title": "Apple TV’s new horror series is scarier because it’s also hilarious",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T15:03:38.000Z",
-      "summary": "It turns out you can go back again, especially if you win a pile of awards, mint a crop of stars and turn a potentially obscure sitcom into Apple’s biggest hit. The iPhone maker...",
+      "publishedAt": "2026-04-28T17:00:13.000Z",
+      "summary": "Kate O'Flynn views comedy and horror as \"kind of the same thing.\" Both are at their best when they surprise - a laugh or a scare that comes out of nowhere hits the hardest. That...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-supreme-court-appears-split-over-controversia-3015ee0117",
+      "title": "US Supreme Court appears split over controversial use of ‘geofence’ search warrants",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T16:18:08.000Z",
+      "summary": "The U.S. top court is expected to rule on whether to allow police to identify criminal suspects by dragnet searching the databases of tech giants.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-github-will-start-charging-copilot-users-based-o-c7d82413d4",
+      "title": "GitHub will start charging Copilot users based on their actual AI usage",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T15:41:32.000Z",
+      "summary": "GitHub says it can no longer absorb \"escalating inference cost\" from it heaviest AI users.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-why-sam-altman-and-his-former-hero-elon-musk-are-6596841829",
+      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-04-28T15:38:09.000Z",
+      "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-electrical-current-might-be-the-key-to-a-better--a4ca713581",
-      "title": "Electrical current might be the key to a better cup of coffee",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T15:00:11.000Z",
-      "summary": "University of Oregon scientists repurposed battery-testing tool to better measure coffee's flavor profile",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-james-webb-space-telescope-reveals-cosmic-buckyb-4d50a68120",
       "title": "James Webb Space Telescope Reveals Cosmic Buckyballs in Distant Nebula",
       "source": "Gadgets 360",
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-introduces-a-cheaper-option-for-app-store--d7990a8c2b",
-      "title": "Apple introduces a cheaper option for App Store subscriptions",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T14:46:15.000Z",
-      "summary": "Apple is adding a new subscription option that lets app developers offer lower monthly pricing in exchange for a 12-month commitment.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-zomato-parent-eternal-s-revenue-jumps-as-blinkit-1a45e563fa",
       "title": "Zomato parent Eternal’s revenue jumps as Blinkit drives growth",
       "source": "YourStory",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-28T13:01:42.000Z",
       "summary": "The company posted a profit after tax (PAT) of Rs 174 crore for the quarter, up from Rs 39 crore a year earlier and Rs 102 crore in the December quarter, reflecting a steady imp...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-social-media-restrictions-for-under-16s-even-if--a2f4caa58b",
-      "title": "Social media restrictions for under-16s even if no ban, minister says",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T10:46:55.000Z",
-      "summary": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-administration-is-paying-more-companies-to-daead84941",
-      "title": "Trump administration is paying more companies to abandon offshore wind projects",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/science/trump-administration-is-paying-more-companies-to-abandon-offshore-wind-projects-150216769.html?src=rss",
+      "id": "tech-the-latest-kindle-paperwhite-drops-to-its-best-p-d200310caa",
+      "title": "The latest Kindle Paperwhite drops to its best price all year",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T15:02:16.000Z",
-      "summary": "The Trump Administration has signed deals with two major energy companies to abandon their respective offshore wind farms, with both firms agreeing to invest in oil and gas proj...",
+      "publishedAt": "2026-04-28T16:59:13.000Z",
+      "summary": "Mother’s Day is coming up, and if you’re looking for a present, we recently published our gift guide with a range of ideas. One of those recommendations is the $109.99 entry-lev...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-traeger-debuts-the-irontop-a-more-affordable-gas-acb69ffef5",
-      "title": "Traeger debuts the Irontop, a more affordable gas-powered griddle",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/home/kitchen-tech/traeger-debuts-the-irontop-a-more-affordable-gas-powered-griddle-150000759.html?src=rss",
+      "id": "tech-claude-can-now-plug-directly-into-photoshop-blen-7530873150",
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
       "tag": "Technology",
-      "publishedAt": "2026-04-28T15:00:00.000Z",
-      "summary": "Traeger’s first non-pellet grills debuted in 2023. Jumping into the griddle craze, the company introduced the Flatrock series in a three-burner model — later adding the smaller,...",
+      "publishedAt": "2026-04-28T16:49:08.000Z",
+      "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
