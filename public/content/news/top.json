@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-04-29T02:10:39.250Z",
+  "updatedAt": "2026-04-29T05:47:30.490Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-justice-department-claims-james-comey-made-threa-1c368795b7",
-      "title": "Justice department claims James Comey made ‘threat to kill’ Trump as it announces charges against former FBI director – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/28/donald-trump-king-charles-melania-camilla-white-house-congress-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-04-29T02:04:27.000Z",
-      "summary": "Charges appear to stem from photo posted on Comey’s Instagram account last year; former FBI director expresses faith that he will be exonerated at trial Sign up for the Breaking...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-vote-in-record-numbers-pm-modi-appeals-for-high--d9a4c6c17c",
-      "title": "'Vote in record numbers': PM Modi appeals for high voter turnout in phase-2 of West Bengal polls",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/vote-in-record-numbers-pm-modi-appeals-for-high-voter-turnout-in-phase-2-of-west-bengal-polls/articleshow/130593692.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-29T01:54:14.000Z",
-      "summary": "Prime Minister Modi urged record voter turnout for West Bengal's Phase-2 elections, especially from women and youth. Voting commenced across 142 constituencies, a crucial phase...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-west-bengal-assembly-polls-phase-2-live-polling--b7e6d1021c",
-      "title": "West Bengal Assembly polls Phase 2 LIVE: Polling begins for 142 seats",
+      "id": "news-west-bengal-assembly-polls-phase-2-live-approxim-f70673b35f",
+      "title": "West Bengal Assembly polls Phase 2 LIVE: Approximately 18.39% voting recorded till 9 a.m., says ECI",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/thehinducomelectionswest-bengal-assembly-elections-2026-phase-2-voting-bjp-tmc-live-updates-april-29-2026/article70916108.ece",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-elections-2026-phase-2-voting-live-29-april-2026/article70916108.ece",
       "tag": "India",
-      "publishedAt": "2026-04-29T01:45:08.000Z",
-      "summary": "This phase will decide the electoral fate of more than half a dozen Ministers of West Bengal government along with Chief Minister and party chairperson Mamata Banerjee",
+      "publishedAt": "2026-04-29T05:46:32.000Z",
+      "summary": "Incidents of violence and vandalism reported from multiple locations in West Bengal, including Chapra, Shantipur, Nimtala and Bhangar, during the early hours of voting",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mamata-banerjee-vs-suvendu-adhikari-in-focus-as--879badc932",
-      "title": "Mamata Banerjee Vs Suvendu Adhikari In Focus As Bengal Votes In Phase 2 Today",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/west-bengal-election-2026-mamata-banerjee-vs-suvendu-adhikari-in-focus-as-phase-2-voting-today-11422811",
+      "id": "news-australia-news-live-nt-police-urge-public-to-tel-6ba4f8d619",
+      "title": "Australia news live: NT police urge public to ‘tell us where he is’ in search for man who allegedly abducted girl; unleaded fuel at or below pre-Iran war levels in most capitals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-04-29T05:24:36.000Z",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Queensland health minister still has major concerns about Thriving Kids Tim Nicholls , the...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-student-uses-space-cosmic-rays-to-make-photograp-452fd09b97",
+      "title": "Student uses space cosmic rays to make photographs",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c152gpqxkv0o?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-04-29T05:23:12.000Z",
+      "summary": "Blank negative photographic film sealed in a bag is sent to edge of space using a helium balloon.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-australia-moves-to-tax-meta-google-and-tiktok-to-1247a588b4",
+      "title": "Australia moves to tax Meta, Google and TikTok to fund newsrooms",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/29/g-s1-119142/australia-moves-to-tax-meta-google-and-tiktok-to-fund-newsrooms",
+      "tag": "US",
+      "publishedAt": "2026-04-29T05:20:04.000Z",
+      "summary": "Australia is proposing to tax Meta, Google and TikTok a proportion of their revenue to pay for news reporters. The government intends to introduce the draft legislation to Parli...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-gave-clean-chit-to-pakistan-congress-calls-rajna-bc7b04fe0c",
+      "title": "'Gave clean chit to Pakistan': Congress calls Rajnath's SCO meet statement 'anti-national'",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/gave-clean-chit-to-pakistan-congress-calls-rajnaths-sco-meet-statement-anti-national/articleshow/130596681.cms",
       "tag": "India",
-      "publishedAt": "2026-04-29T00:51:34.000Z",
-      "summary": "Round-2 of the BJP versus Mamata Banerjee contest due today is expected to be more riveting than the last phase of the Bengal assembly election. Up for grabs are 142 seats from...",
+      "publishedAt": "2026-04-29T05:18:04.000Z",
+      "summary": "Congress slammed the Centre, accusing it of giving Pakistan a \"clean chit\" after Defence Minister Rajnath Singh stated terrorism lacks nationality or theology. Congress leader J...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-white-house-hails-two-kings-as-king-charles-deli-8d5addacfe",
+      "title": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-29T05:11:42.000Z",
+      "summary": "King Charles III has hailed US-UK ties at a state dinner in the White House.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-dirty-gold-097607f0c3",
+      "title": "Dirty Gold",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/28/world/dirty-gold-mints-opec-king-charles.html",
+      "tag": "US",
+      "publishedAt": "2026-04-29T04:35:15.000Z",
+      "summary": "A Times investigation shows how the U.S. and Canadian mints ended up buying gold that came from a Colombian drug cartel.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-chhattisgarh-board-result-2026-live-cgbse-class--b7385f506c",
+      "title": "Chhattisgarh Board Result 2026 LIVE: CGBSE Class 10, 12 Marksheet Today At 2:30 PM, Download Link Here",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/chhattisgarh-board-result-2026-live-updates-cgbse-chhattisgarh-board-class-10-class-12-result-scorecard-marksheet-download-link-pass-percentage-topper-11423445",
+      "tag": "India",
+      "publishedAt": "2026-04-29T04:26:49.000Z",
+      "summary": "Chhattisgarh Class 10, 12 Result LIVE Updates: CGBSE Chhattisgarh Class 10 and 12 results out today at 2:30 pm. Check official websites, direct link to download your scorecard/m...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,46 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-comey-charged-with-threatening-trump-s-life-in-i-d4dd67aeaa",
-      "title": "Comey charged with threatening Trump's life in Instagram post",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-29T00:24:05.000Z",
-      "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-trump-says-tehran-wants-end-to-blo-5517bfeb12",
-      "title": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-29T00:00:00.000Z",
-      "summary": "US president says Iran has reached out and asked Washington to lift its naval blockade on Iranian ports.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-prime-minister-mark-carney-says-canada-s-economy-90a2de388b",
-      "title": "Prime Minister Mark Carney Says Canada’s Economy Is Expected to Grow and Deficit to Fall",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/28/world/canada/carney-budget-update.html",
-      "tag": "US",
-      "publishedAt": "2026-04-28T22:44:16.000Z",
-      "summary": "Prime Minister Mark Carney’s budget update keeps to his path of diversifying away from the United States.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-king-charles-urges-reconciliation-in-address-to--76f8fdaf23",
-      "title": "King Charles urges 'reconciliation' in address to U.S. Congress amid Trump tensions",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/28/nx-s1-5802803/king-charles-urges-reconciliation-in-address-to-u-s-congress-amid-trump-tensions",
-      "tag": "US",
-      "publishedAt": "2026-04-28T19:53:11.000Z",
-      "summary": "In an address to the U.S. Congress, King Charles told lawmakers that \"time and again, our two countries have always found ways to come together,\" and called for \"reconciliation...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-why-gender-in-research-is-critical-to-india-s-sc-b0bb4d04bc",
       "title": "Why gender in research is critical to India’s science and society",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-news-live-pm-rules-out-new-gas-export--d900ac188f",
-      "title": "Australia news live: PM rules out new gas export tax on existing contracts; major childcare chain to close dozens of centres after abuse scandal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-04-29T02:02:57.000Z",
-      "summary": "Meanwhile King Charles praises ‘ambitious’ Aukus and expresses pride in Australia in speech to US Congress. Follow today’s news live Get our breaking news email , free app or da...",
+      "id": "news-anant-ambani-urges-colombia-to-halt-culling-of-e-e70726f1ea",
+      "title": "Anant Ambani urges Colombia to halt culling of Escobar’s hippos, offers to bring all 80 of them to Vantara",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/anant-ambani-urges-colombia-to-halt-culling-of-escobars-hippos-offers-to-bring-all-80-of-them-to-vantara/article70919119.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-29T05:46:13.000Z",
+      "summary": "Pablo Escobar brought the hippos from Africa in the 1980s, but after his death, the hippos from his private zoo made a new life in the Magdalena River — where they have attacked...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-anthony-albanese-rules-out-gas-export-tax-on-exi-de20ee5d23",
-      "title": "Anthony Albanese rules out gas export tax on existing contracts and criticises ‘populist’ campaign",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/29/anthony-albanese-rules-out-gas-export-tax-australia",
-      "tag": "Europe",
-      "publishedAt": "2026-04-29T02:00:24.000Z",
-      "summary": "Prime minister says the middle of a global fuel crisis is ‘the worst possible time to jeopardise’ Australia’s partnerships with Asian trading partners The prime minister, Anthon...",
+      "id": "news-will-aap-mps-face-disqualification-after-joining-fedc4c8019",
+      "title": "Will AAP MPs face disqualification after joining BJP?",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/will-aap-mps-face-disqualification-after-joining-bjp/article70906320.ece",
+      "tag": "India",
+      "publishedAt": "2026-04-29T05:37:16.000Z",
+      "summary": "Is there a law against defection? What are the exceptions to it and how has the Supreme Court interpreted them? What are experts’ view on seven of AAP’s 10 Rajya Sabha members j...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
