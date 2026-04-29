@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-04-29T20:55:27.046Z",
+  "updatedAt": "2026-04-29T21:54:39.491Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-australia-news-live-penny-wong-wins-jet-fuel-ple-1d3b92b9ea",
-      "title": "Australia news live: Penny Wong wins jet fuel pledge from China in Beijing visit; US lawmaker says Aukus price might go up",
+      "id": "news-news-live-syria-claims-australian-government-ref-26b878441b",
+      "title": "News live: Syria claims Australian government ‘refused to receive’ families from detention camp trying to leave Damascus",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-04-29T20:51:29.000Z",
-      "summary": "Foreign affairs minister says China has agreed to facilitate exports of jet fuel to ease supply disruptions. Follow today’s news live Get our breaking news email , free app or d...",
+      "publishedAt": "2026-04-29T21:49:54.000Z",
+      "summary": "Meanwhile Penny Wong says China has agreed to facilitate exports of jet fuel to ease supply disruptions. Follow today’s news live Get our breaking news email , free app or daily...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-the-austrian-nuns-who-fled-their-care-home-are-n-13ee0ca4d1",
+      "title": "The Austrian nuns who fled their care home are now in Rome and visited the Vatican",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/29/g-s1-119191/austria-nuns-vatican-rome",
+      "tag": "US",
+      "publishedAt": "2026-04-29T21:48:17.000Z",
+      "summary": "The three octogenarian nuns, who made headlines last year after they broke back into their convent, joined others at St. Peter's Square for a general audience with Pope Leo XIV...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-u-s-indictment-accuses-mexican-governor-of-consp-176c399cfc",
+      "title": "U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
+      "tag": "US",
+      "publishedAt": "2026-04-29T21:48:15.000Z",
+      "summary": "Prosecutors accused Rubén Rocha Moya, the governor of Sinaloa state, and other Mexican officials of a yearslong conspiracy to protect the powerful cartel.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israel-iran-war-live-jaishankar-holds-talks-with-5985740d36",
+      "title": "Israel-Iran war LIVE: Jaishankar holds talks with Iran's Foreign Minister on West Asia situation",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-29-2026/article70918966.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-04-29T21:45:14.000Z",
+      "summary": "U.S. Congress will grill Defence Secretary Pete Hegseth on the West Asia conflict on Wednesday",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-big-us-tech-stocks-swing-as-investors-probe-ai-s-42cf26999d",
+      "title": "Big US tech stocks swing as investors probe AI spend",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-04-29T21:41:41.000Z",
+      "summary": "Meta, Amazon, Alphabet, and Microsoft all reported their financial performance at the same time on Wednesday",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-uae-quits-opec-d485a18fc4",
+      "title": "UAE quits OPEC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-29T21:30:22.000Z",
+      "summary": "The UAE announced it’s withdrawing from OPEC on May 1st.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-drdo-navy-conduct-maiden-salvo-launch-of-2-anti--88877814aa",
+      "title": "DRDO, Navy conduct maiden salvo launch of 2 anti-ship missiles from chopper off Odisha coast",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/drdo-navy-conduct-maiden-salvo-launch-of-2-anti-ship-missiles-from-chopper-off-odisha-coast/articleshow/130617824.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-29T21:13:35.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -20,66 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-04-29T20:50:37.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-u-s-gas-prices-climb-further-as-effects-of-iran--12c70378dd",
-      "title": "U.S. Gas Prices Climb Further as Effects of Iran War Reverberate",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/29/business/oil-gas-prices-iran.html",
-      "tag": "US",
-      "publishedAt": "2026-04-29T20:41:25.000Z",
-      "summary": "Crude oil prices hit a fresh high since the start of the war in Iran, as energy supplies from the Middle East remain disrupted.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sacred-relics-of-buddha-from-national-museum-rea-fd7c2f866b",
-      "title": "Sacred relics of Buddha from National Museum reach Ladakh as Leh marks Buddha Purnima",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/sacred-relics-of-buddha-from-national-museum-reach-ladakh-as-leh-marks-buddha-purnima/articleshow/130617745.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-29T20:40:46.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-comey-surrenders-over-charge-of-threatening-trum-3a0039da0b",
-      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-29T20:24:48.000Z",
-      "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-ukraine-asks-israel-to-seize-ship-carrying-grain-909934d7cb",
-      "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-29T20:23:46.000Z",
-      "summary": "Kyiv requested that Israel seize the vessel and its cargo, take grain ‌samples, and question crew ​members.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-india-sri-lanka-maritime-ties-strengthened-throu-f2b4cda4a2",
-      "title": "India–Sri Lanka maritime ties strengthened through IN–SLN DIVEX 2026",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/indiasri-lanka-maritime-ties-strengthened-through-insln-divex-2026/article70920948.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-29T20:07:41.000Z",
-      "summary": "Focused on complex underwater operations, the exercise was aimed at strengthening interoperability through advanced deep-sea diving evolutions, including mixed gas diving drills...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-the-iran-war-now-has-a-price-tag-25-billion-but--0e346fb7fe",
-      "title": "The Iran war now has a price tag ($25 billion), but still no end date",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date",
-      "tag": "US",
-      "publishedAt": "2026-04-29T19:48:24.000Z",
-      "summary": "The Pentagon estimates the war has cost $25 billion over the past two months. In congressional testimony, Defense Secretary Pete Hegseth did not say when the war might end.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-a-day-of-loss-for-our-democracy-civil-rights-gro-aead4abfb9",
-      "title": "‘A day of loss for our democracy’: civil rights groups slam supreme court ruling that weakens key part of Voting Rights Act – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/apr/29/king-charles-new-york-donald-trump-zohran-mamdani-iran-us-politics-live",
+      "id": "news-powell-to-remain-at-fed-amid-legal-battering-by--dc349396d8",
+      "title": "Powell to remain at Fed amid legal 'battering' by Trump administration",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/powell-to-remain-at-fed-amid-legal-battering-by-trump-administration/article70922180.ece",
       "tag": "Europe",
-      "publishedAt": "2026-04-29T20:44:23.000Z",
-      "summary": "NAACP, ACLU and Democratic politicians decry 6-3 supreme court decision as ‘a profound betrayal of the civil rights movement’ Sign up for the Breaking News US email US supreme c...",
+      "publishedAt": "2026-04-29T21:42:28.000Z",
+      "summary": "“After my term as chair ends ​on May 15, I will continue to serve as a governor for a period of time to ⁠be determined,” Mr. Powell told a news conference",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-record-turnout-over-two-phases-harbinger-of-chan-6084903b0b",
-      "title": "Record turnout over two phases harbinger of change in Bengal: Modi",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/record-turnout-over-two-phases-harbinger-of-change-in-bengal-modi/articleshow/130617732.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-29T20:34:22.000Z",
-      "summary": "Prime Minister Narendra Modi stated that Bengal's record voter turnout signals a change, expressing confidence in the BJP's victory. He also predicted NDA's retention of Assam a...",
+      "id": "news-indian-tycoon-offers-refuge-to-pablo-escobar-s-c-6a2089e4db",
+      "title": "Indian Tycoon Offers Refuge to Pablo Escobar’s Condemned Hippos",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/29/world/asia/indian-tycoon-ambani-hippos-colombia-escobar.html",
+      "tag": "US",
+      "publishedAt": "2026-04-29T21:34:35.000Z",
+      "summary": "Colombia was planning to slaughter 80 hippopotamuses after a small herd imported in the 1980s by the drug lord grew out of control. An Indian tycoon has offered them a new home...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
