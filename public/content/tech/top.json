@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-04-29T19:09:19.484Z",
+  "updatedAt": "2026-04-29T20:53:00.912Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-emergency-first-responders-say-waymos-are-gettin-0ec797aba7",
+      "title": "Emergency First Responders Say Waymos Are Getting Worse",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse",
+      "tag": "Technology",
+      "publishedAt": "2026-04-29T20:45:37.000Z",
+      "summary": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-reports-sinking-xbox-revenue-as-its-cl-e8c4937eb9",
+      "title": "Microsoft reports sinking Xbox revenue as its cloud business climbs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings",
+      "tag": "Technology",
+      "publishedAt": "2026-04-29T20:43:37.000Z",
+      "summary": "Microsoft's Xbox hardware revenue continues to tumble, with the company revealing a 33 percent decline as part of its earnings report released on Wednesday. Even though the rest...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-epfo-to-launch-new-portal-to-track-inoperative-a-e8d965b44a",
+      "title": "EPFO to launch new portal to track inoperative accounts",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/news/national/epfo-to-launch-new-portal-to-track-inoperative-accounts/article70921450.ece",
+      "tag": "Running",
+      "publishedAt": "2026-04-29T20:28:17.000Z",
+      "summary": "E-PRAAPTI will provide an Aadhaar-based authentication mechanism through which members can securely access their old EPF account that may not have a UAN linked with it, said an...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gemini-can-now-generate-files-including-microsof-1bd7f61f7b",
+      "title": "Gemini can now generate files, including Microsoft Word and LaTeX documents",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2160619/gemini-can-now-generate-files-including-microsoft-word-and-latex-documents",
+      "tag": "Technology",
+      "publishedAt": "2026-04-29T19:55:13.000Z",
+      "summary": "No need to copy and paste Gemini's outputs anymore.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-abc-can-beat-trump-fcc-s-license-threat-if-owner-5ddd223548",
+      "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight",
+      "tag": "Technology",
+      "publishedAt": "2026-04-29T19:14:44.000Z",
+      "summary": "Broadcast license renewals are \"all but automatic\" due to 1996 change in US law.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-parallel-web-systems-hits-2b-valuation-five-mont-360a5f8eeb",
       "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
@@ -10,46 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-04-29T18:33:05.000Z",
       "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-all-the-evidence-unveiled-so-far-in-musk-v-altma-2e1501eb07",
-      "title": "All the evidence unveiled so far in Musk v. Altman",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "tag": "Technology",
-      "publishedAt": "2026-04-29T18:03:05.000Z",
-      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-howdy-s-dated-3-month-ad-free-streaming-service--603225e225",
-      "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers",
-      "tag": "Technology",
-      "publishedAt": "2026-04-29T18:02:20.000Z",
-      "summary": "Most are keeping their subscriptions after signing up, too, research firm says.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-sanctioned-chinese-ai-firm-sensetime-releases-im-ecb4db24d3",
-      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips",
-      "tag": "Technology",
-      "publishedAt": "2026-04-29T17:23:52.000Z",
-      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-epfo-to-launch-new-portal-to-track-inoperative-a-417a5075e6",
-      "title": "EPFO to launch new portal to track inoperative accounts",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/news/national/epfo-to-launch-new-portal-to-track-inoperative-accounts/article70921450.ece",
-      "tag": "Running",
-      "publishedAt": "2026-04-29T17:00:49.000Z",
-      "summary": "E-PRAAPTI will provide an Aadhaar-based authentication mechanism through which members can securely access their old EPF account that may not have a UAN linked with it, said an...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-texas-instruments-made-a-new-flagship-graphing-c-ad3fbc48a4",
-      "title": "Texas Instruments made a new flagship graphing calculator: the TI-84 Evo",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/mobile/texas-instruments-made-a-new-flagship-graphing-calculator-the-ti-84-evo-201903438.html?src=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-04-28T20:19:03.000Z",
-      "summary": "Texas Instruments graphing calculators have helped many a student with algebra, pre-calculus and upside-down anatomical slang. Now, the company is back with an upgrade for the m...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-new-sam-bankman-fried-trial-would-be-huge-waste--fa87341aed",
-      "title": "New Sam Bankman-Fried trial would be huge waste of court’s time, judge says",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says",
+      "id": "tech-taylor-swift-wants-to-trademark-her-likeness-the-7922341545",
+      "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads",
       "tag": "Technology",
-      "publishedAt": "2026-04-29T17:52:52.000Z",
-      "summary": "FTX fraudster came out as Republican, then tried to claim Biden's DOJ targeted him.",
+      "publishedAt": "2026-04-29T20:36:53.000Z",
+      "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ubuntu-s-ai-plans-have-linux-users-looking-for-a-139f04abe6",
-      "title": "Ubuntu’s AI plans have Linux users looking for a ‘kill switch’",
+      "id": "tech-google-search-queries-hit-an-all-time-high-last--fccc60722e",
+      "title": "Google Search queries hit an ‘all time high’ last quarter",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+      "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
       "tag": "Technology",
-      "publishedAt": "2026-04-29T17:32:02.000Z",
-      "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older ver...",
+      "publishedAt": "2026-04-29T20:28:11.000Z",
+      "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday....",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
