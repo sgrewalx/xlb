@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-04-30T21:51:05.190Z",
+  "updatedAt": "2026-04-30T22:44:11.130Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-britney-spears-charged-in-california-with-drivin-78cdd524db",
-      "title": "Britney Spears charged in California with driving under influence",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
+      "id": "news-bangladesh-summons-indian-envoy-to-protest-remar-d9d880caf9",
+      "title": "Bangladesh summons Indian envoy to protest remarks by Assam CM Himanta Sarma",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/bangladesh-summons-indian-envoy-to-protest-remarks-by-assam-cm-himanta-sarma/articleshow/130658080.cms",
+      "tag": "India",
+      "publishedAt": "2026-04-30T22:39:37.000Z",
+      "summary": "Dhaka summoned India's acting envoy to protest Assam CM's remarks calling apprehended foreigners 'rude people' and 'infiltrators'. Bangladesh conveyed that such disparaging comm...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-code-pink-protester-crashes-hegseth-s-senate-tes-0aebd9fb5f",
+      "title": "Code Pink protester crashes Hegseth’s Senate testimony to condemn ‘war for Israel’ – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-04-30T21:46:18.000Z",
-      "summary": "The pop star's representatives have called the incident \"completely inexcusable\" and she has since checked herself into rehab.",
+      "publishedAt": "2026-04-30T22:38:49.000Z",
+      "summary": "Democrats criticize Trump’s defense secretary and strategy in Middle East as Hegseth sought to put positive spin on US war on Iran Sign up for the Breaking News US email Louisia...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-nigerian-military-runs-a-fulani-concentration-ca-509540d2b1",
+      "title": "Nigerian Military Runs a Fulani ‘Concentration Camp,’ Group Says",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/30/world/africa/nigeria-fulani-camp-amnesty.html",
+      "tag": "US",
+      "publishedAt": "2026-04-30T22:30:06.000Z",
+      "summary": "Amnesty International said about 1,500 people have been detained by the military for three months and that many of those who have died from disease and starvation have been chil...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-mha-updates-citizenship-rules-tightens-norms-on--dbeb1af6d0",
+      "title": "MHA updates citizenship rules, tightens norms on dual passports for minors",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/mha-updates-citizenship-rules-tightens-norms-on-dual-passports-for-minors-10664888",
+      "tag": "India",
+      "publishedAt": "2026-04-30T22:30:01.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-apple-hails-extraordinary-iphone-demand-as-boss--fe7cbadd64",
+      "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-04-30T22:22:11.000Z",
+      "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-arsenal-vs-fulham-premier-league-teams-start-lin-f18951823d",
+      "title": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-04-30T21:53:40.000Z",
+      "summary": "Arsenal will move six points clear of EPL title rivals Man City, who will have two games in hand, if they beat Fulham.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-20-000-civilian-sailors-are-stuck-in-the-gulf-th-1ec44a180b",
+      "title": "20,000 civilian sailors are stuck in the gulf that opens to the Strait of Hormuz",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/30/nx-s1-5802991/20-000-civilian-sailors-are-stuck-in-the-gulf-that-opens-to-the-strait-of-hormuz",
+      "tag": "US",
+      "publishedAt": "2026-04-30T21:53:24.000Z",
+      "summary": "Thousands of seafarers remain stuck as the Strait of Hormuz blockade continues. The United Nations urges for a plan to facilitate their release.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,56 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-apple-soars-past-wall-street-expectations-as-ceo-0d08ba1d21",
-      "title": "Apple soars past Wall Street expectations as CEO Tim Cook prepares to step down",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/apple-extraordinary-earnings-tim-cook-john-ternus",
-      "tag": "Europe",
-      "publishedAt": "2026-04-30T21:38:34.000Z",
-      "summary": "Company reported $111.2bn in revenue in first earnings report after announcement of Cook’s pending departure Apple blew past Wall Street expectations in its first earnings repor...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-new-banksy-statue-causes-stir-in-central-london-d5713524c3",
-      "title": "New Banksy Statue Causes Stir in Central London",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html",
-      "tag": "US",
-      "publishedAt": "2026-04-30T21:35:06.000Z",
-      "summary": "The statue depicts a man marching with a flag that covers his face. It appeared in a section of London near statues of 19th-century British military and colonial figures.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-first-us-venezuela-flight-lands-in-caracas-after-64f419e354",
-      "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-04-30T21:34:25.000Z",
-      "summary": "American Airlines has resumed flights as Donald Trump moves to rebuild ties following the abduction of Nicolas Maduro.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-we-halted-op-sindoor-on-our-own-terms-prepared-f-7752e2efa4",
-      "title": "We halted 'Op Sindoor' on our own terms, prepared for long battle: Rajnath Singh; says 'Sudarshan air defence a key example of exemplary AI application’",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/we-halted-op-sindoor-on-our-own-terms-prepared-for-long-battle-rajnath-singh-says-sudarshan-air-defence-a-key-example-of-exemplary-ai-application/articleshow/130654058.cms",
-      "tag": "India",
-      "publishedAt": "2026-04-30T21:28:24.000Z",
-      "summary": "Defence minister Rajnath Singh asserted that India's 'Operation Sindoor' sent a strong global message, demonstrating a shift from mere diplomatic statements to powerful deterren...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-foreign-secretary-vikram-misri-likely-to-visit-n-f0f2ca94ee",
-      "title": "Foreign Secretary Vikram Misri likely to visit Nepal this month",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/foreign-secretary-vikram-misri-likely-to-visit-nepal-this-month-10664900",
-      "tag": "India",
-      "publishedAt": "2026-04-30T21:23:21.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-mamata-banerjee-visits-bhabanipur-strongroom-fla-8f5ef9807d",
       "title": "Mamata Banerjee Visits Bhabanipur Strongroom, Flags Counting Irregularities",
       "source": "NDTV",
@@ -80,16 +90,6 @@
       "tag": "India",
       "publishedAt": "2026-04-30T19:41:16.000Z",
       "summary": "West Bengal Chief Minister and TMC supremo Mamata Banerjee early Friday warned against any attempt to tamper with the counting process, hours after she visited an EVM strong roo...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-myanmar-junta-says-suu-kyi-moved-to-house-arrest-91a2f21bfc",
-      "title": "Myanmar junta says Suu Kyi moved to house arrest, doubts linger",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/30/g-s1-119543/myanmar-junta-says-suu-kyi-moved-to-house-arrest-doubts-linger",
-      "tag": "US",
-      "publishedAt": "2026-04-30T17:26:23.000Z",
-      "summary": "The secrecy surrounding Suu Kyi's new location has alarmed her son, Kim Aris, who says he has received no authoritative confirmation of her wellbeing.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-to-remove-whisky-tariffs-after-king-s-visi-9441bbecbe",
-      "title": "Trump to remove whisky tariffs after King's visit",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-04-30T21:45:57.000Z",
-      "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
+      "id": "news-australia-news-live-malarndirri-mccarthy-calls-f-2cf090e7d9",
+      "title": "Australia news live: Malarndirri McCarthy calls for calm amid ‘deep grief’ and anger in Alice Springs; Wong says Australia engaged on latest US plan for strait of Hormuz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/01/alice-springs-anthony-albanese-labor-angus-taylor-coalition-gaza-flotilla-politics-updates-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-04-30T22:35:31.000Z",
+      "summary": "Follow updates Get our breaking news email , free app or daily news podcast A man has allegedly stolen nearly $3,000 worth of diesel in jerry cans and drums from a South Sydney...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-eci-introduces-new-qr-code-based-id-cards-for-co-5f048a928a",
-      "title": "ECI introduces new QR code-based ID cards for counting centres",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/eci-introduces-qr-based-identity-cards-for-counting-centres-on-may-4-to-check-unauthorised-entry/article70924721.ece",
-      "tag": "India",
-      "publishedAt": "2026-04-30T21:42:22.000Z",
-      "summary": "Poll body launches new photo identity cards with QR codes for persons authorised to enter counting halls, including officials and candidates",
+      "id": "news-don-t-fall-foil-boarders-describe-hair-raising-s-7d2ec65ed4",
+      "title": "‘Don’t fall!’: foil boarders describe hair-raising shark chase caught on video off California coast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/apr/30/foil-boarders-shark-chase-california",
+      "tag": "Europe",
+      "publishedAt": "2026-04-30T22:26:58.000Z",
+      "summary": "Foil boarders were pursued by shark – likely a great white – off Santa Barbara before it lost interest and swam away Sign up for the Breaking News US email to get newsletter ale...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
