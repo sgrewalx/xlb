@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-04-30T18:04:24.024Z",
+  "updatedAt": "2026-04-30T20:05:20.684Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-elon-musk-testifies-that-xai-trained-grok-on-ope-3e4e03bf1b",
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models",
-      "tag": "Technology",
-      "publishedAt": "2026-04-30T18:03:57.000Z",
-      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-xbox-owners-can-now-disable-quick-resume-for-spe-5d8a151119",
-      "title": "Xbox owners can now disable Quick Resume for specific games",
+      "id": "tech-rivian-downsizes-its-goals-for-its-ev-factory-in-86580f4550",
+      "title": "Rivian downsizes its goals for its EV factory in Georgia",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/921504/xbox-update-quick-resume-disable",
+      "url": "https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan",
       "tag": "Technology",
-      "publishedAt": "2026-04-30T17:51:26.000Z",
-      "summary": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. Quick Resume, which lets you swap...",
+      "publishedAt": "2026-04-30T20:05:00.000Z",
+      "summary": "Rivian announced some changes today with regard to the factory its building in the state of Georgia. The company was planning to build the facility in two phases, each resulting...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-flight-simulator-2024-support-for-play-e27514bf54",
-      "title": "Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live",
+      "id": "tech-rivian-downsizes-doe-loan-to-4-5b-while-boosting-6ed419e2d0",
+      "title": "Rivian downsizes DOE loan to $4.5B, while boosting capacity of Georgia factory",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory",
+      "tag": "Technology",
+      "publishedAt": "2026-04-30T20:02:02.000Z",
+      "summary": "Rivian has reworked its loan deal with the Department of Energy and now expects to borrow $4.5 billion to build its new factory in Georgia, down from the original amount of $6.6...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-you-can-now-choose-which-games-use-quick-resume--e990707fab",
+      "title": "You can now choose which games use Quick Resume on Xbox",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2161381/microsoft-flight-simulator-2024-support-for-playstation-vr2-is-now-live",
+      "url": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox",
       "tag": "Technology",
-      "publishedAt": "2026-04-30T17:50:18.000Z",
-      "summary": "Asobo Studio says it also improved the game's performance with the latest update.",
+      "publishedAt": "2026-04-30T19:48:57.000Z",
+      "summary": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-don-t-let-industry-jargon-cost-you-when-shopping-d637ebc9e6",
-      "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed",
+      "id": "tech-researchers-try-to-cut-the-genetic-code-from-20--194dc6cf8d",
+      "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids",
       "tag": "Technology",
-      "publishedAt": "2026-04-30T17:42:52.000Z",
-      "summary": "Why the terms “smart bed,” \"adjustable mattress,\" and “adjustable frame” are not interchangeable, and how to avoid an expensive mistake.",
+      "publishedAt": "2026-04-30T19:34:15.000Z",
+      "summary": "Using AI tools, the team reworked part of the ribosome to need one less amino acid.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-musk-v-altman-kicks-off-doj-guts-voting-rights-u-5d82ff5abf",
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped",
+      "tag": "Technology",
+      "publishedAt": "2026-04-30T18:54:54.000Z",
+      "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,13 +63,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-3775251bc1",
-      "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel",
+      "id": "tech-ula-atlas-v-launches-29-amazon-kuiper-satellites-ede23c5b1d",
+      "title": "ULA Atlas V Launches 29 Amazon Kuiper Satellites in Return Mission",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/ula-atlas-v-launches-29-amazon-kuiper-satellites-in-return-mission-11429884",
       "tag": "Technology",
-      "publishedAt": "2026-04-30T16:20:45.000Z",
-      "summary": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
+      "publishedAt": "2026-04-30T14:36:51.000Z",
+      "summary": "An Atlas V rocket has successfully launched 29 satellites for Project Kuiper, marking its return to flight after nearly three years. The mission matched the rocket’s payload rec...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-fda-approval-fundraising-and-the-reality-of-buil-534541303e",
-      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder",
+      "id": "tech-the-logic-of-the-racist-supreme-court-isn-t-addi-00181b0c4f",
+      "title": "The logic of the racist Supreme Court isn’t adding up",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/921597/callais-louisiana-voting-rights-act",
       "tag": "Technology",
-      "publishedAt": "2026-04-30T17:53:53.000Z",
-      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting...",
+      "publishedAt": "2026-04-30T19:52:29.000Z",
+      "summary": "Close watchers of the Supreme Court knew that the conservative supermajority was about to murder what was left of the Voting Rights Act. Wednesday's decision in Louisiana v. Cal...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-s-gemini-ai-assistant-is-hitting-the-road-fe824796dd",
-      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "id": "tech-hackers-are-actively-exploiting-a-bug-in-cpanel--49b49f201f",
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles",
+      "url": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites",
       "tag": "Technology",
-      "publishedAt": "2026-04-30T17:46:54.000Z",
-      "summary": "Google announced on Thursday that it will begin rolling out Gemini to cars with Google built-in, marking a significant upgrade from the current Google Assistant. The move signal...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-senate-judiciary-committee-unanimously-approves--0c451a88b5",
-      "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification",
-      "tag": "Technology",
-      "publishedAt": "2026-04-30T17:43:10.000Z",
-      "summary": "It's a rare moment of working across the aisle.",
+      "publishedAt": "2026-04-30T19:36:53.000Z",
+      "summary": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
