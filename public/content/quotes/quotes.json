@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-29T03:41:01.297Z",
+  "updatedAt": "2026-04-30T03:42:19.774Z",
   "items": [
-    {
-      "id": "jane-jacobs",
-      "quote": "New ideas need old buildings.",
-      "author": "Jane Jacobs",
-      "context": "Cities"
-    },
     {
       "id": "james-baldwin",
       "quote": "The world is before you and you need not take it or leave it as it was when you came in.",
@@ -30,6 +24,12 @@
       "quote": "Tell me, what is it you plan to do with your one wild and precious life?",
       "author": "Mary Oliver",
       "context": "Life"
+    },
+    {
+      "id": "octavia-butler",
+      "quote": "All that you touch you change. All that you change changes you.",
+      "author": "Octavia E. Butler",
+      "context": "Growth"
     }
   ]
 }
