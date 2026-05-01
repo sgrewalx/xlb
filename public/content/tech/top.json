@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-05-01T21:43:23.507Z",
+  "updatedAt": "2026-05-01T22:40:35.410Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-bright-idea-uk-firm-pioneers-data-centres-using--78bc13ab41",
-      "title": "Bright idea? UK firm pioneers data centres using lampposts",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-musely-secures-360m-from-general-catalyst-withou-9a9fcf2fce",
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity",
       "tag": "Technology",
-      "publishedAt": "2026-05-01T21:23:33.000Z",
-      "summary": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
+      "publishedAt": "2026-05-01T22:39:05.000Z",
+      "summary": "The DTC skin, hair, and and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-oscars-says-ai-actors-writing-cannot-win-awards-57d833b454",
+      "title": "Oscars says AI actors, writing cannot win awards",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-01T22:30:59.000Z",
+      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-waymo-is-trying-to-crack-down-on-solo-kids-in-dr-9fd538e071",
+      "title": "Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars",
+      "tag": "Technology",
+      "publishedAt": "2026-05-01T22:25:42.000Z",
+      "summary": "As adult riders report new age-verification checks, the self-driving car company says it’s continuing to “refine” its system in places where kids aren’t allowed to ride alone.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-tests-redesigned-windows-11-run-menu-w-cd397ea209",
+      "title": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
+      "tag": "Technology",
+      "publishedAt": "2026-05-01T22:01:53.000Z",
+      "summary": "Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The r...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-man-dies-covered-in-necrotic-lesions-after-amoeb-138557b6f1",
+      "title": "Man dies covered in necrotic lesions after amoebas eat him alive",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale",
+      "tag": "Technology",
+      "publishedAt": "2026-05-01T21:05:37.000Z",
+      "summary": "Doctors suspect three factors, each unremarkable on its own, contributed to his fate.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,46 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-01T20:52:05.000Z",
       "summary": "Will that stop them from taking over?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-dangerous-new-linux-exploit-gives-attackers-root-3f857a8de6",
-      "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers",
-      "tag": "Running",
-      "publishedAt": "2026-05-01T20:30:00.000Z",
-      "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machine...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-all-the-evidence-revealed-so-far-in-musk-v-altma-cca3cfdd10",
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T19:14:51.000Z",
-      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ubuntu-infrastructure-has-been-down-for-more-tha-e724485bc9",
-      "title": "Ubuntu infrastructure has been down for more than a day",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T19:12:26.000Z",
-      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-coatue-has-a-plan-to-buy-up-land-for-data-center-dd9e3c25ba",
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T18:23:04.000Z",
-      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-pentagon-says-us-military-to-be-an-ai-first-figh-6ecbf9b952",
-      "title": "Pentagon says US military to be an 'AI-first' fighting force",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-meta-buys-robotic-startup-to-bolster-its-humanoi-92351d4d89",
+      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions",
       "tag": "Technology",
-      "publishedAt": "2026-05-01T21:09:52.000Z",
-      "summary": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
+      "publishedAt": "2026-05-01T22:13:27.000Z",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-appears-to-have-discontinued-its-cheapest--4c3f53f131",
-      "title": "Apple appears to have discontinued its cheapest Mac mini",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini",
+      "id": "tech-apple-raises-the-mac-mini-s-starting-price-428044de1e",
+      "title": "Apple raises the Mac Mini’s starting price",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
       "tag": "Technology",
-      "publishedAt": "2026-05-01T20:33:29.000Z",
-      "summary": "The compact desktop Mac now starts at $799 and comes with 512GB of storage.",
+      "publishedAt": "2026-05-01T21:52:09.000Z",
+      "summary": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinu...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
