@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-05-01T11:52:56.324Z",
+  "updatedAt": "2026-05-01T13:01:02.431Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-how-the-iran-war-affects-your-money-and-bills-154b3d923d",
-      "title": "How the Iran war affects your money and bills",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+      "id": "news-as-israel-entrenches-frustration-with-hezbollah--d49aac000e",
+      "title": "As Israel Entrenches, Frustration With Hezbollah Turns to Support",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/world/middleeast/lebanon-hezbollah-ceasefire-israel.html",
       "tag": "US",
-      "publishedAt": "2026-05-01T11:49:20.000Z",
-      "summary": "The conflict in the Middle East has increased pressure on the cost of petrol, household energy bills and even food.",
+      "publishedAt": "2026-05-01T12:58:51.000Z",
+      "summary": "With the cease-fire fraying and Israel demolishing villages in the south, many Hezbollah supporters in Lebanon are putting aside their annoyance with the group and turning to it...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-repolling-at-15-booths-in-2-west-bengal-constitu-e385986e7a",
+      "title": "Repolling At 15 Booths In 2 West Bengal Constituencies Tomorrow",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/west-bengal-elections-repolling-at-15-booths-in-2-west-bengal-constituencies-tomorrow-11436092",
+      "tag": "India",
+      "publishedAt": "2026-05-01T12:57:15.000Z",
+      "summary": "West Bengal Elections: Repolling At 15 Booths In 2 West Bengal Constituencies Tomorrow",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-buddha-s-teachings-should-be-lived-every-day-adc-3e5472549f",
+      "title": "Buddha’s teachings should be lived every day: ADC",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/buddhas-teachings-should-be-lived-every-day-adc/article70928161.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-01T12:54:38.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-end-of-trump-tariffs-on-whisky-sparks-row-betwee-21b502de98",
+      "title": "End of Trump tariffs on whisky sparks row between Scottish parties over claiming credit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/01/end-trump-tariffs-scotch-whisky-row-between-scottish-parties-claiming-credit",
+      "tag": "Europe",
+      "publishedAt": "2026-05-01T12:53:50.000Z",
+      "summary": "Labour called SNP first minister John Swinney ‘shameless’ for claiming credit when it was the result of king’s US visit Donald Trump’s announcement that he will lift punishing U...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-missing-oscar-found-after-academy-award-winner-b-c5d4638221",
+      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-01T12:42:29.000Z",
+      "summary": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ahead-of-west-bengal-assembly-poll-results-cauti-602f881335",
+      "title": "Ahead of West Bengal assembly poll results, caution from Omar Abdullah: ‘Votes stolen through EC and SIR… bid to rig polls’",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/omar-abdullah-voter-list-ec-sir-unemployment-urdu-row-10666275",
+      "tag": "India",
+      "publishedAt": "2026-05-01T12:28:30.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-greek-orthodox-church-sounds-alarm-over-attacks--0adc39e2b3",
+      "title": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/greek-orthodox-church-sounds-alarm-over-attacks-on-christians-in-jerusalem?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-01T12:22:26.000Z",
+      "summary": "Warning follows Jewish man's arrest over brutal attack on nun in Jerusalem this week.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,73 +83,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-high-drama-in-punjab-assembly-congress-akali-dal-859506cc29",
-      "title": "High drama in Punjab Assembly; Congress, Akali Dal allege CM Mann was drunk during House proceedings",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-congress-akali-dal-allege-cm-mann-was-drunk-during-house-proceedings/article70928207.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-01T11:39:46.000Z",
-      "summary": "Congress MLAs staged a walkout and urged the Speaker to initiate action, while the party also called for dope testing of all MLAs and an independent medical check by PGIMER",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-first-thing-trump-doubles-down-on-rift-with-germ-de8318ef19",
-      "title": "First Thing: Trump doubles down on rift with Germany, Italy and Spain amid war on Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/first-thing-trump-rift-germany-italy-spain-iran-war",
-      "tag": "Europe",
-      "publishedAt": "2026-05-01T11:36:11.000Z",
-      "summary": "The US president has criticised Germany’s chancellor, Friedrich Merz, and raised the prospect of pulling US troops from Italy and Spain. Plus, 10 big lessons on ending the fossi...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-election-bill-rahul-gandhi-leads-opposition-fire-442bb50b97",
-      "title": "‘Election bill’: Rahul Gandhi leads Opposition fire on commercial LPG rate hike",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/lpg-price-hike-rahul-gandhi-opposition-election-bill-petrol-diesel-10666107",
-      "tag": "India",
-      "publishedAt": "2026-05-01T11:25:07.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-tvk-party-office-torched-by-miscreants-near-srir-d7eebfdc00",
-      "title": "TVK party office torched by miscreants near Srirangam ahead of Tamil Nadu results",
+      "id": "news-all-speculations-put-to-rest-bhagwant-mann-as-aa-d6aef835f1",
+      "title": "'All speculations put to rest': Bhagwant Mann as AAP govt wins trust vote in Punjab assembly",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/tvk-party-office-torched-by-miscreants-near-srirangam-ahead-of-tamil-nadu-results/articleshow/130676672.cms",
+      "url": "https://timesofindia.indiatimes.com/india/there-are-rumours-mann-government-moves-confidence-motion-in-punjab-assembly-days-after-rajya-sabha-blow/articleshow/130677120.cms",
       "tag": "India",
-      "publishedAt": "2026-05-01T11:24:12.000Z",
-      "summary": "A Tamilaga Vettri Kazhagam (TVK) election office near Srirangam in Trichy was allegedly set ablaze by unknown individuals early Friday. A large digital banner for the party's ca...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-war-in-iran-is-making-the-hajj-the-muslim-pilgri-290bd3e354",
-      "title": "War in Iran Is Making the Hajj, the Muslim Pilgrimage, More Expensive",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/01/world/asia/iran-war-hajj-cost-india.html",
-      "tag": "US",
-      "publishedAt": "2026-05-01T11:09:55.000Z",
-      "summary": "Soaring jet fuel prices stemming from the war, the government of India said, have forced it to hike hajj package prices for its citizens.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-has-the-us-iran-ceasefire-reset-the-clock-on-war-18606c6f3c",
-      "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-01T10:56:21.000Z",
-      "summary": "Defence secretary claims hostilities have ceased, but lawmakers say US forces remain active despite halted air raids.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-strategic-necessity-not-destruction-centre-on-gr-16da77c828",
-      "title": "\"Strategic Necessity, Not Destruction\": Centre On Great Nicobar Project",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/strategic-necessity-not-destruction-centre-on-great-nicobar-project-11435622",
-      "tag": "India",
-      "publishedAt": "2026-05-01T10:46:10.000Z",
-      "summary": "Officials said the island's proximity of about 40 nautical miles to one of the world's busiest East-West shipping routes gives it a natural advantage for global trade",
+      "publishedAt": "2026-05-01T11:37:41.000Z",
+      "summary": "The Aam Aadmi Party government in Punjab moved a confidence motion in the state assembly following the defection of seven MPs to the BJP. Chief Minister Bhagwant Mann asserted t...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-no-evidence-of-widespread-fuel-price-gouging-wat-382d14b2b2",
-      "title": "No evidence of widespread fuel price-gouging, watchdog says",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c62djjj0z09o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-05-01T11:47:54.000Z",
-      "summary": "Profit margins were \"broadly unchanged\" between February and March, the UK's competition watchdog says.",
+      "id": "news-acb-traps-lineman-while-taking-1-lakh-bribe-in-n-b2c677f56d",
+      "title": "ACB traps lineman while taking ₹1 lakh bribe in Nellore district",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/acb-traps-lineman-while-taking-1-lakh-bribe-in-nellore-district/article70928310.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-01T12:54:38.000Z",
+      "summary": "Accused collected ₹4.90 lakh earlier, demanded more for service connection transfer and transformer shifting, and was caught red-handed, say ACB officials",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-commercial-lpg-19-kg-cylinder-prices-increase-sh-49f038a670",
-      "title": "Commercial LPG 19 kg cylinder prices increase sharply, no change in domestic LPG cost",
+      "id": "news-seven-districts-log-above-45-c-in-telangana-on-a-57655745c6",
+      "title": "Seven districts log above 45°C in Telangana on April 30",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/commercial-lpg-19-kg-cylinders-prices-increased-sharply-in-telangana-no-change-in-domestic-lpg-cost/article70927393.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/seven-districts-log-above-45c-in-telangana-on-april-30/article70928424.ece",
       "tag": "India",
-      "publishedAt": "2026-05-01T11:37:23.000Z",
-      "summary": "In Hyderabad, the refills are dearer by nearly ₹1,000 to ₹3,315 each effective May 1",
+      "publishedAt": "2026-05-01T12:52:53.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
