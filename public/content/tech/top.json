@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-05-01T20:02:26.846Z",
+  "updatedAt": "2026-05-01T21:43:23.507Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-bright-idea-uk-firm-pioneers-data-centres-using--78bc13ab41",
+      "title": "Bright idea? UK firm pioneers data centres using lampposts",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-01T21:23:33.000Z",
+      "summary": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-performances-and-screenplays-won-t-be-eligibl-79d745dea6",
+      "title": "AI performances and screenplays won't be eligible for Oscars",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars",
+      "tag": "Technology",
+      "publishedAt": "2026-05-01T20:52:05.000Z",
+      "summary": "Will that stop them from taking over?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-dangerous-new-linux-exploit-gives-attackers-root-3f857a8de6",
+      "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers",
+      "tag": "Running",
+      "publishedAt": "2026-05-01T20:30:00.000Z",
+      "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machine...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-all-the-evidence-revealed-so-far-in-musk-v-altma-cca3cfdd10",
       "title": "All the evidence revealed so far in Musk v. Altman",
@@ -23,26 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-this-eye-catching-indoor-garden-is-20-percent-of-6e6833d520",
-      "title": "This Eye-Catching Indoor Garden Is 20 Percent Off Right Now",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T19:05:53.000Z",
-      "summary": "Lettuce Grow's Farmstand is sure to impress, and it's 20 percent off for Mother's Day.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-there-s-already-a-way-to-mount-your-smartphone-t-10fb65d1d3",
-      "title": "There's already a way to mount your smartphone to a Steam Controller",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2162203/theres-already-a-way-to-mount-your-smartphone-to-a-steam-controller",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T18:46:55.000Z",
-      "summary": "Just don't expect it to work with many iOS or Android apps yet.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-coatue-has-a-plan-to-buy-up-land-for-data-center-dd9e3c25ba",
       "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
       "source": "TechCrunch",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-01T18:23:04.000Z",
       "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-elon-musk-s-latest-tesla-pay-valued-at-158bn-but-6f83d0ccb9",
-      "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T16:23:13.000Z",
-      "summary": "Musk must meet a range of ambitious milestones at Tesla to justify the monster pay packet - so far he has not.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-next-alzheimer-s-breakthrough-will-take-more-cc780b2b67",
-      "title": "The Next Alzheimer’s Breakthrough Will Take More Than Just Science",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/john-hardy-dementia-wired-health",
+      "id": "tech-pentagon-says-us-military-to-be-an-ai-first-figh-6ecbf9b952",
+      "title": "Pentagon says US military to be an 'AI-first' fighting force",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-05-01T18:55:56.000Z",
-      "summary": "At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined the stakes—and next steps—of where treatment is headed next.",
+      "publishedAt": "2026-05-01T21:09:52.000Z",
+      "summary": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-birdfy-s-smart-bird-feeder-is-down-to-its-best-e-40e84d94c9",
-      "title": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
+      "id": "tech-apple-appears-to-have-discontinued-its-cheapest--4c3f53f131",
+      "title": "Apple appears to have discontinued its cheapest Mac mini",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini",
       "tag": "Technology",
-      "publishedAt": "2026-05-01T18:42:24.000Z",
-      "summary": "From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother’s Day, May 10th. Birdfy smart feeders are another discounted opti...",
+      "publishedAt": "2026-05-01T20:33:29.000Z",
+      "summary": "The compact desktop Mac now starts at $799 and comes with 512GB of storage.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
