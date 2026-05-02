@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-05-01T23:42:38.077Z",
+  "updatedAt": "2026-05-02T01:52:34.986Z",
   "items": [
+    {
+      "id": "tech-tech-now-5f838d6893",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-02T01:00:00.000Z",
+      "summary": "Harriet Bradshaw finds out how AI is being used to help solve an art history mystery.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-replit-s-amjad-masad-on-the-cursor-deal-fighting-e075326fc9",
       "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
@@ -12,23 +22,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-oscars-says-ai-actors-writing-cannot-win-awards-57d833b454",
-      "title": "Oscars says AI actors, writing cannot win awards",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-splatoon-raiders-preorders-for-the-switch-2-are--45a84613ae",
+      "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-05-01T22:30:59.000Z",
-      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-waymo-is-trying-to-crack-down-on-solo-kids-in-dr-9fd538e071",
-      "title": "Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T22:25:42.000Z",
-      "summary": "As adult riders report new age-verification checks, the self-driving car company says it’s continuing to “refine” its system in places where kids aren’t allowed to ride alone.",
+      "publishedAt": "2026-05-01T22:31:00.000Z",
+      "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Rai...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
