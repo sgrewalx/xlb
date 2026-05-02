@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-05-02T11:37:43.293Z",
+  "updatedAt": "2026-05-02T12:47:01.812Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-playing-esoteric-ebb-is-like-rolling-the-dice-wi-8a5d0b5cb5",
+      "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+      "tag": "Technology",
+      "publishedAt": "2026-05-02T12:00:00.000Z",
+      "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-infrasound-waves-stop-kitchen-fires-but-can-they-8a7c6025cb",
+      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure",
+      "tag": "Technology",
+      "publishedAt": "2026-05-02T11:30:26.000Z",
+      "summary": "Acoustic fire suppression goes commercial.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-what-you-need-to-know-about-the-foreign-made-rou-db0f333bac",
       "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
@@ -73,26 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-splatoon-raiders-preorders-for-the-switch-2-are--45a84613ae",
-      "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T22:31:00.000Z",
-      "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Rai...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-study-ai-models-that-consider-user-s-feeling-are-6c80bba1b1",
-      "title": "Study: AI models that consider user's feeling are more likely to make errors",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors",
-      "tag": "Technology",
-      "publishedAt": "2026-05-01T22:23:36.000Z",
-      "summary": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-the-things-we-re-building-1987f3a1ad",
+      "title": "The things we’re building",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+      "tag": "Technology",
+      "publishedAt": "2026-05-02T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-8-best-travel-adapters-2026-tested-and-reviewed-9a84360dc5",
       "title": "8 Best Travel Adapters (2026), Tested and Reviewed",
       "source": "Wired",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-02T10:30:00.000Z",
       "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-disneyland-now-uses-face-recognition-on-visitors-db5b5a5ebc",
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors",
-      "tag": "Technology",
-      "publishedAt": "2026-05-02T10:30:00.000Z",
-      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
