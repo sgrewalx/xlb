@@ -1,45 +1,65 @@
 {
-  "updatedAt": "2026-05-02T20:33:39.988Z",
+  "updatedAt": "2026-05-02T21:33:25.210Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-planning-a-world-cup-watch-party-at-a-bar-the-fi-ed6a705bfa",
-      "title": "Planning a World Cup Watch Party at a Bar? The ‘FIFA Police’ Are Lurking",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/02/world/canada/fifa-world-cup-copyright.html",
-      "tag": "Football",
-      "publishedAt": "2026-05-02T20:26:37.000Z",
-      "summary": "Some businesses advertising watch parties in Canada’s two host cities are wary of running afoul of FIFA’s copyright, which protects advertising “World Cup” events.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bargi-dam-tragedy-mp-tourism-launched-cruise-des-e3b81a62b2",
-      "title": "Bargi dam tragedy: MP tourism launched cruise despite high-wind forecast",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/bargi-dam-tragedy-mp-tourism-launched-cruise-despite-high-wind-forecast/articleshow/130724038.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-02T20:14:37.000Z",
-      "summary": "Tragedy struck at Bargi Dam as a cruise, reportedly launched despite severe wind warnings, claimed 11 lives, including children. Officials revealed forecasts predicted winds far...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-why-did-the-uae-quit-opec-and-opec-20fb11bbd7",
-      "title": "Why did the UAE quit OPEC and OPEC+?",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/why-did-the-uae-quit-opec-and-opec/article70932811.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-05-02T20:09:49.000Z",
-      "summary": "What explains the years of simmering competition between Riyadh and Abu Dhabi? How will the UAE’s decision impact oil prices? How has its decision to leave impacted OPEC and OPE...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-at-least-six-dead-in-heavy-rains-in-northeast-br-bffcd4385e",
-      "title": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
+      "id": "news-the-rise-of-political-violence-under-trump-505b041675",
+      "title": "The rise of political violence under Trump",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/2/the-rise-of-political-violence-under-trump?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-05-02T19:59:25.000Z",
-      "summary": "Studies show extreme rain has become more frequent in country, as Pernambuco and Paraiba states again battered.",
+      "publishedAt": "2026-05-02T21:25:34.000Z",
+      "summary": "Redi Tlhabi speaks to Professor Robert Pape on the rise of political violence in the US.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-icrc-president-mirjana-spoljaric-warns-of-the-wa-93ba2e1fa3",
+      "title": "ICRC President Mirjana Spoljaric warns of the war's impact on civilians",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/02/nx-s1-5807914/icrc-president-mirjana-spoljaric-warns-of-the-wars-impact-on-civilians",
+      "tag": "US",
+      "publishedAt": "2026-05-02T21:22:19.000Z",
+      "summary": "The ICRC president talks about her recent trip to Iran, and warns about the impact of the Iran war on civilians.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-delhi-court-rejects-bail-plea-of-al-falah-univer-bedee5103e",
+      "title": "Delhi court rejects bail plea of Al Falah University chairman in money laundering case",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/delhi-court-rejects-bail-plea-of-al-falah-university-chairman-in-money-laundering-case/article70933115.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-02T21:14:52.000Z",
+      "summary": "The ED opposed the bail, citing the gravity of allegations and the ongoing probe",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-two-firs-against-defector-mp-sandeep-pathak-punj-ea8e33668d",
+      "title": "Two FIRs against defector MP Sandeep Pathak? Punjab cops won’t say",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/two-firs-against-defector-mp-pathak-punjab-cops-wont-say/articleshow/130724145.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-02T21:10:58.000Z",
+      "summary": "Two FIRs, reportedly under non-bailable charges, have been filed against Rajya Sabha MP Sandeep Pathak in Punjab, shortly after he switched from AAP to BJP. Political leaders fr...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-timmy-the-stranded-whale-is-released-after-an-el-91b5ee2bc8",
+      "title": "Timmy the Stranded Whale Is Released After an Elaborate Rescue",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/timmy-whale-germany-released.html",
+      "tag": "US",
+      "publishedAt": "2026-05-02T21:07:22.000Z",
+      "summary": "The humpback whale, stuck for weeks in shallow waters off Germany, was towed to the North Sea in a barge. The story captivated the country.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-supreme-court-asked-to-restore-abortion-pill--0b4f577630",
+      "title": "US Supreme Court asked to restore abortion pill access",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-02T21:06:31.000Z",
+      "summary": "A lower court has limited mail-order access to the abortion pill mifepristone, which the drug's maker says will cause \"irreparable harm\".",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -50,26 +70,6 @@
       "tag": "Europe",
       "publishedAt": "2026-05-02T19:53:57.000Z",
       "summary": "Republicans blame Biden administration block on JetBlue deal; Democrats point to fuel price surge amid Iran war Sign up for the Breaking News US newsletter email US airlines and...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-taiwan-s-lai-lands-in-eswatini-in-a-trip-delayed-08a8972f44",
-      "title": "Taiwan's Lai lands in Eswatini in a trip delayed by lack of overflight clearance",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance",
-      "tag": "US",
-      "publishedAt": "2026-05-02T19:48:30.000Z",
-      "summary": "Eswatini remains the only African nation without tariff-free access to China's market due to its ties with Taiwan.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-spirit-airlines-shutting-down-after-rescue-talks-7a905f3d35",
-      "title": "Spirit Airlines shutting down after rescue talks collapse",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-05-02T18:47:35.000Z",
-      "summary": "The airline had been in talks with the Trump administration about a $500m bailout.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-khartoum-drone-strike-kills-five-sudan-ngo-repor-33a24ea2a3",
-      "title": "Khartoum drone strike kills five Sudan NGO reports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-02T19:59:16.000Z",
-      "summary": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
+      "id": "news-election-commission-releases-final-data-4-88-cro-245ccb41fd",
+      "title": "Election Commission releases final data: 4.88 crore people voted in Tamil Nadu",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/election-commission-releases-final-data-4-88-crore-people-voted-in-tamil-nadu/articleshow/130724115.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-02T21:04:18.000Z",
+      "summary": "Tamil Nadu witnessed a record 85.1% voter turnout in the recent assembly elections, with 4.88 crore citizens casting their ballots. Women voters significantly outnumbered men, c...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ukraine-eyes-belarus-border-activities-as-russia-3d28948e70",
-      "title": "Ukraine eyes Belarus border activities as Russian strikes persist",
+      "id": "news-why-are-maritime-laws-failing-to-secure-the-seas-85c15b1f1f",
+      "title": "Why are maritime laws failing to secure the seas?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/2/why-are-maritime-laws-failing-to-secure-the-seas?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-05-02T19:54:30.000Z",
-      "summary": "The role of Belarus in Russia's war on Ukraine has provoked sanctions from Kyiv, which says it is ready to respond.",
+      "publishedAt": "2026-05-02T21:04:01.000Z",
+      "summary": "Wars and territorial disputes are rewriting the rules of global shipping.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
