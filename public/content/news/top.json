@@ -1,15 +1,85 @@
 {
-  "updatedAt": "2026-05-02T16:38:17.836Z",
+  "updatedAt": "2026-05-02T17:38:16.773Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-election-commission-appoints-165-additional-coun-80b5457ee3",
-      "title": "Election Commission appoints 165 additional counting observers, 77 police observers for counting votes in West Bengal",
+      "id": "news-central-corporation-initiative-to-promote-stray--b40da3c314",
+      "title": "Central Corporation initiative to promote stray dog adoption at Cubbon Park on May 3",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/eci-deploys-additional-counting-police-observers-in-west-bengal/article70931509.ece",
+      "url": "https://www.thehindu.com/news/cities/bangalore/central-corporation-initiative-to-promote-stray-dog-adoption-at-cubbon-park-on-may-3/article70932533.ece",
       "tag": "India",
-      "publishedAt": "2026-05-02T16:33:30.000Z",
-      "summary": "Both the Bharatiya Janata Party and the Trinamool Congress hailed the Supreme Court directions on May 2 on the Election Commission’s circular over the deployment of counting per...",
+      "publishedAt": "2026-05-02T17:31:44.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-subversion-of-democratic-process-ec-orders-fresh-8f5f0985c6",
+      "title": "'Subversion of democratic process': EC orders fresh polling in West Bengal's Falta constituency on May 21",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/subversion-of-democratic-process-ec-orders-fresh-polling-in-west-bengals-falta-constituency-on-may-21/articleshow/130720849.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-02T17:27:36.000Z",
+      "summary": "The Election Commission ordered a repoll in Falta constituency on May 21 due to alleged subversion of the democratic process, following BJP claims of EVM tampering. This decisio...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-assam-opposition-dismisses-exit-poll-predictions-299f5981ed",
+      "title": "Assam Opposition Dismisses Exit Poll Predictions Ahead Of Counting Of Votes",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/assam-opposition-dismisses-exit-poll-predictions-says-alliance-set-to-form-government-11440724",
+      "tag": "India",
+      "publishedAt": "2026-05-02T17:27:30.000Z",
+      "summary": "With the counting of votes for the Assam Assembly elections just days away, the Congress-led opposition alliance on Saturday projected confidence in securing power in the state,...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-banksy-confirms-new-statue-installed-in-central--0b977e340e",
+      "title": "Banksy confirms new statue installed in central London is his work",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
+      "tag": "US",
+      "publishedAt": "2026-05-02T17:25:40.000Z",
+      "summary": "The statue in Waterloo Place, which appeared early Wednesday, depicts a man proudly hoisting a flag— but the flag is blinding him.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-top-republicans-express-concern-over-withdrawal--cf32c6c172",
+      "title": "Top Republicans express concern over withdrawal of US troops from Germany – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-05-02T17:22:24.000Z",
+      "summary": "Senator Roger Wicker and representative Mike Rogers say move risks undermining deterrence and sending wrong signal to Putin Full report: Nato seeks to ‘understand the details’ a...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-yemen-reports-hijacked-oil-tanker-headed-for-som-81aa016be8",
+      "title": "Yemen reports hijacked oil tanker headed for Somalia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-02T17:10:29.000Z",
+      "summary": "The incident marks at least the fourth vessel hijacking near Somalia in recent weeks.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-mexican-governor-accused-by-u-s-of-aiding-drug-c-be031d389d",
+      "title": "Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
+      "tag": "US",
+      "publishedAt": "2026-05-02T17:08:44.000Z",
+      "summary": "U.S. prosecutors accused Rubén Rocha Moya of protecting the powerful Sinaloa Cartel in exchange for bribes and political support, setting off a national scandal.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-thirteen-killed-in-israeli-strikes-on-southern-l-b867b92364",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-02T16:51:18.000Z",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,76 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-tells-congress-ceasefire-means-he-does-not-f24db87957",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-02T16:29:06.000Z",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-germany-says-it-expected-trump-s-withdrawal-of-u-236bb8ffab",
-      "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-05-02T16:28:26.000Z",
-      "summary": "German defence minister responds to US president’s announcement that 5,000 US troops will leave bases in Germany Full report: Nato seeks to ‘understand the details’ after US dec...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-kerala-polls-three-names-in-race-for-cm-post-if--6b3e836cbf",
-      "title": "Kerala polls: Three names in race for CM post if UDF wins, says Congress leader PJ Kurien",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/kerala-polls-three-names-in-race-for-cm-post-if-udf-wins-says-congress-leader-pj-kurien/articleshow/130720249.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-02T16:23:13.000Z",
-      "summary": "Veteran Congress leader PJ Kurien stated that only three names are under serious consideration for the Chief Minister post if the UDF wins in Kerala. He emphasized that the part...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-u-s-fast-tracks-arms-deals-valued-at-8-6-billion-dc65970a92",
-      "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
-      "tag": "Running",
-      "publishedAt": "2026-05-02T16:18:32.000Z",
-      "summary": "The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U.S.-Israeli war with Iran. The State Department move bypassed congressional review.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-imprisoned-iranian-nobel-peace-prize-winner-in-c-9f420ad137",
-      "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition",
-      "tag": "US",
-      "publishedAt": "2026-05-02T15:57:43.000Z",
-      "summary": "Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a Ma...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-mexico-s-sinaloa-state-governor-resigns-amid-us--01cf09068b",
-      "title": "Mexico’s Sinaloa state governor resigns amid US drug trafficking charges",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/mexicos-sinaloa-state-governor-resigns-amid-us-drug-trafficking-charges?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-02T15:52:31.000Z",
-      "summary": "Ruben Rocha Moya again denies allegations he shielded cartel, says taking 'temporary leave' to defend self.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-central-staff-give-credence-top-court-to-trinamo-44268359fd",
-      "title": "\"Central Staff, Give Credence\": Top Court To Trinamool Over Plea Against Poll Body",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/theyre-government-staff-give-them-some-credence-supreme-court-to-trinamool-over-petition-against-election-commission-11438368",
-      "tag": "India",
-      "publishedAt": "2026-05-02T15:46:02.000Z",
-      "summary": "\"They're Government Staff, Give Them Some Credence\": Supreme Court To Trinamool Over Petition Against Election Commission",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-early-signals-of-a-shifting-consumption-cycle-64ec4e322a",
       "title": "Early signals of a shifting consumption cycle",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-heavy-rain-winds-wreak-havoc-in-thrissur-4fd0ce24d3",
-      "title": "Heavy rain, winds wreak havoc in Thrissur",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/heavy-rain-winds-wreak-havoc-in-thrissur/article70932926.ece",
+      "id": "news-subversion-of-democratic-process-bengal-s-falta--e1b2cbc89c",
+      "title": "\"Subversion Of Democratic Process\": Bengal's Falta To See Repolling On May 21",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/poll-body-announces-repolling-in-all-285-polling-stations-in-west-bengals-falta-cites-subversion-of-democratic-process-11440564",
       "tag": "India",
-      "publishedAt": "2026-05-02T16:32:21.000Z",
-      "summary": "Festival pandal collapses at Koodalmanikyam Temple",
+      "publishedAt": "2026-05-02T17:27:27.000Z",
+      "summary": "Poll body announces repolling in all 285 polling stations in West Bengal's Falta, cites \"subversion of democratic process\"",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-maniyar-hydel-project-kseb-s-takeover-bid-put-on-817627ac75",
-      "title": "Maniyar hydel project: KSEB’s takeover bid put on hold",
+      "id": "news-assembly-elections-2026-eci-orders-another-round-1a2218b47f",
+      "title": "Assembly elections 2026: ECI orders another round of repoll in all booths of Bengal's Falta seat on May 21",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/maniyar-hydel-project-carborundum-universal-expresses-dismay-over-kseb-takeover-bid/article70932207.ece",
+      "url": "https://www.thehindu.com/news/national/assembly-elections-live-updates-may-2-2026-tamil-nadu-west-bengal-assam-kerala-pondicherry-results/article70930663.ece",
       "tag": "India",
-      "publishedAt": "2026-05-02T16:31:52.000Z",
-      "summary": "Recently, govt. asked KSEB to take over the 12 MW unit since the pact with Carborundum had ended in December 2024. On April 29, signages proclaiming ‘KSEB property’ were planted...",
+      "publishedAt": "2026-05-02T17:24:04.000Z",
+      "summary": "Demanding safety after counting of votes, hundreds of villagers staged a protest in Falta in West Bengal’s South 24 Parganas district, alleging they were receiving life threats...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
