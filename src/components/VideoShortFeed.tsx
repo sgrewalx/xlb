@@ -79,9 +79,9 @@ export function VideoShortFeed({ items, loading, error }: VideoShortFeedProps) {
   }
 
   return (
-    <section className="section-block" id="video-shorts">
+    <section className="section-block video-reel-section" id="video-shorts">
       <div className="short-viewer-shell">
-        <article className="card short-viewer-card">
+        <article className="short-viewer-card">
           <div className="short-viewer-frame">
             <iframe
               src={buildEmbedSrc(activeItem.embedUrl)}
@@ -90,20 +90,22 @@ export function VideoShortFeed({ items, loading, error }: VideoShortFeedProps) {
               allowFullScreen
               loading="eager"
             />
-          </div>
-          <div className="short-viewer-overlay">
-            <div className="card-chip-row">
-              <span className="chip chip-space">{activeItem.isShort ? "Shorts" : "Video"}</span>
-              <span className="muted">
-                {activeIndex + 1} / {total}
-              </span>
+            <div className="short-viewer-frame-gradient" />
+            <div className="short-viewer-count">
+              {activeIndex + 1} / {total}
             </div>
-            <div className="short-viewer-copy">
-              <h2>{activeItem.title}</h2>
-              <p>{activeItem.summary}</p>
+            <div className="short-viewer-overlay">
+              <div className="card-chip-row">
+                <span className="chip chip-space">{activeItem.isShort ? "Shorts" : "Video"}</span>
+                <span className="chip chip-earth">{activeItem.relatedLabel}</span>
+              </div>
+              <div className="short-viewer-copy">
+                <h2>{activeItem.title}</h2>
+                <p>{activeItem.summary}</p>
+              </div>
               <div className="event-related-list">
                 <Link className="event-related-link" to={activeItem.relatedPath}>
-                  {activeItem.relatedLabel}
+                  Open topic
                 </Link>
                 <a className="event-related-link" href={activeItem.url} rel="noreferrer" target="_blank">
                   Open source

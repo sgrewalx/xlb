@@ -145,6 +145,7 @@ function AppChrome() {
   const quotes = useContent<QuoteFeed>("/content/quotes/quotes.json");
   const location = useLocation();
   const isOpsView = import.meta.env.DEV && location.pathname === "/__ops";
+  const isVideoView = location.pathname === "/video";
 
   return (
     <div className="site-shell">
@@ -302,7 +303,7 @@ function AppChrome() {
           />
         </Routes>
       </main>
-      {isOpsView ? null : <Footer />}
+      {isOpsView || isVideoView ? null : <Footer />}
     </div>
   );
 }
