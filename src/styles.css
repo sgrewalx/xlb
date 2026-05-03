@@ -2031,6 +2031,16 @@ img {
   width: 100%;
 }
 
+.home-video-card-full .short-card-player {
+  min-height: 0;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+
+.home-video-card-full .short-card-player iframe {
+  display: block;
+}
+
 .hero-pill-row {
   display: flex;
   flex-wrap: wrap;
