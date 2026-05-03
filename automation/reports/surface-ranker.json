@@ -1,0 +1,150 @@
+{
+  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "surfaces": {
+    "home": [
+      {
+        "id": "home-happening-now",
+        "rank": 1,
+        "title": "Happening now",
+        "ctaUrl": "/live",
+        "itemCount": 3
+      },
+      {
+        "id": "home-next-24-hours",
+        "rank": 2,
+        "title": "Next 24 hours",
+        "ctaUrl": "/live/space",
+        "itemCount": 1
+      },
+      {
+        "id": "home-why-people-check",
+        "rank": 3,
+        "title": "Why people are checking this",
+        "ctaUrl": "/video",
+        "itemCount": 3
+      }
+    ],
+    "video": [
+      {
+        "id": "video-shashi-tharoor-twins-with-peacock-photos-go-vira-48fe1755e2",
+        "rank": 1,
+        "retentionScore": 58,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-sachin-tendulkar-removes-shoes-to-receive-lord-v-9902e88966",
+        "rank": 2,
+        "retentionScore": 55,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-iran-war-us-achieved-no-goals-aragchi-stings-tru-c58b7d892f",
+        "rank": 3,
+        "retentionScore": 52,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-bengal-polls-clash-erupts-between-tmc-bjp-worker-5f7cef2bb7",
+        "rank": 4,
+        "retentionScore": 48,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mumbai-family-dies-by-food-poisoning-watermelon--eadaa2f024",
+        "rank": 5,
+        "retentionScore": 47,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-delhi-virat-kohli-inaugurates-a-branch-of-west-d-d9af311f35",
+        "rank": 6,
+        "retentionScore": 47,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-us-news-live-bongino-exposes-security-gaps-at-wh-0c41c6ae2d",
+        "rank": 7,
+        "retentionScore": 38,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-odisha-elderly-man-carries-sister-s-exhumed-rema-6acbf582d9",
+        "rank": 8,
+        "retentionScore": 38,
+        "freshnessScore": 0,
+        "relatedPath": "/news"
+      }
+    ],
+    "games": [
+      {
+        "id": "headline-match",
+        "rank": 1,
+        "featured": true,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "timeline-sort",
+        "rank": 2,
+        "featured": true,
+        "relatedPath": "/live"
+      },
+      {
+        "id": "world-quiz",
+        "rank": 3,
+        "featured": true,
+        "relatedPath": "/gallery"
+      },
+      {
+        "id": "rapid-reaction",
+        "rank": 4,
+        "featured": true,
+        "relatedPath": "/live/space"
+      },
+      {
+        "id": "sudoku",
+        "rank": 5,
+        "featured": false,
+        "relatedPath": "/games"
+      },
+      {
+        "id": "memory",
+        "rank": 6,
+        "featured": false,
+        "relatedPath": "/games"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "gallery-quake-snapshots",
+        "rank": 1,
+        "category": "quake",
+        "entryCount": 3
+      },
+      {
+        "id": "gallery-aurora-state",
+        "rank": 2,
+        "category": "aurora",
+        "entryCount": 3
+      },
+      {
+        "id": "gallery-launch-windows",
+        "rank": 3,
+        "category": "launch",
+        "entryCount": 3
+      },
+      {
+        "id": "gallery-topic-rotation",
+        "rank": 4,
+        "category": "topic",
+        "entryCount": 3
+      }
+    ]
+  }
+}

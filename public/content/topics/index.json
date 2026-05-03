@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T05:29:54.492Z",
+  "updatedAt": "2026-05-03T04:57:34.917Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -8,9 +8,9 @@
       "summary": "USGS Earthquake Hazards Program keeps this topic current with source-backed global quake monitoring and rapid revisit value when seismic activity spikes.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 82,
+      "bestScore": 101,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-05-03T04:57:34.917Z"
     },
     {
       "slug": "space-weather",
@@ -19,9 +19,9 @@
       "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 82,
+      "bestScore": 100,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-05-03T04:57:34.917Z"
     },
     {
       "slug": "nasa",
@@ -30,20 +30,20 @@
       "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 89,
+      "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-05-03T04:57:34.917Z"
     },
     {
       "slug": "launches",
       "title": "Launches",
       "category": "space",
-      "summary": "1 source-backed launch page are active here, led by NASA’s SpaceX CRS-34 around May 1.",
-      "eventCount": 1,
-      "promotedEventCount": 1,
-      "bestScore": 80,
+      "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
+      "eventCount": 3,
+      "promotedEventCount": 3,
+      "bestScore": 0,
       "recommendation": "hold",
-      "updatedAt": "2026-04-14T05:29:54.492Z"
+      "updatedAt": "2026-05-03T04:57:34.917Z"
     }
   ]
 }

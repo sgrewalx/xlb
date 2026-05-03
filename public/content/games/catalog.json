@@ -1,0 +1,78 @@
+{
+  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "thesis": "Games are a retention layer tied to live content, not a standalone acquisition thesis.",
+  "items": [
+    {
+      "id": "headline-match",
+      "mode": "headline-match",
+      "title": "Headline Match",
+      "description": "Sort current headlines into the right section before the timer runs out.",
+      "relatedPath": "/news",
+      "relatedLabel": "Go to News",
+      "prompt": "Use the latest News, Sports, and Tech items from News, Sports, and Tech.",
+      "metricLabel": "Fresh prompts",
+      "metricValue": "36",
+      "featured": true
+    },
+    {
+      "id": "timeline-sort",
+      "mode": "timeline-sort",
+      "title": "Timeline Sort",
+      "description": "Re-order live events from soonest to latest using the active event deck.",
+      "relatedPath": "/live",
+      "relatedLabel": "Go to Live",
+      "prompt": "Use active live events such as Aurora watch, Global earthquake watch, NASA live programming.",
+      "metricLabel": "Active events",
+      "metricValue": "4",
+      "featured": true
+    },
+    {
+      "id": "world-quiz",
+      "mode": "world-quiz",
+      "title": "World Quiz",
+      "description": "Answer quick questions pulled from current live topics and sources.",
+      "relatedPath": "/gallery",
+      "relatedLabel": "Go to Gallery",
+      "prompt": "Focus on Earthquakes and source-backed facts.",
+      "metricLabel": "Fresh prompts",
+      "metricValue": "4",
+      "featured": true
+    },
+    {
+      "id": "rapid-reaction",
+      "mode": "rapid-reaction",
+      "title": "Rapid Reaction",
+      "description": "Tap through a short focus drill tied to the live-event clock.",
+      "relatedPath": "/live/space",
+      "relatedLabel": "Go to Live Space",
+      "prompt": "Use a short timer tied to the CLPS Flight: Astrobotic Griffin-1 cadence.",
+      "metricLabel": "Target time",
+      "metricValue": "10 taps",
+      "featured": true
+    },
+    {
+      "id": "sudoku",
+      "mode": "sudoku",
+      "title": "Sudoku",
+      "description": "A slower logic game for longer dwell time between live checks.",
+      "relatedPath": "/games",
+      "relatedLabel": "Stay in Games",
+      "prompt": "Keep this as a replayable support mode inside the Games section.",
+      "metricLabel": "Session depth",
+      "metricValue": "71",
+      "featured": false
+    },
+    {
+      "id": "memory",
+      "mode": "memory",
+      "title": "Memory",
+      "description": "Quick pattern recall with XLB symbols and event cues.",
+      "relatedPath": "/games",
+      "relatedLabel": "Stay in Games",
+      "prompt": "Keep this as a replayable support mode inside the Games section.",
+      "metricLabel": "Session depth",
+      "metricValue": "71",
+      "featured": false
+    }
+  ]
+}

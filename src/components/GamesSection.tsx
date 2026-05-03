@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { trackGameLifecycle } from "../lib/analytics";
 
 type SudokuValue = number | null;
 type SudokuBoard = SudokuValue[][];
@@ -207,6 +208,10 @@ export default function GamesSection() {
   const memorySolved = matchedLabels.length === MEMORY_SYMBOLS.length;
 
   useEffect(() => {
+    trackGameLifecycle("game_start", activeGame);
+  }, [activeGame]);
+
+  useEffect(() => {
     if (activeGame !== "sudoku") {
       return;
     }
@@ -242,6 +247,18 @@ export default function GamesSection() {
     const timeout = window.setTimeout(() => setFlippedCards([]), 820);
     return () => window.clearTimeout(timeout);
   }, [flippedCards, memoryDeck]);
+
+  useEffect(() => {
+    if (isSolved) {
+      trackGameLifecycle("game_complete", "sudoku", correctEntries);
+    }
+  }, [correctEntries, isSolved]);
+
+  useEffect(() => {
+    if (memorySolved) {
+      trackGameLifecycle("game_complete", "memory", matchedLabels.length);
+    }
+  }, [matchedLabels.length, memorySolved]);
 
   function loadDifficulty(nextDifficulty: Difficulty) {
     setDifficulty(nextDifficulty);

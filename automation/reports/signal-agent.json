@@ -1,0 +1,113 @@
+{
+  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "snapshotFile": "merged-2026-05-02.json",
+  "capturedAt": "2026-05-02T06:00:00.000Z",
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": true,
+    "adsense": false
+  },
+  "topPages": [
+    {
+      "path": "/video",
+      "pageviews": 15,
+      "searchImpressions": 0,
+      "engagementScore": 100,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/news",
+      "pageviews": 14,
+      "searchImpressions": 0,
+      "engagementScore": 87,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/sports",
+      "pageviews": 12,
+      "searchImpressions": 2,
+      "engagementScore": 75,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/",
+      "pageviews": 9,
+      "searchImpressions": 5,
+      "engagementScore": 100,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/events/aurora-watch",
+      "pageviews": 8,
+      "searchImpressions": 0,
+      "engagementScore": 100,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/tech",
+      "pageviews": 8,
+      "searchImpressions": 0,
+      "engagementScore": 73,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/live",
+      "pageviews": 7,
+      "searchImpressions": 0,
+      "engagementScore": 100,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/live/earth",
+      "pageviews": 4,
+      "searchImpressions": 0,
+      "engagementScore": 75,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/live/space",
+      "pageviews": 3,
+      "searchImpressions": 0,
+      "engagementScore": 74,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "pageviews": 2,
+      "searchImpressions": 0,
+      "engagementScore": 100,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    }
+  ]
+}

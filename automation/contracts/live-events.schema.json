@@ -117,6 +117,31 @@
             "minimum": 0,
             "maximum": 100
           },
+          "importance": {
+            "type": "number",
+            "minimum": 0
+          },
+          "featuredReason": {
+            "type": "string"
+          },
+          "relatedVideoIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "relatedGameIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "relatedGalleryIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
           "updatedAt": {
             "type": "string",
             "format": "date-time"

@@ -1,115 +1,26 @@
 {
-  "assessedAt": "2026-04-14T05:29:54.958Z",
-  "status": "cold-start",
-  "isAutoDeployEligible": false,
-  "streaks": {
-    "healthySource": 4,
-    "analyticsCoverage": 0,
-    "autonomyEligible": 0
+  "assessedAt": "2026-05-03T04:57:34.917Z",
+  "status": "active-learning",
+  "isAutoDeployEligible": true,
+  "productThesis": "live-events-plus-shorts",
+  "manifestPublishMode": "main-direct",
+  "surfaceVersions": {
+    "home": "2026-05-03T04:57:34.917Z",
+    "video": "2026-05-03T04:57:34.917Z",
+    "games": "2026-05-03T04:57:34.917Z",
+    "gallery": "2026-05-03T04:57:34.917Z"
   },
-  "thresholds": {
-    "minimumHealthyStreak": 3,
-    "minimumAnalyticsStreak": 3,
-    "minimumAutonomyStreak": 3
+  "signals": {
+    "snapshot": "merged-2026-05-02.json",
+    "activeSignals": 27,
+    "homePageviews": 9,
+    "livePageviews": 7,
+    "videoPageviews": 15,
+    "returnVisitors": 0
   },
-  "recentRuns": [
-    {
-      "assessedAt": "2026-04-14T05:29:54.958Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-04-12T05:49:59.783Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": true
-    },
-    {
-      "assessedAt": "2026-04-10T02:49:12.188Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-04-07T08:51:53.158Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-04-07T08:50:49.840Z",
-      "sourceHealthy": false,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-04-07T08:50:01.804Z",
-      "sourceHealthy": false,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-04-02T06:00:49.400Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": true
-    },
-    {
-      "assessedAt": "2026-03-30T05:52:05.267Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-03-28T04:01:02.368Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-03-28T03:54:14.289Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-03-28T03:53:24.426Z",
-      "sourceHealthy": false,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-03-28T03:49:27.581Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-03-28T03:44:13.472Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    },
-    {
-      "assessedAt": "2026-03-28T03:37:45.474Z",
-      "sourceHealthy": true,
-      "hasRealAnalyticsCoverage": false,
-      "coldStartOverrideEligible": false,
-      "eligibleForAutoDeployNow": false
-    }
+  "focus": [
+    "Promote live event pages and shorts on the home page.",
+    "Keep games and gallery as retention surfaces until they show measurable lift.",
+    "Auto-publish manifest-only changes directly to main."
   ]
 }

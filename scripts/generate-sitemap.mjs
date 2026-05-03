@@ -7,6 +7,10 @@ const NEWS_FILE = new URL("../public/content/news/top3.json", import.meta.url);
 const SPORTS_FILE = new URL("../public/content/sports/top3.json", import.meta.url);
 const TECH_FILE = new URL("../public/content/tech/top3.json", import.meta.url);
 const VIDEO_FILE = new URL("../public/content/video/top3.json", import.meta.url);
+const VIDEO_SHORTS_FILE = new URL("../public/content/video/shorts.json", import.meta.url);
+const HOME_MODULES_FILE = new URL("../public/content/home/modules.json", import.meta.url);
+const GAMES_FILE = new URL("../public/content/games/catalog.json", import.meta.url);
+const GALLERY_FILE = new URL("../public/content/gallery/collections.json", import.meta.url);
 const QUOTES_FILE = new URL("../public/content/quotes/quotes.json", import.meta.url);
 const XLB_FILE = new URL("../public/content/xlb/top3.json", import.meta.url);
 const OUTPUT_FILE = new URL("../public/sitemap.xml", import.meta.url);
@@ -30,13 +34,17 @@ const staticPaths = [
 ];
 
 async function main() {
-  const [events, topics, news, sports, tech, video, quotes, xlb] = await Promise.all([
+  const [events, topics, news, sports, tech, video, videoShorts, homeModules, games, gallery, quotes, xlb] = await Promise.all([
     readJson(EVENTS_FILE),
     readJson(TOPICS_FILE),
     readJson(NEWS_FILE),
     readJson(SPORTS_FILE),
     readJson(TECH_FILE),
     readJson(VIDEO_FILE),
+    readJson(VIDEO_SHORTS_FILE),
+    readJson(HOME_MODULES_FILE),
+    readJson(GAMES_FILE),
+    readJson(GALLERY_FILE),
     readJson(QUOTES_FILE),
     readJson(XLB_FILE),
   ]);
@@ -47,6 +55,10 @@ async function main() {
     sports.updatedAt,
     tech.updatedAt,
     video.updatedAt,
+    videoShorts.updatedAt,
+    homeModules.updatedAt,
+    games.updatedAt,
+    gallery.updatedAt,
     quotes.updatedAt,
     xlb.updatedAt,
   ]);
@@ -58,7 +70,9 @@ async function main() {
     ["/sports", sports.updatedAt],
     ["/news", news.updatedAt],
     ["/tech", tech.updatedAt],
-    ["/video", video.updatedAt],
+    ["/video", maxDate([video.updatedAt, videoShorts.updatedAt])],
+    ["/games", games.updatedAt],
+    ["/gallery", gallery.updatedAt],
   ]);
 
   const dynamicPaths = [

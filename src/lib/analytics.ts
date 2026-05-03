@@ -60,6 +60,17 @@ export function trackPageView(path: string, title: string) {
   });
 }
 
+type AnalyticsParams = Record<string, string | number | boolean | undefined>;
+
+export function trackEvent(name: string, params: AnalyticsParams = {}) {
+  if (!hasMeasurementId()) {
+    return;
+  }
+
+  ensureAnalytics();
+  window.gtag?.("event", name, params);
+}
+
 type OutboundEvent = {
   destination: string;
   label: string;
@@ -68,18 +79,63 @@ type OutboundEvent = {
 };
 
 export function trackOutboundClick({ destination, label, category, context }: OutboundEvent) {
-  if (!hasMeasurementId()) {
-    return;
-  }
-
-  ensureAnalytics();
-  window.gtag?.("event", category, {
+  trackEvent(category, {
     event_category: "outbound_link",
     event_label: label,
     link_url: destination,
     link_domain: safeDomain(destination),
     context,
     outbound: true,
+  });
+}
+
+export function trackVideoPlayStart(videoId: string, title: string, relatedPath: string) {
+  trackEvent("video_play_start", {
+    video_id: videoId,
+    video_title: title,
+    related_path: relatedPath,
+  });
+}
+
+export function trackVideoPlayComplete(videoId: string, title: string, secondsWatched: number) {
+  trackEvent("video_play_complete", {
+    video_id: videoId,
+    video_title: title,
+    seconds_watched: secondsWatched,
+  });
+}
+
+export function trackVideoScrollDepth(depth: number) {
+  trackEvent("video_scroll_depth", {
+    depth_percent: depth,
+  });
+}
+
+export function trackGameLifecycle(eventName: "game_start" | "game_complete", mode: string, score?: number) {
+  trackEvent(eventName, {
+    game_mode: mode,
+    score,
+  });
+}
+
+export function trackGalleryOpen(collectionId: string, entryId: string, href: string) {
+  trackEvent("gallery_card_open", {
+    collection_id: collectionId,
+    entry_id: entryId,
+    target_path: href,
+  });
+}
+
+export function trackHomeLiveCardClick(moduleId: string, href: string) {
+  trackEvent("home_live_card_click", {
+    module_id: moduleId,
+    target_path: href,
+  });
+}
+
+export function trackReturnVisitEntry(path: string) {
+  trackEvent("return_visit_entry", {
+    entry_path: path,
   });
 }
 

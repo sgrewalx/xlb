@@ -1,0 +1,57 @@
+{
+  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "games": [
+    {
+      "id": "headline-match",
+      "featured": true,
+      "relatedPath": "/news"
+    },
+    {
+      "id": "timeline-sort",
+      "featured": true,
+      "relatedPath": "/live"
+    },
+    {
+      "id": "world-quiz",
+      "featured": true,
+      "relatedPath": "/gallery"
+    },
+    {
+      "id": "rapid-reaction",
+      "featured": true,
+      "relatedPath": "/live/space"
+    },
+    {
+      "id": "sudoku",
+      "featured": false,
+      "relatedPath": "/games"
+    },
+    {
+      "id": "memory",
+      "featured": false,
+      "relatedPath": "/games"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gallery-quake-snapshots",
+      "category": "quake",
+      "entries": 3
+    },
+    {
+      "id": "gallery-aurora-state",
+      "category": "aurora",
+      "entries": 3
+    },
+    {
+      "id": "gallery-launch-windows",
+      "category": "launch",
+      "entries": 3
+    },
+    {
+      "id": "gallery-topic-rotation",
+      "category": "topic",
+      "entries": 3
+    }
+  ]
+}

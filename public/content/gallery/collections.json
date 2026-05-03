@@ -1,0 +1,154 @@
+{
+  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
+  "items": [
+    {
+      "id": "gallery-quake-snapshots",
+      "title": "Quake snapshots",
+      "description": "A compact visual explainer around earthquake activity and repeat-check behavior.",
+      "category": "quake",
+      "relatedPath": "/events/global-earthquake-watch",
+      "relatedLabel": "Open earthquake watch",
+      "entries": [
+        {
+          "id": "quake-primary",
+          "title": "Global earthquake watch",
+          "summary": "USGS reported 251 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 17 km SW of Kōya, Japan.",
+          "metricLabel": "Updated",
+          "metricValue": "May 3, 04:57 AM",
+          "href": "/events/global-earthquake-watch",
+          "accent": "earth"
+        },
+        {
+          "id": "quake-earth",
+          "title": "Earth live rail",
+          "summary": "See how earthquake monitoring sits inside the broader earth-event surface.",
+          "metricLabel": "Live pages",
+          "metricValue": "4",
+          "href": "/live/earth",
+          "accent": "signal"
+        },
+        {
+          "id": "quake-topic",
+          "title": "Earthquakes topic",
+          "summary": "Topic route for crawlable follow-through and internal linking.",
+          "metricLabel": "Promoted",
+          "metricValue": "1",
+          "href": "/topics/earthquakes",
+          "accent": "earth"
+        }
+      ]
+    },
+    {
+      "id": "gallery-aurora-state",
+      "title": "Aurora state cards",
+      "description": "Current Kp conditions, why they matter, and where the related traffic is landing.",
+      "category": "aurora",
+      "relatedPath": "/events/aurora-watch",
+      "relatedLabel": "Open aurora watch",
+      "entries": [
+        {
+          "id": "aurora-primary",
+          "title": "Aurora watch",
+          "summary": "Current geomagnetic conditions are near Kp 2. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "metricLabel": "Pageviews",
+          "metricValue": "8",
+          "href": "/events/aurora-watch",
+          "accent": "space"
+        },
+        {
+          "id": "aurora-space",
+          "title": "Space live rail",
+          "summary": "Browse the related launch and space-weather inventory.",
+          "metricLabel": "Space views",
+          "metricValue": "3",
+          "href": "/live/space",
+          "accent": "signal"
+        },
+        {
+          "id": "aurora-topic",
+          "title": "Space weather topic",
+          "summary": "Crawlable topic route connected to the event page and homepage modules.",
+          "metricLabel": "Best score",
+          "metricValue": "100",
+          "href": "/topics/space-weather",
+          "accent": "space"
+        }
+      ]
+    },
+    {
+      "id": "gallery-launch-windows",
+      "title": "Launch timeline visuals",
+      "description": "The upcoming launch rail pulled into a scan-friendly explainer layout.",
+      "category": "launch",
+      "relatedPath": "/live/space",
+      "relatedLabel": "Open live space",
+      "entries": [
+        {
+          "id": "space-launch-clps-flight-astrobotic-griffin-1",
+          "title": "CLPS Flight: Astrobotic Griffin-1",
+          "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "metricLabel": "Countdown",
+          "metricValue": "59d 7h",
+          "href": "/events/clps-flight-astrobotic-griffin-1",
+          "accent": "space"
+        },
+        {
+          "id": "space-launch-nasa-s-spacex-crs-35",
+          "title": "NASA’s SpaceX CRS-35",
+          "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "metricLabel": "Countdown",
+          "metricValue": "Starting",
+          "href": "/events/nasa-s-spacex-crs-35",
+          "accent": "space"
+        },
+        {
+          "id": "space-launch-roscosmos-progress-96",
+          "title": "Roscosmos Progress 96",
+          "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "metricLabel": "Countdown",
+          "metricValue": "Starting",
+          "href": "/events/roscosmos-progress-96",
+          "accent": "space"
+        }
+      ]
+    },
+    {
+      "id": "gallery-topic-rotation",
+      "title": "Topic rotation",
+      "description": "Internal-link depth and search entry points selected from the strongest live topics.",
+      "category": "topic",
+      "relatedPath": "/live",
+      "relatedLabel": "Open full live inventory",
+      "entries": [
+        {
+          "id": "earthquakes",
+          "title": "Earthquakes",
+          "summary": "USGS Earthquake Hazards Program keeps this topic current with source-backed global quake monitoring and rapid revisit value when seismic activity spikes.",
+          "metricLabel": "Best score",
+          "metricValue": "101",
+          "href": "/topics/earthquakes",
+          "accent": "signal"
+        },
+        {
+          "id": "space-weather",
+          "title": "Space Weather",
+          "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
+          "metricLabel": "Event count",
+          "metricValue": "1",
+          "href": "/topics/space-weather",
+          "accent": "space"
+        },
+        {
+          "id": "nasa",
+          "title": "NASA",
+          "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
+          "metricLabel": "Event count",
+          "metricValue": "1",
+          "href": "/topics/nasa",
+          "accent": "signal"
+        }
+      ]
+    }
+  ]
+}

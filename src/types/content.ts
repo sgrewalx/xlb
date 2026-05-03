@@ -82,6 +82,11 @@ export interface LiveEventItem {
   coverageMode: "link" | "embed_candidate" | "summary";
   safeToPromote: boolean;
   heroPriority?: number;
+  importance?: number;
+  featuredReason?: string;
+  relatedVideoIds?: string[];
+  relatedGameIds?: string[];
+  relatedGalleryIds?: string[];
   rightsProfile: string;
   cadence: string;
   audienceIntent: string;
@@ -136,4 +141,104 @@ export interface TopicItem {
 export interface TopicsFeed {
   updatedAt: string;
   items: TopicItem[];
+}
+
+export interface SurfaceItemLink {
+  label: string;
+  href: string;
+}
+
+export interface HomeModuleItem {
+  id: string;
+  title: string;
+  href: string;
+  label: string;
+  summary: string;
+  meta: string;
+}
+
+export interface HomeModule {
+  id: string;
+  kind: "happening_now" | "next_24_hours" | "why_people_check";
+  title: string;
+  description: string;
+  ctaLabel: string;
+  ctaUrl: string;
+  metrics: ModuleMetric[];
+  items: HomeModuleItem[];
+  relatedLinks: SurfaceItemLink[];
+}
+
+export interface HomeModulesFeed {
+  updatedAt: string;
+  thesis: string;
+  items: HomeModule[];
+}
+
+export interface VideoShort {
+  id: string;
+  title: string;
+  source: string;
+  url: string;
+  embedUrl: string;
+  publishedAt: string;
+  summary: string;
+  relatedPath: string;
+  relatedLabel: string;
+  sourceCategory: "youtube";
+  isShort: boolean;
+  freshnessScore: number;
+  diversityScore: number;
+  retentionScore: number;
+}
+
+export interface VideoShortsFeed {
+  updatedAt: string;
+  thesis: string;
+  items: VideoShort[];
+}
+
+export interface GameCatalogItem {
+  id: string;
+  mode: string;
+  title: string;
+  description: string;
+  prompt: string;
+  relatedPath: string;
+  relatedLabel: string;
+  metricLabel: string;
+  metricValue: string;
+  featured: boolean;
+}
+
+export interface GamesCatalogFeed {
+  updatedAt: string;
+  thesis: string;
+  items: GameCatalogItem[];
+}
+
+export interface GalleryCollectionEntry {
+  id: string;
+  title: string;
+  summary: string;
+  metricLabel: string;
+  metricValue: string;
+  href: string;
+  accent: "earth" | "space" | "signal";
+}
+
+export interface GalleryCollectionItem {
+  id: string;
+  title: string;
+  description: string;
+  category: "quake" | "aurora" | "launch" | "topic";
+  relatedPath: string;
+  relatedLabel: string;
+  entries: GalleryCollectionEntry[];
+}
+
+export interface GalleryCollectionsFeed {
+  updatedAt: string;
+  thesis: string;
+  items: GalleryCollectionItem[];
 }

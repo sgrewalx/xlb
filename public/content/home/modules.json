@@ -1,0 +1,176 @@
+{
+  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
+  "items": [
+    {
+      "id": "home-happening-now",
+      "kind": "happening_now",
+      "title": "Happening now",
+      "description": "The pages below are the fastest path into changing information on the site right now.",
+      "ctaLabel": "Open Live",
+      "ctaUrl": "/live",
+      "metrics": [
+        {
+          "label": "Live pages",
+          "value": "3"
+        },
+        {
+          "label": "Tracked sources",
+          "value": "4"
+        },
+        {
+          "label": "Top pulse",
+          "value": "15"
+        }
+      ],
+      "items": [
+        {
+          "id": "space-aurora-watch",
+          "title": "Aurora watch",
+          "href": "/events/aurora-watch",
+          "label": "Monitoring",
+          "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
+          "meta": "NOAA Space Weather Prediction Center · May 3, 04:54 AM"
+        },
+        {
+          "id": "earth-global-earthquake-watch",
+          "title": "Global earthquake watch",
+          "href": "/events/global-earthquake-watch",
+          "label": "Monitoring",
+          "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
+          "meta": "USGS Earthquake Hazards Program · May 3, 04:50 AM"
+        },
+        {
+          "id": "space-nasa-live-programming",
+          "title": "NASA live programming",
+          "href": "/events/nasa-live-programming",
+          "label": "Watch",
+          "summary": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
+          "meta": "NASA · Mar 27, 12:00 AM"
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "Full live inventory",
+          "href": "/live"
+        },
+        {
+          "label": "Video feed",
+          "href": "/video"
+        },
+        {
+          "label": "Space live pages",
+          "href": "/live/space"
+        }
+      ]
+    },
+    {
+      "id": "home-next-24-hours",
+      "kind": "next_24_hours",
+      "title": "Next 24 hours",
+      "description": "Upcoming launches and scheduled watch points that reward a return visit within a day.",
+      "ctaLabel": "Open launch rail",
+      "ctaUrl": "/live/space",
+      "metrics": [
+        {
+          "label": "Next-day events",
+          "value": "1"
+        },
+        {
+          "label": "Launch candidates",
+          "value": "1"
+        },
+        {
+          "label": "Return loop",
+          "value": "0"
+        }
+      ],
+      "items": [
+        {
+          "id": "space-launch-clps-flight-astrobotic-griffin-1",
+          "title": "CLPS Flight: Astrobotic Griffin-1",
+          "href": "/events/clps-flight-astrobotic-griffin-1",
+          "label": "59d 7h",
+          "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "Live space",
+          "href": "/live/space"
+        },
+        {
+          "label": "Aurora watch",
+          "href": "/events/aurora-watch"
+        },
+        {
+          "label": "Earthquake watch",
+          "href": "/events/global-earthquake-watch"
+        }
+      ]
+    },
+    {
+      "id": "home-why-people-check",
+      "kind": "why_people_check",
+      "title": "Why people are checking this",
+      "description": "The early click and revisit signals already point to live pages and embedded video, not generic category walls.",
+      "ctaLabel": "Open video feed",
+      "ctaUrl": "/video",
+      "metrics": [
+        {
+          "label": "Video views",
+          "value": "15"
+        },
+        {
+          "label": "Home search impressions",
+          "value": "5"
+        },
+        {
+          "label": "Aurora pageviews",
+          "value": "8"
+        }
+      ],
+      "items": [
+        {
+          "id": "why-/video",
+          "title": "Video",
+          "href": "/video",
+          "label": "15 views",
+          "summary": "Users are already choosing video more often than games or gallery, so the feed needs in-page playback.",
+          "meta": "0 search impressions · engagement 100"
+        },
+        {
+          "id": "why-/",
+          "title": "Home",
+          "href": "/",
+          "label": "9 views",
+          "summary": "The home page should route visitors into live events and shorts instead of acting like a static section index.",
+          "meta": "5 search impressions · engagement 100"
+        },
+        {
+          "id": "why-/news",
+          "title": "News",
+          "href": "/news",
+          "label": "14 views",
+          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
+          "meta": "0 search impressions · engagement 87"
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "Top shorts",
+          "href": "/video"
+        },
+        {
+          "label": "Live event pages",
+          "href": "/live"
+        },
+        {
+          "label": "Current gallery",
+          "href": "/gallery"
+        }
+      ]
+    }
+  ]
+}

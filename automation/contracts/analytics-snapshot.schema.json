@@ -91,6 +91,38 @@
             "type": "number",
             "minimum": 0
           },
+          "videoStarts": {
+            "type": "number",
+            "minimum": 0
+          },
+          "videoCompletes": {
+            "type": "number",
+            "minimum": 0
+          },
+          "videoScrollDepth": {
+            "type": "number",
+            "minimum": 0
+          },
+          "gameStarts": {
+            "type": "number",
+            "minimum": 0
+          },
+          "gameCompletes": {
+            "type": "number",
+            "minimum": 0
+          },
+          "galleryOpens": {
+            "type": "number",
+            "minimum": 0
+          },
+          "liveCardClicks": {
+            "type": "number",
+            "minimum": 0
+          },
+          "returnVisitors": {
+            "type": "number",
+            "minimum": 0
+          },
           "revenueUsd": {
             "type": "number",
             "minimum": 0

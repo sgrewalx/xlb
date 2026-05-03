@@ -119,7 +119,7 @@ export function LiveEventsSection({
 
             <div className="live-event-body">
               <h3>{item.title}</h3>
-              <p>{item.summary}</p>
+              <p>{item.featuredReason ?? item.summary}</p>
             </div>
 
             <div className="live-event-meta">

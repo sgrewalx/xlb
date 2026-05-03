@@ -12,6 +12,10 @@ const files = [
   ["tech/top.json", validateExpandedFeed],
   ["video/top3.json", validateTopFeed],
   ["video/top.json", validateExpandedFeed],
+  ["video/shorts.json", validateVideoShorts],
+  ["home/modules.json", validateHomeModules],
+  ["games/catalog.json", validateGamesCatalog],
+  ["gallery/collections.json", validateGalleryCollections],
   ["quotes/quotes.json", validateQuotes],
   ["visuals/feed.json", validateVisuals],
   ["modules/modules.json", validateModules],
@@ -134,10 +138,119 @@ function validateLiveEvents(json, label) {
       `${label}: item ${index} coverageMode invalid`,
     );
     assert(typeof item.safeToPromote === "boolean", `${label}: item ${index} safeToPromote required`);
+    if (item.importance !== undefined) {
+      assert(typeof item.importance === "number", `${label}: item ${index} importance invalid`);
+    }
+    if (item.featuredReason !== undefined) {
+      assert(isString(item.featuredReason), `${label}: item ${index} featuredReason invalid`);
+    }
+    if (item.relatedVideoIds !== undefined) {
+      assert(
+        Array.isArray(item.relatedVideoIds) && item.relatedVideoIds.every(isString),
+        `${label}: item ${index} relatedVideoIds invalid`,
+      );
+    }
+    if (item.relatedGameIds !== undefined) {
+      assert(
+        Array.isArray(item.relatedGameIds) && item.relatedGameIds.every(isString),
+        `${label}: item ${index} relatedGameIds invalid`,
+      );
+    }
+    if (item.relatedGalleryIds !== undefined) {
+      assert(
+        Array.isArray(item.relatedGalleryIds) && item.relatedGalleryIds.every(isString),
+        `${label}: item ${index} relatedGalleryIds invalid`,
+      );
+    }
     assert(isString(item.rightsProfile), `${label}: item ${index} rightsProfile required`);
     assert(isString(item.cadence), `${label}: item ${index} cadence required`);
     assert(isString(item.audienceIntent), `${label}: item ${index} audienceIntent required`);
     assert(isString(item.updatedAt), `${label}: item ${index} updatedAt required`);
+  });
+}
+
+function validateHomeModules(json, label) {
+  assert(isString(json.updatedAt), `${label}: updatedAt is required`);
+  assert(isString(json.thesis), `${label}: thesis is required`);
+  assert(Array.isArray(json.items) && json.items.length === 3, `${label}: items must contain exactly 3 entries`);
+
+  json.items.forEach((item, index) => {
+    assert(isString(item.id), `${label}: item ${index} id required`);
+    assert(
+      ["happening_now", "next_24_hours", "why_people_check"].includes(item.kind),
+      `${label}: item ${index} kind invalid`,
+    );
+    assert(isString(item.title), `${label}: item ${index} title required`);
+    assert(isString(item.description), `${label}: item ${index} description required`);
+    assert(isString(item.ctaLabel), `${label}: item ${index} ctaLabel required`);
+    assert(isString(item.ctaUrl), `${label}: item ${index} ctaUrl required`);
+    assert(Array.isArray(item.metrics) && item.metrics.length > 0, `${label}: item ${index} metrics required`);
+    assert(Array.isArray(item.items) && item.items.length > 0, `${label}: item ${index} items required`);
+    assert(
+      Array.isArray(item.relatedLinks) && item.relatedLinks.length > 0,
+      `${label}: item ${index} relatedLinks required`,
+    );
+  });
+}
+
+function validateVideoShorts(json, label) {
+  assert(isString(json.updatedAt), `${label}: updatedAt is required`);
+  assert(isString(json.thesis), `${label}: thesis is required`);
+  assert(Array.isArray(json.items) && json.items.length >= 4, `${label}: items must contain at least 4 entries`);
+
+  json.items.forEach((item, index) => {
+    assert(isString(item.id), `${label}: item ${index} id required`);
+    assert(isString(item.title), `${label}: item ${index} title required`);
+    assert(isString(item.source), `${label}: item ${index} source required`);
+    assert(isString(item.url), `${label}: item ${index} url required`);
+    assert(isString(item.embedUrl), `${label}: item ${index} embedUrl required`);
+    assert(isString(item.publishedAt), `${label}: item ${index} publishedAt required`);
+    assert(isString(item.summary), `${label}: item ${index} summary required`);
+    assert(isString(item.relatedPath), `${label}: item ${index} relatedPath required`);
+    assert(isString(item.relatedLabel), `${label}: item ${index} relatedLabel required`);
+    assert(item.sourceCategory === "youtube", `${label}: item ${index} sourceCategory invalid`);
+    assert(typeof item.isShort === "boolean", `${label}: item ${index} isShort required`);
+    assert(typeof item.freshnessScore === "number", `${label}: item ${index} freshnessScore required`);
+    assert(typeof item.diversityScore === "number", `${label}: item ${index} diversityScore required`);
+    assert(typeof item.retentionScore === "number", `${label}: item ${index} retentionScore required`);
+  });
+}
+
+function validateGamesCatalog(json, label) {
+  assert(isString(json.updatedAt), `${label}: updatedAt is required`);
+  assert(isString(json.thesis), `${label}: thesis is required`);
+  assert(Array.isArray(json.items) && json.items.length >= 4, `${label}: items must contain at least 4 entries`);
+
+  json.items.forEach((item, index) => {
+    assert(isString(item.id), `${label}: item ${index} id required`);
+    assert(isString(item.mode), `${label}: item ${index} mode required`);
+    assert(isString(item.title), `${label}: item ${index} title required`);
+    assert(isString(item.description), `${label}: item ${index} description required`);
+    assert(isString(item.prompt), `${label}: item ${index} prompt required`);
+    assert(isString(item.relatedPath), `${label}: item ${index} relatedPath required`);
+    assert(isString(item.relatedLabel), `${label}: item ${index} relatedLabel required`);
+    assert(isString(item.metricLabel), `${label}: item ${index} metricLabel required`);
+    assert(isString(item.metricValue), `${label}: item ${index} metricValue required`);
+    assert(typeof item.featured === "boolean", `${label}: item ${index} featured required`);
+  });
+}
+
+function validateGalleryCollections(json, label) {
+  assert(isString(json.updatedAt), `${label}: updatedAt is required`);
+  assert(isString(json.thesis), `${label}: thesis is required`);
+  assert(Array.isArray(json.items) && json.items.length >= 3, `${label}: items must contain at least 3 entries`);
+
+  json.items.forEach((item, index) => {
+    assert(isString(item.id), `${label}: item ${index} id required`);
+    assert(
+      ["quake", "aurora", "launch", "topic"].includes(item.category),
+      `${label}: item ${index} category invalid`,
+    );
+    assert(isString(item.title), `${label}: item ${index} title required`);
+    assert(isString(item.description), `${label}: item ${index} description required`);
+    assert(isString(item.relatedPath), `${label}: item ${index} relatedPath required`);
+    assert(isString(item.relatedLabel), `${label}: item ${index} relatedLabel required`);
+    assert(Array.isArray(item.entries) && item.entries.length > 0, `${label}: item ${index} entries required`);
   });
 }
 

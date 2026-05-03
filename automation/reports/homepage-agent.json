@@ -1,0 +1,22 @@
+{
+  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "moduleOrder": [
+    "home-happening-now",
+    "home-next-24-hours",
+    "home-why-people-check"
+  ],
+  "itemCounts": [
+    {
+      "id": "home-happening-now",
+      "items": 3
+    },
+    {
+      "id": "home-next-24-hours",
+      "items": 1
+    },
+    {
+      "id": "home-why-people-check",
+      "items": 3
+    }
+  ]
+}

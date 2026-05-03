@@ -1,36 +1,47 @@
 import { Seo } from "../components/Seo";
-import { TopListSection } from "../components/TopListSection";
+import { VideoShortFeed } from "../components/VideoShortFeed";
 import { useContent } from "../hooks/useContent";
-import { TopFeed } from "../types/content";
+import { VideoShortsFeed } from "../types/content";
 
 export function VideoPage() {
-  const video = useContent<TopFeed>("/content/video/top.json");
+  const video = useContent<VideoShortsFeed>("/content/video/shorts.json", { refreshMs: 60000 });
 
   return (
     <>
       <Seo
         title="Video | XLB"
-        description="A curated selection of videos worth watching now, from news and entertainment sources."
+        description="A vertical, mobile-first short-form video feed with embedded YouTube playback and direct links back into related live pages."
         path="/video"
       />
-      <section className="static-hero">
-        <p className="section-eyebrow">Video</p>
-        <h1>Latest videos</h1>
-        <p>
-          Curated video content from trusted sources, selected for timely relevance and engaging storytelling.
-        </p>
+      <section className="live-page-hero video-page-hero">
+        <div className="live-page-hero-copy">
+          <p className="section-eyebrow">Video</p>
+          <h1>Watch the feed without leaving XLB</h1>
+          <p>
+            This page now prioritizes embedded, vertical short-form playback. Every card should send you
+            deeper into a live event, topic, or source-backed section instead of ending the session.
+          </p>
+        </div>
+        <div className="live-page-hero-rail">
+          <div className="signal-panel signal-panel-accent">
+            <span>Shorts in feed</span>
+            <strong>{video.data?.items.length ?? "..."}</strong>
+          </div>
+          <div className="signal-panel">
+            <span>Primary source</span>
+            <strong>YouTube</strong>
+          </div>
+          <div className="signal-panel">
+            <span>Mode</span>
+            <strong>In-site playback</strong>
+          </div>
+        </div>
       </section>
-      <TopListSection
-        id="video"
-        eyebrow="Video"
-        title="Top videos"
-        description="The most compelling videos from across news, sports, and entertainment, chosen for quick access and in-page playback when available."
-        visualMode="video"
-        expanded
+      <VideoShortFeed
+        items={video.data?.items}
         loading={video.loading}
         error={video.error}
         updatedAt={video.data?.updatedAt}
-        items={video.data?.items}
       />
     </>
   );

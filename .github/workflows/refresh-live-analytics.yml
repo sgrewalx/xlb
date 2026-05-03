@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 env:
   GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
@@ -77,6 +76,9 @@ jobs:
       - name: Apply low-risk autofixes
         run: npm run automation:apply-low-risk-fixes
 
+      - name: Generate autonomous surface manifests
+        run: XLB_ANALYTICS_SNAPSHOT=./automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json npm run automation:traffic-engine
+
       - name: Apply traffic opportunities
         run: npm run automation:apply-opportunities
         
@@ -101,7 +103,7 @@ jobs:
       - name: Detect changes
         id: changes
         run: |
-          if git diff --quiet -- public/content/live public/content/topics automation/snapshots automation/reports automation/experiments public/sitemap.xml; then
+          if git diff --quiet -- public/content/live public/content/topics public/content/home public/content/video/shorts.json public/content/games public/content/gallery automation/snapshots automation/reports automation/experiments public/sitemap.xml; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -119,51 +121,25 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Create automation branch
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          BRANCH_NAME="automation/live-refresh"
-          echo "BRANCH_NAME=${BRANCH_NAME}" >> "$GITHUB_ENV"
-          git fetch origin "${BRANCH_NAME}" || true
-          git checkout -B "${BRANCH_NAME}"
-
       - name: Commit analytics refresh
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git add public/content/live public/content/topics automation/snapshots automation/reports automation/experiments public/sitemap.xml
-          git commit -m "chore: refresh live analytics and event rankings"
+          git add public/content/live public/content/topics public/content/home public/content/video/shorts.json public/content/games public/content/gallery automation/snapshots automation/reports automation/experiments public/sitemap.xml
+          git commit -m "chore: refresh live analytics and surface manifests"
 
-      - name: Push automation branch
+      - name: Push to main
         if: steps.changes.outputs.changed == 'true'
-        run: git push --force-with-lease origin HEAD:"${BRANCH_NAME}"
-
-      - name: Create or update pull request for review
-        if: steps.changes.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
-          BODY_FILE="$(mktemp)"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
 
-          cat > "${BODY_FILE}" <<'EOF'
-            Automated live analytics refresh.
+            if git push origin HEAD:main; then
+              exit 0
+            fi
 
-            Risk level: `${{ steps.risk.outputs.level }}`
+            echo "Push attempt ${attempt} failed; retrying after a short delay..."
+            sleep 5
+          done
 
-            See the workflow summary for the latest source health, deploy readiness, and top event decisions.
-
-            This workflow routes live-event inventory changes through one rolling PR review branch instead of creating a new branch every day.
-          EOF
-
-          if gh pr view "${BRANCH_NAME}" --repo "${GITHUB_REPOSITORY}" >/dev/null 2>&1; then
-            gh pr edit "${BRANCH_NAME}" \
-              --repo "${GITHUB_REPOSITORY}" \
-              --title "chore: refresh live analytics and event rankings" \
-              --body-file "${BODY_FILE}"
-          else
-            gh pr create \
-              --repo "${GITHUB_REPOSITORY}" \
-              --head "${BRANCH_NAME}" \
-              --base main \
-              --title "chore: refresh live analytics and event rankings" \
-              --body-file "${BODY_FILE}"
-          fi
+          echo "Unable to push refreshed analytics and manifests after 3 attempts."
+          exit 1

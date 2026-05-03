@@ -3,6 +3,18 @@ import { getGoogleAccessToken } from "./shared/google-auth.mjs";
 
 const OUTPUT_DIRECTORY = new URL("../snapshots/", import.meta.url);
 const GA4_SCOPE = "https://www.googleapis.com/auth/analytics.readonly";
+const ENGAGEMENT_EVENTS = [
+  "watch_source",
+  "open_source",
+  "video_play_start",
+  "video_play_complete",
+  "video_scroll_depth",
+  "game_start",
+  "game_complete",
+  "gallery_card_open",
+  "home_live_card_click",
+  "return_visit_entry",
+];
 
 async function main() {
   const propertyId = process.env.GA4_PROPERTY_ID?.trim();
@@ -53,7 +65,7 @@ async function fetchGa4Snapshot(propertyId) {
           filter: {
             fieldName: "eventName",
             inListFilter: {
-              values: ["watch_source", "open_source"],
+              values: ENGAGEMENT_EVENTS,
             },
           },
         },
@@ -79,6 +91,14 @@ async function fetchGa4Snapshot(propertyId) {
       searchCtr: 0,
       avgPosition: 0,
       watchClicks: 0,
+      videoStarts: 0,
+      videoCompletes: 0,
+      videoScrollDepth: 0,
+      gameStarts: 0,
+      gameCompletes: 0,
+      galleryOpens: 0,
+      liveCardClicks: 0,
+      returnVisitors: 0,
       revenueUsd: 0,
       engagementScore: computeEngagementScore(
         toNumber(row.metricValues?.[2]?.value),
@@ -96,7 +116,36 @@ async function fetchGa4Snapshot(propertyId) {
     }
 
     const page = pageMap.get(path);
-    page.watchClicks += toNumber(row.metricValues?.[0]?.value);
+    const eventName = row.dimensionValues?.[1]?.value ?? "";
+    const count = toNumber(row.metricValues?.[0]?.value);
+
+    if (eventName === "watch_source" || eventName === "open_source") {
+      page.watchClicks += count;
+    }
+    if (eventName === "video_play_start") {
+      page.videoStarts += count;
+    }
+    if (eventName === "video_play_complete") {
+      page.videoCompletes += count;
+    }
+    if (eventName === "video_scroll_depth") {
+      page.videoScrollDepth += count;
+    }
+    if (eventName === "game_start") {
+      page.gameStarts += count;
+    }
+    if (eventName === "game_complete") {
+      page.gameCompletes += count;
+    }
+    if (eventName === "gallery_card_open") {
+      page.galleryOpens += count;
+    }
+    if (eventName === "home_live_card_click") {
+      page.liveCardClicks += count;
+    }
+    if (eventName === "return_visit_entry") {
+      page.returnVisitors += count;
+    }
   }
 
   return {

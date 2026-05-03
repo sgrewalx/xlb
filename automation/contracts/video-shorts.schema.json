@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xlb.codemachine.in/schemas/video-shorts.schema.json",
+  "title": "XLB Video Shorts Feed",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["updatedAt", "thesis", "items"],
+  "properties": {
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "thesis": { "type": "string", "minLength": 1 },
+    "items": {
+      "type": "array",
+      "minItems": 4,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title",
+          "source",
+          "url",
+          "embedUrl",
+          "publishedAt",
+          "summary",
+          "relatedPath",
+          "relatedLabel",
+          "sourceCategory",
+          "isShort",
+          "freshnessScore",
+          "diversityScore",
+          "retentionScore"
+        ],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "title": { "type": "string", "minLength": 1 },
+          "source": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri" },
+          "embedUrl": { "type": "string", "format": "uri" },
+          "publishedAt": { "type": "string", "format": "date-time" },
+          "summary": { "type": "string", "minLength": 1 },
+          "relatedPath": { "type": "string", "minLength": 1 },
+          "relatedLabel": { "type": "string", "minLength": 1 },
+          "sourceCategory": { "type": "string", "enum": ["youtube"] },
+          "isShort": { "type": "boolean" },
+          "freshnessScore": { "type": "number", "minimum": 0 },
+          "diversityScore": { "type": "number", "minimum": 0 },
+          "retentionScore": { "type": "number", "minimum": 0 }
+        }
+      }
+    }
+  }
+}

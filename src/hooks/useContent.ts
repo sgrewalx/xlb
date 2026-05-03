@@ -6,7 +6,11 @@ interface ContentState<T> {
   loading: boolean;
 }
 
-export function useContent<T>(path: string) {
+interface UseContentOptions {
+  refreshMs?: number;
+}
+
+export function useContent<T>(path: string, options: UseContentOptions = {}) {
   const [state, setState] = useState<ContentState<T>>({
     data: null,
     error: null,
@@ -16,8 +20,12 @@ export function useContent<T>(path: string) {
   useEffect(() => {
     const controller = new AbortController();
 
-    async function load() {
-      setState({ data: null, error: null, loading: true });
+    async function load(isRefresh = false) {
+      setState((current) => ({
+        data: isRefresh ? current.data : null,
+        error: null,
+        loading: true,
+      }));
 
       try {
         const response = await fetch(path, { signal: controller.signal });
@@ -35,14 +43,27 @@ export function useContent<T>(path: string) {
 
         const message =
           error instanceof Error ? error.message : "Unknown fetch error";
-        setState({ data: null, error: message, loading: false });
+        setState((current) => ({
+          data: current.data,
+          error: message,
+          loading: false,
+        }));
       }
     }
 
     void load();
+    const interval =
+      options.refreshMs && options.refreshMs > 0
+        ? window.setInterval(() => void load(true), options.refreshMs)
+        : null;
 
-    return () => controller.abort();
-  }, [path]);
+    return () => {
+      controller.abort();
+      if (interval) {
+        window.clearInterval(interval);
+      }
+    };
+  }, [options.refreshMs, path]);
 
   return state;
 }

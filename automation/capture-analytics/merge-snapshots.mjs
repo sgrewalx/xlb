@@ -40,6 +40,14 @@ function mergeSnapshots(snapshots) {
         searchCtr: 0,
         avgPosition: 0,
         watchClicks: 0,
+        videoStarts: 0,
+        videoCompletes: 0,
+        videoScrollDepth: 0,
+        gameStarts: 0,
+        gameCompletes: 0,
+        galleryOpens: 0,
+        liveCardClicks: 0,
+        returnVisitors: 0,
         revenueUsd: 0,
         engagementScore: 0,
         decision: "review",
@@ -54,6 +62,14 @@ function mergeSnapshots(snapshots) {
         ? page.avgPosition ?? 0
         : weightedPosition(current.avgPosition, page.avgPosition ?? 0);
       current.watchClicks = Math.max(current.watchClicks, page.watchClicks ?? 0);
+      current.videoStarts = Math.max(current.videoStarts, page.videoStarts ?? 0);
+      current.videoCompletes = Math.max(current.videoCompletes, page.videoCompletes ?? 0);
+      current.videoScrollDepth = Math.max(current.videoScrollDepth, page.videoScrollDepth ?? 0);
+      current.gameStarts = Math.max(current.gameStarts, page.gameStarts ?? 0);
+      current.gameCompletes = Math.max(current.gameCompletes, page.gameCompletes ?? 0);
+      current.galleryOpens = Math.max(current.galleryOpens, page.galleryOpens ?? 0);
+      current.liveCardClicks = Math.max(current.liveCardClicks, page.liveCardClicks ?? 0);
+      current.returnVisitors = Math.max(current.returnVisitors, page.returnVisitors ?? 0);
       current.revenueUsd = Math.max(current.revenueUsd, page.revenueUsd ?? 0);
       current.engagementScore = Math.max(current.engagementScore, page.engagementScore ?? 0);
       current.decision = page.decision ?? current.decision;

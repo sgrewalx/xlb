@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xlb.codemachine.in/schemas/home-modules.schema.json",
+  "title": "XLB Home Modules Feed",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["updatedAt", "thesis", "items"],
+  "properties": {
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "thesis": { "type": "string", "minLength": 1 },
+    "items": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "kind", "title", "description", "ctaLabel", "ctaUrl", "metrics", "items", "relatedLinks"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "kind": { "type": "string", "enum": ["happening_now", "next_24_hours", "why_people_check"] },
+          "title": { "type": "string", "minLength": 1 },
+          "description": { "type": "string", "minLength": 1 },
+          "ctaLabel": { "type": "string", "minLength": 1 },
+          "ctaUrl": { "type": "string", "minLength": 1 },
+          "metrics": { "type": "array", "minItems": 1 },
+          "items": { "type": "array", "minItems": 1 },
+          "relatedLinks": { "type": "array", "minItems": 1 }
+        }
+      }
+    }
+  }
+}

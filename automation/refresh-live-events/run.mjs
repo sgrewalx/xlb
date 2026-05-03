@@ -8,6 +8,7 @@ const SOURCE_FILE = new URL("./source.json", import.meta.url);
 const EVENTS_FILE = new URL("../../public/content/live/events.json", import.meta.url);
 const TOPICS_FILE = new URL("../../public/content/topics/index.json", import.meta.url);
 const SCOREBOARD_FILE = new URL("../../public/content/live/scoreboard.json", import.meta.url);
+const VIDEO_FILE = new URL("../../public/content/video/top.json", import.meta.url);
 const SOURCE_INTAKE_FILE = new URL("../../automation/reports/live-source-intake.json", import.meta.url);
 
 async function main() {
@@ -20,7 +21,9 @@ async function main() {
   const { items: sourceItems, intake } = await hydrateSourceItems(source.items);
 
   const scoreboard = await readJsonIfExists(SCOREBOARD_FILE);
+  const videoFeed = await readJsonIfExists(VIDEO_FILE);
   const scoreMap = new Map((scoreboard?.items ?? []).map((item) => [item.slug, item]));
+  const videoItems = videoFeed?.items ?? [];
   const updatedAt = new Date().toISOString();
 
   const events = sourceItems
@@ -33,6 +36,11 @@ async function main() {
         safeToPromote:
           item.safeToPromote && score ? score.recommendation !== "prune" : item.safeToPromote,
         heroPriority: tunePriority(item.heroPriority ?? 0, score?.recommendation),
+        importance: computeImportance(item, score),
+        featuredReason: buildFeaturedReason(item, score),
+        relatedVideoIds: inferRelatedVideoIds(item, videoItems),
+        relatedGameIds: inferRelatedGameIds(item),
+        relatedGalleryIds: inferRelatedGalleryIds(item),
         updatedAt,
       };
     })
@@ -240,6 +248,70 @@ function normalizeEventStatus(item) {
   }
 
   return startsAt < Date.now() ? "ended" : item.status;
+}
+
+function computeImportance(item, score) {
+  const scoreSignal = score?.score ?? 0;
+  const trafficSignal = (score?.pageviews ?? 0) * 3 + (score?.searchImpressions ?? 0);
+  return Math.max(0, Math.min(100, Math.round((item.heroPriority ?? 0) * 0.55 + scoreSignal * 0.3 + trafficSignal * 0.15)));
+}
+
+function buildFeaturedReason(item, score) {
+  if (item.status === "monitoring") {
+    return `${item.sourceName} is producing continuously updated public data, which makes this page a repeat-check surface.`;
+  }
+
+  if (item.status === "watch" || item.status === "live") {
+    return `${item.sourceName} is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.`;
+  }
+
+  if (score?.recommendation === "expand") {
+    return "This event is one of the stronger expand candidates in the current live inventory.";
+  }
+
+  return "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.";
+}
+
+function inferRelatedVideoIds(item, videoItems) {
+  const tokens = normalizeText(`${item.title} ${item.topic}`)
+    .split(" ")
+    .filter((token) => token.length >= 5);
+
+  return videoItems
+    .filter((video) =>
+      normalizeText(`${video.title} ${video.source}`)
+        .split(" ")
+        .some((token) => token.length >= 5 && tokens.includes(token)),
+    )
+    .slice(0, 3)
+    .map((video) => video.id);
+}
+
+function inferRelatedGameIds(item) {
+  const ids = ["headline-match", "timeline-sort"];
+  if (item.category === "earth") {
+    ids.push("world-quiz");
+  } else {
+    ids.push("rapid-reaction");
+  }
+  return ids;
+}
+
+function inferRelatedGalleryIds(item) {
+  if (item.slug === "global-earthquake-watch") {
+    return ["gallery-quake-snapshots", "gallery-topic-rotation"];
+  }
+  if (item.slug === "aurora-watch") {
+    return ["gallery-aurora-state", "gallery-topic-rotation"];
+  }
+  if (item.topic === "launches") {
+    return ["gallery-launch-windows", "gallery-topic-rotation"];
+  }
+  return ["gallery-topic-rotation"];
+}
+
+function normalizeText(value) {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 }
 
 main().catch((error) => {
