@@ -1,12 +1,8 @@
 import { Link } from "react-router-dom";
-import { LiveEventsSection } from "../components/LiveEventsSection";
 import { Seo } from "../components/Seo";
 import { useContent } from "../hooks/useContent";
 import { trackHomeLiveCardClick } from "../lib/analytics";
-import {
-  LiveEventsFeed,
-  LiveEventScoreboard,
-} from "../types/content";
+import { LiveEventsFeed } from "../types/content";
 
 const FEATURED_VIDEO = {
   id: "homepage-featured-video",
@@ -17,7 +13,6 @@ const FEATURED_VIDEO = {
 
 export function HomePage() {
   const liveEvents = useContent<LiveEventsFeed>("/content/live/events.json", { refreshMs: 60000 });
-  const liveScoreboard = useContent<LiveEventScoreboard>("/content/live/scoreboard.json", { refreshMs: 60000 });
   const featuredItems = (liveEvents.data?.items ?? []).filter((item) =>
     ["aurora-watch", "global-earthquake-watch", "nasa-live-programming"].includes(item.slug),
   );
@@ -49,12 +44,6 @@ export function HomePage() {
 
       <section className="section-block">
         <article className="card home-video-card home-video-card-full">
-          <div className="card-chip-row">
-            <span className="chip chip-space">Featured video</span>
-            <a className="muted" href={FEATURED_VIDEO.url} rel="noreferrer" target="_blank">
-              Open YouTube
-            </a>
-          </div>
           <div className="short-card-player">
             <iframe
               src={FEATURED_VIDEO.embedUrl}
@@ -66,19 +55,6 @@ export function HomePage() {
           </div>
         </article>
       </section>
-
-      <LiveEventsSection
-        eyebrow="Live"
-        title="Events"
-        description="Current and next-up pages."
-        updatedAt={liveEvents.data?.updatedAt}
-        loading={liveEvents.loading}
-        error={liveEvents.error}
-        items={liveEvents.data?.items?.filter((item) => item.safeToPromote)}
-        scores={liveScoreboard.data?.items}
-        showPerformance
-        limit={4}
-      />
     </>
   );
 }
