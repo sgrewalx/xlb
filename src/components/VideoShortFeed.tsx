@@ -1,12 +1,7 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import {
-  trackVideoPlayComplete,
-  trackVideoPlayStart,
-  trackVideoScrollDepth,
-} from "../lib/analytics";
+import { trackVideoPlayComplete, trackVideoPlayStart } from "../lib/analytics";
 import { VideoShort } from "../types/content";
-import { SectionHeader } from "./SectionHeader";
 
 interface VideoShortFeedProps {
   items?: VideoShort[];
@@ -15,144 +10,127 @@ interface VideoShortFeedProps {
   updatedAt?: string;
 }
 
-function formatTimestamp(value: string) {
-  return new Intl.DateTimeFormat("en", {
-    month: "short",
-    day: "numeric",
-    hour: "2-digit",
-    minute: "2-digit",
-    timeZone: "UTC",
-  }).format(new Date(value));
+function buildEmbedSrc(embedUrl: string) {
+  const separator = embedUrl.includes("?") ? "&" : "?";
+  const origin = typeof window === "undefined" ? "" : `&origin=${encodeURIComponent(window.location.origin)}`;
+
+  return `${embedUrl}${separator}autoplay=1&mute=1&playsinline=1&enablejsapi=1${origin}`;
 }
 
-function ShortCard({ item }: { item: VideoShort }) {
-  const [isPlaying, setIsPlaying] = useState(false);
+export function VideoShortFeed({ items, loading, error }: VideoShortFeedProps) {
+  const [activeIndex, setActiveIndex] = useState(0);
+  const activeItem = items?.[activeIndex] ?? null;
+  const total = items?.length ?? 0;
 
   useEffect(() => {
-    if (!isPlaying) {
+    if (!activeItem) {
       return undefined;
     }
 
+    trackVideoPlayStart(activeItem.id, activeItem.title, activeItem.relatedPath);
     const timer = window.setTimeout(() => {
-      trackVideoPlayComplete(item.id, item.title, 30);
+      trackVideoPlayComplete(activeItem.id, activeItem.title, 30);
     }, 30000);
 
     return () => window.clearTimeout(timer);
-  }, [isPlaying, item.id, item.title]);
-
-  return (
-    <article className="card short-card">
-      <div className="short-card-player">
-        {isPlaying ? (
-          <iframe
-            src={item.embedUrl}
-            title={item.title}
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            loading="lazy"
-          />
-        ) : (
-          <button
-            className={`short-launcher ${item.isShort ? "short-launcher-portrait" : ""}`}
-            onClick={() => {
-              setIsPlaying(true);
-              trackVideoPlayStart(item.id, item.title, item.relatedPath);
-            }}
-            type="button"
-          >
-            <span className="chip">{item.isShort ? "Shorts" : "Video"}</span>
-            <strong>{item.title}</strong>
-            <small>{item.source}</small>
-            <span className="ghost-button short-launcher-button">Play inside XLB</span>
-          </button>
-        )}
-      </div>
-      <div className="short-card-meta">
-        <div className="card-chip-row">
-          <span className="chip chip-earth">{item.relatedLabel}</span>
-          <span className="muted">{formatTimestamp(item.publishedAt)}</span>
-        </div>
-        <h3>{item.title}</h3>
-        <p className="top-card-summary">{item.summary}</p>
-        <div className="short-card-stats">
-          <div className="metric-pill">
-            <span>Freshness</span>
-            <strong>{item.freshnessScore}</strong>
-          </div>
-          <div className="metric-pill">
-            <span>Retention</span>
-            <strong>{item.retentionScore}</strong>
-          </div>
-          <div className="metric-pill">
-            <span>Source</span>
-            <strong>{item.sourceCategory}</strong>
-          </div>
-        </div>
-        <div className="event-related-list">
-          <Link className="event-related-link" to={item.relatedPath}>
-            {item.relatedLabel}
-          </Link>
-          <a className="event-related-link" href={item.url} rel="noreferrer" target="_blank">
-            Watch on source
-          </a>
-        </div>
-      </div>
-    </article>
-  );
-}
-
-export function VideoShortFeed({ items, loading, error, updatedAt }: VideoShortFeedProps) {
-  const thresholds = useMemo(() => new Set<number>(), []);
+  }, [activeItem]);
 
   useEffect(() => {
-    function onScroll() {
-      const root = document.documentElement;
-      const maxScroll = root.scrollHeight - window.innerHeight;
-      if (maxScroll <= 0) {
+    function onKeyDown(event: KeyboardEvent) {
+      if (!items?.length) {
         return;
       }
 
-      const depth = Math.round((window.scrollY / maxScroll) * 100);
-      [25, 50, 75, 100].forEach((threshold) => {
-        if (depth >= threshold && !thresholds.has(threshold)) {
-          thresholds.add(threshold);
-          trackVideoScrollDepth(threshold);
-        }
-      });
+      if (event.key === "ArrowDown") {
+        event.preventDefault();
+        setActiveIndex((current) => (current + 1) % items.length);
+      }
+
+      if (event.key === "ArrowUp") {
+        event.preventDefault();
+        setActiveIndex((current) => (current - 1 + items.length) % items.length);
+      }
     }
 
-    window.addEventListener("scroll", onScroll, { passive: true });
-    onScroll();
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [items]);
 
-    return () => window.removeEventListener("scroll", onScroll);
-  }, [thresholds]);
+  if (loading) {
+    return (
+      <section className="section-block" id="video-shorts">
+        <article className="card card-skeleton short-viewer-card">
+          <div className="skeleton-line skeleton-title" />
+          <div className="skeleton-line skeleton-copy" />
+        </article>
+      </section>
+    );
+  }
+
+  if (error || !activeItem) {
+    return (
+      <section className="section-block" id="video-shorts">
+        <article className="card card-error">
+          <p>Could not load the video feed.</p>
+          <span>{error ?? "No videos available."}</span>
+        </article>
+      </section>
+    );
+  }
 
   return (
     <section className="section-block" id="video-shorts">
-      <SectionHeader
-        eyebrow="Shorts"
-        title="Watch inside XLB"
-        description="Start the clip here, then keep moving into the related live or topic page without leaving the site."
-        updatedAt={updatedAt}
-      />
-      <div className="short-feed-grid">
-        {loading
-          ? Array.from({ length: 4 }).map((_, index) => (
-              <article className="card card-skeleton short-card" key={`short-${index}`}>
-                <div className="skeleton-line skeleton-title" />
-                <div className="skeleton-line skeleton-copy" />
-              </article>
-            ))
-          : null}
-        {error ? (
-          <article className="card card-error">
-            <p>Could not load the short-form feed.</p>
-            <span>{error}</span>
-          </article>
-        ) : null}
-        {items?.map((item) => (
-          <ShortCard item={item} key={item.id} />
-        ))}
+      <div className="short-viewer-shell">
+        <article className="card short-viewer-card">
+          <div className="short-viewer-frame">
+            <iframe
+              src={buildEmbedSrc(activeItem.embedUrl)}
+              title={activeItem.title}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              loading="eager"
+            />
+          </div>
+          <div className="short-viewer-overlay">
+            <div className="card-chip-row">
+              <span className="chip chip-space">{activeItem.isShort ? "Shorts" : "Video"}</span>
+              <span className="muted">
+                {activeIndex + 1} / {total}
+              </span>
+            </div>
+            <div className="short-viewer-copy">
+              <h2>{activeItem.title}</h2>
+              <p>{activeItem.summary}</p>
+              <div className="event-related-list">
+                <Link className="event-related-link" to={activeItem.relatedPath}>
+                  {activeItem.relatedLabel}
+                </Link>
+                <a className="event-related-link" href={activeItem.url} rel="noreferrer" target="_blank">
+                  Open source
+                </a>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <aside className="short-viewer-rail">
+          <button
+            aria-label="Previous video"
+            className="short-nav-button"
+            onClick={() => setActiveIndex((current) => (current - 1 + total) % total)}
+            type="button"
+          >
+            ↑
+          </button>
+          <button
+            aria-label="Next video"
+            className="short-nav-button"
+            onClick={() => setActiveIndex((current) => (current + 1) % total)}
+            type="button"
+          >
+            ↓
+          </button>
+        </aside>
       </div>
     </section>
   );

@@ -2172,6 +2172,101 @@ img {
   border: 0;
 }
 
+.short-viewer-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 72px;
+  gap: 16px;
+  align-items: center;
+}
+
+.short-viewer-card {
+  position: relative;
+  padding: 18px;
+}
+
+.short-viewer-frame {
+  width: min(100%, 420px);
+  aspect-ratio: 9 / 16;
+  margin: 0 auto;
+  border-radius: calc(var(--radius-md) - 2px);
+  overflow: hidden;
+  background: #000;
+}
+
+.short-viewer-frame iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+
+.short-viewer-overlay {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.short-viewer-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.short-viewer-copy h2,
+.short-preview-card strong {
+  margin: 0;
+}
+
+.short-viewer-copy p,
+.short-preview-card small {
+  margin: 0;
+  color: var(--muted);
+}
+
+.short-viewer-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+
+.short-nav-button {
+  width: 52px;
+  height: 52px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  font-size: 1.6rem;
+  line-height: 1;
+  transition:
+    transform 160ms ease,
+    border-color 160ms ease,
+    background 160ms ease;
+}
+
+.short-nav-button:hover {
+  transform: translateY(-1px);
+  border-color: rgba(124, 246, 212, 0.24);
+  background: rgba(18, 34, 57, 0.92);
+}
+
+.short-preview-strip {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.short-preview-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  text-align: left;
+}
+
 .short-launcher {
   width: 100%;
   height: 100%;
@@ -2488,6 +2583,8 @@ img {
   .short-feed-grid,
   .gallery-collection-grid,
   .signal-games-layout,
+  .short-viewer-shell,
+  .short-preview-strip,
   .event-hero,
   .games-grid,
   .live-world-grid,
@@ -2618,5 +2715,15 @@ img {
 
   .short-card-player {
     min-height: 420px;
+  }
+
+  .short-viewer-frame {
+    width: 100%;
+    max-width: 420px;
+  }
+
+  .short-viewer-rail {
+    flex-direction: row;
+    justify-content: center;
   }
 }
