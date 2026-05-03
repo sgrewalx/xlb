@@ -8,12 +8,18 @@ import {
   HomeModulesFeed,
   LiveEventsFeed,
   LiveEventScoreboard,
-  VideoShortsFeed,
 } from "../types/content";
 
-function HomeModuleCard({ item }: { item: HomeModule }) {
+const FEATURED_VIDEO = {
+  id: "homepage-featured-video",
+  title: "Featured video",
+  url: "https://www.youtube.com/watch?v=HfgIFGbdGJ0",
+  embedUrl: "https://www.youtube.com/embed/HfgIFGbdGJ0?rel=0",
+};
+
+function CompactModuleCard({ item }: { item: HomeModule }) {
   return (
-    <article className="card traffic-module-card">
+    <article className="card compact-module-card">
       <div className="card-chip-row">
         <span className="chip chip-earth">{item.title}</span>
         <Link
@@ -24,42 +30,16 @@ function HomeModuleCard({ item }: { item: HomeModule }) {
           {item.ctaLabel}
         </Link>
       </div>
-      <h2>{item.title}</h2>
-      <p>{item.description}</p>
-      <div className="traffic-module-metrics">
-        {item.metrics.map((metric) => (
-          <div className="signal-panel" key={`${item.id}-${metric.label}`}>
-            <span>{metric.label}</span>
-            <strong>{metric.value}</strong>
-          </div>
-        ))}
-      </div>
-      <div className="traffic-module-list">
-        {item.items.map((entry) => (
+      <div className="compact-link-list">
+        {item.items.slice(0, 3).map((entry) => (
           <Link
-            className="traffic-module-entry"
+            className="compact-link-row"
             key={entry.id}
             onClick={() => trackHomeLiveCardClick(item.id, entry.href)}
             to={entry.href}
           >
-            <div>
-              <span className="traffic-module-label">{entry.label}</span>
-              <strong>{entry.title}</strong>
-              <p>{entry.summary}</p>
-            </div>
-            <small>{entry.meta}</small>
-          </Link>
-        ))}
-      </div>
-      <div className="event-related-list">
-        {item.relatedLinks.map((link) => (
-          <Link
-            className="event-related-link"
-            key={`${item.id}-${link.href}`}
-            onClick={() => trackHomeLiveCardClick(item.id, link.href)}
-            to={link.href}
-          >
-            {link.label}
+            <strong>{entry.title}</strong>
+            <small>{entry.label}</small>
           </Link>
         ))}
       </div>
@@ -71,150 +51,94 @@ export function HomePage() {
   const modules = useContent<HomeModulesFeed>("/content/home/modules.json", { refreshMs: 60000 });
   const liveEvents = useContent<LiveEventsFeed>("/content/live/events.json", { refreshMs: 60000 });
   const liveScoreboard = useContent<LiveEventScoreboard>("/content/live/scoreboard.json", { refreshMs: 60000 });
-  const shorts = useContent<VideoShortsFeed>("/content/video/shorts.json", { refreshMs: 60000 });
-  const leadShorts = shorts.data?.items.slice(0, 2) ?? [];
 
   return (
     <>
       <Seo
-        title="XLB | Live events and shorts worth checking now"
-        description="XLB is focused on live public-interest events and embedded short-form video that change often enough to bring people back."
+        title="XLB | Watch now"
+        description="Live events, live video, and fast paths into the most active pages on XLB."
         path="/"
       />
       <section className="live-page-hero home-traffic-hero">
         <div className="live-page-hero-copy">
-          <p className="section-eyebrow">Live + Shorts</p>
-          <h1>Live events and short videos worth checking now</h1>
-          <p>
-            The home page now routes directly into changing live pages, upcoming watch windows, and
-            on-site short-form video instead of acting like a static section index.
-          </p>
+          <p className="section-eyebrow">Watch Now</p>
+          <h1>Live. Video. Fast.</h1>
+          <p>Open the stream or jump straight into the live pages.</p>
         </div>
         <div className="live-page-hero-rail">
           <div className="signal-panel signal-panel-accent">
-            <span>Featured modules</span>
-            <strong>{modules.data?.items.length ?? "..."}</strong>
-          </div>
-          <div className="signal-panel">
             <span>Live events</span>
             <strong>{liveEvents.data?.items.filter((item) => item.safeToPromote).length ?? "..."}</strong>
           </div>
           <div className="signal-panel">
-            <span>Embedded shorts</span>
-            <strong>{shorts.data?.items.length ?? "..."}</strong>
+            <span>Top paths</span>
+            <strong>{modules.data?.items.length ?? "..."}</strong>
           </div>
         </div>
       </section>
 
       <section className="section-block">
-        <div className="traffic-module-grid">
-          {modules.loading
-            ? Array.from({ length: 3 }).map((_, index) => (
-                <article className="card card-skeleton traffic-module-card" key={`module-${index}`}>
-                  <div className="skeleton-line skeleton-title" />
-                  <div className="skeleton-line skeleton-copy" />
-                </article>
-              ))
-            : null}
-          {modules.error ? (
-            <article className="card card-error">
-              <p>Could not load the homepage modules.</p>
-              <span>{modules.error}</span>
-            </article>
-          ) : null}
-          {modules.data?.items.map((item) => (
-            <HomeModuleCard item={item} key={item.id} />
-          ))}
-        </div>
-      </section>
+        <div className="featured-home-video">
+          <article className="card home-video-card">
+            <div className="card-chip-row">
+              <span className="chip chip-space">Featured video</span>
+              <a className="muted" href={FEATURED_VIDEO.url} rel="noreferrer" target="_blank">
+                Open YouTube
+              </a>
+            </div>
+            <div className="short-card-player">
+              <iframe
+                src={FEATURED_VIDEO.embedUrl}
+                title={FEATURED_VIDEO.title}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                loading="lazy"
+              />
+            </div>
+          </article>
 
-      <section className="section-block">
-        <div className="section-header">
-          <div>
-            <p className="section-eyebrow">Watch Here</p>
-            <h2>Shorts already mapped back into the site</h2>
-          </div>
-          <div className="section-meta">
-            <p>These are the first two in-site playback cards. The full feed lives on the Video page.</p>
-          </div>
-        </div>
-        <div className="home-short-preview-grid">
-          {leadShorts.map((item) => (
-            <article className="card home-short-preview" key={item.id}>
-              <div className="short-card-player">
-                <iframe
-                  src={item.embedUrl}
-                  title={item.title}
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                  loading="lazy"
-                />
-              </div>
+          <div className="compact-module-grid">
+            {modules.data?.items.map((item) => (
+              <CompactModuleCard item={item} key={item.id} />
+            ))}
+            <article className="card compact-module-card">
               <div className="card-chip-row">
-                <span className="chip chip-space">{item.relatedLabel}</span>
-                <span className="muted">{item.source}</span>
-              </div>
-              <h3>{item.title}</h3>
-              <p className="top-card-summary">{item.summary}</p>
-              <div className="event-related-list">
-                <Link className="event-related-link" to="/video">
-                  Open full shorts feed
+                <span className="chip chip-space">Quick links</span>
+                <Link className="muted" to="/live">
+                  Open Live
                 </Link>
-                <Link className="event-related-link" to={item.relatedPath}>
-                  {item.relatedLabel}
+              </div>
+              <div className="compact-link-list">
+                <Link className="compact-link-row" to="/live">
+                  <strong>Live</strong>
+                  <small>Now</small>
+                </Link>
+                <Link className="compact-link-row" to="/video">
+                  <strong>Video</strong>
+                  <small>Watch</small>
+                </Link>
+                <Link className="compact-link-row" to="/events/aurora-watch">
+                  <strong>Aurora</strong>
+                  <small>Kp</small>
                 </Link>
               </div>
             </article>
-          ))}
+          </div>
         </div>
       </section>
 
       <LiveEventsSection
         eyebrow="Live"
-        title="Events to watch"
-        description="Continuous earth and space monitoring, plus scheduled watch windows that support repeat visits."
+        title="Events"
+        description="Current and next-up pages."
         updatedAt={liveEvents.data?.updatedAt}
         loading={liveEvents.loading}
         error={liveEvents.error}
         items={liveEvents.data?.items?.filter((item) => item.safeToPromote)}
         scores={liveScoreboard.data?.items}
         showPerformance
-        limit={6}
+        limit={4}
       />
-
-      <section className="section-block">
-        <div className="section-header">
-          <div>
-            <p className="section-eyebrow">Support Surfaces</p>
-            <h2>Games and gallery now exist to extend the session</h2>
-          </div>
-          <div className="section-meta">
-            <p>They stay linked to live and video pages instead of competing with them for the site thesis.</p>
-          </div>
-        </div>
-        <div className="section-hub-grid">
-          <Link className="card section-hub-card section-hub-card-live" to="/live">
-            <span className="chip chip-earth">Live</span>
-            <h3>Open the live rail</h3>
-            <p>Earthquake, aurora, launches, and the highest-signal event pages.</p>
-          </Link>
-          <Link className="card section-hub-card section-hub-card-video" to="/video">
-            <span className="chip chip-space">Video</span>
-            <h3>Watch the full shorts feed</h3>
-            <p>Embedded YouTube clips that connect back into related events and topics.</p>
-          </Link>
-          <Link className="card section-hub-card section-hub-card-games" to="/games">
-            <span className="chip chip-earth">Games</span>
-            <h3>Play current-event games</h3>
-            <p>Headline match, timeline sort, world quiz, rapid reaction, plus classic modes.</p>
-          </Link>
-          <Link className="card section-hub-card section-hub-card-gallery" to="/gallery">
-            <span className="chip chip-space">Gallery</span>
-            <h3>Browse visual explainers</h3>
-            <p>Live visual collections for earthquakes, aurora, launch windows, and topic rotation.</p>
-          </Link>
-        </div>
-      </section>
     </>
   );
 }

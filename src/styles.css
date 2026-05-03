@@ -2008,6 +2008,7 @@ img {
 .traffic-module-grid,
 .home-short-preview-grid,
 .live-signal-grid,
+.live-stream-grid,
 .live-timeline-grid,
 .short-feed-grid,
 .gallery-collection-grid,
@@ -2018,6 +2019,56 @@ img {
 
 .traffic-module-grid {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.featured-home-video {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(300px, 0.8fr);
+  gap: 16px;
+}
+
+.compact-module-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.compact-module-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.compact-link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.compact-link-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 52px;
+  padding: 12px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.compact-link-row strong,
+.stream-card h3 {
+  margin: 0;
+}
+
+.compact-link-row small {
+  color: var(--muted);
+}
+
+.home-video-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
 }
 
 .traffic-module-card,
@@ -2208,6 +2259,16 @@ img {
 
 .live-signal-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.live-stream-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.stream-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
 }
 
 .live-timeline-grid {
@@ -2422,8 +2483,10 @@ img {
   .live-page-hero,
   .live-rail-grid,
   .live-signal-grid,
+  .live-stream-grid,
   .live-timeline-grid,
   .traffic-module-grid,
+  .featured-home-video,
   .home-short-preview-grid,
   .short-feed-grid,
   .gallery-collection-grid,

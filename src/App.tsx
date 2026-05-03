@@ -172,6 +172,7 @@ function AppChrome() {
             </Link>
             <nav className="site-nav" aria-label="Primary">
               <Link to="/live">Live</Link>
+              <Link to="/video">Video</Link>
               <Link to="/live/space">Space</Link>
               <Link to="/live/earth">Earth</Link>
               <Link to="/games">Games</Link>
@@ -179,7 +180,6 @@ function AppChrome() {
               <Link to="/sports">Sports</Link>
               <Link to="/news">News</Link>
               <Link to="/tech">Tech</Link>
-              <Link to="/video">Video</Link>
             </nav>
           </div>
         </header>

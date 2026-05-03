@@ -2,19 +2,31 @@ import { Link, useParams } from "react-router-dom";
 import { LiveEventsSection } from "../components/LiveEventsSection";
 import { Seo } from "../components/Seo";
 import { useContent } from "../hooks/useContent";
-import { LiveEventsFeed, LiveEventScoreboard } from "../types/content";
+import { LiveEventsFeed, LiveEventScoreboard, VideoShortsFeed } from "../types/content";
 
 const categoryCopy = {
   earth: {
     eyebrow: "Live Earth",
-    title: "Earth live events",
-    description: "Continuous public-information monitoring and other earth signals that make repeat visits rational.",
+    title: "Earth live",
+    description: "Earth signals and repeat-check pages.",
   },
   space: {
     eyebrow: "Live Space",
-    title: "Space live events",
-    description: "Launches, aurora conditions, and recurring watch surfaces with clear internal follow-through.",
+    title: "Space live",
+    description: "Launches, aurora, and watch pages.",
   },
+};
+
+const FEATURED_HOME_VIDEO = {
+  title: "Featured stream",
+  url: "https://www.youtube.com/watch?v=HfgIFGbdGJ0",
+  embedUrl: "https://www.youtube.com/embed/HfgIFGbdGJ0?rel=0",
+};
+
+const NASA_LIVE_VIDEO = {
+  title: "NASA live",
+  url: "https://www.nasa.gov/live",
+  embedUrl: "https://www.youtube.com/embed/21X5lGlDOfg?rel=0",
 };
 
 function formatShortDate(value: string) {
@@ -51,6 +63,7 @@ export function LiveEventsPage() {
   const { category } = useParams();
   const feed = useContent<LiveEventsFeed>("/content/live/events.json", { refreshMs: 60000 });
   const scoreboard = useContent<LiveEventScoreboard>("/content/live/scoreboard.json", { refreshMs: 60000 });
+  const shorts = useContent<VideoShortsFeed>("/content/video/shorts.json", { refreshMs: 60000 });
 
   const selectedCategory =
     category === "space" || category === "earth" ? category : undefined;
@@ -75,6 +88,15 @@ export function LiveEventsPage() {
       return rightScore - leftScore;
     })
     .slice(0, 4);
+  const liveVideoCards = [
+    FEATURED_HOME_VIDEO,
+    NASA_LIVE_VIDEO,
+    ...(shorts.data?.items.slice(0, 1).map((item) => ({
+      title: item.title,
+      url: item.url,
+      embedUrl: item.embedUrl,
+    })) ?? []),
+  ];
 
   return (
     <>
@@ -83,18 +105,15 @@ export function LiveEventsPage() {
         description={
           selectedCategory
             ? copy?.description ?? ""
-            : "Live public-interest events across space and earth, with active monitoring pages, watch windows, and short-form follow-through."
+            : "Live events and live video streams across space and earth."
         }
         path={selectedCategory ? `/live/${selectedCategory}` : "/live"}
       />
       <section className={`live-page-hero ${selectedCategory ? `live-page-hero-${selectedCategory}` : ""}`}>
         <div className="live-page-hero-copy">
-          <p className="section-eyebrow">{copy?.eyebrow ?? "Live Events"}</p>
-          <h1>{copy?.title ?? "Live event pages built for repeat checks"}</h1>
-          <p>
-            {copy?.description ??
-              "This page now highlights always-on public signals, scheduled watch windows, and the highest-traffic live pages instead of just listing cards."}
-          </p>
+          <p className="section-eyebrow">{copy?.eyebrow ?? "Live"}</p>
+          <h1>{copy?.title ?? "Live"}</h1>
+          <p>{copy?.description ?? "Watch streams and open the active pages."}</p>
         </div>
         <div className="live-page-hero-rail">
           <div className="signal-panel signal-panel-accent">
@@ -113,38 +132,72 @@ export function LiveEventsPage() {
       </section>
 
       <section className="section-block">
+        <div className="section-header">
+          <div>
+            <p className="section-eyebrow">Live Streams</p>
+            <h2>Watch here</h2>
+          </div>
+          <div className="section-meta">
+            <p>Direct player embeds.</p>
+          </div>
+        </div>
+        <div className="live-stream-grid">
+          {liveVideoCards.map((item) => (
+            <article className="card stream-card" key={item.title}>
+              <div className="card-chip-row">
+                <span className="chip chip-space">Stream</span>
+                <a className="muted" href={item.url} rel="noreferrer" target="_blank">
+                  Open
+                </a>
+              </div>
+              <div className="short-card-player">
+                <iframe
+                  src={item.embedUrl}
+                  title={item.title}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  loading="lazy"
+                />
+              </div>
+              <h3>{item.title}</h3>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="section-block">
         <div className="live-signal-grid">
           <article className="card sticky-panel">
-            <p className="section-eyebrow">Earthquake Stream</p>
+            <p className="section-eyebrow">Earthquake</p>
             <h2>{earthquake?.title ?? "Global earthquake watch"}</h2>
             <p>{earthquake?.summary ?? "Continuous USGS earthquake monitoring."}</p>
             <div className="event-related-list">
               <Link className="event-related-link" to="/events/global-earthquake-watch">
-                Open live feed
+                Open
               </Link>
               <Link className="event-related-link" to="/live/earth">
-                Earth rail
+                Earth
               </Link>
             </div>
           </article>
 
           <article className="card sticky-panel">
-            <p className="section-eyebrow">Aurora / Kp Stream</p>
+            <p className="section-eyebrow">Aurora</p>
             <h2>{aurora?.title ?? "Aurora watch"}</h2>
             <p>{aurora?.summary ?? "Current planetary K-index conditions from NOAA."}</p>
             <div className="event-related-list">
               <Link className="event-related-link" to="/events/aurora-watch">
-                Open live feed
+                Open
               </Link>
               <Link className="event-related-link" to="/live/space">
-                Space rail
+                Space
               </Link>
             </div>
           </article>
 
           <article className="card sticky-panel">
-            <p className="section-eyebrow">Launch Countdown Rail</p>
-            <h2>Upcoming watch windows</h2>
+            <p className="section-eyebrow">Next</p>
+            <h2>Upcoming</h2>
             <div className="sticky-list">
               {upcomingItems.slice(0, 3).map((item) => (
                 <Link className="sticky-row" key={item.id} to={`/events/${item.slug}`}>
@@ -159,8 +212,8 @@ export function LiveEventsPage() {
           </article>
 
           <article className="card sticky-panel">
-            <p className="section-eyebrow">Most-clicked live pages</p>
-            <h2>Where current attention is landing</h2>
+            <p className="section-eyebrow">Top pages</p>
+            <h2>Most-clicked</h2>
             <div className="sticky-list">
               {mostClicked.map((item) => (
                 <Link className="sticky-row" key={item.slug} to={item.pagePath}>
@@ -179,11 +232,11 @@ export function LiveEventsPage() {
       <section className="section-block">
         <div className="section-header">
           <div>
-            <p className="section-eyebrow">Current Context</p>
-            <h2>What is moving inside the next 24 hours</h2>
+            <p className="section-eyebrow">Next 24h</p>
+            <h2>Coming up</h2>
           </div>
           <div className="section-meta">
-            <p>The launch rail and the current monitoring pages are the main reasons someone should return to this section.</p>
+            <p>Fast scan.</p>
           </div>
         </div>
         <div className="live-timeline-grid">
@@ -191,7 +244,6 @@ export function LiveEventsPage() {
             <Link className="card live-timeline-card" key={item.id} to={`/events/${item.slug}`}>
               <span className="traffic-module-label">{countdownLabel(item.startsAt)}</span>
               <h3>{item.title}</h3>
-              <p>{item.summary}</p>
               <small>{formatShortDate(item.startsAt)}</small>
             </Link>
           ))}
@@ -200,11 +252,8 @@ export function LiveEventsPage() {
 
       <LiveEventsSection
         eyebrow={copy?.eyebrow ?? "Live"}
-        title={copy?.title ?? "Event inventory"}
-        description={
-          copy?.description ??
-          "Promoted live pages sorted for repeat-check value, source clarity, and internal follow-through."
-        }
+        title={copy?.title ?? "Events"}
+        description="Full live inventory."
         updatedAt={feed.data?.updatedAt}
         loading={feed.loading}
         error={feed.error}
