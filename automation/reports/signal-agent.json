@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-03T04:57:34.917Z",
-  "snapshotFile": "merged-2026-05-02.json",
-  "capturedAt": "2026-05-02T06:00:00.000Z",
+  "updatedAt": "2026-05-03T06:09:20.769Z",
+  "snapshotFile": "merged-2026-05-03.json",
+  "capturedAt": "2026-05-03T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -42,7 +42,7 @@
     {
       "path": "/",
       "pageviews": 9,
-      "searchImpressions": 5,
+      "searchImpressions": 6,
       "engagementScore": 100,
       "returnVisitors": 0,
       "videoStarts": 0,

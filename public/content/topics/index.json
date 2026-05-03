@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "updatedAt": "2026-05-03T06:09:20.769Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 101,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T04:57:34.917Z"
+      "updatedAt": "2026-05-03T06:09:20.769Z"
     },
     {
       "slug": "space-weather",
@@ -21,7 +21,7 @@
       "promotedEventCount": 1,
       "bestScore": 100,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T04:57:34.917Z"
+      "updatedAt": "2026-05-03T06:09:20.769Z"
     },
     {
       "slug": "nasa",
@@ -32,7 +32,7 @@
       "promotedEventCount": 1,
       "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T04:57:34.917Z"
+      "updatedAt": "2026-05-03T06:09:20.769Z"
     },
     {
       "slug": "launches",
@@ -41,9 +41,9 @@
       "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
       "eventCount": 3,
       "promotedEventCount": 3,
-      "bestScore": 0,
+      "bestScore": 70,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T04:57:34.917Z"
+      "updatedAt": "2026-05-03T06:09:20.769Z"
     }
   ]
 }

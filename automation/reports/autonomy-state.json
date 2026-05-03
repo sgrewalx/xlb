@@ -1,26 +1,24 @@
 {
-  "assessedAt": "2026-05-03T04:57:34.917Z",
-  "status": "active-learning",
-  "isAutoDeployEligible": true,
-  "productThesis": "live-events-plus-shorts",
-  "manifestPublishMode": "main-direct",
-  "surfaceVersions": {
-    "home": "2026-05-03T04:57:34.917Z",
-    "video": "2026-05-03T04:57:34.917Z",
-    "games": "2026-05-03T04:57:34.917Z",
-    "gallery": "2026-05-03T04:57:34.917Z"
+  "assessedAt": "2026-05-03T06:09:21.636Z",
+  "status": "cold-start",
+  "isAutoDeployEligible": false,
+  "streaks": {
+    "healthySource": 1,
+    "analyticsCoverage": 0,
+    "autonomyEligible": 0
   },
-  "signals": {
-    "snapshot": "merged-2026-05-02.json",
-    "activeSignals": 27,
-    "homePageviews": 9,
-    "livePageviews": 7,
-    "videoPageviews": 15,
-    "returnVisitors": 0
+  "thresholds": {
+    "minimumHealthyStreak": 3,
+    "minimumAnalyticsStreak": 3,
+    "minimumAutonomyStreak": 3
   },
-  "focus": [
-    "Promote live event pages and shorts on the home page.",
-    "Keep games and gallery as retention surfaces until they show measurable lift.",
-    "Auto-publish manifest-only changes directly to main."
+  "recentRuns": [
+    {
+      "assessedAt": "2026-05-03T06:09:21.636Z",
+      "sourceHealthy": true,
+      "hasRealAnalyticsCoverage": false,
+      "coldStartOverrideEligible": false,
+      "eligibleForAutoDeployNow": false
+    }
   ]
 }

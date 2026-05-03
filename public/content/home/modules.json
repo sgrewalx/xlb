@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T04:57:34.917Z",
+  "updatedAt": "2026-05-03T06:09:20.769Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -30,7 +30,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · May 3, 04:54 AM"
+          "meta": "NOAA Space Weather Prediction Center · May 3, 06:05 AM"
         },
         {
           "id": "earth-global-earthquake-watch",
@@ -38,7 +38,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · May 3, 04:50 AM"
+          "meta": "USGS Earthquake Hazards Program · May 3, 06:03 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "59d 7h",
+          "label": "59d 5h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }
@@ -124,7 +124,7 @@
         },
         {
           "label": "Home search impressions",
-          "value": "5"
+          "value": "6"
         },
         {
           "label": "Aurora pageviews",
@@ -146,7 +146,7 @@
           "href": "/",
           "label": "9 views",
           "summary": "The home page should route visitors into live events and shorts instead of acting like a static section index.",
-          "meta": "5 search impressions · engagement 100"
+          "meta": "6 search impressions · engagement 100"
         },
         {
           "id": "why-/news",
