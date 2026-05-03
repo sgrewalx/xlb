@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-05-03T21:34:40.396Z",
+  "updatedAt": "2026-05-03T22:33:14.682Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-says-us-has-responded-to-its-latest-peace-p-ad922387c6",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "id": "news-gas-prices-went-up-more-than-30-cents-a-gallon-l-cda035439c",
+      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
+      "tag": "US",
+      "publishedAt": "2026-05-03T22:24:37.000Z",
+      "summary": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-news-live-chalmers-says-budget-will-pa-132f653631",
+      "title": "Australia news live: Chalmers says budget will pay down more debt; families of Bondi shooting victims to take stand at royal commission",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-05-03T21:28:09.000Z",
-      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+      "publishedAt": "2026-05-03T22:19:21.000Z",
+      "summary": "Treasurer says next week’s budget will save more than it spends. Follow today’s news live Get our breaking news email , free app or daily news podcast The Australian government...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-three-dead-in-suspected-virus-outbreak-on-atlant-31751b8f82",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-03T22:13:36.000Z",
+      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-three-dead-in-suspected-hantavirus-outbreak-on-a-ee88efafc8",
+      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-03T21:59:20.000Z",
+      "summary": "Three of six passengers ill from a suspected rodent-transmitted virus have died, and one is in intensive care, WHO says.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-all-set-for-counting-eci-promises-transparency-e3cb0eefe6",
+      "title": "All set for counting; ECI promises transparency",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/elections/eci-ensures-transparency-and-all-set-for-vote-counting-in-assam-kerala-tamil-nadu-west-bengal-and-puducherry/article70935694.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-03T21:40:24.000Z",
+      "summary": "Heavy security as counting of votes polled for elections to Assemblies of Assam, Kerala, Tamil Nadu, West Bengal and Puducherry and bye-elections in seven Assembly constituencie...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-thousands-join-j-k-l-g-sinha-s-anti-drug-padyatr-87df71c1a7",
+      "title": "Thousands join J&K L-G Sinha’s anti-drug padyatra, 518 peddlers arrested in 22 days",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/thousands-join-jk-l-g-sinhas-anti-drug-padyatra-518-peddlers-arrested-in-22-days-10671204",
+      "tag": "India",
+      "publishedAt": "2026-05-03T21:39:05.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,16 +73,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-entrepreneurs-fight-pile-up-of-garbage-in-the-we-2a1d635f42",
-      "title": "Entrepreneurs fight pile-up of garbage in the West Bank",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/03/nx-s1-5787449/entrepreneurs-fight-pile-up-of-garbage-in-the-west-bank",
-      "tag": "US",
-      "publishedAt": "2026-05-03T21:24:05.000Z",
-      "summary": "Israeli restrictions on movement in the West Bank are impeding garbage trucks from reaching landfills, leaving Palestinians living amid mounds of trash. Two Palestinian entrepre...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-dismisses-nepal-s-kailash-yatra-objection--95a5a9bc87",
       "title": "India dismisses Nepal’s Kailash yatra objection over Lipulekh Pass",
       "source": "Times of India",
@@ -40,36 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-05-03T20:57:00.000Z",
       "summary": "Nepal has officially objected to India resuming the Kailash Mansarovar Yatra through Lipulekh Pass, a territory it claims based on the 1816 Sugauli Treaty. India dismissed these...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-casts-doubt-on-iran-peace-deal-and-says-te-720e926d5a",
-      "title": "Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "tag": "Europe",
-      "publishedAt": "2026-05-03T20:55:27.000Z",
-      "summary": "US president signals scepticism to latest Iranian peace proposal but Tehran says it has received a US response Donald Trump has cast doubt on the prospect of a diplomatic breakt...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-lawmaker-says-strait-of-hormuz-will-not-ret-3bdbe07984",
-      "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-03T20:51:57.000Z",
-      "summary": "Iran says the Strait of Hormuz will never return to the status quo that existed before the US-Israel war on Tehran.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-three-die-on-atlantic-cruise-ship-from-suspected-feaf0b9812",
-      "title": "Three die on Atlantic cruise ship from suspected hantavirus: WHO",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/hantavirus-outbreak-in-mv-hondius-cruise-ship-deaths/article70936283.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-05-03T20:32:28.000Z",
-      "summary": "The outbreak occurred on the MV Hondius, travelling from Ushuaia in Argentina to Cape Verde",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-probe-ordered-after-health-worker-newborn-die-at-07bb14c797",
-      "title": "Probe ordered after health worker, newborn die at Jharkhand hospital, family alleges negligence",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/jharkhand-seraikela-delivery-death-probe-10671082",
-      "tag": "India",
-      "publishedAt": "2026-05-03T17:53:21.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-next-frontier-of-health-care-personalisation-thr-7b4f1f6f1d",
       "title": "Next frontier of health care: Personalisation through collaboration",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-blasting-beats-and-neon-lights-inside-nairobi-s--1fab50f0d3",
-      "title": "Blasting beats and neon lights: inside Nairobi's 'nganya' bus culture",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/03/nx-s1-5797891/blasting-beats-and-neon-lights-inside-nairobis-nganya-bus-culture",
-      "tag": "US",
-      "publishedAt": "2026-05-03T21:23:59.000Z",
-      "summary": "In Nairobi, the matatu isn't just a ride—it's a rolling nightclub, art gallery, and heartbeat of the city all in one.",
+      "id": "news-iran-says-us-has-responded-to-its-latest-peace-p-ad922387c6",
+      "title": "Iran says US has responded to its latest peace proposal",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-03T21:28:09.000Z",
+      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-global-demand-for-rare-earth-minerals-is-intensi-0d02725da4",
-      "title": "Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html",
-      "tag": "US",
-      "publishedAt": "2026-05-03T21:22:54.000Z",
-      "summary": "Global demand for critical minerals, used to build drones and electric cars, is surging, setting of a new wave of criminality in the world’s largest rainforest.",
+      "id": "news-french-left-wing-s-melenchon-says-he-will-run-fo-9941c97dd8",
+      "title": "French left-wing’s Melenchon says he will run for president in 2027",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-03T21:25:48.000Z",
+      "summary": "Melenchon says he will make fourth bid for presidency with President Macron term-limited and Le Pen facing ban.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
