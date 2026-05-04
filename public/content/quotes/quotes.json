@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-05-03T03:49:50.876Z",
+  "updatedAt": "2026-05-04T03:47:12.425Z",
   "items": [
-    {
-      "id": "mary-oliver",
-      "quote": "Tell me, what is it you plan to do with your one wild and precious life?",
-      "author": "Mary Oliver",
-      "context": "Life"
-    },
     {
       "id": "octavia-butler",
       "quote": "All that you touch you change. All that you change changes you.",
@@ -30,6 +24,12 @@
       "quote": "Creativity takes courage.",
       "author": "Henri Matisse",
       "context": "Art"
+    },
+    {
+      "id": "helen-keller",
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "context": "Adventure"
     }
   ]
 }
