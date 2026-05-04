@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-03T06:09:20.769Z",
-  "snapshotFile": "merged-2026-05-03.json",
-  "capturedAt": "2026-05-03T06:00:00.000Z",
+  "updatedAt": "2026-05-04T06:18:43.139Z",
+  "snapshotFile": "merged-2026-05-04.json",
+  "capturedAt": "2026-05-04T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -10,12 +10,32 @@
   },
   "topPages": [
     {
-      "path": "/video",
-      "pageviews": 15,
+      "path": "/",
+      "pageviews": 48,
+      "searchImpressions": 6,
+      "engagementScore": 100,
+      "returnVisitors": 21,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/live",
+      "pageviews": 35,
       "searchImpressions": 0,
       "engagementScore": 100,
-      "returnVisitors": 0,
+      "returnVisitors": 12,
       "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/video",
+      "pageviews": 33,
+      "searchImpressions": 0,
+      "engagementScore": 100,
+      "returnVisitors": 7,
+      "videoStarts": 29,
       "gameStarts": 0,
       "galleryOpens": 0
     },
@@ -31,68 +51,8 @@
     },
     {
       "path": "/sports",
-      "pageviews": 12,
+      "pageviews": 14,
       "searchImpressions": 2,
-      "engagementScore": 75,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/",
-      "pageviews": 9,
-      "searchImpressions": 6,
-      "engagementScore": 100,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/events/aurora-watch",
-      "pageviews": 8,
-      "searchImpressions": 0,
-      "engagementScore": 100,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/tech",
-      "pageviews": 8,
-      "searchImpressions": 0,
-      "engagementScore": 73,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live",
-      "pageviews": 7,
-      "searchImpressions": 0,
-      "engagementScore": 100,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live/earth",
-      "pageviews": 4,
-      "searchImpressions": 0,
-      "engagementScore": 75,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live/space",
-      "pageviews": 3,
-      "searchImpressions": 0,
       "engagementScore": 74,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -100,10 +60,50 @@
       "galleryOpens": 0
     },
     {
-      "path": "/events/global-earthquake-watch",
-      "pageviews": 2,
+      "path": "/live/space",
+      "pageviews": 12,
+      "searchImpressions": 0,
+      "engagementScore": 76,
+      "returnVisitors": 4,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/live/earth",
+      "pageviews": 11,
+      "searchImpressions": 0,
+      "engagementScore": 77,
+      "returnVisitors": 3,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/events/aurora-watch",
+      "pageviews": 10,
       "searchImpressions": 0,
       "engagementScore": 100,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/games",
+      "pageviews": 10,
+      "searchImpressions": 1,
+      "engagementScore": 81,
+      "returnVisitors": 2,
+      "videoStarts": 0,
+      "gameStarts": 6,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/tech",
+      "pageviews": 10,
+      "searchImpressions": 0,
+      "engagementScore": 74,
       "returnVisitors": 0,
       "videoStarts": 0,
       "gameStarts": 0,

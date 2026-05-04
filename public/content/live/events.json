@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T06:09:20.599Z",
+  "updatedAt": "2026-05-04T06:18:42.880Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-05-03T06:03:39.690Z",
-      "summary": "USGS reported 256 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 17 km SW of Kōya, Japan.",
+      "startsAt": "2026-05-04T06:03:25.454Z",
+      "summary": "USGS reported 265 earthquake events in the last 24 hours. Strongest reported event: M5.1 near 111 km SW of Turpan, China.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,11 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-05-03T06:09:20.599Z",
-      "importance": 83,
+      "updatedAt": "2026-05-04T06:18:42.880Z",
+      "importance": 84,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-iran-hits-back-at-trump-over-pirate-remark-accus-b668021e45"
+        "video-west-bengal-ceo-manoj-agarwal-responds-to-tmc-s--c87c3056b0",
+        "video-early-trends-suggest-bjp-ahead-in-bengal-neck-ne-691c906369",
+        "video-assembly-polls-counting-of-votes-begin-in-west-b-015a367ffb"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -44,8 +46,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-05-03T06:05:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-05-04T06:14:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -56,11 +58,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-05-03T06:09:20.599Z",
-      "importance": 80,
+      "updatedAt": "2026-05-04T06:18:42.880Z",
+      "importance": 81,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-iran-hits-back-at-trump-over-pirate-remark-accus-b668021e45"
+        "video-west-bengal-ceo-manoj-agarwal-responds-to-tmc-s--c87c3056b0",
+        "video-early-trends-suggest-bjp-ahead-in-bengal-neck-ne-691c906369",
+        "video-assembly-polls-counting-of-votes-begin-in-west-b-015a367ffb"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -91,8 +95,8 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-03T06:09:20.599Z",
-      "importance": 73,
+      "updatedAt": "2026-05-04T06:18:42.880Z",
+      "importance": 77,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
       "relatedGameIds": [
@@ -123,8 +127,8 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-03T06:09:20.599Z",
-      "importance": 69,
+      "updatedAt": "2026-05-04T06:18:42.880Z",
+      "importance": 72,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [
@@ -144,7 +148,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-05-03T06:09:20.386Z",
+      "startsAt": "2026-05-04T06:18:42.615Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -156,8 +160,8 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-03T06:09:20.599Z",
-      "importance": 64,
+      "updatedAt": "2026-05-04T06:18:42.880Z",
+      "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [
@@ -177,7 +181,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-05-03T06:09:20.387Z",
+      "startsAt": "2026-05-04T06:18:42.616Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -189,8 +193,8 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-03T06:09:20.599Z",
-      "importance": 60,
+      "updatedAt": "2026-05-04T06:18:42.880Z",
+      "importance": 62,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [

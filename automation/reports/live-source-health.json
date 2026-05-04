@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-03T06:09:21.476Z",
+  "checkedAt": "2026-05-04T06:18:43.819Z",
   "status": "healthy",
   "stability": {
     "status": "earning-trust",
@@ -20,10 +20,16 @@
       "freshSeedCount": 3,
       "staleSeedCount": 0,
       "error": null,
-      "healthyStreak": 1,
-      "nonFallbackStreak": 13,
+      "healthyStreak": 2,
+      "nonFallbackStreak": 14,
       "stable": false,
       "recentRuns": [
+        {
+          "checkedAt": "2026-05-04T06:18:43.819Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 3
+        },
         {
           "checkedAt": "2026-05-03T06:09:21.476Z",
           "status": "healthy",
@@ -111,16 +117,22 @@
       "earthquakeItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 256,
+      "fetchedSeedCount": 265,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 5.7,
+      "strongestMagnitude": 5.1,
       "largeCount": 10,
       "error": null,
-      "healthyStreak": 12,
-      "nonFallbackStreak": 12,
+      "healthyStreak": 13,
+      "nonFallbackStreak": 13,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-05-04T06:18:43.819Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-05-03T06:09:21.476Z",
           "status": "healthy",
@@ -202,17 +214,23 @@
       "spaceWeatherItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 357,
+      "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 0,
-      "recentPeakKp": 3,
+      "latestKp": 1,
+      "recentPeakKp": 2,
       "alertLevel": "quiet",
       "error": null,
-      "healthyStreak": 10,
-      "nonFallbackStreak": 11,
+      "healthyStreak": 11,
+      "nonFallbackStreak": 12,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-05-04T06:18:43.819Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-05-03T06:09:21.476Z",
           "status": "healthy",

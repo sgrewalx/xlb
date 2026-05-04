@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T06:09:20.769Z",
+  "updatedAt": "2026-05-04T06:18:43.139Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 101,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T06:09:20.769Z"
+      "updatedAt": "2026-05-04T06:18:43.139Z"
     },
     {
       "slug": "space-weather",
@@ -21,7 +21,7 @@
       "promotedEventCount": 1,
       "bestScore": 100,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T06:09:20.769Z"
+      "updatedAt": "2026-05-04T06:18:43.139Z"
     },
     {
       "slug": "nasa",
@@ -30,9 +30,9 @@
       "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 77,
+      "bestScore": 89,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T06:09:20.769Z"
+      "updatedAt": "2026-05-04T06:18:43.139Z"
     },
     {
       "slug": "launches",
@@ -41,9 +41,9 @@
       "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
       "eventCount": 3,
       "promotedEventCount": 3,
-      "bestScore": 70,
+      "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-05-03T06:09:20.769Z"
+      "updatedAt": "2026-05-04T06:18:43.139Z"
     }
   ]
 }
