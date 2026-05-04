@@ -1,15 +1,85 @@
 {
-  "updatedAt": "2026-05-04T12:21:59.072Z",
+  "updatedAt": "2026-05-04T15:05:57.810Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-assam-election-results-live-cm-himanta-heads-tow-cfd5511375",
-      "title": "Assam election results LIVE: CM Himanta heads towards victory in Jalukbari",
+      "id": "news-three-dead-in-suspected-virus-outbreak-on-atlant-a4e41a1ce7",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-04T15:03:13.000Z",
+      "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-germans-are-not-panicking-over-trump-s-troop-thr-71f38d4b2f",
+      "title": "Germans Are Not Panicking Over Trump’s Troop Threats",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/04/world/europe/germany-trump-troop-withdrawal.html",
+      "tag": "US",
+      "publishedAt": "2026-05-04T15:01:59.000Z",
+      "summary": "Top leaders believe losing 5,000 U.S. troops will not hurt German security. But analysts fear an economic hit, especially in military communities.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-malkajgiri-traffic-police-book-2-727-cases-for-w-0a74c6db1a",
+      "title": "Malkajgiri Traffic Police book 2,727 cases for wrong parking, impose fines worth over ₹5.5 lakh",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-results-live-updates-may-4-2026/article70934562.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/malkajgiri-traffic-police-book-2727-cases-for-wrong-parking-impose-fines-worth-over-55-lakh/article70939330.ece",
       "tag": "India",
-      "publishedAt": "2026-05-04T12:16:46.000Z",
-      "summary": "Ruling NDA won 37 seats and was leading in 65 others, as per ECI at 5.30 p.m.; Congress State chief Gaurav Gogoi loses in Jorhat",
+      "publishedAt": "2026-05-04T15:00:11.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-gangavalli-election-results-2026-aiadmk-s-nallat-ce5c311a61",
+      "title": "Gangavalli election results 2026: AIADMK's Nallathambi A wins against DMK's Chinnadurai K",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/gangavalli-election-results-2026/articleshow/130682952.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-04T14:56:02.000Z",
+      "summary": "Gangavalli, an SC-reserved constituency in Tamil Nadu's Salem district, typically sees contests between AIADMK and DMK. In 2016, AIADMK's Maruthamuthu A narrowly defeated DMK's...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-hearing-for-suspect-in-white-house-correspondent-980b7162cc",
+      "title": "Hearing for suspect in White House correspondents’ dinner shooting scheduled for today – US politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-05-04T14:44:48.000Z",
+      "summary": "Cole Allen remains in custody after being charged with attempting to assassinate Donald Trump Sign up for the Breaking News US email Marco Rubio, the US secretary of state, will...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-india-loses-its-last-left-wing-government-after--f26fb008a7",
+      "title": "India loses its last left-wing government after five decades",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/4/india-loses-its-last-left-wing-government-after-five-decades?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-04T14:29:58.000Z",
+      "summary": "Kerala in India, which gave the world its first democratically elected communist government, has voted the left out.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-assam-verdict-draws-sharp-faultlines-nda-sweeps--5245a21898",
+      "title": "Assam verdict draws sharp faultlines: NDA sweeps heartland, Congress pockets minority belt",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/assam-election-results-2026-nda-sweep-congress-delimitation-impact-10672595",
+      "tag": "India",
+      "publishedAt": "2026-05-04T14:22:17.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bjp-s-pradyut-bordoloi-who-quit-congress-wins-fr-777ec625ce",
+      "title": "BJP's Pradyut Bordoloi, Who Quit Congress, Wins From Dispur In Assam",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/assam-assembly-election-result-bjps-pradyut-bordoloi-who-quit-congress-wins-from-dispur-in-assam-11447696",
+      "tag": "India",
+      "publishedAt": "2026-05-04T13:34:40.000Z",
+      "summary": "Pradyut Bordoloi defeated Congress' Mira Borthakur Goswami and independent candidate Jayanta Kumar Das in Dispur.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,76 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-how-to-see-the-eta-aquariid-meteor-shower-5e55ea0955",
-      "title": "How to see the Eta Aquariid meteor shower",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/videos/c4g9p39wq91o?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-05-04T12:11:23.000Z",
-      "summary": "How to see the Eta Aquariid meteor shower",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-what-to-know-about-the-suspected-hantavirus-outb-d26e6073e3",
-      "title": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
-      "tag": "US",
-      "publishedAt": "2026-05-04T12:04:19.000Z",
-      "summary": "Three passengers of the MV Hondius died after showing symptoms of the rare disease. Health authorities confirmed one case and are investigating five others.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-hearing-for-suspect-in-white-house-correspondent-50093b7add",
-      "title": "Hearing for suspect in White House correspondents’ dinner shooting scheduled for today – US politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-05-04T12:02:05.000Z",
-      "summary": "Cole Allen remains in custody after being charged with attempting to assassinate Donald Trump Sign up for the Breaking News US email Donald Trump is in Washington today. He’ll s...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-kharagpur-rural-assembly-election-results-2026-bccdb85963",
-      "title": "Kharagpur Rural assembly election results 2026",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/kharagpur-rural-assembly-election-results-2026/articleshow/130638248.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-04T12:02:00.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-election-results-live-updates-bengal-chooses-bjp-74782355e8",
-      "title": "Election Results Live Updates: Bengal Chooses BJP, Vijay Delivers Tamil Nadu Blockbuster, Congress Comeback In Kerala",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/election-results-2026-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-vote-counting-bjp-tmc-mamata-banerjee-tvk-vijay-dmk-udf-ldf-congress-11443744",
-      "tag": "India",
-      "publishedAt": "2026-05-04T11:55:38.000Z",
-      "summary": "Election Results 2026 LIVE Updates: Exit polls predict a close competition between Trinamool Congress and BJP in West Bengal",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-car-show-turns-to-tragedy-as-monster-truck-drive-fe16f40dc4",
-      "title": "Car show turns to tragedy as monster truck drives into crowd in Colombia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/car-show-turns-to-tragedy-as-monster-truck-drives-into-crowd-in-colombia?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-04T11:45:21.000Z",
-      "summary": "Distraught onlookers caught the moment a monster truck lost control at a car show and plowed into spectators in Colombia",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-for-the-first-time-bjp-wins-more-than-1-seat-in--729db056a0",
-      "title": "For the first time, BJP wins more than 1 seat in Kerala; Congress returns to power after a decade",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/for-the-first-time-bjp-wins-more-than-1-seat-in-kerala-congress-returns-to-power-after-a-decade-10672206",
-      "tag": "India",
-      "publishedAt": "2026-05-04T11:06:55.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-nicobar-is-too-important-to-get-wrong-1e0f3b5163",
       "title": "Nicobar is too important to get wrong",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-assam-assembly-election-2026-full-list-of-winner-5855f36afd",
-      "title": "Assam Assembly Election 2026: Full list of winners",
+      "id": "news-with-bengal-poll-verdict-lotus-is-blooming-from--248b0464b8",
+      "title": "With Bengal poll verdict, ‘lotus’ is blooming from Gangotri to Gangasagar: PM Modi",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-2026-results-full-list-of-winners/article70938261.ece",
+      "url": "https://www.thehindu.com/elections/pm-modi-bjp-election-results-bengal-assam-puducherry-may-4-2026/article70939219.ece",
       "tag": "India",
-      "publishedAt": "2026-05-04T12:16:41.000Z",
-      "summary": "NDA alliance, led by Dr Himanta Biswa Sarma is looking for a hat-trick in the state.",
+      "publishedAt": "2026-05-04T14:58:12.000Z",
+      "summary": "The Prime Minister said winning and losing are a natural part of democracy and politics, but the people of the five States have shown the world why the country is the mother of...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-assam-election-results-2026-major-opposition-lea-9967a67e51",
-      "title": "Assam election results 2026: Major Opposition leaders trailing in early trends",
+      "id": "news-two-faculty-members-of-tumkur-university-alleged-240411db82",
+      "title": "Two faculty members of Tumkur University allegedly submitted fake documents for promotion",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-results-opposition-performance-trends-latest-update/article70937549.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/two-faculty-members-of-tumkur-university-allegedly-submitted-fake-documents-for-promotion/article70938595.ece",
       "tag": "India",
-      "publishedAt": "2026-05-04T12:16:37.000Z",
-      "summary": "Congress leader Saikia was trailing by 4,967 votes in Sivasagar district's Nazira seat. BJP’s Mayur Borgohain secured 11,607 votes after the second round, compared to Saikia’s 6...",
+      "publishedAt": "2026-05-04T14:56:50.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
