@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-04T06:18:43.139Z",
-  "snapshotFile": "merged-2026-05-04.json",
-  "capturedAt": "2026-05-04T06:00:00.000Z",
+  "updatedAt": "2026-05-05T06:00:00.000Z",
+  "snapshotFile": "merged-2026-05-05.json",
+  "capturedAt": "2026-05-05T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -11,7 +11,7 @@
   "topPages": [
     {
       "path": "/",
-      "pageviews": 48,
+      "pageviews": 47,
       "searchImpressions": 6,
       "engagementScore": 100,
       "returnVisitors": 21,
@@ -31,21 +31,11 @@
     },
     {
       "path": "/video",
-      "pageviews": 33,
+      "pageviews": 31,
       "searchImpressions": 0,
       "engagementScore": 100,
       "returnVisitors": 7,
       "videoStarts": 29,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/news",
-      "pageviews": 14,
-      "searchImpressions": 0,
-      "engagementScore": 87,
-      "returnVisitors": 0,
-      "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
@@ -65,6 +55,16 @@
       "searchImpressions": 0,
       "engagementScore": 76,
       "returnVisitors": 4,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/news",
+      "pageviews": 12,
+      "searchImpressions": 0,
+      "engagementScore": 90,
+      "returnVisitors": 0,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -101,9 +101,9 @@
     },
     {
       "path": "/tech",
-      "pageviews": 10,
+      "pageviews": 8,
       "searchImpressions": 0,
-      "engagementScore": 74,
+      "engagementScore": 75,
       "returnVisitors": 0,
       "videoStarts": 0,
       "gameStarts": 0,

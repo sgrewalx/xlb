@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-04T06:18:41.949Z",
-  "sourceSnapshot": "2026-05-04T06:00:00.000Z",
+  "updatedAt": "2026-05-05T05:48:08.055Z",
+  "sourceSnapshot": "2026-05-05T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -12,23 +12,23 @@
     "sitemapPathCount": 25,
     "opportunityCount": 12,
     "searchOpportunityCount": 0,
-    "engagementOpportunityCount": 10,
-    "indexWatchCount": 2
+    "engagementOpportunityCount": 9,
+    "indexWatchCount": 3
   },
   "opportunities": [
     {
       "id": "traffic-engagement_expand-home",
       "path": "/",
       "signal": "engagement_expand",
-      "score": 134,
+      "score": 133,
       "risk": "medium",
       "title": "Expand high-engagement path /",
       "hypothesis": "/ shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
       "metrics": {
-        "pageviews": 48,
-        "visits": 9,
+        "pageviews": 47,
+        "visits": 8,
         "searchImpressions": 6,
         "searchCtr": 0,
         "avgPosition": 6.666666666666667,
@@ -72,15 +72,15 @@
       "id": "traffic-engagement_expand-video",
       "path": "/video",
       "signal": "engagement_expand",
-      "score": 123,
+      "score": 122,
       "risk": "medium",
       "title": "Expand high-engagement path /video",
       "hypothesis": "/video shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
       "metrics": {
-        "pageviews": 33,
-        "visits": 8,
+        "pageviews": 31,
+        "visits": 7,
         "searchImpressions": 0,
         "searchCtr": 0,
         "avgPosition": 0,
@@ -124,20 +124,20 @@
       "id": "traffic-engagement_expand-news",
       "path": "/news",
       "signal": "engagement_expand",
-      "score": 97,
+      "score": 98,
       "risk": "medium",
       "title": "Expand high-engagement path /news",
       "hypothesis": "/news shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
       "metrics": {
-        "pageviews": 14,
-        "visits": 6,
+        "pageviews": 12,
+        "visits": 5,
         "searchImpressions": 0,
         "searchCtr": 0,
         "avgPosition": 0,
         "watchClicks": 0,
-        "engagementScore": 87
+        "engagementScore": 90
       },
       "inputQuality": {
         "quality": "live-api",
@@ -251,32 +251,6 @@
       }
     },
     {
-      "id": "traffic-engagement_expand-tech",
-      "path": "/tech",
-      "signal": "engagement_expand",
-      "score": 81,
-      "risk": "medium",
-      "title": "Expand high-engagement path /tech",
-      "hypothesis": "/tech shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
-      "metrics": {
-        "pageviews": 10,
-        "visits": 5,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 74
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
       "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
       "path": "/events/clps-flight-astrobotic-griffin-1",
       "signal": "index_watch",
@@ -310,6 +284,32 @@
       "risk": "low",
       "title": "Watch index coverage for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-events-roscosmos-progress-96",
+      "path": "/events/roscosmos-progress-96",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /events/roscosmos-progress-96",
+      "hypothesis": "/events/roscosmos-progress-96 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
