@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-05-05T22:46:29.248Z",
+  "updatedAt": "2026-05-05T23:40:05.920Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-lucid-motors-doesn-t-know-how-many-evs-it-will-b-4a06b73432",
-      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year",
+      "id": "tech-i-actually-thought-he-was-going-to-hit-me-openai-5b8fdd6306",
+      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T22:31:57.000Z",
-      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a company-wide cost-cutting measure.",
+      "publishedAt": "2026-05-05T23:24:58.000Z",
+      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk and subsequent efforts to remove several board members.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-bumble-s-paying-users-are-slipping-as-it-bets-on-f08ae45e90",
+      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T23:05:50.000Z",
+      "summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,6 +33,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-openai-president-forced-to-read-his-personal-dia-a587d8ad9d",
+      "title": "OpenAI president forced to read his personal diary entries to jury",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T22:28:12.000Z",
+      "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-google-home-s-gemini-ai-can-handle-more-complica-2cba5ea166",
       "title": "Google Home’s Gemini AI can handle more complicated requests",
       "source": "The Verge",
@@ -30,26 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-05T21:46:04.000Z",
       "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1,...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-silicon-valley-bets-200m-on-ai-data-centers-floa-035b7fe683",
-      "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T21:41:32.000Z",
-      "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-telehealth-abortion-is-still-possible-without-mi-811d28ad14",
-      "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T21:05:40.000Z",
-      "summary": "Courts may restrict access to the popular abortion medication mifepristone in the United States. Telehealth providers have backup plans in place.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-will-pay-250-million-for-failing-to-delive-c9f67c6fc9",
-      "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time",
+      "id": "tech-altara-secures-7m-to-bridge-the-data-gap-that-s--e6bb5fcb4e",
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T21:51:45.000Z",
-      "summary": "The proposed settlement is the result of a class action lawsuit filed in California.",
+      "publishedAt": "2026-05-05T22:57:41.000Z",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-reportedly-agrees-to-pay-google-200-bi-04b68980fb",
-      "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access",
+      "id": "tech-lucid-motors-doesn-t-know-how-many-evs-it-will-b-4a06b73432",
+      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T21:40:41.000Z",
-      "summary": "This five-year deal is one of many circular agreements keeping the AI sector afloat.",
+      "publishedAt": "2026-05-05T22:31:57.000Z",
+      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
