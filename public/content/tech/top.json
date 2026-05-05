@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-05-05T17:17:17.431Z",
+  "updatedAt": "2026-05-05T19:05:21.893Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-alexa-is-now-available-on-a-bunch-of-bose-speake-2701101c58",
-      "title": "Alexa+ is now available on a bunch of Bose speakers",
+      "id": "tech-the-next-call-of-duty-is-not-coming-to-ps4-or-pr-1d55a0e096",
+      "title": "The next Call of Duty is not coming to PS4 (or presumably Xbox One)",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2165222/alexa-is-now-available-on-a-bunch-of-bose-speakers",
+      "url": "https://www.engadget.com/2165363/the-next-call-of-duty-is-not-coming-to-ps4-or-presumably-xbox-one",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T17:08:28.000Z",
-      "summary": "This is the upgraded smart assistant's debut on a non-Amazon device.",
+      "publishedAt": "2026-05-05T19:00:00.000Z",
+      "summary": "Activision Blizzard seems to be focusing on next-gen platforms.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-threads-finally-brings-messaging-to-the-web-cfdc00a132",
+      "title": "Threads finally brings messaging to the web",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T18:34:20.000Z",
+      "summary": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-threads-is-finally-getting-dms-on-the-web-c1015fe27b",
+      "title": "Threads is finally getting DMs on the web",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T18:30:42.000Z",
+      "summary": "Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's \"testing\" DMs on the web now, but...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-to-safety-test-new-ai-models-from-google-micr-380147f8c0",
+      "title": "US to safety test new AI models from Google, Microsoft, xAI",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T17:21:32.000Z",
+      "summary": "New agreements between the companies and the Commerce department build on Biden-era pacts.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-home-gets-upgraded-gemini-voice-assistant-fba349aff0",
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T17:17:25.000Z",
+      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,36 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-05T17:00:01.000Z",
       "summary": "Google announced the date for The Android Show: I/O Edition on Tuesday. The second edition of the virtual-only event will take place on May 12 and will build up to the company’s...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-claims-chatgpt-s-new-default-model-halluc-34f8e89563",
-      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T17:00:00.000Z",
-      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant mod...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-releases-gpt-5-5-instant-a-new-default-mo-c7713b7ed5",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T17:00:00.000Z",
-      "summary": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-do-you-design-a-30-000-electric-pickup-insid-9082dacd6c",
-      "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T15:39:21.000Z",
-      "summary": "We tour Ford’s top-secret Electric Vehicle Development Center in California.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-pornhub-to-become-accessible-again-for-some-uk-u-ff1a067a22",
-      "title": "Pornhub to become accessible again for some UK users",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cwy27q05gj2o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T14:09:28.000Z",
-      "summary": "UK iPhone users who have completed Apple's device-based age checks will no longer be blocked from the site's adult content.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-usa-s-national-reconnaissance-office-awards-cont-76ccf88774",
       "title": "USA’s National Reconnaissance Office awards contract to Bengaluru space startup Pixxel to provide hyperspectral imagery",
       "source": "The Hindu Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-chrome-on-android-will-now-let-you-share-your-ap-d3fb5ffe3c",
-      "title": "Chrome on Android will now let you share your approximate location",
+      "id": "tech-google-home-gains-more-gemini-powered-camera-fea-48f34983e6",
+      "title": "Google Home gains more Gemini-powered camera features",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2164301/chrome-on-android-will-now-let-you-share-your-approximate-location",
+      "url": "https://www.engadget.com/2165331/google-home-gains-more-gemini-powered-camera-features",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T17:00:00.000Z",
-      "summary": "The feature is also coming to desktops soon.",
+      "publishedAt": "2026-05-05T18:39:00.000Z",
+      "summary": "The company also updated Gemini for Home for those in an early access program.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-will-livestream-the-android-show-i-o-edit-5e0c076e8d",
-      "title": "Google will livestream The Android Show: I/O Edition on May 12",
+      "id": "tech-the-steam-controller-sold-out-super-quickly-and--9c4905e0e1",
+      "title": "The Steam Controller sold out super quickly and Valve is working on a restock",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2164379/google-will-livestream-the-android-show-io-edition-on-may-12",
+      "url": "https://www.engadget.com/2165324/the-steam-controller-sold-out-super-quickly-and-valve-is-working-on-a-restock",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T17:00:00.000Z",
-      "summary": "The virtual event will showcase some of the biggest changes to the OS in years.",
+      "publishedAt": "2026-05-05T18:16:22.000Z",
+      "summary": "Well, that was fast.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
