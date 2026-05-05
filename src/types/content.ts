@@ -198,25 +198,6 @@ export interface VideoShortsFeed {
   items: VideoShort[];
 }
 
-export interface GameCatalogItem {
-  id: string;
-  mode: string;
-  title: string;
-  description: string;
-  prompt: string;
-  relatedPath: string;
-  relatedLabel: string;
-  metricLabel: string;
-  metricValue: string;
-  featured: boolean;
-}
-
-export interface GamesCatalogFeed {
-  updatedAt: string;
-  thesis: string;
-  items: GameCatalogItem[];
-}
-
 export interface GalleryCollectionEntry {
   id: string;
   title: string;

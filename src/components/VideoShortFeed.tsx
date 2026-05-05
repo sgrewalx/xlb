@@ -7,7 +7,6 @@ interface VideoShortFeedProps {
   items?: VideoShort[];
   loading: boolean;
   error: string | null;
-  updatedAt?: string;
 }
 
 function buildEmbedSrc(embedUrl: string) {

@@ -17,7 +17,6 @@ export function VideoPage() {
         items={video.data?.items}
         loading={video.loading}
         error={video.error}
-        updatedAt={video.data?.updatedAt}
       />
     </>
   );

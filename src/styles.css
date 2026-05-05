@@ -775,6 +775,10 @@ img {
   justify-content: center;
 }
 
+.games-grid-wide {
+  grid-template-columns: minmax(0, 1120px);
+}
+
 .static-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -1445,6 +1449,171 @@ img {
   gap: 16px;
 }
 
+.longform-game-card {
+  gap: 20px;
+}
+
+.longform-game-header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.longform-game-header h2,
+.board-side-panel p {
+  margin: 0;
+}
+
+.board-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 20px;
+  align-items: start;
+}
+
+.board-side-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.board-side-panel .metric-pill strong {
+  font-size: 1rem;
+}
+
+.chess-board {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  max-width: 720px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 24px;
+}
+
+.chess-square {
+  display: flex;
+  min-height: 82px;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  font-size: clamp(1.7rem, 3.4vw, 3rem);
+  cursor: pointer;
+  transition: box-shadow 160ms ease;
+}
+
+.chess-square.is-light {
+  background: #d9c2a2;
+}
+
+.chess-square.is-dark {
+  background: #745742;
+}
+
+.chess-square.is-selected {
+  box-shadow: inset 0 0 0 3px rgba(124, 246, 212, 0.9);
+}
+
+.chess-square.is-target {
+  box-shadow: inset 0 0 0 3px rgba(94, 160, 255, 0.8);
+}
+
+.go-board {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+  gap: 0;
+  max-width: 720px;
+  padding: 18px;
+  border-radius: 24px;
+  background: #c9964c;
+}
+
+.go-point {
+  position: relative;
+  aspect-ratio: 1;
+  border: 0;
+  background:
+    linear-gradient(rgba(89, 52, 18, 0.55), rgba(89, 52, 18, 0.55)) center / 1px 100% no-repeat,
+    linear-gradient(rgba(89, 52, 18, 0.55), rgba(89, 52, 18, 0.55)) center / 100% 1px no-repeat;
+  cursor: pointer;
+}
+
+.go-stone {
+  position: absolute;
+  inset: 14%;
+  border-radius: 50%;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);
+}
+
+.go-stone-black {
+  background: radial-gradient(circle at 34% 34%, #4a4a4a, #111 62%);
+}
+
+.go-stone-white {
+  background: radial-gradient(circle at 34% 34%, #fff, #d8d8d8 70%);
+}
+
+.connect-four-shell {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.connect-drop-row {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.connect-drop-button {
+  min-height: 40px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  font: inherit;
+  cursor: pointer;
+}
+
+.connect-board {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 10px;
+  max-width: 720px;
+  padding: 18px;
+  border-radius: 24px;
+  background: #15386b;
+}
+
+.connect-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(4, 10, 18, 0.3);
+  cursor: pointer;
+}
+
+.connect-disc {
+  width: 80%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.connect-disc-red {
+  background: radial-gradient(circle at 34% 34%, #ffb6ad, #c93b29 68%);
+}
+
+.connect-disc-yellow {
+  background: radial-gradient(circle at 34% 34%, #fff2a4, #d9a100 68%);
+}
+
 .sudoku-toolbar,
 .sudoku-footer {
   display: flex;
@@ -2011,8 +2180,7 @@ img {
 .live-stream-grid,
 .live-timeline-grid,
 .short-feed-grid,
-.gallery-collection-grid,
-.signal-games-layout {
+.gallery-collection-grid {
   display: grid;
   gap: 16px;
 }
@@ -2057,10 +2225,19 @@ img {
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.04);
   color: var(--text);
+  font: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  appearance: none;
   transition:
     transform 160ms ease,
     border-color 160ms ease,
     background 160ms ease;
+}
+
+.hero-pill-link.is-active {
+  border-color: rgba(124, 246, 212, 0.34);
+  background: rgba(18, 34, 57, 0.96);
 }
 
 .hero-pill-link:hover {
@@ -2069,8 +2246,28 @@ img {
   background: rgba(18, 34, 57, 0.92);
 }
 
+.live-switcher-card {
+  gap: 18px;
+}
+
+.live-switcher-meta {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.live-switcher-meta h2,
+.live-switcher-meta p {
+  margin: 0;
+}
+
+.live-switcher-meta p:last-child {
+  margin-top: 8px;
+  color: var(--muted);
+}
+
 .traffic-module-card,
-.signal-games-card,
 .gallery-collection-card {
   display: flex;
   flex-direction: column;
@@ -2082,8 +2279,7 @@ img {
 }
 
 .traffic-module-card p,
-.gallery-collection-card p,
-.signal-game-note p {
+.gallery-collection-card p {
   margin: 0;
 }
 
@@ -2243,15 +2439,13 @@ img {
   gap: 8px;
 }
 
-.short-viewer-copy h2,
-.short-preview-card strong {
+.short-viewer-copy h2 {
   margin: 0;
   font-size: clamp(1.1rem, 1.1rem + 0.4vw, 1.5rem);
   line-height: 1.15;
 }
 
-.short-viewer-copy p,
-.short-preview-card small {
+.short-viewer-copy p {
   margin: 0;
   color: rgba(232, 241, 255, 0.82);
   display: -webkit-box;
@@ -2291,21 +2485,6 @@ img {
 .video-reel-section {
   min-height: calc(100vh - 160px);
   justify-content: center;
-}
-
-.short-preview-strip {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
-  margin-top: 16px;
-}
-
-.short-preview-card {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 10px;
-  text-align: left;
 }
 
 .short-launcher {
@@ -2421,96 +2600,6 @@ img {
   margin: 0;
 }
 
-.signal-games-layout {
-  grid-template-columns: minmax(0, 1.25fr) minmax(320px, 0.75fr);
-  align-items: start;
-}
-
-.signal-games-sidebar {
-  display: grid;
-  gap: 16px;
-}
-
-.signal-game-note {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.signal-game-shell {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.signal-game-meta,
-.signal-timeline-actions {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-
-.signal-game-meta span {
-  display: inline-flex;
-  min-height: 36px;
-  align-items: center;
-  padding: 8px 12px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.05);
-  color: var(--muted);
-}
-
-.signal-answer-grid,
-.signal-reaction-grid {
-  display: grid;
-  gap: 12px;
-}
-
-.signal-answer-grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
-.signal-game-summary {
-  padding: 18px;
-  border-radius: var(--radius-md);
-  background: rgba(255, 255, 255, 0.04);
-}
-
-.signal-timeline-list {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.signal-timeline-row {
-  align-items: center;
-}
-
-.signal-reaction-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
-.signal-reaction-tile {
-  min-height: 140px;
-  border-radius: var(--radius-md);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  background: rgba(255, 255, 255, 0.03);
-  color: var(--muted);
-  font-size: 1.05rem;
-  transition:
-    transform 160ms ease,
-    border-color 160ms ease,
-    background 160ms ease;
-}
-
-.signal-reaction-tile.is-active {
-  color: var(--text);
-  transform: translateY(-2px);
-  border-color: rgba(124, 246, 212, 0.34);
-  background:
-    radial-gradient(circle at 18% 18%, rgba(124, 246, 212, 0.24), transparent 36%),
-    linear-gradient(145deg, rgba(18, 37, 56, 0.96), rgba(14, 22, 39, 0.98));
-}
 
 .static-card {
   min-height: 220px;
@@ -2623,9 +2712,7 @@ img {
   .home-short-preview-grid,
   .short-feed-grid,
   .gallery-collection-grid,
-  .signal-games-layout,
   .short-viewer-shell,
-  .short-preview-strip,
   .event-hero,
   .games-grid,
   .live-world-grid,
@@ -2642,6 +2729,8 @@ img {
   .site-footer,
   .sudoku-toolbar,
   .sudoku-footer,
+  .longform-game-header,
+  .live-switcher-meta,
   .live-feed-header,
   .event-columns,
   .topic-summary-grid,
@@ -2659,7 +2748,8 @@ img {
   .traffic-module-metrics,
   .short-card-stats,
   .live-feed-panel,
-  .live-event-meta {
+  .live-event-meta,
+  .board-shell {
     grid-template-columns: 1fr;
   }
 
@@ -2749,11 +2839,6 @@ img {
     align-items: start;
   }
 
-  .signal-answer-grid,
-  .signal-reaction-grid {
-    grid-template-columns: 1fr;
-  }
-
   .short-card-player {
     min-height: 420px;
   }
@@ -2761,6 +2846,15 @@ img {
   .short-viewer-frame {
     width: min(100%, 420px);
     height: auto;
+  }
+
+  .chess-square {
+    min-height: 54px;
+  }
+
+  .go-board,
+  .connect-board {
+    padding: 12px;
   }
 
   .short-viewer-rail {
