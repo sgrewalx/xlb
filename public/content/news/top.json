@@ -1,25 +1,75 @@
 {
-  "updatedAt": "2026-05-05T20:55:53.890Z",
+  "updatedAt": "2026-05-05T21:57:25.245Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-rubio-tries-to-shift-war-s-3deef88e37",
-      "title": "Iran War Live Updates: Rubio Tries to Shift War’s Focus to Strait",
+      "id": "news-cruise-ship-struck-by-hantavirus-is-to-head-to-c-e52982c2c2",
+      "title": "Cruise Ship Struck by Hantavirus Is to Head to Canary Islands, W.H.O. Says",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+      "url": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html",
       "tag": "US",
-      "publishedAt": "2026-05-05T20:51:10.000Z",
-      "summary": "The secretary of state argued that the U.S. military’s combat operations in Iran ended, and that forces protecting ships in the Strait of Hormuz are on an entirely new mission.",
+      "publishedAt": "2026-05-05T21:49:01.000Z",
+      "summary": "The Spanish government will receive the vessel. The World Health Organization said human-to-human transmission may have played a role in the outbreak.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-marco-rubio-says-us-fortunate-high-gas-prices-ar-e9926aea18",
-      "title": "Marco Rubio says US ‘fortunate’ high gas prices are not even worse, with other countries suffering ‘big time’ – live",
+      "id": "news-border-politics-how-similar-jobs-in-the-same-fir-28c39566da",
+      "title": "Border politics - how similar jobs in the same firm deliver different tax bills",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3r2w4r113xo?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-05-05T21:47:37.000Z",
+      "summary": "Workers in southern Scotland can find themselves paying more tax than colleagues who live south of the border.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-news-live-banks-pass-on-interest-rate--82501916d9",
+      "title": "Australia news live: banks pass on interest rate hike to customers; Sydney ‘globalise the intifada’ forum held in park",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-05-05T20:44:44.000Z",
-      "summary": "Secretary of state defends Trump administration over spike in pump prices, saying US is ‘insulated to some degree’ compared t other countries Sign up for the Breaking News US em...",
+      "publishedAt": "2026-05-05T21:37:20.000Z",
+      "summary": "Lenders increase borrowing rates by 0.25%; pro-Palestine meeting barred from council venue goes ahead outside in Darlington. Follow updates live Get our breaking news email , fr...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-tamil-nadu-verdict-vijay-stakes-claim-congress-o-c060b0ea34",
+      "title": "Tamil Nadu verdict: Vijay stakes claim, Congress offers conditional support",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-verdict-vijay-stakes-claim-congress-offers-conditional-support/articleshow/130839075.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-05T21:15:59.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-3-indians-in-uae-injured-in-iran-drone-strike-pm-4b8c43f857",
+      "title": "3 Indians in UAE injured in Iran drone strike, PM Modi says it is ‘unacceptable’",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/3-indians-in-uae-injured-in-iran-drone-strike-pm-modi-says-it-is-unacceptable-10674859",
+      "tag": "India",
+      "publishedAt": "2026-05-05T21:10:48.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-centcom-safe-path-through-hormuz-is-us-priority--a557bba263",
+      "title": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-05T21:07:59.000Z",
+      "summary": "US CENTCOM spokesman Tim Hawkins says the main priorities in Hormuz are securing safe routes & blockading Iran.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-congress-offers-support-to-tvk-but-with-a-condit-e87b36f47b",
+      "title": "Congress offers support to TVK but with a condition",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-holds-key-meeting-as-tvk-eyes-government-formation-in-tamil-nadu/article70942001.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-05T21:04:57.000Z",
+      "summary": "TNCC says TVK, which emerged as the single-largest party, should not seek support from BJP or its alliance partners; Vijay likely to meet the Governor on May 6 to stake claim to...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -33,36 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iron-barrier-falls-road-to-mamata-banerjee-s-hom-e21db0f6c0",
-      "title": "Iron barrier falls, road to Mamata Banerjee's home open to public",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/iron-barrier-falls-road-to-mamata-banerjees-home-open-to-public/articleshow/130838857.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-05T20:34:42.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-how-bulldozer-justice-undermines-the-law-554d333cc2",
-      "title": "How ‘bulldozer justice’ undermines the law",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/how-bulldozer-justice-undermines-the-law/article70944406.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-05T20:30:52.000Z",
-      "summary": "The image of swift destruction creates an impression of decisive leadership, but it also normalises the idea that executive authority can override legal safeguards",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-could-opec-break-lead-to-era-of-energy-volatilit-d6d63263bb",
-      "title": "Could OPEC break lead to era of energy volatility?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-05T20:23:16.000Z",
-      "summary": "How unstable is the global oil market?",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-us-very-close-to-trade-deal-says-trump-off-5bce9f5b27",
       "title": "India, US Very Close To Trade Deal, Says Trump Official",
       "source": "NDTV",
@@ -70,26 +90,6 @@
       "tag": "India",
       "publishedAt": "2026-05-05T19:43:18.000Z",
       "summary": "India and the US are \"very, very close\" to signing the trade deal and need to get over \"that last hurdle\", US Deputy Secretary of State Christopher Landau said on Tuesday.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-russian-attacks-kill-more-than-20-ahead-of-rival-6cccde8b83",
-      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-05T19:23:18.000Z",
-      "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-as-vijay-makes-blockbuster-debut-what-tvk-promis-22debf09a1",
-      "title": "As Vijay makes blockbuster debut, what TVK promised: Gold for brides, Rs 4,000 per month to youth",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/vijay-tvk-tamil-nadu-election-win-poll-promises-gold-youth-10674676",
-      "tag": "India",
-      "publishedAt": "2026-05-05T17:14:46.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-here-s-the-latest-300919af47",
+      "id": "news-iran-war-live-updates-rubio-tries-to-shift-war-s-a59cb6f8d7",
+      "title": "Iran War Live Updates: Rubio Tries to Shift War’s Focus From Combat to Strait",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+      "tag": "US",
+      "publishedAt": "2026-05-05T21:48:21.000Z",
+      "summary": "The secretary of state said that the U.S. military’s combat operations in Iran had ended, and argued that forces protecting ships in the Strait of Hormuz are on an entirely new...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-here-s-the-latest-06e6cf38ca",
       "title": "Here’s the latest.",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz/heres-the-latest",
       "tag": "US",
-      "publishedAt": "2026-05-05T20:47:26.000Z",
+      "publishedAt": "2026-05-05T21:48:19.000Z",
       "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-middle-east-crisis-live-cargo-vessel-in-strait-o-a1424a6699",
-      "title": "Middle East crisis live: cargo vessel in strait of Hormuz struck by unknown projectile, UK maritime body says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-05-05T20:42:01.000Z",
-      "summary": "UK maritime trade agency report comes as US is keen to portray ‘Project Freedom’ as defensive rescue effort for mariners stuck in Gulf Iran’s foreign minister, Abbas Araghchi, i...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
