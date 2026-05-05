@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-05-05T15:37:18.472Z",
+  "updatedAt": "2026-05-05T17:17:17.431Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-live-updates-from-elon-musk-and-sam-altman-s-cou-b411239f64",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "id": "tech-alexa-is-now-available-on-a-bunch-of-bose-speake-2701101c58",
+      "title": "Alexa+ is now available on a bunch of Bose speakers",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2165222/alexa-is-now-available-on-a-bunch-of-bose-speakers",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T15:35:00.000Z",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accu...",
+      "publishedAt": "2026-05-05T17:08:28.000Z",
+      "summary": "This is the upgraded smart assistant's debut on a non-Amazon device.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-to-host-the-android-show-ahead-of-i-o-202-f43268b25a",
+      "title": "Google to Host The Android Show Ahead of I/O 2026 Developer Conference Next Week",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/google-to-host-the-android-show-io-edition-2026-next-week-may-12-11453907",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T17:00:01.000Z",
+      "summary": "Google announced the date for The Android Show: I/O Edition on Tuesday. The second edition of the virtual-only event will take place on May 12 and will build up to the company’s...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-claims-chatgpt-s-new-default-model-halluc-34f8e89563",
+      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T17:00:00.000Z",
+      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant mod...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-releases-gpt-5-5-instant-a-new-default-mo-c7713b7ed5",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T17:00:00.000Z",
+      "summary": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-do-you-design-a-30-000-electric-pickup-insid-9082dacd6c",
+      "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks",
+      "tag": "Technology",
+      "publishedAt": "2026-05-05T15:39:21.000Z",
+      "summary": "We tour Ford’s top-secret Electric Vehicle Development Center in California.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,36 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-05T15:34:33.000Z",
       "summary": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-etsy-launches-its-app-within-chatgpt-as-it-conti-d9e1bd2a97",
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T15:31:37.000Z",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-horizon-hunters-gathering-is-holding-another-pla-f4c3ad3c97",
-      "title": "Horizon Hunters Gathering is holding another playtest on May 22",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2165057/horizon-hunters-gathering-is-holding-another-playtest-on-may-22",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T15:29:23.000Z",
-      "summary": "The spinoff will be playable on PS5 and PC via Steam.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-astronomers-use-webb-telescope-to-study-exoplane-64ed42ab32",
-      "title": "Astronomers Use Webb Telescope to Study Exoplanet Surface Beyond Atmosphere",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/james-webb-space-telescope-maps-surface-of-lhs-3844-b-for-first-time-11452227",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T15:03:39.000Z",
-      "summary": "Using James Webb Space Telescope, astronomers directly measured heat from LHS 3844 b, revealing a dark, rocky surface with no atmosphere—more like Mercury than Earth—marking a b...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-reddit-blocked-my-daily-visit-to-its-mobile--9f10caeba7",
-      "title": "Why Reddit blocked my daily visit to its mobile website",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T11:20:08.000Z",
-      "summary": "Reddit REALLY wants you to use its app.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-kaspersky-suspects-chinese-hackers-planted-a-bac-193186bac8",
-      "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack",
+      "id": "tech-chrome-on-android-will-now-let-you-share-your-ap-d3fb5ffe3c",
+      "title": "Chrome on Android will now let you share your approximate location",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2164301/chrome-on-android-will-now-let-you-share-your-approximate-location",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T15:20:24.000Z",
-      "summary": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows s...",
+      "publishedAt": "2026-05-05T17:00:00.000Z",
+      "summary": "The feature is also coming to desktops soon.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-pornhub-restores-access-for-uk-adults-who-use-ap-091bb07e43",
-      "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification",
+      "id": "tech-google-will-livestream-the-android-show-i-o-edit-5e0c076e8d",
+      "title": "Google will livestream The Android Show: I/O Edition on May 12",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2164379/google-will-livestream-the-android-show-io-edition-on-may-12",
       "tag": "Technology",
-      "publishedAt": "2026-05-05T15:10:19.000Z",
-      "summary": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
+      "publishedAt": "2026-05-05T17:00:00.000Z",
+      "summary": "The virtual event will showcase some of the biggest changes to the OS in years.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
