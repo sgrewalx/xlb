@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-05-06T08:08:04.949Z",
+  "updatedAt": "2026-05-06T10:56:39.749Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-pornhub-is-unblocking-uk-users-who-verify-their--1126d0bd1f",
-      "title": "Pornhub is unblocking UK users who verify their age with Apple",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2165805/pornhub-uk-verify-age-apple-ios",
+      "id": "tech-apple-will-pay-250-million-to-settle-lawsuit-ove-62571d3508",
+      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T07:36:12.000Z",
-      "summary": "Its parent company Aylo says age-verified iOS users in the UK will now be able to fully access the adult website.",
+      "publishedAt": "2026-05-06T10:41:37.000Z",
+      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as Apple settles class-action lawsuit.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-cmf-watch-3-pro-with-dual-band-gps-up-to-13-days-d55fd16ed3",
-      "title": "CMF Watch 3 Pro With Dual-Band GPS, Up to 13 Days Battery Life Launched in India: Price, Features",
+      "id": "tech-openai-upgrades-chatgpt-s-default-ai-model-to-gp-5e95f3e9bf",
+      "title": "OpenAI Upgrades ChatGPT’s Default AI Model to GPT-5.5 Instant, Adds New Capabilities",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/wearables/news/cmf-watch-3-pro-price-india-launch-availability-specifications-features-11456083",
-      "tag": "Running",
-      "publishedAt": "2026-05-06T07:22:12.000Z",
-      "summary": "CMF has launched the Watch 3 Pro smartwatch in India at Rs. 6,999. The wearable features a 1.43-inch AMOLED display, dual-band five-system GPS, and AI-powered running coaching....",
+      "url": "https://www.gadgets360.com/ai/news/openai-gpt-5-5-instant-ai-model-chatgpt-smarter-personalised-concise-added-11457038",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T10:39:40.000Z",
+      "summary": "OpenAI, on Tuesday, announced that it is updating the default artificial intelligence (AI) model in ChatGPT. The default model is available to everyone when they first open the...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-cmf-watch-3-pro-smartwatch-launched-with-amoled--4e2c6ecd0b",
-      "title": "CMF Watch 3 Pro smartwatch launched with AMOLED display",
+      "id": "tech-vivo-x300-ultra-and-vivo-x300-fe-launched-price--099b2140fb",
+      "title": "Vivo X300 Ultra and Vivo X300 FE launched: Price, features and sale",
       "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/cmf-watch-3-pro-smartwatch-launched-with-amoled-display/article70946138.ece",
-      "tag": "Running",
-      "publishedAt": "2026-05-06T07:14:21.000Z",
-      "summary": "CMF Watch 3 Pro can also monitor heart rate and sleep, stress tracking, guided breathing exercises, hydration and inactivity reminders and women’s health support",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/vivo-x300-ultra-and-vivo-x300-fe-launched-price-features-and-sale/article70946637.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T10:39:17.000Z",
+      "summary": "Catering to premium segment buyers, the new Vivo X300 Ultra brings the ZEISS tuned lenses along with the extender kit, while the X300 FE offers similar features in a rather affo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-chrome-s-ai-features-may-be-hogging-4gb-of-your--3ca48c046d",
+      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T10:13:09.000Z",
+      "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-freshworks-to-cut-11-staff-registers-16-rise-in--d44c0fdecd",
+      "title": "Freshworks to cut 11% staff, registers 16% rise in revenue",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/05/freshworks-to-cut-11-staff-registers-16-rise-in-revenue",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T09:34:11.000Z",
+      "summary": "Freshworks will lay off around 500 employees, attributing the reduction to AI’s growing role in code writing.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nuro-approved-to-test-its-driverless-uber-robota-90bc59002a",
+      "title": "Nuro approved to test its driverless Uber robotaxis on California roads",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2165815/nuro-approved-to-test-driverless-uber-robotaxis-on-california-roads",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T08:25:59.000Z",
+      "summary": "Uber and Nuro plan to start fully autonomous testing later this year.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bigendian-semiconductors-bags-6m-led-by-ian-alph-d52cad682e",
-      "title": "BigEndian Semiconductors bags $6M led by IAN Alpha Fund",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/bigendian-semiconductors-bags-6-million-led-by-ian-alpha-fund",
-      "tag": "Technology",
-      "publishedAt": "2026-05-06T06:38:54.000Z",
-      "summary": "BigEndian said the funds will be used to commercialise its first SoC, expand product engineering and deepen partnerships with foundries, IP ecosystems and OEMs.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-motley-fool-promo-code-save-up-to-200-on-sto-9404256f51",
-      "title": "The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-motley-fool-promo-code",
-      "tag": "Technology",
-      "publishedAt": "2026-05-06T05:00:00.000Z",
-      "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-openai-president-forced-to-read-his-personal-dia-a587d8ad9d",
       "title": "OpenAI president forced to read his personal diary entries to jury",
       "source": "Ars Technica",
@@ -80,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-05T22:28:12.000Z",
       "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-home-s-gemini-ai-can-handle-more-complica-2cba5ea166",
-      "title": "Google Home’s Gemini AI can handle more complicated requests",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "tag": "Technology",
-      "publishedAt": "2026-05-05T21:46:04.000Z",
-      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bitcoin-holds-steady-as-etf-inflows-and-long-ter-451f608059",
-      "title": "Bitcoin Holds Steady as ETF Inflows and Long-Term Buying Support Market",
+      "id": "tech-oppo-reno-16-pro-global-launch-could-follow-debu-bea358f8d0",
+      "title": "Oppo Reno 16 Pro Global Launch Could Follow Debut in China; BIS Listing Suggests It Will Also Come to India",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-holds-steady-as-etf-inflows-and-long-term-buying-support-market-crypto-markets-crypto-prices-altcoins-may-2026-11456020",
+      "url": "https://www.gadgets360.com/mobiles/news/oppo-reno-16-pro-bis-tkdn-global-india-launch-imminent-report-11456885",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T07:08:18.000Z",
-      "summary": "Bitcoin traded near $81,300 on Wednesday as ETF inflows and long-term investor accumulation supported the crypto market. Analysts said institutional demand remains strong, thoug...",
+      "publishedAt": "2026-05-06T10:39:28.000Z",
+      "summary": "Oppo Reno 16 Pro will launch in China later this month. We don't know much about its arrival in markets outside China at the moment, but a new entry on the Bureau of Indian Stan...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-to-detect-teenagers-with-fake-birthdays-usi-ad6b448781",
-      "title": "Meta to Detect Teenagers With Fake Birthdays Using AI-Powered Height, Bone Structure Analysis",
+      "id": "tech-vivo-x300-fe-launched-in-india-with-snapdragon-8-2c5659cd92",
+      "title": "Vivo X300 FE Launched in India With Snapdragon 8 Gen 5 SoC, Zeiss-Tuned 50-Megapixel Camera: Price, Features",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/social-networking/news/meta-ai-bone-structure-height-analysis-teenager-age-detection-protection-expansion-details-11455979",
+      "url": "https://www.gadgets360.com/mobiles/news/vivo-x300-fe-price-in-india-launch-sale-date-specifications-features-11455810",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T07:01:10.000Z",
-      "summary": "Meta is adding new weapons to its age-detection arsenal to ensure teenagers and those under the age of 13 aren’t faking their date of birth to access the platform. The latest to...",
+      "publishedAt": "2026-05-06T10:31:58.000Z",
+      "summary": "Vivo X300 FE has been launched in India as the fourth model in the company’s flagship lineup, which also includes the Vivo X300, Vivo X300 Pro, and Vivo X300 Ultra. The new hand...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
