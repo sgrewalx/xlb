@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T06:00:00.000Z",
+  "updatedAt": "2026-05-06T06:10:11.967Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 266 earthquake events in the last 24 hours. Strongest reported event: M6 near 5 km WNW of Nena, Philippines.",
+          "summary": "USGS reported 288 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 127 km ENE of Pauanui, New Zealand.",
           "metricLabel": "Updated",
-          "metricValue": "May 5, 05:48 AM",
+          "metricValue": "May 6, 06:10 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -24,7 +24,7 @@
           "title": "Earth live rail",
           "summary": "See how earthquake monitoring sits inside the broader earth-event surface.",
           "metricLabel": "Live pages",
-          "metricValue": "11",
+          "metricValue": "18",
           "href": "/live/earth",
           "accent": "signal"
         },
@@ -50,9 +50,9 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 3. Recent peak reached Kp 5. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
-          "metricValue": "10",
+          "metricValue": "8",
           "href": "/events/aurora-watch",
           "accent": "space"
         },
@@ -61,7 +61,7 @@
           "title": "Space live rail",
           "summary": "Browse the related launch and space-weather inventory.",
           "metricLabel": "Space views",
-          "metricValue": "12",
+          "metricValue": "27",
           "href": "/live/space",
           "accent": "signal"
         },
@@ -70,7 +70,7 @@
           "title": "Space weather topic",
           "summary": "Crawlable topic route connected to the event page and homepage modules.",
           "metricLabel": "Best score",
-          "metricValue": "100",
+          "metricValue": "95",
           "href": "/topics/space-weather",
           "accent": "space"
         }
@@ -89,7 +89,7 @@
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
-          "metricValue": "57d 6h",
+          "metricValue": "56d 5h",
           "href": "/events/clps-flight-astrobotic-griffin-1",
           "accent": "space"
         },
@@ -126,7 +126,7 @@
           "title": "Earthquakes",
           "summary": "USGS Earthquake Hazards Program keeps this topic current with source-backed global quake monitoring and rapid revisit value when seismic activity spikes.",
           "metricLabel": "Best score",
-          "metricValue": "101",
+          "metricValue": "96",
           "href": "/topics/earthquakes",
           "accent": "signal"
         },

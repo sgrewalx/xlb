@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-05T06:00:00.000Z",
-  "snapshotFile": "merged-2026-05-05.json",
-  "capturedAt": "2026-05-05T06:00:00.000Z",
+  "updatedAt": "2026-05-06T06:10:11.967Z",
+  "snapshotFile": "merged-2026-05-06.json",
+  "capturedAt": "2026-05-06T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -11,8 +11,18 @@
   "topPages": [
     {
       "path": "/",
-      "pageviews": 47,
+      "pageviews": 59,
       "searchImpressions": 6,
+      "engagementScore": 100,
+      "returnVisitors": 30,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/live",
+      "pageviews": 45,
+      "searchImpressions": 0,
       "engagementScore": 100,
       "returnVisitors": 21,
       "videoStarts": 0,
@@ -20,91 +30,81 @@
       "galleryOpens": 0
     },
     {
-      "path": "/live",
-      "pageviews": 35,
+      "path": "/live/space",
+      "pageviews": 27,
       "searchImpressions": 0,
-      "engagementScore": 100,
-      "returnVisitors": 12,
+      "engagementScore": 81,
+      "returnVisitors": 14,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
       "path": "/video",
-      "pageviews": 31,
+      "pageviews": 25,
       "searchImpressions": 0,
       "engagementScore": 100,
-      "returnVisitors": 7,
-      "videoStarts": 29,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/sports",
-      "pageviews": 14,
-      "searchImpressions": 2,
-      "engagementScore": 74,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live/space",
-      "pageviews": 12,
-      "searchImpressions": 0,
-      "engagementScore": 76,
-      "returnVisitors": 4,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/news",
-      "pageviews": 12,
-      "searchImpressions": 0,
-      "engagementScore": 90,
-      "returnVisitors": 0,
-      "videoStarts": 0,
+      "returnVisitors": 8,
+      "videoStarts": 30,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
       "path": "/live/earth",
-      "pageviews": 11,
+      "pageviews": 18,
       "searchImpressions": 0,
-      "engagementScore": 77,
-      "returnVisitors": 3,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/events/aurora-watch",
-      "pageviews": 10,
-      "searchImpressions": 0,
-      "engagementScore": 100,
-      "returnVisitors": 0,
+      "engagementScore": 80,
+      "returnVisitors": 9,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
       "path": "/games",
-      "pageviews": 10,
+      "pageviews": 17,
       "searchImpressions": 1,
-      "engagementScore": 81,
-      "returnVisitors": 2,
+      "engagementScore": 86,
+      "returnVisitors": 7,
       "videoStarts": 0,
-      "gameStarts": 6,
+      "gameStarts": 23,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/sports",
+      "pageviews": 15,
+      "searchImpressions": 2,
+      "engagementScore": 77,
+      "returnVisitors": 5,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/news",
+      "pageviews": 13,
+      "searchImpressions": 0,
+      "engagementScore": 75,
+      "returnVisitors": 4,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 12,
+      "searchImpressions": 3,
+      "engagementScore": 86,
+      "returnVisitors": 4,
+      "videoStarts": 0,
+      "gameStarts": 0,
       "galleryOpens": 0
     },
     {
       "path": "/tech",
-      "pageviews": 8,
+      "pageviews": 12,
       "searchImpressions": 0,
-      "engagementScore": 75,
-      "returnVisitors": 0,
+      "engagementScore": 73,
+      "returnVisitors": 4,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0

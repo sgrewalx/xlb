@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T06:00:00.000Z",
+  "updatedAt": "2026-05-06T06:10:11.967Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -20,25 +20,25 @@
         },
         {
           "label": "Top pulse",
-          "value": "47"
+          "value": "59"
         }
       ],
       "items": [
-        {
-          "id": "space-aurora-watch",
-          "title": "Aurora watch",
-          "href": "/events/aurora-watch",
-          "label": "Monitoring",
-          "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · May 5, 05:44 AM"
-        },
         {
           "id": "earth-global-earthquake-watch",
           "title": "Global earthquake watch",
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · May 5, 05:42 AM"
+          "meta": "USGS Earthquake Hazards Program · May 6, 06:04 AM"
+        },
+        {
+          "id": "space-aurora-watch",
+          "title": "Aurora watch",
+          "href": "/events/aurora-watch",
+          "label": "Monitoring",
+          "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
+          "meta": "NOAA Space Weather Prediction Center · May 6, 06:06 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -82,7 +82,7 @@
         },
         {
           "label": "Return loop",
-          "value": "21"
+          "value": "30"
         }
       ],
       "items": [
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "57d 6h",
+          "label": "56d 5h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }
@@ -120,7 +120,7 @@
       "metrics": [
         {
           "label": "Video views",
-          "value": "31"
+          "value": "25"
         },
         {
           "label": "Home search impressions",
@@ -128,7 +128,7 @@
         },
         {
           "label": "Aurora pageviews",
-          "value": "10"
+          "value": "8"
         }
       ],
       "items": [
@@ -136,7 +136,7 @@
           "id": "why-/",
           "title": "Home",
           "href": "/",
-          "label": "47 views",
+          "label": "59 views",
           "summary": "The home page should route visitors into live events and shorts instead of acting like a static section index.",
           "meta": "6 search impressions · engagement 100"
         },
@@ -144,7 +144,7 @@
           "id": "why-/live",
           "title": "Live",
           "href": "/live",
-          "label": "35 views",
+          "label": "45 views",
           "summary": "Live pages work because the information can change between visits and there is a clear reason to come back.",
           "meta": "0 search impressions · engagement 100"
         },
@@ -152,7 +152,7 @@
           "id": "why-/video",
           "title": "Video",
           "href": "/video",
-          "label": "31 views",
+          "label": "25 views",
           "summary": "Users are already choosing video more often than games or gallery, so the feed needs in-page playback.",
           "meta": "0 search impressions · engagement 100"
         }
