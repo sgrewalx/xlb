@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-05-06T19:22:45.414Z",
+  "updatedAt": "2026-05-06T21:02:45.159Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-robinhood-s-venture-fund-ipo-attracted-150-000-r-af20a4d6e5",
-      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "id": "tech-insurance-startup-corgi-hits-1-3b-valuation-4-mo-64c9667f83",
+      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says",
+      "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T19:10:09.000Z",
-      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Data...",
+      "publishedAt": "2026-05-06T20:39:16.000Z",
+      "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-latest-tile-pro-is-down-to-25-its-best-price-f9888813d0",
-      "title": "The latest Tile Pro is down to $25 — its best price of the year",
+      "id": "tech-how-david-sacks-crashed-and-burned-in-the-white--abae037755",
+      "title": "How David Sacks crashed and burned in the White House",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale",
-      "tag": "Running",
-      "publishedAt": "2026-05-06T19:00:00.000Z",
-      "summary": "If you’re struggling to find a Mother’s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The lates...",
+      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T20:18:00.000Z",
+      "summary": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-former-openai-board-member-says-elon-musk-offere-d11345d8b6",
+      "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T20:05:02.000Z",
+      "summary": "Shivon Zilis is the mother of four of Musk's children. That relationship began as she advised OpenAI.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-trump-s-team-wants-him-to-accept-an-iran-deal-he-4c850f8460",
+      "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T19:32:03.000Z",
+      "summary": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-06T18:57:49.000Z",
       "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-anthropic-gets-in-bed-with-spacex-as-the-ai-race-6e17e9cee0",
-      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus",
-      "tag": "Technology",
-      "publishedAt": "2026-05-06T18:28:52.000Z",
-      "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-robot-wars-what-an-operation-in-ukraine-tells-us-8b461b4101",
-      "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-06T11:59:44.000Z",
-      "summary": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-mina-the-hollower-from-the-studio-behind-shovel--7c74ca1fb0",
-      "title": "Mina the Hollower, from the studio behind Shovel Knight, arrives on May 29",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2166369/mina-the-hollower-from-the-studio-behind-shovel-knight-arrives-on-may-29",
+      "id": "tech-microsoft-s-ai-data-center-push-is-colliding-wit-26df55afa0",
+      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T18:41:16.000Z",
-      "summary": "The gothic horror-inspired action-adventure game from the makers of Shovel Knight maker is almost here.",
+      "publishedAt": "2026-05-06T19:57:31.000Z",
+      "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-elon-musk-left-openai-according-to-greg-broc-e730ddb755",
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "id": "tech-robinhood-s-venture-fund-ipo-attracted-150-000-r-af20a4d6e5",
+      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman",
+      "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T18:23:54.000Z",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "publishedAt": "2026-05-06T19:10:09.000Z",
+      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Data...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
