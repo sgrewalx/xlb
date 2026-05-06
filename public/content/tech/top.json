@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-05-06T21:02:45.159Z",
+  "updatedAt": "2026-05-06T22:39:44.984Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-insurance-startup-corgi-hits-1-3b-valuation-4-mo-64c9667f83",
-      "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+      "id": "tech-a-20-minute-pitch-wins-indian-startup-pronto-bac-d84df9906b",
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a",
+      "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T20:39:16.000Z",
-      "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
+      "publishedAt": "2026-05-06T22:30:00.000Z",
+      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-david-sacks-crashed-and-burned-in-the-white--abae037755",
-      "title": "How David Sacks crashed and burned in the White House",
+      "id": "tech-nintendo-announces-a-new-star-fox-for-the-switch-4a6ef4ea3c",
+      "title": "Nintendo announces a new Star Fox for the Switch 2",
       "source": "The Verge",
-      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "url": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T20:18:00.000Z",
-      "summary": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not...",
+      "publishedAt": "2026-05-06T22:07:46.000Z",
+      "summary": "It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. Th...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-canadian-officials-claim-openai-violated-federal-6b8e47df9d",
+      "title": "Canadian officials claim OpenAI violated federal and provincial privacy laws",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T21:24:34.000Z",
+      "summary": "Regulators took issue with the amount of personal data the company collected and its approach to consent.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-kid-with-a-fake-mustache-tricked-an-online-age-4025a3f6d1",
+      "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool",
+      "tag": "Technology",
+      "publishedAt": "2026-05-06T21:24:18.000Z",
+      "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “visual cues,” such as height...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,26 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-06T20:05:02.000Z",
       "summary": "Shivon Zilis is the mother of four of Musk's children. That relationship began as she advised OpenAI.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-trump-s-team-wants-him-to-accept-an-iran-deal-he-4c850f8460",
-      "title": "Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected",
-      "tag": "Technology",
-      "publishedAt": "2026-05-06T19:32:03.000Z",
-      "summary": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-s-ai-search-results-will-now-turn-to-redd-3c19b49e6a",
-      "title": "Google's AI search results will now turn to Reddit for 'Expert Advice'",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2166393/google-ai-search-results-will-now-turn-to-reddit-for-expert-advice",
-      "tag": "Technology",
-      "publishedAt": "2026-05-06T18:57:49.000Z",
-      "summary": "AI responses now also recommend in-depth articles and links to sources you already subscribe to.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-s-ai-data-center-push-is-colliding-wit-26df55afa0",
-      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "id": "tech-barry-diller-trusts-sam-altman-but-trust-is-irre-30073e43aa",
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T19:57:31.000Z",
-      "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
+      "publishedAt": "2026-05-06T21:57:56.000Z",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-robinhood-s-venture-fund-ipo-attracted-150-000-r-af20a4d6e5",
-      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "id": "tech-snap-says-its-400m-deal-with-perplexity-amicably-cd04172197",
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended",
       "tag": "Technology",
-      "publishedAt": "2026-05-06T19:10:09.000Z",
-      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Data...",
+      "publishedAt": "2026-05-06T21:43:24.000Z",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
