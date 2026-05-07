@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-05-07T19:26:13.963Z",
+  "updatedAt": "2026-05-07T20:57:56.526Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-elon-musk-s-lawsuit-is-putting-openai-s-safety-r-7204426138",
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "id": "tech-gusto-hits-1b-revenue-a-figure-that-brings-it-cl-f7fa8cf62e",
+      "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope",
+      "url": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets",
       "tag": "Technology",
-      "publishedAt": "2026-05-07T19:21:21.000Z",
-      "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
+      "publishedAt": "2026-05-07T20:41:27.000Z",
+      "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-peak-design-is-taking-up-to-50-percent-off-some--8ca18b7d29",
-      "title": "Peak Design is taking up to 50 percent off some of our favorite bags right now",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
-      "tag": "Technology",
-      "publishedAt": "2026-05-07T19:04:30.000Z",
-      "summary": "To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-amazon-luna-s-may-lineup-includes-guardians-of-t-5291f050be",
-      "title": "Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake",
-      "tag": "Technology",
-      "publishedAt": "2026-05-07T18:35:00.000Z",
-      "summary": "Prime members can also claim a code for Mafia II: Definitive Edition.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-i-fixed-my-webcam-lighting-for-zoom-calls-20-0ed3f67509",
-      "title": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
+      "id": "tech-how-to-disable-google-s-gemini-in-chrome-28019b8b59",
+      "title": "How to Disable Google's Gemini in Chrome",
       "source": "Wired",
-      "url": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting",
+      "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out",
       "tag": "Technology",
-      "publishedAt": "2026-05-07T18:29:54.000Z",
-      "summary": "I have a horrendous lighting setup in my home office, but as a mixed-use room, my options for fixing it were limited.",
+      "publishedAt": "2026-05-07T20:31:57.000Z",
+      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not wan...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-mira-murati-s-deposition-pulled-back-the-curtain-f6822e8045",
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "tag": "Technology",
+      "publishedAt": "2026-05-07T19:55:22.000Z",
+      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT-maker. The expla...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-lexus-tz-is-a-quieter-upscale-take-on-the-hi-57c60cea6d",
+      "title": "The Lexus TZ is a quieter, upscale take on the Highlander EV",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2167335/the-lexus-tz-is-a-quieter-upscale-take-on-the-highlander-ev",
+      "tag": "Technology",
+      "publishedAt": "2026-05-07T19:41:57.000Z",
+      "summary": "It's also the company's first fully-electric three-row SUV.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-mozilla-says-271-vulnerabilities-found-by-mythos-8fff382ddc",
+      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives",
+      "tag": "Technology",
+      "publishedAt": "2026-05-07T19:18:16.000Z",
+      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-07T14:30:21.000Z",
       "summary": "Scientists propose a self-interacting Dark Matter model in which particles collide and form dense cores. The theory could explain mysterious gravitational effects seen in galaxy...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-unveils-screenless-fitbit-air-and-google--52ec315bf8",
-      "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit",
-      "tag": "Technology",
-      "publishedAt": "2026-05-07T14:00:50.000Z",
-      "summary": "The $100 Fitbit Air is available for preorder today.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bumble-is-getting-rid-of-the-swipe-ceo-says-83ecdaf229",
-      "title": "Bumble is getting rid of the swipe, CEO says",
+      "id": "tech-openai-introduces-new-trusted-contact-safeguard--6f178907df",
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm",
       "tag": "Technology",
-      "publishedAt": "2026-05-07T19:06:17.000Z",
-      "summary": "\"We are going to be saying goodbye to the swipe,\" CEO Whitney Wolfe Herd said.",
+      "publishedAt": "2026-05-07T20:20:20.000Z",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tome-another-goodreads-book-tracker-rival-shuts--ec4d73a2cf",
-      "title": "Tome, another Goodreads book-tracker rival, shuts down",
+      "id": "tech-tesla-model-y-is-first-car-to-meet-new-us-driver-c868c71a2c",
+      "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down",
-      "tag": "Running",
-      "publishedAt": "2026-05-07T18:38:58.000Z",
-      "summary": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate th...",
+      "url": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark",
+      "tag": "Technology",
+      "publishedAt": "2026-05-07T20:10:48.000Z",
+      "summary": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
