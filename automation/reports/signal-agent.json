@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-06T06:10:11.967Z",
-  "snapshotFile": "merged-2026-05-06.json",
-  "capturedAt": "2026-05-06T06:00:00.000Z",
+  "updatedAt": "2026-05-07T06:15:27.293Z",
+  "snapshotFile": "merged-2026-05-07.json",
+  "capturedAt": "2026-05-07T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -11,7 +11,7 @@
   "topPages": [
     {
       "path": "/",
-      "pageviews": 59,
+      "pageviews": 57,
       "searchImpressions": 6,
       "engagementScore": 100,
       "returnVisitors": 30,
@@ -41,7 +41,7 @@
     },
     {
       "path": "/video",
-      "pageviews": 25,
+      "pageviews": 21,
       "searchImpressions": 0,
       "engagementScore": 100,
       "returnVisitors": 8,
@@ -71,20 +71,10 @@
     },
     {
       "path": "/sports",
-      "pageviews": 15,
-      "searchImpressions": 2,
-      "engagementScore": 77,
-      "returnVisitors": 5,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/news",
       "pageviews": 13,
-      "searchImpressions": 0,
-      "engagementScore": 75,
-      "returnVisitors": 4,
+      "searchImpressions": 2,
+      "engagementScore": 78,
+      "returnVisitors": 5,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -101,9 +91,19 @@
     },
     {
       "path": "/tech",
-      "pageviews": 12,
+      "pageviews": 10,
       "searchImpressions": 0,
-      "engagementScore": 73,
+      "engagementScore": 74,
+      "returnVisitors": 4,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/news",
+      "pageviews": 9,
+      "searchImpressions": 0,
+      "engagementScore": 72,
       "returnVisitors": 4,
       "videoStarts": 0,
       "gameStarts": 0,
