@@ -8,7 +8,7 @@ const EXPANDED_OUTPUT_FILE = new URL("../../public/content/video/top.json", impo
 const SECTION_NAME = "Top 3 Video";
 const EXPANDED_SECTION_NAME = "Expanded Video";
 const TOP3_COUNT = 3;
-const EXPANDED_COUNT = 12;
+const EXPANDED_COUNT = 99;
 const MAX_VIDEO_AGE_DAYS = 14;
 
 const VIDEO_FEEDS = [
@@ -35,6 +35,56 @@ const VIDEO_FEEDS = [
   {
     source: "YouTube - Reuters",
     url: "https://www.youtube.com/feeds/videos.xml?channel_id=UChqURNrGhbh1wA5WS0jct_Q",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - AP",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5wxOL_s5yw0dQk7NtgA",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - CNN",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - Fox News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCXIJgqnII2ZOINSWNOGFThA",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - NBC News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - ABC News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2mrWuNuyYy4gbM6fU18Q",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - CBS News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - Sky News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCoMdktPbSTixAyNGwb-UYkQ",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - WION",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_gUM8rL-Lrg6O3adPW9K1g",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - France 24",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg",
+    defaultTag: "Video",
+  },
+  {
+    source: "YouTube - DW News",
+    url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg",
     defaultTag: "Video",
   },
   {

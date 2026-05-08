@@ -31,11 +31,12 @@ function assert(condition, message) {
 }
 
 function validateExpandedFeed(json, label) {
+  const maxItems = label === "video/top.json" ? 99 : 24;
   assert(isString(json.updatedAt), `${label}: updatedAt is required`);
   assert(isString(json.section), `${label}: section is required`);
   assert(Array.isArray(json.items), `${label}: items must be an array`);
   assert(json.items.length >= 3, `${label}: items must contain at least 3 entries`);
-  assert(json.items.length <= 24, `${label}: items must contain no more than 24 entries`);
+  assert(json.items.length <= maxItems, `${label}: items must contain no more than ${maxItems} entries`);
 
   json.items.forEach((item, index) => {
     assert(isString(item.id), `${label}: item ${index} id required`);

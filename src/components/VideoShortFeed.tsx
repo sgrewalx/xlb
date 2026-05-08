@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
 import { trackVideoPlayComplete, trackVideoPlayStart } from "../lib/analytics";
 import { VideoShort } from "../types/content";
 
@@ -101,14 +100,6 @@ export function VideoShortFeed({ items, loading, error }: VideoShortFeedProps) {
               <div className="short-viewer-copy">
                 <h2>{activeItem.title}</h2>
                 <p>{activeItem.summary}</p>
-              </div>
-              <div className="event-related-list">
-                <Link className="event-related-link" to={activeItem.relatedPath}>
-                  Open topic
-                </Link>
-                <a className="event-related-link" href={activeItem.url} rel="noreferrer" target="_blank">
-                  Open source
-                </a>
               </div>
             </div>
           </div>

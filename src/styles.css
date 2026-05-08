@@ -67,6 +67,12 @@ img {
   padding: 24px 0 48px;
 }
 
+.site-shell-video {
+  width: min(100vw - 24px, 1600px);
+  padding-top: 14px;
+  padding-bottom: 24px;
+}
+
 .site-header {
   position: sticky;
   top: 14px;
@@ -207,6 +213,10 @@ img {
   display: flex;
   flex-direction: column;
   gap: 56px;
+}
+
+.page-shell-video {
+  gap: 10px;
 }
 
 .ops-page {
@@ -2371,7 +2381,7 @@ img {
 .short-viewer-shell {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 72px;
-  gap: 20px;
+  gap: 16px;
   align-items: center;
   justify-items: center;
 }
@@ -2385,10 +2395,10 @@ img {
 
 .short-viewer-frame {
   position: relative;
-  height: min(calc(100vh - 220px), 920px);
+  height: min(calc(100vh - 88px), 1200px);
   aspect-ratio: 9 / 16;
   width: auto;
-  max-width: min(92vw - 120px, 560px);
+  max-width: min(calc(100vw - 140px), 860px);
   border-radius: calc(var(--radius-md) - 2px);
   overflow: hidden;
   background: #000;
@@ -2429,7 +2439,7 @@ img {
   z-index: 2;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 8px;
   padding: 18px;
 }
 
@@ -2441,7 +2451,7 @@ img {
 
 .short-viewer-copy h2 {
   margin: 0;
-  font-size: clamp(1.1rem, 1.1rem + 0.4vw, 1.5rem);
+  font-size: clamp(1.15rem, 0.95rem + 0.7vw, 1.75rem);
   line-height: 1.15;
 }
 
@@ -2483,7 +2493,7 @@ img {
 }
 
 .video-reel-section {
-  min-height: calc(100vh - 160px);
+  min-height: calc(100vh - 56px);
   justify-content: center;
 }
 

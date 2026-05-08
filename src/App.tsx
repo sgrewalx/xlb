@@ -148,7 +148,7 @@ function AppChrome() {
   const isVideoView = location.pathname === "/video";
 
   return (
-    <div className="site-shell">
+    <div className={`site-shell ${isVideoView ? "site-shell-video" : ""}`}>
       <AnalyticsTracker />
       {isOpsView ? (
         <header className="ops-shell-header">
@@ -162,11 +162,13 @@ function AppChrome() {
         </header>
       ) : (
         <header className="site-header">
-          <HeaderQuote
-            items={quotes.data?.items}
-            loading={quotes.loading}
-            error={quotes.error}
-          />
+          {isVideoView ? null : (
+            <HeaderQuote
+              items={quotes.data?.items}
+              loading={quotes.loading}
+              error={quotes.error}
+            />
+          )}
           <div className="brand-row">
             <Link className="brand-mark" to="/">
               <span>XLB</span>
@@ -185,7 +187,7 @@ function AppChrome() {
           </div>
         </header>
       )}
-      <main className="page-shell">
+      <main className={`page-shell ${isVideoView ? "page-shell-video" : ""}`}>
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/live" element={<LiveEventsPage />} />

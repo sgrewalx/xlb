@@ -10,6 +10,22 @@ const VIDEO_FILE = new URL("../../public/content/video/top.json", import.meta.ur
 const NEWS_FILE = new URL("../../public/content/news/top.json", import.meta.url);
 const SPORTS_FILE = new URL("../../public/content/sports/top.json", import.meta.url);
 const TECH_FILE = new URL("../../public/content/tech/top.json", import.meta.url);
+const MAX_VIDEO_SHORTS = 99;
+const VIDEO_SOURCE_PRIORITY = new Map([
+  ["YouTube - Times Now", 28],
+  ["YouTube - Aaj Tak", 24],
+  ["YouTube - AP", 22],
+  ["YouTube - NBC News", 20],
+  ["YouTube - ABC News", 18],
+  ["YouTube - CBS News", 17],
+  ["YouTube - BBC News", 16],
+  ["YouTube - CNN", 14],
+  ["YouTube - Sky News", 12],
+  ["YouTube - DW News", 10],
+  ["YouTube - France 24", 8],
+  ["YouTube - Fox News", 6],
+  ["YouTube - WION", -18],
+]);
 
 const STATIC_PAGE_LABELS = {
   "/": "Home",
@@ -313,7 +329,11 @@ export function buildVideoShorts(context) {
         relatedPath,
         relatedLabel: labelForPath(relatedPath, context),
         freshnessScore,
-        preScore: freshnessScore + (isShort ? 14 : 0) + (pageSignal?.engagementScore ?? 0) * 0.18,
+        preScore:
+          freshnessScore +
+          (isShort ? 14 : 0) +
+          (pageSignal?.engagementScore ?? 0) * 0.18 +
+          (VIDEO_SOURCE_PRIORITY.get(item.source) ?? 0),
       };
     })
     .sort((left, right) => right.preScore - left.preScore);
@@ -349,7 +369,7 @@ export function buildVideoShorts(context) {
     });
 
     sourceCounts.set(item.source, sourceCount + 1);
-    if (selected.length === 8) {
+    if (selected.length === MAX_VIDEO_SHORTS) {
       break;
     }
   }
