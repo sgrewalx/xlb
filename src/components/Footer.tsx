@@ -10,13 +10,7 @@ export function Footer() {
         </p>
       </div>
       <nav className="footer-links" aria-label="Footer">
-        <Link to="/live">Live</Link>
-        <Link to="/live/space">Space</Link>
-        <Link to="/live/earth">Earth</Link>
         <Link to="/games">Games</Link>
-        <Link to="/gallery">Gallery</Link>
-        <Link to="/sports">Sports</Link>
-        <Link to="/news">News</Link>
         <Link to="/about">About</Link>
         <Link to="/privacy">Privacy</Link>
         <Link to="/terms">Terms</Link>

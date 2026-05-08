@@ -176,8 +176,6 @@ function AppChrome() {
             <nav className="site-nav" aria-label="Primary">
               <Link to="/live">Live</Link>
               <Link to="/video">Video</Link>
-              <Link to="/live/space">Space</Link>
-              <Link to="/live/earth">Earth</Link>
               <Link to="/games">Games</Link>
               <Link to="/gallery">Gallery</Link>
               <Link to="/sports">Sports</Link>
