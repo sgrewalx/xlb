@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-05-08T02:05:32.220Z",
+  "updatedAt": "2026-05-08T05:22:37.380Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-musk-v-altman-evidence-shows-what-microsoft-exec-d8ab8d85a5",
-      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018",
+      "id": "tech-apple-could-discontinue-cheapest-macbook-neo-mod-fe05f55106",
+      "title": "Apple Could Discontinue Cheapest MacBook Neo Model Due to Rising DRAM Prices, Analyst Claims",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/laptops/news/apple-macbook-neo-cheapest-256gb-model-discontinue-report-11465595",
       "tag": "Technology",
-      "publishedAt": "2026-05-08T01:42:14.000Z",
-      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "publishedAt": "2026-05-08T05:05:53.000Z",
+      "summary": "Apple may discontinue the 256GB MacBook Neo model as rising DRAM prices and higher manufacturing costs affect production, according to analyst Tim Culpan. The laptop currently s...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-canvas-hack-is-a-new-kind-of-ransomware-deba-009911c8a5",
+      "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure",
+      "tag": "Technology",
+      "publishedAt": "2026-05-08T05:02:40.000Z",
+      "summary": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going b...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-cloudflare-to-cut-about-20-workforce-as-ai-adopt-bd610c426c",
+      "title": "Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations/article70953734.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-05-08T05:01:05.000Z",
+      "summary": "The internet infrastructure and cybersecurity company plans to cut more than ‌1,100 jobs globally",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-why-you-can-never-get-your-doctor-to-call-you-ba-1b4f860ea9",
+      "title": "Why you can never get your doctor to call you back",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back",
+      "tag": "Technology",
+      "publishedAt": "2026-05-08T04:42:29.000Z",
+      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-skyroot-aerospace-joins-unicorn-club-non-yulu-bi-8c0e0fcf70",
+      "title": "Skyroot Aerospace joins unicorn club; Non-Yulu biz to hit 25% by year-end: Yuma Energy MD",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/05/skyroot-aerospace-joins-the-unicorn-club-non-yulu-biz",
+      "tag": "Technology",
+      "publishedAt": "2026-05-08T02:00:00.000Z",
+      "summary": "Hyderabad-based spacetech startup Skyroot Aerospace has raised $60 million; battery swapping startup Yuma Energy is expanding beyond its core partnership with Yulu as India’s EV...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ramp-in-talks-to-hit-40b-valuation-6-months-afte-ae147fa373",
-      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b",
-      "tag": "Technology",
-      "publishedAt": "2026-05-07T23:11:43.000Z",
-      "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-dhs-can-t-create-vast-dna-database-to-track-ice--8bdfc040c6",
       "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
       "source": "Ars Technica",
@@ -63,36 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-scientists-reconsider-dark-matter-theory-amid-gr-ba7a44519a",
-      "title": "Scientists Reconsider Dark Matter Theory Amid Growing Cosmological Mysteries",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/self-interacting-dark-matter-theory-could-solve-cosmic-mysteries-11461968",
-      "tag": "Technology",
-      "publishedAt": "2026-05-07T14:30:21.000Z",
-      "summary": "Scientists propose a self-interacting Dark Matter model in which particles collide and form dense cores. The theory could explain mysterious gravitational effects seen in galaxy...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-startup-news-and-updates-daily-roundup-may-7-202-7c17c8d0b1",
-      "title": "Startup news and updates: daily roundup (May 7, 2026)",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-7-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-05-07T12:52:57.000Z",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, May 7, 2026.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-european-union-strikes-deal-to-ban-sexualised-ai-81d9750382",
-      "title": "European Union strikes deal to ban sexualised AI deepfakes",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/news/international/european-union-strikes-deal-to-ban-sexualised-ai-deepfakes/article70950473.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-05-07T10:40:11.000Z",
-      "summary": "\"Today, the EU has drawn a red line. AI must never be used to humiliate, exploit or endanger people. For the first time, EU legislation explicitly bans nudifier applications,\" c...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-sunburn-inspired-a-new-way-to-store-energy-ccecef69f9",
-      "title": "How sunburn inspired a new way to store energy",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-50-off-doordash-promo-code-may-2026-e164f3372c",
+      "title": "50% Off DoorDash Promo Code | May 2026",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/doordash-promo-code",
       "tag": "Technology",
-      "publishedAt": "2026-05-07T23:03:04.000Z",
-      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+      "publishedAt": "2026-05-08T05:00:00.000Z",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-iam8bit-recorded-a-jazzy-persona-album-for-the-s-09ddc03458",
-      "title": "iam8bit recorded a jazzy Persona album for the series' 30th",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2167504/iam8bit-recorded-a-jazzy-persona-album-for-the-series-30th",
+      "id": "tech-google-team-finds-radiation-glitch-that-limits-q-52e8746a0f",
+      "title": "Google team finds radiation glitch that limits quantum computing",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/science/google-team-finds-radiation-glitch-that-limits-quantum-computing/article70941288.ece",
       "tag": "Technology",
-      "publishedAt": "2026-05-07T22:37:55.000Z",
-      "summary": "The vinyl drops in Q4, but the full album is streamable now.",
+      "publishedAt": "2026-05-08T04:57:54.000Z",
+      "summary": "Quantum computers are already very fragile; a new study has found a ghost in the machine that poses another major threat to these machines",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
