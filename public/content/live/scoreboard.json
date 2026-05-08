@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-07T06:15:26.041Z",
-  "sourceSnapshot": "2026-05-07T06:00:00.000Z",
+  "updatedAt": "2026-05-08T05:33:19.912Z",
+  "sourceSnapshot": "2026-05-08T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -94,13 +94,13 @@
       "pageviews": 0,
       "watchClicks": 0,
       "engagementScore": 0,
-      "searchImpressions": 0,
+      "searchImpressions": 2,
       "searchCtr": 0,
       "categoryPageviews": 27,
       "sourceStability": "stable",
       "recencyBand": "stale",
       "recommendation": "hold",
-      "notes": "cold-start scoring active; priority 82, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Promoted event without a dedicated analytics note yet."
+      "notes": "cold-start scoring active; priority 82, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Imported from the Search Console API."
     },
     {
       "slug": "roscosmos-progress-96",

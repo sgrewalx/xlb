@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T06:15:27.659Z",
+  "updatedAt": "2026-05-08T05:33:21.302Z",
   "items": [
     {
       "id": "traffic-engagement_expand-home",
@@ -142,20 +142,6 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-nasa-s-spacex-crs-35",
-      "title": "Watch index coverage for /events/nasa-s-spacex-crs-35",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/events/nasa-s-spacex-crs-35"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
       "id": "traffic-index-watch-events-roscosmos-progress-96",
       "title": "Watch index coverage for /events/roscosmos-progress-96",
       "ownerAgent": "traffic-improvement-agent",
@@ -164,6 +150,20 @@
       "hypothesis": "/events/roscosmos-progress-96 is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/events/roscosmos-progress-96"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-topics-earthquakes",
+      "title": "Watch index coverage for /topics/earthquakes",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/topics/earthquakes is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/topics/earthquakes"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
