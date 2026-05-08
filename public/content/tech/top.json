@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-05-08T20:46:39.286Z",
+  "updatedAt": "2026-05-08T21:50:40.382Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-abc-refuses-to-capitulate-to-trump-admin-fights--e50b905a20",
+      "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows",
+      "tag": "Technology",
+      "publishedAt": "2026-05-08T21:08:42.000Z",
+      "summary": "FCC chair hasn't been able to bully ABC and owner Disney into submission.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-from-their-mothers-hands-to-a-national-market-ho-85e0e0be02",
+      "title": "From their mothers' hands to a national market: How a website made it real",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/05/mothers-hands-to-national-market-website-made-real",
+      "tag": "Technology",
+      "publishedAt": "2026-05-08T21:04:48.000Z",
+      "summary": "Two founders inherited skills, values, and ways of living that were never meant to become businesses until building their websites helped them reach customers far beyond their v...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-prime-video-follows-netflix-and-disney-by-adding-46971f7395",
+      "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app",
+      "tag": "Technology",
+      "publishedAt": "2026-05-08T20:50:03.000Z",
+      "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-asus-chases-elgato-with-its-own-secondary-touchs-36480c8da7",
       "title": "Asus chases Elgato with its own secondary touchscreen display",
@@ -13,33 +43,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-discord-is-down-for-some-users-ae8a48a082",
-      "title": "Discord is down for some users",
+      "id": "tech-discord-is-recovering-from-an-outage-that-took-s-ae8a48a082",
+      "title": "Discord is recovering from an outage that took some users offline",
       "source": "Engadget",
       "url": "https://www.engadget.com/2168231/discord-is-down-for-some-users",
       "tag": "Technology",
       "publishedAt": "2026-05-08T20:24:49.000Z",
-      "summary": "The company is investigating an issue with its API systems.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-intel-s-comeback-story-is-even-wilder-than-it-se-8594addc77",
-      "title": "Intel’s comeback story is even wilder than it seems",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems",
-      "tag": "Running",
-      "publishedAt": "2026-05-08T20:02:52.000Z",
-      "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-course-correction-google-to-link-more-sources-in-8b3aaff72a",
-      "title": "Course correction: Google to link more sources in AI Overviews",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews",
-      "tag": "Technology",
-      "publishedAt": "2026-05-08T19:43:47.000Z",
-      "summary": "Google's AI search will start citing its sources in several new ways.",
+      "summary": "The company had an issue with its API systems.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-08T15:25:03.000Z",
       "summary": "NovaFlip 5G runs on the MediaTek Dimensity 7300X processor",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-weekly-funding-roundup-may-2-8-vc-inflow-decline-cd13cc26bc",
-      "title": "[Weekly funding roundup May 2-8] VC inflow declines due to lower deal volume",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/weekly-funding-roundup-may-2-8-vc-inflow-declines-due-to-lower-deal-volume",
-      "tag": "Technology",
-      "publishedAt": "2026-05-08T14:22:22.000Z",
-      "summary": "Venture capital funding declined in the first week of May due to lower number of deals and lack of high value transactions.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-amazon-is-adding-a-vertical-video-feed-to-prime--6e47a11780",
-      "title": "Amazon is adding a vertical video feed to Prime Video",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
+      "id": "tech-sony-says-efficient-ai-tools-will-lead-to-even-m-19b2cb44ce",
+      "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market",
       "tag": "Technology",
-      "publishedAt": "2026-05-08T20:19:57.000Z",
-      "summary": "Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new \"Clips\" feed will offer a stream of short-form videos fro...",
+      "publishedAt": "2026-05-08T20:51:17.000Z",
+      "summary": "But human artists still \"must remain at the center,\" PlayStation maker says.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-court-rules-trump-s-10-tariff-is-just-as-illegal-673bc45601",
-      "title": "Court rules Trump's 10% tariff is just as illegal as the tariff it replaced",
+      "id": "tech-the-unprecedented-and-deadly-cruise-ship-hantavi-7e54d4797e",
+      "title": "The unprecedented and deadly cruise ship hantavirus outbreak, explained",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trumps-10-global-tariff-is-illegal-court-rules",
+      "url": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak",
       "tag": "Technology",
-      "publishedAt": "2026-05-08T19:25:30.000Z",
-      "summary": "Trump's vow to impose tariffs a \"different way\" already has the tech industry on edge.",
+      "publishedAt": "2026-05-08T20:42:35.000Z",
+      "summary": "\"This is not COVID,\" and other reasons why risk to the public is currently low.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
