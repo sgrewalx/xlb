@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-05-09T19:50:53.993Z",
+  "updatedAt": "2026-05-09T20:35:07.415Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-fintech-startup-parker-files-for-bankruptcy-57247a99c1",
+      "title": "Fintech startup Parker files for bankruptcy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy",
+      "tag": "Technology",
+      "publishedAt": "2026-05-09T20:32:17.000Z",
+      "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-the-electric-scooter-rental-company-lime-has-fil-901e8a416c",
       "title": "The electric scooter rental company Lime has filed for IPO",
@@ -13,13 +23,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gm-agrees-to-pay-12-75m-in-california-driver-pri-7ab19e332b",
-      "title": "GM agrees to pay $12.75M in California driver privacy settlement",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement",
+      "id": "tech-mythos-double-edged-sword-fa0c5f41f8",
+      "title": "Mythos | Double-edged sword",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/news/national/mythos-double-edged-sword/article70960067.ece",
       "tag": "Technology",
-      "publishedAt": "2026-05-09T19:05:30.000Z",
-      "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
+      "publishedAt": "2026-05-09T17:46:07.000Z",
+      "summary": "The Anthropic AI model can not only identify vulnerabilities in cyberspace that humans may have missed, but also generate ways to exploit them, potentially even for non-experts",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,16 +40,6 @@
       "tag": "Running",
       "publishedAt": "2026-05-09T16:00:00.000Z",
       "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of th...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-this-website-tracks-power-cuts-across-kerala-usi-5eb2a35530",
-      "title": "This website tracks power cuts across Kerala using crowd data",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/society/this-website-tracks-power-cuts-across-kerala-using-crowd-data/article70941877.ece",
-      "tag": "Running",
-      "publishedAt": "2026-05-09T13:01:50.000Z",
-      "summary": "Frustrated by power cuts, Alkesh Das has built a platform now used by thousands to track power cuts across 14 districts in the State",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-gm-agrees-to-pay-12-75m-in-california-driver-pri-7ab19e332b",
+      "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement",
+      "tag": "Technology",
+      "publishedAt": "2026-05-09T19:05:30.000Z",
+      "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-porsche-is-discontinuing-its-performance-e-bike--39524953ae",
       "title": "Porsche is discontinuing its performance e-bike division",
       "source": "Engadget",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-09T18:12:10.000Z",
       "summary": "The German automaker said it would refocus on its \"core business.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-banned-drones-and-routers-in-the-us-will-still-g-be5fb87b1f",
-      "title": "Banned drones and routers in the US will still get critical updates until 2029",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2168585/banned-drones-and-routers-in-the-us-will-still-get-critical-updates-until-2029",
-      "tag": "Technology",
-      "publishedAt": "2026-05-09T17:00:00.000Z",
-      "summary": "The Federal Communications Commission issued a notice to allow software and firmware updates until January 2029.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
