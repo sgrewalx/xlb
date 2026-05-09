@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T09:07:22.156Z",
+  "updatedAt": "2026-05-09T06:00:00.000Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 327 earthquake events in the last 24 hours. Strongest reported event: M5.3 near Kermadec Islands region.",
+          "summary": "USGS reported 307 earthquake events in the last 24 hours. Strongest reported event: M5.9 near southeast Indian Ridge.",
           "metricLabel": "Updated",
-          "metricValue": "May 8, 05:33 AM",
+          "metricValue": "May 9, 05:52 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -24,7 +24,7 @@
           "title": "Earth live rail",
           "summary": "See how earthquake monitoring sits inside the broader earth-event surface.",
           "metricLabel": "Live pages",
-          "metricValue": "18",
+          "metricValue": "28",
           "href": "/live/earth",
           "accent": "signal"
         },
@@ -50,7 +50,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "8",
           "href": "/events/aurora-watch",
@@ -61,7 +61,7 @@
           "title": "Space live rail",
           "summary": "Browse the related launch and space-weather inventory.",
           "metricLabel": "Space views",
-          "metricValue": "27",
+          "metricValue": "37",
           "href": "/live/space",
           "accent": "signal"
         },
@@ -89,7 +89,7 @@
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
-          "metricValue": "54d 2h",
+          "metricValue": "53d 6h",
           "href": "/events/clps-flight-astrobotic-griffin-1",
           "accent": "space"
         },

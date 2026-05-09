@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T09:07:22.156Z",
+  "updatedAt": "2026-05-09T06:00:00.000Z",
   "thesis": "Games are a retention layer tied to live content, not a standalone acquisition thesis.",
   "items": [
     {
@@ -59,7 +59,7 @@
       "relatedLabel": "Stay in Games",
       "prompt": "Keep this as a replayable support mode inside the Games section.",
       "metricLabel": "Session depth",
-      "metricValue": "86",
+      "metricValue": "91",
       "featured": false
     },
     {
@@ -71,7 +71,7 @@
       "relatedLabel": "Stay in Games",
       "prompt": "Keep this as a replayable support mode inside the Games section.",
       "metricLabel": "Session depth",
-      "metricValue": "86",
+      "metricValue": "91",
       "featured": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T09:07:22.156Z",
+  "updatedAt": "2026-05-09T06:00:00.000Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -20,7 +20,7 @@
         },
         {
           "label": "Top pulse",
-          "value": "56"
+          "value": "63"
         }
       ],
       "items": [
@@ -30,7 +30,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · May 8, 05:15 AM"
+          "meta": "USGS Earthquake Hazards Program · May 9, 05:34 AM"
         },
         {
           "id": "space-aurora-watch",
@@ -38,7 +38,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · May 8, 05:30 AM"
+          "meta": "NOAA Space Weather Prediction Center · May 9, 05:48 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -82,7 +82,7 @@
         },
         {
           "label": "Return loop",
-          "value": "30"
+          "value": "35"
         }
       ],
       "items": [
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "54d 2h",
+          "label": "53d 6h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }
@@ -120,7 +120,7 @@
       "metrics": [
         {
           "label": "Video views",
-          "value": "19"
+          "value": "33"
         },
         {
           "label": "Home search impressions",
@@ -136,7 +136,7 @@
           "id": "why-/",
           "title": "Home",
           "href": "/",
-          "label": "56 views",
+          "label": "63 views",
           "summary": "The home page should route visitors into live events and shorts instead of acting like a static section index.",
           "meta": "6 search impressions · engagement 100"
         },
@@ -144,17 +144,17 @@
           "id": "why-/live",
           "title": "Live",
           "href": "/live",
-          "label": "45 views",
+          "label": "61 views",
           "summary": "Live pages work because the information can change between visits and there is a clear reason to come back.",
           "meta": "0 search impressions · engagement 100"
         },
         {
-          "id": "why-/live/space",
-          "title": "Live Space",
-          "href": "/live/space",
-          "label": "27 views",
-          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "0 search impressions · engagement 81"
+          "id": "why-/video",
+          "title": "Video",
+          "href": "/video",
+          "label": "33 views",
+          "summary": "Users are already choosing video more often than games or gallery, so the feed needs in-page playback.",
+          "meta": "0 search impressions · engagement 100"
         }
       ],
       "relatedLinks": [

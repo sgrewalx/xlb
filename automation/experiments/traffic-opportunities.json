@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T05:33:21.302Z",
+  "updatedAt": "2026-05-09T05:52:17.424Z",
   "items": [
     {
       "id": "traffic-engagement_expand-home",
@@ -38,6 +38,20 @@
       "hypothesis": "/video shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "targetPaths": [
         "/video"
+      ],
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-engagement_expand-news",
+      "title": "Expand high-engagement path /news",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/news shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "targetPaths": [
+        "/news"
       ],
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
@@ -150,20 +164,6 @@
       "hypothesis": "/events/roscosmos-progress-96 is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/events/roscosmos-progress-96"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
-      "id": "traffic-index-watch-topics-earthquakes",
-      "title": "Watch index coverage for /topics/earthquakes",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/topics/earthquakes is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/topics/earthquakes"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
