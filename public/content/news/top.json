@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-05-09T21:36:24.919Z",
+  "updatedAt": "2026-05-09T22:35:16.144Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-lebanon-says-israeli-strikes-killed-39-374cd0e076",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-09T21:23:14.000Z",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-delhi-hc-protects-congress-mp-shashi-tharoor-s-p-648499d0c4",
-      "title": "Delhi HC protects Congress MP Shashi Tharoor's personality rights; orders blocking of deepfakes",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/delhi-hc-protects-congress-mp-shashi-tharoors-personality-rights-orders-blocking-of-deepfakes/articleshow/130982923.cms",
+      "id": "news-cbi-searches-17-locations-in-reliance-ada-group--f4280d7fb9",
+      "title": "CBI searches 17 locations in Reliance ADA Group cases",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/cbi-searches-17-premises-in-mumbai-in-connection-with-3-cases-against-reliance-ada-group-companies/article70958893.ece",
       "tag": "India",
-      "publishedAt": "2026-05-09T21:22:22.000Z",
-      "summary": "The Delhi High Court granted interim relief to Congress MP Shashi Tharoor, ordering the removal of AI-generated deepfakes and synthetic media across digital platforms. The court...",
+      "publishedAt": "2026-05-09T22:18:04.000Z",
+      "summary": "In recent months, the CBI has filed seven cases against Group entities based on complaints from various Public Sector Banks and LIC regarding alleged frauds involving thousands...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-one-killed-in-gaza-as-turkish-fm-talks-peace-eff-eb7cd621a7",
-      "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
+      "id": "news-betty-broderick-convicted-in-1989-killings-of-ex-c758fa0143",
+      "title": "Betty Broderick, convicted in 1989 killings of ex-husband and his new wife, dies aged 78",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/betty-broderick-convicted-double-murder-ex-husband-wife-dead",
       "tag": "Europe",
-      "publishedAt": "2026-05-09T21:10:43.000Z",
-      "summary": "Israel continues to violate a 'ceasefire' agreed to in October with hundreds more killed across the Strip.",
+      "publishedAt": "2026-05-09T22:07:09.000Z",
+      "summary": "Broderick was serving a life sentence in California over killings and last month transferred to a medical center Betty Broderick, who became infamous for the 1989 killings of he...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-dmk-publication-hits-out-at-rahul-for-his-lack-o-1140ed1bff",
+      "title": "DMK publication hits out at Rahul for his 'lack of gratitude'",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/dmk-publication-hits-out-at-rahul-for-his-lack-of-gratitude/articleshow/130983027.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-09T22:04:48.000Z",
+      "summary": "DMK mouthpiece Murasoli criticized Congress and Rahul Gandhi for alleged lack of gratitude after the party left the DMK-led alliance. The editorial highlighted DMK chief M K Sta...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-strait-of-hormuz-remains-effectively-blocked-aft-c55aa17a2a",
+      "title": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
+      "tag": "US",
+      "publishedAt": "2026-05-09T21:43:24.000Z",
+      "summary": "The U.S. Navy’s blockade continued to intercept ships trying to leave or enter Iranian ports, while fear of Iranian attacks kept other ships from attempting passage through the...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-who-chief-reassures-tenerife-residents-ahead-of--3121dc732e",
+      "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-09T21:37:03.000Z",
+      "summary": "\"This is not another Covid,\" Tedros Ghebreyesus tells islanders before MV Hondius docks on Sunday.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-brazil-judge-bars-law-that-could-reduce-bolsonar-66258b7232",
+      "title": "Brazil judge bars law that could reduce Bolsonaro’s 27-year prison sentence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/brazil-judge-bars-law-that-could-reduce-bolsonaros-27-year-prison-sentence?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-09T21:34:53.000Z",
+      "summary": "Supreme Court Justice Alexandre de Moraes suspends use of law to reduce prison sentences, pending further review.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,36 +70,6 @@
       "tag": "US",
       "publishedAt": "2026-05-09T21:09:43.000Z",
       "summary": "Conflict between farmers and elephants in Sri Lanka has grown worse as food and fuel are scarcer due to war in the Middle East.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-man-arrested-after-five-people-were-hit-by-car-i-4b2a1a5a45",
-      "title": "Man arrested after five people were hit by car in Nottinghamshire town",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/09/man-arrested-after-five-people-were-hit-by-car-in-nottinghamshire-town",
-      "tag": "Europe",
-      "publishedAt": "2026-05-09T20:49:54.000Z",
-      "summary": "One man critically injured following incident in Arnold and suspect is being held on suspicion of attempted murder A man has been arrested on suspicion of attempted murder after...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-t-n-government-formation-highlights-tvk-chief-vi-804f51966a",
-      "title": "T.N. government formation highlights: TVK chief Vijay to be sworn in as Chief Minister on May 10",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-live-updates-cpi-cpim-vck-dmk-aiadmk-ammk-tvk-alliance-parties-may-9-2026/article70958001.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-09T20:36:01.000Z",
-      "summary": "Aadhav Arjuna, ‘Bussy’ Anand, Sengottaiyan among 9 TVK Ministers to be sworn in; vote of confidence in Assembly by May 13",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-passengers-on-hantavirus-cruise-ship-will-disemb-6baa56e247",
-      "title": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html",
-      "tag": "US",
-      "publishedAt": "2026-05-09T19:58:34.000Z",
-      "summary": "The cruise ship will arrive on the island of Tenerife, part of the Canary Islands of Spain, officials said. All of the passengers will then be evacuated to their home countries.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-20-000-indian-seafarers-caught-in-gulf-turmoil-m-fc1271e390",
-      "title": "20,000 Indian seafarers caught in Gulf turmoil: Mariners' body flags alarm",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/20000-indian-seafarers-caught-in-gulf-turmoil-mariners-body-flags-alarm/articleshow/130982914.cms",
+      "id": "news-kejriwal-slams-pm-modi-over-ed-raids-in-punjab-0babc3b20e",
+      "title": "Kejriwal slams PM Modi over ED raids in Punjab",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/bjp-hits-back-at-kejriwal-over-aurangzeb-remark-on-modi-ed-raids-in-punjab/article70959047.ece",
       "tag": "India",
-      "publishedAt": "2026-05-09T21:17:06.000Z",
-      "summary": "Seeks urgent evacuation steps by govt",
+      "publishedAt": "2026-05-09T22:13:05.000Z",
+      "summary": "‘Atrocities’ by Modi against Punjab reminds of Aurangzeb, says AAP supremo",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-koli-women-chart-new-waters-set-up-seafood-compa-95c60766ca",
-      "title": "Koli women chart new waters, set up seafood company",
+      "id": "news-informed-stalin-of-move-says-vck-s-thirumavalava-c739cd4938",
+      "title": "Informed Stalin of move, says VCK's Thirumavalavan",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/koli-women-chart-new-waters-set-up-seafood-company/articleshow/130982896.cms",
+      "url": "https://timesofindia.indiatimes.com/india/informed-stalin-of-move-says-vcks-thirumavalavan/articleshow/130983016.cms",
       "tag": "India",
-      "publishedAt": "2026-05-09T21:01:51.000Z",
-      "summary": "Mumbai's Koli women are transforming their traditional fish trade into a corporate venture with Daryavardi Producer Company Limited. This community-owned enterprise, inspired by...",
+      "publishedAt": "2026-05-09T21:56:57.000Z",
+      "summary": "The Vijay-led TVK party's tally surged to 120 after securing support from VCK and IUML, following earlier backing from Congress, CPI, and CPM. IUML cited the public's expectatio...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
