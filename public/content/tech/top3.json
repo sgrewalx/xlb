@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-05-08T23:46:25.337Z",
+  "updatedAt": "2026-05-09T01:59:46.989Z",
   "items": [
+    {
+      "id": "tech-tech-now-1bcc4b87ea",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-09T01:00:00.000Z",
+      "summary": "Andrew Rogers explores new tech trials helping people stay underwater for longer.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-top-megelin-deals-for-laser-and-led-therapy-devi-552dda0fe1",
       "title": "Top Megelin Deals for Laser and LED Therapy Devices (2026)",
@@ -12,23 +22,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-laid-off-oracle-workers-tried-to-negotiate-bette-1a300bd139",
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no",
-      "tag": "Technology",
-      "publishedAt": "2026-05-08T22:59:05.000Z",
-      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-trump-reportedly-plans-to-fire-fda-commissioner--aecbd40e7c",
-      "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
+      "id": "tech-manufacturing-qubits-that-can-move-6482a9f1f2",
+      "title": "Manufacturing qubits that can move",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary",
+      "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move",
       "tag": "Technology",
-      "publishedAt": "2026-05-08T22:10:58.000Z",
-      "summary": "The plan isn't final and could change, but his ouster would be no surprise.",
+      "publishedAt": "2026-05-08T23:13:57.000Z",
+      "summary": "It's hard to mix electronic manufacturing and flexible geometry.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
