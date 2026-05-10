@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-05-10T22:36:42.894Z",
+  "updatedAt": "2026-05-10T23:41:24.834Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-whoop-will-soon-offer-users-in-app-video-consult-3a05ec6ebf",
-      "title": "Whoop will soon offer users in-app video consultations with licensed clinicians",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians",
+      "id": "tech-cyber-crime-increasingly-coming-with-threats-of--e8547a36e2",
+      "title": "Cyber-crime increasingly coming with threats of physical violence",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-05-10T21:37:51.000Z",
-      "summary": "Clinicians will be able to see users' health data.",
+      "publishedAt": "2026-05-10T23:34:59.000Z",
+      "summary": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-samsung-s-bespoke-update-is-big-step-towards-a-u-9bb355ac5e",
+      "title": "Samsung's Bespoke update is big step towards a useful AI for your fridge",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2167892/samsungs-bespoke-update-is-big-step-towards-a-useful-ai-for-your-fridge",
+      "tag": "Running",
+      "publishedAt": "2026-05-10T23:00:00.000Z",
+      "summary": "Running a software upgrade on a fridge feels strange, but these are the times we live in.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-sunburn-inspired-a-new-way-to-store-energy-7653ca468e",
-      "title": "How sunburn inspired a new way to store energy",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-09T08:28:23.000Z",
-      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-whoop-will-soon-offer-users-in-app-video-consult-3a05ec6ebf",
+      "title": "Whoop will soon offer users in-app video consultations with licensed clinicians",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians",
+      "tag": "Technology",
+      "publishedAt": "2026-05-10T21:37:51.000Z",
+      "summary": "Clinicians will be able to see users' health data.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-anthropic-says-evil-portrayals-of-ai-were-respon-b8f3188357",
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-10T20:40:41.000Z",
       "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gm-agrees-to-pay-12-75-million-to-settle-califor-95b8b9e46d",
-      "title": "GM agrees to pay $12.75 million to settle California lawsuit over misuse of customers' driving data",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data",
-      "tag": "Technology",
-      "publishedAt": "2026-05-10T19:45:30.000Z",
-      "summary": "General Motors collected driving data through OnStar and sold it to data brokers.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
