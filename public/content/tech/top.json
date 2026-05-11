@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-05-11T20:27:02.774Z",
+  "updatedAt": "2026-05-11T21:57:38.372Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-after-banning-foreign-routers-fcc-says-existing--f26e60fc59",
+      "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T20:48:33.000Z",
+      "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-texas-ag-sues-netflix-claiming-the-streaming-ser-68b3e1509a",
       "title": "Texas AG sues Netflix, claiming the streaming service collects user data without consent",
@@ -30,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-11T18:40:37.000Z",
       "summary": "There’s a more accurate way of measuring who’s at risk for cholesterol-related health issues. So why don’t more doctors use it?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-passengers-from-hantavirus-ship-arrive-in-us-3-p-eb63c44401",
-      "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T18:12:43.000Z",
-      "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-data-center-guzzled-30-million-gallons-of-water--dfe3fc6ded",
+      "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T20:37:00.000Z",
+      "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-palantir-s-true-believers-are-wearing-this-jacke-d59c0586ef",
       "title": "Palantir’s true believers are wearing this jacket",
       "source": "The Verge",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-11T18:26:04.000Z",
       "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enfo...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ios-end-to-end-encrypted-rcs-messaging-begins-ro-d0cbf91b91",
-      "title": "iOS end-to-end encrypted RCS messaging begins rolling today in beta",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2170011/ios-end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T18:20:49.000Z",
-      "summary": "Look for the new lock icon in your Android chats.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
