@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-05-11T16:24:24.414Z",
+  "updatedAt": "2026-05-11T18:51:06.609Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-google-stopped-a-zero-day-hack-that-it-says-was--d506a94bf6",
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "id": "tech-testing-for-bad-cholesterol-doesn-t-tell-the-who-b8a8a5b2cd",
+      "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T16:09:42.000Z",
-      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent c...",
+      "publishedAt": "2026-05-11T18:40:37.000Z",
+      "summary": "There’s a more accurate way of measuring who’s at risk for cholesterol-related health issues. So why don’t more doctors use it?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-palantir-s-true-believers-are-wearing-this-jacke-d59c0586ef",
+      "title": "Palantir’s true believers are wearing this jacket",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T18:26:04.000Z",
+      "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enfo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ios-end-to-end-encrypted-rcs-messaging-begins-ro-d0cbf91b91",
+      "title": "iOS end-to-end encrypted RCS messaging begins rolling today in beta",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2170011/ios-end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T18:20:49.000Z",
+      "summary": "Look for the new lock icon in your Android chats.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-passengers-from-hantavirus-ship-arrive-in-us-3-p-eb63c44401",
+      "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T18:12:43.000Z",
+      "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-daniel-ek-backed-defense-tech-helsing-to-raise-1-29dbbff867",
+      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T17:38:32.000Z",
+      "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,36 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-11T16:05:39.000Z",
       "summary": "Those who don't subscribe will be able to use the platform for free - but be shown personalised ads by default.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-too-early-to-talk-ipo-redwood-materials-incoming-5e9f6af9b1",
-      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T16:00:00.000Z",
-      "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-pirates-are-already-playing-forza-horizon-6-days-24f06d76f0",
-      "title": "Pirates are already playing Forza Horizon 6 days before its launch",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T15:29:16.000Z",
-      "summary": "Crackers take advantage of unencrypted files that briefly appeared on Steam.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-sued-by-spouse-of-fsu-shooting-victim-6d8e9e23b2",
-      "title": "OpenAI sued by spouse of FSU shooting victim",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T15:11:58.000Z",
-      "summary": "Florida's attorney general also opened an investigation into ChatGPT recently on similar grounds.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-papa-johns-is-getting-into-drone-delivery-but-no-6675c91aba",
-      "title": "Papa Johns Is Getting Into Drone Delivery—but Not for Pizza",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T12:00:00.000Z",
-      "summary": "A new collaboration with Alphabet’s Wing will only deliver sandwiches. It demonstrates the tricky parts of taking to the sky.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-it-industry-body-nites-seeks-official-advisory-f-fe77fe4ecf",
       "title": "IT industry body NITES seeks official advisory for Work from Home measures amid rising oil prices",
       "source": "The Hindu Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-a-million-baby-monitors-and-security-cameras-wer-202fa4938a",
-      "title": "A million baby monitors and security cameras were easily viewable by hackers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
+      "id": "tech-google-announces-its-first-ever-discovery-of-a-z-bdd711f73a",
+      "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T16:00:00.000Z",
-      "summary": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that...",
+      "publishedAt": "2026-05-11T18:11:07.000Z",
+      "summary": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-7-of-our-favorite-deals-from-amazon-s-pet-days-s-f17a493f07",
-      "title": "7 of our favorite deals from Amazon’s Pet Days sale",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
+      "id": "tech-the-fcc-received-hundreds-of-complaints-about-ba-65af7ef616",
+      "title": "The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T15:45:32.000Z",
-      "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on...",
+      "publishedAt": "2026-05-11T18:00:35.000Z",
+      "summary": "The complaints, obtained by WIRED, described Bad Bunny’s performance as being overly sexual and protested that the show was in Spanish.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
