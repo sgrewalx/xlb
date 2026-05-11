@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-05-11T18:52:19.510Z",
+  "updatedAt": "2026-05-11T20:27:56.580Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-indian-ocean-more-contested-and-important-than-e-3efb88fde8",
-      "title": "Indian Ocean more contested, and important than ever before: Vice Admiral Swaminathan",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/indian-ocean-more-contested-and-important-than-ever-before-vice-admiral-swaminathan/article70966956.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-11T18:42:58.000Z",
-      "summary": "He observed that the Indian Ocean has always been India’s arena, and highlighted the growing significance of the region",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-three-ministerial-aides-quit-and-59-mps-call-for-88343ce661",
-      "title": "Three ministerial aides quit and 59 MPs call for Keir Starmer’s resignation as speech fails to quell rebellion – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-05-11T18:37:43.000Z",
-      "summary": "More than 55 Labour MPs have called for prime minister to set a timetable for his resignation Botterill says voters she spoke to during the campaign felt the country does not wo...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-long-term-energy-crisis-lo-4322048698",
+      "id": "news-iran-war-live-updates-long-term-energy-crisis-lo-e84d7cbbb1",
       "title": "Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-05-11T18:34:59.000Z",
+      "publishedAt": "2026-05-11T20:20:34.000Z",
       "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressi...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-democrats-express-grave-concerns-over-secretive--9bcb22d42c",
+      "title": "Democrats express ‘grave concerns’ over secretive ICE deportation flights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/ice-deportation-flights-democrats-letter",
+      "tag": "Europe",
+      "publishedAt": "2026-05-11T20:14:42.000Z",
+      "summary": "Exclusive: In a letter 40 lawmakers demand the FAA address allegations of mistreatment of immigrants and the ‘urgent need for transparency’ A group of 40 House Democrats have de...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-wrong-to-single-out-pinarayi-vijayan-for-taking--5fcd10508e",
+      "title": "Wrong to single out Pinarayi Vijayan for taking moral responsibility for poll defeat: CPM",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/wrong-to-single-out-pinarayi-vijayan-for-taking-moral-responsibility-for-poll-defeat-cpm/articleshow/131023417.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-11T19:58:05.000Z",
+      "summary": "CPM's MA Baby defended Kerala CM Pinarayi Vijayan, stating the party's defeat is a collective responsibility, not an individual's. He emphasized self-criticism and corrective me...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-telangana-bie-re-releases-admission-schedule-cla-5faf871e4d",
+      "title": "Telangana BIE re-releases admission schedule; classes for Inter first year to begin from June 1",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-bie-re-releases-admission-schedule-classes-for-inter-first-year-to-begin-from-june-1/article70966898.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-11T19:35:41.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-could-the-latest-violence-in-dr-congo-undermine--1b0a5c4478",
+      "title": "Could the latest violence in DR Congo undermine truce efforts?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-11T19:18:52.000Z",
+      "summary": "Lesser-known armed groups have carried out a spate of attacks in the country's northeast.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-can-iuml-support-for-vd-satheesan-backfire-congr-dd433fa3d0",
+      "title": "Can IUML Support For VD Satheesan Backfire? Congress Decision Likely Soon",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/kerala-chief-minister-post-kc-venugopal-ramesh-chennithala-can-iuml-support-for-vd-satheesan-backfire-congress-decision-likely-soon-11481178",
+      "tag": "India",
+      "publishedAt": "2026-05-11T19:00:14.000Z",
+      "summary": "The Congress is concerned that giving in to the IUML will only provide ammunition to the BJP . The Congress has been regularly accused of appeasement by the BJP.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,36 +70,6 @@
       "tag": "Europe",
       "publishedAt": "2026-05-11T18:27:21.000Z",
       "summary": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-uk-sanctions-network-accused-of-planning-attacks-49761e165d",
-      "title": "UK sanctions network accused of planning attacks for Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-11T18:25:10.000Z",
-      "summary": "Britain freezes assets and travel for those accused of laundering billions and plotting Iranian-backed hostile activity.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-barrierless-tolling-sees-rs-30-lakh-recovery-as--b291b6af23",
-      "title": "Barrierless tolling sees Rs 30 lakh recovery as half of users clear dues",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/barrierless-tolling-sees-rs-30-lakh-recovery-as-half-of-users-clear-dues/articleshow/131021619.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-11T18:14:23.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-what-next-for-tamil-nadu-chief-minister-vijay-tr-eb5073028d",
-      "title": "What Next For Tamil Nadu Chief Minister Vijay? Trust Vote Date Yet To Be Fixed",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/what-next-for-tamil-nadu-chief-minister-vijay-trust-vote-date-yet-to-be-fixed-11480805",
-      "tag": "India",
-      "publishedAt": "2026-05-11T17:51:40.000Z",
-      "summary": "Vijay's oath ceremony, which took place on Sunday, came after four days of protracted political negotiations after his party received an unprecedented mandate that split open th...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-west-bengal-chief-electoral-officer-appointed-st-3c773e2e54",
-      "title": "West Bengal Chief Electoral Officer appointed State Chief Secretary",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-chief-electoral-officer-appointed-state-chief-secretary/article70966786.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-11T18:33:33.000Z",
-      "summary": "The decision of the BJP government under Chief Minister Suvendu Adhikari to elevate the CEO to the top post in the State raised questions in political circles",
+      "id": "news-trump-says-he-hopes-to-achieve-a-lot-ahead-of-ch-988c0b7626",
+      "title": "Trump says he hopes to achieve ‘a lot’ ahead of China visit, with several CEOs set to join president in Beijing – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/11/trump-china-iran-trade-warsh-politics-live",
+      "tag": "Europe",
+      "publishedAt": "2026-05-11T20:14:40.000Z",
+      "summary": "Seventeen tech and finance CEOs to join Trump on China trip; it will be the first US presidential visit China since Trump went in 2017 Sign up for the Breaking News US email Spe...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-where-are-the-passengers-of-the-hantavirus-hit-c-7f1317aba8",
-      "title": "Where Are the Passengers of the Hantavirus-Hit Cruise Ship Now?",
+      "id": "news-israel-prepares-to-prosecute-first-suspects-in-o-206c295953",
+      "title": "Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/11/world/hantavirus-outbreak-cruise-ship-passengers.html",
+      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html",
       "tag": "US",
-      "publishedAt": "2026-05-11T18:32:49.000Z",
-      "summary": "Nearly two dozen countries are repatriating citizens who were aboard the MV Hondius, where three passengers died in a hantavirus outbreak.",
+      "publishedAt": "2026-05-11T20:11:26.000Z",
+      "summary": "Parliament passed a new law that paves the way for military trials for hundreds of Palestinians suspected of taking part in the 2023 attack that ignited the two-year war in Gaza.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
