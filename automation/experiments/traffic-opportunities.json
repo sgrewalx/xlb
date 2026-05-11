@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-05-10T06:16:30.721Z",
+  "updatedAt": "2026-05-11T06:45:35.806Z",
   "items": [
-    {
-      "id": "traffic-engagement_expand-home",
-      "title": "Expand high-engagement path /",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "medium",
-      "status": "queued",
-      "hypothesis": "/ shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "targetPaths": [
-        "/"
-      ],
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
     {
       "id": "traffic-engagement_expand-live",
       "title": "Expand high-engagement path /live",
@@ -30,14 +16,14 @@
       "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-engagement_expand-video",
-      "title": "Expand high-engagement path /video",
+      "id": "traffic-engagement_expand-home",
+      "title": "Expand high-engagement path /",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",
       "status": "queued",
-      "hypothesis": "/video shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "hypothesis": "/ shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "targetPaths": [
-        "/video"
+        "/"
       ],
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
@@ -58,14 +44,14 @@
       "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-engagement_expand-live-space",
-      "title": "Expand high-engagement path /live/space",
+      "id": "traffic-engagement_expand-video",
+      "title": "Expand high-engagement path /video",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",
       "status": "queued",
-      "hypothesis": "/live/space shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "hypothesis": "/video shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "targetPaths": [
-        "/live/space"
+        "/video"
       ],
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
@@ -80,6 +66,34 @@
       "hypothesis": "/games shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "targetPaths": [
         "/games"
+      ],
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-engagement_expand-live-space",
+      "title": "Expand high-engagement path /live/space",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/live/space shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "targetPaths": [
+        "/live/space"
+      ],
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-engagement_expand-sports",
+      "title": "Expand high-engagement path /sports",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/sports shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "targetPaths": [
+        "/sports"
       ],
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
@@ -108,20 +122,6 @@
       "hypothesis": "/live/earth shows comparatively strong engagement and should receive more supporting links or adjacent content.",
       "targetPaths": [
         "/live/earth"
-      ],
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
-      "id": "traffic-engagement_expand-sports",
-      "title": "Expand high-engagement path /sports",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "medium",
-      "status": "queued",
-      "hypothesis": "/sports shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "targetPaths": [
-        "/sports"
       ],
       "successMetric": "Pageviews and return visits rise without reducing engagement score.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",

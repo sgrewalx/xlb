@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-10T06:16:30.402Z",
-  "snapshotFile": "merged-2026-05-10.json",
-  "capturedAt": "2026-05-10T06:00:00.000Z",
+  "updatedAt": "2026-05-11T06:45:35.449Z",
+  "snapshotFile": "merged-2026-05-11.json",
+  "capturedAt": "2026-05-11T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -10,80 +10,40 @@
   },
   "topPages": [
     {
-      "path": "/",
-      "pageviews": 63,
-      "searchImpressions": 4,
-      "engagementScore": 100,
-      "returnVisitors": 35,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
       "path": "/live",
-      "pageviews": 61,
+      "pageviews": 33,
       "searchImpressions": 0,
       "engagementScore": 100,
-      "returnVisitors": 30,
+      "returnVisitors": 18,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
       "path": "/live/space",
-      "pageviews": 37,
+      "pageviews": 28,
       "searchImpressions": 0,
-      "engagementScore": 84,
-      "returnVisitors": 19,
+      "engagementScore": 85,
+      "returnVisitors": 15,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
-      "path": "/video",
-      "pageviews": 33,
-      "searchImpressions": 0,
-      "engagementScore": 100,
-      "returnVisitors": 15,
-      "videoStarts": 49,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live/earth",
-      "pageviews": 28,
-      "searchImpressions": 0,
-      "engagementScore": 80,
+      "path": "/",
+      "pageviews": 24,
+      "searchImpressions": 4,
+      "engagementScore": 94,
       "returnVisitors": 14,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
-      "path": "/games",
-      "pageviews": 25,
-      "searchImpressions": 1,
-      "engagementScore": 91,
-      "returnVisitors": 12,
-      "videoStarts": 0,
-      "gameStarts": 28,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/gallery",
-      "pageviews": 23,
-      "searchImpressions": 3,
-      "engagementScore": 88,
-      "returnVisitors": 11,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 1
-    },
-    {
-      "path": "/sports",
-      "pageviews": 22,
-      "searchImpressions": 2,
-      "engagementScore": 81,
+      "path": "/live/earth",
+      "pageviews": 21,
+      "searchImpressions": 0,
+      "engagementScore": 80,
       "returnVisitors": 11,
       "videoStarts": 0,
       "gameStarts": 0,
@@ -92,7 +52,7 @@
     {
       "path": "/news",
       "pageviews": 20,
-      "searchImpressions": 0,
+      "searchImpressions": 4,
       "engagementScore": 97,
       "returnVisitors": 12,
       "videoStarts": 0,
@@ -100,12 +60,52 @@
       "galleryOpens": 0
     },
     {
+      "path": "/sports",
+      "pageviews": 20,
+      "searchImpressions": 2,
+      "engagementScore": 84,
+      "returnVisitors": 11,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 19,
+      "searchImpressions": 3,
+      "engagementScore": 83,
+      "returnVisitors": 11,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 1
+    },
+    {
+      "path": "/games",
+      "pageviews": 17,
+      "searchImpressions": 1,
+      "engagementScore": 94,
+      "returnVisitors": 10,
+      "videoStarts": 0,
+      "gameStarts": 22,
+      "galleryOpens": 0
+    },
+    {
       "path": "/tech",
-      "pageviews": 18,
+      "pageviews": 16,
       "searchImpressions": 0,
       "engagementScore": 76,
       "returnVisitors": 8,
       "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/video",
+      "pageviews": 15,
+      "searchImpressions": 0,
+      "engagementScore": 100,
+      "returnVisitors": 8,
+      "videoStarts": 20,
       "gameStarts": 0,
       "galleryOpens": 0
     }
