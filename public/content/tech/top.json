@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-05-11T18:51:06.609Z",
+  "updatedAt": "2026-05-11T20:27:02.774Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-texas-ag-sues-netflix-claiming-the-streaming-ser-68b3e1509a",
+      "title": "Texas AG sues Netflix, claiming the streaming service collects user data without consent",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T20:04:31.000Z",
+      "summary": "The case particularly focuses on children's accounts.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-govee-s-new-portable-smart-lamp-is-on-sale-for-t-d78cd7c61f",
+      "title": "Govee’s new portable smart lamp is on sale for the first time",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T19:56:28.000Z",
+      "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-testing-for-bad-cholesterol-doesn-t-tell-the-who-b8a8a5b2cd",
       "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
@@ -10,26 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-11T18:40:37.000Z",
       "summary": "There’s a more accurate way of measuring who’s at risk for cholesterol-related health issues. So why don’t more doctors use it?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-palantir-s-true-believers-are-wearing-this-jacke-d59c0586ef",
-      "title": "Palantir’s true believers are wearing this jacket",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T18:26:04.000Z",
-      "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enfo...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ios-end-to-end-encrypted-rcs-messaging-begins-ro-d0cbf91b91",
-      "title": "iOS end-to-end encrypted RCS messaging begins rolling today in beta",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2170011/ios-end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T18:20:49.000Z",
-      "summary": "Look for the new lock icon in your Android chats.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-announces-its-first-ever-discovery-of-a-z-bdd711f73a",
-      "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai",
+      "id": "tech-palantir-s-true-believers-are-wearing-this-jacke-d59c0586ef",
+      "title": "Palantir’s true believers are wearing this jacket",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T18:11:07.000Z",
-      "summary": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
+      "publishedAt": "2026-05-11T18:26:04.000Z",
+      "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enfo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-fcc-received-hundreds-of-complaints-about-ba-65af7ef616",
-      "title": "The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints",
+      "id": "tech-ios-end-to-end-encrypted-rcs-messaging-begins-ro-d0cbf91b91",
+      "title": "iOS end-to-end encrypted RCS messaging begins rolling today in beta",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2170011/ios-end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T18:00:35.000Z",
-      "summary": "The complaints, obtained by WIRED, described Bad Bunny’s performance as being overly sexual and protested that the show was in Spanish.",
+      "publishedAt": "2026-05-11T18:20:49.000Z",
+      "summary": "Look for the new lock icon in your Android chats.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
