@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-05-11T22:51:48.255Z",
+  "updatedAt": "2026-05-11T23:47:59.316Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-yarbo-says-it-will-remove-the-intentional-backdo-cdbfea1b37",
-      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+      "id": "tech-not-so-dusty-how-tech-is-changing-woodworking-7588837b3d",
+      "title": "Not so dusty: How tech is changing woodworking",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T22:40:20.000Z",
-      "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors rep...",
+      "publishedAt": "2026-05-11T23:23:48.000Z",
+      "summary": "Woodworking shops have been transformed by tech to make tools safer and more precise.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-just-released-its-answer-to-claude-mythos-13c4b4a735",
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T23:05:01.000Z",
+      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launc...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gm-just-laid-off-hundreds-of-it-workers-to-hire--164dd2c05e",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T23:04:10.000Z",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-astronomers-use-the-webb-telescope-to-improve-ou-9128918dec",
+      "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T22:54:56.000Z",
+      "summary": "Adding significantly more detail means better future investigations into the universe's past.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,26 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-finally-texts-between-android-and-iphone-users-c-af5a87f114",
-      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T21:59:34.000Z",
-      "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-texas-ag-sues-netflix-claiming-the-streaming-ser-68b3e1509a",
-      "title": "Texas AG sues Netflix, claiming the streaming service collects user data without consent",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T20:04:31.000Z",
-      "summary": "The case particularly focuses on children's accounts.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-testing-for-bad-cholesterol-doesn-t-tell-the-who-b8a8a5b2cd",
       "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
       "source": "Wired",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-11T18:40:37.000Z",
       "summary": "There’s a more accurate way of measuring who’s at risk for cholesterol-related health issues. So why don’t more doctors use it?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tiktok-launches-3-99-subscription-for-no-ads-in--800904fac9",
-      "title": "TikTok launches £3.99 subscription for no ads in UK",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T16:05:39.000Z",
-      "summary": "Those who don't subscribe will be able to use the platform for free - but be shown personalised ads by default.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-yarbo-says-it-will-remove-the-intentional-backdo-cdbfea1b37",
+      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T22:40:20.000Z",
+      "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors rep...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-here-s-what-mira-murati-s-ai-company-is-up-to-8cc72289de",
       "title": "Here’s what Mira Murati’s AI company is up to",
       "source": "The Verge",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-11T22:19:15.000Z",
       "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interact...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-audi-has-a-new-q9-flagship-coming-soon-here-s-it-155b0b3a94",
-      "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T22:01:57.000Z",
-      "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
