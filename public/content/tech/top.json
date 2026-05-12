@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-05-11T23:47:59.316Z",
+  "updatedAt": "2026-05-12T02:04:44.183Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-what-if-your-health-had-a-cibil-like-score-a-hyd-b95dcdeed1",
+      "title": "What if your health had a CIBIL-like score? A Hyderabad startup is building it for a decade",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/05/health-cibil-score-this-hyderabad-startup-ekincare-been-building-decade",
+      "tag": "Technology",
+      "publishedAt": "2026-05-12T01:40:00.000Z",
+      "summary": "ekincare's decade-long bet on structured health data is becoming the backbone of corporate healthcare in India, and the implications go far beyond employee wellness.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-daybreak-is-openai-s-response-to-anthropic-s-cla-67e840253b",
+      "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative",
+      "tag": "Technology",
+      "publishedAt": "2026-05-12T01:07:37.000Z",
+      "summary": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-riding-an-ai-rally-robinhood-preps-second-retail-ce66526321",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo",
+      "tag": "Technology",
+      "publishedAt": "2026-05-12T00:09:01.000Z",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ilya-sutskever-stands-by-his-role-in-sam-altman--f86f9c482f",
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial",
+      "tag": "Technology",
+      "publishedAt": "2026-05-11T23:51:35.000Z",
+      "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-not-so-dusty-how-tech-is-changing-woodworking-7588837b3d",
       "title": "Not so dusty: How tech is changing woodworking",
@@ -23,26 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gm-just-laid-off-hundreds-of-it-workers-to-hire--164dd2c05e",
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T23:04:10.000Z",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-astronomers-use-the-webb-telescope-to-improve-ou-9128918dec",
-      "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T22:54:56.000Z",
-      "summary": "Adding significantly more detail means better future investigations into the universe's past.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-linux-bitten-by-second-severe-vulnerability-in-a-97fc942150",
       "title": "Linux bitten by second severe vulnerability in as many weeks",
       "source": "Ars Technica",
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-testing-for-bad-cholesterol-doesn-t-tell-the-who-b8a8a5b2cd",
-      "title": "Testing for ‘Bad Cholesterol’ Doesn’t Tell the Whole Story",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T18:40:37.000Z",
-      "summary": "There’s a more accurate way of measuring who’s at risk for cholesterol-related health issues. So why don’t more doctors use it?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-gta-6-third-trailer-rumours-gather-steam-after-s-3ff3557ef4",
       "title": "GTA 6 Third Trailer Rumours Gather Steam After Sony Asks PS4 Users to Upgrade to PS5 Ahead of Launch",
       "source": "Gadgets 360",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-11T14:29:39.000Z",
       "summary": "Sony is reportedly sendind emails to PS4 users suggesting them to upgrade to PS5 if they wish to play GTA 6. Several users who had GTA 6 on their wishlists or have played GTA 5...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cashkaro-registers-72-rise-in-revenues-for-fy26--dd5eb8d2a3",
-      "title": "CashKaro registers 72% rise in revenues for FY26, EBITDA losses down 40%",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/cashkaro-registers-72-rise-in-revenues-for-fy26-ebitda-down-40",
-      "tag": "Technology",
-      "publishedAt": "2026-05-11T13:58:13.000Z",
-      "summary": "CashKaro reported a revenue of Rs 600 crore and lower EBITDA losses has set the company on path to profitability.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-yarbo-says-it-will-remove-the-intentional-backdo-cdbfea1b37",
-      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+      "id": "tech-gm-just-laid-off-hundreds-of-it-workers-to-hire--164dd2c05e",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T22:40:20.000Z",
-      "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors rep...",
+      "publishedAt": "2026-05-11T23:04:10.000Z",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-here-s-what-mira-murati-s-ai-company-is-up-to-8cc72289de",
-      "title": "Here’s what Mira Murati’s AI company is up to",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "id": "tech-astronomers-use-the-webb-telescope-to-improve-ou-9128918dec",
+      "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web",
       "tag": "Technology",
-      "publishedAt": "2026-05-11T22:19:15.000Z",
-      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interact...",
+      "publishedAt": "2026-05-11T22:54:56.000Z",
+      "summary": "Adding significantly more detail means better future investigations into the universe's past.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
