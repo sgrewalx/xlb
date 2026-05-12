@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T06:45:35.275Z",
+  "updatedAt": "2026-05-12T06:18:55.547Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-05-11T06:37:26.830Z",
-      "summary": "USGS reported 435 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 101 km SSE of Hihifo, Tonga.",
+      "startsAt": "2026-05-12T05:54:00.511Z",
+      "summary": "USGS reported 263 earthquake events in the last 24 hours. Strongest reported event: M5.2 near 72 km NW of Malango, Solomon Islands.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,12 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-05-11T06:45:35.275Z",
+      "updatedAt": "2026-05-12T06:18:55.547Z",
       "importance": 81,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-tamil-nadu-trisha-krishnan-seen-holding-her-tear-0b214eddfb",
-        "video-wfh-save-petrol-pm-modi-calls-for-covid-era-like-06cf00adf3",
-        "video-never-envisaged-france-prez-macron-rules-out-mil-aa5f74fe26"
+        "video-who-boss-dr-tedros-ghebreyesus-speaks-about-hant-aa15e811ac",
+        "video-seven-confirmed-cases-of-hantavirus-and-two-susp-8f6592475d"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -58,13 +57,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-11T06:45:35.275Z",
+      "updatedAt": "2026-05-12T06:18:55.547Z",
       "importance": 72,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
       "relatedVideoIds": [
-        "video-energizer-launches-coin-battery-aimed-at-reducin-a14d41bc8a",
-        "video-russia-ukraine-war-live-ukraine-launches-massive-5b7323a5b7",
-        "video-us-iran-war-live-us-launches-strikes-on-iran-lin-78c70cc373"
+        "video-spacex-launch-live-falcon-9-rocket-launches-nrol-9becfe5855"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -83,8 +80,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-05-11T06:42:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-05-12T06:15:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -95,13 +92,12 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-05-11T06:45:35.275Z",
+      "updatedAt": "2026-05-12T06:18:55.547Z",
       "importance": 77,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-tamil-nadu-trisha-krishnan-seen-holding-her-tear-0b214eddfb",
-        "video-wfh-save-petrol-pm-modi-calls-for-covid-era-like-06cf00adf3",
-        "video-never-envisaged-france-prez-macron-rules-out-mil-aa5f74fe26"
+        "video-who-boss-dr-tedros-ghebreyesus-speaks-about-hant-aa15e811ac",
+        "video-seven-confirmed-cases-of-hantavirus-and-two-susp-8f6592475d"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -132,7 +128,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-11T06:45:35.275Z",
+      "updatedAt": "2026-05-12T06:18:55.547Z",
       "importance": 78,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -152,7 +148,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-05-11T06:45:34.923Z",
+      "startsAt": "2026-05-12T06:18:51.347Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -164,13 +160,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-11T06:45:35.275Z",
+      "updatedAt": "2026-05-12T06:18:55.547Z",
       "importance": 67,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-energizer-launches-coin-battery-aimed-at-reducin-a14d41bc8a",
-        "video-russia-ukraine-war-live-ukraine-launches-massive-5b7323a5b7",
-        "video-us-iran-war-live-us-launches-strikes-on-iran-lin-78c70cc373"
+        "video-spacex-launch-live-falcon-9-rocket-launches-nrol-9becfe5855"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -189,7 +183,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-05-11T06:45:34.923Z",
+      "startsAt": "2026-05-12T06:18:51.347Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -201,13 +195,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-11T06:45:35.275Z",
+      "updatedAt": "2026-05-12T06:18:55.547Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-energizer-launches-coin-battery-aimed-at-reducin-a14d41bc8a",
-        "video-russia-ukraine-war-live-ukraine-launches-massive-5b7323a5b7",
-        "video-us-iran-war-live-us-launches-strikes-on-iran-lin-78c70cc373"
+        "video-spacex-launch-live-falcon-9-rocket-launches-nrol-9becfe5855"
       ],
       "relatedGameIds": [
         "headline-match",

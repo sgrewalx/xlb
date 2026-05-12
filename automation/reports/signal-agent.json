@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-11T06:45:35.449Z",
-  "snapshotFile": "merged-2026-05-11.json",
-  "capturedAt": "2026-05-11T06:00:00.000Z",
+  "updatedAt": "2026-05-12T06:18:55.817Z",
+  "snapshotFile": "merged-2026-05-12.json",
+  "capturedAt": "2026-05-12T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -52,7 +52,7 @@
     {
       "path": "/news",
       "pageviews": 20,
-      "searchImpressions": 4,
+      "searchImpressions": 5,
       "engagementScore": 97,
       "returnVisitors": 12,
       "videoStarts": 0,
