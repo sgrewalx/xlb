@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T06:18:55.817Z",
+  "updatedAt": "2026-05-13T06:30:18.605Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -8,9 +8,31 @@
       "summary": "USGS Earthquake Hazards Program keeps this topic current with source-backed global quake monitoring and rapid revisit value when seismic activity spikes.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 96,
+      "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-05-12T06:18:55.817Z"
+      "updatedAt": "2026-05-13T06:30:18.605Z"
+    },
+    {
+      "slug": "space-weather",
+      "title": "Space Weather",
+      "category": "space",
+      "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 82,
+      "recommendation": "hold",
+      "updatedAt": "2026-05-13T06:30:18.605Z"
+    },
+    {
+      "slug": "nasa",
+      "title": "NASA",
+      "category": "space",
+      "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 77,
+      "recommendation": "hold",
+      "updatedAt": "2026-05-13T06:30:18.605Z"
     },
     {
       "slug": "launches",
@@ -21,29 +43,7 @@
       "promotedEventCount": 3,
       "bestScore": 78,
       "recommendation": "hold",
-      "updatedAt": "2026-05-12T06:18:55.817Z"
-    },
-    {
-      "slug": "space-weather",
-      "title": "Space Weather",
-      "category": "space",
-      "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
-      "eventCount": 1,
-      "promotedEventCount": 1,
-      "bestScore": 95,
-      "recommendation": "hold",
-      "updatedAt": "2026-05-12T06:18:55.817Z"
-    },
-    {
-      "slug": "nasa",
-      "title": "NASA",
-      "category": "space",
-      "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
-      "eventCount": 1,
-      "promotedEventCount": 1,
-      "bestScore": 90,
-      "recommendation": "hold",
-      "updatedAt": "2026-05-12T06:18:55.817Z"
+      "updatedAt": "2026-05-13T06:30:18.605Z"
     }
   ]
 }

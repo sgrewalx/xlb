@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T06:18:55.817Z",
+  "updatedAt": "2026-05-13T06:30:18.605Z",
   "surfaces": {
     "home": [
       {
@@ -26,213 +26,696 @@
     ],
     "video": [
       {
-        "id": "video-democrats-pledge-to-fight-republicans-1b-white-h-6d4a94a683",
+        "id": "video-hapur-cctv-viralvideo-theft-upnews-zomatodeliver-ec6862c78e",
         "rank": 1,
-        "retentionScore": 97,
-        "freshnessScore": 93,
+        "retentionScore": 96,
+        "freshnessScore": 90,
         "relatedPath": "/news"
       },
       {
-        "id": "video-comedian-david-baddiel-feels-sorry-for-keir-star-3c6e32d5e3",
+        "id": "video-stephen-colbert-counts-down-to-his-late-show-far-cf0a1b237f",
         "rank": 2,
+        "retentionScore": 96,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-man-accused-of-stealing-beyonc-s-unreleased-musi-fe01f30857",
+        "rank": 3,
+        "retentionScore": 96,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watch-trump-asked-about-dr-marty-makary-s-resign-4267365ba3",
+        "rank": 4,
+        "retentionScore": 96,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-to-undergo-medical-checkup-as-scrutiny-ove-76d7b2c608",
+        "rank": 5,
+        "retentionScore": 95,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-bbc-journalist-discovers-his-dna-matches-skeleto-30fe0b6119",
+        "rank": 6,
         "retentionScore": 95,
         "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-ukraine-s-lel-ka-connects-with-fans-ahead-of-eur-60bad4b9a5",
-        "rank": 3,
-        "retentionScore": 93,
-        "freshnessScore": 92,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-ziggy-marley-says-following-his-father-s-legacy--f4ad744a7c",
-        "rank": 4,
-        "retentionScore": 89,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-culture-sec-backs-burnham-s-westminster-return-60f4d783c9",
-        "rank": 5,
-        "retentionScore": 89,
-        "freshnessScore": 82,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-why-many-adopted-kids-end-up-in-residential-trea-00eb7aea42",
-        "rank": 6,
-        "retentionScore": 86,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-starmer-under-pressure-72-labour-mps-call-for-st-adecf2b4cb",
+        "id": "video-watch-trump-s-advice-for-starmer-32bfc57a3a",
         "rank": 7,
-        "retentionScore": 81,
-        "freshnessScore": 92,
+        "retentionScore": 95,
+        "freshnessScore": 87,
         "relatedPath": "/news"
       },
       {
-        "id": "video-macron-joins-two-time-olympic-champion-eliud-kip-7743a6b853",
+        "id": "video-russia-tests-new-nuclear-missile-putin-calls-the-527f960437",
         "rank": 8,
-        "retentionScore": 79,
-        "freshnessScore": 96,
+        "retentionScore": 95,
+        "freshnessScore": 87,
         "relatedPath": "/news"
       },
       {
-        "id": "video-spacex-launch-live-falcon-9-rocket-launches-nrol-9becfe5855",
+        "id": "video-emmanuel-macron-wants-dialogue-with-rwanda-and-d-1388bcb55a",
         "rank": 9,
-        "retentionScore": 78,
-        "freshnessScore": 95,
-        "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
+        "retentionScore": 95,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
       },
       {
-        "id": "video-hantavirus-patients-arrive-at-emory-university-h-b8204cc9b4",
+        "id": "video-iran-s-irgc-declares-full-combat-readiness-after-ad71f5d236",
         "rank": 10,
-        "retentionScore": 78,
-        "freshnessScore": 94,
+        "retentionScore": 95,
+        "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-72-labour-mps-call-for-starmer-to-resign-the-wra-31ee4144e7",
+        "id": "video-french-police-warn-drivers-to-be-on-the-lookout--06948c39fc",
         "rank": 11,
+        "retentionScore": 93,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-calls-reporter-dumb-person-when-asked-abou-86ed7239f8",
+        "rank": 12,
+        "retentionScore": 93,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-varun-dhawan-varundhawan-shorts-viral-shorts-sho-46ea65857f",
+        "rank": 13,
+        "retentionScore": 92,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-what-do-people-want-from-wales-s-new-first-minis-ed7baad507",
+        "rank": 14,
+        "retentionScore": 92,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-emmanuel-macron-s-speaks-about-france-s-policies-158a4ec1ee",
+        "rank": 15,
+        "retentionScore": 92,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-if-you-want-to-do-that-then-you-re-a-stupi-5fd12bf57e",
+        "rank": 16,
+        "retentionScore": 92,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-russia-says-sarmat-nuclear-missile-to-enter-comb-6d5f08d157",
+        "rank": 17,
+        "retentionScore": 92,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-cannes-2026-opens-with-red-carpet-23c5032917",
+        "rank": 18,
+        "retentionScore": 91,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-hapur-cctv-viralvideo-theft-up-zomatodeliveryboy-f2c855d667",
+        "rank": 19,
+        "retentionScore": 89,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-an-oregon-police-officer-resigns-after-bodycam-v-1ebdf57dee",
+        "rank": 20,
+        "retentionScore": 89,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-venice-gondolier-shows-off-soccer-skills-in-cana-7e5511a4ec",
+        "rank": 21,
+        "retentionScore": 88,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-details-kuwait-stops-iranian-attack-on-island-fo-dbf40a51d7",
+        "rank": 22,
+        "retentionScore": 88,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-tom-costello-explains-how-he-pulled-a-person-out-b071b78c98",
+        "rank": 23,
+        "retentionScore": 87,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-cbs-news-radio-flashback-lbj-calls-for-equal-vot-95fafdbf04",
+        "rank": 24,
+        "retentionScore": 87,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-sunny-hinduja-entertainment-shorts-ytshorts-aajt-41da8f3b36",
+        "rank": 25,
+        "retentionScore": 85,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-ucf-graduation-speaker-met-with-boos-amid-remark-b4b7503928",
+        "rank": 26,
+        "retentionScore": 85,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-sen-graham-says-he-doesn-t-trust-pakistan-as-ira-ee537c9149",
+        "rank": 27,
+        "retentionScore": 85,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-protesters-dragged-out-of-pentagon-budget-hearin-4f65d21130",
+        "rank": 28,
+        "retentionScore": 85,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-cctv-video-viral-hapur-cctv-viralvideo-theft-upn-aa6b8b0e11",
+        "rank": 29,
+        "retentionScore": 84,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-viral-video-scorpio-viralvideo-shortsvideo-ed1fcde981",
+        "rank": 30,
+        "retentionScore": 84,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-shortsvideo-viralvideo-shockingnews-firenews-ban-bbc7d58e33",
+        "rank": 31,
+        "retentionScore": 84,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-president-trump-comments-on-americans-financial--d142af1f63",
+        "rank": 32,
+        "retentionScore": 84,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-cnn-poll-americans-are-changing-how-they-live-as-f35a3626a5",
+        "rank": 33,
+        "retentionScore": 84,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-cnn-poll-sounds-alarm-bells-for-trump-on-the-eco-2f5a73e7d1",
+        "rank": 34,
+        "retentionScore": 84,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-i-don-t-think-about-americans-financial-si-5b6b65be86",
+        "rank": 35,
+        "retentionScore": 84,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-james-comey-says-he-will-stand-up-and-defend-him-f56e734f99",
+        "rank": 36,
+        "retentionScore": 84,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-health-officials-monitoring-americans-from-hanta-5a350dd1b1",
+        "rank": 37,
+        "retentionScore": 84,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-we-have-to-choose-the-right-person-to-be-prime-m-0b18944f06",
+        "rank": 38,
+        "retentionScore": 84,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-ukraine-regains-momentum-as-russia-suffers-battl-5487a8b71e",
+        "rank": 39,
+        "retentionScore": 84,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-how-pete-hegseth-is-justifying-the-1-5-trillion--ca90fa0b04",
+        "rank": 40,
+        "retentionScore": 81,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-says-he-and-xi-will-have-a-long-talk-about-43a83f5192",
+        "rank": 41,
+        "retentionScore": 80,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-meet-the-press-now-may-12-ffff5dfed9",
+        "rank": 42,
+        "retentionScore": 80,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-us-defends-cost-of-war-as-iran-threatens-to-enri-1bc69c5288",
+        "rank": 43,
+        "retentionScore": 80,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-which-labour-mps-want-starmer-to-quit-sam-coates-0be41c3f61",
+        "rank": 44,
+        "retentionScore": 80,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-peter-jackson-honoured-demi-moore-on-ai-inside-c-1a29a7ea5b",
+        "rank": 45,
+        "retentionScore": 80,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-how-uss-abraham-lincoln-uses-water-brakes-to-sto-1e519029db",
+        "rank": 46,
+        "retentionScore": 80,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-british-pm-starmer-vows-to-stay-but-the-revolt-w-6d7ba40707",
+        "rank": 47,
+        "retentionScore": 79,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-patel-denies-alleged-excessive-drinking-in-senat-0efbdfbd86",
+        "rank": 48,
         "retentionScore": 78,
         "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-indiana-hoosiers-gift-trump-a-football-jersey-du-f58d3621aa",
-        "rank": 12,
+        "id": "video-cannes-2026-full-highlights-from-the-cannes-film-6299d80a86",
+        "rank": 49,
         "retentionScore": 77,
-        "freshnessScore": 92,
+        "freshnessScore": 89,
         "relatedPath": "/news"
       },
       {
-        "id": "video-ziggy-marley-looks-to-the-brightside-ap-intervie-77b7cb5287",
-        "rank": 13,
-        "retentionScore": 76,
-        "freshnessScore": 91,
+        "id": "video-defunding-planned-parenthood-is-politically-toxi-69ec857564",
+        "rank": 50,
+        "retentionScore": 77,
+        "freshnessScore": 90,
         "relatedPath": "/news"
       },
       {
-        "id": "video-israeli-settlers-force-palestinian-family-to-dig-3bba05a9fe",
-        "rank": 14,
+        "id": "video-can-keir-starmer-fight-off-the-pressure-to-resig-f2717447d7",
+        "rank": 51,
+        "retentionScore": 77,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-streeting-to-meet-starmer-as-labour-mps-debate-p-a3cd63e674",
+        "rank": 52,
+        "retentionScore": 77,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-could-choose-to-change-taiwan-policy-in-be-86e9f54be2",
+        "rank": 53,
+        "retentionScore": 77,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-world-cup-final-turns-ultra-luxury-with-32k-fifa-067062bdb6",
+        "rank": 54,
+        "retentionScore": 77,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-scotus-voting-rights-ruling-ignores-over-100-yea-b00a80f69a",
+        "rank": 55,
         "retentionScore": 76,
         "freshnessScore": 90,
         "relatedPath": "/news"
       },
       {
-        "id": "video-pediatrics-group-issues-new-guidance-on-recess-f-e932c8914d",
-        "rank": 15,
-        "retentionScore": 76,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-live-trump-hosts-indiana-football-at-the-white-h-7797a29746",
-        "rank": 16,
-        "retentionScore": 76,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-resignations-from-government-as-pressure-builds--1677f95426",
-        "rank": 17,
+        "id": "video-pentagon-considers-re-naming-combat-operations-i-751fefa750",
+        "rank": 56,
         "retentionScore": 76,
         "freshnessScore": 90,
         "relatedPath": "/news"
       },
       {
-        "id": "video-number-of-labour-mps-calling-for-starmer-to-resi-73b0da17cd",
-        "rank": 18,
+        "id": "video-grandparents-advocate-for-vaccination-by-sharing-7411cf09a4",
+        "rank": 57,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-how-many-hantavirus-cases-are-in-the-u-s-other-t-78f493c48e",
+        "rank": 58,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-white-house-invites-u-s-business-titans-to-trump-ebb41d5787",
+        "rank": 59,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-latest-details-on-musk-openai-court-battle-as-sa-0113b57821",
+        "rank": 60,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-where-the-hantavirus-cruise-ship-outbreak-stands-b1e4adc69c",
+        "rank": 61,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-says-he-doesn-t-think-about-americans-fina-89a27a5dce",
+        "rank": 62,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-energy-cost-spike-from-iran-war-sends-inflation--da0c0c2297",
+        "rank": 63,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-downplays-iran-war-s-role-in-upcoming-xi-s-f1849ffc2a",
+        "rank": 64,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-california-mayor-charged-with-acting-as-illegal--5cc948e06f",
+        "rank": 65,
         "retentionScore": 76,
         "freshnessScore": 89,
         "relatedPath": "/news"
       },
       {
-        "id": "video-donald-trump-meets-indiana-hoosiers-college-foot-838798dd65",
-        "rank": 19,
+        "id": "video-breaking-down-the-inflation-report-and-what-it-m-5a4f0184ec",
+        "rank": 66,
         "retentionScore": 76,
         "freshnessScore": 89,
         "relatedPath": "/news"
       },
       {
-        "id": "video-rfk-jr-says-we-re-not-worried-about-hantavirus-06b3980842",
-        "rank": 20,
+        "id": "video-hayden-panettiere-opens-up-about-decision-to-giv-2680fd42e6",
+        "rank": 67,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-hantavirus-latest-how-easy-is-it-to-get-hantavir-0d82bbeb09",
+        "rank": 68,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-xi-summit-expected-to-focus-heavily-on-tra-b5c0c058cc",
+        "rank": 69,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-sam-altman-testifies-in-elon-musk-openai-trial-c2c60c8565",
+        "rank": 70,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-11-hantavirus-cases-now-tied-to-cruise-ship-incl-4976030013",
+        "rank": 71,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watch-fbi-director-kash-patel-clashes-with-dem-s-e7598803df",
+        "rank": 72,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-the-five-on-the-trump-derangement-syndrome-party-7c6e3f8620",
+        "rank": 73,
+        "retentionScore": 76,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-just-in-dhs-sec-mullin-blames-governor-for-alleg-70579d899c",
+        "rank": 74,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-us-vs-iran-faceoff-in-hormuz-live-iran-and-us-tr-464602b0e2",
+        "rank": 75,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-us-iran-war-live-tehran-issues-strong-military-w-a2cc5ca2d2",
+        "rank": 76,
+        "retentionScore": 76,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-live-kash-patel-testifies-before-the-senate-appr-f356b72a79",
+        "rank": 77,
         "retentionScore": 75,
         "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-man-charged-in-white-house-correspondents-dinner-526abeb6d5",
-        "rank": 21,
+        "id": "video-trump-says-marty-makary-is-out-as-fda-head-he-wa-44577dd638",
+        "rank": 78,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-live-fbi-director-patel-and-law-enforcement-offi-d396f90369",
+        "rank": 79,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watch-van-hollen-and-patel-spar-over-fbi-firings-e4d6cb8ecf",
+        "rank": 80,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-kash-patel-testifies-before-senate-full-video-88d141c052",
+        "rank": 81,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-arrives-in-china-weakened-by-iran-stalemat-f0b31805e4",
+        "rank": 82,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-is-this-the-beginning-of-the-end-for-keir-starme-d09331cac3",
+        "rank": 83,
         "retentionScore": 75,
         "freshnessScore": 87,
         "relatedPath": "/news"
       },
       {
-        "id": "video-pushing-keir-starmer-out-from-number-10-is-more--ed8c453ba9",
-        "rank": 22,
+        "id": "video-deals-and-new-partnerships-at-africa-france-summ-a4e87fadce",
+        "rank": 84,
         "retentionScore": 75,
         "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-kevin-hart-says-there-s-only-one-me-i-can-t-be-d-1cad85d94e",
-        "rank": 23,
-        "retentionScore": 74,
-        "freshnessScore": 86,
+        "id": "video-covid-era-conspiracy-theories-accuse-bill-gates--faeb02bbed",
+        "rank": 85,
+        "retentionScore": 75,
+        "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-israel-s-participation-in-eurovision-continues-t-b95bc5777d",
-        "rank": 24,
-        "retentionScore": 74,
-        "freshnessScore": 86,
+        "id": "video-japanese-crisp-bags-turn-black-and-white-due-to--0300f1c04c",
+        "rank": 86,
+        "retentionScore": 75,
+        "freshnessScore": 87,
         "relatedPath": "/news"
       },
       {
-        "id": "video-who-boss-dr-tedros-ghebreyesus-speaks-about-hant-aa15e811ac",
-        "rank": 25,
-        "retentionScore": 74,
-        "freshnessScore": 86,
+        "id": "video-replay-macron-speaks-to-france-24-as-africa-forw-9f83cbbc31",
+        "rank": 87,
+        "retentionScore": 75,
+        "freshnessScore": 87,
         "relatedPath": "/news"
       },
       {
-        "id": "video-how-are-ships-passing-through-the-strait-of-horm-62c5593cab",
-        "rank": 26,
-        "retentionScore": 74,
-        "freshnessScore": 85,
+        "id": "video-high-alert-democrat-s-guilty-plea-sparks-sharp-w-b089eb9888",
+        "rank": 88,
+        "retentionScore": 75,
+        "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-when-superpowers-collide-trump-meets-xi-8ddfb0e913",
-        "rank": 27,
-        "retentionScore": 73,
-        "freshnessScore": 84,
+        "id": "video-patel-under-fire-on-capitol-hill-over-fbi-fundin-200cd77e00",
+        "rank": 89,
+        "retentionScore": 75,
+        "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-iran-ceasefire-on-life-support-says-donald-trump-b7afc5165e",
-        "rank": 28,
-        "retentionScore": 73,
-        "freshnessScore": 83,
+        "id": "video-breaking-trump-predicts-outcome-of-high-stakes-m-071e169525",
+        "rank": 90,
+        "retentionScore": 75,
+        "freshnessScore": 87,
         "relatedPath": "/news"
       },
       {
-        "id": "video-hantavirus-cruise-passengers-all-test-negative-a-2256350614",
-        "rank": 29,
-        "retentionScore": 73,
-        "freshnessScore": 82,
+        "id": "video-us-iran-war-live-satellite-images-expose-hidden--d43f66a614",
+        "rank": 91,
+        "retentionScore": 75,
+        "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-seven-confirmed-cases-of-hantavirus-and-two-susp-8f6592475d",
-        "rank": 30,
-        "retentionScore": 73,
-        "freshnessScore": 82,
+        "id": "video-apollo-17-astronaut-s-strange-lunar-flash-encoun-8522b0e0a3",
+        "rank": 92,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-africa-fires-scientists-warn-conditions-to-worse-2a258fb1bb",
+        "rank": 93,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-how-a-simple-saree-became-part-of-space-history--691e37bca0",
+        "rank": 94,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/topics/space-weather"
+      },
+      {
+        "id": "video-ukraine-expands-anti-corruption-drive-as-zelensk-79079e93c9",
+        "rank": 95,
+        "retentionScore": 75,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-hegseth-faces-tough-questions-over-pak-trump-due-2b182303d1",
+        "rank": 96,
+        "retentionScore": 75,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-all-eyes-on-trump-xi-high-stakes-meeting-wion-pr-22df338dc1",
+        "rank": 97,
+        "retentionScore": 75,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-ralph-lauren-designs-historic-usps-stamp-collect-ae65c955b4",
+        "rank": 98,
+        "retentionScore": 75,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-declassified-fbi-ufo-files-reveal-mysterious-fou-16d2ec47db",
+        "rank": 99,
+        "retentionScore": 75,
+        "freshnessScore": 87,
         "relatedPath": "/news"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T06:18:55.817Z",
+  "updatedAt": "2026-05-13T06:30:18.605Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 263 earthquake events in the last 24 hours. Strongest reported event: M5.2 near 72 km NW of Malango, Solomon Islands.",
+          "summary": "USGS reported 254 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 275 km SW of Houma, Tonga.",
           "metricLabel": "Updated",
-          "metricValue": "May 12, 06:18 AM",
+          "metricValue": "May 13, 06:30 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -24,7 +24,7 @@
           "title": "Earth live rail",
           "summary": "See how earthquake monitoring sits inside the broader earth-event surface.",
           "metricLabel": "Live pages",
-          "metricValue": "21",
+          "metricValue": "10",
           "href": "/live/earth",
           "accent": "signal"
         },
@@ -50,9 +50,9 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
-          "metricValue": "6",
+          "metricValue": "0",
           "href": "/events/aurora-watch",
           "accent": "space"
         },
@@ -61,7 +61,7 @@
           "title": "Space live rail",
           "summary": "Browse the related launch and space-weather inventory.",
           "metricLabel": "Space views",
-          "metricValue": "28",
+          "metricValue": "10",
           "href": "/live/space",
           "accent": "signal"
         },
@@ -70,7 +70,7 @@
           "title": "Space weather topic",
           "summary": "Crawlable topic route connected to the event page and homepage modules.",
           "metricLabel": "Best score",
-          "metricValue": "95",
+          "metricValue": "82",
           "href": "/topics/space-weather",
           "accent": "space"
         }
@@ -89,7 +89,7 @@
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
-          "metricValue": "50d 5h",
+          "metricValue": "49d 5h",
           "href": "/events/clps-flight-astrobotic-griffin-1",
           "accent": "space"
         },
@@ -103,12 +103,12 @@
           "accent": "space"
         },
         {
-          "id": "space-launch-roscosmos-progress-96",
-          "title": "Roscosmos Progress 96",
-          "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "id": "space-launch-today-6-50-pm-nasa-s-spacex-crs-34",
+          "title": "Today 6:50 pm NASA’s SpaceX CRS-34",
+          "summary": "Today 6:50 pm NASA’s SpaceX CRS-34 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
           "metricValue": "Starting",
-          "href": "/events/roscosmos-progress-96",
+          "href": "/events/today-6-50-pm-nasa-s-spacex-crs-34",
           "accent": "space"
         }
       ]
@@ -126,7 +126,7 @@
           "title": "Earthquakes",
           "summary": "USGS Earthquake Hazards Program keeps this topic current with source-backed global quake monitoring and rapid revisit value when seismic activity spikes.",
           "metricLabel": "Best score",
-          "metricValue": "96",
+          "metricValue": "82",
           "href": "/topics/earthquakes",
           "accent": "signal"
         },
@@ -140,12 +140,12 @@
           "accent": "space"
         },
         {
-          "id": "nasa",
-          "title": "NASA",
-          "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
+          "id": "launches",
+          "title": "Launches",
+          "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
           "metricLabel": "Event count",
-          "metricValue": "1",
-          "href": "/topics/nasa",
+          "metricValue": "3",
+          "href": "/topics/launches",
           "accent": "signal"
         }
       ]
