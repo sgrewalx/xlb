@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-05-14T02:12:31.221Z",
+  "updatedAt": "2026-05-14T06:15:51.710Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-celebs-building-brands-zoho-invests-rs-70-cr-in--7eaba6f370",
-      "title": "Celebs building brands; Zoho invests Rs 70 Cr in ONDC",
+      "id": "tech-who-decides-what-ai-tells-you-campbell-brown-onc-96363fe3a7",
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts",
+      "tag": "Technology",
+      "publishedAt": "2026-05-14T06:05:31.000Z",
+      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-numero-ai-acquires-royu-in-cash-and-stock-deal-c0aa8099f2",
+      "title": "Numero AI acquires Royu in cash-and-stock deal",
       "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/celebs-building-brands-kriti-sanon",
+      "url": "https://yourstory.com/2026/05/numero-ai-acquires-royu-in-cash-cum-stock-deal",
       "tag": "Technology",
-      "publishedAt": "2026-05-14T02:00:00.000Z",
-      "summary": "In 2022, actor Kriti Sanon became an entrepreneur with her fitness startup, The Tribe. In 2023, she ventured into the skincare industry with D2C brand Hyphen, in partnership wit...",
+      "publishedAt": "2026-05-14T05:40:29.000Z",
+      "summary": "The combined entity will be building agentic platform for the finance and controller functions in enterprises with goal of shifting tasks from manual to automated.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-big-tech-is-betting-on-cute-mascots-70a0cc03e4",
-      "title": "Why big tech is betting on cute mascots",
+      "id": "tech-linkedin-planning-to-lay-off-5-of-staff-in-lates-99405bf0de",
+      "title": "LinkedIn planning to lay off 5% of staff in latest tech-sector cuts, source says",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/linkedin-planning-to-lay-off-5-of-staff-in-latest-tech-sector-cuts-source-says/article70976835.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-05-14T05:33:30.000Z",
+      "summary": "The ‌cuts come as revenue at LinkedIn, which sells recruiting tools and subscriptions, rose 12% in the just-ended quarter from a year prior",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-oppo-find-x10-series-could-include-four-models-t-cb8b9e2740",
+      "title": "Oppo Find X10 Series Could Include Four Models, Tipster Leaks Display Sizes",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/oppo-find-x10s-pro-max-ultra-series-display-specifications-features-leak-weibo-11493074",
+      "tag": "Technology",
+      "publishedAt": "2026-05-14T05:27:17.000Z",
+      "summary": "Oppo Find X10, Find X10s Pro, Find X10 Pro, Find X10 Pro Max and Find X10 Ultra models are said to be in the works. A new leak has suggested the display details of the upcoming...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hmrc-to-use-ai-from-british-tech-firm-to-spot-fr-4b67094999",
+      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
       "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-05-13T23:08:37.000Z",
-      "summary": "The likes of Apple, Microsoft and Google are all putting cartoon characters centre stage.",
+      "publishedAt": "2026-05-14T05:10:45.000Z",
+      "summary": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-kitchenaid-launches-its-first-smart-thermometer-660999924b",
-      "title": "KitchenAid launches its first smart thermometer",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2172500/kitchenaid-launches-its-first-smart-thermometer",
+      "id": "tech-we-vibe-discount-codes-and-deals-up-to-60-off-0f74b5831d",
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/we-vibe-discount-code",
       "tag": "Technology",
-      "publishedAt": "2026-05-13T22:22:37.000Z",
-      "summary": "There are single and dual probe models available.",
+      "publishedAt": "2026-05-14T05:00:00.000Z",
+      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-is-retiring-copilot-mode-on-edge-becau-68ae7a8524",
+      "title": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile",
+      "tag": "Technology",
+      "publishedAt": "2026-05-14T03:57:54.000Z",
+      "summary": "Copilot features are now available on Edge for mobile.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -43,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-everyone-at-the-musk-v-altman-trial-is-using-fan-1b618cd365",
-      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial",
-      "tag": "Technology",
-      "publishedAt": "2026-05-13T21:58:47.000Z",
-      "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-solar-drone-with-jumbo-jet-wingspan-broke-a-flig-583560e9c5",
       "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
       "source": "Ars Technica",
@@ -60,36 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-13T21:48:27.000Z",
       "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-notion-just-turned-its-workspace-into-a-hub-for--40a3a3956d",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
-      "tag": "Technology",
-      "publishedAt": "2026-05-13T21:45:09.000Z",
-      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic prod...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-sun-erupts-with-powerful-solar-flare-sending-pla-c09f747d77",
-      "title": "Sun Erupts with Powerful Solar Flare, Sending Plasma Toward Earth",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/powerful-m5-7-solar-flare-triggers-radio-blackouts-on-earth-11483174",
-      "tag": "Technology",
-      "publishedAt": "2026-05-13T15:15:19.000Z",
-      "summary": "The Sun unleashed an M5.7-class Solar Flare on May 10, 2026, disrupting high-frequency radio communications and launching a coronal mass ejection toward Earth. Scientists predic...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-oppo-find-x9-ultra-and-find-x9s-launching-on-may-37391f3c09",
-      "title": "Oppo Find X9 Ultra and Find X9s launching on May 21 in India",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-find-x9-ultra-and-find-x9s-launching-on-may-21-in-india/article70973362.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-05-13T08:29:27.000Z",
-      "summary": "Oppo Find X9 Ultra will run on the Qualcomm Snapdragon 8 Elite Gen 5 processor",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-administration-defends-right-to-ban-conten-47815fe439",
-      "title": "Trump administration defends right to ban content moderation experts from US",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+      "id": "tech-what-is-the-openai-criminal-investigation-about--cf32aa95f5",
+      "title": "What is the OpenAI criminal investigation about? | Explained",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/what-is-the-openai-criminal-investigation-about-explained/article70976866.ece",
       "tag": "Technology",
-      "publishedAt": "2026-05-13T21:58:44.000Z",
-      "summary": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard argum...",
+      "publishedAt": "2026-05-14T05:30:06.000Z",
+      "summary": "Two mass shootings — one in the U.S. and one in Canada — have brought to light the use of OpenAI’s ChatGPT in public killings",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-youtube-is-courting-creators-and-sponsors-with-s-2b9cc1706c",
-      "title": "YouTube is courting creators — and sponsors — with streaming shows",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+      "id": "tech-clio-s-500m-milestone-arrives-just-as-anthropic--d111fcb3d9",
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
       "tag": "Technology",
-      "publishedAt": "2026-05-13T21:30:00.000Z",
-      "summary": "In the ongoing fight for content and talent, YouTube is pitching itself as the connector between the creators and advertisers - and marketing its creators not just as the future...",
+      "publishedAt": "2026-05-14T05:24:39.000Z",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
