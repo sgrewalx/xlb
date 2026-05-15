@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-14T06:28:51.088Z",
-  "sourceSnapshot": "2026-05-14T06:00:00.000Z",
+  "updatedAt": "2026-05-15T06:37:29.583Z",
+  "sourceSnapshot": "2026-05-15T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -43,6 +43,26 @@
       "notes": "cold-start scoring active; priority 92, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
     },
     {
+      "slug": "nasa-s-spacex-crs-34",
+      "pagePath": "/events/nasa-s-spacex-crs-34",
+      "category": "space",
+      "score": 81,
+      "scoringMode": "cold-start",
+      "coldStartScore": 95,
+      "heuristicScore": 81,
+      "observedScore": 0,
+      "pageviews": 0,
+      "watchClicks": 0,
+      "engagementScore": 0,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "categoryPageviews": 10,
+      "sourceStability": "stable",
+      "recencyBand": "next-7-days",
+      "recommendation": "expand",
+      "notes": "cold-start scoring active; priority 88, rights public-information, cadence scheduled, intent watch-live, status upcoming, coverage link, safe to promote; heuristics starts within 7 days, source stable. Promoted event without a dedicated analytics note yet."
+    },
+    {
       "slug": "clps-flight-astrobotic-griffin-1",
       "pagePath": "/events/clps-flight-astrobotic-griffin-1",
       "category": "space",
@@ -81,26 +101,6 @@
       "recencyBand": "recurring",
       "recommendation": "hold",
       "notes": "cold-start scoring active; priority 90, rights public-information, cadence recurring, intent watch-live, status watch, coverage link, safe to promote; heuristics recurring watch surface. Promoted event without a dedicated analytics note yet."
-    },
-    {
-      "slug": "today-6-50-pm-nasa-s-spacex-crs-34",
-      "pagePath": "/events/today-6-50-pm-nasa-s-spacex-crs-34",
-      "category": "space",
-      "score": 72,
-      "scoringMode": "cold-start",
-      "coldStartScore": 85,
-      "heuristicScore": 41,
-      "observedScore": 0,
-      "pageviews": 0,
-      "watchClicks": 0,
-      "engagementScore": 0,
-      "searchImpressions": 0,
-      "searchCtr": 0,
-      "categoryPageviews": 10,
-      "sourceStability": "stable",
-      "recencyBand": "stale",
-      "recommendation": "hold",
-      "notes": "cold-start scoring active; priority 88, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Promoted event without a dedicated analytics note yet."
     },
     {
       "slug": "nasa-s-spacex-crs-35",

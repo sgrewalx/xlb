@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T06:28:52.249Z",
+  "updatedAt": "2026-05-15T06:37:30.332Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-05-14T06:28:52.249Z"
+      "updatedAt": "2026-05-15T06:37:30.332Z"
     },
     {
       "slug": "space-weather",
@@ -21,7 +21,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-05-14T06:28:52.249Z"
+      "updatedAt": "2026-05-15T06:37:30.332Z"
     },
     {
       "slug": "nasa",
@@ -32,18 +32,18 @@
       "promotedEventCount": 1,
       "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-05-14T06:28:52.249Z"
+      "updatedAt": "2026-05-15T06:37:30.332Z"
     },
     {
       "slug": "launches",
       "title": "Launches",
       "category": "space",
-      "summary": "3 source-backed launch pages are active here, led by NASA’s SpaceX CRS-34 around May 15.",
+      "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
       "eventCount": 3,
       "promotedEventCount": 3,
       "bestScore": 78,
       "recommendation": "hold",
-      "updatedAt": "2026-05-14T06:28:52.249Z"
+      "updatedAt": "2026-05-15T06:37:30.332Z"
     }
   ]
 }

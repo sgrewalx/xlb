@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-14T06:28:50.939Z",
-  "sourceSnapshot": "2026-05-14T06:00:00.000Z",
+  "updatedAt": "2026-05-15T06:37:29.432Z",
+  "sourceSnapshot": "2026-05-15T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -277,13 +277,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-today-6-50-pm-nasa-s-spacex-crs-34",
-      "path": "/events/today-6-50-pm-nasa-s-spacex-crs-34",
+      "id": "traffic-index-watch-events-nasa-s-spacex-crs-34",
+      "path": "/events/nasa-s-spacex-crs-34",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /events/today-6-50-pm-nasa-s-spacex-crs-34",
-      "hypothesis": "/events/today-6-50-pm-nasa-s-spacex-crs-34 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/nasa-s-spacex-crs-34",
+      "hypothesis": "/events/nasa-s-spacex-crs-34 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
