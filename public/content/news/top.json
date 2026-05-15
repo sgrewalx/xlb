@@ -1,35 +1,85 @@
 {
-  "updatedAt": "2026-05-15T11:49:04.497Z",
+  "updatedAt": "2026-05-15T13:47:24.070Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-ucc-to-ensure-justice-for-every-citizen-assam-cm-a3667eb001",
-      "title": "UCC to ensure justice for every citizen: Assam CM Himanta",
+      "id": "news-enter-the-killer-robots-the-ukrainian-forging-th-d98110d539",
+      "title": "Enter the Killer Robots: The Ukrainian Forging the Future of Warfare",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html",
+      "tag": "US",
+      "publishedAt": "2026-05-15T13:41:07.000Z",
+      "summary": "Mykhailo Fedorov, Ukraine’s 35-year-old defense minister, sees futuristic military technology as crucial to his country’s survival.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-says-china-may-release-the-detained-pastor-1f432cadb3",
+      "title": "Trump says China may release the detained pastor but media tycoon Lai ‘is a tough one’",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam/ucc-to-ensure-justice-for-every-citizen-assam-cm-himanta/article70982917.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-15T11:44:39.000Z",
-      "summary": "Assam Chief Minister Himanta Sarma asserted that tribal communities will be kept out of the purview of the UCC to protect their traditions and customs",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-streeting-backs-burnham-for-return-to-westminste-7616b8bdfe",
-      "title": "Streeting backs Burnham for return to Westminster, saying he is Labour’s best chance of winning byelection – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/15/prime-minister-keir-starmer-leadership-contest-wes-streeting-andy-burnham-angela-rayner-latest-news-updates",
+      "url": "https://www.thehindu.com/news/international/trump-says-china-may-release-the-detained-pastor-but-media-tycoon-lai-is-a-tough-one/article70983204.ece",
       "tag": "Europe",
-      "publishedAt": "2026-05-15T11:42:08.000Z",
-      "summary": "The Greater Manchester mayor is hoping to return to parliament after a Labour MP stepped down, triggering a byelection Labour’s deputy leader, Lucy Powell, has backed Andy Burnh...",
+      "publishedAt": "2026-05-15T13:35:34.000Z",
+      "summary": "Media tycoon Lai's case had sparked global concerns over ⁠the national security clampdown in Hong Kong",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-uk-borrowing-costs-rise-and-pound-falls-as-leade-cdc5db48ec",
+      "id": "news-bomb-scare-at-pune-hospital-then-an-online-payme-cf4adcd88e",
+      "title": "'Bomb' Scare At Pune Hospital, Then An Online Payment Led Cops To Suspect",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/pune-hospital-bomb-scare-lacking-treatment-funds-pune-man-plants-bomb-at-hospital-to-extort-money-11500608",
+      "tag": "India",
+      "publishedAt": "2026-05-15T13:35:27.000Z",
+      "summary": "While his plan led to a 1,000-personnel manhunt, an online payment for a roll of adhesive tape became the reason behind Shivaji Rathod's arrest.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-uk-borrowing-costs-rise-and-pound-falls-as-leade-cc3e780f5f",
       "title": "UK borrowing costs rise and pound falls as leadership drama continues",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
       "tag": "US",
-      "publishedAt": "2026-05-15T11:42:02.000Z",
+      "publishedAt": "2026-05-15T13:30:06.000Z",
       "summary": "Analysts say the moves have been fuelled by concerns a Burnham-led government would increase government borrowing.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-streeting-backs-burnham-for-return-to-westminste-e03a95774f",
+      "title": "Streeting backs Burnham for return to Westminster, saying he is Labour’s best chance of winning byelection – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/15/prime-minister-keir-starmer-leadership-contest-wes-streeting-andy-burnham-angela-rayner-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-05-15T13:19:58.000Z",
+      "summary": "The Greater Manchester mayor is hoping to return to parliament after a Labour MP stepped down, triggering a byelection Labour’s deputy leader, Lucy Powell, has backed Andy Burnh...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-philippines-vows-to-hand-fugitive-senator-to-icc-54762ffaf5",
+      "title": "Philippines vows to hand fugitive senator to ICC following shootout",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/15/philippines-vows-to-hand-fugitive-senator-to-icc-following-shootout?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-15T13:09:36.000Z",
+      "summary": "Senator Ronald 'Bato' dela Rosa wanted for alleged role as top enforcer of ex-president Duterte's deadly drug war.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-fuel-price-hike-after-5-state-polls-tamil-nadu-c-1a4d7c00d3",
+      "title": "'Fuel price hike after 5 state polls': Tamil Nadu CM Vijay's 1st attack on Centre; demands rollback",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/fuel-price-hike-after-5-state-polls-tamil-nadu-cm-vijays-1st-attack-on-centre-demands-rollback/articleshow/131118537.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-15T13:09:30.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-scotus-upholds-abortion-pill-telehealth-access-a-cfa9db3985",
+      "title": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students",
+      "tag": "US",
+      "publishedAt": "2026-05-15T11:47:43.000Z",
+      "summary": "The Supreme Court kept access to the abortion pill mifepristone available via telehealth. And, Trump says he made multiple trade deals during his state visit to China.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,56 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-gujarati-folk-singer-continues-singing-as-devote-d9673329ce",
-      "title": "Gujarati Folk Singer Continues Singing As Devotees Rain Lakhs on Him, Video Viral",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/gujarati-folk-singer-continues-singing-as-devotees-rain-lakhs-on-him-video-viral-11500248",
-      "tag": "India",
-      "publishedAt": "2026-05-15T11:31:18.000Z",
-      "summary": "Gujarat folk singer Gopal Sadh has gone viral after a video showed him covered in cash during a Dayro event in Junagadh.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-here-s-the-latest-d6e8b6afac",
-      "title": "Here’s the latest.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing/heres-the-latest",
-      "tag": "US",
-      "publishedAt": "2026-05-15T11:28:20.000Z",
-      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-decentralise-conduct-of-neet-ug-exam-act-against-17f6cbe865",
-      "title": "Decentralise conduct of NEET-UG exam, act against NTA: IMA urges Centre after paper leak",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/decentralise-conduct-of-neet-ug-exam-act-against-nta-ima-urges-centre-after-paper-leak/articleshow/131115704.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-15T11:13:08.000Z",
-      "summary": "The Indian Medical Association has urged the government to decentralize NEET-UG exams and implement online testing to prevent future paper leaks. Expressing deep concern over th...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-returns-to-the-u-s-after-2-day-trip-to-chi-a9ad92ba6e",
-      "title": "Trump returns to the U.S. after 2-day trip to China",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-returns-to-the-u-s-after-2-day-trip-to-china",
-      "tag": "US",
-      "publishedAt": "2026-05-15T11:00:16.000Z",
-      "summary": "President Trump returns to the U.S. after wrapping up his whirlwind trip to China.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-finland-ends-drone-alert-amid-regional-fears-of--d2cdc7b1b6",
-      "title": "Finland ends drone alert amid regional fears of Ukraine war spillover",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-15T10:57:02.000Z",
-      "summary": "Finnish defence authorities scramble fighter jets; defence chief warns of more alarms as Russian war persists.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-pm-s-appeal-for-moderation-seeks-participation-n-b6d7949363",
       "title": "PM’s appeal for moderation seeks participation, not panic",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-supreme-court-allows-actor-darshan-to-revive-bai-4e7bee1201",
-      "title": "Supreme Court allows actor Darshan to revive bail plea in a year if no ‘substantial progress’ in trial",
+      "id": "news-bandi-bageerath-pocso-case-cyberabad-police-reco-98b810fddd",
+      "title": "Bandi Bageerath POCSO case: Cyberabad police reconstruct crime trail through farmhouse, hotel records; seek IP logs to trace accused",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/supreme-court-allows-actor-darshan-to-revive-bail-plea-in-a-year-if-no-substantial-progress-in-trial/article70982075.ece",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/bandi-bageerath-pocso-case-cyberabad-police-reconstruct-crime-trail-through-farmhouse-hotel-records-seek-ip-logs-to-trace-accused/article70983315.ece",
       "tag": "India",
-      "publishedAt": "2026-05-15T11:44:01.000Z",
-      "summary": "The top court observed that the trial in the 2024 Renukaswamy murder case was moving at an “extremely slow” pace with only 10 witnesses examined in seven months",
+      "publishedAt": "2026-05-15T13:33:43.000Z",
+      "summary": "Investigators analyse CCTV footage, IP logs and digital footprints as accused remains off grid; search intensified across Telangana",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-karnataka-high-court-directs-centre-to-act-on-ac-d3523e8343",
-      "title": "Karnataka High Court directs Centre to act on actor Darshan’s complaint of ‘media trial’",
+      "id": "news-naveen-sajju-s-acting-debut-entertains-audience--f4c2a30961",
+      "title": "Naveen Sajju’s acting debut entertains audience at Mysuru premiere",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-directs-centre-to-act-on-actor-darshans-complaint-of-media-trial/article70982816.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/naveen-sajjus-acting-debut-entertains-audience-at-mysuru-premiere/article70983167.ece",
       "tag": "India",
-      "publishedAt": "2026-05-15T11:42:49.000Z",
-      "summary": "“Courts cannot permit the course of justice to be overshadowed by the glare of studio lights”, says HC",
+      "publishedAt": "2026-05-15T13:31:59.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
