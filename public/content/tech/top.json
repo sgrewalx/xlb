@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-05-15T21:50:43.693Z",
+  "updatedAt": "2026-05-15T22:44:09.411Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-windows-11-tests-an-adjustable-taskbar-and-resiz-18b3adc22c",
-      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+      "id": "tech-youtube-is-expanding-its-ai-deepfake-detection-t-c9edbc7237",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
       "tag": "Technology",
-      "publishedAt": "2026-05-15T21:14:45.000Z",
-      "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the...",
+      "publishedAt": "2026-05-15T22:25:00.000Z",
+      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselv...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-russia-pressures-university-students-to-become-w-8bc3975f2d",
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots",
+      "tag": "Technology",
+      "publishedAt": "2026-05-15T22:19:12.000Z",
+      "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-new-crash-data-highlights-the-slow-progress-of-t-06ba014bb9",
+      "title": "New crash data highlights the slow progress of Tesla's robotaxis",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis",
+      "tag": "Technology",
+      "publishedAt": "2026-05-15T21:50:50.000Z",
+      "summary": "Two crashes since July 2025 involved robotaxis being driven by remote operators.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,33 +43,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-solar-power-production-undercut-by-coal-pollutio-00e6557206",
-      "title": "Solar power production undercut by coal pollution",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution",
-      "tag": "Technology",
-      "publishedAt": "2026-05-15T20:36:05.000Z",
-      "summary": "Each year, some of the power solar could have produced is blocked by aerosols.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-rj-scaringe-has-raised-more-than-12-billion-acro-bf10ee1d19",
-      "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
+      "id": "tech-rj-scaringe-has-raised-more-than-12b-across-thre-bf10ee1d19",
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more",
       "tag": "Technology",
       "publishedAt": "2026-05-15T20:30:20.000Z",
-      "summary": "Founder and CEO RJ Scaringe has a knack for raising money. So far, his three startups have raised more than $12.3 billion.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-california-lawmakers-are-working-on-a-bill-to-pr-3268246a8d",
-      "title": "California lawmakers are working on a bill to preserve access to online games",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2174011/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games",
-      "tag": "Technology",
-      "publishedAt": "2026-05-15T19:48:53.000Z",
-      "summary": "Game preservation group Stop Killing Games advised on the bill.",
+      "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the co...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-arxiv-will-ban-researchers-who-upload-papers-ful-9cff73a436",
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "id": "tech-anthropic-s-1-5b-copyright-settlement-is-getting-2f8ca2b82d",
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement",
       "tag": "Technology",
-      "publishedAt": "2026-05-15T20:38:19.000Z",
-      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible e...",
+      "publishedAt": "2026-05-15T21:51:24.000Z",
+      "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-general-catalyst-posted-vc-rage-bait-and-it-work-b15998d33e",
-      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z",
+      "id": "tech-us-hantavirus-case-was-false-positive-outbreak-c-c9397787e2",
+      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10",
       "tag": "Technology",
-      "publishedAt": "2026-05-15T20:25:35.000Z",
-      "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
+      "publishedAt": "2026-05-15T21:31:53.000Z",
+      "summary": "WHO announced today that the operation to safely transfer passengers is complete.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
