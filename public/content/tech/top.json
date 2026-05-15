@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-05-15T15:56:38.854Z",
+  "updatedAt": "2026-05-15T17:23:48.463Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-power-prices-are-up-76-on-america-s-biggest-grid-43a3efc99c",
-      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
+      "id": "tech-tesla-reveals-two-robotaxi-crashes-involving-tel-8553ebb916",
+      "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers",
+      "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators",
       "tag": "Technology",
-      "publishedAt": "2026-05-15T15:45:53.000Z",
-      "summary": "Prices have nearly doubled in the largest U.S. grid thanks to surging demand from data centers.",
+      "publishedAt": "2026-05-15T17:13:26.000Z",
+      "summary": "Newly un-redacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-nest-app-is-down-for-many-users-0574881850",
-      "title": "The Nest app is down for many users",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2173741/the-nest-app-is-down-for-many-users",
-      "tag": "Running",
-      "publishedAt": "2026-05-15T15:44:11.000Z",
-      "summary": "The official Nest status page claims everything is running smoothly.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-biolite-s-stakeable-solar-lights-are-down-to-a-n-4a3aed350e",
-      "title": "BioLite’s stakeable solar lights are down to a new low price for Memorial Day",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/930969/biolite-solar-site-lights-insta360-action-camera-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-05-15T15:34:44.000Z",
-      "summary": "The Memorial Day deals have arrived — err, at least some of them. BioLite, purveyors of all things solar, has kicked off a larger holiday promo ahead of May 26th, resulting in r...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-companies-keep-slashing-employees-benefits-for-t-192d8ad64e",
-      "title": "Companies Keep Slashing Employees’ Benefits for the Worst Reasons",
+      "id": "tech-greg-brockman-officially-takes-control-of-openai-814f81843c",
+      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup",
       "source": "Wired",
-      "url": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product",
       "tag": "Technology",
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "summary": "Workers are getting worse health care, parental leave, and retirement benefits, showing once and for all that your job doesn’t love you back.",
+      "publishedAt": "2026-05-15T17:09:17.000Z",
+      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-radio-hosts-demonstrate-why-ai-can-t-be-trust-0c5860d85f",
+      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "tag": "Running",
+      "publishedAt": "2026-05-15T17:09:16.000Z",
+      "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the mo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-making-cement-from-a-different-type-of-rock-coul-1421b91b37",
+      "title": "Making cement from a different type of rock could clean up emissions",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement",
+      "tag": "Technology",
+      "publishedAt": "2026-05-15T17:06:59.000Z",
+      "summary": "Limestone might not be the only source for Portland cement.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-cute-vr-platformer-moss-and-its-sequel-are-h-24e5d4b0d4",
+      "title": "The cute VR platformer Moss and its sequel are heading to consoles",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2173842/cute-vr-platformer-moss-and-its-sequel-are-heading-to-consoles",
+      "tag": "Technology",
+      "publishedAt": "2026-05-15T17:03:13.000Z",
+      "summary": "A bundle of both games, along with some DLC, arrives this summer.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-15T14:41:18.000Z",
       "summary": "Freshworks experts Vish Mehta and Reddy Ramprakash break down what it takes to modernize IT service management without adding more chaos.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-rocket-report-russia-claims-success-with-new-icb-555ca2c40a",
-      "title": "Rocket Report: Russia claims success with new ICBM; spaceplane déjà vu in Europe",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe",
-      "tag": "Technology",
-      "publishedAt": "2026-05-15T14:24:31.000Z",
-      "summary": "SpaceX's upgraded Starship is set to launch on its first test flight as soon as Tuesday, May 19.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-us-orders-travelers-on-air-force-one-to-throw-aw-40ef6403bf",
-      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip",
+      "id": "tech-the-chinese-app-that-puts-instagram-to-shame-d9704ba67c",
+      "title": "The Chinese App That Puts Instagram to Shame",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/rednote-beats-instagram-tourism-infrastructure-china",
       "tag": "Technology",
-      "publishedAt": "2026-05-15T15:42:11.000Z",
-      "summary": "People who travelled to Beijing for a summit between the United States and China had to throw away items they received during the trip before boarding Air Force One, presumably...",
+      "publishedAt": "2026-05-15T16:52:26.000Z",
+      "summary": "In the ancient city of Dali, I saw firsthand how RedNote has evolved from a lifestyle platform into the tool that powers the country’s tourism industry.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-lego-2k-drive-will-vanish-from-digital-storefron-8ba79bfc56",
-      "title": "Lego 2K Drive will vanish from digital storefronts on May 19",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2173738/lego-2k-drive-will-vanish-from-digital-storefronts-on-may-19",
+      "id": "tech-does-trump-mobile-know-how-many-stripes-are-on-t-b3a712b7e6",
+      "title": "Does Trump Mobile know how many stripes are on the American flag?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
       "tag": "Technology",
-      "publishedAt": "2026-05-15T15:41:16.000Z",
-      "summary": "The racing game's multiplayer servers will remain live for another year.",
+      "publishedAt": "2026-05-15T16:47:16.000Z",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best ho...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
