@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T06:37:30.332Z",
+  "updatedAt": "2026-05-16T06:04:35.500Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 225 earthquake events in the last 24 hours. Strongest reported event: M6.2 near 271 km WSW of Tual, Indonesia.",
+          "summary": "USGS reported 241 earthquake events in the last 24 hours. Strongest reported event: M6.7 near 49 km ESE of Ōfunato, Japan.",
           "metricLabel": "Updated",
-          "metricValue": "May 15, 06:37 AM",
+          "metricValue": "May 16, 06:04 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -24,7 +24,7 @@
           "title": "Earth live rail",
           "summary": "See how earthquake monitoring sits inside the broader earth-event surface.",
           "metricLabel": "Live pages",
-          "metricValue": "10",
+          "metricValue": "0",
           "href": "/live/earth",
           "accent": "signal"
         },
@@ -50,7 +50,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 5. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
@@ -61,7 +61,7 @@
           "title": "Space live rail",
           "summary": "Browse the related launch and space-weather inventory.",
           "metricLabel": "Space views",
-          "metricValue": "10",
+          "metricValue": "0",
           "href": "/live/space",
           "accent": "signal"
         },
@@ -89,7 +89,7 @@
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
-          "metricValue": "47d 5h",
+          "metricValue": "46d 5h",
           "href": "/events/clps-flight-astrobotic-griffin-1",
           "accent": "space"
         },
@@ -103,12 +103,12 @@
           "accent": "space"
         },
         {
-          "id": "space-launch-today-6-05-pm-nasa-s-spacex-crs-34",
-          "title": "Today 6:05 pm NASA’s SpaceX CRS-34",
-          "summary": "Today 6:05 pm NASA’s SpaceX CRS-34 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "id": "space-launch-roscosmos-progress-96",
+          "title": "Roscosmos Progress 96",
+          "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
           "metricValue": "Starting",
-          "href": "/events/today-6-05-pm-nasa-s-spacex-crs-34",
+          "href": "/events/roscosmos-progress-96",
           "accent": "space"
         }
       ]

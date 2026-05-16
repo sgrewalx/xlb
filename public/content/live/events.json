@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T06:37:30.164Z",
+  "updatedAt": "2026-05-16T06:04:35.367Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-05-15T06:32:41.970Z",
-      "summary": "USGS reported 225 earthquake events in the last 24 hours. Strongest reported event: M6.2 near 271 km WSW of Tual, Indonesia.",
+      "startsAt": "2026-05-16T06:00:01.660Z",
+      "summary": "USGS reported 241 earthquake events in the last 24 hours. Strongest reported event: M6.7 near 49 km ESE of Ōfunato, Japan.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,12 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-05-15T06:37:30.164Z",
+      "updatedAt": "2026-05-16T06:04:35.367Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-middle-east-crisis-petrol-diesel-prices-raised-b-71256153a6",
-        "video-watch-live-trump-and-xi-jinping-to-meet-for-fina-d71905c0da"
+        "video-watch-indian-women-s-cricket-team-offers-prayers-85a305e570",
+        "video-japan-earthquake-massive-6-6-magnitude-quake-jol-3a1fdf12c2",
+        "video-japan-earthquake-powerful-6-6-magnitude-quake-ro-fd3a6b4ac2"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -45,23 +46,25 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-05-15T06:35:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-05-16T06:00:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 5. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
       "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 92,
+      "heroPriority": 100,
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-05-15T06:37:30.164Z",
-      "importance": 71,
+      "updatedAt": "2026-05-16T06:04:35.367Z",
+      "importance": 77,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-live-trump-and-xi-jinping-to-meet-for-fina-d71905c0da"
+        "video-watch-indian-women-s-cricket-team-offers-prayers-85a305e570",
+        "video-watch-vp-vance-delivers-powerful-tribute-honorin-3115005c1a",
+        "video-cbs-news-radio-flashback-2003-space-shuttle-colu-389ad85dec"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -70,6 +73,41 @@
       ],
       "relatedGalleryIds": [
         "gallery-aurora-state",
+        "gallery-topic-rotation"
+      ]
+    },
+    {
+      "id": "space-launch-clps-flight-astrobotic-griffin-1",
+      "slug": "clps-flight-astrobotic-griffin-1",
+      "title": "CLPS Flight: Astrobotic Griffin-1",
+      "status": "upcoming",
+      "category": "space",
+      "topic": "launches",
+      "startsAt": "2026-07-01T12:00:00.000Z",
+      "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
+      "sourceName": "NASA Launch Schedule",
+      "sourceUrl": "https://www.nasa.gov/event/clps-flight-astrobotics-griffin-mission-one/",
+      "watchUrl": "https://www.nasa.gov/live",
+      "coverageMode": "link",
+      "safeToPromote": true,
+      "heroPriority": 96,
+      "rightsProfile": "public-information",
+      "cadence": "scheduled",
+      "audienceIntent": "watch-live",
+      "updatedAt": "2026-05-16T06:04:35.367Z",
+      "importance": 72,
+      "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
+      "relatedVideoIds": [
+        "video-2-senators-call-on-faa-to-study-safety-impact-of-8da392edef"
+      ],
+      "relatedGameIds": [
+        "headline-match",
+        "timeline-sort",
+        "rapid-reaction"
+      ],
+      "relatedGalleryIds": [
+        "gallery-launch-windows",
         "gallery-topic-rotation"
       ]
     },
@@ -92,7 +130,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-15T06:37:30.164Z",
+      "updatedAt": "2026-05-16T06:04:35.367Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -106,61 +144,26 @@
       ]
     },
     {
-      "id": "space-launch-clps-flight-astrobotic-griffin-1",
-      "slug": "clps-flight-astrobotic-griffin-1",
-      "title": "CLPS Flight: Astrobotic Griffin-1",
-      "status": "upcoming",
-      "category": "space",
-      "topic": "launches",
-      "startsAt": "2026-07-01T12:00:00.000Z",
-      "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
-      "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/clps-flight-astrobotics-griffin-mission-one/",
-      "watchUrl": "https://www.nasa.gov/live",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 90,
-      "rightsProfile": "public-information",
-      "cadence": "scheduled",
-      "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-15T06:37:30.164Z",
-      "importance": 69,
-      "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
-      "relatedVideoIds": [
-        "video-fleeing-car-takes-flight-before-suspect-arrested-67e9c3cfb0"
-      ],
-      "relatedGameIds": [
-        "headline-match",
-        "timeline-sort",
-        "rapid-reaction"
-      ],
-      "relatedGalleryIds": [
-        "gallery-launch-windows",
-        "gallery-topic-rotation"
-      ]
-    },
-    {
-      "id": "space-launch-today-6-05-pm-nasa-s-spacex-crs-34",
-      "slug": "today-6-05-pm-nasa-s-spacex-crs-34",
-      "title": "Today 6:05 pm NASA’s SpaceX CRS-34",
+      "id": "space-launch-nasa-s-spacex-crs-35",
+      "slug": "nasa-s-spacex-crs-35",
+      "title": "NASA’s SpaceX CRS-35",
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-05-15T06:37:29.805Z",
-      "summary": "Today 6:05 pm NASA’s SpaceX CRS-34 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "startsAt": "2026-05-16T06:04:35.211Z",
+      "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-34/",
+      "sourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 88,
+      "heroPriority": 82,
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-15T06:37:30.164Z",
-      "importance": 48,
+      "updatedAt": "2026-05-16T06:04:35.367Z",
+      "importance": 67,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [
@@ -174,17 +177,17 @@
       ]
     },
     {
-      "id": "space-launch-nasa-s-spacex-crs-35",
-      "slug": "nasa-s-spacex-crs-35",
-      "title": "NASA’s SpaceX CRS-35",
+      "id": "space-launch-roscosmos-progress-96",
+      "slug": "roscosmos-progress-96",
+      "title": "Roscosmos Progress 96",
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-05-15T06:37:29.806Z",
-      "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
+      "startsAt": "2026-05-16T06:04:35.211Z",
+      "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
+      "sourceUrl": "https://www.nasa.gov/event/roscosmos-progress-96/",
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
@@ -192,8 +195,8 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-05-15T06:37:30.164Z",
-      "importance": 63,
+      "updatedAt": "2026-05-16T06:04:35.367Z",
+      "importance": 42,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T06:37:30.332Z",
+  "updatedAt": "2026-05-16T06:04:35.500Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-05-15T06:37:30.332Z"
+      "updatedAt": "2026-05-16T06:04:35.500Z"
     },
     {
       "slug": "space-weather",
@@ -21,18 +21,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-05-15T06:37:30.332Z"
-    },
-    {
-      "slug": "nasa",
-      "title": "NASA",
-      "category": "space",
-      "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
-      "eventCount": 1,
-      "promotedEventCount": 1,
-      "bestScore": 77,
-      "recommendation": "hold",
-      "updatedAt": "2026-05-15T06:37:30.332Z"
+      "updatedAt": "2026-05-16T06:04:35.500Z"
     },
     {
       "slug": "launches",
@@ -43,7 +32,18 @@
       "promotedEventCount": 3,
       "bestScore": 78,
       "recommendation": "hold",
-      "updatedAt": "2026-05-15T06:37:30.332Z"
+      "updatedAt": "2026-05-16T06:04:35.500Z"
+    },
+    {
+      "slug": "nasa",
+      "title": "NASA",
+      "category": "space",
+      "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 77,
+      "recommendation": "hold",
+      "updatedAt": "2026-05-16T06:04:35.500Z"
     }
   ]
 }
