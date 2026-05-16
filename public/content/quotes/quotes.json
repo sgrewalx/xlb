@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-05-15T03:58:27.998Z",
+  "updatedAt": "2026-05-16T03:39:34.336Z",
   "items": [
-    {
-      "id": "arthur-schopenhauer-2",
-      "quote": "For the more a man has in himself, the less he will want from other people, the less, indeed, other people can be to him. This is why a high degree of intellect tends to make a man unsocial. True.",
-      "author": "Arthur Schopenhauer",
-      "context": "Intellect"
-    },
     {
       "id": "mark-twain",
       "quote": "Don’t waste time arguing with idiots. They’ll drag you down to their level and they’ll beat you with experience.",
@@ -30,6 +24,12 @@
       "quote": "You can't use up creativity. The more you use, the more you have.",
       "author": "Maya Angelou",
       "context": "Creation"
+    },
+    {
+      "id": "bruce-lee",
+      "quote": "Absorb what is useful, discard what is not, add what is uniquely your own.",
+      "author": "Bruce Lee",
+      "context": "Focus"
     }
   ]
 }
