@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T06:04:35.781Z",
+  "updatedAt": "2026-05-17T06:27:17.270Z",
   "items": [
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
@@ -30,20 +30,6 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-nasa-live-programming",
-      "title": "Watch index coverage for /events/nasa-live-programming",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/events/nasa-live-programming"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
       "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
       "title": "Watch index coverage for /events/clps-flight-astrobotic-griffin-1",
       "ownerAgent": "traffic-improvement-agent",
@@ -58,14 +44,28 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-today-6-05-pm-nasa-s-spacex-crs-34",
-      "title": "Watch index coverage for /events/today-6-05-pm-nasa-s-spacex-crs-34",
+      "id": "traffic-index-watch-events-nasa-live-programming",
+      "title": "Watch index coverage for /events/nasa-live-programming",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
       "status": "queued",
-      "hypothesis": "/events/today-6-05-pm-nasa-s-spacex-crs-34 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
-        "/events/today-6-05-pm-nasa-s-spacex-crs-34"
+        "/events/nasa-live-programming"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-events-roscosmos-progress-96",
+      "title": "Watch index coverage for /events/roscosmos-progress-96",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/events/roscosmos-progress-96 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/events/roscosmos-progress-96"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T06:04:34.962Z",
-  "sourceSnapshot": "2026-05-16T06:00:00.000Z",
+  "updatedAt": "2026-05-17T06:27:16.238Z",
+  "sourceSnapshot": "2026-05-17T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -40,7 +40,7 @@
       "sourceStability": "stable",
       "recencyBand": "continuous",
       "recommendation": "expand",
-      "notes": "cold-start scoring active; priority 92, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
+      "notes": "cold-start scoring active; priority 100, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
     },
     {
       "slug": "clps-flight-astrobotic-griffin-1",
@@ -60,7 +60,7 @@
       "sourceStability": "stable",
       "recencyBand": "timeless",
       "recommendation": "expand",
-      "notes": "cold-start scoring active; priority 90, rights public-information, cadence scheduled, intent watch-live, status upcoming, coverage link, safe to promote; heuristics long-tail timing, source stable. Promoted event without a dedicated analytics note yet."
+      "notes": "cold-start scoring active; priority 96, rights public-information, cadence scheduled, intent watch-live, status upcoming, coverage link, safe to promote; heuristics long-tail timing, source stable. Promoted event without a dedicated analytics note yet."
     },
     {
       "slug": "nasa-live-programming",
@@ -83,32 +83,12 @@
       "notes": "cold-start scoring active; priority 90, rights public-information, cadence recurring, intent watch-live, status watch, coverage link, safe to promote; heuristics recurring watch surface. Promoted event without a dedicated analytics note yet."
     },
     {
-      "slug": "today-6-05-pm-nasa-s-spacex-crs-34",
-      "pagePath": "/events/today-6-05-pm-nasa-s-spacex-crs-34",
-      "category": "space",
-      "score": 72,
-      "scoringMode": "cold-start",
-      "coldStartScore": 85,
-      "heuristicScore": 41,
-      "observedScore": 0,
-      "pageviews": 0,
-      "watchClicks": 0,
-      "engagementScore": 0,
-      "searchImpressions": 0,
-      "searchCtr": 0,
-      "categoryPageviews": 0,
-      "sourceStability": "stable",
-      "recencyBand": "stale",
-      "recommendation": "hold",
-      "notes": "cold-start scoring active; priority 88, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Promoted event without a dedicated analytics note yet."
-    },
-    {
       "slug": "nasa-s-spacex-crs-35",
       "pagePath": "/events/nasa-s-spacex-crs-35",
       "category": "space",
-      "score": 69,
+      "score": 71,
       "scoringMode": "cold-start",
-      "coldStartScore": 81,
+      "coldStartScore": 83,
       "heuristicScore": 41,
       "observedScore": 0,
       "pageviews": 0,
@@ -120,7 +100,27 @@
       "sourceStability": "stable",
       "recencyBand": "stale",
       "recommendation": "hold",
-      "notes": "cold-start scoring active; priority 76, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Imported from the Search Console API."
+      "notes": "cold-start scoring active; priority 82, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Imported from the Search Console API."
+    },
+    {
+      "slug": "roscosmos-progress-96",
+      "pagePath": "/events/roscosmos-progress-96",
+      "category": "space",
+      "score": 69,
+      "scoringMode": "cold-start",
+      "coldStartScore": 81,
+      "heuristicScore": 41,
+      "observedScore": 0,
+      "pageviews": 0,
+      "watchClicks": 0,
+      "engagementScore": 0,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "categoryPageviews": 0,
+      "sourceStability": "stable",
+      "recencyBand": "stale",
+      "recommendation": "hold",
+      "notes": "cold-start scoring active; priority 76, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Promoted event without a dedicated analytics note yet."
     }
   ]
 }

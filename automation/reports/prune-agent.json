@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-05-16T06:04:35.500Z",
+  "updatedAt": "2026-05-17T06:27:16.920Z",
   "staleEvents": [],
   "deadSurfaces": [
-    {
-      "path": "/gallery",
-      "pageviews": 0,
-      "searchImpressions": 1,
-      "action": "demote-to-retention"
-    },
     {
       "path": "/games",
       "pageviews": 0,

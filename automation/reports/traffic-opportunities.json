@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T06:04:34.834Z",
-  "sourceSnapshot": "2026-05-16T06:00:00.000Z",
+  "updatedAt": "2026-05-17T06:27:16.087Z",
+  "sourceSnapshot": "2026-05-17T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -69,32 +69,6 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-nasa-live-programming",
-      "path": "/events/nasa-live-programming",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /events/nasa-live-programming",
-      "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
       "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
       "path": "/events/clps-flight-astrobotic-griffin-1",
       "signal": "index_watch",
@@ -121,13 +95,39 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-today-6-05-pm-nasa-s-spacex-crs-34",
-      "path": "/events/today-6-05-pm-nasa-s-spacex-crs-34",
+      "id": "traffic-index-watch-events-nasa-live-programming",
+      "path": "/events/nasa-live-programming",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /events/today-6-05-pm-nasa-s-spacex-crs-34",
-      "hypothesis": "/events/today-6-05-pm-nasa-s-spacex-crs-34 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/nasa-live-programming",
+      "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-events-roscosmos-progress-96",
+      "path": "/events/roscosmos-progress-96",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /events/roscosmos-progress-96",
+      "hypothesis": "/events/roscosmos-progress-96 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
