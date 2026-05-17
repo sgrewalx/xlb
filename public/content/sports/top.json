@@ -1,46 +1,36 @@
 {
-  "updatedAt": "2026-05-17T01:50:55.605Z",
+  "updatedAt": "2026-05-17T05:38:35.391Z",
   "section": "Expanded Sports",
   "items": [
     {
-      "id": "sports-liverpool-s-latest-collapse-leaves-champions-lea-1adf3af074",
-      "title": "Liverpool's latest collapse leaves Champions Leagu...",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/48781627/liverpools-latest-stumble-becomes-reflection-poor-season",
-      "tag": "Football",
-      "publishedAt": "2026-05-17T02:30:51.000Z",
-      "summary": "Liverpool were looking to secure a spot in the Champions League next season. But because of their loss to Aston Villa, they will need to sweat it out to qualify for it next week.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-dodgers-blake-snell-set-for-elbow-surgery-expect-cdceb84a77",
-      "title": "Dodgers' Blake Snell Set for Elbow Surgery, Expected Back Later this Season",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/blake-snell-set-for-surgery-to-remove-loose-bodies-from-elbow-dodgers-expect-him-back-this-season",
-      "tag": "Sports",
-      "publishedAt": "2026-05-17T01:48:49.000Z",
-      "summary": "Dodgers RHP Blake Snell will undergo surgery in his left elbow this Tuesday, and is expected to return later this season.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-gill-we-didn-t-deserve-to-win-this-one-1adec15122",
-      "title": "Gill: 'We didn't deserve to win this one'",
+      "id": "sports-i-was-probably-a-shell-of-a-human-for-a-bit-bein-19b9cb0cd9",
+      "title": "'I was probably a shell of a human for a bit' - being dropped helped, says Allen",
       "source": "ESPNcricinfo",
-      "url": "https://www.espncricinfo.com/ci/content/story/1537086.html?ex_cid=OTC-RSS",
+      "url": "https://www.espncricinfo.com/ci/content/story/1537106.html?ex_cid=OTC-RSS",
       "tag": "Cricket",
-      "publishedAt": "2026-05-17T00:43:25.000Z",
-      "summary": "GT dropped four catches, three of them sitters with Allen, Raghuvanshi and Green all benefiting from the chances",
+      "publishedAt": "2026-05-17T05:24:04.000Z",
+      "summary": "\"I probably wasn't enjoying it as much as I should have at the time, because I was putting so much pressure on myself,\" Finn Allen says of his struggles early on in IPL 2026",
       "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
     },
     {
-      "id": "sports-svitolina-handles-gauff-for-3rd-italian-open-tit-cf7d04cf85",
-      "title": "Svitolina handles Gauff for 3rd Italian Open title",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/48789169/svitolina-tops-gauff-three-sets-third-italian-open-title",
-      "tag": "Tennis",
-      "publishedAt": "2026-05-16T21:08:46.000Z",
-      "summary": "Elina Svitolina claimed her third Italian Open title Saturday, defeating American Coco Gauff, who lost in the final in Rome for the second straight year, in three sets.",
+      "id": "sports-super-chess-classic-praggnanandhaa-draws-with-ke-160ef9cefb",
+      "title": "Super Chess Classic: Praggnanandhaa draws with Keymer",
+      "source": "Hindustan Times Sports",
+      "url": "https://www.hindustantimes.com/sports/others/super-chess-classic-praggnanandhaa-draws-with-keymer-101778994269324.html",
+      "tag": "Sports",
+      "publishedAt": "2026-05-17T05:04:28.000Z",
+      "summary": "Super Chess Classic: Praggnanandhaa draws with Keymer",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-mourinho-completes-unbeaten-season-with-benfica-d8ba6ea8bf",
+      "title": "Mourinho completes unbeaten season with Benfica",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cn0p985n5y7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-05-16T22:15:52.000Z",
+      "summary": "Jose Mourinho completes an unbeaten league season with Benfica but has to settle for third place in the Portuguese top-flight.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     },
     {
       "id": "sports-the-minnesota-timberwolves-motley-crew-brought-a-3792a897a5",
@@ -53,74 +43,84 @@
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-celebrini-shines-as-canada-blanks-italy-at-world-117fa79d9a",
-      "title": "Celebrini shines as Canada blanks Italy at worlds",
-      "source": "ESPN",
-      "url": "https://www.espn.com/olympics/hockey/story/_/id/48788247/macklin-celebrini-nets-2-canada-shuts-italy-worlds",
+      "id": "sports-svitolina-upsets-gauff-to-win-italian-open-thril-44258d4eda",
+      "title": "Svitolina upsets Gauff to win Italian Open thriller",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/tennis/articles/c0j2dw6d70qo?at_medium=RSS&at_campaign=rss",
+      "tag": "Tennis",
+      "publishedAt": "2026-05-16T19:48:41.000Z",
+      "summary": "Ukraine's Elina Svitolina battles to a third Italian Open title courtesy of a thrilling three-set win against Coco Gauff in the final.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-english-takes-stunning-800m-win-at-diamond-leagu-0158e5f715",
+      "title": "English takes stunning 800m win at Diamond League event",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/athletics/articles/cy520xlqv30o?at_medium=RSS&at_campaign=rss",
       "tag": "Running",
-      "publishedAt": "2026-05-16T19:11:45.000Z",
-      "summary": "Macklin Celebrini scored twice and added an assist as Canada improved to 2-0 at the world championships with a 6-0 victory over Italy.",
+      "publishedAt": "2026-05-16T14:38:31.000Z",
+      "summary": "Ireland's Mark English produces a strong finish to take victory in the 800m at Diamond League Shanghai.",
       "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
     },
     {
-      "id": "sports-every-team-reranked-explaining-man-city-rise-col-757f8bb9aa",
-      "title": "Every team reranked: Explaining Man City rise, col...",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/48771056/every-premier-league-team-reranked-man-city-rise-chelsea-liverpool-collapse",
-      "tag": "Football",
-      "publishedAt": "2026-05-17T02:30:51.000Z",
-      "summary": "We rank Premier League teams: Why City has overtaken Arsenal, and why Liverpool and Chelsea collapsed.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-svitolina-beats-gauff-to-win-italian-open-1bb6ce6c7b",
+      "title": "Svitolina beats Gauff to win Italian Open",
+      "source": "The Hindu Sports",
+      "url": "https://www.thehindu.com/sport/tennis/svitolina-beats-gauff-to-win-italian-open/article70989620.ece",
+      "tag": "Sports",
+      "publishedAt": "2026-05-17T04:56:56.000Z",
+      "summary": "In the men's final on Sunday, home favourite Jannik Sinner will face Casper Ruud",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-transfer-rumors-news-liverpool-eyeing-rb-leipzig-df8a1128a4",
-      "title": "Transfer rumors, news: Liverpool eyeing RB Leipzig...",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/48784760/transfer-rumors-news-liverpool-eyeing-rb-leipzig-duo-boost-attack",
-      "tag": "Football",
-      "publishedAt": "2026-05-17T02:16:07.000Z",
-      "summary": "Liverpool and Manchester United are interested in Real Madrid's Eduardo Camavinga. Transfer Talk has the latest.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-conor-mcgregor-s-5-year-ufc-exile-ends-in-las-ve-0719fe22dc",
+      "title": "Conor McGregor's 5-year UFC exile ends in Las Vegas with Max Holloway rematch",
+      "source": "Hindustan Times Sports",
+      "url": "https://www.hindustantimes.com/sports/others/conor-mcgregors-5-year-ufc-exile-ends-in-las-vegas-with-max-holloway-rematch-101778992869861.html",
+      "tag": "Sports",
+      "publishedAt": "2026-05-17T04:55:15.000Z",
+      "summary": "Conor McGregor will return to the UFC on July 11 for a rematch against Max Holloway at UFC 329 in Las Vegas after not fighting since 2021.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-messi-and-the-forgotten-tape-oral-history-of-arg-c87382bfb2",
-      "title": "Messi and the forgotten tape: Oral history of Arge...",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
-      "tag": "Football",
-      "publishedAt": "2026-05-17T02:15:46.000Z",
-      "summary": "How would the past 20 years of international football have looked if Lionel Messi had played for Spain? ESPN spoke to those who shaped his Argentina career.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-nikhat-s-no-to-48kg-nitu-jyoti-in-trial-bout-for-c2b48a6d25",
+      "title": "Nikhat's no to 48kg; Nitu-Jyoti in trial bout for World Championships",
+      "source": "Times of India Sports",
+      "url": "https://timesofindia.indiatimes.com/sports/boxing/nikhat-zareens-no-to-48kg-nitu-ghanghas-jyoti-gulia-in-trial-bout-for-world-championships/articleshow/131148976.cms",
+      "tag": "Sports",
+      "publishedAt": "2026-05-17T04:49:15.000Z",
+      "summary": "Nikhat Zareen has opted out of the senior World Cup in China, prioritizing her 51kg Olympic qualification goals over the 48kg category. This decision has led the BFI to schedule...",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-players-on-facing-messi-the-thrill-of-meeting-a--ba8d392128",
-      "title": "Players on facing Messi: The thrill of meeting a h...",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/48458193/for-mls-players-meeting-messi-one-thing-facing-wrath-field-another",
-      "tag": "Football",
-      "publishedAt": "2026-05-17T02:15:46.000Z",
-      "summary": "Players find themselves in a precarious position: They meet their heroes, but can also end up facing their wrath.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-vaibhav-sooryavanshi-not-a-special-project-for-r-ef1e700e9a",
+      "title": "Vaibhav Sooryavanshi not a special project for RR: Sangakkara",
+      "source": "Times of India Sports",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-not-a-special-project-for-rajasthan-royals-but-a-special-player-kumar-sangakkara/articleshow/131148923.cms",
+      "tag": "Sports",
+      "publishedAt": "2026-05-17T04:36:59.000Z",
+      "summary": "Rajasthan Royals' 15-year-old batting sensation, Vaibhav Sooryavanshi, is drawing significant fan attention with his aggressive style and impressive strike rate of 236.55. He ha...",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-ny-and-nj-divisions-deepen-over-who-is-the-real--06001712bd",
-      "title": "NY and NJ divisions deepen over who is the real WC...",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/worldcup/story/_/id/48771627/jersey-new-york-world-cup-rivalry",
-      "tag": "Football",
-      "publishedAt": "2026-05-17T02:15:07.000Z",
-      "summary": "Expense burden falls mainly on New Jersey while FIFA awards New York the top billing",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-ban-vs-pak-live-pakistan-in-trouble-as-captain-s-079b499bff",
+      "title": "BAN vs PAK Live: Pakistan in trouble as captain Shan Masood falls cheaply",
+      "source": "Times of India Sports",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/bangladesh-vs-pakistan-2nd-test-day-2-ban-vs-pak-live-score-updates-commentary-sylhet/liveblog/131148632.cms",
+      "tag": "Sports",
+      "publishedAt": "2026-05-17T04:03:53.000Z",
+      "summary": "XLB brief: a fresh sports item from Times of India Sports, kept short so the page stays scan-first and source-linked.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-2026-world-cup-injuries-tracker-which-stars-coul-f0bfbff359",
-      "title": "2026 World Cup injuries tracker: Which stars could...",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
-      "tag": "Football",
-      "publishedAt": "2026-05-17T02:15:07.000Z",
-      "summary": "Which key players might not be participating in this summer's tournament? Here's the latest on injuries.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-as-dallas-stadium-moves-mountains-to-install-gra-e1ba1d6211",
+      "title": "As \"Dallas Stadium\" moves mountains to install grass, CeeDee Lamb wants it for football",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-dallas-stadium-moves-mountains-to-install-grass-ceedee-lamb-wants-it-for-football",
+      "tag": "Sports",
+      "publishedAt": "2026-05-17T03:53:58.000Z",
+      "summary": "The stadium that periodically has an issue with sunlight from the outside now has a pink glow coming from the inside.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     }
   ]
 }
