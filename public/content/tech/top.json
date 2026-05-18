@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-05-18T21:02:40.568Z",
+  "updatedAt": "2026-05-18T22:49:23.875Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-musk-loses-openai-court-battle-after-jury-finds--c6ed6618b1",
+      "id": "tech-musk-loses-openai-court-battle-after-jury-finds--a036572303",
       "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
       "source": "BBC Technology",
       "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-05-18T20:59:57.000Z",
+      "publishedAt": "2026-05-18T22:08:37.000Z",
       "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-osha-probing-worker-death-at-spacex-s-starbase-s-ac0769b4b5",
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site",
+      "tag": "Technology",
+      "publishedAt": "2026-05-18T21:55:02.000Z",
+      "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-disney-faces-a-class-action-lawsuit-over-facial--0a35b799a0",
+      "title": "Disney faces a class action lawsuit over facial recognition tech",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2176016/disney-faces-a-class-action-lawsuit-over-facial-recognition-tech",
+      "tag": "Technology",
+      "publishedAt": "2026-05-18T21:33:32.000Z",
+      "summary": "The complaint says park visitors don't get sufficient notice they're being scanned.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ebola-outbreak-who-declares-emergency-us-restric-e01f78888f",
+      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected",
+      "tag": "Technology",
+      "publishedAt": "2026-05-18T20:41:14.000Z",
+      "summary": "CDC is working to move the infected American and six others to Germany.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,36 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-18T20:41:09.000Z",
       "summary": "Volvo's compact, quirky EX30 had a lot of problems when it was first released. Tariffs essentially erased its affordability, making it more expensive to own, and a battery recal...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-one-mars-spacecraft-two-senators-and-a-cloud-of--115f870b4c",
-      "title": "One Mars spacecraft, two senators, and a cloud of questions",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions",
-      "tag": "Technology",
-      "publishedAt": "2026-05-18T19:49:00.000Z",
-      "summary": "\"I think there's plenty of fire lit under them already.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-anthropic-has-acquired-the-dev-tools-startup-use-39269fc842",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare",
-      "tag": "Technology",
-      "publishedAt": "2026-05-18T19:27:52.000Z",
-      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-x-accounts-are-limited-to-50-posts-and-200-repli-4d8c20462d",
-      "title": "X accounts are limited to 50 posts and 200 replies a day unless they pay for a blue checkmark",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day",
-      "tag": "Technology",
-      "publishedAt": "2026-05-18T18:12:31.000Z",
-      "summary": "Free X accounts have been hit with major restrictions.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-sandboxaq-brings-its-drug-discovery-models-to-cl-94c33b9bc0",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required",
+      "tag": "Technology",
+      "publishedAt": "2026-05-18T21:29:31.000Z",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-elon-musk-just-lost-another-lawsuit-will-he-keep-72022c48d0",
       "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
       "source": "BBC Technology",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-18T20:44:57.000Z",
       "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-playstation-exclusives-aren-t-coming-to-pc-anymo-03103ade30",
-      "title": "PlayStation exclusives aren’t coming to PC anymore",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
-      "tag": "Technology",
-      "publishedAt": "2026-05-18T19:28:42.000Z",
-      "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
