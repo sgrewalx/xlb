@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T06:27:16.739Z",
+  "generatedAt": "2026-05-18T07:01:30.564Z",
   "staticItemCount": 1,
   "sources": [
     {
@@ -14,21 +14,21 @@
       "id": "usgs-earthquakes",
       "status": "healthy",
       "fallbackUsed": false,
-      "fetchedSeedCount": 178,
+      "fetchedSeedCount": 169,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 6,
-      "largeCount": 15
+      "strongestMagnitude": 5.4,
+      "largeCount": 13
     },
     {
       "id": "noaa-space-weather",
       "status": "healthy",
       "fallbackUsed": false,
-      "fetchedSeedCount": 359,
+      "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 1,
-      "recentPeakKp": 2,
+      "latestKp": 2,
+      "recentPeakKp": 3,
       "alertLevel": "quiet"
     }
   ]

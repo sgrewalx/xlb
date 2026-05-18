@@ -1,11 +1,13 @@
 {
-  "updatedAt": "2026-05-17T06:27:16.920Z",
-  "selectedCount": 99,
-  "topRetentionScore": 74,
+  "updatedAt": "2026-05-18T07:01:31.013Z",
+  "selectedCount": 60,
+  "topRetentionScore": 72,
   "relatedPaths": [
     "/news",
+    "/events/global-earthquake-watch",
+    "/events/clps-flight-astrobotic-griffin-1",
     "/live/earth",
-    "/live/space",
-    "/events/global-earthquake-watch"
+    "/topics/space-weather",
+    "/events/nasa-s-spacex-crs-35"
   ]
 }
