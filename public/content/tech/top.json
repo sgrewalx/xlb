@@ -1,35 +1,55 @@
 {
-  "updatedAt": "2026-05-18T14:28:52.794Z",
+  "updatedAt": "2026-05-18T17:25:30.138Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-linus-torvalds-says-linux-security-list-is-becom-f8226226ba",
-      "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
-      "tag": "Technology",
-      "publishedAt": "2026-05-18T14:21:10.000Z",
-      "summary": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmana...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-linkedin-doesn-t-want-your-ai-slop-anymore-050d10a42c",
-      "title": "LinkedIn doesn't want your AI slop anymore",
+      "id": "tech-how-to-watch-the-google-i-o-2026-keynote-4d62a04b51",
+      "title": "How to watch the Google I/O 2026 keynote",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2174163/linkedin-doesnt-want-your-ai-slop-anymore",
+      "url": "https://www.engadget.com/2175638/how-to-watch-google-io-2026-keynote",
       "tag": "Technology",
-      "publishedAt": "2026-05-18T14:00:00.000Z",
-      "summary": "It isn't just lazy. It's also mind-numbingly boring.",
+      "publishedAt": "2026-05-18T16:49:07.000Z",
+      "summary": "Google's keynote on Tuesday will include a boatload of AI news and perhaps some Android XR updates.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-open-source-tool-maker-grafana-labs-says-hackers-75dc60db2b",
-      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+      "id": "tech-nyc-health-and-hospitals-says-hackers-stole-medi-a9264c2307",
+      "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom",
+      "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people",
       "tag": "Technology",
-      "publishedAt": "2026-05-18T13:42:19.000Z",
-      "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+      "publishedAt": "2026-05-18T16:32:33.000Z",
+      "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-is-rolling-out-its-redesigned-workspace-a-c3165e59ac",
+      "title": "Google is rolling out its redesigned Workspace app icons",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
+      "tag": "Technology",
+      "publishedAt": "2026-05-18T16:29:37.000Z",
+      "summary": "It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this mornin...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-five-years-later-windows-11-brings-back-much-mis-1ef22776e7",
+      "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more",
+      "tag": "Technology",
+      "publishedAt": "2026-05-18T16:03:02.000Z",
+      "summary": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spacex-dragon-capsule-reaches-iss-carrying-6-500-88e8cbe141",
+      "title": "SpaceX Dragon Capsule Reaches ISS Carrying 6,500 Pounds of Supplies",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/spacex-dragon-successfully-docks-at-the-international-space-station-with-critical-cargo-11511471",
+      "tag": "Technology",
+      "publishedAt": "2026-05-18T15:07:19.000Z",
+      "summary": "SpaceX successfully launched and docked its Dragon capsule at the International Space Station under NASA’s CRS-34 mission. The spacecraft delivered cargo, scientific equipment,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -39,27 +59,7 @@
       "url": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable",
       "tag": "Technology",
       "publishedAt": "2026-05-18T13:38:01.000Z",
-      "summary": "So why didn't Swatch do anything to avoid it?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-best-tws-earbuds-under-rs-5-000-in-india-oppo-en-fe1ba56ff7",
-      "title": "Best TWS Earbuds Under Rs 5,000 in India: Oppo Enco Buds 3 Pro+, OnePlus Nord Buds 4 Pro and More",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/audio/features/best-tws-earbuds-under-rs-5000-in-india-11512891",
-      "tag": "Technology",
-      "publishedAt": "2026-05-18T13:35:10.000Z",
-      "summary": "The best TWS earbuds under Rs. 5,000 in India now offer features such as ANC, high-resolution audio, and long battery life. The Oppo Enco Buds 3 Pro+ provides a balanced overall...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-us-space-enterprise-is-desperately-waiting-f-912bd6c3d6",
-      "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver",
-      "tag": "Technology",
-      "publishedAt": "2026-05-18T11:00:20.000Z",
-      "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"",
+      "summary": "So why didn’t Swatch do anything to avoid it?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-exclusive-jonah-peretti-explains-why-he-sold-buz-a1c62d4ca7",
-      "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
+      "id": "tech-sony-is-raising-short-subscription-prices-for-pl-f269009001",
+      "title": "Sony is raising short-subscription prices for PlayStation Plus",
       "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
+      "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
       "tag": "Technology",
-      "publishedAt": "2026-05-18T14:15:00.000Z",
-      "summary": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to se...",
+      "publishedAt": "2026-05-18T16:24:40.000Z",
+      "summary": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-mon...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-starlink-raises-prices-across-satellite-internet-ce4d4da939",
-      "title": "Starlink raises prices across satellite internet plans",
+      "id": "tech-live-updates-from-elon-musk-and-sam-altman-s-cou-c2fecb0b02",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "tag": "Technology",
-      "publishedAt": "2026-05-18T14:08:19.000Z",
-      "summary": "Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as...",
+      "publishedAt": "2026-05-18T16:24:03.000Z",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accu...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
