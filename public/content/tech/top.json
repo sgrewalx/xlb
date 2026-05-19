@@ -1,25 +1,35 @@
 {
-  "updatedAt": "2026-05-19T22:06:52.807Z",
+  "updatedAt": "2026-05-19T23:54:29.855Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-we-react-to-google-i-o-2026-ebb7b25b69",
-      "title": "We react to Google I/O 2026",
+      "id": "tech-wear-os-7-will-keep-track-of-deliveries-and-spor-2d0fc68e5a",
+      "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
       "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T21:48:26.000Z",
-      "summary": "What better way to unwind from a two-hour-long keynote presentation than to pour over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's lead...",
+      "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+      "tag": "Running",
+      "publishedAt": "2026-05-19T23:24:36.000Z",
+      "summary": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things li...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-firefox-ai-guardrails-arrive-for-mobile-142d0ddf24",
-      "title": "Firefox AI guardrails arrive for mobile",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2177238/firefox-ai-guardrails-arrive-for-mobile",
+      "id": "tech-literary-prizewinners-are-facing-ai-allegations--7c1df9ff36",
+      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T21:45:17.000Z",
-      "summary": "The feature lets you turn all AI enhancements off with one tap.",
+      "publishedAt": "2026-05-19T22:53:04.000Z",
+      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-android-xr-is-finally-starting-to-feel-real-5669e69ec2",
+      "title": "Android XR is finally starting to feel real",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real",
+      "tag": "Technology",
+      "publishedAt": "2026-05-19T22:43:13.000Z",
+      "summary": "Google has a lot to prove, but its smart glasses will have a few big advantages.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,6 +43,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-fbi-seeks-us-wide-access-to-license-plate-camera-2bb7fd3758",
+      "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time",
+      "tag": "Running",
+      "publishedAt": "2026-05-19T21:29:33.000Z",
+      "summary": "FBI will pay vendors to help it track and search for vehicles nationwide.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-google-to-release-first-smart-glasses-since-goog-28a6549137",
       "title": "Google to release first smart glasses since Google Glass flop",
       "source": "BBC Technology",
@@ -40,26 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-19T21:00:12.000Z",
       "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spider-noir-final-trailer-gives-us-a-classic-vil-4c0ddc53bd",
-      "title": "Spider-Noir final trailer gives us a classic villain",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/05/spider-noirs-final-trailer-leans-into-the-deadpan-humor",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T20:58:51.000Z",
-      "summary": "It's never too late to become a hero.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-everything-announced-at-google-i-o-2026-gemini-s-0913d2634e",
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T20:00:48.000Z",
-      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-you-can-now-talk-to-your-gmail-inbox-as-seen-at--62e2a1c528",
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+      "id": "tech-plex-is-tripling-the-price-of-a-lifetime-pass-to-6fcddf72d9",
+      "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T21:25:31.000Z",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "publishedAt": "2026-05-19T23:03:48.000Z",
+      "summary": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective c...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-future-of-google-is-a-search-box-that-does-e-697d2120ad",
-      "title": "The future of Google is a search box that does everything",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
+      "id": "tech-discord-now-has-end-to-end-encryption-on-all-cal-8559250906",
+      "title": "Discord now has end-to-end encryption on all calls",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T21:24:14.000Z",
-      "summary": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think G...",
+      "publishedAt": "2026-05-19T22:31:03.000Z",
+      "summary": "It's a win for privacy on the social app.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
