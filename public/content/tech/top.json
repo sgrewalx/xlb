@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-05-19T18:53:09.105Z",
+  "updatedAt": "2026-05-19T20:24:20.756Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-kickstarter-just-killed-its-new-mature-content-r-cfd36c7601",
-      "title": "Kickstarter just killed its new mature content rules",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T18:30:43.000Z",
-      "summary": "Last week, we noted Kickstarter's new content guidelines which had some pretty weird new additions, including a prohibition on \"sexual wellness products that are not designed fo...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-rfk-jr-forced-to-withdraw-charter-that-opened-cd-c6d27c9cbd",
-      "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T18:17:54.000Z",
-      "summary": "Charter would have expanded member eligibility and focused on alleged injuries.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-everything-announced-at-google-i-o-2026-bf17471522",
-      "title": "Everything announced at Google I/O 2026",
+      "id": "tech-google-debuts-ai-powered-tools-to-optimize-scien-f18119a763",
+      "title": "Google debuts AI-powered tools to optimize scientific research workflows",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark",
+      "url": "https://www.engadget.com/2177120/google-debuts-ai-powered-tools-to-optimize-scientific-research-workflows",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T18:07:03.000Z",
-      "summary": "The biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
+      "publishedAt": "2026-05-19T20:15:15.000Z",
+      "summary": "Three new features will be available under the Gemini for Science collection.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-s-genie-world-model-can-now-simulate-real-d53c877638",
-      "title": "Google’s Genie world model can now simulate real streets with Street View",
+      "id": "tech-democrats-preview-how-they-d-go-after-the-ticket-a7fa50b448",
+      "title": "Democrats preview how they’d go after the Ticketmaster settlement if they regain power",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement",
+      "tag": "Technology",
+      "publishedAt": "2026-05-19T20:13:14.000Z",
+      "summary": "A handful of Democrats called an unofficial hearing on Capitol Hill Monday to slam the Department of Justice's \"trivial\" and \"pathetic\" settlement with Live Nation-Ticketmaster,...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-elon-musk-said-sam-altman-stole-a-non-profit-but-65bec8af36",
+      "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T17:51:39.000Z",
-      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore envi...",
+      "publishedAt": "2026-05-19T20:11:00.000Z",
+      "summary": "“By the end of this week, you and Sam will be the most hated men in America.”",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-hands-on-with-all-of-google-s-new-upcoming-andro-bec0b9d17b",
-      "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
+      "id": "tech-everything-announced-at-google-i-o-2026-gemini-s-0913d2634e",
+      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
       "source": "Wired",
-      "url": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses",
+      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "summary": "Here's your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung's XR platform.",
+      "publishedAt": "2026-05-19T20:00:48.000Z",
+      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-life-968bec5cb8",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-19T20:00:00.000Z",
+      "summary": "We talk to an expert about the risks from AI hackers.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-io-2026-here-s-everything-that-was-announ-47c6ecf745",
+      "title": "Google IO 2026: Here’s Everything That Was Announced From Gemini 3.5 Flash to Gemini Omni",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/news/google-io-2026-everything-announced-gemini-3-5-flash-omni-spark-model-universal-cart-11519674",
+      "tag": "Technology",
+      "publishedAt": "2026-05-19T18:57:57.000Z",
+      "summary": "Google I/O 2026 was hosted on Friday as the Mountain View-based tech giant's latest edition of its annual developer conference. During the keynote, Google’s head Sundar Pichai a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-two-ai-based-science-assistants-succeed-with-dru-73bc0dc7b0",
+      "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks",
+      "tag": "Technology",
+      "publishedAt": "2026-05-19T18:55:56.000Z",
+      "summary": "Both tools generate hypotheses; one goes on to analyze some of the data.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-19T13:15:14.000Z",
       "summary": "At Vivekananda Global University, students are taught to build startups, file patents, and solve local problems long before graduation — creating a founder-first culture rooted...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-zoe-kleinman-why-the-ai-industry-is-the-real-win-d175bdb0ba",
-      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T11:05:09.000Z",
-      "summary": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-announces-agent-optimized-gemini-3-5-flas-474eee749d",
-      "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T18:11:50.000Z",
-      "summary": "Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gemini-will-use-volvo-s-external-cameras-to-inte-22d5450a3a",
-      "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T18:00:00.000Z",
-      "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-xbox-game-pass-additions-for-late-may-include-fo-959e25d9aa",
-      "title": "Xbox Game Pass additions for late May include Forza Horizon 6 and Remnant II",
+      "id": "tech-fortnite-is-returning-to-the-app-store-globally--98f44cceeb",
+      "title": "Fortnite is returning to the App Store globally, a year after its US comeback",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2176864/xbox-game-pass-additions-for-late-may-include-forza-horizon-6-and-remnant-ii",
+      "url": "https://www.engadget.com/2177068/fortnite-is-returning-to-the-app-store-globally-a-year-after-its-us-comeback",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T18:00:00.000Z",
-      "summary": "The first-person adventure Luna Abyss is also a day-one release.",
+      "publishedAt": "2026-05-19T19:51:44.000Z",
+      "summary": "Fortnite is returning to the App Store everywhere (except Australia).",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ugreen-s-new-soccer-ball-shaped-tracker-has-up-t-6dd9f5a36d",
+      "title": "Ugreen’s new soccer ball-shaped tracker has up to 7 years of battery life",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
+      "tag": "Football",
+      "publishedAt": "2026-05-19T19:49:11.000Z",
+      "summary": "Ugreen has announced a new Apple Find My-compatible tracker with a novel design that limits where you can hide it, but greatly benefits battery life. Inspired by \"major football...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
