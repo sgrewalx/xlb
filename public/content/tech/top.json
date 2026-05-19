@@ -1,65 +1,55 @@
 {
-  "updatedAt": "2026-05-19T16:44:47.437Z",
+  "updatedAt": "2026-05-19T18:53:09.105Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-google-i-o-2026-live-blog-on-the-ground-at-googl-a76ed2341d",
-      "title": "Google I/O 2026 live blog: On the ground at Google’s keynote",
+      "id": "tech-kickstarter-just-killed-its-new-mature-content-r-cfd36c7601",
+      "title": "Kickstarter just killed its new mature content rules",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote",
+      "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T16:30:00.000Z",
-      "summary": "We're back at the Shoreline Amphitheatre in Mountain View, California, for this year's edition of Google I/O. These days, Silicon Valley is buzzing about the future of AI search...",
+      "publishedAt": "2026-05-19T18:30:43.000Z",
+      "summary": "Last week, we noted Kickstarter's new content guidelines which had some pretty weird new additions, including a prohibition on \"sexual wellness products that are not designed fo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nintendo-s-wacky-new-mobile-game-takes-inspirati-48e6fac9ab",
-      "title": "Nintendo's wacky new mobile game takes inspiration from WarioWare",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2176714/nintendos-wacky-new-mobile-game-takes-inspiration-from-warioware",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T16:28:34.000Z",
-      "summary": "The free-to-download Pictonico! turns photos into minigames.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-era-of-1-000-hz-gaming-monitors-has-arrived--f9240ab573",
-      "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
+      "id": "tech-rfk-jr-forced-to-withdraw-charter-that-opened-cd-c6d27c9cbd",
+      "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor",
+      "url": "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T16:26:56.000Z",
-      "summary": "LG's latest hits one frame per millisecond at a full 1080p resolution.",
+      "publishedAt": "2026-05-19T18:17:54.000Z",
+      "summary": "Charter would have expanded member eligibility and focused on alleged injuries.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-co-founder-andrej-karpathy-joins-anthropi-59a26e869e",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "id": "tech-everything-announced-at-google-i-o-2026-bf17471522",
+      "title": "Everything announced at Google I/O 2026",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark",
+      "tag": "Technology",
+      "publishedAt": "2026-05-19T18:07:03.000Z",
+      "summary": "The biggest news from Google's annual developer conference, from Gemini Spark, Omni and Search to Shopping, XR and more.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-s-genie-world-model-can-now-simulate-real-d53c877638",
+      "title": "Google’s Genie world model can now simulate real streets with Street View",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team",
+      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T15:43:04.000Z",
-      "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive...",
+      "publishedAt": "2026-05-19T17:51:39.000Z",
+      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore envi...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-former-openai-staffers-warn-that-xai-s-poor-safe-470b297c86",
-      "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
+      "id": "tech-hands-on-with-all-of-google-s-new-upcoming-andro-bec0b9d17b",
+      "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
       "source": "Wired",
-      "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks",
+      "url": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T15:00:28.000Z",
-      "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-massive-solar-storm-reveals-how-mars-is-losing-i-e79ccfaeba",
-      "title": "Massive Solar Storm Reveals How Mars Is Losing Its Atmosphere",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/massive-solar-storm-reveals-how-mars-is-losing-its-atmosphere-11516905",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T14:30:59.000Z",
-      "summary": "Researchers using NASA’s MAVEN observed unusual plasma structures during a major Solar Storm, revealing new details about how solar wind strips away the Martian atmosphere and r...",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "summary": "Here's your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung's XR platform.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +93,33 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ev-drivers-will-pay-130-a-year-under-congress-20-8d5cec7218",
-      "title": "EV drivers will pay $130 a year under Congress' 2026 transportation bill",
+      "id": "tech-google-announces-agent-optimized-gemini-3-5-flas-474eee749d",
+      "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/05/bipartisan-bill-in-congress-includes-130-annual-ev-registration-fee",
+      "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T16:12:01.000Z",
-      "summary": "Politicians say they want EVs to pay \"their fair share for the use of our roads.\"",
+      "publishedAt": "2026-05-19T18:11:50.000Z",
+      "summary": "Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-civilization-vii-finally-lets-you-build-a-civ-th-4df354f582",
-      "title": "Civilization VII finally lets you build a civ that stands the test of time",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time",
+      "id": "tech-gemini-will-use-volvo-s-external-cameras-to-inte-22d5450a3a",
+      "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
       "tag": "Technology",
-      "publishedAt": "2026-05-19T16:00:01.000Z",
-      "summary": "Civ 7 ’s devs talk walking back the game's most controversial decision.",
+      "publishedAt": "2026-05-19T18:00:00.000Z",
+      "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xbox-game-pass-additions-for-late-may-include-fo-959e25d9aa",
+      "title": "Xbox Game Pass additions for late May include Forza Horizon 6 and Remnant II",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2176864/xbox-game-pass-additions-for-late-may-include-forza-horizon-6-and-remnant-ii",
+      "tag": "Technology",
+      "publishedAt": "2026-05-19T18:00:00.000Z",
+      "summary": "The first-person adventure Luna Abyss is also a day-one release.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
