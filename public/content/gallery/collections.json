@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T07:01:31.013Z",
+  "updatedAt": "2026-05-19T06:52:57.551Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 169 earthquake events in the last 24 hours. Strongest reported event: M5.4 near West Chile Rise.",
+          "summary": "USGS reported 272 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 51 km SSW of Port-Vila, Vanuatu.",
           "metricLabel": "Updated",
-          "metricValue": "May 18, 07:01 AM",
+          "metricValue": "May 19, 06:52 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -89,7 +89,7 @@
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
-          "metricValue": "44d 4h",
+          "metricValue": "43d 5h",
           "href": "/events/clps-flight-astrobotic-griffin-1",
           "accent": "space"
         },
