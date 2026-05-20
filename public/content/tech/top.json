@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-05-20T10:18:53.622Z",
+  "updatedAt": "2026-05-20T13:30:47.433Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-election-officials-are-getting-ready-for-ice-to--bb47d5593b",
-      "title": "Election Officials Are Getting Ready for ICE to Show Up at the Polls",
+      "id": "tech-github-says-hackers-stole-data-from-thousands-of-33f70f41e6",
+      "title": "GitHub says hackers stole data from thousands of internal repositories",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories",
+      "tag": "Technology",
+      "publishedAt": "2026-05-20T13:25:58.000Z",
+      "summary": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-if-google-can-t-make-ai-agents-useful-maybe-no-o-38e9ce6838",
+      "title": "If Google can’t make AI agents useful, maybe no one can",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "tag": "Technology",
+      "publishedAt": "2026-05-20T13:24:22.000Z",
+      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that ha...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-perfect-storm-how-trump-s-aid-cuts-are-fueling-t-4ea77d40ac",
+      "title": "‘Perfect Storm’: How Trump's Aid Cuts Are Fueling the Ebola Outbreak",
       "source": "Wired",
-      "url": "https://www.wired.com/story/election-officials-are-getting-ready-for-ice-to-show-up-midterms",
+      "url": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak",
       "tag": "Technology",
-      "publishedAt": "2026-05-20T10:00:00.000Z",
-      "summary": "The Trump administration keeps threatening to send federal agents to oversee elections. State and local officials are preparing, and even gaming out what happens if they're arre...",
+      "publishedAt": "2026-05-20T13:16:22.000Z",
+      "summary": "One health provider who works on the ground says that basic medical equipment like masks and hand sanitizers are in short supply due to funding cuts.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-startup-news-and-updates-daily-roundup-may-20-20-da5d812c86",
-      "title": "Startup news and updates: daily roundup (May 20, 2026)",
+      "id": "tech-china-banned-rtx-5090d-v2-while-nvidia-ceo-jense-c1f28f3aad",
+      "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting",
+      "tag": "Technology",
+      "publishedAt": "2026-05-20T13:10:15.000Z",
+      "summary": "The chip was added to a list of banned goods at China’s customs checkpoints last Friday.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-india-has-over-two-lakh-startups-expansion-reach-5adcf8b8af",
+      "title": "India has over two lakh startups, expansion reaching smaller cities: Minister Khadse",
       "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-20-2026",
+      "url": "https://yourstory.com/2026/05/india-two-lakh-startups-expansion-smaller-cities-minister-khadse",
       "tag": "Technology",
-      "publishedAt": "2026-05-20T09:53:29.000Z",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, May 20, 2026.",
+      "publishedAt": "2026-05-20T13:02:46.000Z",
+      "summary": "India now has over two lakh startups, with the ecosystem expanding beyond metros into smaller towns, Union minister Raksha Khadse said at the BRICS Youth Entrepreneurship Workin...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-mercedes-amg-s-1-153-hp-electric-gt-4-door-takes-828b0a5f05",
-      "title": "Mercedes-AMG's 1,153 hp electric GT 4-Door takes on Porsche's Taycan",
+      "id": "tech-xgimi-titan-noir-max-projector-review-excellent--00894eb10b",
+      "title": "XGIMI Titan Noir Max projector review: Excellent image quality, but short on features",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2177477/mercedes-amg-1153-hp-electric-gt-4-door-takes-on-porsche-taycan",
+      "url": "https://www.engadget.com/2173721/xgimi-titan-noir-max-projector-review-excellent-image-quality-but-short-on-features",
       "tag": "Technology",
-      "publishedAt": "2026-05-20T09:11:23.000Z",
-      "summary": "Mercedes-AMG has come up with its most powerful vehicle ever and there's no ICE engine in sight.",
+      "publishedAt": "2026-05-20T13:00:00.000Z",
+      "summary": "It offers bright and incredibly accurate video in an elegant body, but has no smart TV features.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-pritam-and-pedro-ott-release-date-when-and-where-80cf07da99",
-      "title": "Pritam and Pedro OTT Release Date: When and Where to Watch Rajkumar Hirani's Online?",
+      "id": "tech-lenovo-legion-5-15iax11-with-15-3-inch-oled-disp-21ac03f320",
+      "title": "Lenovo Legion 5 15IAX11 With 15.3-Inch OLED Display, Up to Intel Core Ultra 9 CPU Listed Online",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/entertainment/news/jiohotstar-announces-the-upcoming-web-series-pritam-and-pedro-know-when-to-stream-it-online-11522006",
+      "url": "https://www.gadgets360.com/laptops/news/lenovo-legion-5-15iax11-specifications-features-listing-11523208",
       "tag": "Technology",
-      "publishedAt": "2026-05-20T09:02:54.000Z",
-      "summary": "Pritam and Pedro is an upcoming web series whose teaser has been unveiled by the JioHotstar. It has been created and produced by Rajkumar Hirani and features a stellar starcast.",
+      "publishedAt": "2026-05-20T12:28:46.000Z",
+      "summary": "Lenovo Legion 5 15IAX11 has been listed on the company website, revealing its colour options and specifications. It has a 15.3-inch OLED display with a 165Hz refresh rate. The l...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-groups-urge-investigation-into-child-safety-a-30cde8616e",
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-20T10:27:50.000Z",
+      "summary": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,46 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-samsung-workers-set-to-strike-at-worst-possible--5c926b5a2c",
-      "title": "Samsung workers set to strike at worst possible time",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-      "tag": "Technology",
-      "publishedAt": "2026-05-20T08:49:01.000Z",
-      "summary": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-moose-proof-and-megacasting-ars-drives-the-new-v-952f122e61",
-      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60",
-      "tag": "Technology",
-      "publishedAt": "2026-05-20T07:00:57.000Z",
-      "summary": "Volvo is coming for its competitors with more efficient production and newer tech.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ask-youtube-brings-ai-powered-conversational-sea-09e41227e4",
-      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts",
-      "tag": "Technology",
-      "publishedAt": "2026-05-20T05:45:00.000Z",
-      "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-to-release-first-smart-glasses-since-goog-28a6549137",
-      "title": "Google to release first smart glasses since Google Glass flop",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-19T21:00:12.000Z",
-      "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-redmi-turbo-6-max-leak-hints-at-a-significant-ba-dabcb6f8d4",
-      "title": "Redmi Turbo 6 Max Leak Hints at a Significant Battery Upgrade and a Larger Display: Expected Specifications",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/redmi-turbo-6-max-chipset-battery-capacity-display-tipped-specifications-features-11521992",
+      "id": "tech-the-biggest-data-center-ever-is-becoming-a-huge--5c4499b873",
+      "title": "The biggest data center ever is becoming a huge problem in Utah",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
       "tag": "Technology",
-      "publishedAt": "2026-05-20T09:02:10.000Z",
-      "summary": "Redmi Turbo 6 Max will be launched with a significantly larger battery than its predecessor, according to a report. The handset is said to be under testing and might be equipped...",
+      "publishedAt": "2026-05-20T13:00:00.000Z",
+      "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder Count...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-acer-aspire-5-ai-laptop-with-up-to-intel-core-ul-fc726eee43",
-      "title": "Acer Aspire 5 AI Laptop With Up to Intel Core Ultra 7 CPU Launched in India: Price, Features",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/laptops/news/acer-aspire-5-ai-price-india-launch-availability-specifications-features-11521954",
+      "id": "tech-figma-adds-an-ai-assistant-to-its-collaborative--006004f0e8",
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas",
       "tag": "Technology",
-      "publishedAt": "2026-05-20T09:00:15.000Z",
-      "summary": "Acer has launched the Aspire 5 AI in India with up to Intel Core Ultra 7 H-series processors, a 14-inch WUXGA display, and up to 32GB of LPDDR5 RAM. The laptop offers up to 1TB...",
+      "publishedAt": "2026-05-20T13:00:00.000Z",
+      "summary": "Figma's new AI assistant will be first available on Figma Design",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
