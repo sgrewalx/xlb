@@ -1,34 +1,74 @@
 {
-  "updatedAt": "2026-05-19T23:56:24.401Z",
+  "updatedAt": "2026-05-20T02:50:25.358Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-adverts-for-dna-self-swab-kits-banned-as-mislead-84d625d876",
-      "title": "Adverts for DNA self-swab kits banned as misleading",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cgjpn0qeqzdo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-05-19T23:45:34.000Z",
-      "summary": "The Advertising Standards Authority has ruled Enough's online posts contained unproven claims.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-australia-news-live-inflation-and-oil-shock-expe-e8c3f3b7ba",
-      "title": "Australia news live: inflation and oil shock expected to slow NSW economy; $1m reward for information on opal miner’s unsolved death",
+      "id": "news-australia-news-live-minns-accuses-federal-govern-ab3579d3fd",
+      "title": "Australia news live: Minns accuses federal government of inaction on income tax; AI nudify service ordered to block children’s access",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/20/federal-budget-tim-wilson-reply-national-press-club-coalition-liberal-national-angus-taylor-labor-anthony-albanese-jim-chalmers-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-05-19T23:44:54.000Z",
-      "summary": "NSW treasurer Daniel Mookhey has warned of ‘difficult choices’ ahead of next month’s state budget. Follow updates live Get our breaking news email , free app or daily news podca...",
+      "publishedAt": "2026-05-20T02:34:16.000Z",
+      "summary": "The NSW premier saying working families are being ‘stung’ by bracket creep. Follow updates live Get our breaking news email , free app or daily news podcast The NSW economy will...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-early-war-goal-was-to-install-hard-line-former-p-3fd6411dba",
+      "id": "news-indian-diplomat-found-dead-inside-mission-in-ban-edf208a73a",
+      "title": "Indian diplomat found dead inside mission in Bangladesh's Chattogram",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/indian-diplomat-found-dead-inside-mission-in-bangladeshs-chattogram/article71000560.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-20T02:14:58.000Z",
+      "summary": "Naren Dhar, an Assistant Protocol Officer at the Indian mission, was found in front of a bathroom door early in the morning on the second floor of the old visa centre building o...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-president-trump-and-family-given-immunity-fro-61ddc7341c",
+      "title": "US President Trump and family given immunity from pending tax audits",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/us-president-trump-and-family-given-immunity-from-pending-tax-audits?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-20T02:08:42.000Z",
+      "summary": "Democrats blast the tax announcement, which follows establishment of a controversial 'Anti-Weaponization Fund'.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-uk-loosens-russian-oil-sanctions-as-fuel-prices--d39aa805af",
+      "title": "UK loosens Russian oil sanctions as fuel prices rise",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-05-20T01:58:01.000Z",
+      "summary": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-rajasthan-court-says-aata-sata-marriage-system-i-2f412b6a97",
+      "title": "Rajasthan Court Says 'Aata-Sata' Marriage System Is \"Morally Bankrupt\"",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/rajasthan-high-court-says-aata-sata-marriage-system-is-morally-bankrupt-11520256",
+      "tag": "India",
+      "publishedAt": "2026-05-20T01:12:58.000Z",
+      "summary": "The Aata-Sata, or \"give and take\" marriage, is an age-old custom practised in Rajasthan where two families exchange their daughters, including minors, for marriage.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-scattered-books-on-roadside-ransom-call-from-ker-5af7edb828",
+      "title": "Scattered books on roadside, ransom call from Kerala: 6-year search for teen puts spotlight back on Bokaro police",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/scattered-books-on-roadside-ransom-call-from-kerala-6-year-search-for-teen-puts-spotlight-back-on-bokaro-police-10698417",
+      "tag": "India",
+      "publishedAt": "2026-05-20T01:00:49.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-early-war-goal-was-to-install-hard-line-former-p-463022efb2",
       "title": "Early War Goal Was to Install Hard Line Former President as Iran’s Leader",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
       "tag": "US",
-      "publishedAt": "2026-05-19T23:41:32.000Z",
+      "publishedAt": "2026-05-19T23:56:08.000Z",
       "summary": "An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
@@ -43,26 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-u-s-says-held-talks-with-cuba-on-100-million-off-cc9ca1d390",
-      "title": "U.S. says held talks with Cuba on $100 million offer",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/us-says-held-talks-with-cuba-on-100-million-offer/article70999866.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-05-19T23:24:31.000Z",
-      "summary": "The aid would be distributed through Catholic Relief Services and Samaritan’s Purse, an evangelical Protestant charity, and not handed over directly to the Cuban government, an...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-putin-meets-xi-why-russia-and-china-need-each-ot-7501687d16",
-      "title": "Putin meets Xi: Why Russia and China need each other",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/putin-meets-xi-why-russia-and-china-need-each-other?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-19T23:07:30.000Z",
-      "summary": "Vladimir Putin’s arrival was announced just a day after United States President Donald Trump left Beijing.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-taiwan-travelogue-wins-the-2026-international-bo-54a87f8291",
       "title": "'Taiwan Travelogue' wins the 2026 International Booker Prize",
       "source": "NPR",
@@ -70,26 +90,6 @@
       "tag": "US",
       "publishedAt": "2026-05-19T21:31:47.000Z",
       "summary": "The novel is the first work translated from Mandarin Chinese to win the award, which celebrates its 10th anniversary this year.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-marco-rubio-to-visit-india-from-may-23-trade-def-e93759bb8a",
-      "title": "Marco Rubio to visit India from May 23; trade, defence, energy on agenda",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/marco-rubio-to-visit-india-from-may-23-trade-defence-energy-on-agenda-10698421",
-      "tag": "India",
-      "publishedAt": "2026-05-19T19:24:59.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-suicide-not-murder-bhopal-top-cop-on-probe-into--471ad02704",
-      "title": "'Suicide, Not Murder': Bhopal Top Cop On Probe Into Twisha Sharma's Death",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/twisha-sharma-death-suicide-not-murder-bhopal-police-commissioner-on-probe-11519652",
-      "tag": "India",
-      "publishedAt": "2026-05-19T19:13:44.000Z",
-      "summary": "No sign of drug use has been found in Twisha Sharma's post-mortem, Bhopal Police Commissioner Sanjay Kumar told NDTV.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-uk-should-set-maximum-working-temperature-rules--462c6169fe",
-      "title": "UK should set maximum working temperature rules, advisers say",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-05-19T23:40:12.000Z",
-      "summary": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+      "id": "news-british-diplomat-james-roscoe-leaves-posting-at--5e2ca38bcb",
+      "title": "British diplomat James Roscoe leaves posting at Washington embassy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/20/british-diplomat-james-roscoe-abruptly-leaves-washington-embassy-post",
+      "tag": "Europe",
+      "publishedAt": "2026-05-20T02:30:34.000Z",
+      "summary": "Abrupt exit for charge d’affaires who stood in after Peter Mandelson’s removal as US ambassador A diplomat in Washington who stood in as interim ambassador after the sacking of...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-polls-close-in-kentucky-where-thomas-massie-seek-8df4bb5403",
-      "title": "Polls close in Kentucky, where Thomas Massie seeks to survive Trump’s attacks as several states hold primaries – live",
+      "id": "news-i-ve-got-seven-months-left-massie-speaks-out-aft-691ab00cc3",
+      "title": "‘I’ve got seven months left’: Massie speaks out after losing House primary to Trump-backed challenger Ed Gallrein – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2026/may/19/donald-trump-primaries-midterms-republicans-kentucky-thomas-massie-pennsylvania-georgia-alabama-oregon-idaho-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-05-19T23:34:24.000Z",
-      "summary": "President also endorses hardline ally Paxton over veteran senator for Senate race in Texas amid latest test of Trump’s grip on GOP Trump endorses attorney general Ken Paxton in...",
+      "publishedAt": "2026-05-20T02:26:08.000Z",
+      "summary": "Kentucky congressman who championed Epstein bill failed to fight off attacks from president in victory for Trump Trump critic Thomas Massie defeated in Kentucky Republican House...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
