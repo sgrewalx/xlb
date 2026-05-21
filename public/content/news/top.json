@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-05-21T18:55:32.106Z",
+  "updatedAt": "2026-05-21T20:48:01.234Z",
   "section": "Expanded News",
   "items": [
+    {
+      "id": "news-from-rallies-to-reels-political-catchphrases-tur-d34f7b0911",
+      "title": "From rallies to reels: political catchphrases turn dance anthems in Kolkata",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/entertainment/politics-to-parties-kolkatas-latest-viral-trend-has-people-dancing-to-political-slogans/article70996818.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-21T20:44:27.000Z",
+      "summary": "Why are Kolkata club-goers dancing to Mamata Banerjee’s ‘Hamba Hamba’ and the BJP’s ‘Mach Chor’ ? From campaign songs and election slogans to viral reels and packed dancefloors,...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-danes-try-to-tow-dead-whale-from-island-beach-af-211437edcd",
+      "title": "Danes try to tow dead whale from island beach after failed German rescue",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-21T20:40:08.000Z",
+      "summary": "An environmental team want to move the whale from Anholt to the Danish mainland, but they have had to pause the operation.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-senate-won-t-take-up-ice-funding-bill-amid-ro-ce16b8c3bf",
+      "title": "US Senate won’t take up ICE funding bill amid row over Trump’s ballroom, which president defends as ‘very good expenditure’ – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-05-21T20:31:39.000Z",
+      "summary": "President claims ‘I don’t need money for the ballroom’ as Senate Republicans move to ditch $1bn funding plan amid fears of alienating voters Sign up for the Breaking News US ema...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-in-an-unusual-move-rubio-says-venezuela-leader-t-99996c8c84",
+      "title": "In an unusual move, Rubio says Venezuela leader to visit India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/in-an-unusual-move-rubio-says-venezuela-leader-to-visit-india/articleshow/131251883.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-21T20:27:51.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-turkish-court-ruling-means-new-trouble-for-erdog-b99777f884",
+      "title": "Turkish Court Ruling Means New Trouble for Erdogan’s Foes",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/21/world/middleeast/turkish-court-ruling-erdogan-ekrem-imamoglu.html",
+      "tag": "US",
+      "publishedAt": "2026-05-21T20:20:24.000Z",
+      "summary": "A surprise judgment replaced the leader of Turkey’s main opposition party with a former leader known for losing elections.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-sanctions-elected-hezbollah-mps-and-lebanese--5ded447787",
+      "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-21T20:09:10.000Z",
+      "summary": "Hezbollah says the sanctions will have 'absolutely no effect' on its strategy amid ongoing Israeli attacks on Lebanon.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-neet-leak-not-through-national-testing-agency-sy-6f5f51b2c3",
+      "title": "NEET Leak Not Through National Testing Agency System, Its Chief Tells MPs",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/neet-leak-not-through-national-testing-agency-system-its-chief-tells-mps-11530303",
+      "tag": "India",
+      "publishedAt": "2026-05-21T19:51:54.000Z",
+      "summary": "The CBI has so far arrested nine accused in this case, including individuals from Jaipur and Sikar in Rajasthan, Gurugram in Haryana, and Nashik, Pune, and Ahilyanagar in Mahara...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-sisterhood-in-the-profession-is-very-important-t-6a13b66624",
+      "title": "Sisterhood in the profession is very important… to ensure access doesn’t end with individual achievement: Justice Nagarathna",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/sisterhood-in-the-profession-is-very-important-to-ensure-access-doesnt-end-with-individual-achievement-justice-nagarathna-10702054",
+      "tag": "India",
+      "publishedAt": "2026-05-21T19:23:16.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
     {
       "id": "news-palestinians-drop-bid-for-a-senior-u-n-role-afte-0ad5976688",
       "title": "Palestinians drop bid for a senior U.N. role after U.S. pressure",
@@ -10,86 +90,6 @@
       "tag": "US",
       "publishedAt": "2026-05-21T18:49:34.000Z",
       "summary": "The Palestinian delegation to the United Nations has dropped its bid to secure a top U.N. job after the U.S. threatens to revoke their visas.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-senate-won-t-take-up-ice-funding-bill-amid-ro-cfdc4a2af6",
-      "title": "US Senate won’t take up ICE funding bill amid row over Trump’s ballroom, which president defends as ‘very good expenditure’ – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-05-21T18:43:57.000Z",
-      "summary": "President claims ‘I don’t need money for the ballroom’ as Senate Republicans move to ditch $1bn funding plan amid fears of alienating voters Sign up for the Breaking News US ema...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-man-arrested-for-selling-gutka-at-ambur-railway--e55a2e3e80",
-      "title": "Man arrested for selling gutka at Ambur railway station",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/man-arrested-for-selling-gutka-at-ambur-railway-station/article71006917.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-21T18:42:27.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-is-islamophobia-being-re-packaged-as-feminism-f45335983f",
-      "title": "Is Islamophobia being re-packaged as feminism?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/is-islamophobia-being-re-packaged-as-feminism?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-21T18:35:40.000Z",
-      "summary": "A group of female activists at a far-right rally in the UK have sparked a backlash.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-how-china-s-housing-crisis-has-global-consequenc-2790258847",
-      "title": "How China’s Housing Crisis Has Global Consequences",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/video/world/asia/100000010700399/how-chinas-housing-crisis-has-global-consequences.html",
-      "tag": "US",
-      "publishedAt": "2026-05-21T18:35:14.000Z",
-      "summary": "Our Beijing bureau chief, Keith Bradsher, describes how China’s enormous housing crash is affecting economies all over the world.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pair-arrested-after-boys-abandoned-by-road-in-po-b719d93d10",
-      "title": "Pair arrested after boys abandoned by road in Portugal",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-21T18:32:30.000Z",
-      "summary": "The children were carrying backpacks with food and water but no identity documents when they were found by a driver.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-wangchuk-set-to-join-ladakh-talks-today-f08f78a90a",
-      "title": "Wangchuk set to join Ladakh talks today",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/wangchuk-set-to-join-ladakh-talks-today/articleshow/131250461.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-21T18:17:07.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-twisha-sharma-s-mother-in-law-goes-to-court-says-8bb7bf83cc",
-      "title": "Twisha Sharma's Mother-In-Law Goes To Court, Says Clips, Chats Fabricated",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/twisha-sharmas-mother-in-law-goes-to-court-says-clips-chats-fabricated-11530163",
-      "tag": "India",
-      "publishedAt": "2026-05-21T18:16:25.000Z",
-      "summary": "Giribala Singh has also sought that the cellphones belonging to Twisha Sharma's family be seized and sent for forensic investigation.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-manoj-parab-head-of-goan-party-that-promised-rev-42912ddc47",
-      "title": "Manoj Parab, head of Goan party that promised revolution, quits citing dirty politics",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/manoj-parab-head-of-goan-party-that-promised-revolution-quits-citing-dirty-politics-10701917",
-      "tag": "India",
-      "publishedAt": "2026-05-21T16:33:20.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-revanth-demands-special-parliament-session-to-pa-850796d3e0",
-      "title": "Revanth demands special Parliament session to pass women’s reservation bill",
+      "id": "news-supreme-court-declines-to-interfere-with-forest--56e89543fb",
+      "title": "Supreme Court declines to interfere with forest clearances for Adani’s Madhya Pradesh coal block project",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/revanth-demands-special-parliament-session-to-pass-womens-reservation-bill/article71007815.ece",
+      "url": "https://www.thehindu.com/business/Industry/sc-declines-to-interfere-with-forest-clearances-for-adanis-madhya-pradesh-coal-block-project/article71006013.ece",
       "tag": "India",
-      "publishedAt": "2026-05-21T18:40:57.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-05-21T20:39:47.000Z",
+      "summary": "The petitioner argued that a technical objection on the ground of delay ought not to preclude the court from examining the validity of the clearances",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-designs-for-250-ft-arch-in-washington-approved-b-26952ec5b6",
-      "title": "Designs for 250-ft arch in Washington approved by panel of Trump appointees",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/21/trump-arch-washington-dc",
+      "id": "news-at-least-16-dead-in-honduras-as-gunmen-open-fire-2e76d1d074",
+      "title": "At least 16 dead in Honduras as gunmen open fire in two separate attacks",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/gunmen-open-fire-in-two-separate-attacks-in-honduras-many-dead/article71008001.ece",
       "tag": "Europe",
-      "publishedAt": "2026-05-21T18:40:37.000Z",
-      "summary": "Approval marks key step forward for project dubbed ‘Arc de Trump’, which will be near Arlington National Cemetery The Commission of Fine Arts on Thursday approved designs for Do...",
+      "publishedAt": "2026-05-21T20:38:04.000Z",
+      "summary": "The overall toll still remains unclear, partly because relatives of the victims have removed bodies of their loved ones, police said",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
