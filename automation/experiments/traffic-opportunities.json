@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-05-20T06:53:18.897Z",
+  "updatedAt": "2026-05-21T06:57:37.133Z",
   "items": [
+    {
+      "id": "traffic-index-watch-games",
+      "title": "Watch index coverage for /games",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/games is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/games"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-sports",
+      "title": "Watch index coverage for /sports",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/sports is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/sports"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
       "title": "Watch index coverage for /events/global-earthquake-watch",
@@ -108,6 +136,20 @@
       "hypothesis": "/topics/space-weather is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/topics/space-weather"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-topics-nasa",
+      "title": "Watch index coverage for /topics/nasa",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/topics/nasa is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/topics/nasa"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
