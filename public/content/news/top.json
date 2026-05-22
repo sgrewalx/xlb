@@ -1,75 +1,85 @@
 {
-  "updatedAt": "2026-05-22T13:25:34.676Z",
+  "updatedAt": "2026-05-22T16:17:02.320Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-visvesvaraya-technological-university-announces--1f99f671bc",
-      "title": "Visvesvaraya Technological University announces results within 10 minutes of the last examination",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/visvesvaraya-technological-university-announces-results-within-10-minutes-of-the-last-examination/article71010788.ece",
-      "tag": "India",
-      "publishedAt": "2026-05-22T13:22:20.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-regional-mediators-rush-to-save-u-s-iran-cease-f-b7de67c690",
+      "title": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
+      "tag": "US",
+      "publishedAt": "2026-05-22T16:16:14.000Z",
+      "summary": "Pakistan and Qatar have dispatched teams to Tehran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-cbi-arrests-another-key-accused-in-neet-ug-paper-7e65a43266",
-      "title": "CBI arrests another key accused in NEET-UG paper leak case",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/neet-ug-2026-paper-leak-cbi-arrests-nta-expert-pune-10703193",
-      "tag": "India",
-      "publishedAt": "2026-05-22T13:17:53.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-jury-discharged-at-trial-of-men-accused-of-murde-a32d5a4467",
-      "title": "Jury discharged at trial of men accused of murdering child abuser Ian Watkins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/22/jury-discharged-ian-watkins-murder-trial-lostprophets-singer",
+      "id": "news-waymo-pauses-robotaxis-in-five-us-cities-after-c-a2d1371516",
+      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-05-22T13:12:47.000Z",
-      "summary": "Judge says it is ‘disappointing’ there will have to be retrial of prisoners accused over Lostprophets singer’s death The jury in the trial of two prisoners accused of murdering...",
+      "publishedAt": "2026-05-22T16:10:21.000Z",
+      "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-started-barking-at-him-chandigarh-man-arrested-f-b2d443192e",
-      "title": "'Started barking at him': Chandigarh man arrested for throwing puppy into burning tandoor",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/started-barking-at-him-chandigarh-man-arrested-for-throwing-puppy-into-burning-tandoor/articleshow/131264105.cms",
+      "id": "news-allahabad-hc-pulls-up-uttar-pradesh-police-over--6a2835abb3",
+      "title": "Allahabad HC pulls up Uttar Pradesh police over concealment of arms licence details of influential persons",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-pulls-up-uttar-pradesh-police-over-concealment-of-arms-licence-details-of-influential-persons/article71011052.ece",
       "tag": "India",
-      "publishedAt": "2026-05-22T13:04:18.000Z",
+      "publishedAt": "2026-05-22T16:09:41.000Z",
+      "summary": "Data placed before the court showed that Uttar Pradesh has over 10 lakh arms licences, and out of these, 6,062 licences were issued to persons facing two or more criminal cases",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-to-swear-in-new-federal-reserve-chair-kevi-f4d8a5dd68",
+      "title": "Trump to swear in new Federal Reserve chair Kevin Warsh – US politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-05-22T16:00:09.000Z",
+      "summary": "President to host White House ceremony that ends tenure of Jerome Powell, who face repeated attacks from Trump Most Americans think Trump is not focused enough on economy – poll...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-western-nations-warn-israel-to-end-illegal-settl-e67bbe33ab",
+      "title": "Western nations warn Israel to end illegal settlement expansion, violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-22T15:58:42.000Z",
+      "summary": "Nine countries including UK, Germany and France warn settlements in occupied West Bank a 'breach of international law'.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-punjab-launches-campaign-against-stray-dogs-cm-m-5d6c7c2c01",
+      "title": "Punjab launches campaign against stray dogs; CM Mann says will follow SC order",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/punjab-launches-campaign-against-stray-dogs-cm-mann-says-will-follow-sc-order/articleshow/131265647.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-22T15:51:43.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-in-berlin-cars-are-a-culture-war-flashpoint-8589b4b448",
-      "title": "In Berlin, Cars Are a Culture War Flashpoint",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html",
-      "tag": "US",
-      "publishedAt": "2026-05-22T12:58:49.000Z",
-      "summary": "With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it.",
+      "id": "news-the-right-to-cool-in-a-city-of-2-3-crore-delhi-h-0096a942b2",
+      "title": "The Right To Cool: In A City Of 2.3 Crore, Delhi Has Just 1 Cooling Zone",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/the-right-to-cool-in-a-city-of-2-3-crore-delhi-has-just-1-cooling-zone-11534226",
+      "tag": "India",
+      "publishedAt": "2026-05-22T15:49:54.000Z",
+      "summary": "Under the Delhi government's Heat Wave Action Plan 2026, officials had promised a network of cooling zones across the capital.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-uk-scientists-developing-new-ebola-vaccine-that--356740a17f",
-      "title": "UK scientists developing new Ebola vaccine that could be ready in months",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-22T12:56:06.000Z",
-      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-russia-looking-for-new-soldiers-kyiv-claims-83-0-0d8de949fe",
-      "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-22T12:46:27.000Z",
-      "summary": "Top Ukrainian officials claim Moscow's woes are growing as independent estimates suggest Russia's economy is faltering.",
+      "id": "news-twisha-sharma-death-court-orders-second-autopsy--3c875d6e8b",
+      "title": "Twisha Sharma death: Court orders second autopsy, says all doubts should be cleared",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/twisha-sharma-death-court-second-autopsy-doubts-10703381",
+      "tag": "India",
+      "publishedAt": "2026-05-22T15:44:48.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-strait-of-hormuz-shutdown-oil-supply-crisis-trig-bce95adc3a",
-      "title": "Strait Of Hormuz Shutdown, Oil Supply Crisis Triggers 'Red Zone' Warning",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-strait-of-hormuz-shutdown-oil-supply-crisis-crude-oil-brent-prices-today-red-zone-warning-iea-chief-11532558",
-      "tag": "India",
-      "publishedAt": "2026-05-22T12:14:37.000Z",
-      "summary": "The IEA has already issued warnings about 'the most severe disruption' ever; in April agency chief Fatih Birol told CNBC: \"We are facing the biggest energy security threat in hi...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-the-aftermath-of-trump-xi-summit-comparing-u-s-a-2478f54599",
       "title": "The aftermath of Trump-Xi summit: comparing U.S. and China announcements",
       "source": "NPR",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-prohibitory-orders-imposed-near-upsc-exam-centre-0163c16201",
-      "title": "Prohibitory orders imposed near UPSC exam centres in Malkajgiri",
+      "id": "news-7-763-candidates-to-appear-for-upsc-prelims-at-1-d45b65e929",
+      "title": "7,763 candidates to appear for UPSC prelims at 17 centres in Visakhapatnam",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/prohibitory-orders-imposed-near-upsc-exam-centres-in-malkajgiri/article71007351.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/7763-candidates-to-appear-for-upsc-prelims-at-17-centres-in-visakhapatnam/article71011902.ece",
       "tag": "India",
-      "publishedAt": "2026-05-22T13:21:13.000Z",
+      "publishedAt": "2026-05-22T16:09:38.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-136-crore-drinking-water-project-launched-in-put-5181210e91",
-      "title": "₹136 crore drinking water project launched in Puttaparthi",
+      "id": "news-after-buses-bmtc-plans-to-turn-passenger-tickets-105648c34e",
+      "title": "After buses, BMTC plans to turn passenger tickets into advertising space",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/136-crore-drinking-water-project-launched-in-puttaparthi/article71010799.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/after-buses-bmtc-plans-to-turn-passenger-tickets-into-advertising-space/article71010976.ece",
       "tag": "India",
-      "publishedAt": "2026-05-22T13:20:53.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-05-22T16:09:17.000Z",
+      "summary": "BMTC has invited bids from advertising agencies for granting licence rights to print advertisements on Electronic Ticketing Machine thermal rolls issued to passengers across Ben...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
