@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-05-22T10:16:41.459Z",
+  "updatedAt": "2026-05-22T13:23:57.974Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-flipkart-s-13-minute-delivery-really-impressive--9bd63a1598",
-      "title": "Flipkart's 13-minute delivery really impressive: Walmart Inc President and CEO",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/flipkart-13-minute-delivery-impressive-walmart-inc-president-ceo",
-      "tag": "Technology",
-      "publishedAt": "2026-05-22T10:01:24.000Z",
-      "summary": "Walmart CEO John Furner hailed Flipkart’s 13-minute deliveries as “really impressive”, spotlighting the rapid growth of Flipkart Minutes and its contribution to Walmart Internat...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-is-letting-office-users-remove-an-anno-028050dc45",
-      "title": "Microsoft is letting Office users remove an annoying Copilot button",
+      "id": "tech-the-boys-limped-through-its-last-season-but-made-5d39deec2a",
+      "title": "The Boys limped through its last season, but made up for it with the finale",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
+      "url": "https://www.theverge.com/entertainment/935482/the-boys-finale-review",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T09:52:19.000Z",
-      "summary": "Microsoft is rolling out Office app updates next week that allow users to disable a floating Copilot button. The button appeared in Word, Excel, and PowerPoint in recent weeks,...",
+      "publishedAt": "2026-05-22T13:00:00.000Z",
+      "summary": "It's hard existing in a world seemingly designed for the undeservingly powerful and painfully boring few. They have been gifted what many of us only dream of: the ability to eff...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-motorola-edge-70-pro-camera-details-confirmed-wi-926357e428",
-      "title": "Motorola Edge 70 Pro+ Camera Details Confirmed, WIll Arrive in Three Colourways",
+      "id": "tech-oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of--1211ac59dc",
+      "title": "Oppo Find X9 Ultra vs. Vivo X300 Ultra: Battle of the telephoto smartphones",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2178762/oppo-find-x9-ultra-vs-vivo-x300-ultra-battle-of-the-telephoto-smartphones",
+      "tag": "Technology",
+      "publishedAt": "2026-05-22T13:00:00.000Z",
+      "summary": "We put the Oppo Find X9 Ultra up against the Vivo X300 Ultra to see which telephoto smartphone reigns supreme.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xiaomi-17t-series-teased-to-arrive-in-two-displa-fd81c8f38f",
+      "title": "Xiaomi 17T Series Teased to Arrive in Two Display Variants; Colour Options Revealed Ahead of Debut",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/motorola-edge-70-pro-plus-camera-configuration-design-colour-options-revealed-specifications-features-11532520",
+      "url": "https://www.gadgets360.com/mobiles/news/xiaomi-17t-series-design-colour-options-display-variants-teased-specifications-features-11533522",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T09:32:47.000Z",
-      "summary": "Motorola Edge 70 Pro+ will be equipped with a 50-megapixel primary rear camera, offering a Sony LYT-710 sensor and 3.5-degree optical image stabilisation, the smartphone maker c...",
+      "publishedAt": "2026-05-22T12:39:57.000Z",
+      "summary": "Xiaomi 17T series will be launched in select global markets in two display variants, the smartphone maker announced on Friday. Additionally, the smaller phone is confirmed to be...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-razer-viper-v4-pro-review-iterative-update-packs-721d24e4f8",
-      "title": "Razer Viper V4 Pro Review: Iterative Update Packs Big Performance",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/review-razer-viper-v4-pro",
+      "id": "tech-weekly-funding-roundup-may-16-22-vc-inflow-cross-8c3e8e0dce",
+      "title": "[Weekly funding roundup May 16-22] VC inflow crosses $124M this week as fintech leads revival",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/05/indian-startup-funding-crosses-124-mn-this-week-as-fintech-leads-revival",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T09:32:00.000Z",
-      "summary": "Small, iterative improvements bring serious performance gains to Razer’s Viper V4 Pro.",
+      "publishedAt": "2026-05-22T12:25:28.000Z",
+      "summary": "Fintech startup Scapia’s $63 million raise powered a broader recovery in venture activity, though most capital continued flowing to a handful of late-stage companies.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-at-a-loss-for-words-destiny-2-fans-react-to-news-8bd2b91880",
+      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-05-22T12:16:35.000Z",
+      "summary": "Bungie said the online shooter will get its final update on 9 June but will still be playable.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-samsung-movingstyle-m7-review-a-screen-on-wheels-d0c0d3b02a",
+      "title": "Samsung Movingstyle M7 Review: A Screen on Wheels",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/samsung-movingstyle-32-m7",
+      "tag": "Technology",
+      "publishedAt": "2026-05-22T11:48:00.000Z",
+      "summary": "Made for those who hate having a TV in the home, Samsung’s Movingstyle monitor-on-wheels brings the entertainment when you need it and hides away in a closet when you don’t.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-first-vaccines-now-mammograms-rfk-jr-s-latest-fi-0b8a4f307e",
+      "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel",
+      "tag": "Technology",
+      "publishedAt": "2026-05-22T11:30:38.000Z",
+      "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-postpones-ai-oversight-executive-order-8715482da9",
-      "title": "Trump postpones AI oversight executive order",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure",
-      "tag": "Technology",
-      "publishedAt": "2026-05-22T09:25:59.000Z",
-      "summary": "Trump's AI order was reportedly delayed due to last-minute pressure from industry leaders.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-finnish-phone-maker-hmd-bundles-indian-ai-chatbo-05d781692b",
       "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
       "source": "TechCrunch",
@@ -70,26 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-22T06:41:28.000Z",
       "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-musk-s-spacex-postpones-starship-launch-as-mega--e933edb13f",
-      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-05-22T02:57:12.000Z",
-      "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ground-system-issue-scrubs-first-launch-of-space-f4efde8b14",
-      "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket",
-      "tag": "Technology",
-      "publishedAt": "2026-05-22T02:05:37.000Z",
-      "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-startup-news-and-updates-daily-roundup-may-22-20-9514b870df",
-      "title": "Startup news and updates: daily roundup (May 22, 2026)",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-22-2026",
+      "id": "tech-if-i-could-only-have-one-laptop-for-work-and-gam-9552d78dca",
+      "title": "If I could only have one laptop for work and gaming, I’d get this one",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T09:52:41.000Z",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, May 22, 2026.",
+      "publishedAt": "2026-05-22T13:00:00.000Z",
+      "summary": "I've loved the Asus ROG Zephyrus G14 since it launched in 2020. I bought one for my wife after reading about how awesome it was on a little site called The Verge dot com. Since...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-can-astrotalk-build-the-amazon-of-spiritual-comm-6d1d490adb",
-      "title": "Can Astrotalk build the Amazon of spiritual commerce?",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/05/can-astrotalk-build-the-amazon-of-spiritual-commerce",
+      "id": "tech-engadget-podcast-rgb-oled-and-the-tvs-you-should-ef3e880c41",
+      "title": "Engadget Podcast: RGB, OLED and the TVs you should buy today",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2179258/engadget-podcast-rgb-oled-and-the-tvs-you-should-buy-today",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T09:35:31.000Z",
-      "summary": "The astrology startup that built a profitable consultations business is now pushing into ecommerce, gemstones, and offline stores, as it bets on spirituality becoming India's ne...",
+      "publishedAt": "2026-05-22T12:26:55.000Z",
+      "summary": "Which new TV should you buy? The Engadget Podcast dives into RGB LCDs, OLED and all the new TV tech",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
