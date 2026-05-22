@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-21T06:57:36.752Z",
-  "snapshotFile": "merged-2026-05-21.json",
-  "capturedAt": "2026-05-21T06:00:00.000Z",
+  "updatedAt": "2026-05-22T06:53:51.015Z",
+  "snapshotFile": "merged-2026-05-22.json",
+  "capturedAt": "2026-05-22T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -12,7 +12,7 @@
     {
       "path": "/",
       "pageviews": 0,
-      "searchImpressions": 2,
+      "searchImpressions": 3,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -22,7 +22,7 @@
     {
       "path": "/events/nasa-s-spacex-crs-35",
       "pageviews": 0,
-      "searchImpressions": 7,
+      "searchImpressions": 9,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -32,7 +32,17 @@
     {
       "path": "/gallery",
       "pageviews": 0,
-      "searchImpressions": 3,
+      "searchImpressions": 4,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/games",
+      "pageviews": 0,
+      "searchImpressions": 1,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -42,7 +52,37 @@
     {
       "path": "/news",
       "pageviews": 0,
-      "searchImpressions": 5,
+      "searchImpressions": 6,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/sports",
+      "pageviews": 0,
+      "searchImpressions": 1,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/tech",
+      "pageviews": 0,
+      "searchImpressions": 1,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/topics/nasa",
+      "pageviews": 0,
+      "searchImpressions": 1,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-21T06:57:35.803Z",
-  "sourceSnapshot": "2026-05-21T06:00:00.000Z",
+  "updatedAt": "2026-05-22T06:53:49.868Z",
+  "sourceSnapshot": "2026-05-22T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -8,66 +8,14 @@
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 4,
+    "pageCount": 8,
     "sitemapPathCount": 25,
-    "opportunityCount": 11,
+    "opportunityCount": 8,
     "searchOpportunityCount": 0,
     "engagementOpportunityCount": 0,
-    "indexWatchCount": 11
+    "indexWatchCount": 8
   },
   "opportunities": [
-    {
-      "id": "traffic-index-watch-games",
-      "path": "/games",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /games",
-      "hypothesis": "/games is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-index-watch-sports",
-      "path": "/sports",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /sports",
-      "hypothesis": "/sports is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
       "path": "/events/global-earthquake-watch",
@@ -258,32 +206,6 @@
       "risk": "low",
       "title": "Watch index coverage for /topics/space-weather",
       "hypothesis": "/topics/space-weather is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-index-watch-topics-nasa",
-      "path": "/topics/nasa",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /topics/nasa",
-      "hypothesis": "/topics/nasa is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {

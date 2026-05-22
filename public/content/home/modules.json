@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T06:57:36.752Z",
+  "updatedAt": "2026-05-22T06:53:51.015Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -30,7 +30,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · May 21, 06:51 AM"
+          "meta": "USGS Earthquake Hazards Program · May 22, 06:50 AM"
         },
         {
           "id": "space-aurora-watch",
@@ -38,7 +38,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · May 21, 06:53 AM"
+          "meta": "NOAA Space Weather Prediction Center · May 22, 06:50 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "41d 5h",
+          "label": "40d 5h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }
@@ -124,7 +124,7 @@
         },
         {
           "label": "Home search impressions",
-          "value": "2"
+          "value": "3"
         },
         {
           "label": "Aurora pageviews",
@@ -138,7 +138,7 @@
           "href": "/events/nasa-s-spacex-crs-35",
           "label": "0 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "7 search impressions · engagement 0"
+          "meta": "9 search impressions · engagement 0"
         },
         {
           "id": "why-/news",
@@ -146,7 +146,7 @@
           "href": "/news",
           "label": "0 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "5 search impressions · engagement 0"
+          "meta": "6 search impressions · engagement 0"
         },
         {
           "id": "why-/gallery",
@@ -154,7 +154,7 @@
           "href": "/gallery",
           "label": "0 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "3 search impressions · engagement 0"
+          "meta": "4 search impressions · engagement 0"
         }
       ],
       "relatedLinks": [
