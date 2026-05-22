@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T21:58:06.049Z",
+  "updatedAt": "2026-05-22T22:57:19.157Z",
   "section": "Expanded Tech",
   "items": [
     {
@@ -13,13 +13,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-blue-origin-cleared-to-fly-new-glenn-mega-rocket-1ff5846de6",
-      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+      "id": "tech-spacex-launches-starship-v3-for-the-first-time-b-565426faa5",
+      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap",
+      "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T21:37:17.000Z",
-      "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+      "publishedAt": "2026-05-22T22:55:57.000Z",
+      "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-first-generation-chromecast-users-stressed-by-de-53827f97e8",
+      "title": "First-generation Chromecast users stressed by devices suddenly failing",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week",
+      "tag": "Technology",
+      "publishedAt": "2026-05-22T21:42:59.000Z",
+      "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-22T20:29:21.000Z",
       "summary": "The search engine's definitions have been replaced with AI Overviews.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-us-scrambles-to-stop-internet-users-re-creating--d289d24393",
-      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs",
-      "tag": "Technology",
-      "publishedAt": "2026-05-22T19:39:04.000Z",
-      "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-goes-for-the-glitter-with-disco-ball-icon-caaa7219ba",
-      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "id": "tech-blue-origin-cleared-to-fly-new-glenn-mega-rocket-1ff5846de6",
+      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this",
+      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T21:02:36.000Z",
-      "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+      "publishedAt": "2026-05-22T21:37:17.000Z",
+      "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-vcs-and-founders-use-inflated-arr-to-crown-a-5b4813f338",
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups",
+      "id": "tech-trump-fcc-asks-public-to-comment-on-whether-abc--9cb44b61fd",
+      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show",
       "tag": "Technology",
-      "publishedAt": "2026-05-22T20:40:48.000Z",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "publishedAt": "2026-05-22T21:10:46.000Z",
+      "summary": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
