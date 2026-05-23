@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T06:53:51.015Z",
+  "updatedAt": "2026-05-23T06:16:24.516Z",
   "surfaces": {
     "home": [
       {
@@ -26,694 +26,211 @@
     ],
     "video": [
       {
-        "id": "video-nyc-residents-could-score-50-world-cup-tickets-t-aaf283bbd4",
+        "id": "video-thousands-in-california-under-evacuation-orders--8fd648250f",
         "rank": 1,
-        "retentionScore": 71,
-        "freshnessScore": 90,
+        "retentionScore": 73,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-this-man-built-a-mini-barbie-car-to-save-money-o-3c3466bc63",
+        "id": "video-911-call-reveals-more-about-kyle-busch-s-conditi-2b8fe2d174",
         "rank": 2,
-        "retentionScore": 71,
-        "freshnessScore": 90,
+        "retentionScore": 73,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-what-you-need-to-know-about-memorial-day-weekend-0bce0668cf",
+        "id": "video-spacex-successfully-launches-its-starship-rocket-6b2beb1ff5",
         "rank": 3,
-        "retentionScore": 71,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-gonorrhoea-and-syphilis-hit-record-levels-in-eur-3c48af15fa",
-        "rank": 4,
-        "retentionScore": 71,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-noah-wyle-from-the-pitt-visits-capitol-hill-with-bc1ea8bcf7",
-        "rank": 5,
-        "retentionScore": 71,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-japanese-eternal-flame-temple-hall-burns-down-dw-6311416281",
-        "rank": 6,
-        "retentionScore": 71,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-breaking-nascar-star-kyle-busch-dead-at-41-short-0c3d2610e4",
-        "rank": 7,
-        "retentionScore": 71,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-san-francisco-turns-to-ai-to-avoid-collisions-be-9da7d94cf2",
-        "rank": 8,
-        "retentionScore": 68,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-deported-gaza-flotilla-activists-allege-abuse-wh-f91ce3ed3e",
-        "rank": 9,
-        "retentionScore": 67,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-man-jailed-over-charlie-kirk-meme-settles-unlawf-cfa4a531bf",
-        "rank": 10,
-        "retentionScore": 67,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-is-the-us-headed-for-a-quagmire-with-iran-25c71cf8e5",
-        "rank": 11,
-        "retentionScore": 67,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-ukraines-kill-zone-where-drones-hunt-humans-dw-n-2d43d4bdf1",
-        "rank": 12,
-        "retentionScore": 67,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-watch-alleged-fraudster-escapes-after-being-char-a3656fee0b",
-        "rank": 13,
-        "retentionScore": 67,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-buddhist-hall-housing-eternal-flame-burns-down-i-d7f8e153df",
-        "rank": 14,
-        "retentionScore": 64,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-bodycam-video-shows-the-moment-a-police-officer--c519a1dd66",
-        "rank": 15,
-        "retentionScore": 63,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-how-can-a-lottery-change-the-law-in-the-uk-lotte-3a7db4668d",
-        "rank": 16,
-        "retentionScore": 63,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-could-drones-inside-schools-help-stop-a-mass-sho-08fbd6718b",
-        "rank": 17,
-        "retentionScore": 63,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-why-is-google-removing-your-reviews-dw-news-0540224076",
-        "rank": 18,
-        "retentionScore": 63,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-details-iran-s-highly-enriched-uranium-is-back-a-c12b50d332",
-        "rank": 19,
-        "retentionScore": 63,
-        "freshnessScore": 88,
-        "relatedPath": "/events/global-earthquake-watch"
-      },
-      {
-        "id": "video-democratic-republican-strategists-react-to-dnc-a-105fc7b54a",
-        "rank": 20,
-        "retentionScore": 62,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-ebola-outbreak-sparks-global-health-emergency-fe-78d8518eea",
-        "rank": 21,
-        "retentionScore": 62,
-        "freshnessScore": 90,
-        "relatedPath": "/events/global-earthquake-watch"
-      },
-      {
-        "id": "video-pedro-pascal-on-collabing-with-stunt-performers--86802db648",
-        "rank": 22,
-        "retentionScore": 61,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-explosive-revelations-in-twisha-sharma-death-cas-43271b7f85",
-        "rank": 23,
-        "retentionScore": 61,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-what-does-the-life-of-farage-s-billionaire-backe-d6c0db2458",
-        "rank": 24,
-        "retentionScore": 61,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-ben-gvir-s-flotilla-video-netanyahu-has-lost-con-b3517a68af",
-        "rank": 25,
-        "retentionScore": 61,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-rep-ocasio-cortez-shows-murky-drinking-water-tak-a65bb4f098",
-        "rank": 26,
-        "retentionScore": 60,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-locals-set-fire-to-drc-hospital-treating-ebola-p-b762c47c58",
-        "rank": 27,
-        "retentionScore": 60,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-why-are-harry-styles-fans-mad-about-his-tour-9f4c542c75",
-        "rank": 28,
-        "retentionScore": 59,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-japanese-temple-with-eternal-flame-gutted-by-fir-7f46b8896b",
-        "rank": 29,
-        "retentionScore": 59,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-how-the-dnc-s-2024-port-mortem-turned-into-a-cri-7c3770451c",
-        "rank": 30,
-        "retentionScore": 59,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-colorectal-cancer-appears-to-be-the-deadliest-ca-c7fcf4cfa7",
-        "rank": 31,
-        "retentionScore": 59,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-why-is-nvidia-stock-going-down-29c8569495",
-        "rank": 32,
-        "retentionScore": 59,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-watch-live-spacex-launches-12th-starship-flight--04acb3f855",
-        "rank": 33,
-        "retentionScore": 59,
-        "freshnessScore": 90,
+        "retentionScore": 69,
+        "freshnessScore": 94,
         "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
       },
       {
-        "id": "video-largest-energy-crisis-in-history-iea-chief-warns-3e6d0ca514",
-        "rank": 34,
-        "retentionScore": 58,
-        "freshnessScore": 88,
-        "relatedPath": "/events/global-earthquake-watch"
+        "id": "video-starship-glows-with-bright-pink-plasma-6bb4422dfa",
+        "rank": 4,
+        "retentionScore": 69,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
       },
       {
-        "id": "video-tipping-point-unrest-goes-global-over-soaring-fu-dd9beed163",
-        "rank": 35,
-        "retentionScore": 58,
-        "freshnessScore": 89,
-        "relatedPath": "/events/global-earthquake-watch"
+        "id": "video-what-we-know-about-nascar-star-kyle-busch-s-sudd-f9f37ccbba",
+        "rank": 5,
+        "retentionScore": 66,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
       },
       {
-        "id": "video-elon-musk-s-spacex-files-biggest-ipo-ever-wion-p-fdc1245754",
-        "rank": 36,
-        "retentionScore": 58,
-        "freshnessScore": 88,
+        "id": "video-how-to-ai-proof-your-job-f5de0c71ca",
+        "rank": 6,
+        "retentionScore": 66,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-golfer-accidentally-records-meteor-shower-during-ba6bfc463d",
+        "rank": 7,
+        "retentionScore": 62,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-pentagon-drops-second-wave-of-ufo-files-many-sti-7db0d2ba7b",
+        "rank": 8,
+        "retentionScore": 62,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-this-congressman-hasn-t-been-seen-in-public-for--0deb9a8fa6",
+        "rank": 9,
+        "retentionScore": 61,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-judge-dismisses-charges-against-kilmar-abrego-ga-e6ad37ddc2",
+        "rank": 10,
+        "retentionScore": 60,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nascar-fans-react-to-kyle-busch-s-death-0bcba8a64e",
+        "rank": 11,
+        "retentionScore": 60,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-kevin-warsh-sworn-in-as-fed-chair-a4700d5680",
+        "rank": 12,
+        "retentionScore": 59,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-gabbard-resigns-as-director-of-national-intellig-a7c710239b",
+        "rank": 13,
+        "retentionScore": 59,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-memorial-day-travelers-hit-the-roads-and-skies-a-2f52f55c47",
+        "rank": 14,
+        "retentionScore": 59,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-hallie-jackson-now-may-22-nbc-news-now-b6d4ffc565",
+        "rank": 15,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-top-story-with-tom-llamas-may-22-nbc-news-now-f769f5e45c",
+        "rank": 16,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-tulsi-gabbard-resigns-rising-rates-of-self-harm--571b2d4a84",
+        "rank": 17,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nbc-nightly-news-full-episode-may-22-7742b1540b",
+        "rank": 18,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-thousands-under-evacuation-orders-in-southern-ca-034c77d2db",
+        "rank": 19,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-spacex-successfully-launches-prototype-of-starsh-6834c4f16f",
+        "rank": 20,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
+      },
+      {
+        "id": "video-live-spacex-launches-prototype-of-starship-rocke-90b1406959",
+        "rank": 21,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
+      },
+      {
+        "id": "video-great-americans-a-conversation-with-lt-colonel-w-14be84b5aa",
+        "rank": 22,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-pentagon-releases-newly-declassified-ufo-files-0af11c9f7b",
+        "rank": 23,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-firefighters-injured-in-staten-island-shipyard-e-8f4b75fe98",
+        "rank": 24,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-president-trump-s-intel-chief-tulsi-gabbard-step-dcc217c0d0",
+        "rank": 25,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-spacex-starship-launch-satellite-deploy-propulsi-ea2b48c26b",
+        "rank": 26,
+        "retentionScore": 52,
+        "freshnessScore": 93,
         "relatedPath": "/events/nasa-s-spacex-crs-35"
       },
       {
-        "id": "video-twisha-sharma-case-lens-on-judgemental-mother-in-78e26f566b",
-        "rank": 37,
-        "retentionScore": 57,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-former-gop-sen-lamar-alexander-says-doj-anti-wea-b63a04f9ab",
-        "rank": 38,
-        "retentionScore": 55,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-knicks-vs-cavs-to-face-off-in-heated-game-2-othe-bce1a7e102",
-        "rank": 39,
-        "retentionScore": 55,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-pulwama-mastermind-killed-nia-reveals-pahalgam-t-b671fc777a",
-        "rank": 40,
-        "retentionScore": 54,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-how-the-impact-of-iran-war-is-affecting-victims--411b1f78e3",
-        "rank": 41,
-        "retentionScore": 54,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-dr-teresa-soldner-describes-dire-conditions-at-g-d47d329f18",
-        "rank": 42,
-        "retentionScore": 54,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-tense-exchange-between-trump-netanyahu-trump-see-a14b0a7087",
-        "rank": 43,
-        "retentionScore": 54,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-marjorie-taylor-greene-says-trump-is-targeting-r-39a5e26515",
-        "rank": 44,
+        "id": "video-spacex-attempts-12th-starship-test-flight-23a293e0ba",
+        "rank": 27,
         "retentionScore": 52,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-what-gas-price-hikes-mean-for-the-busy-summer-tr-ef7d0da708",
-        "rank": 45,
-        "retentionScore": 52,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-tiktok-and-youtube-not-safe-enough-for-kids-says-b30402bb2d",
-        "rank": 46,
-        "retentionScore": 52,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-us-turns-up-heat-on-cuba-as-castro-indicted-dw-n-36254c6645",
-        "rank": 47,
-        "retentionScore": 52,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-watch-live-spacex-launches-starship-flight-12-te-9213a3aa0a",
-        "rank": 48,
-        "retentionScore": 52,
-        "freshnessScore": 90,
+        "freshnessScore": 92,
         "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
       },
       {
-        "id": "video-live-outside-studio-as-stephen-colbert-tapes-fin-b110ad8795",
-        "rank": 49,
+        "id": "video-senate-gop-furious-over-trump-s-1-8b-anti-weapon-09ff4d1a1e",
+        "rank": 28,
         "retentionScore": 51,
         "freshnessScore": 90,
         "relatedPath": "/news"
       },
       {
-        "id": "video-judge-set-1m-bond-for-chud-the-builder-streamer--7616a9f891",
-        "rank": 50,
-        "retentionScore": 51,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-stephen-colbert-s-late-show-ends-a-look-back-d7f6f980ce",
-        "rank": 51,
+        "id": "video-the-odds-are-americans-concerned-about-ai-replac-c2bde029ee",
+        "rank": 29,
         "retentionScore": 51,
         "freshnessScore": 89,
         "relatedPath": "/news"
       },
       {
-        "id": "video-15-people-in-minnesota-charged-for-fraud-schemes-505b9258ec",
-        "rank": 52,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-nascar-legend-kyle-busch-dies-at-age-41-6c27274cb8",
-        "rank": 53,
-        "retentionScore": 51,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-breaking-nascar-legend-kyle-busch-dies-at-age-41-4eba239811",
-        "rank": 54,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-meet-the-press-now-may-21-a88e8154d4",
-        "rank": 55,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-ny-congressional-candidate-on-running-against-ai-a7899aaf08",
-        "rank": 56,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-there-are-serious-legal-questions-about-creation-9a426ac196",
-        "rank": 57,
-        "retentionScore": 51,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-latest-in-pop-culture-survivor-spoiler-emily-in--5126f756f1",
-        "rank": 58,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-why-single-gen-z-women-are-outpacing-men-in-buyi-a06fb1cb52",
-        "rank": 59,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-gop-sen-thom-tillis-calls-doj-anti-weaponization-9b34c7dd67",
-        "rank": 60,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-u-s-imposes-new-travel-restrictions-over-ebola-o-76967eadb5",
-        "rank": 61,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-how-ring-s-fire-watch-feature-works-to-keep-peop-dca52eaf45",
-        "rank": 62,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-stanford-student-explains-how-ai-impacted-his-gr-ad0e4e4c85",
-        "rank": 63,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-trump-rolls-back-biden-era-environmental-rule-on-f84666df9e",
-        "rank": 64,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-senate-gop-delays-vote-to-fund-immigration-agenc-87d20307a0",
-        "rank": 65,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-will-rachel-reeves-summer-tax-cuts-make-a-differ-af488e851e",
-        "rank": 66,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-arthur-brooks-6-point-plan-to-help-you-find-the--2fb95d9864",
-        "rank": 67,
-        "retentionScore": 51,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-what-we-don-t-know-about-colbert-s-last-late-sho-7775931ec8",
-        "rank": 68,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-i-have-nepo-baby-fatigue-munya-chawawa-reacts-to-4b8efaaee9",
-        "rank": 69,
-        "retentionScore": 51,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-breaking-nascar-star-kyle-busch-dead-at-41-4bfdee6061",
-        "rank": 70,
-        "retentionScore": 51,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-regime-on-notice-white-house-refuses-to-ease-pre-7197ee0615",
-        "rank": 71,
-        "retentionScore": 51,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-ebola-treatment-centre-in-dr-congo-burnt-down-as-5190ca17fd",
-        "rank": 72,
-        "retentionScore": 51,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-trump-calls-iran-somewhat-crazy-amid-escalating--61c5d79c28",
-        "rank": 73,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-the-five-error-ridden-dnc-autopsy-report-sparks--1d6af5af26",
-        "rank": 74,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-u-s-pushes-tougher-rules-on-immigrants-trump-adm-daaee138cd",
-        "rank": 75,
-        "retentionScore": 51,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-cannes-film-festival-2026-top-moments-from-day-1-23ba1e1bd1",
-        "rank": 76,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-trump-says-he-doesn-t-know-if-he-s-losing-contro-4b3103ab53",
-        "rank": 77,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-keisha-lance-bottoms-says-trump-s-chaos-is-a-par-c0d6879e41",
-        "rank": 78,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-a-complete-and-total-failure-calls-grow-for-dnc--ed36b84fa7",
-        "rank": 79,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-is-there-a-robot-revolution-happening-what-s-goi-d5b287a2ca",
-        "rank": 80,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-fmr-gop-sen-flake-says-republicans-could-begin-g-44c28a40d0",
-        "rank": 81,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-live-spacex-launches-prototype-of-starship-rocke-68188fe8da",
-        "rank": 82,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
-      },
-      {
-        "id": "video-marjorie-taylor-greene-says-foreign-donors-are-a-948a3501dd",
-        "rank": 83,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-parents-of-pilot-killed-in-1996-discuss-raul-cas-d616196eef",
-        "rank": 84,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-nightline-full-broadcast-wednesday-may-20-2026-8b1513393b",
-        "rank": 85,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-donald-trump-vows-to-recover-iran-s-uranium-bbc--441aa8542c",
-        "rank": 86,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-comer-says-jeffrey-epstein-s-former-assistant-ga-d240c76043",
-        "rank": 87,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-what-is-the-us-endgame-in-cuba-after-castro-s-in-f5c0eb0e2e",
-        "rank": 88,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/events/global-earthquake-watch"
-      },
-      {
-        "id": "video-what-is-the-new-guidance-on-single-sex-spaces-th-0194129c9e",
-        "rank": 89,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/topics/space-weather"
-      },
-      {
-        "id": "video-is-the-israel-us-alliance-breaking-iran-war-brie-0c439e87b9",
-        "rank": 90,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-protests-over-death-of-man-pinned-down-by-securi-bd1fec0e6d",
-        "rank": 91,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-queen-pushed-for-andrew-mountbatten-windsor-to-d-52006ebe6d",
-        "rank": 92,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-france-annouonces-710-million-in-new-energy-aid--03a690e85a",
-        "rank": 93,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-bombshell-report-on-2024-election-released-90e6b17613",
-        "rank": 94,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-trump-doubles-down-iran-will-not-get-enriched-ur-e4016f5223",
-        "rank": 95,
-        "retentionScore": 50,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-madness-jpmorgan-ceo-torches-mamdani-vicious-bus-54f3d2e379",
-        "rank": 96,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-bolivia-descends-in-chaos-protests-against-auste-e47710193d",
-        "rank": 97,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-u-s-considering-arms-sales-to-taiwan-after-trump-d5e4c95501",
-        "rank": 98,
-        "retentionScore": 50,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-reports-mojtaba-khamenei-insists-enriched-uraniu-f1b491e6f5",
-        "rank": 99,
+        "id": "video-force-it-open-bolton-charts-strait-of-hormuz-reo-a921240c9b",
+        "rank": 30,
         "retentionScore": 50,
         "freshnessScore": 87,
         "relatedPath": "/news"
