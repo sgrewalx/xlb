@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-05-23T11:03:11.786Z",
+  "updatedAt": "2026-05-23T13:00:56.266Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-google-s-new-anything-to-anything-ai-model-is-wi-b8cf2c83d9",
-      "title": "Google’s new anything-to-anything AI model is wild",
+      "id": "tech-hanging-out-in-my-favorite-virtual-coffee-shop-i-dee1b5a76e",
+      "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
       "tag": "Technology",
-      "publishedAt": "2026-05-23T11:00:00.000Z",
-      "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemi...",
+      "publishedAt": "2026-05-23T13:00:00.000Z",
+      "summary": "Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-best-smart-sprinklers-and-irrigation-systems-2d97ef4136",
-      "title": "The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems",
-      "tag": "Technology",
-      "publishedAt": "2026-05-23T10:38:00.000Z",
-      "summary": "We’ve tested almost a dozen options that handle everything from scheduling and weather changes to water conservation, so you don’t have to.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spacex-starship-v3-s-first-test-flight-was-large-6473461678",
-      "title": "SpaceX Starship V3's first test flight was largely successful",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2180020/spacex-starship-v3-first-test-flight-success",
-      "tag": "Technology",
-      "publishedAt": "2026-05-23T09:40:20.000Z",
-      "summary": "SpaceX achieved most of the goals it set out for Starship V3's first test flight.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-bhagubai-out-on-ott-know-how-to-stream-this-mara-557e840761",
-      "title": "Bhagubai Out on OTT: Know How to Stream This Marathi Comedy Drama Film Online",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/entertainment/news/bhagubai-out-on-ott-know-how-to-stream-this-marathi-comedy-drama-film-online-11533019",
-      "tag": "Technology",
-      "publishedAt": "2026-05-23T09:30:40.000Z",
-      "summary": "Bhagubai is a recently released Marathi comedy drama film that is now available to stream only on Prime Video for rent.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-peec-one-of-berlin-s-rising-startups-more-than-d-d54d72ea02",
-      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+      "id": "tech-elon-musk-has-given-up-on-solar-power-on-earth-c8c775134d",
+      "title": "Elon Musk has given up on solar power (on Earth)",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say",
-      "tag": "Running",
-      "publishedAt": "2026-05-23T07:01:00.000Z",
-      "summary": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth",
+      "tag": "Technology",
+      "publishedAt": "2026-05-23T13:00:00.000Z",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-says-mythos-has-already-found-more-tha-bf50badbf4",
+      "title": "Anthropic says Mythos has already found more than 10,000 vulnerabilities",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update",
+      "tag": "Technology",
+      "publishedAt": "2026-05-23T12:48:03.000Z",
+      "summary": "Anthropic has published an initial update about Project Glasswing, which it says has helped partners find bugs high and critical in severity.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nasa-just-released-one-of-the-most-detailed-maps-104d708459",
+      "title": "NASA Just Released One of the Most Detailed Maps of the Night Sky Ever",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/nasa-s-tess-creates-most-complete-map-of-the-night-sky-yet-11532349",
+      "tag": "Technology",
+      "publishedAt": "2026-05-23T11:46:31.000Z",
+      "summary": "NASA’s TESS mission has created its most complete map of the night sky using eight years of observations. The mosaic includes nearly 6,000 known and candidate exoplanets and hig...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-two-space-shuttle-era-spacewalkers-enter-astrona-4de3c38f91",
+      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame",
+      "tag": "Technology",
+      "publishedAt": "2026-05-23T11:30:35.000Z",
+      "summary": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-l-l-bean-s-zip-hunter-s-tote-is-the-only-carryal-86516d5976",
+      "title": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/llbean-zip-hunters-tote-bag",
+      "tag": "Technology",
+      "publishedAt": "2026-05-23T11:01:00.000Z",
+      "summary": "Its do-it-all thermoplastic lining can both carry gear through wet muck and transport wet, mucky groceries home from the store.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-four-russian-satellites-are-now-within-striking--89a50274ef",
-      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs",
-      "tag": "Technology",
-      "publishedAt": "2026-05-22T22:50:23.000Z",
-      "summary": "\"This capability is not common for satellites conducting typical missions.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-fbi-wants-near-real-time-access-to-us-licens-f4f5e1a33d",
-      "title": "The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access",
+      "id": "tech-i-have-a-new-go-to-browser-7fa9d35be6",
+      "title": "I have a new go-to browser",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
       "tag": "Technology",
-      "publishedAt": "2026-05-23T10:30:00.000Z",
-      "summary": "Plus: Google publishes a live exploit for an unpatched flaw, the feds arrest two men accused of creating thousands of nonconsensual deepfake nudes, and more.",
+      "publishedAt": "2026-05-23T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-cosmic-voids-may-contain-the-universe-s-best-sec-9de2d97085",
-      "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets",
+      "id": "tech-myst-and-riven-remakes-the-return-of-bubsy-and-o-ad0a270f73",
+      "title": "Myst and Riven remakes, the return of Bubsy and other new indie games worth checking out",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out",
       "tag": "Technology",
-      "publishedAt": "2026-05-23T10:00:00.000Z",
-      "summary": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe’s biggest mysteries.",
+      "publishedAt": "2026-05-23T11:30:00.000Z",
+      "summary": "Among the indie games we've seen worth checking out is a puzzle platformer inspired by mental health challenges and turning failures into progress.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
