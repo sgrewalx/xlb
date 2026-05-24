@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-05-24T13:05:41.712Z",
+  "updatedAt": "2026-05-24T14:56:18.583Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-at-least-14-killed-in-bombing-attack-that-derail-47afb4ede9",
-      "title": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html",
-      "tag": "US",
-      "publishedAt": "2026-05-24T13:03:07.000Z",
-      "summary": "The explosion was so powerful that several nearby buildings were damaged and a resident 15 miles away was jolted awake by the blast. A separatist group claimed responsibility.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-large-scale-russian-attack-on-ukraine-leaves-fou-4d28613c07",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-24T13:02:02.000Z",
-      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-gi-tag-application-filed-for-ananthapuramu-lemon-a2021ce155",
-      "title": "GI tag application filed for ‘Ananthapuramu Lemon’ from Anantapur district",
+      "id": "news-heatwave-leaves-homeless-battling-hunger-dehydra-42951de6a9",
+      "title": "Heatwave leaves homeless battling hunger, dehydration",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/gi-tag-application-filed-for-ananthapuramu-lemon-from-anantapur-district/article71017739.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/heatwave-leaves-homeless-battling-hunger-dehydration/article71017659.ece",
       "tag": "India",
-      "publishedAt": "2026-05-24T13:01:13.000Z",
-      "summary": "Madanapalle Institute of Technology and Science files the application through its Intellectual Property Facilitation Centre, citing the fruit’s uniform size, bright colour, high...",
+      "publishedAt": "2026-05-24T14:53:57.000Z",
+      "summary": "Individuals and charitable trusts distribute food and milk packets to destitute people as Mangalagiri police rescue a 70-year-old beggar suffering from dehydration amid soaring...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-middle-east-crisis-live-rubio-sees-initial-progr-f7113c015e",
-      "title": "Middle East crisis live: Rubio sees initial progress on reopening Hormuz after Trump claims Iran deal ‘largely negotiated’",
+      "id": "news-iran-war-live-updates-u-s-and-iran-signal-move-t-f53180e5e9",
+      "title": "Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
+      "tag": "US",
+      "publishedAt": "2026-05-24T14:50:37.000Z",
+      "summary": "President Trump said the United States and Iran had “largely negotiated” an agreement, even as American and Iranian officials described the terms differently.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-uk-records-heatwave-as-parts-of-england-hit-reco-6556193e17",
+      "title": "UK records heatwave as parts of England hit record highs for May",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+      "url": "https://www.theguardian.com/uk-news/2026/may/24/uk-heatwave-expected-as-temperatures-near-record-highs-for-may",
       "tag": "Europe",
-      "publishedAt": "2026-05-24T12:59:33.000Z",
-      "summary": "The US secretary of state suggested a deal could be announced ‘in the next few hours’ but cautioned it wouldn’t be a ‘final’ agreement Full report: Trump says peace deal with Ir...",
+      "publishedAt": "2026-05-24T14:44:04.000Z",
+      "summary": "Santon Downham in Suffolk first area to hit threshold, recording temperatures of more than 27C for three consecutive days Parts of the UK are officially in a heatwave as tempera...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-one-killed-and-many-feared-trapped-under-collaps-87acdebdc5",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-24T14:25:00.000Z",
+      "summary": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-neet-paper-leak-pune-school-principal-shared-que-f9ef33e10e",
+      "title": "NEET paper leak: Pune school principal shared questions for money, CBI tells court",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-pune-school-principal-shared-questions-for-money-cbi-tells-court/articleshow/131293448.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-24T14:24:05.000Z",
+      "summary": "A school principal, Manisha Sanjay Havaldar, was arrested by the CBI in connection with the NEET-UG 2026 paper leak. She allegedly shared exam questions with students for money,...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bahrain-jails-nine-defendants-for-life-for-coope-ec6fe91016",
+      "title": "Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-24T14:16:50.000Z",
+      "summary": "Convictions come amid an intensified crackdown by Bahraini authorities on individuals accused of having ties to Tehran.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-days-after-breakthrough-in-ladakh-talks-panel-me-4f1a98a5e4",
+      "title": "Days after breakthrough in Ladakh talks, panel member says: ‘Avoid unnecessary excitement, undue pessimism’",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/ladakh-talks-centre-kda-leh-apex-body-sonam-wangchuk-article-371-10705862",
+      "tag": "India",
+      "publishedAt": "2026-05-24T14:10:48.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-upsc-cse-prelims-2026-paper-2-analysis-reasoning-54fae16ecb",
+      "title": "UPSC CSE Prelims 2026 Paper 2 Analysis: Reasoning Challenging, Quantitative Questions Lengthy",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/upsc-cse-prelims-2026-csat-analysis-reasoning-challenging-quantitative-questions-lengthy-11541367",
+      "tag": "India",
+      "publishedAt": "2026-05-24T14:08:53.000Z",
+      "summary": "UPSC CSE Prelims Analysis: Commenting on the reasoning section, he said the questions were conceptually demanding and required careful interpretation before solving.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,46 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-suicide-car-bombing-attack-on-a-train-in-pakista-3549793c18",
-      "title": "Suicide car bombing attack on a train in Pakistan kills dozens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-24T12:35:51.000Z",
-      "summary": "A Baloch separatist group has claimed responsibility for an attack on a train carrying soldiers in Quetta, Pakistan.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bjp-s-cherry-on-the-cake-how-falta-repoll-win-re-9579eb0cf0",
-      "title": "BJP’s ‘cherry on the cake’: How Falta repoll win reinforces saffron surge in West Bengal",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/bjps-cherry-on-the-cake-how-falta-repoll-win-reinforces-saffron-surge-in-west-bengal/articleshow/131292508.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-24T12:32:24.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-twisha-sharma-cremated-after-second-autopsy-12-d-e78e0f3f97",
-      "title": "Twisha Sharma cremated after second autopsy, 12 days after her death",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/twisha-sharma-cremated-after-second-autopsy-12-days-after-her-death-10705641",
-      "tag": "India",
-      "publishedAt": "2026-05-24T12:30:15.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iit-madras-iit-kanpur-experts-to-review-cbse-re--a3f5fe23c5",
-      "title": "IIT Madras, IIT Kanpur Experts To Review CBSE Re-Evaluation Portal After Glitch Complaints",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/education/iit-madras-experts-to-review-cbse-portal-amid-re-evaluation-glitch-complaints-11540986",
-      "tag": "India",
-      "publishedAt": "2026-05-24T12:01:11.000Z",
-      "summary": "The team will specifically assess portal stability, server performance, and the robustness of the overall IT infrastructure.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-looking-at-nutrition-beyond-the-plate-c78b421226",
       "title": "Looking at nutrition beyond the plate",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-live-updates-u-s-and-iran-signal-move-t-b041a3e696",
-      "title": "Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
-      "tag": "US",
-      "publishedAt": "2026-05-24T13:02:25.000Z",
-      "summary": "President Trump said the United States and Iran had “largely negotiated” an agreement, even as American and Iranian officials described the terms differently.",
+      "id": "news-bjp-criticises-state-govt-over-delays-in-godavar-0dbb8bb4e2",
+      "title": "BJP criticises State govt. over delays in Godavari basin projects",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/bjp-criticises-state-govt-over-delays-in-godavari-basin-projects/article71017986.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-24T14:53:01.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-thousands-in-spain-s-capital-protest-increasing--6a7aa5307c",
-      "title": "Thousands in Spain's capital protest increasing housing costs",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/thousands-in-spains-capital-protest-increasing-housing-costs/article71017850.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-05-24T12:59:42.000Z",
-      "summary": "Buying a home in Spain has become unaffordable for many, with market pressures and speculation driving up prices, especially in big cities and coastal areas",
+      "id": "news-here-s-the-latest-23f3e24bd0",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump/heres-the-latest",
+      "tag": "US",
+      "publishedAt": "2026-05-24T14:50:35.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
