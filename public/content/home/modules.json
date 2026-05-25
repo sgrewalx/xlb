@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T06:41:36.338Z",
+  "updatedAt": "2026-05-25T07:20:14.932Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -30,7 +30,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · May 24, 06:36 AM"
+          "meta": "USGS Earthquake Hazards Program · May 25, 07:13 AM"
         },
         {
           "id": "space-aurora-watch",
@@ -38,7 +38,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · May 24, 06:38 AM"
+          "meta": "NOAA Space Weather Prediction Center · May 25, 07:16 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "38d 5h",
+          "label": "37d 4h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }
@@ -124,7 +124,7 @@
         },
         {
           "label": "Home search impressions",
-          "value": "3"
+          "value": "2"
         },
         {
           "label": "Aurora pageviews",
@@ -154,7 +154,7 @@
           "href": "/gallery",
           "label": "0 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "4 search impressions · engagement 0"
+          "meta": "5 search impressions · engagement 0"
         }
       ],
       "relatedLinks": [

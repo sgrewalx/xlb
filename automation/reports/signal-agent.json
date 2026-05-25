@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-24T06:41:36.338Z",
-  "snapshotFile": "merged-2026-05-24.json",
-  "capturedAt": "2026-05-24T06:00:00.000Z",
+  "updatedAt": "2026-05-25T07:20:14.932Z",
+  "snapshotFile": "merged-2026-05-25.json",
+  "capturedAt": "2026-05-25T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -12,7 +12,7 @@
     {
       "path": "/",
       "pageviews": 0,
-      "searchImpressions": 3,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -32,7 +32,7 @@
     {
       "path": "/gallery",
       "pageviews": 0,
-      "searchImpressions": 4,
+      "searchImpressions": 5,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
