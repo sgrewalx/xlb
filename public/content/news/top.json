@@ -1,65 +1,65 @@
 {
-  "updatedAt": "2026-05-26T19:59:00.801Z",
+  "updatedAt": "2026-05-26T21:47:00.494Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-quad-gets-a-boost-with-key-energy-critical-miner-a0f3475f97",
-      "title": "Quad gets a boost with key energy, critical minerals and maritime initiatives; condemns attacks on commercial ships",
+      "id": "news-green-jobs-contributing-10-2bn-to-scotland-s-eco-87edbc148e",
+      "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7599zez4rxo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-05-26T21:44:59.000Z",
+      "summary": "An industry report suggests that the net-zero economy is already established and employs more than 105,000 people.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-a-spring-heat-wave-is-breaking-records-in-the-u--635ed08887",
+      "title": "A Spring Heat Wave Is Breaking Records in the U.K., Spain and France",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html",
+      "tag": "US",
+      "publishedAt": "2026-05-26T21:33:51.000Z",
+      "summary": "Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent a...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-politics-live-quad-countries-ink-deal--5664504078",
+      "title": "Australia politics live: Quad countries ink deal to build surveillance network and Fiji port to counter China",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-05-26T21:28:08.000Z",
+      "summary": "Australia’s foreign affairs minister Penny Wong met with US secretary of state Marco Rubio in New Delhi meeting. Follow today’s news live Get our breaking news email , free app...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-aftermath-of-deadly-israeli-strikes-in-southern--1b04754b1d",
+      "title": "Aftermath of deadly Israeli strikes in southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-26T21:22:47.000Z",
+      "summary": "New videos show widespread destruction in Maarakeh following deadly Israeli strikes across southern Lebanon.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-3-years-on-acid-attack-survivor-wins-right-to-di-5fc8f5af9a",
+      "title": "3 years on, acid attack survivor wins right to disability review",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/quad-gets-a-boost-with-key-energy-critical-minerals-and-maritime-initiatives-condemns-attacks-on-commercial-ships/articleshow/131337125.cms",
+      "url": "https://timesofindia.indiatimes.com/india/3-years-on-acid-attack-survivor-wins-right-to-disability-review/articleshow/131337288.cms",
       "tag": "India",
-      "publishedAt": "2026-05-26T19:50:14.000Z",
+      "publishedAt": "2026-05-26T21:22:16.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-threatens-to-renew-strikes-against-u-s-amid-8deb36e038",
-      "title": "Iran Threatens to Renew Strikes Against U.S. Amid Push for Diplomatic Deal",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-threats-strikes-us-ceasefire.html",
-      "tag": "US",
-      "publishedAt": "2026-05-26T19:46:30.000Z",
-      "summary": "The warnings came after U.S. forces struck military sites in Iran. Secretary of State Marco Rubio said on Tuesday that negotiations to end the war were continuing.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-middle-east-crisis-live-iran-s-foreign-ministry--c0b694130d",
-      "title": "Middle East crisis live: Iran’s foreign ministry says US broke ceasefire with overnight strikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
-      "tag": "Europe",
-      "publishedAt": "2026-05-26T19:42:26.000Z",
-      "summary": "The US military said it carried out strikes on Monday against targets including boats attempting to lay mines and missile launch sites Iran remains in peace talks despite first...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-eleven-killed-in-lebanon-village-as-israel-inten-2fbc7b328c",
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-26T19:40:35.000Z",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-white-house-proposes-ndas-for-all-us-federal-wor-6589e4486c",
-      "title": "White House proposes NDAs for all US federal workers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/26/white-house-proposes-ndas-for-all-us-federal-workers?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-26T19:32:41.000Z",
-      "summary": "Trump administration threatens legal action against employees who leak, aiming to curb information flow to journalists.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-india-s-energy-strategy-needs-price-correction-fd72f56a58",
-      "title": "India’s energy strategy needs price correction",
+      "id": "news-himachal-panchayat-polls-78-53-polling-in-first--665b510c05",
+      "title": "Himachal panchayat polls: 78.53% polling in first phase, women voters outnumber men",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/lead/indias-energy-strategy-needs-price-correction/article71026084.ece",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-pradesh-panchayat-polls-first-phase/article71026678.ece",
       "tag": "India",
-      "publishedAt": "2026-05-26T19:24:26.000Z",
-      "summary": "The petro products price hike is too little and too late",
+      "publishedAt": "2026-05-26T20:58:13.000Z",
+      "summary": "Shimla recorded 79.80% voter turnout, Mandi 79.39%, Una 78.76%, Bilaspur 77.39%, Kangra 75.75%, Hamirpur 73.05% and Kinnaur 73.59%",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,22 +103,22 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-rubio-calls-quad-a-linchpin-but-suspense-still-h-455936462a",
-      "title": "Rubio calls Quad a linchpin but suspense still hangs over summit",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/rubio-calls-quad-a-linchpin-but-suspense-still-hangs-over-summit/articleshow/131337096.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-26T19:46:33.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-a-dissident-escapes-china-by-rubber-boat-and-lan-085fd3178c",
+      "title": "A Dissident Escapes China by Rubber Boat and Lands in South Korea",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html",
+      "tag": "US",
+      "publishedAt": "2026-05-26T21:28:20.000Z",
+      "summary": "Dong Guangping, 68, fled China at least three other times but was always sent back. His friends hope things might be different this time.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-urges-texas-republicans-to-vote-for-ken-pa-219e9e7005",
+      "id": "news-trump-urges-texas-republicans-to-vote-for-ken-pa-c1f8fe140b",
       "title": "Trump urges Texas Republicans to vote for Ken Paxton as four-term senator John Cornyn fights to hold seat – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2026/may/26/donald-trump-medical-walter-reed-republicans-texas-runoff-iran-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-05-26T19:42:12.000Z",
+      "publishedAt": "2026-05-26T21:26:41.000Z",
       "summary": "Ken Paxton, Texas attorney general, takes on four-term incumbent John Cornyn on Tuesday in a primary that tests Trump’s grip on the Republican party America’s ugliest primary? T...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
