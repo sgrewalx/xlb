@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-05-26T14:50:07.346Z",
+  "updatedAt": "2026-05-26T17:52:35.436Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-nellore-rural-mla-launches-you-can-question-me-i-db4562967c",
-      "title": "Nellore Rural MLA launches ‘You Can Question Me’ initiative",
+      "id": "news-an-exceptionally-early-heat-wave-shatters-record-a8bb11b16d",
+      "title": "An exceptionally early heat wave shatters records and brings deaths in Europe",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/26/g-s1-124360/europe-heat-wave-deaths",
+      "tag": "US",
+      "publishedAt": "2026-05-26T17:47:16.000Z",
+      "summary": "Temperature records are breaking and triggering government warnings, with London hitting 95 degrees the past two days. Experts say unpredictable and extreme weather is becoming...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-capital-hospital-performs-high-risk-cardiac-surg-0bc26a51b7",
+      "title": "Capital Hospital performs high-risk cardiac surgery on dialysis patient in Vijayawada",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-rural-mla-launches-you-can-question-me-initiative/article71025500.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/capital-hospital-performs-high-risk-cardiac-surgery-on-dialysis-patient-in-vijayawada/article71026420.ece",
       "tag": "India",
-      "publishedAt": "2026-05-26T14:47:53.000Z",
+      "publishedAt": "2026-05-26T17:45:04.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-live-updates-tensions-rise-as-iran-thre-38824e8d9a",
-      "title": "Iran War Live Updates: Tensions Rise as Iran Threatens to Retaliate Against U.S. Strikes",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
-      "tag": "US",
-      "publishedAt": "2026-05-26T14:46:45.000Z",
-      "summary": "The threat came hours after American military forces renewed attacks in southern Iran, even as fragile diplomacy efforts to end the war continued.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-middle-east-crisis-live-iran-s-foreign-ministry--c2401013b8",
-      "title": "Middle East crisis live: Iran’s foreign ministry says US broke ceasefire with overnight strikes",
+      "id": "news-turkish-police-fire-teargas-to-break-up-protest--d0244099da",
+      "title": "Turkish police fire teargas to break up protest after opposition leader ousted",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
+      "url": "https://www.theguardian.com/world/2026/may/26/turkish-police-teargas-protest-opposition-leader-ousted",
       "tag": "Europe",
-      "publishedAt": "2026-05-26T14:44:29.000Z",
-      "summary": "The US military said it carried out strikes on Monday against targets including boats attempting to lay mines and missile launch sites US strikes Iran missile sites and mine lay...",
+      "publishedAt": "2026-05-26T17:40:40.000Z",
+      "summary": "Water cannon also used at rally addressed by Özgür Özel who has been dismissed from office despite being elected Riot police in Turkey have fired teargas and water cannon to bre...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
