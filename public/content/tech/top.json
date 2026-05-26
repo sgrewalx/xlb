@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-05-26T21:38:39.081Z",
+  "updatedAt": "2026-05-26T23:01:13.323Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-starship-s-path-to-reusability-looks-murky-after-f621543d77",
-      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "id": "tech-what-we-re-looking-for-in-startup-battlefield-20-a397dab1b4",
+      "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1",
+      "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline",
       "tag": "Technology",
-      "publishedAt": "2026-05-26T21:03:56.000Z",
-      "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the compa...",
+      "publishedAt": "2026-05-26T22:55:01.000Z",
+      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-sony-abruptly-shuts-down-online-multiplayer-game-f7832d7e1e",
+      "title": "Sony abruptly shuts down online multiplayer game Destruction AllStars",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2181738/sony-abruptly-shuts-down-online-multiplayer-game-destruction-allstars",
+      "tag": "Technology",
+      "publishedAt": "2026-05-26T22:47:56.000Z",
+      "summary": "Hope you weren't planning to queue up for the PS5 launch window title.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-is-peter-thiel-the-target-of-pope-leo-s-gandalf--d11d721c36",
+      "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation",
+      "tag": "Technology",
+      "publishedAt": "2026-05-26T22:27:32.000Z",
+      "summary": "Parsing a papal proclamation.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nasa-s-permanent-moon-base-plans-start-with-thre-05d9236544",
+      "title": "NASA’s permanent Moon base plans start with three missions this year",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "tag": "Technology",
+      "publishedAt": "2026-05-26T22:24:53.000Z",
+      "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, star...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-millions-of-ai-agents-imperiled-by-critical-vuln-ee425ecf70",
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package",
-      "tag": "Technology",
-      "publishedAt": "2026-05-26T19:50:33.000Z",
-      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-tech-life-768f9ddd0e",
       "title": "Tech Life",
       "source": "BBC Technology",
@@ -40,26 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-26T19:30:00.000Z",
       "summary": "What is the role of a teacher once AI arrives in the school classroom?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-health-is-here-but-a-lot-of-people-want-t-d4654c1da0",
-      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-05-26T19:00:15.000Z",
-      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spacex-reportedly-pressured-the-pentagon-into-pa-3b156ec0f3",
-      "title": "SpaceX reportedly pressured the Pentagon into paying more for Starlink access",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2181419/spacex-reportedly-pressured-the-pentagon-into-paying-more-for-starlink-access",
-      "tag": "Technology",
-      "publishedAt": "2026-05-26T18:12:53.000Z",
-      "summary": "SpaceX is reportedly jacking up Starlink prices for the Pentagon.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-best-movies-to-stream-this-month-may-2026-586917547a",
-      "title": "The Best Movies to Stream This Month (May 2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now",
+      "id": "tech-trump-admin-permits-volvo-to-keep-selling-connec-ad3421e986",
+      "title": "Trump Admin permits Volvo to keep selling connected cars in the U.S.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s",
       "tag": "Technology",
-      "publishedAt": "2026-05-26T20:29:54.000Z",
-      "summary": "Bugonia, Good Boy, and Send Help are among the films deserving of your eyeballs this month.",
+      "publishedAt": "2026-05-26T22:55:01.000Z",
+      "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-what-pope-leo-xiv-s-first-encyclical-says-about--a5752a1625",
-      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai",
+      "id": "tech-trump-admin-wants-nuclear-startups-to-use-pluton-7502dc0e2d",
+      "title": "Trump admin wants nuclear startups to use plutonium for their reactors",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/trump-admin-wants-nuclear-startups-to-use-plutonium-for-their-reactors",
       "tag": "Technology",
-      "publishedAt": "2026-05-26T20:17:47.000Z",
-      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+      "publishedAt": "2026-05-26T22:37:46.000Z",
+      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
