@@ -1,12 +1,42 @@
 {
-  "updatedAt": "2026-05-26T19:56:37.706Z",
+  "updatedAt": "2026-05-26T21:38:39.081Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-tech-life-ab7a919059",
+      "id": "tech-starship-s-path-to-reusability-looks-murky-after-f621543d77",
+      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1",
+      "tag": "Technology",
+      "publishedAt": "2026-05-26T21:03:56.000Z",
+      "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the compa...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-why-the-vatican-invited-anthropic-to-the-pope-s--e848a32a62",
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical",
+      "tag": "Technology",
+      "publishedAt": "2026-05-26T20:46:03.000Z",
+      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-millions-of-ai-agents-imperiled-by-critical-vuln-ee425ecf70",
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package",
+      "tag": "Technology",
+      "publishedAt": "2026-05-26T19:50:33.000Z",
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-life-768f9ddd0e",
       "title": "Tech Life",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
       "publishedAt": "2026-05-26T19:30:00.000Z",
       "summary": "What is the role of a teacher once AI arrives in the school classroom?",
@@ -23,26 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-s-starlink-nabs-american-airlines-contrac-7f2c567599",
-      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo",
-      "tag": "Technology",
-      "publishedAt": "2026-05-26T18:48:04.000Z",
-      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-want-an-oxygen-rich-atmosphere-stuff-oxygen-s-fr-07cfb07f02",
-      "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics",
-      "tag": "Technology",
-      "publishedAt": "2026-05-26T18:30:58.000Z",
-      "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-spacex-reportedly-pressured-the-pentagon-into-pa-3b156ec0f3",
       "title": "SpaceX reportedly pressured the Pentagon into paying more for Starlink access",
       "source": "Engadget",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-26T18:12:53.000Z",
       "summary": "SpaceX is reportedly jacking up Starlink prices for the Pentagon.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-internet-starts-to-return-in-iran-after-3-month--f00c121c37",
-      "title": "Internet Starts to Return in Iran After 3-Month Blackout",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout",
-      "tag": "Technology",
-      "publishedAt": "2026-05-26T17:31:25.000Z",
-      "summary": "Some internet connectivity is returning in Iran after nearly 90 days offline, web monitoring groups say. But it isn’t clear if the reconnection is permanent.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ge-s-nugget-ice-maker-is-nearly-half-off-if-you--e92ae5915b",
-      "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
+      "id": "tech-the-best-movies-to-stream-this-month-may-2026-586917547a",
+      "title": "The Best Movies to Stream This Month (May 2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now",
       "tag": "Technology",
-      "publishedAt": "2026-05-26T18:50:35.000Z",
-      "summary": "If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 t...",
+      "publishedAt": "2026-05-26T20:29:54.000Z",
+      "summary": "Bugonia, Good Boy, and Send Help are among the films deserving of your eyeballs this month.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openrouter-more-than-doubles-valuation-to-1-3b-i-acfa4ea126",
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year",
+      "id": "tech-what-pope-leo-xiv-s-first-encyclical-says-about--a5752a1625",
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai",
       "tag": "Technology",
-      "publishedAt": "2026-05-26T18:33:01.000Z",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "publishedAt": "2026-05-26T20:17:47.000Z",
+      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
