@@ -1,55 +1,85 @@
 {
-  "updatedAt": "2026-05-27T10:54:56.798Z",
+  "updatedAt": "2026-05-27T14:22:18.123Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iranians-emerge-from-a-black-hole-as-internet-sh-9dc341af64",
-      "title": "Iranians Emerge From a ‘Black Hole’ as Internet Shutdown Eases",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html",
-      "tag": "US",
-      "publishedAt": "2026-05-27T10:50:01.000Z",
-      "summary": "After three months, the government is letting people connect with the world again. But not everyone has access, and those who do wonder how long it will last.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-modi-stresses-whole-of-nation-approach-to-tackle-2cb022f60b",
-      "title": "Modi stresses whole-of-nation approach to tackle heatwave: Vaishnaw",
+      "id": "news-narayanaswamy-calls-upon-dalits-to-shun-minister-79058e2b25",
+      "title": "Narayanaswamy calls upon Dalits to shun ministerial berths if Congress does not offer Karnataka CM post to community",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/modi-stresses-whole-of-nation-approach-to-tackle-heatwave-vaishnaw/article71028912.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/narayanaswamy-calls-upon-dalits-to-shun-ministerial-berths-if-congress-does-not-offer-karnataka-cm-post-to-community/article71028872.ece",
       "tag": "India",
-      "publishedAt": "2026-05-27T10:48:36.000Z",
-      "summary": "Asked about the measures the government plans to take, Ashwini Vaishnaw said individual Ministries and departments would determine their respective courses of action and added t...",
+      "publishedAt": "2026-05-27T14:19:20.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-fired-bp-chair-disputes-oil-company-s-claims-of--f7a4a349bb",
-      "title": "Fired BP chair disputes oil company’s claims of poor conduct",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/27/fired-bp-chair-albert-manifold-disputes-oil-companys-claims-of-poor-conduct",
+      "id": "news-mamata-banerjee-overlooked-corruption-longtime-a-a966330a28",
+      "title": "\"Mamata Banerjee Overlooked Corruption\": Longtime Aide Turns Critic",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/mamata-banerjee-overlooked-corruption-longtime-aide-partha-chatterjee-turns-critic-11555740",
+      "tag": "India",
+      "publishedAt": "2026-05-27T14:14:42.000Z",
+      "summary": "\"Mamata Banerjee overlooked all corruption. And both Mamata and Abhishek Banerjee are responsible for such result,\" Partha Chatterjee told NDTV",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-first-ghanaians-evacuated-from-south-africa-over-6ce3f512b2",
+      "title": "First Ghanaians evacuated from South Africa over anti-immigrant protests",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-05-27T10:41:01.000Z",
-      "summary": "Albert Manifold says he was removed without warning and ‘will not allow a false narrative to go unchallenged’ The ousted chair of BP, Albert Manifold, has accused the oil compan...",
+      "publishedAt": "2026-05-27T14:14:22.000Z",
+      "summary": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-supreme-court-has-authorised-disenfranchisement--6aa20df821",
-      "title": "‘Supreme Court has authorised disenfranchisement of millions’: Petitioners slam SIR verdict",
+      "id": "news-iran-war-live-updates-fighting-flares-in-lebanon-f6bfe36e38",
+      "title": "Iran War Live Updates: Fighting Flares in Lebanon, Complicating U.S.-Iran Peace Talks",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
+      "tag": "US",
+      "publishedAt": "2026-05-27T14:07:36.000Z",
+      "summary": "Israeli strikes pounded southern Lebanon as the country’s attacks against Hezbollah intensified. The fighting cast further doubt on fragile negotiations to end the U.S.-Israeli...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-iran-says-draft-us-deal--31491c75e0",
+      "title": "Middle East crisis live: Iran says draft US deal would reopen strait of Hormuz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/27/iran-war-us-update-live-israel-lebanon-strikes-latest-news-ceasefire-peace-talks-middle-east-live-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-05-27T14:02:47.000Z",
+      "summary": "Country’s state TV says Iran would allow shipping in waterway and US would lift naval blockade under draft memorandum Donald Trump will host the 12th cabinet meeting of his seco...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-why-is-israel-attacking-lebanon-s-nabatieh-the-m-4a6f376c46",
+      "title": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-27T14:00:20.000Z",
+      "summary": "Israel issued forced displacement for Lebanon's southern city of Nabatieh on Tuesday. Why is it focused on this city?",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-demolish-all-illegal-structures-within-15-km-of--c6a521ea29",
+      "title": "Demolish all illegal structures within 15 km of International Border, Amit Shah says",
       "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/supreme-court-upholds-eci-sir-verdict-voter-disenfranchisement-10710618",
+      "url": "https://indianexpress.com/article/india/amit-shah-border-security-review-illegal-structures-indo-pak-border-10711026",
       "tag": "India",
-      "publishedAt": "2026-05-27T10:35:01.000Z",
+      "publishedAt": "2026-05-27T13:48:55.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-woman-caught-after-30-years-on-the-run-is-jailed-a37041c5a0",
-      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-27T10:27:59.000Z",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 after more than 30 years on the run and put on trial last year.",
+      "id": "news-punjab-govt-s-mukh-mantri-sehat-yojana-sees-rise-1a82b77fe7",
+      "title": "Punjab govt’s Mukh Mantri Sehat Yojana sees rise in cashless treatment claims amid seasonal illness surge",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/punjab-govts-mukh-mantri-sehat-yojana-sees-rise-in-cashless-treatment-claims-amid-seasonal-illness-surge/articleshow/131352287.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-27T13:35:27.000Z",
+      "summary": "Punjab's government hospitals are witnessing a surge in seasonal illnesses like fever and respiratory issues due to rising temperatures. The Mukh Mantri Sehat Yojana has seen a...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -63,36 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-respect-hindu-sentiments-for-peaceful-coexistenc-86205615e3",
-      "title": "Respect Hindu sentiments for peaceful coexistence: VHP amid Eid-ul-Azha row",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/respect-hindu-sentiments-for-peaceful-coexistence-vhp-amid-eid-ul-azha-row/articleshow/131346670.cms",
-      "tag": "India",
-      "publishedAt": "2026-05-27T10:13:33.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-strike-on-alleged-drug-boat-in-pacific-kills--6373c14ee4",
-      "title": "US strike on alleged drug boat in Pacific kills one",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/us-strike-on-alleged-drug-boat-in-pacific-kills-one?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-27T10:12:24.000Z",
-      "summary": "Dozens of attacks since September have killed at least 194 people in US operation dubbed 'Southern Spear'.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-after-uttarakhand-gujarat-uniform-civil-code-in--e4eca53137",
-      "title": "After Uttarakhand, Gujarat, Uniform Civil Code In Assam",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/after-uttarakhand-gujarat-uniform-civil-code-in-assam-11554164",
-      "tag": "India",
-      "publishedAt": "2026-05-27T09:40:10.000Z",
-      "summary": "After Uttarakhand, Gujarat, Uniform Civil Code In Assam",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-trump-gathers-cabinet-as-he-looks-to-seal-deal-t-71dce0a6e3",
       "title": "Trump gathers Cabinet as he looks to seal deal to end war",
       "source": "NPR",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-updates-u-s-saw-threats-from-iran-befor-565cae96c6",
-      "title": "Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal",
-      "tag": "US",
-      "publishedAt": "2026-05-27T10:46:05.000Z",
-      "summary": "Iran has warned that it would retaliate after American military forces attacked sites near the Strait of Hormuz.",
+      "id": "news-kannada-organisations-threaten-to-protest-agains-db9863e150",
+      "title": "Kannada organisations threaten to protest against Belagavi corporation",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/kannada-organisations-threaten-to-protest-against-belagavi-corporation/article71029894.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-27T14:16:35.000Z",
+      "summary": "They demand that it pass a resolution saying Belagavi is an integral part of the State",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-human-rights-watch-says-u-s-deported-thousands-o-099f1f3a45",
-      "title": "Human Rights Watch says U.S. deported thousands of Cubans, Venezuelans to danger in Mexico",
+      "id": "news-rest-still-a-favour-not-a-right-for-retail-staff-d29ae2342c",
+      "title": "Rest still a favour, not a right, for retail-staff in Chennai",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/human-rights-watch-says-us-deported-thousands-of-cubans-venezuelans-to-danger-in-mexico/article71028573.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-05-27T10:45:46.000Z",
-      "summary": "More than half of the Cubans deported had a criminal record, but only 16% were for violent crimes, according to the researchers and one-fourth had no criminal history",
+      "url": "https://www.thehindu.com/news/national/rest-still-a-favour-not-a-right-for-retail-staff-in-chennai/article70917511.ece",
+      "tag": "India",
+      "publishedAt": "2026-05-27T14:16:05.000Z",
+      "summary": "Five years after Tamil Nadu legislated on the ‘right to sit’ provision within the Tamil Nadu Shops and Establishments Act, 1947, the law remains a luxury for many. From high-end...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
