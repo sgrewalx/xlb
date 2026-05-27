@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T21:59:51.113Z",
+  "updatedAt": "2026-05-27T23:19:42.716Z",
   "section": "Expanded Tech",
   "items": [
     {
@@ -13,6 +13,36 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-google-employee-accused-of-making-1-million-from-05b6f2ca63",
+      "title": "Google employee accused of making $1 million from insider trading on Polymarket",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket",
+      "tag": "Technology",
+      "publishedAt": "2026-05-27T23:09:56.000Z",
+      "summary": "Who could have seen this coming?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-google-employee-allegedly-used-inside-informat-a1168e7b7b",
+      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "tag": "Technology",
+      "publishedAt": "2026-05-27T22:30:02.000Z",
+      "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-security-engineer-arrested-in-million-dol-a55f20e706",
+      "title": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million",
+      "tag": "Technology",
+      "publishedAt": "2026-05-27T22:22:23.000Z",
+      "summary": "According to federal prosecutors, Michele Spagnuolo made more than $1 million on the prediction market platform using confidential information about Google Search traffic.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-rivian-will-deliver-the-first-r2-suvs-on-june-9-6a20bc5628",
       "title": "Rivian will deliver the first R2 SUVs on June 9",
       "source": "TechCrunch",
@@ -23,43 +53,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-s-newest-ipad-air-is-up-to-100-off-for-the-ac074e4b04",
-      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-05-27T21:08:41.000Z",
-      "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best pr...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-websites-have-a-new-way-to-spy-on-visitors-analy-d24ab276cc",
-      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "id": "tech-california-defeats-tesla-s-attempt-to-throw-out--deda247557",
+      "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity",
+      "url": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit",
       "tag": "Technology",
-      "publishedAt": "2026-05-27T20:56:03.000Z",
-      "summary": "Telltale SSD activity can be measured in the browser using simple JavaScript.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-halide-mark-iii-adds-a-built-in-editor-to-the-po-6cc32570db",
-      "title": "Halide Mark III adds a built-in editor to the popular camera app",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2182499/halide-mark-iii-adds-a-built-in-editor-to-the-popular-camera-app",
-      "tag": "Technology",
-      "publishedAt": "2026-05-27T20:32:35.000Z",
-      "summary": "The update also introduces the app's take on film stock simulation.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-huawei-s-chip-queen-throws-down-the-gauntlet-f69c725128",
-      "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau",
-      "tag": "Technology",
-      "publishedAt": "2026-05-27T18:00:00.000Z",
-      "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
+      "publishedAt": "2026-05-27T21:08:51.000Z",
+      "summary": "California civil rights agency hails win over Tesla, anticipates trial in July.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -113,13 +113,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-mystery-gps-jammer-in-iran-becomes-test-for-nasa-5bb62ac595",
-      "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth",
+      "id": "tech-apple-s-newest-ipad-air-is-up-to-100-off-for-the-ac074e4b04",
+      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-05-27T20:43:54.000Z",
-      "summary": "NASA science satellites show dual use in locating sources of GPS interference.",
+      "publishedAt": "2026-05-27T21:08:41.000Z",
+      "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best pr...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
