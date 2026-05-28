@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-05-28T20:11:38.127Z",
+  "updatedAt": "2026-05-28T22:26:44.885Z",
   "items": [
     {
-      "id": "tech-amazon-s-last-gen-paperwhite-is-on-sale-for-less-36d4222684",
-      "title": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
+      "id": "tech-rockstar-developers-go-public-with-first-union-9036cbaf23",
+      "title": "Rockstar developers go public with first union",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2183358/rockstar-developers-go-public-with-first-union",
       "tag": "Technology",
-      "publishedAt": "2026-05-28T20:10:09.000Z",
-      "summary": "If you like to read by the pool or at the beach, the 2021 Kindle Paperwhite remains one of the best e-readers available despite its age. That’s because, unlike Amazon’s latest e...",
+      "publishedAt": "2026-05-28T22:11:20.000Z",
+      "summary": "The Rockstar Game Workers Union has members across the developer's UK offices.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-asana-acquires-no-code-agent-builder-stack-ai-88c88330ad",
-      "title": "Asana acquires no-code agent-builder Stack AI",
+      "id": "tech-llms-believe-false-statements-even-after-explici-8e1cb55d79",
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false",
+      "tag": "Technology",
+      "publishedAt": "2026-05-28T21:29:43.000Z",
+      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-internet-is-being-rebuilt-for-machines-9c96cbfad3",
+      "title": "The internet is being rebuilt for machines",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines",
       "tag": "Technology",
-      "publishedAt": "2026-05-28T20:06:07.000Z",
-      "summary": "Asana will incorporate Stack AI into its growing suite of AI workflow tools.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-6-billion-chinese-startup-trying-to-build-ha-16e37e0928",
-      "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids",
-      "tag": "Technology",
-      "publishedAt": "2026-05-28T19:14:31.000Z",
-      "summary": "LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.",
+      "publishedAt": "2026-05-28T21:24:01.000Z",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic i...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]

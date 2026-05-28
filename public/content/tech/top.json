@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-05-28T20:11:38.127Z",
+  "updatedAt": "2026-05-28T22:26:44.885Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-amazon-s-last-gen-paperwhite-is-on-sale-for-less-36d4222684",
-      "title": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
+      "id": "tech-rockstar-developers-go-public-with-first-union-9036cbaf23",
+      "title": "Rockstar developers go public with first union",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2183358/rockstar-developers-go-public-with-first-union",
       "tag": "Technology",
-      "publishedAt": "2026-05-28T20:10:09.000Z",
-      "summary": "If you like to read by the pool or at the beach, the 2021 Kindle Paperwhite remains one of the best e-readers available despite its age. That’s because, unlike Amazon’s latest e...",
+      "publishedAt": "2026-05-28T22:11:20.000Z",
+      "summary": "The Rockstar Game Workers Union has members across the developer's UK offices.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-asana-acquires-no-code-agent-builder-stack-ai-88c88330ad",
-      "title": "Asana acquires no-code agent-builder Stack AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai",
+      "id": "tech-llms-believe-false-statements-even-after-explici-8e1cb55d79",
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false",
       "tag": "Technology",
-      "publishedAt": "2026-05-28T20:06:07.000Z",
-      "summary": "Asana will incorporate Stack AI into its growing suite of AI workflow tools.",
+      "publishedAt": "2026-05-28T21:29:43.000Z",
+      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-internet-is-being-rebuilt-for-machines-9c96cbfad3",
+      "title": "The internet is being rebuilt for machines",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines",
+      "tag": "Technology",
+      "publishedAt": "2026-05-28T21:24:01.000Z",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic i...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nintendo-s-newest-warioware-is-a-weirdo-smartpho-b92d4f0b1d",
+      "title": "Nintendo’s newest WarioWare is a weirdo smartphone app",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
+      "tag": "Technology",
+      "publishedAt": "2026-05-28T20:16:16.000Z",
+      "summary": "A decade ago, Nintendo made a big splash into the world of mobile gaming with a new Super Mario platformer directed by none other than Shigeru Miyamoto. But even though the game...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-slate-ev-truck-pre-orders-will-open-on-june-24-f0463fe2e9",
-      "title": "Slate EV truck pre-orders will open on June 24",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2183143/slate-ev-truck-pre-orders-will-open-on-june-24",
-      "tag": "Technology",
-      "publishedAt": "2026-05-28T18:45:04.000Z",
-      "summary": "Pre-orders are opening up for Slate, the Spirit Airlines of EV trucks",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-california-attorney-general-sues-23andme-success-6e5d288098",
       "title": "California Attorney General sues 23andMe successor for 2023 data breach",
       "source": "BBC Technology",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-28T18:28:42.000Z",
       "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-trump-loses-more-control-over-ai-regulation-as-i-4770605e7a",
-      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law",
-      "tag": "Technology",
-      "publishedAt": "2026-05-28T17:01:16.000Z",
-      "summary": "Here’s why Anthropic and OpenAI are on board with Illinois safety testing.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bluesky-embraces-long-form-content-to-counter-x--265475c4b8",
-      "title": "Bluesky embraces long-form content to counter X Articles",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles",
+      "id": "tech-cftc-wants-to-reverse-course-on-penalty-against--8966fc0a12",
+      "title": "CFTC wants to reverse course on penalty against Winklevoss twins' crypto business",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2183352/cftc-wants-to-reverse-course-on-penalty-against-winklevoss-twins-crypto-business",
       "tag": "Technology",
-      "publishedAt": "2026-05-28T19:27:07.000Z",
-      "summary": "In its latest update, Bluesky is getting into long-form content.",
+      "publishedAt": "2026-05-28T21:56:21.000Z",
+      "summary": "The Gemini exchange already paid a $5 million fine following the agency's lawsuit.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-copies-snapchat-s-homework-again-with-plus--342f32440e",
-      "title": "Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meta-copies-snapchats-homework-again",
+      "id": "tech-a-leaked-disney-memo-suggests-the-standalone-hul-c15c029b24",
+      "title": "A leaked Disney memo suggests the standalone Hulu app's days may be numbered",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2183291/a-leaked-disney-memo-suggests-the-standalone-hulu-app-s-days-may-be-numbered",
       "tag": "Technology",
-      "publishedAt": "2026-05-28T19:09:17.000Z",
-      "summary": "Meta’s upcoming Instagram Plus and Facebook Plus subscriptions are the latest example of the company seeing what works elsewhere and mimicking it.",
+      "publishedAt": "2026-05-28T20:53:57.000Z",
+      "summary": "So much for \"no current plans\" to sunset the app.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
