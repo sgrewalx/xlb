@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-05-29T16:35:45.110Z",
+  "updatedAt": "2026-05-29T19:27:24.547Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-we-asked-the-future-of-truth-author-to-explain-h-2e6e3a33af",
-      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/future-of-truth-ai-interview",
-      "tag": "Technology",
-      "publishedAt": "2026-05-29T16:30:00.000Z",
-      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-teases-new-surface-hardware-and-a-new--a6b3c24c3d",
-      "title": "Microsoft teases new Surface hardware and ‘a new era of PC’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
-      "tag": "Technology",
-      "publishedAt": "2026-05-29T16:21:22.000Z",
-      "summary": "I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased \"some...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cognition-s-scott-wu-says-ai-coding-agents-shoul-0210f9d63f",
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans",
-      "tag": "Technology",
-      "publishedAt": "2026-05-29T16:13:47.000Z",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-paramount-used-ai-to-make-the-ugliest-star-trek--facec36f52",
-      "title": "Paramount+ used AI to make the ugliest Star Trek thumbnail ever",
+      "id": "tech-cnn-is-the-latest-media-company-to-sue-perplexit-fa7a3c9719",
+      "title": "CNN is the latest media company to sue Perplexity",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2183719/paramount-used-ai-to-make-the-ugliest-star-trek-thumbnail-ever",
+      "url": "https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity",
       "tag": "Technology",
-      "publishedAt": "2026-05-29T16:03:51.000Z",
-      "summary": "We've never seen Captain Kirk wearing an outfit quite like this one.",
+      "publishedAt": "2026-05-29T19:12:42.000Z",
+      "summary": "CNN is the latest media company hauling Perplexity into court.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hands-on-with-gemini-spark-i-gave-it-access-to-m-2a9f5b0949",
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on",
+      "tag": "Technology",
+      "publishedAt": "2026-05-29T19:07:46.000Z",
+      "summary": "Google's new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-acer-s-launching-a-linux-handheld-for-streaming--4428e84d80",
+      "title": "Acer’s launching a Linux handheld for streaming your PC games",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+      "tag": "Technology",
+      "publishedAt": "2026-05-29T19:01:48.000Z",
+      "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. An...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-so-you-ve-heard-these-ai-terms-and-nodded-along--6779281024",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
+      "tag": "Technology",
+      "publishedAt": "2026-05-29T18:49:19.000Z",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-botnet-of-more-than-17-million-devices-dismantle-b17e6e0d52",
+      "title": "Botnet of more than 17 million devices dismantled",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled",
+      "tag": "Technology",
+      "publishedAt": "2026-05-29T18:46:33.000Z",
+      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-rocket-report-a-dark-day-for-blue-origin-pentago-c8ab47d778",
-      "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business",
-      "tag": "Technology",
-      "publishedAt": "2026-05-29T13:03:46.000Z",
-      "summary": "A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-after-thousands-of-views-meta-and-google-act-on--c6557b7c29",
       "title": "After thousands of views, Meta and Google act on account depicting child labour",
       "source": "The Hindu Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-samsung-movingstyle-essential-review-a-screen-on-4baebc1237",
-      "title": "Samsung Movingstyle Essential Review: A Screen on Wheels",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/samsung-movingstyle-32-m7",
+      "id": "tech-analysis-of-texas-measles-outbreak-shows-just-ho-b30b233f1d",
+      "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is",
       "tag": "Technology",
-      "publishedAt": "2026-05-29T15:52:17.000Z",
-      "summary": "Made for those who hate having a TV in the home, Samsung’s Movingstyle monitor-on-wheels brings the entertainment when you need it and hides away in a closet when you don’t.",
+      "publishedAt": "2026-05-29T18:35:38.000Z",
+      "summary": "About 1 in 5 cases were hospitalized and most of those developed complications.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-s-mass-deportations-are-only-possible-with-8c36e4ffc2",
-      "title": "Trump’s mass deportations are only possible with racial profiling",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
+      "id": "tech-house-of-the-dragon-s3-trailer-revels-in-dragons-870b1b5a3f",
+      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood",
       "tag": "Technology",
-      "publishedAt": "2026-05-29T15:00:00.000Z",
-      "summary": "Border security czar Tom Homan keeps threatening to \"flood\" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New...",
+      "publishedAt": "2026-05-29T18:21:44.000Z",
+      "summary": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
