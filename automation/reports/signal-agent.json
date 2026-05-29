@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-28T06:59:15.620Z",
-  "snapshotFile": "merged-2026-05-28.json",
-  "capturedAt": "2026-05-28T06:00:00.000Z",
+  "updatedAt": "2026-05-29T06:59:19.541Z",
+  "snapshotFile": "merged-2026-05-29.json",
+  "capturedAt": "2026-05-29T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -72,7 +72,7 @@
     {
       "path": "/tech",
       "pageviews": 0,
-      "searchImpressions": 1,
+      "searchImpressions": 3,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
