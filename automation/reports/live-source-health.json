@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-29T06:59:20.239Z",
+  "checkedAt": "2026-05-30T06:27:41.571Z",
   "status": "healthy",
   "stability": {
     "status": "stable",
@@ -25,6 +25,12 @@
       "stable": true,
       "recentRuns": [
         {
+          "checkedAt": "2026-05-30T06:27:41.571Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 3
+        },
+        {
           "checkedAt": "2026-05-29T06:59:20.239Z",
           "status": "healthy",
           "fallbackUsed": false,
@@ -98,12 +104,6 @@
         },
         {
           "checkedAt": "2026-05-17T06:27:17.631Z",
-          "status": "healthy",
-          "fallbackUsed": false,
-          "freshSeedCount": 3
-        },
-        {
-          "checkedAt": "2026-05-16T06:04:36.055Z",
           "status": "healthy",
           "fallbackUsed": false,
           "freshSeedCount": 3
@@ -117,16 +117,22 @@
       "earthquakeItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 228,
+      "fetchedSeedCount": 237,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
       "strongestMagnitude": 5.3,
-      "largeCount": 7,
+      "largeCount": 16,
       "error": null,
       "healthyStreak": 14,
       "nonFallbackStreak": 14,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-05-30T06:27:41.571Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-05-29T06:59:20.239Z",
           "status": "healthy",
@@ -201,12 +207,6 @@
         },
         {
           "checkedAt": "2026-05-17T06:27:17.631Z",
-          "status": "healthy",
-          "fallbackUsed": false,
-          "freshSeedCount": 1
-        },
-        {
-          "checkedAt": "2026-05-16T06:04:36.055Z",
           "status": "healthy",
           "fallbackUsed": false,
           "freshSeedCount": 1
@@ -220,7 +220,7 @@
       "spaceWeatherItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 359,
+      "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
       "latestKp": 1,
@@ -231,6 +231,12 @@
       "nonFallbackStreak": 14,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-05-30T06:27:41.571Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-05-29T06:59:20.239Z",
           "status": "healthy",
@@ -305,12 +311,6 @@
         },
         {
           "checkedAt": "2026-05-17T06:27:17.631Z",
-          "status": "healthy",
-          "fallbackUsed": false,
-          "freshSeedCount": 1
-        },
-        {
-          "checkedAt": "2026-05-16T06:04:36.055Z",
           "status": "healthy",
           "fallbackUsed": false,
           "freshSeedCount": 1
