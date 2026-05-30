@@ -1,55 +1,95 @@
 {
-  "updatedAt": "2026-05-30T09:10:32.614Z",
+  "updatedAt": "2026-05-30T11:14:18.976Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-the-russian-drone-that-hit-romania-also-hit-euro-5d5923275e",
-      "title": "The Russian Drone That Hit Romania Also Hit European Confidence",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html",
-      "tag": "US",
-      "publishedAt": "2026-05-30T09:02:46.000Z",
-      "summary": "The failure to protect NATO territory further increased anxiety about alliance solidarity, Russia’s intentions and Washington’s commitment to collective defense.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-chinese-dissident-says-he-was-berated-by-pro-reg-eb65083f97",
-      "title": "Chinese dissident says he was berated by ‘pro-regime’ interpreter for UK police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police",
-      "tag": "Europe",
-      "publishedAt": "2026-05-30T09:00:16.000Z",
-      "summary": "Hong Qi, who orchestrated protest against Communist government, claims interpreter on 101 call launched political tirade A Chinese dissident who orchestrated an anti-government...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-myanmar-s-min-aung-hlaing-takes-first-foreign-to-2009086452",
-      "title": "Myanmar's Min Aung Hlaing takes first foreign tour as leader, with visit to India",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/30/nx-s1-5838637/myanmar-hlaing-india-tour",
-      "tag": "US",
-      "publishedAt": "2026-05-30T09:00:00.000Z",
-      "summary": "The tour comes as Myanmar's new government tries to consolidate its political position regionally, while continuing to wage a brutal civil war.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-rain-thunderstorms-to-bring-relief-from-heat-acr-bc257a5228",
-      "title": "Rain, thunderstorms to bring relief from heat across large parts of India",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/rain-thunderstorms-to-bring-relief-from-heat-across-large-parts-of-india-10715573",
+      "id": "news-undertrial-prisoners-entitled-to-be-treated-at-p-861f7691ea",
+      "title": "Undertrial prisoners entitled to be treated at private hospitals of their choice: Madras High Court",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/undertrial-prisoners-entitled-to-be-treated-at-private-hospitals-of-their-choice-madras-high-court/article71040886.ece",
       "tag": "India",
-      "publishedAt": "2026-05-30T08:55:02.000Z",
+      "publishedAt": "2026-05-30T11:07:27.000Z",
+      "summary": "Justices G.R. Swaminathan and V. Lakshminarayanan permit Devanathan Yadav of Mylapore Hindu Permanent Fund Nidhi Limited to undergo treatment at a private hospital for 10 weeks",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bound-by-blood-new-film-highlights-jamaica-s-out-5079145c6c",
+      "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
+      "tag": "Europe",
+      "publishedAt": "2026-05-30T11:00:18.000Z",
+      "summary": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon sh...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israel-launches-more-than-10-strikes-across-sout-2cff5b859a",
+      "title": "Israel launches more than 10 strikes across southern Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-30T10:57:48.000Z",
+      "summary": "Videos show the aftermath of renewed Israeli strikes on southern Lebanon that killed at least three people.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-inside-the-ebola-epicenter-the-virus-rages-with--bc1d7d99cd",
+      "title": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html",
+      "tag": "US",
+      "publishedAt": "2026-05-30T10:53:36.000Z",
+      "summary": "A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-30-lakh-migrant-workers-may-miss-voter-roll-revi-5f2f0c22dd",
+      "title": "30 lakh migrant workers may miss voter roll revision in Odisha, BJD cautions Election Commission",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/odisha-sir-migrant-voters-bjd-concerns-10715765",
+      "tag": "India",
+      "publishedAt": "2026-05-30T10:53:35.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-former-kozhikode-mayor-and-senior-cpi-m-leader-t-a5b392cb28",
-      "title": "Former Kozhikode Mayor and senior CPI(M) leader T.P. Dasan passes away",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/senior-cpim-leader-tp-dasan-passes-away/article71040132.ece",
+      "id": "news-nhrc-may-2026-internship-ends-98-students-succes-af36073ac0",
+      "title": "NHRC May 2026 Internship Ends, 98 Students Successfully Finish Programme",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/nhrc-may-2026-internship-ends-98-students-successfully-finish-programme-11568335",
       "tag": "India",
-      "publishedAt": "2026-05-30T08:52:31.000Z",
-      "summary": "Dasan helmed the Kerala State Sports Council twice",
+      "publishedAt": "2026-05-30T10:41:35.000Z",
+      "summary": "NHRC Internship 2026: Students were exposed to diverse aspects of human rights through interactive sessions with eminent speakers.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bewkoof-samajh-rakha-hai-arvind-kejriwal-slams-c-5b862e0eb4",
+      "title": "'Bewkoof samajh rakha hai?': Arvind Kejriwal slams Centre over NEET paper leaks, says country needs 'educated PM'",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/bewkoof-samajh-rakha-hai-arvind-kejriwal-slams-centre-over-neet-paper-leaks-says-country-needs-educated-pm/articleshow/131407550.cms",
+      "tag": "India",
+      "publishedAt": "2026-05-30T10:30:06.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-colombia-s-untapped-wonder-the-mavecure-mountain-cf3c9c2ac3",
+      "title": "Colombia's untapped wonder: The Mavecure Mountains",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/30/nx-s1-5787938/colombias-untapped-wonder-the-mavecure-mountains",
+      "tag": "US",
+      "publishedAt": "2026-05-30T10:00:00.000Z",
+      "summary": "Far from Colombia's tourist hubs, the Mavecure Mountains rise from the Amazon jungle. Once off-limits during conflict, they now draw adventurous visitors to rare wildlife, sacre...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-four-more-men-freed-from-flooded-laos-cave-after-634af89576",
+      "title": "Four more men freed from flooded Laos cave after 10 days",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-05-30T09:50:56.000Z",
+      "summary": "Two of the seven villagers who entered the narrow tunnels in search for gold on 20 May are still missing.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -63,63 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-neet-cbse-ssc-and-today-cuet-rahul-gandhi-says-n-baac1d391a",
-      "title": "'NEET, CBSE, SSC. And today CUET': Rahul Gandhi says 'not a single exam conducted with honesty'",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/neet-cbse-ssc-and-today-cuet-rahul-gandhi-says-not-a-single-exam-conducted-with-honesty/articleshow/131406253.cms",
+      "id": "news-education-system-has-fallen-into-hands-of-mafia--051d2d9ff8",
+      "title": "Education system has fallen into hands of mafia: Arvind Kejriwal",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/education-system-has-fallen-into-hands-of-mafia-arvind-kejriwal/article71040952.ece",
       "tag": "India",
-      "publishedAt": "2026-05-30T08:28:47.000Z",
-      "summary": "Rahul Gandhi and opposition leaders have strongly criticized the Centre following widespread technical glitches that delayed the CUET-UG 2026 exam. This incident, following simi...",
+      "publishedAt": "2026-05-30T11:07:09.000Z",
+      "summary": "Reacting to reports that NEET papers would be transported to exam centres by the Indian Air Force, Mr. Kejriwal said that Centre has no intention of getting to the bottom of the...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-voting-ongoing-in-snap-elections-in-malta-govern-20b8940a33",
-      "title": "Voting ongoing in snap elections in Malta, governing party expected to win",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-30T08:22:40.000Z",
-      "summary": "Malta's economy to dominate this year’s election, with rising rents and infrastructure at the forefront of debates.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-cuet-ug-exam-delayed-at-some-centres-after-techn-e247601407",
-      "title": "CUET UG Exam Delayed At Some Centres After Technical Glitch, Now At 4 PM",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/education/cuet-ug-2026-exam-delayed-at-select-centres-today-nta-revises-shift-2-timings-11567723",
+      "id": "news-column-raja-muzaffar-bhat-kashmir-s-grassroots-m-94c0d385a1",
+      "title": "Column | Raja Muzaffar Bhat: Kashmir’s grassroots man",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/society/raja-muzaffar-bhat-kashmir-rti-environmental-activist/article71036950.ece",
       "tag": "India",
-      "publishedAt": "2026-05-30T08:05:36.000Z",
-      "summary": "CUET UG 2026: The NTA has revised the afternoon shift schedule for the exam conducted on May 30 after a technical issue caused delays at select exam centres.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-not-turning-back-on-asia-allies-but-expects-t-63b6efe653",
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-05-30T05:57:46.000Z",
-      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-across-the-middle-east-muslims-mark-eid-amid-war-878195f24c",
-      "title": "Across the Middle East, Muslims Mark Eid Amid War and Crisis",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html",
-      "tag": "US",
-      "publishedAt": "2026-05-30T09:02:24.000Z",
-      "summary": "From Iran to Gaza, Eid al-Adha celebrations were muted as war dragged on and shortages of food and fuel roiled the region.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-colombia-s-elections-are-a-crucial-test-for-the--56e582c472",
-      "title": "Colombia’s Elections Are a Crucial Test for the Left in Latin America",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html",
-      "tag": "US",
-      "publishedAt": "2026-05-30T09:01:43.000Z",
-      "summary": "Colombia’s leftist candidate for president leads in polls, but his main rival — a far-right outsider who calls himself “The Tiger” — has gained momentum. Elections are Sunday.",
+      "publishedAt": "2026-05-30T11:04:43.000Z",
+      "summary": "The RTI pioneer and environmental activist continues to hold power to account in the Valley",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
