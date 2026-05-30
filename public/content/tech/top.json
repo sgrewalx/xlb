@@ -1,25 +1,35 @@
 {
-  "updatedAt": "2026-05-30T16:05:05.581Z",
+  "updatedAt": "2026-05-30T17:57:31.495Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-welcome-to-night-vale-host-cecil-baldwin-shares--9960bd686d",
-      "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+      "id": "tech-a-private-equity-company-has-acquired-balatro-pu-461ac3cb8f",
+      "title": "A private equity company has acquired Balatro publisher, Playstack",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2184279/a-private-equity-company-has-acquired-balatro-publisher-playstack",
       "tag": "Technology",
-      "publishedAt": "2026-05-30T16:00:00.000Z",
-      "summary": "Cecil Baldwin's résumé includes appearances on Gravity Falls, narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing as part of the New York Neo-Fut...",
+      "publishedAt": "2026-05-30T17:52:04.000Z",
+      "summary": "The new owner, Integrated Media Company, also owns Fandom, Gamespot and metacritic",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-is-reportedly-developing-an-ai-pendant-8af42f6f47",
-      "title": "Meta is reportedly developing an AI pendant",
+      "id": "tech-snap-alums-unveil-ghost-angels-fund-c340922337",
+      "title": "Snap alums unveil Ghost Angels fund",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant",
+      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund",
       "tag": "Technology",
-      "publishedAt": "2026-05-30T15:59:58.000Z",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "publishedAt": "2026-05-30T17:00:00.000Z",
+      "summary": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-backrooms-is-a-certified-blockbuster-with-a-38-m-4e46f8ce1b",
+      "title": "Backrooms is a certified blockbuster with a $38 million opening day",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
+      "tag": "Technology",
+      "publishedAt": "2026-05-30T16:58:51.000Z",
+      "summary": "The Kane Parsons' film Backrooms is expected to earn up to $90 million in its opening weekend after pulling down $38 million on Friday alone. That's not only above expectations,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-05-30T14:02:25.000Z",
       "summary": "Brothers and Sisters is a family drama that showcases sibling bonds, emotional struggles and hidden family chaos.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-5-fitness-trackers-that-don-t-lock-core-features-24f9d1a68e",
-      "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2183305/fitness-trackers-no-subscription",
-      "tag": "Running",
-      "publishedAt": "2026-05-30T13:30:00.000Z",
-      "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-i-put-google-s-24-7-ai-assistant-gemini-spark-to-c4cd8e1d45",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful",
+      "id": "tech-oscar-winning-star-wars-editor-marcia-lucas-has--8fbf425a28",
+      "title": "Oscar-winning 'Star Wars' editor Marcia Lucas has died",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2184274/oscar-winning-star-wars-editor-marcia-lucas-has-died",
       "tag": "Technology",
-      "publishedAt": "2026-05-30T15:30:00.000Z",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "publishedAt": "2026-05-30T16:56:25.000Z",
+      "summary": "Marcia Lucas, who edited 'Star Wars' and 'Return of the Jedi,' has died at 80.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-is-threatening-legal-action-for-disclo-bc2aea630b",
-      "title": "Microsoft is threatening legal action for disclosing exploits",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "id": "tech-what-a-joke-github-copilot-s-new-token-based-bil-119faade8f",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs",
       "tag": "Technology",
-      "publishedAt": "2026-05-30T15:19:50.000Z",
-      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-con...",
+      "publishedAt": "2026-05-30T16:30:00.000Z",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
