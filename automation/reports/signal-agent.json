@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-30T06:27:40.883Z",
-  "snapshotFile": "merged-2026-05-30.json",
-  "capturedAt": "2026-05-30T06:00:00.000Z",
+  "updatedAt": "2026-05-31T07:02:16.594Z",
+  "snapshotFile": "merged-2026-05-31.json",
+  "capturedAt": "2026-05-31T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -11,10 +11,10 @@
   "topPages": [
     {
       "path": "/",
-      "pageviews": 0,
+      "pageviews": 1,
       "searchImpressions": 1,
-      "engagementScore": 0,
-      "returnVisitors": 0,
+      "engagementScore": 2,
+      "returnVisitors": 1,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0

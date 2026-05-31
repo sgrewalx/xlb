@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T06:27:40.883Z",
+  "updatedAt": "2026-05-31T07:02:16.594Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 237 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 106 km SW of Turpan, China.",
+          "summary": "USGS reported 183 earthquake events in the last 24 hours. Strongest reported event: M5.6 near 137 km SSE of Oistins, Barbados.",
           "metricLabel": "Updated",
-          "metricValue": "May 30, 06:27 AM",
+          "metricValue": "May 31, 07:02 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -50,7 +50,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
@@ -89,7 +89,7 @@
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
-          "metricValue": "32d 5h",
+          "metricValue": "31d 4h",
           "href": "/events/clps-flight-astrobotic-griffin-1",
           "accent": "space"
         },

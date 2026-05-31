@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-30T06:27:39.841Z",
-  "sourceSnapshot": "2026-05-30T06:00:00.000Z",
+  "updatedAt": "2026-05-31T07:02:15.483Z",
+  "sourceSnapshot": "2026-05-31T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
-    "hasLiveGa4": false,
+    "hasLiveGa4": true,
     "hasLiveSearchConsole": true,
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
@@ -37,7 +37,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -63,7 +63,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -89,7 +89,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -115,7 +115,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -141,7 +141,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -167,7 +167,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -193,7 +193,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -219,7 +219,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -245,7 +245,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
