@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-31T07:02:16.594Z",
-  "snapshotFile": "merged-2026-05-31.json",
-  "capturedAt": "2026-05-31T06:00:00.000Z",
+  "updatedAt": "2026-06-01T08:40:39.343Z",
+  "snapshotFile": "merged-2026-06-01.json",
+  "capturedAt": "2026-06-01T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -42,7 +42,7 @@
     {
       "path": "/games",
       "pageviews": 0,
-      "searchImpressions": 1,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
