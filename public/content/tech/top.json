@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-06-01T15:48:15.772Z",
+  "updatedAt": "2026-06-01T20:10:11.651Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-an-affordable-long-lasting-airtag-alternative-is-1f0d507dc8",
-      "title": "An affordable, long-lasting AirTag alternative is $15 right now",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
-      "tag": "Running",
-      "publishedAt": "2026-06-01T15:24:32.000Z",
-      "summary": "There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-atari-is-buying-the-maker-of-the-crossy-road-gam-3f44b4bc25",
-      "title": "Atari is buying the maker of the Crossy Road games",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2184833/atari-is-buying-the-maker-of-the-crossy-road-games",
-      "tag": "Technology",
-      "publishedAt": "2026-06-01T15:17:13.000Z",
-      "summary": "Atari's buying the maker of the Crossy Road games.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-duckduckgo-makes-its-no-ai-search-engine-easier--6f3ec783f3",
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "id": "tech-florida-sues-openai-sam-altman-in-first-of-its-k-776595fb05",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents",
       "tag": "Technology",
-      "publishedAt": "2026-06-01T14:49:10.000Z",
-      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "publishedAt": "2026-06-01T20:03:40.000Z",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-uk-banks-blocked-from-cyber-ai-tool-mythos-get-o-cfd9986e5d",
-      "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-this-could-be-windows-m1-moment-but-expect-it-to-03d7117b57",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
       "tag": "Technology",
-      "publishedAt": "2026-06-01T14:00:57.000Z",
-      "summary": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
+      "publishedAt": "2026-06-01T20:02:31.000Z",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well w...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-s-ai-support-chatbot-made-it-ridiculously-e-91ec4da355",
+      "title": "Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T19:43:44.000Z",
+      "summary": "Meta says it's working on securing accounts that were affected by a hack.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-vizag-data-centre-is-a-major-challenge-114406c090",
+      "title": "Vizag data centre is a major challenge",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/opinion/op-ed/vizag-data-centre-is-a-major-challenge/article71049927.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T19:21:16.000Z",
+      "summary": "If India needs Google’s hyperscale hub, it is not yet ready for the facility",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-doctors-blast-trump-for-doubling-down-on-vaccine-fba7a197bc",
+      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T19:07:58.000Z",
+      "summary": "Even Danish researchers think it's bizarre.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-let-chatgpt-aid-and-abet-mass-shooters-fl-c6dd06c6e9",
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T18:58:26.000Z",
+      "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-confidentially-files-for-what-could-be-0c8a59f1bd",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T17:17:58.000Z",
+      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -63,36 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-intel-our-upcoming-ai-chip-will-be-cheaper-run-c-ee2b608d69",
-      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options",
-      "tag": "Technology",
-      "publishedAt": "2026-06-01T13:32:16.000Z",
-      "summary": "Crescent Island is an air-cooled chip that uses LPDDR5 memory.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-best-sleep-trackers-of-2026-oura-whoop-and-eight-4665e7f867",
-      "title": "Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/best-sleep-trackers",
-      "tag": "Running",
-      "publishedAt": "2026-06-01T13:02:00.000Z",
-      "summary": "I tested the top sleep wearables for every type of sleeper, including devices from Oura, Whoop, and Eight Sleep.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-vivo-x300-ultra-review-delivers-consistency-real-8c29ffcefd",
-      "title": "Vivo X300 Ultra Review | Delivers consistency, realism and a premium photography experience",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/vivo-x300-ultra-review-delivers-consistency-realism-and-a-premium-photography-experience/article71047744.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-01T09:29:42.000Z",
-      "summary": "If your priority is finding the ultimate Ultra camera flagship that delivers consistency, realism and a premium photography experience overall, then right now, the Vivo X300 Ult...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-malaysia-s-under-16-social-media-ban-carries-fin-98baac5d70",
-      "title": "Malaysia's under-16 social media ban carries fines up to $2.5 million",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2184829/malaysias-under-16-social-media-ban-carries-fines-up-to-dollar25-million",
+      "id": "tech-gemini-s-new-ai-agent-is-about-as-good-as-google-d61b321701",
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
       "tag": "Technology",
-      "publishedAt": "2026-06-01T15:14:08.000Z",
-      "summary": "Malaysia's under-16 social media ban has taken effect.",
+      "publishedAt": "2026-06-01T20:00:00.000Z",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-next-big-career-move-for-young-hollywood-rea-72f7c43ba3",
-      "title": "The next big career move for young Hollywood? Reading audio smut",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus",
+      "id": "tech-randy-pitchford-says-his-friend-found-an-unannou-035d572fa6",
+      "title": "Randy Pitchford says his friend found an unannounced Pixel Watch 5 in the sea",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2185217/randy-pitchford-says-his-friend-found-an-unannounced-pixel-watch-5-in-the-sea",
       "tag": "Technology",
-      "publishedAt": "2026-06-01T15:00:12.000Z",
-      "summary": "Though Gen Z has developed a reputation for being so disinterested in sex that they don't even want to see it on TV, the popularity of series like Heated Rivalry and The Summer...",
+      "publishedAt": "2026-06-01T19:32:29.000Z",
+      "summary": "Our first look at the Pixel Watch 5 may have emerged from a truly unexpected place",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
