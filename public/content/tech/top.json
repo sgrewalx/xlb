@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-06-01T22:55:58.220Z",
+  "updatedAt": "2026-06-02T00:07:46.093Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-alphabet-plans-to-raise-80-billion-to-pay-for-ai-16f4eb666b",
-      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout",
+      "id": "tech-amd-radeon-rx-9070-gre-review-a-cheaper-gpu-for--fc2134ce81",
+      "title": "AMD Radeon RX 9070 GRE review: A cheaper GPU for a wildly expensive era",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2185302/amd-radeon-rx-9070-gre-review",
       "tag": "Technology",
-      "publishedAt": "2026-06-01T22:55:09.000Z",
-      "summary": "The Google parent company plans to raise the funds by selling stock.",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "summary": "AMD's Radeon RX 9070 GRE is finally available globally, and it's a solid performer for $549.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-cats-prefer-silver-vine-to-catnip-and-other--efc6b88124",
-      "title": "Why cats prefer silver vine to catnip and other May highlights",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4",
+      "id": "tech-how-to-make-the-startup-battlefield-top-20-and-w-e43718935b",
+      "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless",
       "tag": "Technology",
-      "publishedAt": "2026-06-01T21:38:55.000Z",
-      "summary": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
+      "publishedAt": "2026-06-01T23:20:52.000Z",
+      "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-confused-ai-rollout-hurts-firms-and-baffles--6a6e2915f6",
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T23:05:11.000Z",
+      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-costs-how-much-github-copilot-users-react-to--ade7609ab8",
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T22:18:09.000Z",
+      "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-s-ai-support-chatbot-made-it-ridiculously-e-91ec4da355",
-      "title": "Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts",
-      "tag": "Technology",
-      "publishedAt": "2026-06-01T19:43:44.000Z",
-      "summary": "Meta says it's working on securing accounts that were affected by a hack.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-vizag-data-centre-is-a-major-challenge-114406c090",
       "title": "Vizag data centre is a major challenge",
       "source": "The Hindu Technology",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-01T19:21:16.000Z",
       "summary": "If India needs Google’s hyperscale hub, it is not yet ready for the facility",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-let-chatgpt-aid-and-abet-mass-shooters-fl-c6dd06c6e9",
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-01T18:58:26.000Z",
-      "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-alphabet-plans-to-raise-80b-to-pay-for-ai-buildo-16f4eb666b",
+      "title": "Alphabet plans to raise $80B to pay for AI buildout",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout",
+      "tag": "Technology",
+      "publishedAt": "2026-06-01T22:55:09.000Z",
+      "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphab...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-defense-tech-darling-mach-industries-hits-1-8b-v-cacced3e67",
       "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-01T21:40:35.000Z",
       "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and comple...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nvidia-chases-200b-cpu-market-with-ai-agent-pcs--8ef7d798a9",
-      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp",
-      "tag": "Technology",
-      "publishedAt": "2026-06-01T21:35:00.000Z",
-      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
