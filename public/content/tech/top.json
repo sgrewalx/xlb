@@ -1,25 +1,55 @@
 {
-  "updatedAt": "2026-06-02T14:43:24.228Z",
+  "updatedAt": "2026-06-02T18:32:04.111Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-apple-s-macbook-neo-is-winning-over-a-new-genera-acec950589",
-      "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
+      "id": "tech-a-startup-everand-is-now-bundling-ebooks-audiobo-943443594e",
+      "title": "A startup, Everand, is now bundling ebooks, audiobooks, and book clubs in challenge to Amazon",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers",
+      "url": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon",
       "tag": "Technology",
-      "publishedAt": "2026-06-02T14:39:29.000Z",
-      "summary": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market.",
+      "publishedAt": "2026-06-02T18:31:22.000Z",
+      "summary": "A new reading subscription from Everand offers access to both ebooks and audiobooks, and Fable's book club community.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-s-parent-company-is-raising-80-billion-to-367423a665",
-      "title": "Google's parent company is raising $80 billion to fuel its AI ambitions",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2185672/googles-parent-company-is-raising-80-billion-to-fuel-its-ai-ambitions",
+      "id": "tech-microsoft-s-next-gen-quantum-chip-cuts-timeline--9ad5846d55",
+      "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
       "tag": "Technology",
-      "publishedAt": "2026-06-02T14:29:05.000Z",
-      "summary": "Not even Alphabet has enough cash to meet its AI goals.",
+      "publishedAt": "2026-06-02T18:15:00.000Z",
+      "summary": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately sk...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-announces-deepfake-call-detection-for-and-545b536287",
+      "title": "Google announces deepfake call detection for Android, new AirDrop device support",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support",
+      "tag": "Technology",
+      "publishedAt": "2026-06-02T18:00:46.000Z",
+      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meet-microsoft-scout-your-ai-coworker-that-never-cb53e1ce1e",
+      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off",
+      "tag": "Technology",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-android-will-now-warn-you-if-a-caller-is-imperso-4d6a362e47",
+      "title": "Android will now warn you if a caller is impersonating someone you know",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2184125/android-will-now-warn-you-if-a-caller-is-impersonating-someone-you-know",
+      "tag": "Technology",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "summary": "Google Photos and Google Play Books are also getting new AI-powered updates.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -43,26 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-s-doe-restarts-energy-rebate-program-with--6cff58581f",
-      "title": "Trump's DOE restarts energy rebate program with dumb conditions",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions",
-      "tag": "Technology",
-      "publishedAt": "2026-06-02T13:29:00.000Z",
-      "summary": "Switching from fossil fuels to electricity for heating is no longer covered.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-lego-s-smart-play-pok-mon-can-train-and-battle-b-92f2e170ed",
-      "title": "Lego’s Smart Play Pokémon can train and battle, but don’t do the one thing I wish they could",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets",
-      "tag": "Technology",
-      "publishedAt": "2026-06-02T13:28:27.000Z",
-      "summary": "When Lego announced its tech-packed Smart Bricks at CES, we were impressed by the potential - enough to give it our Best in Show award. But when the first Star Wars sets actuall...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-instagram-ai-chatbot-tricked-by-hackers-to-give--dc176ba42e",
       "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
       "source": "BBC Technology",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-02T11:40:02.000Z",
       "summary": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-4-best-alexa-speakers-2026-echo-dot-max-echo-dot-072e994903",
-      "title": "4 Best Alexa Speakers (2026): Echo Dot Max, Echo Dot, Echo Show 11",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers",
-      "tag": "Technology",
-      "publishedAt": "2026-06-02T11:34:00.000Z",
-      "summary": "I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-india-to-emerge-as-a-leading-hub-of-ai-driven-ad-291729d2f1",
-      "title": "India to emerge as a leading hub of AI-driven advertising: Redseer report",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/ai-to-drive-next-wave-of-growth-in-global-advertising-redseer-report",
+      "id": "tech-martin-scorsese-becomes-the-latest-and-most-unli-6b5179960a",
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai",
       "tag": "Technology",
-      "publishedAt": "2026-06-02T14:00:10.000Z",
-      "summary": "The report highlights that AI is reshaping every major layer of the advertising ecosystem, from media buying and audience targeting to creative production, measurement, commerce...",
+      "publishedAt": "2026-06-02T18:16:53.000Z",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-amazon-prime-day-2026-takes-place-june-23-26-cdfef1fae9",
-      "title": "Amazon Prime Day 2026 takes place June 23-26",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26",
+      "id": "tech-microsoft-s-first-advanced-reasoning-ai-is-here-f3d640342a",
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
       "tag": "Technology",
-      "publishedAt": "2026-06-02T13:47:53.000Z",
-      "summary": "Groceries and household essentials will be a main focus of this year's deals event.",
+      "publishedAt": "2026-06-02T18:12:44.000Z",
+      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsof...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
