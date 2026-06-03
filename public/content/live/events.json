@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T08:01:11.940Z",
+  "updatedAt": "2026-06-03T08:23:48.734Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-06-02T07:49:47.010Z",
-      "summary": "USGS reported 228 earthquake events in the last 24 hours. Strongest reported event: M6.2 near 22 km WSW of Scarcelli, Italy.",
+      "startsAt": "2026-06-03T08:15:21.843Z",
+      "summary": "USGS reported 213 earthquake events in the last 24 hours. Strongest reported event: M5.1 near 76 km S of Daroot-Korgon, Kyrgyzstan.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,10 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-02T08:01:11.940Z",
+      "updatedAt": "2026-06-03T08:23:48.734Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-      "relatedVideoIds": [
-        "video-how-big-a-threat-is-iran-s-military-now-global-n-395fe1a5d0",
-        "video-how-did-prediction-markets-like-polymarket-get-s-4c40ce2b41"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -57,10 +54,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-02T08:01:11.940Z",
+      "updatedAt": "2026-06-03T08:23:48.734Z",
       "importance": 72,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-russia-launches-one-of-its-biggest-attacks-of-uk-16c973127d"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -78,7 +77,7 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-06-02T07:57:00.000Z",
+      "startsAt": "2026-06-03T08:20:00.000Z",
       "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
@@ -90,10 +89,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-02T08:01:11.940Z",
+      "updatedAt": "2026-06-03T08:23:48.734Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-climate-change-is-fueling-more-extreme-weather-eabe0e1ddc",
+        "video-british-ex-paralympian-set-to-be-first-physicall-78bea16350"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -123,7 +125,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-02T08:01:11.940Z",
+      "updatedAt": "2026-06-03T08:23:48.734Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -143,7 +145,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-02T08:01:11.668Z",
+      "startsAt": "2026-06-03T08:23:48.409Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -155,10 +157,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-02T08:01:11.940Z",
+      "updatedAt": "2026-06-03T08:23:48.734Z",
       "importance": 68,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-russia-launches-one-of-its-biggest-attacks-of-uk-16c973127d"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -176,7 +180,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-02T08:01:11.668Z",
+      "startsAt": "2026-06-03T08:23:48.410Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -188,10 +192,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-02T08:01:11.940Z",
+      "updatedAt": "2026-06-03T08:23:48.734Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-russia-launches-one-of-its-biggest-attacks-of-uk-16c973127d"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
