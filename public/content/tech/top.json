@@ -1,85 +1,95 @@
 {
-  "updatedAt": "2026-06-03T08:07:00.071Z",
+  "updatedAt": "2026-06-03T13:07:20.169Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-meta-expands-teen-content-controls-globally-test-310a2033ee",
+      "id": "tech-coralogix-raises-200m-on-bet-that-someone-needs--495eab47c6",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T13:02:51.000Z",
+      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-vivo-x500-pro-max-display-and-battery-details-su-3265aaacdf",
+      "title": "Vivo X500 Pro Max Display and Battery Details Surface Online in Early Leak; Largest Model Said to Feature 6.85-Inch Screen",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-display-boe-battery-capacity-specifications-features-leak-weibo-11586366",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T12:38:22.000Z",
+      "summary": "Vivo X500 Pro Max is tipped to come with a 6.85-inch LIPO flat BOE display with narrow bezels. The display is said to offer a 144Hz refresh rate and 2K resolution. The handset i...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-energy-and-persistence-conquer-all-things-benjam-188527e866",
+      "title": "Energy and Persistence Conquer All Things — Benjamin Franklin",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/06/energy-persistence-benjamin-franklin",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T12:30:00.000Z",
+      "summary": "We live amid infinite tabs, rapid cycles, and an economy that prizes speed. Against this backdrop, Benjamin Franklin’s line, “Energy and persistence...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-pledges-to-replenish-more-water-than-it-u-f306e06584",
+      "title": "Google pledges to replenish more water than it uses at data centers by 2030",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2186418/google-pledges-to-replenish-water-data-centers-by-2030",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T12:23:10.000Z",
+      "summary": "Google has expanded its water stewardship projects in the midst of growing unrest over data centers' water usage.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-lloyds-halifax-and-bank-of-scotland-app-users-hi-702e35a8c4",
+      "title": "Lloyds, Halifax and Bank of Scotland app users hit by outage",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T12:02:44.000Z",
+      "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-switchbot-s-acquisition-of-nanoleaf-is-about-mor-4d3d6d4aad",
+      "title": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T12:00:20.000Z",
+      "summary": "Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the comp...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-to-block-spam-calls-and-spam-texts-on-iphone-302904ff40",
+      "title": "How to Block Spam Calls and Spam Texts on iPhone and Android (2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-to-block-calls-and-spam-messages",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T11:31:00.000Z",
+      "summary": "Fight the scourge of unsolicited rings and pings from spammers, scammers, and telemarketers.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-beans-use-an-immune-receptor-to-call-in-airstrik-3e91c6b9a4",
+      "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars",
+      "tag": "Technology",
+      "publishedAt": "2026-06-03T11:15:07.000Z",
+      "summary": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-expands-teen-content-controls-globally-test-bc7af0857f",
       "title": "Meta expands teen content controls globally, tests new Instagram tool to diversify feeds",
       "source": "The Hindu Technology",
       "url": "https://www.thehindu.com/sci-tech/technology/meta-expands-teen-content-controls-globally-tests-new-instagram-tool-to-diversify-feeds/article71055351.ece",
       "tag": "Technology",
-      "publishedAt": "2026-06-03T07:02:40.000Z",
+      "publishedAt": "2026-06-03T10:31:50.000Z",
       "summary": "A “Limited Content” setting, offering an even more restrictive experience, will also be made available on Facebook and Messenger later ‌this year, Meta said",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-poland-wants-to-ban-phones-and-smartwatches-in-s-16b665e048",
-      "title": "Poland wants to ban phones and smartwatches in schools",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2186323/poland-classroom-phone-ban-online-porn-age-check-bills",
-      "tag": "Technology",
-      "publishedAt": "2026-06-03T05:58:15.000Z",
-      "summary": "The Polish government has approved several bills, including one that would ban phones in the classroom.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-publishers-in-uk-can-opt-out-of-google-ai-search-c682133de3",
-      "title": "Publishers in UK can opt out of Google AI search results",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-03T05:18:00.000Z",
-      "summary": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\".",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-peacock-promo-codes-40-off-june-2026-0bd421f7fb",
-      "title": "Peacock Promo Codes: 40% Off June 2026",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/peacock-promo-code",
-      "tag": "Technology",
-      "publishedAt": "2026-06-03T05:00:00.000Z",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-vc-funding-dries-in-may-fertility-treatment-with-05aa5ce4bf",
-      "title": "VC funding dries in May; Fertility treatment with compassion",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/vc-funding-dries-in-may-fertility-treatment-with-compassion",
-      "tag": "Technology",
-      "publishedAt": "2026-06-03T02:00:00.000Z",
-      "summary": "Investors are now focusing on artificial intelligence (AI) startups, and unfortunately India has few credible companies in this segment.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-squishmallows-dentures-and-an-i-heart-hot-dads-b-44fc559e88",
-      "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis",
-      "tag": "Technology",
-      "publishedAt": "2026-06-02T23:25:20.000Z",
-      "summary": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-male-bowerbirds-hope-to-dazzle-females-with-brig-4c5a9e6003",
-      "title": "Male bowerbirds hope to dazzle females with bright human-made items",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers",
-      "tag": "Technology",
-      "publishedAt": "2026-06-02T23:05:31.000Z",
-      "summary": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-god-of-war-laufey-is-coming-to-the-ps5-f066ad44a3",
-      "title": "God of War Laufey is coming to the PS5",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
-      "tag": "Technology",
-      "publishedAt": "2026-06-02T22:16:08.000Z",
-      "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-uk-lawmakers-call-palantir-s-role-in-public-sect-c7efd01913",
-      "title": "UK lawmakers call Palantir's role in public sector an unacceptable weakness",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/uk-lawmakers-call-palantirs-role-in-public-sector-an-unacceptable-weakness/article71055334.ece",
+      "id": "tech-plex-adds-new-social-features-ahead-of-a-major-p-85384fcd5a",
+      "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike",
       "tag": "Technology",
-      "publishedAt": "2026-06-03T06:58:41.000Z",
-      "summary": "Among Palantir’s high-profile contracts is one with the National Health Service, ‌valued at £330 million ($444 million)",
+      "publishedAt": "2026-06-03T13:00:00.000Z",
+      "summary": "Plex has come a long way from being just a personal media server. Over the past few years, it has transformed into a streaming hub, today featuring ad-supported content and movi...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-teases-new-era-of-ai-driven-devices-at-b67ee54f88",
-      "title": "Microsoft teases new era of AI-driven devices at annual developer conference",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-teases-new-era-of-ai-driven-devices-at-annual-developer-conference/article71055342.ece",
+      "id": "tech-google-introduces-fake-call-detection-for-androi-f3d899a43e",
+      "title": "Google Introduces Fake Call Detection for Android Phones to Curb Call Spoofing Attacks",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/android-fake-call-detection-feature-launch-phone-app-11586365",
       "tag": "Technology",
-      "publishedAt": "2026-06-03T06:57:26.000Z",
-      "summary": "The models underscore Microsoft’s efforts to build frontier AI independent ⁠of the lab it has long backed, OpenAI",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-love-my-woke-pope-why-pope-leo-s-encyclical-on-a-3ad73cb386",
-      "title": "‘Love my woke pope’: Why Pope Leo’s encyclical on AI went viral online",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/love-my-woke-pope-why-pope-leos-encyclical-on-ai-went-viral-online/article71055346.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-03T06:48:06.000Z",
-      "summary": "Pope Leo XIV has issued a manifesto calling for robust regulation of artificial intelligence",
+      "publishedAt": "2026-06-03T12:38:18.000Z",
+      "summary": "Android phones are now capable of detecting fake calls to alert users even before they pick up a call, Google announced on Tuesday. The Mountain View-based tech giant, in a blog...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
