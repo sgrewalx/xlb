@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-06-05T21:18:16.968Z",
+  "updatedAt": "2026-06-05T22:59:36.073Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-tennis-giants-tumble-4446ce45fd",
-      "title": "Tennis Giants Tumble",
+      "id": "news-penguin-pulls-plug-on-joe-sacco-s-book-on-muzaff-020a86d1c0",
+      "title": "Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/penguin-pulls-plug-on-joe-saccos-book-on-muzaffarnagar-riots-10726350",
+      "tag": "India",
+      "publishedAt": "2026-06-05T22:51:12.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-s-soccer-team-allowed-into-u-s-for-world-cu-de2e5fcb38",
+      "title": "Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html",
-      "tag": "Tennis",
-      "publishedAt": "2026-06-05T21:13:07.000Z",
-      "summary": "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
+      "url": "https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html",
+      "tag": "Football",
+      "publishedAt": "2026-06-05T22:48:40.000Z",
+      "summary": "After months of doubts over their participation, Iran’s players have received visas for the United States just days before the World Cup begins.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-court-can-t-stop-trump-ballroom-construction-gov-56f0ca7f20",
-      "title": "Court can't stop Trump ballroom construction, government lawyer tells judge",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/court-cant-stop-trump-ballroom-construction-government-lawyer-tells-judge/article71067334.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-06-05T21:10:06.000Z",
-      "summary": "Attorney Yaakov Roth, speaking during an exchange with U.S. Appeals Court Judge Patricia Millett, said only Congress could halt the $400 million project.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-california-governor-s-race-doj-sends-in-federal--753e63c076",
-      "title": "California governor’s race: DoJ sends in federal observer over slow count",
+      "id": "news-trump-confirms-telling-bill-pulte-to-fire-intell-085f4809b4",
+      "title": "Trump confirms telling Bill Pulte to fire intelligence community employees – live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
       "tag": "Europe",
-      "publishedAt": "2026-06-05T21:04:01.000Z",
-      "summary": "Experts warn ballot-counting could drag on in primaries for governor, LA mayor and Congress, as Trump claims ‘rigging’ The justice department on Friday sent a federal prosecutor...",
+      "publishedAt": "2026-06-05T22:45:34.000Z",
+      "summary": "Asked about media report that new acting intelligence director has been told to make significant personnel changes, Trump claims staffing was ‘way too high’ Sign up for the Brea...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-free-thinking-c1efb2d2b4",
-      "title": "Free Thinking",
+      "id": "news-expedite-verifications-mea-tells-dhaka-665d2e6931",
+      "title": "Expedite verifications, MEA tells Dhaka",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/expedite-verifications-mea-tells-dhaka/articleshow/131542662.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-05T22:29:07.000Z",
+      "summary": "India has urged Bangladesh to expedite the verification of suspected illegal immigrants to facilitate their deportation. The MEA highlighted an existing bilateral mechanism for...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-stocks-slump-as-fears-over-big-tech-shake-wal-3a735d66ad",
+      "title": "US stocks slump as fears over Big Tech shake Wall Street",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/sounds/play/m002x5t3?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
       "tag": "US",
-      "publishedAt": "2026-06-05T21:00:00.000Z",
-      "summary": "Can the accumulation of wealth be ethical and what can we learn from Adam Smith's enquiry?",
+      "publishedAt": "2026-06-05T21:38:13.000Z",
+      "summary": "The Nasdaq saw its biggest daily fall since early 2025.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-moderate-quake-hits-himachal-districts-tremors-f-0d40b04e01",
+      "title": "Moderate quake hits Himachal districts; tremors felt in neighbouring States",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/himachal-pradesh/moderate-quake-hits-himachal-districts-tremors-felt-in-neighbouring-states/article71067343.ece",
+      "tag": "India",
+      "publishedAt": "2026-06-05T21:15:03.000Z",
+      "summary": "The depth of the earthquake, which struck about 40 k.m. from Dharamsala near the Kangra- Chamba border at 10:04 pm, was 5 km, the meteorological office said, adding that the epi...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-allahabad-court-grants-bail-to-rape-murder-accus-55a5cc8e3f",
+      "title": "Allahabad Court Grants Bail To Rape, Murder Accused Over Lack Of Evidence",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/allahabad-high-court-grants-bail-to-rape-murder-accused-over-lack-of-evidence-11598138",
+      "tag": "India",
+      "publishedAt": "2026-06-05T21:07:12.000Z",
+      "summary": "The Allahabad High Court has granted bail to an accused in a rape and murder case with a \"heavy heart and great pain\" due to the lack of scientific evidence linking the suspect...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-makes-pitch-to-farmers-hard-hit-by-tariffs-9a76b0a163",
+      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-05T21:02:52.000Z",
+      "summary": "Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,46 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-footballers-issued-us-visas-for-world-cup-s-cedcbdea24",
-      "title": "Iran footballers issued US visas for World Cup, says White House",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
-      "tag": "Football",
-      "publishedAt": "2026-06-05T20:49:40.000Z",
-      "summary": "Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pm-modi-inspects-indigenous-defence-systems-at-s-decb485f4c",
-      "title": "PM Modi inspects indigenous defence systems at Surat facility, briefed about desi light tank Zorawar",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/pm-modi-inspects-indigenous-defence-systems-at-surat-facility-briefed-about-desi-light-tank-zorawar/articleshow/131540266.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-05T19:33:21.000Z",
-      "summary": "Prime Minister Narendra Modi visited Larsen & Toubro's Armed Systems Complex in Surat, reviewing advanced defence equipment and indigenous armoured vehicles. He was briefed on '...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-weather-highlights-heavy-to-very-heavy-rainfall--fc05710473",
-      "title": "Weather Highlights: Heavy To Very Heavy Rainfall Likely Over Kerala, Karnataka",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/weather-live-updates-imd-weather-forecast-delhi-ncr-kerala-monsoon-southwest-monsoon-heavy-to-very-heavy-rainfall-likely-over-kerala-karnataka-11593532",
-      "tag": "India",
-      "publishedAt": "2026-06-05T18:44:00.000Z",
-      "summary": "Heavy to very heavy rainfall is likely to continue over northeast Indiaduring the coming week.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-himanta-sarma-expands-assam-cabinet-balances-new-6669c6766a",
-      "title": "Himanta Sarma expands Assam Cabinet, balances new faces and loyalists, groups and regions",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/assam-cabinet-expansion-himanta-sarma-new-ministers-10726242",
-      "tag": "India",
-      "publishedAt": "2026-06-05T16:06:09.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-the-future-depends-on-a-circular-water-economy-5443ad1909",
       "title": "The future depends on a circular water economy",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-confirms-telling-bill-pulte-to-fire-intell-c0410a7914",
-      "title": "Trump confirms telling Bill Pulte to fire intelligence community employees – live",
+      "id": "news-texas-murder-trial-under-way-with-19-year-old-ac-884a3f0a52",
+      "title": "Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/05/us-politics-latest-news-updates-donald-trump-republicans-democrats",
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/texas-stabbing-high-school",
       "tag": "Europe",
-      "publishedAt": "2026-06-05T21:02:37.000Z",
-      "summary": "Asked about media report that new acting intelligence director has been told to make significant personnel changes, Trump claims staffing was ‘way too high’ Sign up for the Brea...",
+      "publishedAt": "2026-06-05T22:27:56.000Z",
+      "summary": "Case draws nationwide attention amid debate over racial tensions, as defendant is Black and slain student was white Testimony has been unfolding in the murder trial of a 19-year...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-tvk-must-ensure-governor-s-address-mentions-abou-84f32a575a",
-      "title": "TVK must ensure Governor’s address mentions about caste-survey: Anbumani",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-must-ensure-governors-address-mentions-about-caste-survey-anbumani/article71065776.ece",
+      "id": "news-oil-india-strikes-natural-gas-in-third-andaman-o-f138bc9042",
+      "title": "Oil India strikes natural gas in third Andaman offshore well",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/oil-india-strikes-natural-gas-in-third-andaman-offshore-well/articleshow/131542656.cms",
       "tag": "India",
-      "publishedAt": "2026-06-05T20:37:02.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-06-05T22:26:14.000Z",
+      "summary": "State-run Oil India Limited (OIL) has announced the discovery of natural gas in its third exploratory well, Vijayapuram-3, located off the Andaman Islands. This finding further...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
