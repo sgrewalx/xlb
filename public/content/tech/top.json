@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-06-05T18:54:07.312Z",
+  "updatedAt": "2026-06-05T20:45:08.374Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-summer-game-fest-live-2026-the-biggest-news-trai-84ccff7aec",
+      "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T20:40:00.000Z",
+      "summary": "Geoff Keighley’s annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and announcements, begins at 5...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-former-cyber-executive-turned-whistleblower-accu-f45e4cf41b",
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T20:31:04.000Z",
+      "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s, which a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-trump-to-meet-ai-leaders-to-discuss-us-investmen-9ef7db9161",
+      "title": "Trump to meet AI leaders to discuss US investment in their companies",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T19:36:30.000Z",
+      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-rolls-out-a-lockdown-mode-for-extra-prote-9c2a7bc3bc",
+      "title": "OpenAI rolls out a Lockdown Mode for extra protection against prompt injection attacks",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T19:33:02.000Z",
+      "summary": "OpenAI has announced more robust security features for the small set of users who might need them.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-yellow-ivf-founder-ambika-bhaik-on-fixing-the-pa-d6f17f56e3",
+      "title": "Yellow IVF founder Ambika Bhaik on fixing the part of fertility care nobody talks about",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/06/ambika-bhaik-on-fixing-fertility-cares-blind-spot",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T19:17:10.000Z",
+      "summary": "Yellow IVF founder Ambika Bhaik explains the Yellow Contract, her partner-led network and why she believes fertility care in India has to stop selling cycles and start sharing r...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-s-p-500-blocks-fast-spacex-entry-won-t-waive-rul-55f0d80c16",
       "title": "S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms",
@@ -20,66 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-05T18:16:25.000Z",
       "summary": "I shaved my head 15 years ago and never looked back. This GroWell LED cap changed that.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gm-s-electric-future-depends-on-a-new-battery-an-6658b7fe15",
-      "title": "GM’s electric future depends on a new battery — and this facility",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T17:44:18.000Z",
-      "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-sonos-era-100-speaker-is-down-to-its-lowest--bf0d00c535",
-      "title": "The Sonos Era 100 speaker is down to its lowest price in months",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T17:00:47.000Z",
-      "summary": "Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-shuts-down-the-ai-image-app-pixel-studio-5b55b066e0",
-      "title": "Google shuts down the AI image app Pixel Studio",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2188377/google-shuts-down-the-ai-image-app-pixel-studio",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T16:50:04.000Z",
-      "summary": "Google's AI app Pixel Studio launched less than two years ago, but is now being shut down.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-sahara-meteorite-may-be-fragment-of-a-lost-moon--e21647da7e",
-      "title": "Sahara Meteorite May Be Fragment of a Lost Moon-Sized World, Study Suggests",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/ancient-meteorite-may-be-fragment-of-a-lost-moon-sized-world-11595265",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T14:30:46.000Z",
-      "summary": "A rare angrite meteorite discovered in the Sahara may have come from a moon-sized protoplanet that existed 4.5 billion years ago. Its unusual minerals point to a large world tha...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-weekly-funding-roundup-may-30-june-5-investor-ap-65073920ee",
-      "title": "[Weekly funding roundup May 30- June 5] Investor appetite in the startup ecosystem rebounds after a dull week",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/weekly-funding-roundup-may-30--june-5-bounce-back-in-vc-inflow-into-indian-startups",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T14:22:23.000Z",
-      "summary": "The first week of June came as a relief for the Indian startup ecosystem as venture capital funding bounced back after touching a new low.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-raspberry-pi-raises-profit-forecast-as-ai-demand-f43382eeb7",
-      "title": "Raspberry Pi raises profit forecast as AI demand grows",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T12:27:52.000Z",
-      "summary": "The firm said it expected to deliver adjusted earnings of at least $38m (£28.2m) for the first half of 2026.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +93,33 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-we-pissed-off-a-lot-of-people-giant-data-center--45e262d783",
-      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests",
+      "id": "tech-startup-battlefield-200-applications-officially--0351b25ab4",
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T18:23:00.000Z",
-      "summary": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center.",
+      "publishedAt": "2026-06-05T20:00:00.000Z",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Now’s not the time to wait any longer. Secure your shot at competing on the Disrupt Stage at...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-us-has-a-plan-to-combat-screwworm-it-involve-044f2fb849",
-      "title": "The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak",
+      "id": "tech-bungie-extends-marathon-s-open-play-week-amid-de-1b6c578139",
+      "title": "Bungie extends Marathon's open play week amid Deluxe Edition confusion",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2188530/bungie-extends-marathon-open-play-week-amid-deluxe-edition-confusion",
+      "tag": "Running",
+      "publishedAt": "2026-06-05T19:23:02.000Z",
+      "summary": "There's a lot of confusion among Marathon players at the moment.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-will-pay-spacex-920m-per-month-for-comput-bcbdccb261",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T18:16:22.000Z",
-      "summary": "Releasing sterilized flies can crash a local population of flesh-eating screwworms. But the US currently has limited capacity to produce them.",
+      "publishedAt": "2026-06-05T18:57:20.000Z",
+      "summary": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
