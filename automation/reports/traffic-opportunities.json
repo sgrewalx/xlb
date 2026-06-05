@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T07:56:33.573Z",
-  "sourceSnapshot": "2026-06-04T06:00:00.000Z",
+  "updatedAt": "2026-06-05T07:13:35.581Z",
+  "sourceSnapshot": "2026-06-05T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_ctr_lift",
-      "score": 33,
+      "score": 30,
       "risk": "medium",
       "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,9 +29,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 11,
+        "searchImpressions": 10,
         "searchCtr": 0,
-        "avgPosition": 5.545454545454546,
+        "avgPosition": 5.7,
         "watchClicks": 0,
         "engagementScore": 0
       },

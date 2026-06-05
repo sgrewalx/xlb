@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T07:56:35.020Z",
+  "updatedAt": "2026-06-05T07:13:36.242Z",
   "surfaces": {
     "home": [
       {
@@ -26,318 +26,696 @@
     ],
     "video": [
       {
-        "id": "video-dozens-injured-in-iranian-strikes-that-also-hit--19049ace10",
+        "id": "video-lufthansa-plane-collapses-at-german-airport-gate-3a42bfffb9",
         "rank": 1,
         "retentionScore": 73,
-        "freshnessScore": 95,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-giant-fireball-erupts-after-fireworks-factory-ex-99e383bd37",
+        "id": "video-new-york-knicks-fans-celebrate-game-1-victory-in-36aa459af4",
         "rank": 2,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-americans-react-to-reflecting-pool-s-completed-p-5d26d2f995",
+        "rank": 3,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-child-survives-after-being-ejected-from-pickup-t-c8fd8cbc6b",
+        "rank": 4,
         "retentionScore": 73,
         "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-a-toast-to-250-years-the-new-york-public-library-b5b89b21b9",
-        "rank": 3,
-        "retentionScore": 72,
-        "freshnessScore": 92,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-anderson-cooper-gets-birthday-surprise-6c9ea3a352",
-        "rank": 4,
-        "retentionScore": 69,
-        "freshnessScore": 94,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-laura-ingraham-this-is-an-international-disgrace-af3c93de60",
+        "id": "video-water-flows-into-reflecting-pool-d3d795dc17",
         "rank": 5,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-laura-ingraham-the-longer-this-count-goes-on-the-4a6b3f4051",
+        "rank": 6,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-zelensky-sends-sharp-message-to-russian-presiden-d5e4a2dd76",
+        "rank": 7,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-fifa-fever-grips-city-in-brazilian-rainforest-co-f116c95f2c",
+        "rank": 8,
+        "retentionScore": 72,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lufthansa-employees-injured-after-boeing-787-s-n-d0e2a42fa4",
+        "rank": 9,
+        "retentionScore": 72,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-truck-driver-s-dashcam-captures-him-rescuing-wom-82be4775af",
+        "rank": 10,
+        "retentionScore": 70,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-spurs-fans-brave-nyc-during-nba-finals-555de0aa91",
+        "rank": 11,
+        "retentionScore": 70,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watters-graham-platner-faces-another-doozy-foxne-c72b45ec41",
+        "rank": 12,
+        "retentionScore": 70,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-says-india-took-advantage-of-us-confident--824d28ddec",
+        "rank": 13,
+        "retentionScore": 70,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nasa-gives-more-details-about-meteor-that-caused-a8a0c3ff34",
+        "rank": 14,
         "retentionScore": 69,
         "freshnessScore": 94,
+        "relatedPath": "/topics/nasa"
+      },
+      {
+        "id": "video-cyclist-has-close-encounter-with-bear-crossing-p-98f13d3bed",
+        "rank": 15,
+        "retentionScore": 69,
+        "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-russell-wilson-is-officially-retiring-from-the-n-8616868f41",
-        "rank": 6,
-        "retentionScore": 68,
-        "freshnessScore": 91,
+        "id": "video-breaking-massive-fire-breaks-out-in-apartment-at-2e93162f32",
+        "rank": 16,
+        "retentionScore": 67,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-son-of-alleged-shooter-speaks-at-vigil-for-6-fam-3320b57524",
-        "rank": 7,
-        "retentionScore": 66,
-        "freshnessScore": 94,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-spencer-pratt-dismisses-idea-he-doesn-t-represen-67db767428",
-        "rank": 8,
+        "id": "video-kevin-o-leary-to-shrink-size-of-utah-data-center-307cf54207",
+        "rank": 17,
         "retentionScore": 66,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-new-study-revealed-that-ultra-processed-foods-ma-40f0a4fa8c",
-        "rank": 9,
-        "retentionScore": 65,
-        "freshnessScore": 91,
+        "id": "video-deadly-protests-in-kenya-over-u-s-ebola-facility-44ba5423c9",
+        "rank": 18,
+        "retentionScore": 66,
+        "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-mike-johnson-says-he-knows-why-tom-kean-is-missi-dbf6747b11",
-        "rank": 10,
+        "id": "video-teen-says-her-speech-was-cut-short-due-to-unscri-b7a85a1b13",
+        "rank": 19,
+        "retentionScore": 66,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-just-in-aoc-dodges-questions-on-new-platner-alle-5287e6d1a0",
+        "rank": 20,
+        "retentionScore": 66,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-scientists-used-yeast-from-a-5-000-year-old-euro-c43671490a",
+        "rank": 21,
+        "retentionScore": 65,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-live-nvidia-ceo-jensen-huang-arrives-in-south-ko-eee8f34320",
+        "rank": 22,
+        "retentionScore": 64,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-says-bill-pulte-s-appointment-as-dni-won-t-58f6bc8853",
+        "rank": 23,
+        "retentionScore": 63,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-the-craziest-knicks-bar-is-3-000-miles-from-msg-6bddcc0ed3",
+        "rank": 24,
         "retentionScore": 63,
         "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-watters-platner-s-bracing-for-another-scandal-442e7ed926",
-        "rank": 11,
+        "id": "video-karen-read-sues-massachusetts-police-agencies-a4a362153e",
+        "rank": 25,
+        "retentionScore": 62,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-american-college-student-missing-in-japan-after--fab9a0984a",
+        "rank": 26,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-u-s-coast-guard-seizes-dinghy-lynette-hooker-was-7cd2ff0879",
+        "rank": 27,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-flesh-eating-new-world-screwworm-found-in-texas--40decd28a9",
+        "rank": 28,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-overcrowded-boat-from-haiti-with-240-migrants-ab-d938969c08",
+        "rank": 29,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lufthansa-employees-injured-after-plane-s-nose-g-79abfafd3b",
+        "rank": 30,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-1-dead-3-hurt-in-high-school-graduation-shooting-40e7aeb609",
+        "rank": 31,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-teen-riding-e-scooter-runs-stop-sign-gets-hit-by-0e71092e78",
+        "rank": 32,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-zanzibar-officials-release-report-on-death-of-as-ad239197bf",
+        "rank": 33,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-video-shows-cops-handcuffing-uk-teen-and-ignorin-938f54529f",
+        "rank": 34,
+        "retentionScore": 62,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-air-traffic-controller-calls-pilot-insane-after--eead7d3a2f",
+        "rank": 35,
+        "retentionScore": 62,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-video-shows-deadly-iranian-drone-attack-on-major-a7c8016f40",
+        "rank": 36,
+        "retentionScore": 62,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-wheelchair-spotted-cruising-down-the-street-in-b-108c12b6a3",
+        "rank": 37,
+        "retentionScore": 62,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watch-terrifying-moment-a-child-is-flung-from-a--e0a262b2d3",
+        "rank": 38,
         "retentionScore": 62,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-forbes-released-its-list-of-america-s-richest-se-6d8e496980",
-        "rank": 12,
+        "id": "video-cuba-after-iran-trump-teases-with-another-war-in-3c5b3f84ba",
+        "rank": 39,
         "retentionScore": 61,
-        "freshnessScore": 90,
+        "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-atmosphere-in-nyc-is-buzzing-ahead-of-nba-finals-2ad47207b7",
-        "rank": 13,
+        "id": "video-catherine-princess-of-wales-visits-manchester-ca-27296cdc92",
+        "rank": 40,
         "retentionScore": 61,
-        "freshnessScore": 92,
+        "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-gop-lawmakers-blast-homophobic-x-post-on-colleag-f120ececf3",
-        "rank": 14,
+        "id": "video-putin-answers-series-of-questions-from-internati-d1e2a69736",
+        "rank": 41,
         "retentionScore": 61,
-        "freshnessScore": 92,
+        "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-a-jetblue-flight-encountered-a-nearby-plane-not--e515cd3777",
-        "rank": 15,
-        "retentionScore": 60,
-        "freshnessScore": 89,
-        "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
+        "id": "video-lgbtq-people-in-fear-as-ghana-pushes-to-criminal-d13e5eeebf",
+        "rank": 42,
+        "retentionScore": 61,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
       },
       {
-        "id": "video-treasury-sec-bessent-says-he-told-pulte-i-was-go-5bf5c85a0b",
-        "rank": 16,
+        "id": "video-house-committee-releases-transcript-of-interview-453b19b42b",
+        "rank": 43,
         "retentionScore": 60,
         "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-trump-rails-against-cnn-when-asked-about-1-8-bil-1e483f393f",
-        "rank": 17,
+        "id": "video-could-hunter-biden-win-the-white-house-trump-s-a-bfb421ca12",
+        "rank": 44,
         "retentionScore": 60,
         "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-surveillance-video-shows-car-crashing-into-flori-56bc127c1e",
-        "rank": 18,
-        "retentionScore": 60,
-        "freshnessScore": 90,
+        "id": "video-putin-openly-supports-pm-modi-slams-trump-for-pr-6e2d9a429e",
+        "rank": 45,
+        "retentionScore": 57,
+        "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-american-left-wing-commentators-blocked-from-ent-c2a63ee0f6",
-        "rank": 19,
-        "retentionScore": 60,
-        "freshnessScore": 90,
+        "id": "video-david-koepp-falls-at-the-london-premiere-of-disc-8d1ceb64cc",
+        "rank": 46,
+        "retentionScore": 57,
+        "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-scott-pelley-fires-back-at-cbs-over-60-minutes-e-b30f36c6ae",
-        "rank": 20,
-        "retentionScore": 60,
-        "freshnessScore": 90,
+        "id": "video-classified-us-plan-to-pull-key-military-assets-f-2a051ea180",
+        "rank": 47,
+        "retentionScore": 57,
+        "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-mamdani-backed-candidate-deleted-tweets-attackin-ca8c68ada4",
-        "rank": 21,
-        "retentionScore": 60,
-        "freshnessScore": 89,
+        "id": "video-obama-presidential-center-slated-to-open-in-chic-906f544798",
+        "rank": 48,
+        "retentionScore": 55,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-pence-calls-for-experienced-men-and-women-leadin-444ffd0a50",
-        "rank": 22,
-        "retentionScore": 60,
-        "freshnessScore": 89,
+        "id": "video-first-putin-now-trump-global-leaders-hail-india--f0c2b2fdca",
+        "rank": 49,
+        "retentionScore": 54,
+        "freshnessScore": 95,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-live-abc-news-live-thursday-june-4-abc-news-2aaff42ef8",
+        "rank": 50,
+        "retentionScore": 54,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-president-trump-anti-weaponization-fund-was-a-be-0125531319",
-        "rank": 23,
-        "retentionScore": 60,
-        "freshnessScore": 90,
+        "id": "video-warning-shot-trump-says-he-d-quickly-restart-the-6d54f9b6e5",
+        "rank": 51,
+        "retentionScore": 54,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-cbs-fires-60-minutes-correspondent-scott-pelley--2b1f0da4d1",
-        "rank": 24,
-        "retentionScore": 60,
-        "freshnessScore": 89,
+        "id": "video-microsoft-deploys-ai-to-build-revolutionary-new--2e051a7e0a",
+        "rank": 52,
+        "retentionScore": 54,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-rubio-is-this-a-circus-foxnews-news-us-fox-0d38748c1f",
-        "rank": 25,
-        "retentionScore": 59,
-        "freshnessScore": 88,
+        "id": "video-2026-fifa-world-cup-vancouver-s-science-world-tr-546b375814",
+        "rank": 53,
+        "retentionScore": 54,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-live-abc-news-live-wednesday-june-3-abc-news-9a18db55e3",
-        "rank": 26,
+        "id": "video-dawood-drug-syndicate-probe-investigators-aim-to-2312439cf1",
+        "rank": 54,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-owaisi-s-sharpest-attack-on-mamata-banerjee-aimi-3bcb613416",
+        "rank": 55,
         "retentionScore": 53,
         "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-missile-mayhem-iran-unleashes-fresh-attacks-acro-3c5f0d0a7e",
-        "rank": 27,
+        "id": "video-trump-live-trump-issues-major-warning-to-iran-wi-45f88eb12b",
+        "rank": 56,
         "retentionScore": 53,
         "freshnessScore": 95,
-        "relatedPath": "/news"
+        "relatedPath": "/live/space"
       },
       {
-        "id": "video-gutfeld-what-the-hell-happened-d947be5411",
-        "rank": 28,
+        "id": "video-us-iran-war-live-trump-issues-new-attack-warning-12ff164bfb",
+        "rank": 57,
         "retentionScore": 53,
         "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-abc-news-live-prime-june-3-2026-5f3fcb8a4e",
-        "rank": 29,
+        "id": "video-trump-announcement-live-iran-us-conflict-over-tr-c955f89926",
+        "rank": 58,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-no-longer-calling-shots-in-ukraine-russia--eb317b2038",
+        "rank": 59,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-live-trump-declares-emergency-from-whitehouse-dr-86cc0e1406",
+        "rank": 60,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nbc-nightly-news-full-episode-june-4-0915c20d99",
+        "rank": 61,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-house-passes-bill-to-aid-ukraine-and-impose-new--dedffc8eba",
+        "rank": 62,
+        "retentionScore": 53,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-abc-news-live-prime-jun-4-2026-f0f3fbfa9f",
+        "rank": 63,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-martha-raddatz-details-9-11-military-veterans-un-5715ccf6b0",
+        "rank": 64,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-new-report-reveals-the-impact-of-health-insuranc-e763b7c63f",
+        "rank": 65,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nick-jonas-and-paul-rudd-s-crazy-journey-making--0af38203e6",
+        "rank": 66,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-iran-war-s-fallout-is-hitting-americans-wallets--c44872c4a5",
+        "rank": 67,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-espn-reporter-breaks-down-knicks-spurs-chances-i-b5da57394a",
+        "rank": 68,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-a-mother-tells-anderson-cooper-what-matters-most-87403b5e35",
+        "rank": 69,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-gutfeld-this-can-be-fatal-c294ff8a71",
+        "rank": 70,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watch-aoc-dodges-questions-on-allegations-in-new-d34585c42d",
+        "rank": 71,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-bolivia-anti-govt-protests-fuel-food-shortages-d-d6e91eb2db",
+        "rank": 72,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-taiwan-s-missile-shield-expands-arsenal-to-cross-5f2e5e9f5c",
+        "rank": 73,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-ukrainian-president-zelensky-write-open-letter-t-da689903f0",
+        "rank": 74,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-boeing-787-jetliner-collapses-at-frankfurt-airpo-cd8bfa5dff",
+        "rank": 75,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-iran-war-live-trump-claims-iran-deal-possible-th-6ff9ca784e",
+        "rank": 76,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/events/roscosmos-progress-96"
+      },
+      {
+        "id": "video-iran-war-live-trump-says-us-doesn-t-need-a-nucle-5e669acf97",
+        "rank": 77,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-modi-doesn-t-bow-putin-praises-friend-pm-showcas-a2805d575c",
+        "rank": 78,
         "retentionScore": 52,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-new-video-shows-biotech-executive-justin-zelin-w-adc46bd32b",
-        "rank": 30,
+        "id": "video-trump-keen-on-khamenei-meet-ayatollah-s-critic-s-b8dcac72c1",
+        "rank": 79,
         "retentionScore": 52,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-car-n-le-n-talks-inspiration-behind-newest-album-e3a3a1952e",
-        "rank": 31,
+        "id": "video-trump-live-trump-s-last-minute-move-shocks-the-e-72647cd6fd",
+        "rank": 80,
         "retentionScore": 52,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-iran-launches-deadly-new-strikes-among-largest-s-a0569058a8",
-        "rank": 32,
-        "retentionScore": 52,
-        "freshnessScore": 92,
-        "relatedPath": "/events/clps-flight-astrobotic-griffin-1"
-      },
-      {
-        "id": "video-air-traffic-control-calls-pilot-insane-after-ala-80fc91ed2c",
-        "rank": 33,
+        "id": "video-what-to-know-as-house-approves-war-powers-resolu-970e84c959",
+        "rank": 81,
         "retentionScore": 52,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-fear-and-uncertainty-as-families-await-scotus-ru-baaa5c4486",
-        "rank": 34,
-        "retentionScore": 52,
-        "freshnessScore": 92,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-actress-samara-weaving-talks-love-and-thievery-i-40224aaf2a",
-        "rank": 35,
-        "retentionScore": 52,
-        "freshnessScore": 92,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-hostage-siege-in-california-ends-after-15-hours--5a9b6694f7",
-        "rank": 36,
-        "retentionScore": 52,
-        "freshnessScore": 92,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-5-tense-moments-from-rubio-s-testimony-over-war--195f7b1085",
-        "rank": 37,
+        "id": "video-hallie-jackson-now-june-4-nbc-news-now-ec9b1e2dc6",
+        "rank": 82,
         "retentionScore": 52,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-kayleigh-mcenany-his-claims-are-blatant-mistruth-49428e647e",
-        "rank": 38,
+        "id": "video-kornacki-goes-over-latest-numbers-for-two-key-ra-246f0a4421",
+        "rank": 83,
         "retentionScore": 52,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-watters-slam-the-door-on-the-fake-news-930e505fcb",
-        "rank": 39,
+        "id": "video-stay-tuned-now-streaming-behind-the-scenes-jun-0-4e14ec4980",
+        "rank": 84,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-karen-read-s-bombshell-lawsuit-8eb30ea69d",
+        "rank": 85,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-erica-campbell-on-new-movie-thou-shall-not-commi-e41cde0c7d",
+        "rank": 86,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-abc-world-news-tonight-with-david-muir-full-broa-b1ccd69785",
+        "rank": 87,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-united-jet-was-15-feet-from-hitting-truck-on-nj--171182cbf4",
+        "rank": 88,
         "retentionScore": 52,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-abc-world-news-tonight-with-david-muir-full-broa-cb0c5a5108",
-        "rank": 40,
+        "id": "video-cnn-asks-spencer-pratt-about-ai-fan-videos-homel-2073374ab2",
+        "rank": 89,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watters-he-is-toast-92171ba1aa",
+        "rank": 90,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mass-scheme-california-s-election-regime-slammed-44e7bc79ed",
+        "rank": 91,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-iran-strikes-kuwait-live-explosive-moment-of-dro-8de487d4da",
+        "rank": 92,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-us-iran-war-live-iran-targets-us-bases-in-kuwait-e966a77989",
+        "rank": 93,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-speech-live-trump-new-message-to-iran-russ-42688833da",
+        "rank": 94,
         "retentionScore": 51,
         "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-the-dem-divide-ca-primary-elections-platner-more-46c9d80504",
-        "rank": 41,
-        "retentionScore": 51,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-just-in-chaotic-scene-erupts-on-house-floor-0a801893f3",
-        "rank": 42,
+        "id": "video-miracle-on-mount-everest-04c9bffc25",
+        "rank": 95,
         "retentionScore": 51,
         "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-jesse-watters-i-think-they-have-been-lying-to-us-f9d076f8e6",
-        "rank": 43,
+        "id": "video-dramatic-texas-high-school-murder-trial-involvin-3069e2a241",
+        "rank": 96,
         "retentionScore": 51,
-        "freshnessScore": 90,
+        "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-breaking-hostage-standoff-ends-after-fbi-kills-a-09489ae6b2",
-        "rank": 44,
+        "id": "video-a-sneak-peek-at-the-new-obama-presidential-cente-6486de3c5b",
+        "rank": 97,
         "retentionScore": 51,
-        "freshnessScore": 89,
+        "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-breaking-trump-suffers-rare-defeat-as-house-vote-3ec5debd3d",
-        "rank": 45,
-        "retentionScore": 50,
-        "freshnessScore": 88,
+        "id": "video-as-trump-prepares-blanche-ag-nomination-some-rep-50910b6312",
+        "rank": 98,
+        "retentionScore": 51,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-the-five-jill-biden-snaps-at-former-aide-946d32fdf6",
+        "rank": 99,
+        "retentionScore": 51,
+        "freshnessScore": 91,
         "relatedPath": "/news"
       }
     ],

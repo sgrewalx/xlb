@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T07:56:35.020Z",
+  "updatedAt": "2026-06-05T07:13:36.242Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-06-04T07:56:35.020Z"
+      "updatedAt": "2026-06-05T07:13:36.242Z"
     },
     {
       "slug": "launches",
@@ -21,7 +21,7 @@
       "promotedEventCount": 3,
       "bestScore": 80,
       "recommendation": "hold",
-      "updatedAt": "2026-06-04T07:56:35.020Z"
+      "updatedAt": "2026-06-05T07:13:36.242Z"
     },
     {
       "slug": "space-weather",
@@ -32,7 +32,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-06-04T07:56:35.020Z"
+      "updatedAt": "2026-06-05T07:13:36.242Z"
     },
     {
       "slug": "nasa",
@@ -43,7 +43,7 @@
       "promotedEventCount": 1,
       "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-06-04T07:56:35.020Z"
+      "updatedAt": "2026-06-05T07:13:36.242Z"
     }
   ]
 }
