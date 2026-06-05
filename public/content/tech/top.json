@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-06-05T13:48:01.868Z",
+  "updatedAt": "2026-06-05T16:25:12.350Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-engadget-podcast-what-does-nvidia-s-rtx-spark-me-8d11702d49",
-      "title": "Engadget Podcast: What does NVIDIA's RTX Spark mean for PCs?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2188173/engadget-podcast-nvidia-rtx-spark",
+      "id": "tech-what-happens-when-your-phone-is-confiscated-at-t-38930d0bf5",
+      "title": "What happens when your phone is confiscated at the airport",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T13:38:08.000Z",
-      "summary": "This week on the Engaadget Podcast, we dive into NVIDIA's RTX Spark chip and the many ways it could reshape the world of Windows PCs (or not).",
+      "publishedAt": "2026-06-05T16:15:00.000Z",
+      "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-summer-game-fest-2026-how-to-watch-what-to-expec-306470b817",
-      "title": "Summer Game Fest 2026: How to Watch, What to Expect",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/games/features/summer-game-fest-2026-how-to-watch-what-to-expect-11596612",
+      "id": "tech-logitech-g512-x-98-review-a-hybrid-mish-mash-7d49b619a7",
+      "title": "Logitech G512 X 98 Review: A Hybrid Mish-Mash",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/logitech-g512-x-98",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T13:37:24.000Z",
-      "summary": "Summer Game Fest 2026 will be broadcast live on Friday and the show promises to bring a ton of major reveals and announcements. Some games, like Blood Message and Star Wars Zero...",
+      "publishedAt": "2026-06-05T16:10:56.000Z",
+      "summary": "The Logitech G512 X 98 lets you swap between mechanical and analog switches in an attempt to achieve the best of both worlds. Unfortunately, its solution isn't as well thought-o...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-airtrunk-commits-30b-to-build-5gw-of-ai-data-cen-df8c860048",
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "id": "tech-google-and-fbi-warn-of-ransomware-group-that-sen-7051dfdbff",
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india",
+      "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T13:03:10.000Z",
-      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "publishedAt": "2026-06-05T16:07:46.000Z",
+      "summary": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data u...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bharat-innovates-2026-from-an-iisc-lab-to-orbit--66c7ec3c6c",
-      "title": "Bharat Innovates 2026: From an IISc lab to orbit, meet the startup powering India's satellite economy",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/bharat-innovates-2026-startup-powering-indias-satellite-economy",
+      "id": "tech-iss-astronauts-had-to-shelter-in-place-in-the-sp-1a54e26bea",
+      "title": "ISS astronauts had to shelter in place in the SpaceX Dragon capsule because of an air leak",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2188304/iss-astronauts-had-to-shelter-in-place-due-to-air-leak",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T12:46:04.000Z",
-      "summary": "From water-powered thrusters and green propulsion systems to orbital transfer vehicles, Bengaluru-based Bellatrix Aerospace is making satellite operations cleaner, more efficien...",
+      "publishedAt": "2026-06-05T15:41:34.000Z",
+      "summary": "We're waiting to learn more about what happened aboard the International Space Station.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-not-the-next-r8-audi-reveals-mid-engined-plug-in-256027446c",
+      "title": "Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T14:44:04.000Z",
+      "summary": "The Huracan gave us the R8s, now the Temerario lends itself to a new Audi.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-sahara-meteorite-may-be-fragment-of-a-lost-moon--e21647da7e",
+      "title": "Sahara Meteorite May Be Fragment of a Lost Moon-Sized World, Study Suggests",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/ancient-meteorite-may-be-fragment-of-a-lost-moon-sized-world-11595265",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T14:30:46.000Z",
+      "summary": "A rare angrite meteorite discovered in the Sahara may have come from a moon-sized protoplanet that existed 4.5 billion years ago. Its unusual minerals point to a large world tha...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-weekly-funding-roundup-may-30-june-5-investor-ap-65073920ee",
+      "title": "[Weekly funding roundup May 30- June 5] Investor appetite in the startup ecosystem rebounds after a dull week",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/06/weekly-funding-roundup-may-30--june-5-bounce-back-in-vc-inflow-into-indian-startups",
+      "tag": "Technology",
+      "publishedAt": "2026-06-05T14:22:23.000Z",
+      "summary": "The first week of June came as a relief for the Indian startup ecosystem as venture capital funding bounced back after touching a new low.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -63,36 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-i-customized-a-macbook-neo-with-colorful-spare-p-a50bcfbf5b",
-      "title": "I customized a MacBook Neo with colorful spare parts",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T12:00:00.000Z",
-      "summary": "The MacBook Neo is Apple's cheapest laptop, its most colorful, and its easiest to repair in years. That means owners can buy replacement parts in all four of its available color...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-steve-jobs-in-exile-is-a-fine-profile-of-jobs-ye-ceda2d68f0",
-      "title": "Steve Jobs in Exile is a fine profile of Jobs' years at NeXT",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T11:15:29.000Z",
-      "summary": "“Why don’t we just frickin’ call Apple?”",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-everyplate-meal-kit-review-2026-low-cost-simplic-8020891cb6",
-      "title": "EveryPlate Meal Kit Review (2026): Low Cost, Simplicity, Flavor",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/everyplate-meal-kit-review-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-06-05T11:04:00.000Z",
-      "summary": "EveryPlate is an actual budget meal kit whose plates taste delicious. Options and ingredients are fewer, but simplicity can also be a virtue.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-introduces-smarter-chatgpt-memory-adds-dr-1fd91c96ba",
-      "title": "OpenAI Introduces Smarter ChatGPT Memory, Adds Dreaming Architecture",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/ai/news/chatgpt-memory-upgrade-roll-out-dreaming-architecture-openai-11596420",
+      "id": "tech-13-environmentally-conscious-packing-tips-for-yo-fffb625e95",
+      "title": "13 Environmentally Conscious Packing Tips for Your Next Vacation",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/environmentally-conscious-packing-tips",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T13:37:13.000Z",
-      "summary": "OpenAI has detailed a new version of Dreaming, the technology that powers ChatGPT's memory features. The company said the system is better at retaining useful information, adapt...",
+      "publishedAt": "2026-06-05T16:00:00.000Z",
+      "summary": "Your trip starts impacting the planet before you even leave home. Here are a few pointers for keeping your footprint small.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tecno-pova-8-india-launch-date-announced-battery-cc20dc4b4e",
-      "title": "Tecno Pova 8 India Launch Date Announced; Battery Size, Design, Colour Options Teased",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/tecno-pova-8-india-launch-date-design-colour-option-teaser-features-expected-11596319",
+      "id": "tech-how-to-spot-greenwashing-claims-when-you-travel-4ba65c6f58",
+      "title": "How to Spot Greenwashing Claims When You Travel",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-to-spot-greenwashing-when-you-travel",
       "tag": "Technology",
-      "publishedAt": "2026-06-05T13:36:12.000Z",
-      "summary": "Tecno has confirmed that the Pova 8 will launch in India on June 11. The company has teased the smartphone's design, including an 8,000mAh battery and a new matrix-style lightin...",
+      "publishedAt": "2026-06-05T16:00:00.000Z",
+      "summary": "Hotels and other service providers pitch themselves as eco-friendly when they’re not. Here’s how to call their bluff.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
