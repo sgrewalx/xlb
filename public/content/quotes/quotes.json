@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-06-05T04:17:34.332Z",
+  "updatedAt": "2026-06-06T04:00:03.585Z",
   "items": [
-    {
-      "id": "arthur-schopenhauer-1",
-      "quote": "Talent hits a target no one else can hit; genius hits a target no one else can see.",
-      "author": "Arthur Schopenhauer",
-      "context": "Genius"
-    },
     {
       "id": "arthur-schopenhauer-2",
       "quote": "For the more a man has in himself, the less he will want from other people, the less, indeed, other people can be to him. This is why a high degree of intellect tends to make a man unsocial. True.",
@@ -30,6 +24,12 @@
       "quote": "From the ashes of disaster grow the roses of success.",
       "author": "Caractacus Potts",
       "context": "Success"
+    },
+    {
+      "id": "maya-angelou",
+      "quote": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "context": "Creation"
     }
   ]
 }
