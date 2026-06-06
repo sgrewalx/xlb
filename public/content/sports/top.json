@@ -1,16 +1,36 @@
 {
-  "updatedAt": "2026-06-05T23:57:25.023Z",
+  "updatedAt": "2026-06-06T02:36:10.632Z",
   "section": "Expanded Sports",
   "items": [
     {
-      "id": "sports-nba-finals-2026-game-2-new-york-knicks-v-san-ant-a3a1b1487b",
+      "id": "sports-nba-finals-2026-game-2-new-york-knicks-v-san-ant-ce226c9631",
       "title": "NBA finals 2026 Game 2: New York Knicks v San Antonio Spurs – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/sport/live/2026/jun/05/nba-finals-2026-game-2-new-york-knicks-san-antonio-spurs-live-score",
       "tag": "Basketball",
-      "publishedAt": "2026-06-05T23:42:07.000Z",
+      "publishedAt": "2026-06-06T02:34:21.000Z",
       "summary": "NBA finals predictions: our writers give their verdicts From Game 1: in a mud wrestle, Brunson was difference Tip-off is at 8.30pm ET from Frost Bank Center Email beau.dure@theg...",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-i-fought-as-long-as-i-could-why-aaron-judge-kept-85f8c58db9",
+      "title": "'I Fought As Long As I Could': Why Aaron Judge Kept Going Despite Injury",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/yankees-aaron-judge-injury-stress-fracture-rib",
+      "tag": "Sports",
+      "publishedAt": "2026-06-06T02:24:10.000Z",
+      "summary": "Most players would have shut it down. Aaron Judge kept showing up. Did playing through an injury make it worse?",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-india-v-afghanistan-one-off-test-scorecard-start-193f6d52e2",
+      "title": "India v Afghanistan - one-off Test scorecard (starts 05:00 BST)",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237068?at_medium=RSS&at_campaign=rss",
+      "tag": "Cricket",
+      "publishedAt": "2026-06-06T00:00:00.000Z",
+      "summary": "Latest scorecard from the one-off Test between India Nand Afghanistan in New Chandigarh.",
+      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
     },
     {
       "id": "sports-spain-expose-england-s-flaws-in-heavy-defeat-tha-6b80ba5404",
@@ -21,26 +41,6 @@
       "publishedAt": "2026-06-05T23:32:03.000Z",
       "summary": "England just needed to avoid defeat against Spain - instead they suffered their heaviest loss in 17 years, but it is not time to panic yet.",
       "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-gill-will-not-come-back-ex-india-batter-makes-bi-1b3a85f700",
-      "title": "'Gill will not come back': Ex-India batter makes big T20I captaincy claim",
-      "source": "Times of India Sports",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-will-not-come-back-ex-india-batter-makes-big-t20i-captaincy-claim/articleshow/131533280.cms",
-      "tag": "Sports",
-      "publishedAt": "2026-06-05T23:30:00.000Z",
-      "summary": "Former India batter Mohammad Kaif strongly backs Shreyas Iyer for the T20I captaincy, citing his IPL success with Gautam Gambhir and leading franchises to finals. Kaif believes...",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-t20-blast-round-up-bairstow-inspires-yorkshire-t-fb66619127",
-      "title": "T20 Blast round-up: Bairstow inspires Yorkshire to record Roses win",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/cricket/articles/cgmpmpd37lzo?at_medium=RSS&at_campaign=rss",
-      "tag": "Cricket",
-      "publishedAt": "2026-06-05T21:32:37.000Z",
-      "summary": "A round up of Friday's T20 Blast action which included Jonny Bairstow and Moeen Ali inspiring Yorkshire to a 106-run win over Lancashire Lightning.",
-      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
     },
     {
       "id": "sports-5-live-sport-all-about-french-open-9fb59d79c7",
@@ -63,64 +63,64 @@
       "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
     },
     {
-      "id": "sports-steve-clarke-warns-scotland-not-to-underestimate-48a244270c",
-      "title": "Steve Clarke warns Scotland not to underestimate Haiti after New Zealand rout",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jun/05/steve-clarke-scotland-haiti-world-cup-new-zealand",
-      "tag": "Football",
-      "publishedAt": "2026-06-05T23:26:50.000Z",
-      "summary": "Scotland face Haiti in Boston next Saturday Haiti beat New Zealand 4-0 in Florida friendly Napoli’s Billy Gilmour ruled out of World Cup Steve Clarke believes Haiti’s routing of...",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-fifa-clarifies-water-bottle-stadium-rule-e6abf5dae5",
-      "title": "Fifa clarifies water bottle stadium rule",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/football/articles/c79490e8g37o?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-06-05T23:10:54.000Z",
-      "summary": "Fifa says fans will be able to bring sealed disposable water bottles into World Cup stadiums following criticism over a decision to ban reusable bottles.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-how-england-can-still-qualify-for-the-women-s-wo-38688dd41f",
-      "title": "How England can still qualify for the Women's World Cup",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/football/articles/c1k2k18r4ymo?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-06-05T23:07:27.000Z",
-      "summary": "England, Wales, Scotland and Northern Ireland are all vying for places at the Women's World Cup - but how can they get there with one round of group games left in European quali...",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-knicks-vs-spurs-odds-prediction-2026-nba-finals--786df0151d",
-      "title": "Knicks vs. Spurs odds, prediction: 2026 NBA Finals picks, Game 2 best bets from proven model",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/knicks-spurs-odds-spread-line-time-prediction-2026-nba-finals-picks-game-2-best-bets",
+      "id": "sports-donald-trump-s-blunt-reaction-to-reported-8-000--6c87f0c1f3",
+      "title": "Donald Trump's blunt reaction to reported $8,000 NBA finals ticket prices might irk a lot of fans",
+      "source": "Hindustan Times Sports",
+      "url": "https://www.hindustantimes.com/sports/us-sports/donald-trumps-reaction-to-nba-finals-ticket-prices-might-irk-a-lot-of-fans-san-antonio-spurs-vs-new-york-knicks-101780698669557.html",
       "tag": "Sports",
-      "publishedAt": "2026-06-05T23:07:06.000Z",
-      "summary": "SportsLine's model reveals its New York Knicks vs. San Antonio Spurs Game 2 of the NBA Finals picks for Friday",
+      "publishedAt": "2026-06-06T02:07:22.000Z",
+      "summary": "Donald Trump is reportedly expected to attend Game 3 of the NBA Finals between the Spurs and Knicks in New York, adding high-profile buzz to the series.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-germany-forward-karl-ruled-out-of-world-cup-3d9fe021da",
-      "title": "Germany forward Karl ruled out of World Cup",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/football/articles/cz020zdklmmo?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-06-05T23:04:51.000Z",
-      "summary": "Germany forward Lennart Karl is ruled out of the 2026 World Cup with a thigh injury.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-new-2026-27-football-kits-chelsea-arsenal-man-ut-bc2737b5e2",
+      "title": "New 2026-27 Football Kits: Chelsea, Arsenal, Man Utd Among New Jerseys Revealed",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/new-2026-27-football-kits-chelsea-man-utd-arsenal-real-madrid-all-the-top-teams-jerseys-revealed",
+      "tag": "Sports",
+      "publishedAt": "2026-06-06T02:02:28.000Z",
+      "summary": "Some of the biggest football names in Europe have recently dropped their new 2026-27 kits.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-spain-world-cup-2026-team-guide-e1bcc8077c",
-      "title": "Spain World Cup 2026 team guide",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/jun/06/spain-world-cup-2026-team-guide",
-      "tag": "Football",
-      "publishedAt": "2026-06-05T23:01:12.000Z",
-      "summary": "Ranked only behind France and having a teenage prodigy in Lamine Yamal alongside an in-form Nico Williams, we can expect much from La Roja This article is part of the Guardian’s...",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-ind-vs-afg-live-experiment-mode-on-as-gambhir-se-7d99fc3df2",
+      "title": "IND vs AFG Live: Experiment mode on as Gambhir seeks answers in transition phase",
+      "source": "Times of India Sports",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ind-vs-afg-live-score-2026-where-to-watch-india-vs-afghanistan-test-match-playing-11-squad-cricket-scorecard-live-streaming-news/liveblog/131543123.cms",
+      "tag": "Sports",
+      "publishedAt": "2026-06-06T01:51:59.000Z",
+      "summary": "XLB brief: a fresh sports item from Times of India Sports, kept short so the page stays scan-first and source-linked.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-praggnanandhaa-felt-the-tension-once-he-realised-55da7c3eec",
+      "title": "Praggnanandhaa felt the ‘tension’ once he realised Norway Chess title was his, started pacing moments before victory",
+      "source": "Hindustan Times Sports",
+      "url": "https://www.hindustantimes.com/sports/others/praggnanandhaa-felt-the-tension-once-he-realised-norway-chess-title-was-his-started-pacing-moments-before-victory-101780708385001.html",
+      "tag": "Sports",
+      "publishedAt": "2026-06-06T01:36:09.000Z",
+      "summary": "What a roller coaster ride it was for India's R Praggnanandhaa at the Norway Chess 2026 tournament",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-gambhir-lays-out-plan-to-resurrect-india-s-test--b2aa48d9b8",
+      "title": "Gambhir lays out plan to resurrect India's Test fortunes over the next nine months",
+      "source": "Times of India Sports",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/india-vs-afghanistan-gambhir-lays-out-plan-to-resurrect-indias-test-fortunes-over-the-next-nine-crucial-months/articleshow/131543013.cms",
+      "tag": "Sports",
+      "publishedAt": "2026-06-06T01:36:06.000Z",
+      "summary": "Ahead of the Afghanistan Test, coach Gautam Gambhir stressed the importance of this match for the World Test Championship roadmap. He highlighted the need to identify a fourth s...",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-r-praggnanandha-s-call-to-mother-turns-prophetic-b1f3a75070",
+      "title": "R Praggnanandha's call to mother turns prophetic as he becomes first Indian to win Norway Chess: ‘She knew something’",
+      "source": "Hindustan Times Sports",
+      "url": "https://www.hindustantimes.com/sports/r-praggnanandhas-call-to-mother-turns-prophetic-as-he-becomes-first-indian-to-win-norway-chess-she-knew-something-101780706858296.html",
+      "tag": "Sports",
+      "publishedAt": "2026-06-06T01:02:30.000Z",
+      "summary": "R Praggnanandhaa scripted history on Friday night, becoming the first Indian to clinch the Norway Chess 2026 title",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     }
   ]
 }
