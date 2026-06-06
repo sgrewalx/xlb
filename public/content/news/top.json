@@ -1,35 +1,95 @@
 {
-  "updatedAt": "2026-06-06T09:55:55.895Z",
+  "updatedAt": "2026-06-06T11:21:00.146Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-telangana-police-launches-stree-ride-women-earn--18595b5368",
-      "title": "Telangana Police launches Stree Ride, women earn livelihood driving two- and three-wheelers",
+      "id": "news-tibetan-monk-once-detained-by-china-disappears-a-9fd2b6f024",
+      "title": "Tibetan Monk, Once Detained By China, Disappears Amid Crackdown Accusations",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/tibetan-monk-once-detained-by-china-disappears-amid-crackdown-accusations-11600017",
+      "tag": "India",
+      "publishedAt": "2026-06-06T11:18:27.000Z",
+      "summary": "Jamyang was previously detained on allegations of maintaining contact with Tibetans living in exile.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-we-can-t-become-second-grade-citizens-in-india-d-81196e65ec",
+      "title": "We can’t become second-grade citizens in India due to Centre’s policies: Revanth Reddy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-launches-stree-ride-women-earn-livelihood-through-driving/article71069026.ece",
+      "url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-good-governance-for-telangana/article71069449.ece",
       "tag": "India",
-      "publishedAt": "2026-06-06T09:51:47.000Z",
-      "summary": "The initiative aims at training and employing women as drivers and riders in the transportation and mobility sector, making transport safer and more inclusive",
+      "publishedAt": "2026-06-06T11:14:06.000Z",
+      "summary": "In a conversation at the two-day The Hindu Huddle in Bengaluru, the Chief Minister said southern states would not accept an imbalance in political power distribution.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-metro-man-sreedharan-s-solar-rail-plan-gets-goin-b163c22897",
-      "title": "Metro man Sreedharan’s solar rail plan gets going in Kerala",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/kerala-high-speed-rail-corridor-e-sreedharan-dmrc-thiruvananthapuram-kannur-10727131",
+      "id": "news-india-s-defence-for-space-87add08b13",
+      "title": "India's defence for space",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/ht-insight/governance/indias-defence-for-space-101780744003679.html",
       "tag": "India",
-      "publishedAt": "2026-06-06T09:36:48.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-06-06T11:14:01.000Z",
+      "summary": "This article is authored by Lt Gen PJS Pannu, former deputy chief, IDS, currently senior advisor, SIA-India and head, Department of Space Studies, MERI group.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-badge-of-honour-israeli-settlers-shrug-off-globa-fb8ad02b3d",
-      "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
+      "id": "news-historic-canadian-warehouse-workers-sign-first-e-17d863986c",
+      "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
       "tag": "Europe",
-      "publishedAt": "2026-06-06T09:18:39.000Z",
-      "summary": "Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.",
+      "publishedAt": "2026-06-06T11:00:03.000Z",
+      "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have signed the first-ever collect...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israeli-airstrikes-kill-9-including-lebanese-arm-fc26badb6d",
+      "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
+      "tag": "US",
+      "publishedAt": "2026-06-06T10:54:34.000Z",
+      "summary": "The Israeli military confirmed hitting a vehicle and said the incident is being reviewed. Lebanon's President Joseph Aoun called the strike \"a flagrant violation to Lebanese sov...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-scores-of-ukrainian-drones-target-st-petersburg--bcc6005912",
+      "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-06T10:54:06.000Z",
+      "summary": "The regional governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israeli-forces-fatally-shoot-palestinian-infant--86d16313b6",
+      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-06T10:52:07.000Z",
+      "summary": "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-what-to-know-about-the-ebola-outbreak-0d8224e591",
+      "title": "What to Know About the Ebola Outbreak",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "tag": "US",
+      "publishedAt": "2026-06-06T10:35:41.000Z",
+      "summary": "Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 84, but the true toll may be far higher.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-half-knowledge-is-dangerous-j-p-nadda-hits-back--c8158505f0",
+      "title": "‘Half-knowledge is dangerous’: J P Nadda hits back at Mallikarjun Kharge for ‘hiding health data’ allegations",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/nfhs-6-data-controversy-nadda-kharge-health-survey-row-10727183",
+      "tag": "India",
+      "publishedAt": "2026-06-06T10:14:36.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,83 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-pope-leo-after-taking-on-trump-and-a-i-prepares--3514238084",
-      "title": "Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/06/world/europe/leo-spain-visit.html",
-      "tag": "US",
-      "publishedAt": "2026-06-06T09:01:57.000Z",
-      "summary": "Leo will arrive in Spain on Saturday for a weeklong visit in which he will meet with migrants and may come under fire from Vox, Spain’s far-right party.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-aviation-industry-looks-skywards-as-leaders-fly--14c1b6e21b",
-      "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-      "tag": "Europe",
-      "publishedAt": "2026-06-06T09:00:05.000Z",
-      "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective atte...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pm-modi-chairs-key-economic-advisory-council-mee-7e7017ff5b",
-      "title": "PM Modi Chairs Key Economic Advisory Council Meeting Amid Iran War",
+      "id": "news-ladakh-sees-historic-121-jump-in-tourists-in-may-83b81f3c81",
+      "title": "Ladakh Sees Historic 121% Jump In Tourists In May, 72,834 Arrivals Recorded",
       "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/pm-narendra-modi-chairs-key-economic-advisory-council-meeting-amid-iran-war-11599537",
+      "url": "https://www.ndtv.com/india-news/ladakh-sees-historic-121-jump-in-tourists-in-may-72-834-arrivals-recorded-11599859",
       "tag": "India",
-      "publishedAt": "2026-06-06T08:55:03.000Z",
-      "summary": "The prime minister and the EAC-PM members discussed various ideas and measures to further boost India's economic growth in times of global turmoil",
+      "publishedAt": "2026-06-06T11:12:43.000Z",
+      "summary": "Ladakh saw 1,17,546 tourists between January and May 2026, compared to 81,827 tourists during the corresponding period in 2025",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-tributes-to-buffy-and-ted-lasso-star-anthony-hea-200e0dc894",
-      "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-06T07:33:07.000Z",
-      "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-u-s-military-says-it-shot-down-iranian-drones-la-fc168366eb",
-      "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
-      "tag": "US",
-      "publishedAt": "2026-06-06T04:15:26.000Z",
-      "summary": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-the-future-depends-on-a-circular-water-economy-5443ad1909",
-      "title": "The future depends on a circular water economy",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/climate-change/the-future-depends-on-a-circular-water-economy-101780670159077.html",
+      "id": "news-cbse-retains-coempt-for-re-evaluation-scanning-m-1d7ab4c4cf",
+      "title": "CBSE Retains COEMPT For Re-Evaluation Scanning, Moves OSM Data To Its Own Servers",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/cbse-re-evaluation-2026-coempt-to-continue-scanning-answer-sheets-says-report-11599517",
       "tag": "India",
-      "publishedAt": "2026-06-05T14:39:40.000Z",
-      "summary": "This article is authored by Ramkrishna Mukkavilli, founder & managing director, Maithri Aquatech.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-right-to-travel-abroad-of-accused-must-be-balanc-2e63f1c2d7",
-      "title": "Right to travel abroad of accused must be balanced with victim’s right to speedy trial: Supreme Court",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/right-to-travel-abroad-of-accused-must-be-balanced-with-victims-right-to-speedy-trial-supreme-court/article71069272.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-06T09:49:58.000Z",
-      "summary": "Supreme Court holds that the right to travel abroad under Article 21 cannot be viewed in isolation",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-karuvannur-bank-case-court-accepts-ed-s-suppleme-6993290cbf",
-      "title": "Karuvannur bank case: Court accepts ED’s supplementary chargesheet against CPI(M), party leaders",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/karuvannur-bank-case-court-accepts-eds-supplementary-chargesheet-against-cpim-party-leaders/article71069271.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-06T09:47:59.000Z",
-      "summary": "Special Court for Prevention of Money Laundering Act set to issue summons to those named in chargesheet and direct them to appear on July 4",
+      "publishedAt": "2026-06-06T11:12:27.000Z",
+      "summary": "CBSE Re-Evaluation 2026: To enhance oversight and ensure greater data security, CBSE has shifted all answer-sheet data and related records from COEMPT's servers to its own serve...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
