@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-06-05T07:13:36.466Z",
+  "updatedAt": "2026-06-06T06:34:15.805Z",
   "items": [
-    {
-      "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
-      "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "medium",
-      "status": "queued",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
-      "targetPaths": [
-        "/events/nasa-s-spacex-crs-35"
-      ],
-      "successMetric": "Search CTR improves over the next 28-day Search Console window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Review title, meta description, first-screen copy, and internal anchor text. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
       "title": "Watch index coverage for /events/global-earthquake-watch",
