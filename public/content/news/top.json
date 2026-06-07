@@ -1,25 +1,65 @@
 {
-  "updatedAt": "2026-06-07T21:02:30.009Z",
+  "updatedAt": "2026-06-07T22:56:50.084Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-live-updates-iran-fires-missiles-at-israel-for-f-b89155c844",
+      "id": "news-middle-east-crisis-live-iran-launches-missiles-t-13d0ff8e38",
+      "title": "Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-06-07T22:47:56.000Z",
+      "summary": "Launches appear to mark the first such attack since April ceasefire; Tehran threatened Israel with ‘painful’ response after strikes on southern Beirut Full report: Iran launches...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-live-updates-iran-fires-missiles-at-israel-for-f-74d657e08b",
       "title": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
       "tag": "US",
-      "publishedAt": "2026-06-07T20:57:19.000Z",
+      "publishedAt": "2026-06-07T22:45:06.000Z",
       "summary": "Israel had attacked the outskirts of the Lebanese capital, Beirut, earlier Sunday, prompting Iran to retaliate. There were no immediate reports of casualties from the missile at...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israel-strikes-beirut-suburb-days-after-us-broke-54dc246cd8",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "id": "news-north-korea-s-kim-jong-un-inspects-munitions-at--c53de49661",
+      "title": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-06-07T20:56:09.000Z",
-      "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+      "publishedAt": "2026-06-07T22:38:05.000Z",
+      "summary": "North Korea has released photos of Kim Jong Un inspecting huge munitions at a weapons factory",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-u-k-france-germany-back-direct-ukraine-russia-ta-1c961ce5c5",
+      "title": "U.K., France, Germany back direct Ukraine-Russia talks",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/uk-france-germany-back-direct-ukraine-russia-talks/article71074357.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-06-07T22:04:05.000Z",
+      "summary": "The leaders “supported the proposal for a direct dialogue between Ukraine and Russia - with active U.S. and European participation - to bring about a ceasefire and support furth...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-friendship-or-leverage-why-is-xi-jinping-going-t-6bdbf796a6",
+      "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-07T22:02:31.000Z",
+      "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-want-uk-papers-not-mediation-on-border-issue-cla-e7fe9a283f",
+      "title": "Want UK papers, not mediation, on border issue, clarifies Nepal",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/want-uk-papers-not-mediation-on-border-issue-clarifies-nepal/articleshow/131573872.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-07T21:33:09.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -33,53 +73,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-middle-east-crisis-live-iran-launches-missiles-t-ac3b47c855",
-      "title": "Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-06-07T20:44:25.000Z",
-      "summary": "Launches appear to mark the first such attack since April ceasefire; Tehran threatened Israel with ‘painful’ response after strikes on southern Beirut Full report: Iran launches...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-fires-missiles-at-israel-after-it-attacked--5ca8a55dba",
-      "title": "Iran fires missiles at Israel after it attacked Beirut",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-07T20:12:55.000Z",
-      "summary": "Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-west-asia-war-live-israel-army-says-territory-be-ff36c4d62e",
-      "title": "West Asia war LIVE: Israel army says territory being targeted by Iranian missiles",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-06-07T20:09:37.000Z",
-      "summary": "Iran's Revolutionary Guards said that Sunday night's missile attack on Israel was a \"warning\" after the Israeli strike on Beirut earlier in the day",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-casualty-of-punjab-bjp-s-kewal-singh-dhillion-mo-c24e8efc97",
-      "title": "Casualty Of Punjab BJP's Kewal Singh Dhillion Move: Internal Cohesion",
+      "id": "news-dmk-gone-trinamool-down-india-bloc-meets-today-t-9e8411bc09",
+      "title": "DMK Gone, Trinamool Down, INDIA Bloc Meets Today To Chalk Out Road Ahead",
       "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/casualty-of-punjab-bjps-kewal-singh-dhillion-move-internal-cohesion-11604302",
+      "url": "https://www.ndtv.com/india-news/india-bloc-to-meet-tomorrow-a-regrouping-after-assembly-polls-dmk-walkout-11603609",
       "tag": "India",
-      "publishedAt": "2026-06-07T19:08:48.000Z",
-      "summary": "The incident is a symptom of dissatisfaction that is brewing within the party. The BJP's old guard appears increasingly uneasy with the pace and direction of recent changes.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-how-to-have-financially-strong-airlines-india-fi-4966530a75",
-      "title": "‘How to have financially strong airlines,’ India finally begins to figure out",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/how-to-have-financially-strong-airlines-india-finally-begins-to-figure-out/articleshow/131573047.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-07T18:45:46.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-06-07T20:00:21.000Z",
+      "summary": "The meeting comes amid speculation that the government might reintroduce the two Constitution Amendment Bills it had failed to get passed earlier - on delimitation and women's r...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-pakistani-workers-say-their-faith-cost-them-thei-aa675569b5",
-      "title": "Pakistani workers say their faith cost them their jobs in the UAE",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/07/nx-s1-5832548/pakistani-workers-say-their-faith-cost-them-their-jobs-in-the-uae",
-      "tag": "US",
-      "publishedAt": "2026-06-07T20:53:16.000Z",
-      "summary": "Shia Muslims from Pakistan say they're being deported from the UAE shortly after the Iran war began.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-here-s-the-latest-bcd4f4ffe5",
+      "id": "news-here-s-the-latest-3dd9b28b74",
       "title": "Here’s the latest.",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles/heres-the-latest",
       "tag": "US",
-      "publishedAt": "2026-06-07T20:50:28.000Z",
+      "publishedAt": "2026-06-07T22:45:04.000Z",
       "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-news-live-julia-gillard-disgusted-by-d-f34302d78b",
+      "title": "Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-06-07T22:43:03.000Z",
+      "summary": "Former Labor prime minister angered at Melbourne brothel owner’s use of ‘tired old trope’ Get our breaking news email , free app or daily news podcast Scolyer a ‘man of warmth a...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
