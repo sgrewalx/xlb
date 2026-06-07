@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-06-07T19:38:32.752Z",
+  "updatedAt": "2026-06-07T21:02:30.009Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-middle-east-crisis-live-idf-says-iran-has-launch-0631de314a",
-      "title": "Middle East crisis live: IDF says Iran has launched missiles towards Israel after strikes on Lebanon",
+      "id": "news-live-updates-iran-fires-missiles-at-israel-for-f-b89155c844",
+      "title": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
+      "tag": "US",
+      "publishedAt": "2026-06-07T20:57:19.000Z",
+      "summary": "Israel had attacked the outskirts of the Lebanese capital, Beirut, earlier Sunday, prompting Iran to retaliate. There were no immediate reports of casualties from the missile at...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israel-strikes-beirut-suburb-days-after-us-broke-54dc246cd8",
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-07T20:56:09.000Z",
+      "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-is-remaking-u-s-policy-in-latin-america-cd924c8536",
+      "title": "Trump is remaking U.S. policy in Latin America",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5845137/trump-is-remaking-u-s-policy-in-latin-america",
+      "tag": "US",
+      "publishedAt": "2026-06-07T20:53:20.000Z",
+      "summary": "Military strikes, sanctions and political pressure are becoming hallmarks of Trump's Latin America policy. NPR's Adrian Florido speaks with historian Greg Grandin about what's d...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-iran-launches-missiles-t-ac3b47c855",
+      "title": "Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-06-07T19:33:32.000Z",
-      "summary": "Iran had threatened Israel with ‘painful’ response after strikes on southern Beirut that reportedly killed two people and left several more injured Donald Trump also aggressivel...",
+      "publishedAt": "2026-06-07T20:44:25.000Z",
+      "summary": "Launches appear to mark the first such attack since April ceasefire; Tehran threatened Israel with ‘painful’ response after strikes on southern Beirut Full report: Iran launches...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israel-bombs-beirut-outskirts-as-fighting-with-h-8b5b11f70c",
-      "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-      "tag": "US",
-      "publishedAt": "2026-06-07T19:32:12.000Z",
-      "summary": "U.S. efforts for a truce in Lebanon appear to have stalled. Israel accused Hezbollah of firing at Israeli territory. Iran swiftly retaliated.",
+      "id": "news-iran-fires-missiles-at-israel-after-it-attacked--5ca8a55dba",
+      "title": "Iran fires missiles at Israel after it attacked Beirut",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-07T20:12:55.000Z",
+      "summary": "Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-west-asia-war-live-israel-army-says-territory-be-abd5caa869",
+      "id": "news-west-asia-war-live-israel-army-says-territory-be-ff36c4d62e",
       "title": "West Asia war LIVE: Israel army says territory being targeted by Iranian missiles",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
       "tag": "Europe",
-      "publishedAt": "2026-06-07T19:26:16.000Z",
-      "summary": "Iran State Television said that Iran began military operations against Israel in retaliation for Israel's attack on southern Lebanon on June 7, 2026.",
+      "publishedAt": "2026-06-07T20:09:37.000Z",
+      "summary": "Iran's Revolutionary Guards said that Sunday night's missile attack on Israel was a \"warning\" after the Israeli strike on Beirut earlier in the day",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,26 +73,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israel-strikes-beirut-suburb-days-after-us-broke-036c27a6f2",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-07T19:06:53.000Z",
-      "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-lawsuit-seeks-to-stop-trump-s-planned-white-hous-ab5231f91f",
-      "title": "Lawsuit seeks to stop Trump’s planned White House UFC match",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-07T18:53:20.000Z",
-      "summary": "Legal challenge claims US president did not seek proper approval for fighting event to be held on his 80th birthday.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-how-to-have-financially-strong-airlines-india-fi-4966530a75",
       "title": "‘How to have financially strong airlines,’ India finally begins to figure out",
       "source": "Times of India",
@@ -70,16 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-06-07T18:45:46.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-alexander-zverev-wins-the-french-open-to-finally-cfce6bb064",
-      "title": "Alexander Zverev wins the French Open to finally earn a 1st Grand Slam title",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title",
-      "tag": "US",
-      "publishedAt": "2026-06-07T18:21:03.000Z",
-      "summary": "After Italian Flavio Cobolli missed an overhead on the second championship point of the five-set encounter, Zverev dropped on his back and began sobbing.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-fires-missiles-at-israel-for-first-time-sin-3a35d8f9cd",
-      "title": "Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html",
+      "id": "news-pakistani-workers-say-their-faith-cost-them-thei-aa675569b5",
+      "title": "Pakistani workers say their faith cost them their jobs in the UAE",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5832548/pakistani-workers-say-their-faith-cost-them-their-jobs-in-the-uae",
       "tag": "US",
-      "publishedAt": "2026-06-07T19:31:08.000Z",
-      "summary": "Israel had attacked the outskirts of the Lebanese capital, Beirut, earlier Sunday, prompting threats of Iranian retaliation.",
+      "publishedAt": "2026-06-07T20:53:16.000Z",
+      "summary": "Shia Muslims from Pakistan say they're being deported from the UAE shortly after the Iran war began.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ukraine-turns-to-europe-as-u-s-steps-back-as-med-33564ca3a7",
-      "title": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
+      "id": "news-here-s-the-latest-bcd4f4ffe5",
+      "title": "Here’s the latest.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html",
+      "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles/heres-the-latest",
       "tag": "US",
-      "publishedAt": "2026-06-07T19:26:38.000Z",
-      "summary": "President Volodymyr Zelensky traveled to London to meet with the leaders of Britain, Germany and France, whom he said could be negotiators in talks with Russia.",
+      "publishedAt": "2026-06-07T20:50:28.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
