@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-06T22:58:07.876Z",
+  "updatedAt": "2026-06-07T00:03:08.694Z",
   "items": [
+    {
+      "id": "tech-the-gamers-taking-on-the-industry-to-stop-it-swi-aae4923423",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-06T23:25:51.000Z",
+      "summary": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-us-states-are-reportedly-planning-to-sue-to-bloc-aba6138da0",
       "title": "US states are reportedly planning to sue to block Paramount's Warner Bros. takeover",
@@ -19,16 +29,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-06T20:53:07.000Z",
       "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-unveils-lockdown-mode-to-protect-sensitiv-1483719e94",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks",
-      "tag": "Technology",
-      "publishedAt": "2026-06-06T20:32:24.000Z",
-      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
