@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T06:34:15.254Z",
+  "updatedAt": "2026-06-07T07:10:09.444Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-06-06T06:02:31.567Z",
-      "summary": "USGS reported 328 earthquake events in the last 24 hours. Strongest reported event: M5.6 near Balleny Islands region.",
+      "startsAt": "2026-06-07T07:06:17.820Z",
+      "summary": "USGS reported 201 earthquake events in the last 24 hours. Strongest reported event: M5.4 near south of the Fiji Islands.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-06T06:34:15.254Z",
+      "updatedAt": "2026-06-07T07:10:09.444Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-praggnanandhaa-creates-history-watch-chess-champ-822149a78e",
-        "video-watch-party-crowd-buzzes-at-halftime-as-knicks-t-955b44e046",
-        "video-trump-confident-of-end-of-iran-war-soon-even-as--f5704a521a"
+        "video-us-president-donald-trump-says-elon-musk-is-his--e5480e618a",
+        "video-centre-looting-citizens-opposition-trains-guns-a-f6a428ad4f",
+        "video-trump-says-fans-can-watch-knicks-on-tv-as-ticket-3814813055"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -36,43 +36,6 @@
       ],
       "relatedGalleryIds": [
         "gallery-quake-snapshots",
-        "gallery-topic-rotation"
-      ]
-    },
-    {
-      "id": "space-aurora-watch",
-      "slug": "aurora-watch",
-      "title": "Aurora watch",
-      "status": "monitoring",
-      "category": "space",
-      "topic": "space-weather",
-      "startsAt": "2026-06-06T06:31:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 2. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.",
-      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
-      "sourceName": "NOAA Space Weather Prediction Center",
-      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 98,
-      "rightsProfile": "public-information",
-      "cadence": "continuous",
-      "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-06T06:34:15.254Z",
-      "importance": 74,
-      "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-      "relatedVideoIds": [
-        "video-praggnanandhaa-creates-history-watch-chess-champ-822149a78e",
-        "video-watch-party-crowd-buzzes-at-halftime-as-knicks-t-955b44e046",
-        "video-trump-confident-of-end-of-iran-war-soon-even-as--f5704a521a"
-      ],
-      "relatedGameIds": [
-        "headline-match",
-        "timeline-sort",
-        "rapid-reaction"
-      ],
-      "relatedGalleryIds": [
-        "gallery-aurora-state",
         "gallery-topic-rotation"
       ]
     },
@@ -95,12 +58,13 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-06T06:34:15.254Z",
+      "updatedAt": "2026-06-07T07:10:09.444Z",
       "importance": 72,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
       "relatedVideoIds": [
-        "video-viral-video-flight-planetakeoff-viralvideo-e8f1669f2c",
-        "video-just-in-israel-launches-deadly-strikes-as-hezbol-108d25a16a"
+        "video-25-year-old-man-arrested-for-sneaking-on-united--b908e46986",
+        "video-iran-launches-new-attacks-on-u-s-allies-bb6318b6c3",
+        "video-breaking-iran-launches-missiles-and-drones-at-ba-3dac591758"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -109,6 +73,43 @@
       ],
       "relatedGalleryIds": [
         "gallery-launch-windows",
+        "gallery-topic-rotation"
+      ]
+    },
+    {
+      "id": "space-aurora-watch",
+      "slug": "aurora-watch",
+      "title": "Aurora watch",
+      "status": "monitoring",
+      "category": "space",
+      "topic": "space-weather",
+      "startsAt": "2026-06-07T07:07:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
+      "sourceName": "NOAA Space Weather Prediction Center",
+      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "coverageMode": "link",
+      "safeToPromote": true,
+      "heroPriority": 92,
+      "rightsProfile": "public-information",
+      "cadence": "continuous",
+      "audienceIntent": "monitor-live",
+      "updatedAt": "2026-06-07T07:10:09.444Z",
+      "importance": 71,
+      "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
+      "relatedVideoIds": [
+        "video-us-president-donald-trump-says-elon-musk-is-his--e5480e618a",
+        "video-centre-looting-citizens-opposition-trains-guns-a-f6a428ad4f",
+        "video-trump-says-fans-can-watch-knicks-on-tv-as-ticket-3814813055"
+      ],
+      "relatedGameIds": [
+        "headline-match",
+        "timeline-sort",
+        "rapid-reaction"
+      ],
+      "relatedGalleryIds": [
+        "gallery-aurora-state",
         "gallery-topic-rotation"
       ]
     },
@@ -131,7 +132,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-06T06:34:15.254Z",
+      "updatedAt": "2026-06-07T07:10:09.444Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -151,7 +152,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-06T06:34:14.972Z",
+      "startsAt": "2026-06-07T07:10:09.046Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -163,11 +164,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-06T06:34:15.254Z",
+      "updatedAt": "2026-06-07T07:10:09.444Z",
       "importance": 68,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-just-in-israel-launches-deadly-strikes-as-hezbol-108d25a16a"
+        "video-iran-launches-new-attacks-on-u-s-allies-bb6318b6c3",
+        "video-breaking-iran-launches-missiles-and-drones-at-ba-3dac591758"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -186,7 +188,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-06T06:34:14.972Z",
+      "startsAt": "2026-06-07T07:10:09.046Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -198,11 +200,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-06T06:34:15.254Z",
+      "updatedAt": "2026-06-07T07:10:09.444Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-just-in-israel-launches-deadly-strikes-as-hezbol-108d25a16a"
+        "video-iran-launches-new-attacks-on-u-s-allies-bb6318b6c3",
+        "video-breaking-iran-launches-missiles-and-drones-at-ba-3dac591758"
       ],
       "relatedGameIds": [
         "headline-match",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T06:34:15.449Z",
+  "updatedAt": "2026-06-07T07:10:10.396Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,18 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-06-06T06:34:15.449Z"
-    },
-    {
-      "slug": "space-weather",
-      "title": "Space Weather",
-      "category": "space",
-      "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
-      "eventCount": 1,
-      "promotedEventCount": 1,
-      "bestScore": 82,
-      "recommendation": "hold",
-      "updatedAt": "2026-06-06T06:34:15.449Z"
+      "updatedAt": "2026-06-07T07:10:10.396Z"
     },
     {
       "slug": "launches",
@@ -32,7 +21,18 @@
       "promotedEventCount": 3,
       "bestScore": 80,
       "recommendation": "hold",
-      "updatedAt": "2026-06-06T06:34:15.449Z"
+      "updatedAt": "2026-06-07T07:10:10.396Z"
+    },
+    {
+      "slug": "space-weather",
+      "title": "Space Weather",
+      "category": "space",
+      "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
+      "eventCount": 1,
+      "promotedEventCount": 1,
+      "bestScore": 82,
+      "recommendation": "hold",
+      "updatedAt": "2026-06-07T07:10:10.396Z"
     },
     {
       "slug": "nasa",
@@ -43,7 +43,7 @@
       "promotedEventCount": 1,
       "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-06-06T06:34:15.449Z"
+      "updatedAt": "2026-06-07T07:10:10.396Z"
     }
   ]
 }

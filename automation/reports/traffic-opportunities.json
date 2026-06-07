@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-06T06:34:14.525Z",
-  "sourceSnapshot": "2026-06-06T06:00:00.000Z",
+  "updatedAt": "2026-06-07T07:10:08.605Z",
+  "sourceSnapshot": "2026-06-07T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
-    "hasLiveGa4": true,
+    "hasLiveGa4": false,
     "hasLiveSearchConsole": true,
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
@@ -37,33 +37,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
-      "path": "/events/clps-flight-astrobotic-griffin-1",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /events/clps-flight-astrobotic-griffin-1",
-      "hypothesis": "/events/clps-flight-astrobotic-griffin-1 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -89,7 +63,33 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
+      "path": "/events/clps-flight-astrobotic-griffin-1",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /events/clps-flight-astrobotic-griffin-1",
+      "hypothesis": "/events/clps-flight-astrobotic-griffin-1 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -115,7 +115,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -141,7 +141,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -167,33 +167,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-index-watch-topics-launches",
-      "path": "/topics/launches",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /topics/launches",
-      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -219,7 +193,33 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-topics-launches",
+      "path": "/topics/launches",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/launches",
+      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }

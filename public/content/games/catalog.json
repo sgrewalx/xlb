@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T06:34:15.449Z",
+  "updatedAt": "2026-06-07T07:10:10.396Z",
   "thesis": "Games are a retention layer tied to live content, not a standalone acquisition thesis.",
   "items": [
     {
@@ -21,7 +21,7 @@
       "description": "Re-order live events from soonest to latest using the active event deck.",
       "relatedPath": "/live",
       "relatedLabel": "Go to Live",
-      "prompt": "Use active live events such as Global earthquake watch, Aurora watch, CLPS Flight: Astrobotic Griffin-1.",
+      "prompt": "Use active live events such as Global earthquake watch, CLPS Flight: Astrobotic Griffin-1, Aurora watch.",
       "metricLabel": "Active events",
       "metricValue": "4",
       "featured": true

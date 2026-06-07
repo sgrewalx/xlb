@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-06T06:34:15.449Z",
-  "snapshotFile": "merged-2026-06-06.json",
-  "capturedAt": "2026-06-06T06:00:00.000Z",
+  "updatedAt": "2026-06-07T07:10:10.396Z",
+  "snapshotFile": "merged-2026-06-07.json",
+  "capturedAt": "2026-06-07T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -11,10 +11,10 @@
   "topPages": [
     {
       "path": "/",
-      "pageviews": 1,
+      "pageviews": 0,
       "searchImpressions": 1,
-      "engagementScore": 2,
-      "returnVisitors": 1,
+      "engagementScore": 0,
+      "returnVisitors": 0,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -52,7 +52,7 @@
     {
       "path": "/news",
       "pageviews": 0,
-      "searchImpressions": 6,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
