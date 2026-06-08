@@ -1,7 +1,77 @@
 {
-  "updatedAt": "2026-06-08T17:21:52.068Z",
+  "updatedAt": "2026-06-08T20:01:09.061Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-reminder-macos-27-won-t-work-on-intel-macs-6c52d54325",
+      "title": "Reminder: macOS 27 won't work on Intel Macs",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2189939/reminder-macos-27-won-t-work-on-intel-macs",
+      "tag": "Running",
+      "publishedAt": "2026-06-08T19:42:25.000Z",
+      "summary": "You'll need to be running Apple silicon to use the latest operating system.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-wwdc-2026-everything-announced-on-siri-ai-ios-27-6e510d568d",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more",
+      "tag": "Technology",
+      "publishedAt": "2026-06-08T19:41:32.000Z",
+      "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, alo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-artemis-ii-crew-flew-fast-earned-new-patch-astro-7885a0b333",
+      "title": "Artemis II crew flew fast, earned new patch: Astronauts' Mach 39 emblem",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem",
+      "tag": "Technology",
+      "publishedAt": "2026-06-08T19:40:05.000Z",
+      "summary": "\"It is actually challenging how you measure [Mach] from space.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-announces-watchos-27-now-with-siri-ai-d04ecee87f",
+      "title": "Apple announces watchOS 27, now with Siri AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-06-08T19:34:10.000Z",
+      "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to heal...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-s-iphone-camera-app-is-getting-an-ai-upgra-d1a92a8bc5",
+      "title": "Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27",
+      "tag": "Technology",
+      "publishedAt": "2026-06-08T18:40:32.000Z",
+      "summary": "Siri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-wwdc-2026-highlights-iphone-maker-announce-dbfb81f18d",
+      "title": "Apple WWDC 2026 HIGHLIGHTS | iPhone-maker announces Siri AI powered by the new Apple Intelligence",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-wwdc-2026-live-coverage-and-highlights-from-the-keynote/article71075729.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-08T18:29:48.000Z",
+      "summary": "Apple's WWDC this year runs between June 8 and June 12",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-wwdc-2026-apple-unveils-siri-ai-with-major-apple-5743fa0173",
+      "title": "WWDC 2026: Apple Unveils Siri AI With Major Apple Intelligence Upgrades",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/news/apple-siri-ai-apple-intelligence-upgrades-wwdc-2026-11609346",
+      "tag": "Technology",
+      "publishedAt": "2026-06-08T17:49:08.000Z",
+      "summary": "Apple unveiled Siri AI and a revamped Apple Intelligence platform at WWDC 2026 alongside iOS 27, iPadOS 27, macOS 27, watchOS 27, tvOS 27, and visionOS 27. Siri AI can access in...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-jailed-crypto-founder-sam-bankman-fried-seeks-tr-f7d34f8e95",
       "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
@@ -10,76 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-08T17:18:21.000Z",
       "summary": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-updates-liquid-glass-to-be-more-readable-a-b2595a26a4",
-      "title": "Apple updates Liquid Glass to be more readable and customizable",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2189693/apple-updates-liquid-glass-to-be-more-readable-and-customizable",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T17:17:12.000Z",
-      "summary": "Apple updates Liquid Glass to be more readable and customizable",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-announces-ios-27-539fcc2f90",
-      "title": "Apple announces iOS 27",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/941202/apple-ios-27-wwdc-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T17:14:34.000Z",
-      "summary": "Apple announced its next major iOS update, iOS 27, at WWDC 2026 on Monday. Apple is highlighting performance and design improvements as a major feature, and the update will be s...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-astrophotographer-captures-giant-human-shaped-so-8f9ccbf340",
-      "title": "Astrophotographer Captures Giant Human-Shaped Solar Prominence",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/astrophotographer-captures-giant-human-shaped-solar-prominence-11607628",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T17:10:56.000Z",
-      "summary": "Astrophotographer Mark Johnston captured a remarkable solar prominence resembling a giant figure rising above the Sun. The image highlights how magnetic fields shape vast clouds...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-wwdc-2026-live-blog-all-the-updates-as-the-afbfb5d902",
-      "title": "Apple WWDC 2026 Live Blog: All the Updates, as They Happen",
-      "source": "Wired",
-      "url": "https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T16:32:33.000Z",
-      "summary": "Follow our WWDC 2026 live blog for all of the updates coming to iOS, macOS, watchOS, and more.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-apply-to-startup-battlefield-2026-what-yo-255f9b5413",
-      "title": "How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T16:14:14.000Z",
-      "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-michigan-politicians-want-to-ban-chinese-badged--128ac04ccb",
-      "title": "Michigan politicians want to ban Chinese-badged cars from even visiting the US",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T14:02:22.000Z",
-      "summary": "The latest bill would ban day trips from Canada or Mexico in Chinese cars.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-rapido-to-sensitise-its-drivers-for-rahveer-sche-d3bfa77420",
-      "title": "Rapido to sensitise its drivers for Rahveer scheme",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/rapido-to-sensitise-its-drivers-for-rahveer-scheme/article71077128.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T13:52:05.000Z",
-      "summary": "MoRTH’s Rahveer scheme promises ₹25,000 to the first respondent in a road accident",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-announces-macos-golden-gate-27-e07da0651b",
-      "title": "Apple announces macOS Golden Gate 27",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features",
+      "id": "tech-the-first-ios-ipados-and-macos-27-developer-beta-ac78d268bf",
+      "title": "The first iOS, iPadOS and macOS 27 developer betas are available now",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2189933/the-first-ios-ipados-and-macos-27-developer-betas-are-available-now",
       "tag": "Technology",
-      "publishedAt": "2026-06-08T17:07:30.000Z",
-      "summary": "Apple has announced macOS Golden Gate 27, the next version of its desktop operating system. The new Golden Gate version of macOS brings a global slider to adjust the opacity of...",
+      "publishedAt": "2026-06-08T19:37:08.000Z",
+      "summary": "Developer betas are available now for Apple's upcoming suit of OSes.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-wwdc-protesters-want-apple-to-ban-elon-musk-s-ap-77460fc42c",
-      "title": "WWDC protesters want Apple to ban Elon Musk’s apps",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/945813/apple-wwdc-protesters-deepfake-nude-apps-ultraviolet-heat-initiative",
+      "id": "tech-siri-ai-for-iphones-and-ipads-will-be-delayed-in-fa07109881",
+      "title": "Siri AI for iPhones and iPads will be delayed indefinitely in the EU",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu",
       "tag": "Technology",
-      "publishedAt": "2026-06-08T16:37:09.000Z",
-      "summary": "Apple's big developer conference is today, and protesters are using the occasion to call on the company to remove \"nudify apps\" from the App Store and pull \"known\" child sexual...",
+      "publishedAt": "2026-06-08T19:36:54.000Z",
+      "summary": "European Union and Chinese citizens will have to wait even longer before getting their hands on Apple's hotly-anticipated iOS 27 and iPadOS 27 with the new Siri.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
