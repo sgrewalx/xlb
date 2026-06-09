@@ -1,65 +1,75 @@
 {
-  "updatedAt": "2026-06-09T19:07:07.542Z",
+  "updatedAt": "2026-06-09T21:30:35.527Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-can-tech-companies-learn-to-love-cheaper-ai-mode-3827a1c7af",
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T18:56:09.000Z",
-      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nasa-assigns-crew-for-artemis-iii-sets-aggressiv-ffc1f63fcc",
-      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T18:42:19.000Z",
-      "summary": "\"Artemis III will be an extraordinary demonstration of what is possible.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-version-of-ai-tool-too-powerful-for-public-relea-52f0faabf6",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T18:35:59.000Z",
-      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-opera-s-latest-android-update-includes-a-soccer--917a78568c",
-      "title": "Opera's latest Android update includes a soccer hub and a refreshed start page",
+      "id": "tech-kalshi-will-require-employment-info-for-some-bet-feee7087c6",
+      "title": "Kalshi will require employment info for some bets as an insider trading precaution",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2190728/operas-latest-android-update-includes-a-soccer-hub-and-a-refreshed-start-page",
-      "tag": "Football",
-      "publishedAt": "2026-06-09T17:41:52.000Z",
-      "summary": "Opera's new Android update includes a soccer hub in time for the World Cup.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-fitbit-s-charge-6-and-ace-lte-are-now-as-cheap-a-75eb96fc2b",
-      "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
+      "url": "https://www.engadget.com/2190989/kalshi-will-require-employment-info-for-some-bets-as-an-insider-trading-precaution",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T17:35:51.000Z",
-      "summary": "Whether you’re shopping for Father’s Day or trying to keep your kids entertained over summer break, you don’t need to spend a fortune to get a great Fitbit right now. You can cu...",
+      "publishedAt": "2026-06-09T21:18:27.000Z",
+      "summary": "The rules may pose a minor hurdle for people who just have to cheat.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-macos-27-golden-gate-top-new-features-65f19c2674",
-      "title": "MacOS 27 Golden Gate: Top New Features",
+      "id": "tech-gm-wants-your-electric-car-to-power-your-house-a-002324e7f9",
+      "title": "GM Wants Your Electric Car to Power Your House—and Your Neighborhood",
       "source": "Wired",
-      "url": "https://www.wired.com/story/macos-27-golden-gate-top-features",
+      "url": "https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T17:33:21.000Z",
-      "summary": "Apple has announced the latest version of macOS. It’s all about the reintroduction of Siri, which is now accessible from anywhere on the Mac desktop.",
+      "publishedAt": "2026-06-09T21:00:15.000Z",
+      "summary": "The automaker today is turning on vehicle-to-grid charging for its GM Energy customers. Will people actually use it?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gm-thinks-evs-can-help-offset-ai-s-energy-suck-w-ff03a4688c",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T21:00:00.000Z",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity dem...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gm-joins-race-to-build-batteries-for-ai-data-cen-566ba4da8b",
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T21:00:00.000Z",
+      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-netflix-trying-to-poison-regulators-about-wbd-me-22af99affa",
+      "title": "Netflix trying to \"poison regulators\" about WBD merger, Paramount lawyer claims",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T20:15:45.000Z",
+      "summary": "Netflix's response: \"Absurd.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-life-405afa108c",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxz?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T20:00:00.000Z",
+      "summary": "Check before check-in. What's behind a new safety campaign about power banks on aircraft?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-securing-india-against-the-threat-of-a-mythocaly-55312b2de4",
+      "title": "Securing India against the threat of a ‘Mythocalypse’",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/opinion/lead/securing-india-against-the-threat-of-a-mythocalypse/article71081835.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T19:20:20.000Z",
+      "summary": "Claude Mythos, the world’s ‘most formidable hacker’, needs India’s urgent attention",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nvidia-s-ai-pc-push-banks-on-unproven-demand-bey-3b6ef8ff66",
-      "title": "Nvidia's AI PC push banks on unproven demand beyond niche users",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/nvidias-ai-pc-push-banks-on-unproven-demand-beyond-niche-users/article71079165.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T06:34:53.000Z",
-      "summary": "Nvidia, though, appears to be selling a different version of the AI PC than what ‌exists today, one aimed more at developers and content creators who have long favoured Apple’s...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-wwdc-2026-everything-announced-on-siri-ai-ios-27-203e62d1b2",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more",
+      "id": "tech-gm-s-evs-will-soon-support-more-kinds-of-public--b81b1deacf",
+      "title": "GM's EVs will soon support more kinds of public chargers",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2190840/gms-evs-will-soon-support-more-kinds-of-public-chargers",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T18:04:24.000Z",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "publishedAt": "2026-06-09T21:00:00.000Z",
+      "summary": "EVs from GM will soon be able to top up at more kinds of public chargers.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-cisa-gives-us-federal-agencies-three-days-to-fix-48ef8d10ef",
-      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+      "id": "tech-hey-siri-here-s-what-i-actually-want-from-ai-a632ee525c",
+      "title": "Hey Siri, here’s what I actually want from AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T17:40:08.000Z",
-      "summary": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
+      "publishedAt": "2026-06-09T20:50:17.000Z",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
