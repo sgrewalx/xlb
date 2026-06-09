@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-06-09T02:43:56.494Z",
+  "updatedAt": "2026-06-09T06:40:23.252Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-us-adds-byd-to-list-of-firms-with-alleged-chines-96a17ba965",
-      "title": "US adds BYD to list of firms with alleged Chinese military ties",
+      "id": "tech-nvidia-s-ai-pc-push-banks-on-unproven-demand-bey-3b6ef8ff66",
+      "title": "Nvidia's AI PC push banks on unproven demand beyond niche users",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/nvidias-ai-pc-push-banks-on-unproven-demand-beyond-niche-users/article71079165.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T06:34:53.000Z",
+      "summary": "Nvidia, though, appears to be selling a different version of the AI PC than what ‌exists today, one aimed more at developers and content creators who have long favoured Apple’s...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-wwdc-2026-apple-s-ios-27-update-includes-slider--514fdf31b0",
+      "title": "WWDC 2026: Apple's iOS 27 Update Includes Slider to Control Liquid Glass Opacity Following User Feedback",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/apple-ios-27-liquid-glass-slider-wwdc-2026-11610966",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T06:27:17.000Z",
+      "summary": "Apple has announced several refinements to its Liquid Glass design language in iOS 27 and across its software platforms. The update introduces a new Settings slider that lets us...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-plans-to-go-public-intensifying-investmen-b9345625aa",
+      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
       "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T02:18:47.000Z",
-      "summary": "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
+      "publishedAt": "2026-06-09T06:22:22.000Z",
+      "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-instagram-finally-lets-you-reorder-posts-on-your-265bc58465",
-      "title": "Instagram finally lets you reorder posts on your grid",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2190179/instagram-how-to-reorder-grid",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T02:06:27.000Z",
-      "summary": "You can now rearrange posts on Instagram the way you want to.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-kerala-s-coconut-shell-products-gps-renewables-s-5885b9085a",
-      "title": "Kerala’s coconut shell products; GPS Renewables secures Rs 635 Cr",
+      "id": "tech-quick-commerce-startup-bazaarnow-raises-rs-72-cr-2cdbe22a1e",
+      "title": "Quick commerce startup BazaarNow raises Rs 72 Cr led by Peak XV Partners",
       "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/keralas-coconut-shell-products",
+      "url": "https://yourstory.com/2026/06/quick-commerce-startup-bazaarnow-raises-rs-72-cr-led-by-peak-xv-partners",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T02:00:00.000Z",
-      "summary": "The founder of Thenga Coco, Maria Kuriakose, has built a business that transforms coconut shells, which were once considered waste, into functional and decorative products.",
+      "publishedAt": "2026-06-09T06:10:36.000Z",
+      "summary": "Focused on quick commerce delivery in Tier II and beyond locations BazaarNow will use this funding for largely expansion related activity.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-apple-s-slow-and-steady-ai-bet-is-starting-t-d97aeb4ed3",
-      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart",
+      "id": "tech-ninja-theory-cancels-psychological-horror-game-p-44d1eda37b",
+      "title": "Ninja Theory cancels psychological horror game Project Mara",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2190214/ninja-theory-cancels-project-mara",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T01:56:48.000Z",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "publishedAt": "2026-06-09T05:59:27.000Z",
+      "summary": "Hellblade developer Ninja Theory is no longer working on Project Mara, a psychological horror game it announced in 2020.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-zepto-s-ipo-filing-reveals-fast-growth-bigger-lo-0441c8789d",
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T05:07:17.000Z",
+      "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-1password-coupon-score-a-free-trial-in-june-2026-4c23e77873",
+      "title": "1Password Coupon: Score a Free Trial in June 2026",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/1password-coupon",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T05:00:00.000Z",
+      "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-files-confidential-sec-paperwork-for-ipo--216f2339d7",
-      "title": "OpenAI files confidential SEC paperwork for IPO opening door for Wall Street debut",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/openai-files-confidential-sec-paperwork-for-ipo-opening-door-for-wall-street-debut/article71078450.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T00:10:44.000Z",
-      "summary": "OpenAI CEO Sam Altman first publicly floated the possibility of an IPO last fall, describing it as the \"most likely path\" for the company given its size and the need for vast am...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-instagram-is-finally-letting-everyone-reorganize-7be7f430e2",
       "title": "Instagram is finally letting everyone reorganize their profile grid",
       "source": "The Verge",
@@ -70,26 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-08T23:58:30.000Z",
       "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-confidentially-files-for-ipo-on-the-heels-6d768c8e9f",
-      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T21:31:58.000Z",
-      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-wwdc-2026-apple-unveils-siri-ai-with-major-apple-5743fa0173",
-      "title": "WWDC 2026: Apple Unveils Siri AI With Major Apple Intelligence Upgrades",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/ai/news/apple-siri-ai-apple-intelligence-upgrades-wwdc-2026-11609346",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T17:49:08.000Z",
-      "summary": "Apple unveiled Siri AI and a revamped Apple Intelligence platform at WWDC 2026 alongside iOS 27, iPadOS 27, macOS 27, watchOS 27, tvOS 27, and visionOS 27. Siri AI can access in...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-mercor-s-brendan-foody-calls-out-sequoia-accusin-e807620782",
-      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks",
+      "id": "tech-alphabet-taps-intel-to-make-three-million-in-hou-e4f5999f49",
+      "title": "Alphabet taps Intel to make three million in-house chips: Report",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/alphabet-taps-intel-to-make-three-million-in-house-chips-report/article71079154.ece",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T00:45:56.000Z",
-      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "publishedAt": "2026-06-09T06:04:35.000Z",
+      "summary": "Intel’s shares rose more ‌than 9% in early trading, set to add to the nearly 169% gain so far this year",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-s-screen-time-updates-are-too-little-too-l-ea97179597",
-      "title": "Apple’s Screen Time updates are too little, too late",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "id": "tech-zepto-files-updated-ipo-papers-plans-to-raise-rs-bb65a72036",
+      "title": "Zepto files updated IPO papers, plans to raise Rs 8,010 Cr through fresh issue",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/06/zepto-updated-ipo-papers-plans-to-raise-rs-8010-crore-fresh-issue",
       "tag": "Technology",
-      "publishedAt": "2026-06-08T23:41:00.000Z",
-      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much...",
+      "publishedAt": "2026-06-09T05:53:24.000Z",
+      "summary": "The quick-commerce unicorn plans to use the proceeds of the proposed IPO towards expanding its dark stores network, technology, marketing, and acquisitions.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
