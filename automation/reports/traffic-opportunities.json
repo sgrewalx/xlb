@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-08T08:17:33.258Z",
-  "sourceSnapshot": "2026-06-08T06:00:00.000Z",
+  "updatedAt": "2026-06-09T06:54:24.486Z",
+  "sourceSnapshot": "2026-06-09T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -8,7 +8,7 @@
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 8,
+    "pageCount": 10,
     "sitemapPathCount": 25,
     "opportunityCount": 8,
     "searchOpportunityCount": 0,

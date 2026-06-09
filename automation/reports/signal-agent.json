@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-08T08:17:35.402Z",
-  "snapshotFile": "merged-2026-06-08.json",
-  "capturedAt": "2026-06-08T06:00:00.000Z",
+  "updatedAt": "2026-06-09T06:54:25.622Z",
+  "snapshotFile": "merged-2026-06-09.json",
+  "capturedAt": "2026-06-09T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -11,6 +11,16 @@
   "topPages": [
     {
       "path": "/",
+      "pageviews": 0,
+      "searchImpressions": 2,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/advertise",
       "pageviews": 0,
       "searchImpressions": 1,
       "engagementScore": 0,
@@ -32,7 +42,7 @@
     {
       "path": "/gallery",
       "pageviews": 0,
-      "searchImpressions": 6,
+      "searchImpressions": 7,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -42,7 +52,7 @@
     {
       "path": "/games",
       "pageviews": 0,
-      "searchImpressions": 2,
+      "searchImpressions": 5,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -60,9 +70,19 @@
       "galleryOpens": 0
     },
     {
-      "path": "/sports",
+      "path": "/privacy",
       "pageviews": 0,
       "searchImpressions": 1,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/sports",
+      "pageviews": 0,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -72,7 +92,7 @@
     {
       "path": "/tech",
       "pageviews": 0,
-      "searchImpressions": 3,
+      "searchImpressions": 4,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -82,7 +102,7 @@
     {
       "path": "/topics/nasa",
       "pageviews": 0,
-      "searchImpressions": 1,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
