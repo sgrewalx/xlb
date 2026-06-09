@@ -1,65 +1,75 @@
 {
-  "updatedAt": "2026-06-08T23:57:09.067Z",
+  "updatedAt": "2026-06-09T02:43:56.494Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-openai-files-confidential-sec-paperwork-for-ipo--9d262ce124",
+      "id": "tech-us-adds-byd-to-list-of-firms-with-alleged-chines-96a17ba965",
+      "title": "US adds BYD to list of firms with alleged Chinese military ties",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T02:18:47.000Z",
+      "summary": "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-instagram-finally-lets-you-reorder-posts-on-your-265bc58465",
+      "title": "Instagram finally lets you reorder posts on your grid",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2190179/instagram-how-to-reorder-grid",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T02:06:27.000Z",
+      "summary": "You can now rearrange posts on Instagram the way you want to.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-kerala-s-coconut-shell-products-gps-renewables-s-5885b9085a",
+      "title": "Kerala’s coconut shell products; GPS Renewables secures Rs 635 Cr",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/06/keralas-coconut-shell-products",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T02:00:00.000Z",
+      "summary": "The founder of Thenga Coco, Maria Kuriakose, has built a business that transforms coconut shells, which were once considered waste, into functional and decorative products.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-why-apple-s-slow-and-steady-ai-bet-is-starting-t-d97aeb4ed3",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T01:56:48.000Z",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-fcc-lifts-looming-deadline-for-amazon-leo-satell-8d34b04954",
+      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T00:59:40.000Z",
+      "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-files-confidential-sec-paperwork-for-ipo--216f2339d7",
       "title": "OpenAI files confidential SEC paperwork for IPO opening door for Wall Street debut",
       "source": "The Hindu Technology",
       "url": "https://www.thehindu.com/sci-tech/technology/openai-files-confidential-sec-paperwork-for-ipo-opening-door-for-wall-street-debut/article71078450.ece",
       "tag": "Technology",
-      "publishedAt": "2026-06-08T23:43:20.000Z",
+      "publishedAt": "2026-06-09T00:10:44.000Z",
       "summary": "OpenAI CEO Sam Altman first publicly floated the possibility of an IPO last fall, describing it as the \"most likely path\" for the company given its size and the need for vast am...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-s-screen-time-updates-are-too-little-too-l-ea97179597",
-      "title": "Apple’s Screen Time updates are too little, too late",
+      "id": "tech-instagram-is-finally-letting-everyone-reorganize-7be7f430e2",
+      "title": "Instagram is finally letting everyone reorganize their profile grid",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
       "tag": "Technology",
-      "publishedAt": "2026-06-08T23:41:00.000Z",
-      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-plans-to-go-public-intensifying-investmen-9f1527d1c0",
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T23:37:21.000Z",
-      "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-ios-27-beta-pretty-much-confirms-that-an-app-1657c0aeb0",
-      "title": "The iOS 27 beta pretty much confirms that an Apple foldable is happening",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2190131/the-ios-27-beta-pretty-much-confirms-that-an-apple-foldable-is-happening",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T23:16:55.000Z",
-      "summary": "Can't a multi-trillion-dollar company have secrets any more?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-as-openai-files-for-ipo-sam-altman-s-eye-scannin-6bc948329b",
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T22:41:45.000Z",
-      "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tests-suggest-russian-satellites-can-jam-gps-on--92ca54f9a8",
-      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T21:56:28.000Z",
-      "summary": "Mystery of GPS interference across Europe raises questions about Russian motives.",
+      "publishedAt": "2026-06-08T23:58:30.000Z",
+      "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-persistence-outperforms-power-lessons-from-a-8ad43465b2",
-      "title": "Why Persistence Outperforms Power: Lessons from a River’s Path",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/river-cuts-rock-persistence-james-watkins",
-      "tag": "Technology",
-      "publishedAt": "2026-06-08T11:55:00.000Z",
-      "summary": "What James N. Watkins’ line about rivers and rock teaches us about building habits, learning effectively, and making durable progress in modern life.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-5-things-i-already-love-from-the-ios-27-beta-0cf2ffc340",
-      "title": "5 things I already love from the iOS 27 beta",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "id": "tech-mercor-s-brendan-foody-calls-out-sequoia-accusin-e807620782",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks",
       "tag": "Technology",
-      "publishedAt": "2026-06-08T23:30:00.000Z",
-      "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfo...",
+      "publishedAt": "2026-06-09T00:45:56.000Z",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-could-humanoid-robots-be-heading-for-the-battlef-84626db01d",
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-apple-s-screen-time-updates-are-too-little-too-l-ea97179597",
+      "title": "Apple’s Screen Time updates are too little, too late",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
       "tag": "Technology",
-      "publishedAt": "2026-06-08T23:06:30.000Z",
-      "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+      "publishedAt": "2026-06-08T23:41:00.000Z",
+      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
