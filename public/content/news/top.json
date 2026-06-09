@@ -1,65 +1,85 @@
 {
-  "updatedAt": "2026-06-08T23:58:33.729Z",
+  "updatedAt": "2026-06-09T03:38:32.373Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-australia-news-live-abc-boss-says-pickering-did--bd36da889d",
-      "title": "Australia news live: ABC boss says Pickering did not violate code with Tame comments; Hanson claims ‘no wonder’ Victorian premier called ‘witch’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/09/anthony-albanese-labor-one-nation-pauline-hanson-coalition-angus-taylor-ndis-jacinta-allan-victoria-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-06-08T23:50:10.000Z",
-      "summary": "Hugh Marks says Charlie Pickering’s comments to Avi Yemini about Grace Tame hosting an ABC podcast were ‘his own view’ Get our breaking news email , free app or daily news podca...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-mamata-abhishek-banerjee-in-delhi-tmc-mutiny-spr-11ef9c601a",
-      "title": "Mamata & Abhishek Banerjee in Delhi, TMC mutiny spreads to Parliament",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/mamata-abhishek-banerjee-in-delhi-tmc-mutiny-spreads-to-parliament/articleshow/131599029.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-08T23:43:02.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-openai-plans-to-go-public-intensifying-investmen-bc96bf39d8",
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-06-08T23:37:21.000Z",
-      "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-maine-s-platner-faces-test-as-four-us-states-hol-58b22d3399",
-      "title": "Maine’s Platner faces test as four US states hold midterm primary votes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/maines-platner-faces-test-as-four-us-states-hold-midterm-primary-votes?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-08T23:25:17.000Z",
-      "summary": "Four states - Maine, Nevada, South Carolina and North Dakota - are holding primaries ahead of November's midterms.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-president-murmu-to-confer-padma-awards-on-june-2-8912a413b3",
-      "title": "President Murmu to confer Padma awards on June 23",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/president-murmu-to-confer-padma-awards-on-june-23/article71078207.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-08T23:14:02.000Z",
-      "summary": "The President has approved the conferment of 131 Padma awards this year, including to actors Mammootty and R. Madhavan, as well as the late Satish Shah, whose kin will receive t...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-live-updates-israel-halts-iran-strikes-after-tru-4b319dd41e",
-      "title": "Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say",
+      "id": "news-israel-halts-iran-strikes-after-trump-claims-pro-2a6e47f82c",
+      "title": "Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
       "tag": "US",
-      "publishedAt": "2026-06-08T21:53:17.000Z",
+      "publishedAt": "2026-06-09T03:33:18.000Z",
       "summary": "Prime Minister Benjamin Netanyahu said that Israel’s “fire is on hold” after a phone call with President Trump. Iran also said it would cease its attacks but, like Israel, warne...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-u-s-judge-strikes-down-trump-s-100-000-h-1b-visa-30d0eb051f",
+      "title": "U.S. judge strikes down Trump’s $100,000 H-1B visa fee, calls it unlawful",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trumps-100000-h-1b-visa-fee-is-unlawful-us-judge-rules/article71078198.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-06-09T03:32:59.000Z",
+      "summary": "U.S. District Judge Leo Sorokin in Boston issued the ruling in ‌a lawsuit filed by 20 Democratic state attorneys general challenging a fee Mr. Trump ‌announced in September that...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-organised-factory-of-hate-india-tears-into-pakis-7b11dc978b",
+      "title": "'Organised factory of hate': India tears into Pakistan's 'Fitna al Hindustan' campaign at UN",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/organised-factory-of-hate-india-tears-into-pakistans-fitna-al-hindustan-campaign-at-un/articleshow/131600575.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-09T03:25:09.000Z",
+      "summary": "India has strongly condemned Pakistan's alleged state-sponsored propaganda campaign at the United Nations, accusing Islamabad of labeling militant groups as 'Fitna al Hindustan'...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-news-live-cost-of-living-pressures-bac-d2e2bd9d90",
+      "title": "Australia news live: cost-of-living pressures ‘back with a vengeance’; ASX slumps amid tech selloff",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/09/anthony-albanese-labor-one-nation-pauline-hanson-coalition-angus-taylor-ndis-jacinta-allan-victoria-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-06-09T03:12:33.000Z",
+      "summary": "Analysis finds Australians have lower life satisfaction now than during height of Covid pandemic. Follow live Get our breaking news email , free app or daily news podcast ‘If Au...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iit-mandi-launches-b-tech-programme-in-quantum-s-97f2b3edae",
+      "title": "IIT Mandi launches B.Tech programme In Quantum Science And Engineering",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/iit-mandi-launches-b-tech-programme-in-quantum-science-and-engineering-11610089",
+      "tag": "India",
+      "publishedAt": "2026-06-09T03:03:58.000Z",
+      "summary": "IIT Mandi launches three new BTech courses in quantum science engineering agricultural engineering with data analytics and chemical engineering with data analytics.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-warns-netanyahu-you-ll-be-on-your-own-if-a-abf7f04037",
+      "title": "Trump warns Netanyahu: ‘You’ll be on your own’ if attacks on Iran continue",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-09T02:41:11.000Z",
+      "summary": "Trump's warning comes as Israel and Iran pause attacks and indirect talks to reach a peace deal continue.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-adds-byd-to-list-of-firms-with-alleged-chines-6bc86d3d9a",
+      "title": "US adds BYD to list of firms with alleged Chinese military ties",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-06-09T02:18:47.000Z",
+      "summary": "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-great-nicobar-project-will-serve-strategic-inter-59a71d61d5",
+      "title": "‘Great Nicobar project will serve strategic interests, emerge as maritime focal point’",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/great-nicobar-project-will-serve-strategic-interests-emerge-as-maritime-focal-point-10730449",
+      "tag": "India",
+      "publishedAt": "2026-06-09T01:00:45.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-dalit-teen-beaten-to-death-over-inter-caste-frie-b36816a1f0",
-      "title": "Dalit Teen Beaten To Death Over Inter-Caste Friendship In Uttarakhand: Cops",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/dalit-teen-beaten-to-death-over-inter-caste-friendship-in-uttarakhand-cops-11609617",
-      "tag": "India",
-      "publishedAt": "2026-06-08T19:16:31.000Z",
-      "summary": "An 18-year-old Dalit youth was allegedly beaten to death and his friend severely injured over his friendship with a minor girl from an upper caste community in the Pratapnagar b...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-first-a-blast-then-molten-steel-at-1-500-c-falls-de19f5932e",
-      "title": "First a blast, then molten steel at 1,500°C falls to floor: What we know about Vizag Steel Plant accident",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/vizag-steel-plant-blast-rinl-visakhapatnam-accident-deaths-investigation-10730294",
-      "tag": "India",
-      "publishedAt": "2026-06-08T16:56:37.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-must-build-its-own-gold-mining-ecosystem-a19544039d",
       "title": "India must build its own gold mining ecosystem",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-adam-schiff-calls-for-senate-to-vigorously-oppos-883faea66c",
-      "title": "Adam Schiff calls for Senate to ‘vigorously oppose’ Trump’s effort to make Todd Blanche his permanent attorney general – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/08/us-politics-latest-news-updates-trump-california-governor-midterm-elections",
-      "tag": "Europe",
-      "publishedAt": "2026-06-08T23:37:41.000Z",
-      "summary": "California Democratic senator says Blanche ‘has been unable to put aside his role as Donald Trump’s criminal defense lawyer and represent the American people instead’ Trump nomi...",
+      "id": "news-indian-diaspora-groups-welcome-court-ruling-stri-19fb1def36",
+      "title": "Indian diaspora groups welcome court ruling striking down $100,000 H-1B visa fee",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/indian-diaspora-groups-welcome-court-ruling-striking-down-100000-h-1b-visa-fee/article71079145.ece",
+      "tag": "India",
+      "publishedAt": "2026-06-09T03:31:08.000Z",
+      "summary": "A federal judge on Monday (June 8, 2026) struck down the $100,000 fee imposed by U.S. President Donald Trump for H-1B applications",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-digital-2-0-access-to-mobiles-up-but-not-empower-035a1a51d5",
-      "title": "Digital 2.0: Access to mobiles up, but not empowerment",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/digital-2-0-access-to-mobiles-up-but-not-empowerment/articleshow/131598964.cms",
+      "id": "news-president-murmu-to-confer-padma-awards-on-june-2-d41ad98e29",
+      "title": "President Murmu to confer Padma awards on June 23",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/president-murmu-to-confer-padma-awards-on-june-23/article71078207.ece",
       "tag": "India",
-      "publishedAt": "2026-06-08T23:31:26.000Z",
-      "summary": "The first challenge was owning a phone. The next is about whether people can use it to access education, jobs, finance and welfare services",
+      "publishedAt": "2026-06-09T03:14:30.000Z",
+      "summary": "The President has approved the conferment of 131 Padma awards this year, including to actors Mammootty and R. Madhavan, as well as the late Satish Shah, whose kin will receive t...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
