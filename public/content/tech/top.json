@@ -1,7 +1,67 @@
 {
-  "updatedAt": "2026-06-09T13:37:15.922Z",
+  "updatedAt": "2026-06-09T16:25:28.024Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-apple-s-foldable-iphone-could-be-just-around-the-9faf66c0af",
+      "title": "Apple’s foldable iPhone could be just around the corner",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T16:22:56.000Z",
+      "summary": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-eu-orders-meta-to-open-whatsapp-to-rival-ai-chat-b787a8fa70",
+      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T16:16:12.000Z",
+      "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xenoblade-genesis-the-next-mainline-entry-in-the-8a81885ff6",
+      "title": "Xenoblade Genesis, the next mainline entry in the action RPG franchise, launches in 2027",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2190537/xenoblade-genesis-the-next-mainline-entry-in-the-action-rpg-franchise-launches-in-2027",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T16:01:46.000Z",
+      "summary": "Nintendo dropped a lot of news for Xenoblade fans this morning.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-military-claims-first-drone-boat-rescue-of-do-0d894a2207",
+      "title": "US military claims first drone boat rescue of downed helicopter crew",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T15:44:36.000Z",
+      "summary": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-james-webb-space-telescope-weighs-most-distant-d-a1c4f82b35",
+      "title": "James Webb Space Telescope Weighs Most Distant Dormant Black Hole Ever Detected",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/jwst-weighs-most-distant-dormant-black-hole-ever-found-11611943",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T15:35:42.000Z",
+      "summary": "Using JWST and a natural gravitational lens, astronomers measured a six-billion-solar-mass dormant black hole more than 10 billion light-years away. The discovery offers a rare...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-square-enix-teases-kingdom-hearts-4-at-nintendo--1c9f333ede",
+      "title": "Square Enix teases Kingdom Hearts 4 at Nintendo Direct",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2",
+      "tag": "Technology",
+      "publishedAt": "2026-06-09T15:03:14.000Z",
+      "summary": "A different kind of Sora is back in the news. Square Enix just teased the long-awaited next entry in the Kingdom Hearts series, though there's not much in the way of info just y...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-longevity-startup-doses-first-human-in-bid-to-re-ed6fbcb1ac",
       "title": "Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss",
@@ -9,37 +69,7 @@
       "url": "https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss",
       "tag": "Technology",
       "publishedAt": "2026-06-09T13:23:53.000Z",
-      "summary": "It will be the first time ER-100 technology they claim can reverse aging in cells has been tested on a human.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-dials-down-liquid-glass-and-the-mac-looks--dad5268a9d",
-      "title": "Apple dials down Liquid Glass, and the Mac looks way better for it",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T13:04:39.000Z",
-      "summary": "MacOS 27 Golden Gate will usher in a bunch of changes to the Mac when it's released later this year, with its biggest new features revolving around Siri AI. But for now, using t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-lovable-says-it-has-hit-500m-in-annualized-reven-25311b8dcc",
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T13:00:00.000Z",
-      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-2027-rivian-r2-first-drive-rivian-s-second-suv-i-335c805b3d",
-      "title": "2027 Rivian R2 first drive: Rivian's second SUV is its best yet",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2188202/2027-rivian-r2-first-drive",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T13:00:00.000Z",
-      "summary": "It's not perfect, but Rivian's latest shows this company is playing for keeps.",
+      "summary": "The FDA recently approved the cellular rejuvenation therapy ER-100 for human clinical trials. While vision is the first target, it could have applications for a variety of age-r...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ai-giants-race-to-raise-funds-heats-up-as-chatgp-0660868caa",
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T08:02:43.000Z",
-      "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-nvidia-s-ai-pc-push-banks-on-unproven-demand-bey-3b6ef8ff66",
       "title": "Nvidia's AI PC push banks on unproven demand beyond niche users",
       "source": "The Hindu Technology",
@@ -70,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-09T06:34:53.000Z",
       "summary": "Nvidia, though, appears to be selling a different version of the AI PC than what ‌exists today, one aimed more at developers and content creators who have long favoured Apple’s...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-fcc-lifts-looming-deadline-for-amazon-leo-satell-8d34b04954",
-      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T00:59:40.000Z",
-      "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-rivian-r2-is-too-much-fun-to-let-drive-itsel-370fb38e9f",
-      "title": "The Rivian R2 is too much fun to let drive itself",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/946398/rivian-r2-review-price-specs-ai-ev",
+      "id": "tech-it-s-not-faang-anymore-it-s-mangos-cc81e64209",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T13:00:00.000Z",
-      "summary": "Rivian may be all in on robotaxis and autonomy, but it's still got human drivers - and EV buyers - to win over. The pricey R1S SUV and R1T pickup brought Rivian A-list media att...",
+      "publishedAt": "2026-06-09T16:09:14.000Z",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-rivian-r2-2026-specs-price-availability-ff5fdfb141",
-      "title": "Rivian R2 2026: Specs, Price, Availability",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/rivian-r2-first-drive",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T13:00:00.000Z",
-      "summary": "With a competitive price, winning design, and better performance than the R1, Rivian could be set to break into the big leagues. Just make sure you get the right model with the...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-grave-seasons-adds-murder-mystery-to-cozy-farmin-f325471bc5",
-      "title": "Grave Seasons adds murder mystery to cozy farming and friendship mechanics",
+      "id": "tech-new-hd-2d-final-fantasy-announced-for-consoles-a-d52e7990e9",
+      "title": "New HD-2D Final Fantasy announced for consoles and PC",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2189037/grave-seasons-adds-murder-mystery-to-cozy-farming-and-friendship-mechanics",
+      "url": "https://www.engadget.com/2190521/new-hd-2d-final-fantasy-announced-for-consoles-and-pc",
       "tag": "Technology",
-      "publishedAt": "2026-06-09T13:00:00.000Z",
-      "summary": "Occult murders and farming sims, together at last.",
+      "publishedAt": "2026-06-09T15:50:17.000Z",
+      "summary": "Final Fantasy Resonance is the first game in the series to employ the popular modern-retro art style.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
