@@ -1,7 +1,67 @@
 {
-  "updatedAt": "2026-06-11T00:08:42.443Z",
+  "updatedAt": "2026-06-11T05:21:08.150Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-openai-expects-to-go-public-within-the-next-year-8f97ad4d9c",
+      "title": "OpenAI expects to go public 'within the next year’: Report",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-expects-to-go-public-within-the-next-year-report/article71087529.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T05:19:07.000Z",
+      "summary": "OpenAI did not disclose the size ⁠or terms of the offering, and said a timeline has not yet been determined",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-social-media-on-trial-four-important-cases-to-wa-a7a865967a",
+      "title": "Social media on trial: Four important cases to watch",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T05:02:29.000Z",
+      "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nike-promo-codes-and-discounts-30-for-june-2026-9f5eae1191",
+      "title": "Nike Promo Codes and Discounts: 30% for June 2026",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nike-promo-code",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T05:00:00.000Z",
+      "summary": "Check out our deals for Nike this June 2026, including 15% off select purchases.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-oppo-k15-listing-on-certification-website-reveal-3f0a8f5463",
+      "title": "Oppo K15 Listing on Certification Website Reveals Key Specifications and Features Ahead of Anticipated Launch",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/oppo-k15-chipset-display-camera-battery-listed-tenaa-certification-specifications-features-11620735",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T04:41:41.000Z",
+      "summary": "Oppo K15 has been spotted on the Telecommunication Equipment Certification Centre (TENAA) database in China with the model number PYD110, hinting at an imminent launch in the co...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-opendoor-s-india-exit-is-fueling-a-bigger-conver-5b89702c98",
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T04:02:19.000Z",
+      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-zoho-s-made-in-india-server-exponent-energy-secu-1de3e94094",
+      "title": "Zoho’s made-in-India server; Exponent Energy secures Rs 200 Cr",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/06/zohos-made-in-india-server-exponent-energy",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T02:00:00.000Z",
+      "summary": "The Nathu La server, based on Intel Xeon 6 Processors, is designed to optimise performance for virtualisation (VM), High Performance Computing (HPC), AI inference, and storage a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-bluesky-is-getting-communities-1259060acb",
       "title": "Bluesky is getting ‘communities’",
@@ -23,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-xai-fired-an-engineer-who-raised-alarms-about-gr-06f2705811",
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims",
-      "tag": "Technology",
-      "publishedAt": "2026-06-10T22:31:19.000Z",
-      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-diabetes-org-apologizes-for-ejecting-scientists--f82db494f3",
       "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
       "source": "Ars Technica",
@@ -40,56 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-10T22:16:57.000Z",
       "summary": "For days after the stunning incident, the ADA had doubled-down on the choice.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cisa-tells-us-agencies-to-fix-security-bugs-in-a-63b0ec2f71",
-      "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive",
-      "tag": "Technology",
-      "publishedAt": "2026-06-10T20:55:40.000Z",
-      "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-astronomers-discover-two-galaxies-that-appear-to-575c17e75f",
-      "title": "Astronomers Discover Two Galaxies That Appear to Lack Dark Matter",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/science/news/astronomers-discover-two-galaxies-that-appear-to-lack-dark-matter-11617375",
-      "tag": "Technology",
-      "publishedAt": "2026-06-10T14:45:39.000Z",
-      "summary": "Researchers studying FCC 224 and FCC 240 in the Fornax Cluster found evidence that both galaxies contain surprisingly little dark matter. The discovery supports the idea that ga...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nine-indian-startups-join-wef-s-tech-pioneers-co-66900fb221",
-      "title": "Nine Indian startups join WEF's Tech Pioneers cohort",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/nine-indian-startups-join-wefs-tech-pioneers-cohort",
-      "tag": "Technology",
-      "publishedAt": "2026-06-10T12:58:15.000Z",
-      "summary": "The WEF said these 100 early-stage startups from 23 countries are building the infrastructure for the next era of AI and are developing breakthrough technologies with the potent...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-can-ai-help-home-cooks-serve-up-lip-smacking-rec-4a66e0c144",
-      "title": "Can AI help home cooks serve up lip-smacking recipes?",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/can-ai-help-home-cooks-serve-up-lip-smacking-recipes/article71084092.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-10T09:18:13.000Z",
-      "summary": "While AI chatbots might help beginners use up their leftover ingredients or fix flavour mistakes, more experienced cooks share some food for thought",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-kalshi-to-make-some-users-reveal-job-details-to--a382d51f3a",
-      "title": "Kalshi to make some users reveal job details to tackle insider trading",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-09T22:32:31.000Z",
-      "summary": "After issues with insider trading, the prediction betting platform is adding new rules.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-framework-delays-its-first-laptop-13-pro-shipmen-9e0fbe6ab1",
-      "title": "Framework delays its first Laptop 13 Pro shipments by a month",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+      "id": "tech-openai-says-chinese-propaganda-is-being-deployed-c0e25ab34e",
+      "title": "OpenAI says Chinese propaganda is being deployed to foment dissent over tariffs, data centres",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-says-chinese-propaganda-is-being-deployed-to-foment-dissent-over-tariffs-data-centres/article71087517.ece",
       "tag": "Technology",
-      "publishedAt": "2026-06-10T23:12:51.000Z",
-      "summary": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's s...",
+      "publishedAt": "2026-06-11T05:01:26.000Z",
+      "summary": "OpenAI said it caught one set of Chinese-speaking users using ChatGPT to come up with slogans and cartoons critiquing Trump’s trade and tech policy ​that were later posted to ‌X",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-xbox-ceo-says-current-margins-cannot-continue-in-dd5425e5cf",
-      "title": "Xbox CEO says current margins 'cannot continue' in public letter to staff",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2191897/xbox-ceo-says-current-margins-cannot-continue-in-public-letter-to-staff",
+      "id": "tech-home-depot-promo-codes-50-off-in-june-2026-2fd60be821",
+      "title": "Home Depot Promo Codes: 50% Off in June 2026",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/home-depot-promo-code",
       "tag": "Technology",
-      "publishedAt": "2026-06-10T23:05:00.000Z",
-      "summary": "The more things change, the more they stay the same.",
+      "publishedAt": "2026-06-11T05:00:00.000Z",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
