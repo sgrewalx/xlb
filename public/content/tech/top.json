@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-06-11T14:30:19.750Z",
+  "updatedAt": "2026-06-11T18:05:01.434Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-with-the-world-cup-looming-there-s-still-no-clea-54ce662c5c",
-      "title": "With the World Cup looming, there’s still no clear replacement for sports Twitter",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/947956/world-cup-2026-social-media",
-      "tag": "Technology",
-      "publishedAt": "2026-06-11T14:30:00.000Z",
-      "summary": "Three years ago, when the women's World Cup kicked off in Australia and New Zealand, my social feeds were in a strange place. Twitter had just transformed into X, newcomer Threa...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-doordash-s-new-ai-chatbot-lets-you-order-with-pr-92bf1cc0d7",
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos",
-      "tag": "Technology",
-      "publishedAt": "2026-06-11T14:23:43.000Z",
-      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-stranger-than-heaven-hands-on-harder-than-yakuza-6eeb7cb6f6",
-      "title": "Stranger than Heaven hands-on: Harder than Yakuza?",
+      "id": "tech-waymo-s-monthly-membership-seems-like-a-bad-deal-dce59e147d",
+      "title": "Waymo's monthly membership seems like a bad deal",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2191763/stranger-than-heaven-hands-on-harder-than-yakuza",
+      "url": "https://www.engadget.com/2192435/waymos-monthly-membership-seems-like-a-bad-deal",
       "tag": "Technology",
-      "publishedAt": "2026-06-11T14:00:00.000Z",
-      "summary": "Set across mid-twentieth century Japan, RGG's latest has an entirely new fighting system.",
+      "publishedAt": "2026-06-11T17:54:21.000Z",
+      "summary": "Waymo will happily relieve you of $30 a month in exchange for not a whole lot.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-samsung-galaxy-s25-gets-new-galaxy-ai-features-f-efaf28e3fa",
-      "title": "Samsung Galaxy S25 Gets New Galaxy AI Features From Galaxy S26 With New One UI 8.5 Update",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/samsung-one-ui-8-5-galaxy-ai-features-roll-out-galaxy-s25-11623481",
+      "id": "tech-roborock-s-q10-s5-plus-robovac-is-over-half-off--f884000cd9",
+      "title": "Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-06-11T13:53:08.000Z",
-      "summary": "Samsung has reportedly started rolling out a new One UI 8.5 update for the Galaxy S25 series in South Korea. The release adds several Galaxy AI features that were previously lim...",
+      "publishedAt": "2026-06-11T17:42:29.000Z",
+      "summary": "Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especial...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-s-edits-app-is-getting-an-ai-assistant-and--10add68534",
+      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T17:30:00.000Z",
+      "summary": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-did-iron-age-britons-remove-brains-of-the-dead-f1385e2340",
+      "title": "Did Iron Age Britons remove brains of the dead?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T17:21:53.000Z",
+      "summary": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-jwst-reveals-the-true-identity-of-mysterious-lit-df545aa4d8",
+      "title": "JWST Reveals the True Identity of Mysterious Little Red Dots",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/science/news/jwst-reveals-the-true-identity-of-mysterious-little-red-dots-11622831",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T16:49:48.000Z",
+      "summary": "Using JWST, astronomers obtained the most detailed spectrum yet of a little red dot and found evidence that these mysterious objects are rapidly growing black holes wrapped in d...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-who-is-elon-musk-and-what-is-his-net-worth-88041b74d8",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T16:14:31.000Z",
+      "summary": "The boss of X, Tesla and SpaceX is the world's richest person - and might even soon become a trillionaire.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-drug-sites-hijacked-spotify-s-search-ranking-thr-172b704c7a",
+      "title": "Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds",
+      "tag": "Technology",
+      "publishedAt": "2026-06-11T16:07:30.000Z",
+      "summary": "A joint congressional report describes a spam operation that turned tens of thousands of fake podcasts into search-engine bait for illegal pharmacy and scam sites.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-alaskans-will-be-flying-blind-after-nsf-decommis-939f6de68b",
-      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network",
-      "tag": "Technology",
-      "publishedAt": "2026-06-11T13:19:00.000Z",
-      "summary": "Alaska's multibillion-dollar fishing industry and vulnerable coastal communities at risk.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-iit-bhubaneswar-develops-hand-held-device-to-det-3b6318e0fd",
       "title": "IIT Bhubaneswar develops hand-held device to detect arsenic",
       "source": "The Hindu Technology",
@@ -70,26 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-11T13:04:30.000Z",
       "summary": "ArsenSafe, the device, can accurately detect arsenic without the need for laboratory infrastructure and chemicals, making water-quality assessment faster and more accessible",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-best-smart-chess-boards-2026-chessnut-millennium-cff761a8a1",
-      "title": "Best Smart Chess Boards (2026): Chessnut, Millennium",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/best-smart-chess-boards",
-      "tag": "Technology",
-      "publishedAt": "2026-06-11T12:01:00.000Z",
-      "summary": "I played the ultimate game of strategy on a variety of smart chess boards to find the best for online and in-person matches.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-social-media-on-trial-four-important-cases-to-wa-a7a865967a",
-      "title": "Social media on trial: Four important cases to watch",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-11T05:02:29.000Z",
-      "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-endurance-energy-raises-54m-to-harness-a-massive-65bdb1de53",
-      "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source",
+      "id": "tech-reddit-now-lets-you-post-videos-in-comments-9401a703b6",
+      "title": "Reddit now lets you post videos in comments",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2192400/reddit-now-lets-you-post-videos-in-comments",
       "tag": "Technology",
-      "publishedAt": "2026-06-11T14:00:12.000Z",
-      "summary": "SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
+      "publishedAt": "2026-06-11T17:28:07.000Z",
+      "summary": "Reddit comments now allow videos.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-i-m-glad-apple-isn-t-hyping-up-agentic-ai-yet-c184b8b080",
-      "title": "I'm glad Apple isn't hyping up agentic AI (yet)",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2192124/im-glad-apple-isnt-hyping-up-agentic-ai-yet",
+      "id": "tech-amazon-s-data-centers-used-2-5-billion-gallons-o-5bc56d78c3",
+      "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
       "tag": "Technology",
-      "publishedAt": "2026-06-11T13:45:51.000Z",
-      "summary": "Apple is more focused on delivering usable features with Siri AI, instead of hyping up agentic AI. That's a good thing.",
+      "publishedAt": "2026-06-11T17:26:57.000Z",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for th...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
