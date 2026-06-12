@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-06-12T19:53:10.950Z",
+  "updatedAt": "2026-06-12T21:23:54.517Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-dji-and-insta360-are-in-a-patent-battle-over-vlo-6ba650a295",
-      "title": "DJI and Insta360 are in a patent battle over vlogging cameras",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2193431/dji-and-insta360-are-in-a-patent-battle-over-vlogging-cameras",
+      "id": "tech-tell-him-he-s-a-piece-of-shit-meta-s-new-ai-unit-426b549443",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T19:37:07.000Z",
-      "summary": "DJI and Insta360 are suing and counter-suing each other over their respective vlogging cameras.",
+      "publishedAt": "2026-06-12T21:16:25.000Z",
+      "summary": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-president-gwynne-shotwell-just-gave-anoth-271d6f01b3",
-      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+      "id": "tech-chinese-cybercrime-operation-that-used-ai-to-sca-e0cdefe284",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T19:28:31.000Z",
-      "summary": "A SpaceX-Tesla merger seems inevitable.",
+      "publishedAt": "2026-06-12T20:38:09.000Z",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nothing-ceo-says-phone-prices-are-going-to-keep--482c8d56b4",
+      "title": "Nothing CEO says phone prices are going to keep going up",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "tag": "Technology",
+      "publishedAt": "2026-06-12T20:02:48.000Z",
+      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-spacex-ipo-broke-robinhood-for-some-people-b5ee336630",
+      "title": "The SpaceX IPO broke Robinhood for some people",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2193459/the-spacex-ipo-broke-robinhood-for-some-people",
+      "tag": "Technology",
+      "publishedAt": "2026-06-12T19:54:23.000Z",
+      "summary": "Some Robinhood users looking to cash in on the SpaceX IPO were met with technical issues.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,26 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-12T19:26:47.000Z",
       "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-world-s-first-trillionaire-is-a-killer-7e4fb81275",
-      "title": "The world’s first trillionaire is a killer",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
-      "tag": "Technology",
-      "publishedAt": "2026-06-12T18:46:40.000Z",
-      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-donald-trump-s-white-house-ufc-event-would-be-em-6783946d8e",
-      "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere",
-      "tag": "Technology",
-      "publishedAt": "2026-06-12T18:03:25.000Z",
-      "summary": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-controversial-fisa-spying-law-expires-tonight-th-6e797ee65c",
-      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue",
+      "id": "tech-spacex-ipo-closes-up-19-and-delivers-the-world-s-5299396c4f",
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T18:57:51.000Z",
-      "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027.",
+      "publishedAt": "2026-06-12T20:20:00.000Z",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-here-s-what-jeff-bezos-new-startup-prometheus-wi-7b85b23d6c",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do",
+      "id": "tech-spacex-ipo-live-updates-on-everything-you-need-t-87d4bb462a",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T18:45:40.000Z",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
+      "publishedAt": "2026-06-12T20:04:38.000Z",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
