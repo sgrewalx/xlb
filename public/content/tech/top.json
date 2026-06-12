@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-06-12T17:31:16.074Z",
+  "updatedAt": "2026-06-12T19:53:10.950Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-google-sues-alleged-chinese-cybercrime-operation-2173b62436",
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "id": "tech-dji-and-insta360-are-in-a-patent-battle-over-vlo-6ba650a295",
+      "title": "DJI and Insta360 are in a patent battle over vlogging cameras",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2193431/dji-and-insta360-are-in-a-patent-battle-over-vlogging-cameras",
+      "tag": "Technology",
+      "publishedAt": "2026-06-12T19:37:07.000Z",
+      "summary": "DJI and Insta360 are suing and counter-suing each other over their respective vlogging cameras.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spacex-president-gwynne-shotwell-just-gave-anoth-271d6f01b3",
+      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts",
+      "url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T17:26:08.000Z",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "publishedAt": "2026-06-12T19:28:31.000Z",
+      "summary": "A SpaceX-Tesla merger seems inevitable.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-130-billion-in-data-center-projects-blocked-by-p-7e6a865f60",
-      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "id": "tech-peoplesoft-0-day-affecting-hundreds-of-organizat-86052ac170",
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T17:18:49.000Z",
-      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
+      "publishedAt": "2026-06-12T19:26:47.000Z",
+      "summary": "Vulnerability in the Oracle-owned PeopleSoft software is about as critical as they come.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-china-didn-t-make-people-hate-data-centers-7990292432",
-      "title": "China Didn't Make People Hate Data Centers",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/china-us-data-center-opposition",
-      "tag": "Technology",
-      "publishedAt": "2026-06-12T17:17:10.000Z",
-      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-siri-is-good-now-b7234c5302",
-      "title": "Siri is good now??",
+      "id": "tech-the-world-s-first-trillionaire-is-a-killer-7e4fb81275",
+      "title": "The world’s first trillionaire is a killer",
       "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T17:17:04.000Z",
-      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I...",
+      "publishedAt": "2026-06-12T18:46:40.000Z",
+      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-donald-trump-s-white-house-ufc-event-would-be-em-6783946d8e",
+      "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere",
+      "tag": "Technology",
+      "publishedAt": "2026-06-12T18:03:25.000Z",
+      "summary": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-12T16:44:29.000Z",
       "summary": "The boss of X, Tesla and SpaceX, already the world's richest person, is now also its first trillionaire.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-predictably-sam-bankman-fried-s-fraud-conviction-51014e03b0",
-      "title": "Predictably, Sam Bankman-Fried's fraud conviction appeal has been denied",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2193154/sam-bankman-frieds-fraud-conviction-appeal-has-been-denied",
-      "tag": "Technology",
-      "publishedAt": "2026-06-12T16:23:07.000Z",
-      "summary": "Three judges denied Sam Bankman-Fried's fraud conviction appeal. Is anyone the least but surprised.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-robinhood-sees-record-breaking-traffic-after-spa-a75aa2c296",
-      "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts",
+      "id": "tech-controversial-fisa-spying-law-expires-tonight-th-6e797ee65c",
+      "title": "Controversial FISA spying law expires tonight. The spying will continue.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T17:05:06.000Z",
-      "summary": "The trading platform says some customers experienced intermittent disruptions, but that those issues have resolved.",
+      "publishedAt": "2026-06-12T18:57:51.000Z",
+      "summary": "Section 702 of FISA to expire tonight, but certification lasts until March 2027.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-when-it-comes-to-total-water-use-ai-data-centers-112b02be54",
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "id": "tech-here-s-what-jeff-bezos-new-startup-prometheus-wi-7b85b23d6c",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do",
       "tag": "Technology",
-      "publishedAt": "2026-06-12T16:51:38.000Z",
-      "summary": "Even moderately sized data centers can have an outsized local impact.",
+      "publishedAt": "2026-06-12T18:45:40.000Z",
+      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
