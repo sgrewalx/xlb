@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-06-13T11:47:10.078Z",
+  "updatedAt": "2026-06-13T13:25:54.202Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-my-yard-is-dying-so-i-made-an-app-for-that-6d8489af83",
+      "title": "My yard is dying, so I made an app for that",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "tag": "Technology",
+      "publishedAt": "2026-06-13T13:00:00.000Z",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel i...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-report-on-the-benefits-of-ai-was-reportedly-fu-2cd0e1c907",
+      "title": "A report on the benefits of AI was reportedly full of AI hallucinations",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2193679/kpmg-paper-ai-hallucinations",
+      "tag": "Technology",
+      "publishedAt": "2026-06-13T12:39:29.000Z",
+      "summary": "KPMG published a paper about the benefits of AI last year. An investigation found that it was full of AI hallucinations.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-astronomers-discover-why-massive-galaxies-died-e-3a53a80641",
       "title": "Astronomers Discover Why Massive Galaxies Died Early in the Universe",
@@ -23,13 +43,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-future-of-hollywood-isn-t-feeding-prompts-in-e04957a76b",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "id": "tech-threads-of-underground-fungal-networks-are-long--ae751cb869",
+      "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system",
       "tag": "Technology",
-      "publishedAt": "2026-06-13T11:00:00.000Z",
-      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology...",
+      "publishedAt": "2026-06-13T11:18:42.000Z",
+      "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-13T11:00:00.000Z",
       "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nba-streetball-crafting-with-renewable-energy-an-1995544f9c",
-      "title": "NBA streetball, crafting with renewable energy and other new indie games worth checking out",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2193482/nba-streetball-crafting-with-renewable-energy-and-other-new-indie-games-worth-checking-out",
-      "tag": "Technology",
-      "publishedAt": "2026-06-13T11:00:00.000Z",
-      "summary": "Plus, the next game from the Mouthwashing devs and trying to survive as a sentient guitar.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-shuts-down-fable-mythos-models-followi-6fc048ec06",
-      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
-      "tag": "Technology",
-      "publishedAt": "2026-06-13T03:00:34.000Z",
-      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-elon-musk-s-stratospheric-rise-to-trillionaire-s-abadb5115c",
       "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
       "source": "BBC Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-can-soccer-players-bend-their-shots-in-midai-c271194e20",
-      "title": "How Can Soccer Players Bend Their Shots in Midair?",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair",
-      "tag": "Football",
-      "publishedAt": "2026-06-13T11:00:00.000Z",
-      "summary": "As World Cup action kicks off, we look at the physics of the beautiful game.",
+      "id": "tech-anthropic-cuts-off-fable-5-and-mythos-5-access-f-52507baa31",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "tag": "Technology",
+      "publishedAt": "2026-06-13T12:55:49.000Z",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security con...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-fcc-wants-to-kill-burner-phones-231683cc3f",
-      "title": "The FCC Wants to Kill Burner Phones",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones",
+      "id": "tech-echo-isle-is-a-pint-sized-adventure-inspired-by--790b56964c",
+      "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/947136/echo-isle-review-pc",
       "tag": "Technology",
-      "publishedAt": "2026-06-13T10:30:00.000Z",
-      "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
+      "publishedAt": "2026-06-13T12:00:00.000Z",
+      "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wear...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
