@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T07:27:12.883Z",
+  "updatedAt": "2026-06-13T07:02:25.244Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-06-12T07:19:16.120Z",
-      "summary": "USGS reported 250 earthquake events in the last 24 hours. Strongest reported event: M5.5 near 128 km NW of Vallenar, Chile.",
+      "startsAt": "2026-06-13T06:39:51.825Z",
+      "summary": "USGS reported 230 earthquake events in the last 24 hours. Strongest reported event: M5.2 near 2 km WSW of Kablalan, Philippines.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,12 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-12T07:27:12.883Z",
+      "updatedAt": "2026-06-13T07:02:25.244Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-iran-us-war-watch-chilling-bahrain-aftermath-aft-e130f04e5c",
-        "video-people-in-earthquake-hit-philippines-city-call-f-f4feaa49fa"
+        "video-prime-minister-modi-receives-fresh-g7-invite-as--b85545ab54",
+        "video-pm-modi-gets-7th-consecutive-g7-invite-as-india--0b33eb38eb",
+        "video-how-much-usmnt-fans-paid-to-watch-home-opener-of-2fbcf952b9"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -35,42 +36,6 @@
       ],
       "relatedGalleryIds": [
         "gallery-quake-snapshots",
-        "gallery-topic-rotation"
-      ]
-    },
-    {
-      "id": "space-aurora-watch",
-      "slug": "aurora-watch",
-      "title": "Aurora watch",
-      "status": "monitoring",
-      "category": "space",
-      "topic": "space-weather",
-      "startsAt": "2026-06-12T07:24:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 3. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.",
-      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
-      "sourceName": "NOAA Space Weather Prediction Center",
-      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 98,
-      "rightsProfile": "public-information",
-      "cadence": "continuous",
-      "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-12T07:27:12.883Z",
-      "importance": 74,
-      "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-      "relatedVideoIds": [
-        "video-iran-us-war-watch-chilling-bahrain-aftermath-aft-e130f04e5c",
-        "video-severe-weather-pummels-several-states-across-mid-a1dddac97f"
-      ],
-      "relatedGameIds": [
-        "headline-match",
-        "timeline-sort",
-        "rapid-reaction"
-      ],
-      "relatedGalleryIds": [
-        "gallery-aurora-state",
         "gallery-topic-rotation"
       ]
     },
@@ -93,13 +58,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-12T07:27:12.883Z",
+      "updatedAt": "2026-06-13T07:02:25.244Z",
       "importance": 72,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
       "relatedVideoIds": [
-        "video-flight-takeoff-viralvideo-shorts-cf0943f6e5",
-        "video-pakistan-strikes-afghanistan-pakistan-launches-d-4297333ac8",
-        "video-us-iran-war-live-multiple-loud-explosions-in-sou-85553028df"
+        "video-spain-s-king-offers-pope-leo-xiv-a-lift-on-his-r-5ecedfe3a3"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -108,6 +71,41 @@
       ],
       "relatedGalleryIds": [
         "gallery-launch-windows",
+        "gallery-topic-rotation"
+      ]
+    },
+    {
+      "id": "space-aurora-watch",
+      "slug": "aurora-watch",
+      "title": "Aurora watch",
+      "status": "monitoring",
+      "category": "space",
+      "topic": "space-weather",
+      "startsAt": "2026-06-13T06:58:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+      "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
+      "sourceName": "NOAA Space Weather Prediction Center",
+      "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "coverageMode": "link",
+      "safeToPromote": true,
+      "heroPriority": 92,
+      "rightsProfile": "public-information",
+      "cadence": "continuous",
+      "audienceIntent": "monitor-live",
+      "updatedAt": "2026-06-13T07:02:25.244Z",
+      "importance": 71,
+      "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
+      "relatedVideoIds": [
+        "video-how-much-usmnt-fans-paid-to-watch-home-opener-of-2fbcf952b9"
+      ],
+      "relatedGameIds": [
+        "headline-match",
+        "timeline-sort",
+        "rapid-reaction"
+      ],
+      "relatedGalleryIds": [
+        "gallery-aurora-state",
         "gallery-topic-rotation"
       ]
     },
@@ -130,7 +128,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-12T07:27:12.883Z",
+      "updatedAt": "2026-06-13T07:02:25.244Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -150,7 +148,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-12T07:27:12.584Z",
+      "startsAt": "2026-06-13T07:02:24.977Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -162,13 +160,13 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-12T07:27:12.883Z",
+      "updatedAt": "2026-06-13T07:02:25.244Z",
       "importance": 68,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-spacex-stock-debut-sparks-times-square-protest-f690f25d5f",
-        "video-pakistan-strikes-afghanistan-pakistan-launches-d-4297333ac8",
-        "video-us-iran-war-live-multiple-loud-explosions-in-sou-85553028df"
+        "video-elon-musk-becomes-the-first-trillionaire-as-spac-1c40741fc8",
+        "video-elon-musk-becomes-the-world-s-first-trillionaire-e6642ae0c9",
+        "video-what-s-next-for-elon-musk-after-the-spacex-ipo-i-d490b6a58a"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -187,7 +185,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-12T07:27:12.584Z",
+      "startsAt": "2026-06-13T07:02:24.977Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -199,14 +197,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-12T07:27:12.883Z",
+      "updatedAt": "2026-06-13T07:02:25.244Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-pakistan-strikes-afghanistan-pakistan-launches-d-4297333ac8",
-        "video-us-iran-war-live-multiple-loud-explosions-in-sou-85553028df",
-        "video-trump-says-he-s-canceling-planned-strikes-on-ira-deb8f94261"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",

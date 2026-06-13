@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-12T07:27:12.040Z",
-  "sourceSnapshot": "2026-06-12T06:00:00.000Z",
+  "updatedAt": "2026-06-13T07:02:24.400Z",
+  "sourceSnapshot": "2026-06-13T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -43,13 +43,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
-      "path": "/events/clps-flight-astrobotic-griffin-1",
+      "id": "traffic-index-watch-events-aurora-watch",
+      "path": "/events/aurora-watch",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /events/clps-flight-astrobotic-griffin-1",
-      "hypothesis": "/events/clps-flight-astrobotic-griffin-1 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/aurora-watch",
+      "hypothesis": "/events/aurora-watch is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
@@ -69,13 +69,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-aurora-watch",
-      "path": "/events/aurora-watch",
+      "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
+      "path": "/events/clps-flight-astrobotic-griffin-1",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /events/aurora-watch",
-      "hypothesis": "/events/aurora-watch is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/clps-flight-astrobotic-griffin-1",
+      "hypothesis": "/events/clps-flight-astrobotic-griffin-1 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
@@ -173,13 +173,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-topics-launches",
-      "path": "/topics/launches",
+      "id": "traffic-index-watch-topics-space-weather",
+      "path": "/topics/space-weather",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /topics/launches",
-      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /topics/space-weather",
+      "hypothesis": "/topics/space-weather is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
@@ -199,13 +199,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-topics-space-weather",
-      "path": "/topics/space-weather",
+      "id": "traffic-index-watch-topics-launches",
+      "path": "/topics/launches",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /topics/space-weather",
-      "hypothesis": "/topics/space-weather is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /topics/launches",
+      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
