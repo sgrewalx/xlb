@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-13T07:02:25.407Z",
-  "snapshotFile": "merged-2026-06-13.json",
-  "capturedAt": "2026-06-13T06:00:00.000Z",
+  "updatedAt": "2026-06-14T07:52:07.568Z",
+  "snapshotFile": "merged-2026-06-14.json",
+  "capturedAt": "2026-06-14T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -42,7 +42,7 @@
     {
       "path": "/gallery",
       "pageviews": 0,
-      "searchImpressions": 7,
+      "searchImpressions": 4,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
