@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-06-15T17:50:32.512Z",
+  "updatedAt": "2026-06-15T20:45:20.016Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-anthropic-to-meet-with-white-house-over-ai-tool--b626b2a530",
-      "title": "Anthropic to meet with White House over AI tool suspension",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-15T17:46:41.000Z",
-      "summary": "The sudden meeting was called after Anthropic had to block users from just-released AI models.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-facebook-s-new-ai-tools-offer-more-of-the-same-w-b503917852",
-      "title": "Facebook's new AI tools offer more of the same, with photo-editing and question-answering capabilities",
+      "id": "tech-investigation-by-the-atlantic-reveals-many-milli-896a8e934d",
+      "title": "Investigation by The Atlantic reveals many millions of songs used for AI music training",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2194509/facebooks-new-ai-tools-offer-more-of-the-same-with-photo-editing-and-question-answering-capabilities",
+      "url": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training",
       "tag": "Technology",
-      "publishedAt": "2026-06-15T17:44:23.000Z",
-      "summary": "Don't worry, there's yet another chatbot you can ask for restaurant recommendations.",
+      "publishedAt": "2026-06-15T20:24:59.000Z",
+      "summary": "Taylor Swift, Bad Bunny and many, many more artists have had their work fed into AI models.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-big-tech-s-desperate-last-push-at-ai-regulation-6e950ac2db",
-      "title": "Big Tech’s desperate last push at AI regulation",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "tag": "Technology",
-      "publishedAt": "2026-06-15T17:44:10.000Z",
-      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-these-are-the-countries-moving-to-ban-social-med-24c6de42b7",
-      "title": "These are the countries moving to ban social media for children",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list",
-      "tag": "Technology",
-      "publishedAt": "2026-06-15T17:41:02.000Z",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-20-years-of-intel-macs-why-apple-switched-and-wh-0d4ba530e9",
-      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+      "id": "tech-uk-to-ban-social-media-for-kids-under-16-may-imp-a81c9e1838",
+      "title": "UK to ban social media for kids under 16, may impose overnight curfews",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again",
+      "url": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews",
       "tag": "Technology",
-      "publishedAt": "2026-06-15T16:32:14.000Z",
-      "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
+      "publishedAt": "2026-06-15T20:14:04.000Z",
+      "summary": "Critics say bans push kids to riskier alternatives and can be beaten with VPNs.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-fox-wants-to-take-over-your-tv-and-the-tech-insi-029b315419",
+      "title": "Fox wants to take over your TV — and the tech inside it",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
+      "tag": "Technology",
+      "publishedAt": "2026-06-15T20:04:29.000Z",
+      "summary": "Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal fo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tcl-a65k-soundbar-review-small-size-big-sound-86a03ea740",
+      "title": "TCL A65K Soundbar Review: Small Size, Big Sound",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/tcl-a65k-soundbar",
+      "tag": "Technology",
+      "publishedAt": "2026-06-15T19:57:40.000Z",
+      "summary": "Don’t be fooled by the compact size of this soundbar. It’s a solid option for smaller TVs or spaces without having to sacrifice sound quality.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-social-media-ban-bold-and-blunt-but-no-silver-bu-1a7c48fe8a",
+      "title": "Social media ban - bold and blunt, but no silver bullet",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-15T19:48:25.000Z",
+      "summary": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-s-new-ai-mode-on-facebook-pulls-from-public-a1b4ca3e86",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
+      "tag": "Technology",
+      "publishedAt": "2026-06-15T18:30:58.000Z",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-kratom-civil-war-is-heating-up-and-maha-has--a90b1c9c69",
-      "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side",
-      "tag": "Technology",
-      "publishedAt": "2026-06-15T11:00:00.000Z",
-      "summary": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, propone...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-google-s-sundar-pichai-snubbed-at-stanford-over--2b153bd9cb",
       "title": "Google’s Sundar Pichai snubbed at Stanford over Project Nimbus contract with Israel",
       "source": "The Hindu Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-under-16s-will-be-banned-from-social-media-from--52894a2cf4",
-      "title": "Under-16s will be banned from social media from early 2027",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "id": "tech-amazon-s-smart-thermostat-is-on-sale-for-just-58-ae0d5d375b",
+      "title": "Amazon’s Smart Thermostat is on sale for just $58",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-06-15T17:10:03.000Z",
-      "summary": "Sites including Instagram, YouTube and TikTok will become inaccessible for millions of children, the prime minister has announced.",
+      "publishedAt": "2026-06-15T19:33:28.000Z",
+      "summary": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especi...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-xbox-turmoil-continues-with-a-studio-closure-and-563f1a825f",
-      "title": "Xbox turmoil continues with a studio closure and executive departures",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure",
+      "id": "tech-chipmaker-nvidia-seeks-to-raise-over-25b-in-firs-4daec996f6",
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021",
       "tag": "Technology",
-      "publishedAt": "2026-06-15T17:08:35.000Z",
-      "summary": "Last week, Xbox boss Asha Sharma sent a memo warning of an Xbox \"reset\" ahead of expected layoffs, and today, Kotaku reported that Xbox plans to shut down Compulsion Games, the...",
+      "publishedAt": "2026-06-15T19:07:02.000Z",
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
