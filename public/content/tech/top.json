@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-06-16T20:37:52.879Z",
+  "updatedAt": "2026-06-16T22:47:41.133Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-anthropic-s-latest-feud-with-the-trump-admin-may-a6de193991",
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests",
+      "tag": "Technology",
+      "publishedAt": "2026-06-16T22:34:17.000Z",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-webb-telescope-has-captured-its-first-bulge--8ecf708770",
+      "title": "The Webb telescope has captured its first 'bulge fossil fragment'",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2195892/the-webb-telescope-has-captured-its-first-bulge-fossil-fragment",
+      "tag": "Technology",
+      "publishedAt": "2026-06-16T21:58:52.000Z",
+      "summary": "The funny-sounding name offers new insights into galaxy formation.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-cockroaches-scurry-around-with-thousands-of-piec-e1464f10bf",
+      "title": "Cockroaches scurry around with thousands of pieces of bacterial genomes",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes",
+      "tag": "Technology",
+      "publishedAt": "2026-06-16T21:54:41.000Z",
+      "summary": "Transferring genes across species doesn't just happen in microbes.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-leak-exposes-members-of-peter-thiel-s-secretive--78fbf05678",
       "title": "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
@@ -10,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-16T20:21:57.000Z",
       "summary": "More than 200 of the world's elites registered for a retreat whose agenda runs from panels on cult-building and sex to prepping for World War III. An associated app offers match...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spacex-valuation-balloons-to-2-6t-briefly-passes-41e3d9722d",
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon",
-      "tag": "Technology",
-      "publishedAt": "2026-06-16T20:11:00.000Z",
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,26 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-16T19:30:00.000Z",
       "summary": "The prompt that made ChatGPT generate disturbing images. What does this tell us about AI?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-us-approval-of-paramount-warner-bros-deal-surpri-fc02477b61",
-      "title": "US approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says",
-      "tag": "Technology",
-      "publishedAt": "2026-06-16T18:48:45.000Z",
-      "summary": "Trump admin green-lighting $111B deal \"reeks of corruption,\" Sen. Warren says.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-eu-won-t-pursue-a-mandatory-game-preservatio-a2cbbd41ac",
-      "title": "The EU won't pursue a mandatory game preservation law",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2195679/the-eu-wont-pursue-a-mandatory-game-preservation-law",
-      "tag": "Technology",
-      "publishedAt": "2026-06-16T18:45:28.000Z",
-      "summary": "The European Commission says it can't force publishers to preserve video games, citing existing copyright and IP law.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-all-the-latest-news-on-android-17-wear-os-7-and--1942b9f2aa",
-      "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+      "id": "tech-apple-plans-to-change-its-hide-my-email-privacy--c2c0529c53",
+      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective",
       "tag": "Technology",
-      "publishedAt": "2026-06-16T18:30:00.000Z",
-      "summary": "Google’s Android 17 update includes highlights like new floating “Bubble” app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode fo...",
+      "publishedAt": "2026-06-16T22:09:32.000Z",
+      "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-10-underrated-apple-watch-features-you-can-set-u-8966e61b45",
-      "title": "10 underrated Apple Watch features you can set up in minutes",
+      "id": "tech-evan-spiegel-doesn-t-want-you-to-call-snap-specs-e5ce98cadf",
+      "title": "Evan Spiegel doesn't want you to call Snap Specs AI glasses",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2195465/underrated-apple-watch-features",
+      "url": "https://www.engadget.com/2195862/snap-specs-ceo-evan-spiegel-interview-at-awe-2026",
       "tag": "Technology",
-      "publishedAt": "2026-06-16T18:30:00.000Z",
-      "summary": "These might not be the most popular or well-known Apple Watch features, but we think they're worth using and setting up.",
+      "publishedAt": "2026-06-16T21:15:58.000Z",
+      "summary": "Snap CEO Evan Spiegel sat with us to discuss the Snap Specs, privacy, parental controls and more. Spoiler: He says \"computing\" a lot.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
