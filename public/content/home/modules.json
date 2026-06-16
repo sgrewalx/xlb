@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T09:29:38.277Z",
+  "updatedAt": "2026-06-16T08:50:45.871Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -30,7 +30,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Jun 15, 09:23 AM"
+          "meta": "USGS Earthquake Hazards Program · Jun 16, 08:45 AM"
         },
         {
           "id": "space-aurora-watch",
@@ -38,7 +38,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Jun 15, 09:26 AM"
+          "meta": "NOAA Space Weather Prediction Center · Jun 16, 08:47 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "16d 2h",
+          "label": "15d 3h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }
@@ -124,7 +124,7 @@
         },
         {
           "label": "Home search impressions",
-          "value": "2"
+          "value": "4"
         },
         {
           "label": "Aurora pageviews",
@@ -138,7 +138,7 @@
           "href": "/events/nasa-s-spacex-crs-35",
           "label": "0 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "8 search impressions · engagement 0"
+          "meta": "6 search impressions · engagement 0"
         },
         {
           "id": "why-/games",
@@ -149,11 +149,11 @@
           "meta": "5 search impressions · engagement 0"
         },
         {
-          "id": "why-/gallery",
-          "title": "Gallery",
-          "href": "/gallery",
+          "id": "why-/",
+          "title": "Home",
+          "href": "/",
           "label": "0 views",
-          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
+          "summary": "The home page should route visitors into live events and shorts instead of acting like a static section index.",
           "meta": "4 search impressions · engagement 0"
         }
       ],

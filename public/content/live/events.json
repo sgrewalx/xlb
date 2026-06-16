@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T09:29:37.844Z",
+  "updatedAt": "2026-06-16T08:50:45.490Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-06-15T09:23:47.960Z",
-      "summary": "USGS reported 220 earthquake events in the last 24 hours. Strongest reported event: M5.2 near 53 km ENE of Hinatuan, Philippines.",
+      "startsAt": "2026-06-16T08:45:38.210Z",
+      "summary": "USGS reported 254 earthquake events in the last 24 hours. Strongest reported event: M6.7 near 43 km ESE of Palu, Indonesia.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-15T09:29:37.844Z",
+      "updatedAt": "2026-06-16T08:50:45.490Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-us-politician-purnima-nath-on-iran-deal-will-hav-6d1ef103aa",
-        "video-watch-macron-shares-pm-modi-s-france-video-with--df756cf27e",
-        "video-pm-modi-shares-nice-selfie-with-french-president-5f2e56ad42"
+        "video-trump-and-iran-reach-tentative-deal-global-news--72ff009dc0"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -58,13 +56,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-15T09:29:37.844Z",
+      "updatedAt": "2026-06-16T08:50:45.490Z",
       "importance": 72,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
-      "relatedVideoIds": [
-        "video-noida-international-airport-now-open-in-boost-fo-f94edcfa25",
-        "video-iran-strikes-israel-live-irgc-launches-fresh-mis-aea6f30fcd"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -82,8 +77,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-06-15T09:26:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-06-16T08:47:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -94,14 +89,10 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-15T09:29:37.844Z",
+      "updatedAt": "2026-06-16T08:50:45.490Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-      "relatedVideoIds": [
-        "video-us-politician-purnima-nath-on-iran-deal-will-hav-6d1ef103aa",
-        "video-watch-macron-shares-pm-modi-s-france-video-with--df756cf27e",
-        "video-pm-modi-shares-nice-selfie-with-french-president-5f2e56ad42"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -131,7 +122,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-15T09:29:37.844Z",
+      "updatedAt": "2026-06-16T08:50:45.490Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -151,7 +142,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-15T09:29:37.504Z",
+      "startsAt": "2026-06-16T08:50:45.272Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -163,11 +154,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-15T09:29:37.844Z",
-      "importance": 68,
+      "updatedAt": "2026-06-16T08:50:45.490Z",
+      "importance": 67,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-iran-strikes-israel-live-irgc-launches-fresh-mis-aea6f30fcd"
+        "video-how-elon-musk-nearly-lost-everything-before-spac-25640d91fc"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -186,7 +177,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-15T09:29:37.504Z",
+      "startsAt": "2026-06-16T08:50:45.273Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -198,12 +189,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-15T09:29:37.844Z",
+      "updatedAt": "2026-06-16T08:50:45.490Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-iran-strikes-israel-live-irgc-launches-fresh-mis-aea6f30fcd"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
