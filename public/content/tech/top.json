@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-06-17T19:59:31.425Z",
+  "updatedAt": "2026-06-17T22:01:37.216Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-tim-cook-says-ram-expenses-are-unsustainable-and-7114c49d4f",
+      "title": "Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T21:42:21.000Z",
+      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoida...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-chi-hua-chien-saw-facebook-coming-now-he-says-th-17537b3c15",
+      "title": "Chi-Hua Chien saw Facebook coming; now he says the real AI winners won’t be selling AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T21:30:50.000Z",
+      "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-iphone-air-2-will-reportedly-land-next-sprin-5b37b75b2b",
+      "title": "The iPhone Air 2 will reportedly land next spring with a second camera",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2196866/iphone-air-2-will-reportedly-land-next-spring-with-a-second-camera",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T21:21:31.000Z",
+      "summary": "The ultralight may become a permanent fixture in Apple's smartphone lineup.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-sooner-than-expected-useful-quantum-error-correc-907de17207",
+      "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T20:44:32.000Z",
+      "summary": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-telegram-was-warned-about-misuse-before-blanket--b1b7cf6138",
       "title": "Telegram was warned about misuse before blanket ban, says NTA chief",
@@ -10,46 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-17T19:50:18.000Z",
       "summary": "Telegram founder had promised to make the ‘edited’ label more visible, but it was not done, says NTA Director-General Abhishek Singh, adding that the messaging app has to “adher...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ftc-lawsuit-reveals-how-subscription-scam-networ-cc20b36181",
-      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T19:46:16.000Z",
-      "summary": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-coding-agents-can-autonomously-direct-robot-t-75cfd859e1",
-      "title": "AI coding agents can autonomously direct robot training",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T19:25:19.000Z",
-      "summary": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-epic-wants-to-let-you-bring-your-fortnite-skins--1a1f205d6e",
-      "title": "Epic wants to let you bring your Fortnite skins to other games",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T19:09:00.000Z",
-      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major versi...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-anthropic-s-design-assistant-now-works-better-wi-2ba6288633",
-      "title": "Anthropic's design assistant now works better with its coding agent",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T19:00:00.000Z",
-      "summary": "Anthropic's tools are getting chummy with each other.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-world-leaders-want-american-ai-they-just-don-t-w-e519672928",
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off",
+      "id": "tech-chatgpt-now-has-a-hub-for-scheduled-tasks-c3e9686aad",
+      "title": "ChatGPT now has a hub for scheduled tasks",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2196844/chatgpt-now-has-a-hub-for-scheduled-tasks",
       "tag": "Technology",
-      "publishedAt": "2026-06-17T19:01:19.000Z",
-      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made r...",
+      "publishedAt": "2026-06-17T20:44:59.000Z",
+      "summary": "TIL you can schedule prompts in ChatGPT.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-becomes-first-ai-startup-to-join-the-f-de63743f30",
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition",
+      "id": "tech-vsco-launches-studio-pro-mobile-photo-editing-ap-e2fb01b1cb",
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
       "tag": "Technology",
-      "publishedAt": "2026-06-17T18:30:56.000Z",
-      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+      "publishedAt": "2026-06-17T20:43:28.000Z",
+      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
