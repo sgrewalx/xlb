@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T08:50:45.871Z",
+  "updatedAt": "2026-06-17T08:32:34.502Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -30,7 +30,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Jun 16, 08:45 AM"
+          "meta": "USGS Earthquake Hazards Program · Jun 17, 08:00 AM"
         },
         {
           "id": "space-aurora-watch",
@@ -38,7 +38,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Jun 16, 08:47 AM"
+          "meta": "NOAA Space Weather Prediction Center · Jun 17, 08:28 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "15d 3h",
+          "label": "14d 3h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }
