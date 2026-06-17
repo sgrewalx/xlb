@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-06-17T17:44:54.370Z",
+  "updatedAt": "2026-06-17T19:59:31.425Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-world-model-maker-odyssey-nabs-1-45b-valuation-b-c0d69207e2",
-      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T17:43:07.000Z",
-      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-two-thirds-of-americans-think-ai-is-advancing-to-4fd586db20",
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T17:20:24.000Z",
-      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall,...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-sandisk-s-new-8tb-ps5-ssd-costs-more-than-three--3458d60459",
-      "title": "SanDisk's new 8TB PS5 SSD costs more than three times as much as the PS5 Pro",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2196530/sandisks-new-8tb-ps5-ssd-costs-more-than-three-times-as-much-as-the-ps5-pro",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T17:00:11.000Z",
-      "summary": "The highest capacity Optimus GX Pro 850P drive for the PS5 almost tops the $3,000 mark.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-white-house-wants-anthropic-to-block-all-jai-c6b252539d",
-      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T17:00:00.000Z",
-      "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-telegram-was-warned-at-highest-levels-about-app--919435ab94",
-      "title": "Telegram was warned at highest levels about app’s misuse before blanket ban: NTA D-G",
+      "id": "tech-telegram-was-warned-about-misuse-before-blanket--b1b7cf6138",
+      "title": "Telegram was warned about misuse before blanket ban, says NTA chief",
       "source": "The Hindu Technology",
       "url": "https://www.thehindu.com/news/national/telegram-was-warned-at-highest-levels-about-apps-misuse-before-blanket-ban-nta-d-g/article71113553.ece",
       "tag": "Technology",
-      "publishedAt": "2026-06-17T16:50:58.000Z",
+      "publishedAt": "2026-06-17T19:50:18.000Z",
       "summary": "Telegram founder had promised to make the ‘edited’ label more visible, but it was not done, says NTA Director-General Abhishek Singh, adding that the messaging app has to “adher...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ftc-lawsuit-reveals-how-subscription-scam-networ-cc20b36181",
+      "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T19:46:16.000Z",
+      "summary": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-coding-agents-can-autonomously-direct-robot-t-75cfd859e1",
+      "title": "AI coding agents can autonomously direct robot training",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T19:25:19.000Z",
+      "summary": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-epic-wants-to-let-you-bring-your-fortnite-skins--1a1f205d6e",
+      "title": "Epic wants to let you bring your Fortnite skins to other games",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T19:09:00.000Z",
+      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major versi...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-s-design-assistant-now-works-better-wi-2ba6288633",
+      "title": "Anthropic's design assistant now works better with its coding agent",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T19:00:00.000Z",
+      "summary": "Anthropic's tools are getting chummy with each other.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-operating-a-humanoid-with-your-body-is-a-hot-job-37e5a041cf",
+      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital",
+      "tag": "Technology",
+      "publishedAt": "2026-06-17T18:25:35.000Z",
+      "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-17T16:37:41.000Z",
       "summary": "The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ten-months-later-the-100-google-home-speaker-is--02794e1d60",
-      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100",
-      "tag": "Technology",
-      "publishedAt": "2026-06-17T15:57:14.000Z",
-      "summary": "Google's new smart speaker is more about Gemini than audio quality.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-mastodon-looks-to-newsletters-to-help-revive-the-c6bdb9248b",
-      "title": "Mastodon looks to newsletters to help revive the open social web",
+      "id": "tech-world-leaders-want-american-ai-they-just-don-t-w-e519672928",
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off",
       "tag": "Technology",
-      "publishedAt": "2026-06-17T17:38:01.000Z",
-      "summary": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.",
+      "publishedAt": "2026-06-17T19:01:19.000Z",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made r...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-only-16-percent-of-americans-think-ai-will-have--ee935ae720",
-      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "id": "tech-anthropic-becomes-first-ai-startup-to-join-the-f-de63743f30",
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition",
       "tag": "Technology",
-      "publishedAt": "2026-06-17T17:00:01.000Z",
-      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+      "publishedAt": "2026-06-17T18:30:56.000Z",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
