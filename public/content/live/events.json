@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T08:32:34.112Z",
+  "updatedAt": "2026-06-18T08:13:04.175Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-06-17T08:00:53.777Z",
-      "summary": "USGS reported 262 earthquake events in the last 24 hours. Strongest reported event: M6.3 near 260 km SSE of Dunhuang, China.",
+      "startsAt": "2026-06-18T08:06:56.500Z",
+      "summary": "USGS reported 314 earthquake events in the last 24 hours. Strongest reported event: M6.6 near central Mid-Atlantic Ridge.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-17T08:32:34.112Z",
+      "updatedAt": "2026-06-18T08:13:04.175Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-modi-receives-grand-welcome-from-macron-at-702e180e83",
-        "video-argentina-vs-algeria-live-fifa-world-cup-2026-wa-e158e95ddd",
-        "video-watch-trump-and-g7-leaders-take-family-photo-66088130d6"
+        "video-watch-trump-cracks-a-joke-about-america-s-commit-ffd112f731",
+        "video-russian-warship-fires-warning-shots-near-boat-of-11120b11e5",
+        "video-pm-modi-calls-for-peace-in-west-asia-can-u-s-del-c28df98a7d"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -58,7 +58,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-17T08:32:34.112Z",
+      "updatedAt": "2026-06-18T08:13:04.175Z",
       "importance": 72,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
       "relatedVideoIds": [],
@@ -79,8 +79,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-06-17T08:28:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-06-18T08:10:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -91,13 +91,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-17T08:32:34.112Z",
+      "updatedAt": "2026-06-18T08:13:04.175Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-modi-receives-grand-welcome-from-macron-at-702e180e83",
-        "video-argentina-vs-algeria-live-fifa-world-cup-2026-wa-e158e95ddd",
-        "video-watch-trump-and-g7-leaders-take-family-photo-66088130d6"
+        "video-watch-trump-cracks-a-joke-about-america-s-commit-ffd112f731"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -128,7 +126,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-17T08:32:34.112Z",
+      "updatedAt": "2026-06-18T08:13:04.175Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -148,7 +146,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-17T08:32:33.793Z",
+      "startsAt": "2026-06-18T08:13:03.835Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -160,10 +158,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-17T08:32:34.112Z",
+      "updatedAt": "2026-06-18T08:13:04.175Z",
       "importance": 67,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-spacex-overtakes-amazon-as-world-s-fifth-most-va-5bd2c133a7"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -181,7 +181,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-17T08:32:33.793Z",
+      "startsAt": "2026-06-18T08:13:03.835Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -193,7 +193,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-17T08:32:34.112Z",
+      "updatedAt": "2026-06-18T08:13:04.175Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
