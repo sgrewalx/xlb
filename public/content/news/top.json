@@ -1,65 +1,75 @@
 {
-  "updatedAt": "2026-06-19T17:53:58.282Z",
+  "updatedAt": "2026-06-19T19:28:46.237Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-mideast-live-updates-diplomats-work-to-preserve--d63cc0987e",
-      "title": "Mideast Live Updates: Diplomats Work to Preserve Iran Deal With a New Lebanon Cease-Fire",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
-      "tag": "US",
-      "publishedAt": "2026-06-19T17:51:32.000Z",
-      "summary": "Israel and Hezbollah agreed to the truce, three officials said, after trading strikes in recent days. The Israeli ambassador to the U.S. later said Israel had “halted all offens...",
+      "id": "news-israel-and-hezbollah-agree-ceasefire-us-says-as--5b4446e54b",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T19:27:12.000Z",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-free-health-camp-held-at-au-ahead-of-yoga-day-49ffc05bfc",
-      "title": "Free health camp held at AU ahead of Yoga Day",
+      "id": "news-kerala-revised-budget-infrastructure-projects-in-d3105cae72",
+      "title": "Kerala Revised Budget: Infrastructure projects in Kochi receive scant allocation",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/free-health-camp-held-at-au-ahead-of-yoga-day/article71122966.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-revised-budget-infrastructure-projects-in-kochi-receive-scant-allocation/article71123310.ece",
       "tag": "India",
-      "publishedAt": "2026-06-19T17:51:08.000Z",
+      "publishedAt": "2026-06-19T19:19:58.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-us-official-says-israel-hezbollah-ceasefire-agre-5d00aeb5bb",
-      "title": "US official says Israel-Hezbollah ceasefire agreed as Trump lashes out at Iran deal critics – Middle East crisis live",
+      "id": "news-mideast-live-updates-israel-commits-to-new-leban-e8d052bbd1",
+      "title": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+      "tag": "US",
+      "publishedAt": "2026-06-19T19:17:53.000Z",
+      "summary": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-kantara-actor-rukmini-vasanth-files-complaint-ov-c58ceb41ab",
+      "title": "Kantara Actor Rukmini Vasanth Files Complaint Over Morphed Images, 3 Arrested",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/kantara-actor-rukmini-vasanth-files-complaint-over-morphed-images-3-arrested-11661580",
+      "tag": "India",
+      "publishedAt": "2026-06-19T19:06:29.000Z",
+      "summary": "Three persons have been arrested by the Cyber Crime Police Station of Bengaluru City in connection with the circulation of AI-generated objectionable images and videos of actor...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-success-or-disaster-mehdi-hasan-and-dav-f1edb790e0",
+      "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T19:05:08.000Z",
+      "summary": "Mehdi Hasan goes Head to Head with former Pentagon official David Des Roches on the Iran war.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-indian-captain-of-sanctioned-russian-shadow-flee-48dafbca99",
+      "title": "Indian captain of sanctioned Russian shadow fleet tanker charged in UK court; family in U’khand appeals for safe return",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/indian-captain-of-sanctioned-russian-shadow-fleet-tanker-charged-in-uk-court-family-in-ukhand-appeals-for-safe-return/articleshow/131865828.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-19T18:54:52.000Z",
+      "summary": "An Indian captain, Ajay Pant, has been arrested in the UK and charged with breaching sanctions after his Russian oil tanker was intercepted in the English Channel. The vessel, e...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-you-just-gotta-calm-down-trump-says-he-told-isra-8a1d9d9020",
+      "title": "‘You just gotta calm down’: Trump says he told Israel to agree ceasefire with Hezbollah – Middle East crisis live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
       "tag": "Europe",
-      "publishedAt": "2026-06-19T17:49:22.000Z",
-      "summary": "US official tells Reuters news agency that ceasefire has now come into effect Inside the city of grief hit hardest by Israel strikes on southern Lebanon As the procession wound...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-govt-considering-green-charge-on-old-buses-truck-fcb616fa69",
-      "title": "Govt considering green charge on old buses, trucks, other goods vehicles that enter core NCR",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/govt-considering-green-charge-on-old-buses-trucks-other-goods-vehicles-that-enter-core-ncr/articleshow/131864196.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-19T17:42:37.000Z",
-      "summary": "After several rounds of discussions at Commission for Air Quality Management (CAQM), the “Green Contribution Scheme” is being finalised for implementation from Oct-Nov when Delh...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-karnataka-plans-tighter-checks-on-guarantee-sche-8955e95a2f",
-      "title": "Karnataka Plans Tighter Checks On Guarantee Schemes To Curb Misuse",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/karnataka-plans-tighter-checks-on-guarantee-schemes-to-curb-misuse-11661406",
-      "tag": "India",
-      "publishedAt": "2026-06-19T17:35:51.000Z",
-      "summary": "The state is also expected to strengthen checks on UPI-linked and payment bank accounts following reports of misuse through certain digital banking platforms.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-to-end-funding-of-south-africa-s-hiv-programm-1f4eb0d3fb",
-      "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T17:02:02.000Z",
-      "summary": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
+      "publishedAt": "2026-06-19T18:38:39.000Z",
+      "summary": "Trump declined ​to specify ​whether ​he spoke ​with ‌Israeli prime minister ​Benjamin ​Netanyahu directly Israel and Hezbollah agree to renew ceasefire after flareup of violence...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -70,16 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-06-19T16:54:57.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-italy-s-top-diplomat-nixes-us-trip-after-meloni--fd12cbbb44",
-      "title": "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/italys-top-diplomat-nixes-us-trip-after-meloni-says-trump-fabricated-story?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T16:38:46.000Z",
-      "summary": "The Italian prime minister has accused Trump of making up a story that she 'begged' him for a photo at G7 in France.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-kerala-revised-budget-kozhikode-light-metro-proj-662faf51ef",
-      "title": "Kerala Revised Budget: Kozhikode Light Metro project gets fresh impetus",
+      "id": "news-former-police-officer-manoranjan-mondal-arrested-12d59a14ad",
+      "title": "Former police officer Manoranjan Mondal arrested by ED in coal smuggling scam in Bengal",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-revised-budgetkozhikodelight-metro-project-gets-fresh-impetus/article71123059.ece",
+      "url": "https://www.thehindu.com/news/national/west-bengal/former-police-officer-manoranjan-mondal-arrested-by-ed-in-coal-smugglingscamin-bengal/article71122795.ece",
       "tag": "India",
-      "publishedAt": "2026-06-19T17:50:23.000Z",
-      "summary": "₹20 crore allocated for project activities, feasibility study to be expedited, says CM; Calicut International Airport included in proposed aviation-logistics hub project",
+      "publishedAt": "2026-06-19T19:19:15.000Z",
+      "summary": "Previously, he had failed to show up for questioning even after repeated summons",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-catherine-princess-of-wales-questions-digital-sc-c1dc6b59bc",
-      "title": "Catherine, Princess of Wales Questions Digital Screens’ Role in Children’s Lives",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/princess-kate-uk-children-social-media-ban.html",
-      "tag": "US",
-      "publishedAt": "2026-06-19T17:49:23.000Z",
-      "summary": "The princess published an essay Friday warning against a childhood “mediated by screens,” days after Britain announced a ban on social media for children under 16.",
+      "id": "news-defection-as-merger-on-politics-the-wave-of-defe-1ee446d18d",
+      "title": "Defection as merger: On politics, the wave of defections",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/editorial/defection-as-merger-on-politics-the-wave-of-defections/article71123120.ece",
+      "tag": "India",
+      "publishedAt": "2026-06-19T19:15:50.000Z",
+      "summary": "The Tenth Schedule is hollowed out by unprincipled politics",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
