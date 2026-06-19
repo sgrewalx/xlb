@@ -1,35 +1,85 @@
 {
-  "updatedAt": "2026-06-19T19:28:46.237Z",
+  "updatedAt": "2026-06-19T21:02:54.762Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-israel-and-hezbollah-agree-ceasefire-us-says-as--5b4446e54b",
-      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T19:27:12.000Z",
-      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "id": "news-trains-collide-in-uk-killing-at-least-one-and-in-a21249e2e3",
+      "title": "Trains Collide in UK, Killing at Least One and Injuring Others",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
+      "tag": "US",
+      "publishedAt": "2026-06-19T20:56:13.000Z",
+      "summary": "At least one person was killed and a “number of people” were injured in the crash near Bedford, England, the authorities said.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-kerala-revised-budget-infrastructure-projects-in-d3105cae72",
-      "title": "Kerala Revised Budget: Infrastructure projects in Kochi receive scant allocation",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-revised-budget-infrastructure-projects-in-kochi-receive-scant-allocation/article71123310.ece",
+      "id": "news-italian-prime-minister-says-she-didn-t-beg-trump-fbb36c27cb",
+      "title": "Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T20:53:44.000Z",
+      "summary": "Italian Prime Minister says she didn't ‘beg’ Trump for G7 photograph.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-rjd-cpi-ml-attack-congress-for-saying-their-mlas-dcfac9da9e",
+      "title": "RJD & CPI-ML attack Congress for saying their MLAs cross-voted",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/rjd-cpi-ml-attack-congress-for-saying-their-mlas-cross-voted/articleshow/131866582.cms",
       "tag": "India",
-      "publishedAt": "2026-06-19T19:19:58.000Z",
+      "publishedAt": "2026-06-19T20:37:11.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-one-person-dead-and-several-injured-after-two-tr-87acca6e75",
+      "title": "One person dead and several injured after two trains collide near Bedford",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/19/two-trains-collide-bedford",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T20:37:01.000Z",
+      "summary": "Lines closed between Luton and Bedford as emergency services attend scene One person has died and a number of people are injured after two trains collided in the Bedford area, a...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-and-italy-s-giorgia-meloni-used-to-be-buds-5af2c3d092",
+      "title": "Trump and Italy's Giorgia Meloni used to be buds. But a rift is widening",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
+      "tag": "US",
+      "publishedAt": "2026-06-19T20:32:35.000Z",
+      "summary": "\"Italy and I do not beg,\" Meloni said in a video rebuke posted on social media Friday. Italy's top diplomat, meanwhile, said he was cancelling a visit to the U.S because of the...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-pm-modi-to-commission-3-indigenously-built-naval-727d1bc58f",
+      "title": "PM Modi to commission 3 indigenously built naval ships in Kolkata on June 21",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/pm-modi-to-commission-3-indigenously-built-naval-ships-in-kolkata-on-june-21-10748487",
+      "tag": "India",
+      "publishedAt": "2026-06-19T20:30:56.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-kerala-high-court-rejects-anticipatory-bail-plea-b42d78e431",
+      "title": "Kerala High Court rejects anticipatory bail plea of professor in BDS student’s death case",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-rejects-anticipatory-bail-plea-of-professor-in-bds-students-death-case/article71122315.ece",
+      "tag": "India",
+      "publishedAt": "2026-06-19T20:19:18.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mideast-live-updates-israel-commits-to-new-leban-e8d052bbd1",
-      "title": "Mideast Live Updates: Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
-      "tag": "US",
-      "publishedAt": "2026-06-19T19:17:53.000Z",
-      "summary": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
+      "id": "news-italy-s-meloni-says-trump-made-up-story-that-she-a436b593fd",
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T19:36:10.000Z",
+      "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,46 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-success-or-disaster-mehdi-hasan-and-dav-f1edb790e0",
-      "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T19:05:08.000Z",
-      "summary": "Mehdi Hasan goes Head to Head with former Pentagon official David Des Roches on the Iran war.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-indian-captain-of-sanctioned-russian-shadow-flee-48dafbca99",
-      "title": "Indian captain of sanctioned Russian shadow fleet tanker charged in UK court; family in U’khand appeals for safe return",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/indian-captain-of-sanctioned-russian-shadow-fleet-tanker-charged-in-uk-court-family-in-ukhand-appeals-for-safe-return/articleshow/131865828.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-19T18:54:52.000Z",
-      "summary": "An Indian captain, Ajay Pant, has been arrested in the UK and charged with breaching sanctions after his Russian oil tanker was intercepted in the English Channel. The vessel, e...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-you-just-gotta-calm-down-trump-says-he-told-isra-8a1d9d9020",
-      "title": "‘You just gotta calm down’: Trump says he told Israel to agree ceasefire with Hezbollah – Middle East crisis live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T18:38:39.000Z",
-      "summary": "Trump declined ​to specify ​whether ​he spoke ​with ‌Israeli prime minister ​Benjamin ​Netanyahu directly Israel and Hezbollah agree to renew ceasefire after flareup of violence...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-navy-to-get-12-sets-of-indigenous-1-25-mw-gas-tu-ddde141eaa",
-      "title": "Navy to get 12 sets of indigenous 1.25 MW gas turbine generators for Kolkata-class ships",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/indian-navy-indigenous-gas-turbine-generators-bharat-forge-deal-10748399",
-      "tag": "India",
-      "publishedAt": "2026-06-19T16:54:57.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-changing-lifestyles-are-creating-india-s-next-co-80a718ed10",
       "title": "Changing lifestyles are creating India’s next consumer growth engine",
       "source": "Hindustan Times",
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-us-iran-talks-in-switzerland-canceled-and-dhs-to-7c76b7603f",
-      "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
-      "tag": "US",
-      "publishedAt": "2026-06-19T11:27:49.000Z",
-      "summary": "The U.S.-Iran talks that were set to happen in Switzerland have been canceled. And, the Department of Homeland Security has plans to give some local police access to ICE facial...",
+      "id": "news-israel-kills-a-child-a-day-on-average-in-gaza-de-11ae8daf3c",
+      "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T20:50:50.000Z",
+      "summary": "'No ceasefire can be considered meaningful while children continue to be killed' says UNICEF.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-former-police-officer-manoranjan-mondal-arrested-12d59a14ad",
-      "title": "Former police officer Manoranjan Mondal arrested by ED in coal smuggling scam in Bengal",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/west-bengal/former-police-officer-manoranjan-mondal-arrested-by-ed-in-coal-smugglingscamin-bengal/article71122795.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-19T19:19:15.000Z",
-      "summary": "Previously, he had failed to show up for questioning even after repeated summons",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-defection-as-merger-on-politics-the-wave-of-defe-1ee446d18d",
-      "title": "Defection as merger: On politics, the wave of defections",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/editorial/defection-as-merger-on-politics-the-wave-of-defections/article71123120.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-19T19:15:50.000Z",
-      "summary": "The Tenth Schedule is hollowed out by unprincipled politics",
+      "id": "news-brazil-vs-haiti-live-world-cup-2026-db6cd7e73f",
+      "title": "Brazil vs Haiti LIVE: World Cup 2026",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/19/brazil-vs-haiti-live-world-cup-2026?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T20:33:07.000Z",
+      "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the Group C clash.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
