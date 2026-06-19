@@ -1,50 +1,70 @@
 {
-  "updatedAt": "2026-06-19T21:02:54.762Z",
+  "updatedAt": "2026-06-19T22:45:52.905Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-trains-collide-in-uk-killing-at-least-one-and-in-a21249e2e3",
-      "title": "Trains Collide in UK, Killing at Least One and Injuring Others",
+      "id": "news-critics-of-russia-say-this-critic-isn-t-critical-fcd8567f08",
+      "title": "Critics of Russia Say This Critic Isn’t Critical Enough",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/uk-trains-collide-bedford-england.html",
+      "url": "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html",
       "tag": "US",
-      "publishedAt": "2026-06-19T20:56:13.000Z",
-      "summary": "At least one person was killed and a “number of people” were injured in the crash near Bedford, England, the authorities said.",
+      "publishedAt": "2026-06-19T22:41:06.000Z",
+      "summary": "Alexander Sokurov has questioned the Russian president about government repression, but he is still controversial among his country’s exiles.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-italian-prime-minister-says-she-didn-t-beg-trump-fbb36c27cb",
-      "title": "Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T20:53:44.000Z",
-      "summary": "Italian Prime Minister says she didn't ‘beg’ Trump for G7 photograph.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-rjd-cpi-ml-attack-congress-for-saying-their-mlas-dcfac9da9e",
-      "title": "RJD & CPI-ML attack Congress for saying their MLAs cross-voted",
+      "id": "news-pm-modi-transfers-rs-2-400-crore-under-job-gener-80073aaaef",
+      "title": "PM Modi transfers Rs 2,400 crore under job generation plan",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/rjd-cpi-ml-attack-congress-for-saying-their-mlas-cross-voted/articleshow/131866582.cms",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-transfers-rs-2400-crore-under-job-generation-plan/articleshow/131868698.cms",
       "tag": "India",
-      "publishedAt": "2026-06-19T20:37:11.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-06-19T22:27:12.000Z",
+      "summary": "Prime Minister Narendra Modi highlighted that India's trade agreements with nearly 40 nations are unlocking global markets and professional opportunities. He urged businesses an...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-one-person-dead-and-several-injured-after-two-tr-87acca6e75",
-      "title": "One person dead and several injured after two trains collide near Bedford",
+      "id": "news-usa-beat-australia-2-0-to-book-knockout-spot-at--d45247395d",
+      "title": "USA beat Australia 2–0 to book knockout spot at World Cup",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/19/usa-beat-australia-2-0-to-book-knockout-spot-at-world?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T22:22:52.000Z",
+      "summary": "An own goal and a goal by Alex Freeman helped the home side maintain a perfect record and progress to the Round of 32.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-one-person-dead-and-89-injured-after-two-trains--78e2da50c7",
+      "title": "One person dead and 89 injured after two trains collide near Bedford",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jun/19/two-trains-collide-bedford",
       "tag": "Europe",
-      "publishedAt": "2026-06-19T20:37:01.000Z",
-      "summary": "Lines closed between Luton and Bedford as emergency services attend scene One person has died and a number of people are injured after two trains collided in the Bedford area, a...",
+      "publishedAt": "2026-06-19T21:49:20.000Z",
+      "summary": "Eleven people suffer ‘very serious’ injuries, with emergency services still at the scene into the night One person has died and 89 people have been injured after two trains coll...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-and-italy-s-giorgia-meloni-used-to-be-buds-5af2c3d092",
-      "title": "Trump and Italy's Giorgia Meloni used to be buds. But a rift is widening",
+      "id": "news-zelensky-stripped-of-highest-polish-honour-over--0a8138fd14",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T21:46:07.000Z",
+      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-two-trains-collide-north-of-london-killing-at-le-cd4cdb6172",
+      "title": "Two trains collide north of London, killing at least one person",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/two-trains-collide-north-of-london-killing-at-least-one-person/article71123797.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-06-19T21:45:54.000Z",
+      "summary": "A passenger reported that he was thrown forward by the impact then saw fellow travellers with broken bones and bloody injuries",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-italy-s-meloni-once-trump-s-closest-ally-in-euro-5af2c3d092",
+      "title": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
       "source": "NPR",
       "url": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
       "tag": "US",
@@ -63,33 +83,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-kerala-high-court-rejects-anticipatory-bail-plea-b42d78e431",
-      "title": "Kerala High Court rejects anticipatory bail plea of professor in BDS student’s death case",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-rejects-anticipatory-bail-plea-of-professor-in-bds-students-death-case/article71122315.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-19T20:19:18.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-italy-s-meloni-says-trump-made-up-story-that-she-a436b593fd",
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T19:36:10.000Z",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-kantara-actor-rukmini-vasanth-files-complaint-ov-c58ceb41ab",
-      "title": "Kantara Actor Rukmini Vasanth Files Complaint Over Morphed Images, 3 Arrested",
+      "id": "news-ak-47-rifle-26-pistols-seized-near-indo-pak-bord-1d51d70699",
+      "title": "AK-47 Rifle, 26 Pistols Seized Near Indo-Pak Border In Amritsar, 1 Arrested",
       "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/kantara-actor-rukmini-vasanth-files-complaint-over-morphed-images-3-arrested-11661580",
+      "url": "https://www.ndtv.com/india-news/ak-47-rifle-26-pistols-seized-near-indo-pak-border-in-amritsar-1-arrested-11661740",
       "tag": "India",
-      "publishedAt": "2026-06-19T19:06:29.000Z",
-      "summary": "Three persons have been arrested by the Cyber Crime Police Station of Bengaluru City in connection with the circulation of AI-generated objectionable images and videos of actor...",
+      "publishedAt": "2026-06-19T20:22:42.000Z",
+      "summary": "Punjab Director General of Police Gaurav Yadav said preliminary investigation revealed that the accused was acting on the directions of an Australia-based associate, who alleged...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israel-kills-a-child-a-day-on-average-in-gaza-de-11ae8daf3c",
-      "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T20:50:50.000Z",
-      "summary": "'No ceasefire can be considered meaningful while children continue to be killed' says UNICEF.",
+      "id": "news-lebanon-emerges-as-weak-link-in-u-s-iran-deal-to-4e31104999",
+      "title": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
+      "tag": "US",
+      "publishedAt": "2026-06-19T22:31:39.000Z",
+      "summary": "The conflict between Israel and Hezbollah, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-brazil-vs-haiti-live-world-cup-2026-db6cd7e73f",
-      "title": "Brazil vs Haiti LIVE: World Cup 2026",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/19/brazil-vs-haiti-live-world-cup-2026?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-19T20:33:07.000Z",
-      "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the Group C clash.",
+      "id": "news-supreme-court-need-to-probe-nexus-of-arcs-banks--ac285f6c5a",
+      "title": "Supreme Court: Need to probe nexus of ARCs, banks and borrowers",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-need-to-probe-nexus-of-arcs-banks-and-borrowers/articleshow/131868689.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-19T22:21:54.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
