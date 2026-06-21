@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T07:04:51.168Z",
+  "updatedAt": "2026-06-21T08:05:00.348Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-06-20T07:01:51.080Z",
-      "summary": "USGS reported 228 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 140 km ESE of Petropavlovsk-Kamchatsky, Russia.",
+      "startsAt": "2026-06-21T07:43:59.420Z",
+      "summary": "USGS reported 225 earthquake events in the last 24 hours. Strongest reported event: M5.2 near 10 km S of Kastrí, Greece.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,12 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-20T07:04:51.168Z",
+      "updatedAt": "2026-06-21T08:05:00.348Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-president-trump-shares-a-laugh-with-a-meda-0c348ca865",
-        "video-watch-police-officer-couldn-t-resist-poking-fun--60a794d657"
+        "video-dharmendra-pradhan-assures-fair-neet-re-exam-pro-681cd43400",
+        "video-itbp-jawans-mark-international-yoga-day-at-pango-ad385256dc",
+        "video-pm-modi-hails-yoga-s-unifying-power-as-millions--4512478dcf"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -57,12 +58,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-20T07:04:51.168Z",
+      "updatedAt": "2026-06-21T08:05:00.348Z",
       "importance": 72,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
-      "relatedVideoIds": [
-        "video-david-muir-shares-how-son-helped-dad-on-retireme-c0d5e1e2e9"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -80,7 +79,7 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-06-20T07:02:00.000Z",
+      "startsAt": "2026-06-21T08:01:00.000Z",
       "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
@@ -92,12 +91,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-20T07:04:51.168Z",
+      "updatedAt": "2026-06-21T08:05:00.348Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-president-trump-shares-a-laugh-with-a-meda-0c348ca865",
-        "video-watch-police-officer-couldn-t-resist-poking-fun--60a794d657"
+        "video-dharmendra-pradhan-assures-fair-neet-re-exam-pro-681cd43400",
+        "video-itbp-jawans-mark-international-yoga-day-at-pango-ad385256dc",
+        "video-pm-modi-hails-yoga-s-unifying-power-as-millions--4512478dcf"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -128,7 +128,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-20T07:04:51.168Z",
+      "updatedAt": "2026-06-21T08:05:00.348Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -148,7 +148,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-20T07:04:50.968Z",
+      "startsAt": "2026-06-21T08:05:00.034Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -160,7 +160,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-20T07:04:51.168Z",
+      "updatedAt": "2026-06-21T08:05:00.348Z",
       "importance": 67,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
@@ -181,7 +181,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-20T07:04:50.968Z",
+      "startsAt": "2026-06-21T08:05:00.034Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -193,7 +193,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-20T07:04:51.168Z",
+      "updatedAt": "2026-06-21T08:05:00.348Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T07:04:51.643Z",
+  "updatedAt": "2026-06-21T08:05:00.512Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 228 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 140 km ESE of Petropavlovsk-Kamchatsky, Russia.",
+          "summary": "USGS reported 225 earthquake events in the last 24 hours. Strongest reported event: M5.2 near 10 km S of Kastrí, Greece.",
           "metricLabel": "Updated",
-          "metricValue": "Jun 20, 07:04 AM",
+          "metricValue": "Jun 21, 08:05 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -89,7 +89,7 @@
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
-          "metricValue": "11d 4h",
+          "metricValue": "10d 3h",
           "href": "/events/clps-flight-astrobotic-griffin-1",
           "accent": "space"
         },
