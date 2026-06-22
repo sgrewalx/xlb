@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-21T08:05:00.512Z",
-  "snapshotFile": "merged-2026-06-21.json",
-  "capturedAt": "2026-06-21T06:00:00.000Z",
+  "updatedAt": "2026-06-22T09:16:01.630Z",
+  "snapshotFile": "merged-2026-06-22.json",
+  "capturedAt": "2026-06-22T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -42,7 +42,7 @@
     {
       "path": "/gallery",
       "pageviews": 0,
-      "searchImpressions": 3,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -82,7 +82,7 @@
     {
       "path": "/sports",
       "pageviews": 0,
-      "searchImpressions": 1,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
