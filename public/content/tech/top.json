@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-06-22T21:27:15.658Z",
+  "updatedAt": "2026-06-22T23:11:50.399Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-meta-pauses-employee-tracking-program-following--c35b6a3cf8",
-      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach",
+      "id": "tech-millions-of-icloud-users-could-claim-share-of-3b-733a59a3c5",
+      "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T23:02:33.000Z",
+      "summary": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tesla-pushes-back-on-autopilot-narrative-after-f-8bcb377371",
+      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T22:59:57.000Z",
+      "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-is-pausing-employee-tracking-program-after--bc335fd639",
+      "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data",
       "tag": "Running",
-      "publishedAt": "2026-06-22T21:08:09.000Z",
-      "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+      "publishedAt": "2026-06-22T22:40:14.000Z",
+      "summary": "This won't make the already-controversial AI training endeavor any more popular.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-source-of-mysterious-repeating-radio-signals-f-3bfd977b55",
+      "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T22:15:10.000Z",
+      "summary": "Researchers say the discovery could be a “Rosetta stone” for cosmic signals.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gm-installs-robots-at-flagship-ev-factory-after--4f3384dde4",
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T21:52:39.000Z",
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,36 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-ai-world-is-getting-loopy-454883479c",
-      "title": "The AI world is getting ‘loopy’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T20:53:11.000Z",
-      "summary": "The loop takes agentic AI a step further, by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ios-27-beta-2-is-out-now-here-s-what-s-new-2b20424d48",
-      "title": "iOS 27 beta 2 is out now, here's what's new",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2199312/ios-27-beta-2-is-out-now-here-s-what-s-new",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T20:16:27.000Z",
-      "summary": "Spoiler: It's more Siri stuff.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-polymarket-s-viral-videos-showed-people-winning--36d45bcf7b",
-      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T20:10:34.000Z",
-      "summary": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-the-challenge-of-india-s-digital-sovereignty-70bbdbec16",
       "title": "The challenge of India’s digital sovereignty",
       "source": "The Hindu Technology",
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-22T19:59:10.000Z",
       "summary": "Digital sovereignty is essential for India’s technological security and strategic autonomy",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-whatsapp-to-be-led-by-indian-start-up-founder-as-a90c89de03",
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T15:57:46.000Z",
-      "summary": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-and-chevron-plan-one-of-the-largest-ga-47316e0ada",
-      "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T20:37:19.000Z",
-      "summary": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
+      "id": "tech-do-you-know-your-sweat-score-the-rise-of-hydrati-25d48001c2",
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "tag": "Running",
+      "publishedAt": "2026-06-22T23:01:11.000Z",
+      "summary": "Hydration tracking gadgets are flooding the market but is it too much information?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-exposed-data-internally-from-its-controvers-a126bb22d1",
-      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data",
-      "tag": "Running",
-      "publishedAt": "2026-06-22T20:28:53.000Z",
-      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+      "id": "tech-shareholders-sue-uber-s-board-over-sexual-assaul-ffed9b3e3a",
+      "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T22:43:12.000Z",
+      "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
