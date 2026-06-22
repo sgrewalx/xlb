@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-06-22T18:39:32.575Z",
+  "updatedAt": "2026-06-22T21:27:15.658Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-ray-ban-meta-optics-review-a-better-fit-comes-wi-bf13dd973c",
-      "title": "Ray-Ban Meta Optics review: A better fit comes with a higher price",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2199194/ray-ban-meta-optics-review",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T18:18:04.000Z",
-      "summary": "The Ray-Ban Meta Optics lineup adds a premium fit and a few extra features, but comes with a higher price.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-we-tried-the-most-popular-mushroom-coffees-these-45607515f7",
-      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+      "id": "tech-meta-pauses-employee-tracking-program-following--c35b6a3cf8",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
       "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-mushroom-coffee",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T18:10:09.000Z",
-      "summary": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach",
+      "tag": "Running",
+      "publishedAt": "2026-06-22T21:08:09.000Z",
+      "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-says-claude-may-want-to-see-your-id-2520fdc894",
-      "title": "Anthropic says Claude may want to see your ID",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T18:05:13.000Z",
-      "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-apple-watch-se-3-is-just-199-for-prime-day-135605e54f",
-      "title": "The Apple Watch SE 3 is just $199 for Prime Day",
+      "id": "tech-valve-describes-just-how-brutal-ram-negotiations-c7d0441931",
+      "title": "Valve describes just how brutal RAM negotiations are in 2026",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+      "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
       "tag": "Technology",
-      "publishedAt": "2026-06-22T18:00:00.000Z",
-      "summary": "The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative upda...",
+      "publishedAt": "2026-06-22T21:07:14.000Z",
+      "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-doorbell-cam-filmed-tesla-autopilot-crash-that-k-d32bbd8c60",
-      "title": "Doorbell cam filmed Tesla Autopilot crash that killed woman in her home",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home",
+      "id": "tech-the-ai-world-is-getting-loopy-454883479c",
+      "title": "The AI world is getting ‘loopy’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy",
       "tag": "Technology",
-      "publishedAt": "2026-06-22T17:10:52.000Z",
-      "summary": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
+      "publishedAt": "2026-06-22T20:53:11.000Z",
+      "summary": "The loop takes agentic AI a step further, by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ios-27-beta-2-is-out-now-here-s-what-s-new-2b20424d48",
+      "title": "iOS 27 beta 2 is out now, here's what's new",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2199312/ios-27-beta-2-is-out-now-here-s-what-s-new",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T20:16:27.000Z",
+      "summary": "Spoiler: It's more Siri stuff.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-polymarket-s-viral-videos-showed-people-winning--36d45bcf7b",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T20:10:34.000Z",
+      "summary": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-challenge-of-india-s-digital-sovereignty-70bbdbec16",
+      "title": "The challenge of India’s digital sovereignty",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/opinion/lead/the-challenge-of-indias-digital-sovereignty/article71134175.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-22T19:59:10.000Z",
+      "summary": "Digital sovereignty is essential for India’s technological security and strategic autonomy",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nothing-announces-new-product-series-b-d98587d902",
-      "title": "Nothing announces new product series B",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-announces-new-product-series-b/article71133310.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T13:05:12.000Z",
-      "summary": "Nothing is expected to launch the first product under the series ‘B’ in July",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-steam-machine-is-the-start-of-an-even-more-e-e4819198a1",
-      "title": "The Steam Machine is the start of an even more expensive future for game consoles",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
+      "id": "tech-microsoft-and-chevron-plan-one-of-the-largest-ga-47316e0ada",
+      "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us",
       "tag": "Technology",
-      "publishedAt": "2026-06-22T18:00:00.000Z",
-      "summary": "It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the g...",
+      "publishedAt": "2026-06-22T20:37:19.000Z",
+      "summary": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-uber-s-board-sued-for-alleged-poor-oversight-tha-c8f46178ae",
-      "title": "Uber's board sued for alleged poor oversight that led to sexual abuse of its passengers",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2199149/uber-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers",
-      "tag": "Technology",
-      "publishedAt": "2026-06-22T17:51:53.000Z",
-      "summary": "Uber's shareholders have filed a lawsuit against the ride-sharing giant.",
+      "id": "tech-meta-exposed-data-internally-from-its-controvers-a126bb22d1",
+      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data",
+      "tag": "Running",
+      "publishedAt": "2026-06-22T20:28:53.000Z",
+      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
