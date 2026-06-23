@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T09:16:01.993Z",
+  "updatedAt": "2026-06-23T06:55:34.449Z",
   "items": [
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
@@ -52,6 +52,20 @@
       "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/events/nasa-live-programming"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-events-nasa-s-spacex-crs-35",
+      "title": "Watch index coverage for /events/nasa-s-spacex-crs-35",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/events/nasa-s-spacex-crs-35 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/events/nasa-s-spacex-crs-35"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",

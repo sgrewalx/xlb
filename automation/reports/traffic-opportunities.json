@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-22T09:16:00.506Z",
-  "sourceSnapshot": "2026-06-22T06:00:00.000Z",
+  "updatedAt": "2026-06-23T06:55:33.253Z",
+  "sourceSnapshot": "2026-06-23T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -8,12 +8,12 @@
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 10,
+    "pageCount": 9,
     "sitemapPathCount": 25,
-    "opportunityCount": 8,
+    "opportunityCount": 9,
     "searchOpportunityCount": 0,
     "engagementOpportunityCount": 0,
-    "indexWatchCount": 8
+    "indexWatchCount": 9
   },
   "opportunities": [
     {
@@ -102,6 +102,32 @@
       "risk": "low",
       "title": "Watch index coverage for /events/nasa-live-programming",
       "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-events-nasa-s-spacex-crs-35",
+      "path": "/events/nasa-s-spacex-crs-35",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /events/nasa-s-spacex-crs-35",
+      "hypothesis": "/events/nasa-s-spacex-crs-35 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {

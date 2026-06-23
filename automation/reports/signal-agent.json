@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-22T09:16:01.630Z",
-  "snapshotFile": "merged-2026-06-22.json",
-  "capturedAt": "2026-06-22T06:00:00.000Z",
+  "updatedAt": "2026-06-23T06:55:34.074Z",
+  "snapshotFile": "merged-2026-06-23.json",
+  "capturedAt": "2026-06-23T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -23,16 +23,6 @@
       "path": "/advertise",
       "pageviews": 0,
       "searchImpressions": 1,
-      "engagementScore": 0,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/events/nasa-s-spacex-crs-35",
-      "pageviews": 0,
-      "searchImpressions": 4,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
