@@ -1,65 +1,95 @@
 {
-  "updatedAt": "2026-06-23T10:29:58.080Z",
+  "updatedAt": "2026-06-23T13:38:22.553Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-what-israeli-and-lebanese-officials-are-saying-b-872f801617",
-      "title": "What Israeli and Lebanese officials are saying before Washington talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-23T10:26:53.000Z",
-      "summary": "Iran has made a ceasefire in Lebanon a key condition in its ongoing negotiations with the US.",
+      "id": "news-monsoon-tracker-live-monsoon-advances-in-maharas-dc7a8cc6b0",
+      "title": "Monsoon tracker LIVE: Monsoon advances in Maharashtra; IMD forecasts rain until June 26",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/monsoon-in-india-rain-imd-weather-heavy-rainfall-in-hyderabad-orange-alert-for-mumbai-southwest-monsoon-live-updates-june-23-2026/article71136096.ece",
+      "tag": "Running",
+      "publishedAt": "2026-06-23T13:38:09.000Z",
+      "summary": "The IMD has issued an Orange alert for Mumbai, expecting thunderstorms, lightning, and rainfall",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-land-bought-by-mp-cm-s-family-congress-demands-m-5a4208de99",
-      "title": "Land bought by MP CM’s family: Congress demands Mohan Yadav’s resignation, independent probe",
+      "id": "news-40-people-drown-in-france-amid-scorching-tempera-e63658f167",
+      "title": "40 People Drown in France Amid Scorching Temperatures",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/06/23/world/europe/heat-wave-france-drowning-deaths.html",
+      "tag": "US",
+      "publishedAt": "2026-06-23T13:34:21.000Z",
+      "summary": "Most of the victims were young people swimming in unsupervised areas, officials said.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ransom-note-claims-nancy-guthrie-died-after-abdu-c98ae74237",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-23T13:27:12.000Z",
+      "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-3-day-standoff-at-uttarakhand-gurdwara-ends-with-4036da0e54",
+      "title": "3-day standoff at Uttarakhand gurdwara ends with Nihang group leaving rooftop",
       "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/mp-cm-mohan-yadav-ujjain-land-purchase-controversy-express-investigation-10753488",
+      "url": "https://indianexpress.com/article/india/rudraprayag-nagarasu-gurdwara-standoff-nihang-sikhs-dhami-inquiry-10753889",
       "tag": "India",
-      "publishedAt": "2026-06-23T10:20:20.000Z",
+      "publishedAt": "2026-06-23T13:24:03.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-illegal-immigrants-from-bangalesh-myanmar-pushba-8bb76bc638",
-      "title": "Illegal immigrants from Bangalesh, Myanmar | Pushback, detention and deportation laws explained",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/illegal-immigrants-from-bangalesh-myanmar-pushback-detention-and-deportation-laws-explained/article71136942.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-23T10:20:14.000Z",
-      "summary": "What is a pushback? Is it same as deportation? Is it legal?",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-tech-giant-oracle-cuts-21-000-jobs-as-it-embrace-cf8b0756a7",
-      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-06-23T10:18:11.000Z",
-      "summary": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-those-british-strawberries-are-being-picked-by-c-e1678d121d",
-      "title": "Those British Strawberries Are Being Picked by Central Asian Workers",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html",
-      "tag": "US",
-      "publishedAt": "2026-06-23T10:16:21.000Z",
-      "summary": "Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-david-pocock-urges-albanese-to-stop-tech-compani-d8934abf3f",
-      "title": "David Pocock urges Albanese to stop tech companies training AI models using Australian content",
+      "id": "news-no-10-says-there-will-be-no-new-major-policy-or--6bf03a980b",
+      "title": "No 10 says there will be ‘no new major policy or spending commitments’ before new PM appointed – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/23/david-pocock-urges-albanese-to-stop-tech-companies-training-ai-models-using-australian-content",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-06-23T10:15:54.000Z",
-      "summary": "Independent senator says Anthony Albanese is preparing to announce an AI copyright plan in July Get our breaking news email , free app or daily news podcast The independent sena...",
+      "publishedAt": "2026-06-23T13:17:51.000Z",
+      "summary": "Spokesperson did not suggest this would cover the defence investment plan and added Burnham will be allowed civil service ‘access talks’ Peter Walker is a senior Guardian politi...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-govt-merges-medicine-price-complaint-portals-int-da68cb2fc4",
+      "title": "Govt merges medicine price, complaint portals into single citizen platform",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/govt-merges-medicine-price-complaint-portals-into-single-citizen-platform/articleshow/131938648.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-23T13:11:33.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-birthday-bash-on-assam-bridge-lands-14-in-legal--7557a64a22",
+      "title": "Birthday Bash On Assam Bridge Lands 14 In Legal Trouble, Luxury Cars Seized",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/birthday-bash-on-assam-bridge-lands-14-in-legal-trouble-luxury-cars-seized-11676322",
+      "tag": "India",
+      "publishedAt": "2026-06-23T12:53:42.000Z",
+      "summary": "A late-night birthday celebration held on the Kumar Bhaskar Varma Bridge has sparked legal action after videos of the event circulated widely on social media, drawing criticism...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-vaibhav-sooryavanshi-t20-ipl-batting-prodigy-rec-f8d5009ec8",
+      "title": "Vaibhav Sooryavanshi, T20 IPL batting prodigy, receives first India jersey",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/23/vaibhav-sooryavanshi-t20-ipl-batting-prodigy-receives-first-india-jersey?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-23T12:42:34.000Z",
+      "summary": "Teenage star receives first India shirt from BCCI and is tipped to make his debut in a T20 match in Ireland on Friday.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-u-s-lifts-iran-oil-sanctions-and-federal-judge-r-351f328a19",
+      "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
+      "tag": "US",
+      "publishedAt": "2026-06-23T11:17:26.000Z",
+      "summary": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -73,53 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mamata-hits-back-at-rebels-tmc-expels-firhad-hak-ee53de0dfb",
-      "title": "Mamata hits back at rebels: TMC expels Firhad Hakim, Aroop Biswas and 6 others over 'anti-party activities'",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/mamata-hits-back-at-rebels-tmc-expels-firhad-hakim-aroop-biswas-and-6-others-over-anti-party-activities/articleshow/131932528.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-23T09:55:06.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-s-president-heads-to-pakistan-as-u-s-iran-t-5c19619f77",
-      "title": "Iran's president heads to Pakistan as U.S.-Iran teams work on war-ending deal",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
-      "tag": "US",
-      "publishedAt": "2026-06-23T09:29:01.000Z",
-      "summary": "President Masoud Pezeshkian's visit to Islamabad comes as technical teams were working on details of the deal, following high-level negotiations in Switzerland on Monday led by...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bits-pilani-tops-iirf-rankings-2026-check-top-10-75e1f9a8dc",
-      "title": "BITS Pilani Tops IIRF Rankings 2026: Check Top 10 Private Engineering Colleges In India",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/education/bits-pilani-tops-iirf-rankings-2026-check-top-10-private-engineering-colleges-in-india-11674579",
-      "tag": "India",
-      "publishedAt": "2026-06-23T09:07:08.000Z",
-      "summary": "IIRF Rankings 2026 names BITS Pilani the top private engineering college in India. SRM Institute of Science and Technology secured the second position.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-aap-mla-vasava-8-others-get-7-years-in-jail-for--92cd3ceabf",
-      "title": "AAP MLA Vasava, 8 others get 7 years in jail for assaulting forest officials, extortion",
+      "id": "news-sonowal-launches-five-initiatives-at-voc-port-to-a736a2f24b",
+      "title": "Sonowal launches five initiatives at VOC Port to advance green, digital and educational goals",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/aap-mla-vasava-8-others-get-7-years-in-jail-for-assaulting-forest-officials-extortion/article71137035.ece",
+      "url": "https://www.thehindu.com/news/national/sonowal-launches-five-initiatives-at-voc-port-to-advance-green-digital-and-educational-goals/article71137396.ece",
       "tag": "India",
-      "publishedAt": "2026-06-23T10:18:39.000Z",
-      "summary": "Additional Sessions Judge A.V. Hirpara convicted Vasava, his wife Shakuntala Vasava and others in connection with the incident that had occurred on the night of October 30, 2023",
+      "publishedAt": "2026-06-23T13:35:04.000Z",
+      "summary": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-over-6-lakh-vehicles-hit-hyderabad-s-it-corridor-c5f9fcea76",
-      "title": "Over 6 lakh vehicles hit Hyderabad’s IT corridor as overnight rain leaves roads waterlogged, snarls rush-hour traffic",
+      "id": "news-seethathodu-gateway-to-gavi-unveils-grand-touris-5ead758729",
+      "title": "Seethathodu, gateway to Gavi, unveils grand tourism plan",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/over-6-lakh-vehicles-hit-hyderabads-it-corridor-as-overnight-rain-leaves-roads-waterlogged-snarls-rush-hour-traffic/article71136413.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/seethathodu-gateway-to-gavi-unveils-grand-tourism-plan/article71137490.ece",
       "tag": "India",
-      "publishedAt": "2026-06-23T10:18:22.000Z",
-      "summary": "Nearly a million vehicles were recorded in Cyberabad Police Commissionerate limits by noon on June 23, 2026, even as the police asked companies to consider skeleton staffing and...",
+      "publishedAt": "2026-06-23T13:33:41.000Z",
+      "summary": "The KSEB, in association with the Seethathodu grama panchayat, is set to roll out an ambitious series of tourism diversification projects linked to the Gavi Tourism Circuit",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
