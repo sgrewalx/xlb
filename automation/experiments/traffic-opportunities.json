@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T06:55:34.449Z",
+  "updatedAt": "2026-06-24T06:53:29.111Z",
   "items": [
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
@@ -126,6 +126,20 @@
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-search_striking_distance-home",
+      "title": "Strengthen ranking support for /",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/ is close enough in search results that better supporting copy and internal links may improve rank.",
+      "targetPaths": [
+        "/"
+      ],
+      "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Add clearer on-page context and link to it from the most relevant section page. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     }
   ]
 }

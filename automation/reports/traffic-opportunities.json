@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T06:55:33.253Z",
-  "sourceSnapshot": "2026-06-23T06:00:00.000Z",
+  "updatedAt": "2026-06-24T06:53:28.127Z",
+  "sourceSnapshot": "2026-06-24T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -10,8 +10,8 @@
   "summary": {
     "pageCount": 9,
     "sitemapPathCount": 25,
-    "opportunityCount": 9,
-    "searchOpportunityCount": 0,
+    "opportunityCount": 10,
+    "searchOpportunityCount": 1,
     "engagementOpportunityCount": 0,
     "indexWatchCount": 9
   },
@@ -240,6 +240,32 @@
         "searchImpressions": 0,
         "searchCtr": 0,
         "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-search_striking_distance-home",
+      "path": "/",
+      "signal": "search_striking_distance",
+      "score": 0,
+      "risk": "medium",
+      "title": "Strengthen ranking support for /",
+      "hypothesis": "/ is close enough in search results that better supporting copy and internal links may improve rank.",
+      "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
+      "recommendation": "Add clearer on-page context and link to it from the most relevant section page.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 5,
+        "searchCtr": 0,
+        "avgPosition": 10.4,
         "watchClicks": 0,
         "engagementScore": 0
       },
