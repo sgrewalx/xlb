@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-25T04:57:43.140Z",
+  "updatedAt": "2026-06-25T08:21:53.592Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-a-climate-chaos-maker-61a2ae7cb2",
-      "title": "A Climate Chaos Maker",
+      "id": "news-price-cuts-on-family-summer-days-out-come-into-f-29609043df",
+      "title": "Price cuts on family summer days out come into force",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-06-25T08:19:54.000Z",
+      "summary": "The government is reducing VAT from 20% to 5% on attractions and kids' meals as schools begin to break-up.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-deadly-heat-scorches-europe-aace334db9",
+      "title": "Deadly Heat Scorches Europe",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/24/world/europe-climate-heat-wave-ebola-world-cup.html",
-      "tag": "Football",
-      "publishedAt": "2026-06-25T04:56:13.000Z",
-      "summary": "Global warming is causing extreme heat around the world. Now El Niño, a natural phenomenon that disrupts global weather patterns, is also at work.",
+      "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france/heres-the-latest",
+      "tag": "US",
+      "publishedAt": "2026-06-25T08:18:14.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-politics-live-karl-stefanovic-won-t-ap-780375e7b4",
-      "title": "Australia politics live: Karl Stefanovic won’t appear on radio show with Eddie McGuire tomorrow; three MPs booted from question time",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-06-25T04:49:40.000Z",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Mike Burgess says he’s really concerned about the level some nation-states, like Iran, coul...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-venezuela-s-deadly-history-of-earthquakes-and-ho-fcc21d1041",
-      "title": "Venezuela’s deadly history of earthquakes — and how they affected its politics",
+      "id": "news-why-vaibhav-sooryvanshi-can-t-share-team-india-s-a9edba3438",
+      "title": "Why Vaibhav Sooryvanshi can’t share Team India’s dressing room in England?",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/venezuela-history-earthquakes-bolivar-chavez-la-tragedia/article71144808.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-06-25T04:48:01.000Z",
-      "summary": "As the 1812 earthquake during the War of Independence illustrated, Venezuela is no stranger to natural disasters being bound up with moments of political upheaval",
+      "url": "https://www.thehindu.com/news/national/vaibhav-sooryavanshi-debut-separate-dressing-rooms-bcci-icc-india-ireland-england-tour-ecb-rules-protocols-explained/article71145321.ece",
+      "tag": "India",
+      "publishedAt": "2026-06-25T08:17:07.000Z",
+      "summary": "Sachin Tendulkar could. Vaibhav Suryavanshi can’t. Here’s why the ECB rules changed the safeguarding regulations",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
