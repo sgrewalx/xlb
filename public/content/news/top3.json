@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-06-24T22:09:36.971Z",
+  "updatedAt": "2026-06-25T00:00:49.975Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-australia-politics-live-woman-held-in-syrian-det-fe0b1dba99",
-      "title": "Australia politics live: Woman held in Syrian detention camp issued permit to return to Australia, Tony Burke says",
+      "id": "news-venezuela-hit-by-7-1-magnitude-earthquake-33d4960e73",
+      "title": "Venezuela Hit by 7.1-Magnitude Earthquake",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/24/world/venezuela-earthquake/earthquake-venezuela",
+      "tag": "US",
+      "publishedAt": "2026-06-24T23:57:18.000Z",
+      "summary": "The",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-venezuela-rocked-by-powerful-back-to-back-earthq-12a99953a4",
+      "title": "Venezuela rocked by powerful back-to-back earthquakes",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
+      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
       "tag": "Europe",
-      "publishedAt": "2026-06-24T22:04:13.000Z",
-      "summary": "Home affairs minister says there will be high level of scrutiny and surveillance of woman previously issued temporary exclusion order. Follow today’s news live Get our breaking...",
+      "publishedAt": "2026-06-24T23:50:05.000Z",
+      "summary": "Homes and buildings collapse in first magnitude 7.1 earthquake, with tremors felt in neighbouring Colombia A strong earthquake shook north-central Venezuela on Wednesday afterno...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-bosnia-win-3-2-knock-out-qatar-to-keep-alive-hop-6b9937a6c3",
-      "title": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-24T21:47:28.000Z",
-      "summary": "Bosnia are in a strong position to be one of the best eight third-placed teams to progress to the last 32.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-assault-on-human-dignity-says-rahul-gandhi-on-in-6baa6b907f",
-      "title": "Assault on human dignity, says Rahul Gandhi on incident of bonded labour in U.P.",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/assault-on-human-dignity-says-rahul-gandhi-on-incident-of-bonded-labour-in-up/article71142211.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-24T21:43:45.000Z",
-      "summary": "Uttar Pradesh Congress leader Ajay Kumar Lallu said the failed economic policies of the BJP government were responsible for such oppression of the ordinary poor people",
+      "id": "news-trump-accuses-big-oil-firms-of-price-gouging-dri-091c284080",
+      "title": "Trump accuses big oil firms of price-gouging drivers",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-06-24T23:45:47.000Z",
+      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
