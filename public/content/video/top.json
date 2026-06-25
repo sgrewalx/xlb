@@ -1,7 +1,392 @@
 {
-  "updatedAt": "2026-06-25T21:44:18.656Z",
+  "updatedAt": "2026-06-25T23:19:36.623Z",
   "section": "Expanded Video",
   "items": [
+    {
+      "id": "video-venezuela-earthquakes-live-aftermath-of-7-2-and--550b4188a8",
+      "title": "Venezuela earthquakes LIVE: Aftermath of 7.2 and 7.5 magnitude quakes",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/watch?v=mUJGlETmwCc",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T23:00:22.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/mUJGlETmwCc?rel=0"
+    },
+    {
+      "id": "video-turley-this-was-a-bonanza-for-trump-44e5fb5704",
+      "title": "Turley: This was a BONANZA for Trump",
+      "source": "YouTube - Fox News",
+      "url": "https://www.youtube.com/watch?v=aafXlz9VgKY",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T23:00:04.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/aafXlz9VgKY?rel=0"
+    },
+    {
+      "id": "video-luigi-mangione-s-lawyers-discussed-plea-deal-in--c7a8d541c6",
+      "title": "Luigi Mangione's lawyers discussed plea deal in federal case: Sources",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/shorts/UUT0gC1iQEo",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:56:35.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/UUT0gC1iQEo?rel=0"
+    },
+    {
+      "id": "video-mother-mourns-as-bodies-are-pulled-from-rubble-a-b7d9bd5492",
+      "title": "Mother mourns as bodies are pulled from rubble after Venezuela earthquake",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/watch?v=b3OBi1DB6FI",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:54:34.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/b3OBi1DB6FI?rel=0"
+    },
+    {
+      "id": "video-watch-actors-william-holden-and-joseph-cotten-ma-ce0c6ef36d",
+      "title": "Watch: Actors William Holden and Joseph Cotten mark America's bicentennial",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=ztwG6q2ooX0",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:53:47.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/ztwG6q2ooX0?rel=0"
+    },
+    {
+      "id": "video-sen-bill-cassidy-explains-why-he-changed-positio-8e71303060",
+      "title": "Sen. Bill Cassidy explains why he changed position on Iran war powers vote",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=NdPsAXJoUDQ",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:53:32.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/NdPsAXJoUDQ?rel=0"
+    },
+    {
+      "id": "video-senate-democrats-to-train-staffers-as-independen-a50ef4f0f9",
+      "title": "Senate Democrats to train staffers as independent election observers",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=3GGmtcm4VUE",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:53:23.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/3GGmtcm4VUE?rel=0"
+    },
+    {
+      "id": "video-rep-brad-schneider-says-democrats-need-to-addres-f396802a82",
+      "title": "Rep. Brad Schneider says Democrats \"need to address the messaging\" of Democratic Socialists",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=FVqjgr7c_Pg",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:50:57.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/FVqjgr7c_Pg?rel=0"
+    },
+    {
+      "id": "video-sharon-stone-s-complicated-grief-it-s-okay-for-m-13ce6e6727",
+      "title": "Sharon Stone’s complicated grief: ‘It’s okay for me to feel free from my mom’",
+      "source": "YouTube - CNN",
+      "url": "https://www.youtube.com/watch?v=hPsFt8K3dOo",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:50:09.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/hPsFt8K3dOo?rel=0"
+    },
+    {
+      "id": "video-oil-prices-fall-close-to-pre-war-levels-but-gas--9906421665",
+      "title": "Oil prices fall close to pre-war levels, but gas still up by about $1 nationally",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=rVkutTptWdc",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:49:39.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/rVkutTptWdc?rel=0"
+    },
+    {
+      "id": "video-democrats-rally-for-talarico-at-texas-convention-c034e67e16",
+      "title": "Democrats rally for Talarico at Texas convention",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=2CCimrBE7vg",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:48:52.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/2CCimrBE7vg?rel=0"
+    },
+    {
+      "id": "video-japan-vs-sweden-live-watch-party-of-2026-world-c-0669c81b2e",
+      "title": "Japan vs Sweden: LIVE watch party of 2026 World Cup",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/watch?v=hRddxGFn9ws",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:45:08.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/hRddxGFn9ws?rel=0"
+    },
+    {
+      "id": "video-belarus-halts-russian-drone-systems-amid-pressur-a1ee1c6169",
+      "title": "Belarus halts Russian drone systems amid pressure from Moscow | DW News",
+      "source": "YouTube - DW News",
+      "url": "https://www.youtube.com/watch?v=SdmS_bLVrAg",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:44:52.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/SdmS_bLVrAg?rel=0"
+    },
+    {
+      "id": "video-earthquakes-shake-venezuela-what-s-driving-a-dro-05d2ca39e4",
+      "title": "Earthquakes Shake Venezuela; What’s Driving a Drop in Medicaid and ACA Enrollment | June 25",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=4GzFhoQ_49k",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:44:03.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/4GzFhoQ_49k?rel=0"
+    },
+    {
+      "id": "video-breaking-down-supreme-court-s-immigration-ruling-1888ebcdd0",
+      "title": "Breaking down Supreme Court's immigration rulings favorable to Trump",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=LH1vBb68KDk",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:40:59.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/LH1vBb68KDk?rel=0"
+    },
+    {
+      "id": "video-live-trump-participates-in-a-dinner-with-america-5d914f6480",
+      "title": "LIVE: Trump participates in a dinner with American farmers at White House",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/watch?v=yqMYYpLxgNA",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:38:26.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/yqMYYpLxgNA?rel=0"
+    },
+    {
+      "id": "video-search-for-survivors-underway-as-earthquake-in-v-2e74cb366a",
+      "title": "Search for survivors underway as earthquake in Venezuela puts strain on resources",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=E63UdeKnYeA",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:33:57.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/E63UdeKnYeA?rel=0"
+    },
+    {
+      "id": "video-do-you-think-swift-and-kelce-will-get-married-he-e2ee8c9323",
+      "title": "Do you think Swift and Kelce will get married here? #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/7GRJn3vM9tM",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:30:05.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/7GRJn3vM9tM?rel=0"
+    },
+    {
+      "id": "video-watch-live-president-trump-participates-in-rose--9a1d190209",
+      "title": "WATCH LIVE: President Trump participates in Rose Garden Club Dinner with American farmers",
+      "source": "YouTube - Fox News",
+      "url": "https://www.youtube.com/watch?v=3oLgzVm4ofk",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:22:37.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/3oLgzVm4ofk?rel=0"
+    },
+    {
+      "id": "video-scientists-detect-strange-electrical-anomaly-ben-bdfba9e555",
+      "title": "Scientists Detect Strange Electrical Anomaly Beneath Egypt's Great Pyramid | WION Podcast",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=N3vCs8nLy9Q",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:15:31.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/N3vCs8nLy9Q?rel=0"
+    },
+    {
+      "id": "video-the-five-they-see-blood-in-the-water-3bf9330ef0",
+      "title": "‘The Five’: They see blood in the water…",
+      "source": "YouTube - Fox News",
+      "url": "https://www.youtube.com/watch?v=SWSzWe7x7os",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:15:06.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/SWSzWe7x7os?rel=0"
+    },
+    {
+      "id": "video-why-it-costs-over-80-000-to-fly-an-f-22-for-just-9ce1be9872",
+      "title": "Why It Costs Over $80,000 To Fly An F-22 For Just One Hour | WION Podcast",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=zPGltJL41mI",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:15:04.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/zPGltJL41mI?rel=0"
+    },
+    {
+      "id": "video-cia-officer-arrested-with-gold-bars-in-his-home--2ce930b350",
+      "title": "CIA officer arrested with gold bars in his home got more money",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=HDkhM8iWcj8",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:04:55.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/HDkhM8iWcj8?rel=0"
+    },
+    {
+      "id": "video-meet-the-press-now-june-25-c9ce47d792",
+      "title": "Meet the Press NOW — June 25",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=2pU4zT6DOIs",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:04:20.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/2pU4zT6DOIs?rel=0"
+    },
+    {
+      "id": "video-how-did-america-s-250th-celebration-become-a-tru-8536e00007",
+      "title": "How did America's 250th celebration become a 'Trump rally'? #BBCNews",
+      "source": "YouTube - BBC News",
+      "url": "https://www.youtube.com/shorts/rHUU8n9yEFo",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:03:59.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/rHUU8n9yEFo?rel=0"
+    },
+    {
+      "id": "video-typhoon-mekkhala-causes-flooding-in-southern-tai-548770fad5",
+      "title": "Typhoon Mekkhala causes flooding in southern Taiwan",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/shorts/HUeoKncl_98",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:02:20.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/HUeoKncl_98?rel=0"
+    },
+    {
+      "id": "video-lizzo-music-has-saved-my-life-ap-interview-81a2509c18",
+      "title": "Lizzo: 'Music has saved my life' | AP interview",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/watch?v=lzSfP7ptBDU",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:01:22.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/lzSfP7ptBDU?rel=0"
+    },
+    {
+      "id": "video-unclear-if-or-when-trump-will-sign-housing-bill--dfab05c195",
+      "title": "Unclear if or when Trump will sign housing bill as SAVE Act fight continues",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=JPlsMfu3gkY",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:01:08.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/JPlsMfu3gkY?rel=0"
+    },
+    {
+      "id": "video-how-dem-socialist-wins-could-give-gop-an-advanta-8b85a86745",
+      "title": "How Dem Socialist wins could give GOP an advantage",
+      "source": "YouTube - CNN",
+      "url": "https://www.youtube.com/watch?v=uegZlYde0tg",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:00:37.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/uegZlYde0tg?rel=0"
+    },
+    {
+      "id": "video-chaos-in-venezuela-streets-after-massive-earthqu-7340f688a3",
+      "title": "CHAOS in Venezuela streets after MASSIVE EARTHQUAKE #foxnews #news #us #fox",
+      "source": "YouTube - Fox News",
+      "url": "https://www.youtube.com/shorts/oaS4jVLFoOY",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T22:00:05.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/oaS4jVLFoOY?rel=0"
+    },
+    {
+      "id": "video-iran-strikes-vessel-in-strait-of-hormuz-amid-fee-1ea33ab7b6",
+      "title": "Iran strikes vessel in Strait of Hormuz amid fee debate",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=NCibdE0Yz-0",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T21:59:53.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/NCibdE0Yz-0?rel=0"
+    },
+    {
+      "id": "video-what-the-king-s-new-tax-disclosures-reveal-and-w-f9bf28465e",
+      "title": "What the King's new tax disclosures reveal - and what they don't",
+      "source": "YouTube - Sky News",
+      "url": "https://www.youtube.com/watch?v=BrZpEWOlUnI",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T21:59:20.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/BrZpEWOlUnI?rel=0"
+    },
+    {
+      "id": "video-satellite-images-show-aftermath-of-earthquakes-i-2aaf740724",
+      "title": "Satellite images show aftermath of earthquakes in Venezuela",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/shorts/h47HFgnjwkU",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T21:54:55.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/h47HFgnjwkU?rel=0"
+    },
+    {
+      "id": "video-venezuelan-earthquakes-among-strongest-to-hit-co-c59d0a6494",
+      "title": "Venezuelan earthquakes among strongest to hit country in over a century",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=z1muhLg3_IQ",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T21:53:08.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/z1muhLg3_IQ?rel=0"
+    },
+    {
+      "id": "video-trump-calls-on-house-republicans-to-unify-after--e716b75b16",
+      "title": "Trump calls on House Republicans to unify after meeting with Speaker Mike Johnson",
+      "source": "YouTube - CBS News",
+      "url": "https://www.youtube.com/watch?v=ukT-42K61ys",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T21:48:04.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/ukT-42K61ys?rel=0"
+    },
     {
       "id": "video-death-toll-rises-in-deadly-venezuela-earthquakes-eba11179be",
       "title": "Death toll rises in deadly Venezuela earthquakes & other trends| Searched",
@@ -12,6 +397,17 @@
       "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/g5y242iPVfw?rel=0"
+    },
+    {
+      "id": "video-scotus-decisions-give-major-wins-to-trump-s-immi-e7610a9432",
+      "title": "SCOTUS decisions give major wins to Trump's immigration crackdown efforts",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/shorts/tXIQMEt9H4M",
+      "tag": "Video",
+      "publishedAt": "2026-06-25T21:32:45.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/tXIQMEt9H4M?rel=0"
     },
     {
       "id": "video-will-billions-of-euros-be-enough-to-rebuild-ukra-d0f01d80c8",
@@ -67,17 +463,6 @@
       "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/n4zRKLirQlI?rel=0"
-    },
-    {
-      "id": "video-the-five-they-see-blood-in-the-water-52bfe97d8a",
-      "title": "‘The Five’: They see blood in the water…",
-      "source": "YouTube - Fox News",
-      "url": "https://www.youtube.com/watch?v=SWSzWe7x7os",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T21:23:42.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/SWSzWe7x7os?rel=0"
     },
     {
       "id": "video-video-shows-airplane-shaking-on-tarmac-amid-vene-22c59b8165",
@@ -223,8 +608,8 @@
       "embedUrl": "https://www.youtube.com/embed/HymBvj8qe8g?rel=0"
     },
     {
-      "id": "video-usha-vance-mocks-ny-times-over-article-on-her-pr-abcd53c9af",
-      "title": "Usha Vance MOCKS NY Times over article on her pregnancy outfits",
+      "id": "video-usha-vance-fires-back-at-ny-times-abcd53c9af",
+      "title": "Usha Vance FIRES BACK at NY Times",
       "source": "YouTube - Fox News",
       "url": "https://www.youtube.com/watch?v=awWDfRNQMx4",
       "tag": "Video",
@@ -333,17 +718,6 @@
       "embedUrl": "https://www.youtube.com/embed/0Kf6-sGZc9Y?rel=0"
     },
     {
-      "id": "video-gm-is-launching-new-and-improved-safety-measures-0f379978df",
-      "title": "GM is launching new and improved safety measures for six of their most affordable cars",
-      "source": "YouTube - NBC News",
-      "url": "https://www.youtube.com/watch?v=ZLYw82EBeAU",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T20:18:17.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/ZLYw82EBeAU?rel=0"
-    },
-    {
       "id": "video-why-you-could-struggle-to-sleep-tonight-f3a11be417",
       "title": "Why you could struggle to sleep tonight",
       "source": "YouTube - Sky News",
@@ -397,17 +771,6 @@
       "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/9J-MTooXl2o?rel=0"
-    },
-    {
-      "id": "video-nbc-news-reporter-in-venezuela-says-people-she-k-f57e2271d4",
-      "title": "NBC News reporter in Venezuela says people she knows might be missing under rubble",
-      "source": "YouTube - NBC News",
-      "url": "https://www.youtube.com/watch?v=OVmNTmCXDEc",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T20:03:09.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/OVmNTmCXDEc?rel=0"
     },
     {
       "id": "video-swedish-minister-brings-baby-to-eu-meeting-dw-ne-a2ed82e4eb",
@@ -542,17 +905,6 @@
       "embedUrl": "https://www.youtube.com/embed/O3QiDtqfpBY?rel=0"
     },
     {
-      "id": "video-trump-to-meet-with-house-speaker-mike-johnson-a--a84fb032a5",
-      "title": "Trump to meet with House Speaker Mike Johnson a day after fiery GOP meeting",
-      "source": "YouTube - CBS News",
-      "url": "https://www.youtube.com/watch?v=5z4ifBYphCU",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:34:53.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/5z4ifBYphCU?rel=0"
-    },
-    {
       "id": "video-why-is-venezuela-prone-to-earthquakes-venezuela--59636aec95",
       "title": "Why is Venezuela prone to earthquakes? #Venezuela #Earthquake #BBCNews",
       "source": "YouTube - BBC News",
@@ -586,17 +938,6 @@
       "embedUrl": "https://www.youtube.com/embed/eXLHh1_dEn0?rel=0"
     },
     {
-      "id": "video-air-canada-flight-diverts-after-pilot-s-medical--16c4681f54",
-      "title": "Air Canada flight diverts after pilot's medical emergency",
-      "source": "YouTube - NBC News",
-      "url": "https://www.youtube.com/shorts/UVG3l1brC_s",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:33:21.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/UVG3l1brC_s?rel=0"
-    },
-    {
       "id": "video-bjp-in-campaign-mode-in-up-ahead-of-assembly-pol-005c6f75dc",
       "title": "BJP in Campaign Mode in UP Ahead of Assembly Polls | WION",
       "source": "YouTube - WION",
@@ -628,17 +969,6 @@
       "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/UocNh7-FBV8?rel=0"
-    },
-    {
-      "id": "video-swedish-minister-brings-baby-to-e-u-council-meet-1440a99127",
-      "title": "Swedish minister brings baby to E.U. Council meeting",
-      "source": "YouTube - NBC News",
-      "url": "https://www.youtube.com/shorts/jpP9fwSbmt4",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:30:17.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/jpP9fwSbmt4?rel=0"
     },
     {
       "id": "video-india-s-netra-becomes-eye-in-sky-with-full-iaf-s-09a14fbbe6",
@@ -760,336 +1090,6 @@
       "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/iESAix41-s4?rel=0"
-    },
-    {
-      "id": "video-kenya-protests-demonstrators-seek-justice-for-12-90158d8b2c",
-      "title": "Kenya Protests: Demonstrators Seek Justice for 127 Killed During Anti-Govt Rallies | WION",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=Ci2lGRSHCaE",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:10:56.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/Ci2lGRSHCaE?rel=0"
-    },
-    {
-      "id": "video-massive-quakes-bring-new-devastation-and-turmoil-740c4f250d",
-      "title": "Massive quakes bring new devastation and turmoil to Venezuela | DW News",
-      "source": "YouTube - DW News",
-      "url": "https://www.youtube.com/watch?v=dIFH51-ElZ4",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:09:27.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/dIFH51-ElZ4?rel=0"
-    },
-    {
-      "id": "video-israel-denies-claim-of-pullback-from-southern-le-3eab5797df",
-      "title": "Israel denies claim of pullback from southern Lebanon",
-      "source": "YouTube - CBS News",
-      "url": "https://www.youtube.com/watch?v=1gJV00wl7qM",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:08:31.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/1gJV00wl7qM?rel=0"
-    },
-    {
-      "id": "video-cassidy-says-he-changed-vote-on-iran-war-powers--f269f6723a",
-      "title": "Cassidy says he changed vote on Iran war powers after White House briefing",
-      "source": "YouTube - CBS News",
-      "url": "https://www.youtube.com/watch?v=gfumenMeQm8",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:06:10.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/gfumenMeQm8?rel=0"
-    },
-    {
-      "id": "video-americans-split-on-nation-s-250-year-journey-new-fe9ee88d2f",
-      "title": "Americans Split On Nation’s 250-Year Journey: New Poll Reveals Deep Divide | WION",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=m5kDefyjTOs",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:03:01.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/m5kDefyjTOs?rel=0"
-    },
-    {
-      "id": "video-the-uk-is-in-the-dark-about-burnham-s-defence-pl-98807b6441",
-      "title": "The UK is in the dark about Burnham's defence plans. This Is Why.",
-      "source": "YouTube - Sky News",
-      "url": "https://www.youtube.com/watch?v=p1IA_8Sb024",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:00:40.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/p1IA_8Sb024?rel=0"
-    },
-    {
-      "id": "video-new-trump-doj-indicts-12-in-drone-smuggling-oper-e6ca22cf2a",
-      "title": "NEW: Trump DOJ indicts 12 in drone smuggling operation",
-      "source": "YouTube - Fox News",
-      "url": "https://www.youtube.com/watch?v=N5aMMlLp2qs",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:00:38.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/N5aMMlLp2qs?rel=0"
-    },
-    {
-      "id": "video-the-snp-mp-s-accent-has-been-the-subject-of-inte-1ebe670da2",
-      "title": "The SNP MP's accent has been the subject of intense online scrutiny. #BBCNews",
-      "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/shorts/YsFl4CDuv64",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:00:37.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/YsFl4CDuv64?rel=0"
-    },
-    {
-      "id": "video-minab-school-strike-probe-trump-evades-answers-s-439ad2a441",
-      "title": "Minab School Strike Probe: Trump Evades Answers, Says Truth May Remain Secret | GRAVITAS",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=R6a-ow4sGeU",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:00:36.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/R6a-ow4sGeU?rel=0"
-    },
-    {
-      "id": "video-kenyans-honor-genz-protest-victims-dw-news-c60f4d8052",
-      "title": "Kenyans honor GenZ protest victims | DW News",
-      "source": "YouTube - DW News",
-      "url": "https://www.youtube.com/shorts/--CLXDpvQpw",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:00:35.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/--CLXDpvQpw?rel=0"
-    },
-    {
-      "id": "video-is-europe-s-heatwave-worse-than-normal-bbc-newsc-7e47d5c8cf",
-      "title": "Is Europe’s heatwave worse than normal? | BBC Newscast",
-      "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/watch?v=dB1B7FaC52I",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:00:17.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/dB1B7FaC52I?rel=0"
-    },
-    {
-      "id": "video-authorities-ask-for-public-help-in-identifying-r-76ff916446",
-      "title": "Authorities ask for public help in identifying reflecting pool vandal #shorts #us #reflectingpool",
-      "source": "YouTube - Fox News",
-      "url": "https://www.youtube.com/shorts/2Y5zq2vvsQU",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T19:00:10.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/2Y5zq2vvsQU?rel=0"
-    },
-    {
-      "id": "video-allentown-factory-fire-leaves-heavy-damage-29aa5264ed",
-      "title": "Allentown Factory Fire Leaves Heavy Damage",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/shorts/OqHm5t5M0oc",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:59:25.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/OqHm5t5M0oc?rel=0"
-    },
-    {
-      "id": "video-venezuela-earthquakes-wreck-coastal-city-d48c41daed",
-      "title": "Venezuela Earthquakes Wreck Coastal City",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/shorts/hl6NPUi1yhg",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:58:17.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/hl6NPUi1yhg?rel=0"
-    },
-    {
-      "id": "video-giorgia-meloni-recalls-delhi-welcome-says-she-wa-a3618d1361",
-      "title": "Giorgia Meloni Recalls Delhi Welcome, Says She Was Told She'd Win A Million Votes #shorts",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/shorts/LjlxU5DhE1U",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:56:38.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/LjlxU5DhE1U?rel=0"
-    },
-    {
-      "id": "video-supreme-court-gives-trump-two-major-wins-on-immi-c508696810",
-      "title": "Supreme Court gives Trump two major wins on immigration cases",
-      "source": "YouTube - CNN",
-      "url": "https://www.youtube.com/shorts/gsg9eXRsRAs",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:55:43.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/gsg9eXRsRAs?rel=0"
-    },
-    {
-      "id": "video-divorce-italian-style-meloni-trump-row-bringing--3a7a4dff62",
-      "title": "Divorce Italian style: Meloni-Trump row bringing Europe closer together? • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=5T_n19YQ3gI",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:55:30.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/5T_n19YQ3gI?rel=0"
-    },
-    {
-      "id": "video-google-partners-with-tsa-on-touchless-id-f761f66ce4",
-      "title": "Google partners with TSA on touchless ID",
-      "source": "YouTube - ABC News",
-      "url": "https://www.youtube.com/shorts/wTsZew_et2w",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:52:32.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/wTsZew_et2w?rel=0"
-    },
-    {
-      "id": "video-u-s-set-to-face-t-rkiye-in-final-group-stage-mat-fcd7f1e04a",
-      "title": "U.S. set to face Türkiye in final group stage match",
-      "source": "YouTube - ABC News",
-      "url": "https://www.youtube.com/watch?v=YGEuRTjQ3oQ",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:50:10.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/YGEuRTjQ3oQ?rel=0"
-    },
-    {
-      "id": "video-early-details-on-deadly-back-to-back-venezuela-e-5d8bbcc28a",
-      "title": "Early details on deadly back-to-back Venezuela earthquakes",
-      "source": "YouTube - CBS News",
-      "url": "https://www.youtube.com/watch?v=IUP8Z046MJM",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:47:25.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CBS News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/IUP8Z046MJM?rel=0"
-    },
-    {
-      "id": "video-savita-punia-praises-modi-says-pm-s-support-for--25558d0dc2",
-      "title": "Savita Punia Praises Modi, Says PM's Support For Indian Hockey Motivates Players To Make India Proud",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=IyVs35bdiyI",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:46:19.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/IyVs35bdiyI?rel=0"
-    },
-    {
-      "id": "video-tamannaah-bhatia-tamannaahbhatia-shorts-viral-aa-390cf71d82",
-      "title": "Tamannaah Bhatia: एयरपोर्ट पर तमन्ना भाटिया का ग्लैमरस अंदाज #tamannaahbhatia #shorts #viral #aajtak",
-      "source": "YouTube - Aaj Tak",
-      "url": "https://www.youtube.com/shorts/UC1M7SQhUpM",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:45:01.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Aaj Tak, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/UC1M7SQhUpM?rel=0"
-    },
-    {
-      "id": "video-rescue-efforts-underway-after-venezuela-earthqua-de2f3a061e",
-      "title": "Rescue efforts underway after Venezuela earthquakes",
-      "source": "YouTube - CNN",
-      "url": "https://www.youtube.com/shorts/WxGXN2UZbp0",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:43:49.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/WxGXN2UZbp0?rel=0"
-    },
-    {
-      "id": "video-live-trump-declares-emergency-from-whitehouse-dr-897b2579d0",
-      "title": "LIVE | Trump Declares EMERGENCY From Whitehouse; Drops NUCLEAR Bombshell On Iran, Russia, China",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=c8f71oNQu0s",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:42:59.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/c8f71oNQu0s?rel=0"
-    },
-    {
-      "id": "video-karan-verma-dismisses-akhilesh-s-criticism-as-ra-14ebb15e55",
-      "title": "Karan Verma Dismisses Akhilesh's Criticism As Ram Mandir Donation Probe Intensifies",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=5xC4U4kbytw",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:42:13.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/5xC4U4kbytw?rel=0"
-    },
-    {
-      "id": "video-7-2-magnitude-earthquake-strikes-off-northern-ja-0527e83db9",
-      "title": "7.2 magnitude earthquake strikes off northern Japan",
-      "source": "YouTube - AP",
-      "url": "https://www.youtube.com/watch?v=RN_LHto3gVM",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:41:44.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/RN_LHto3gVM?rel=0"
-    },
-    {
-      "id": "video-nasa-holds-news-briefing-ahead-of-spacewalk-2ccffe3524",
-      "title": "NASA holds news briefing ahead of spacewalk",
-      "source": "YouTube - Sky News",
-      "url": "https://www.youtube.com/watch?v=OXZHBO2_oww",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:38:46.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/OXZHBO2_oww?rel=0"
-    },
-    {
-      "id": "video-lekha-prajapati-lekhaprajapati-entertainment-aaj-6ab96e8b13",
-      "title": "Lekha Prajapati: लेखा प्रजापति का ग्लैमरस लुक वायरल #lekhaprajapati #entertainment #aajtak",
-      "source": "YouTube - Aaj Tak",
-      "url": "https://www.youtube.com/shorts/8Xu8NCqDR90",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:37:18.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Aaj Tak, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/8Xu8NCqDR90?rel=0"
-    },
-    {
-      "id": "video-touchless-id-rolls-out-for-tsa-travelers-through-c4d31947da",
-      "title": "Touchless ID rolls out for TSA travelers through new Google partnership",
-      "source": "YouTube - ABC News",
-      "url": "https://www.youtube.com/watch?v=jIHmffkj2cU",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:35:01.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/jIHmffkj2cU?rel=0"
-    },
-    {
-      "id": "video-ketan-murder-case-siya-goyal-10-aff7903a6f",
-      "title": "Ketan Murder Case: Siya Goyal की मां ने कहा- शादी को लेकर बेटी से हमने 10 बार पूछा था कि केतन..",
-      "source": "YouTube - Aaj Tak",
-      "url": "https://www.youtube.com/watch?v=7WOLyMpTe80",
-      "tag": "Video",
-      "publishedAt": "2026-06-25T18:34:57.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Aaj Tak, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/7WOLyMpTe80?rel=0"
     }
   ]
 }
