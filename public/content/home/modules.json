@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:53:28.825Z",
+  "updatedAt": "2026-06-25T06:52:49.738Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -25,20 +25,20 @@
       ],
       "items": [
         {
-          "id": "earth-global-earthquake-watch",
-          "title": "Global earthquake watch",
-          "href": "/events/global-earthquake-watch",
-          "label": "Monitoring",
-          "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Jun 24, 06:48 AM"
-        },
-        {
           "id": "space-aurora-watch",
           "title": "Aurora watch",
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Jun 24, 06:50 AM"
+          "meta": "NOAA Space Weather Prediction Center · Jun 25, 06:50 AM"
+        },
+        {
+          "id": "earth-global-earthquake-watch",
+          "title": "Global earthquake watch",
+          "href": "/events/global-earthquake-watch",
+          "label": "Monitoring",
+          "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
+          "meta": "USGS Earthquake Hazards Program · Jun 25, 06:46 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -90,7 +90,7 @@
           "id": "space-launch-clps-flight-astrobotic-griffin-1",
           "title": "CLPS Flight: Astrobotic Griffin-1",
           "href": "/events/clps-flight-astrobotic-griffin-1",
-          "label": "7d 5h",
+          "label": "6d 5h",
           "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "meta": "NASA Launch Schedule · Jul 1, 12:00 PM"
         }

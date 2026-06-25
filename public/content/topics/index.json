@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:53:28.825Z",
+  "updatedAt": "2026-06-25T06:52:49.738Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,18 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-06-24T06:53:28.825Z"
-    },
-    {
-      "slug": "launches",
-      "title": "Launches",
-      "category": "space",
-      "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
-      "eventCount": 3,
-      "promotedEventCount": 3,
-      "bestScore": 80,
-      "recommendation": "hold",
-      "updatedAt": "2026-06-24T06:53:28.825Z"
+      "updatedAt": "2026-06-25T06:52:49.738Z"
     },
     {
       "slug": "space-weather",
@@ -32,7 +21,18 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-06-24T06:53:28.825Z"
+      "updatedAt": "2026-06-25T06:52:49.738Z"
+    },
+    {
+      "slug": "launches",
+      "title": "Launches",
+      "category": "space",
+      "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
+      "eventCount": 3,
+      "promotedEventCount": 3,
+      "bestScore": 81,
+      "recommendation": "hold",
+      "updatedAt": "2026-06-25T06:52:49.738Z"
     },
     {
       "slug": "nasa",
@@ -43,7 +43,7 @@
       "promotedEventCount": 1,
       "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-06-24T06:53:28.825Z"
+      "updatedAt": "2026-06-25T06:52:49.738Z"
     }
   ]
 }

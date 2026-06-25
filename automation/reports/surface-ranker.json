@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:53:28.825Z",
+  "updatedAt": "2026-06-25T06:52:49.738Z",
   "surfaces": {
     "home": [
       {
@@ -26,108 +26,318 @@
     ],
     "video": [
       {
-        "id": "video-us-president-trump-claims-iran-agrees-to-no-nucl-3e2e4c1d29",
+        "id": "video-trump-kicks-off-great-american-state-fair-d7b602c29d",
         "rank": 1,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-watters-these-people-want-to-hurt-you-foxnews-ne-be1ec94ba8",
+        "rank": 2,
+        "retentionScore": 73,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mamdani-s-risk-pays-off-in-new-york-city-s-congr-67acfd7b08",
+        "rank": 3,
         "retentionScore": 72,
         "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-ronaldo-fans-celebrate-as-cr7-sets-fifa-wc-recor-66d6ef5243",
-        "rank": 2,
+        "id": "video-will-taylor-swift-s-wedding-be-at-madison-square-09409a42b3",
+        "rank": 4,
+        "retentionScore": 70,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-laura-these-policies-honor-our-constitution-foxn-5a0eb711fc",
+        "rank": 5,
+        "retentionScore": 69,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-fbi-nypd-searches-amid-corruption-investigation-2e40a88334",
+        "rank": 6,
         "retentionScore": 68,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-historic-india-us-trade-deal-soon-big-update-soo-36bc35b485",
-        "rank": 3,
-        "retentionScore": 58,
-        "freshnessScore": 96,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-viral-moment-ronaldo-ignored-reporter-s-question-9316aebfe2",
-        "rank": 4,
-        "retentionScore": 55,
-        "freshnessScore": 96,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-kash-patel-live-kash-patel-finally-exposes-big-n-45695a745c",
-        "rank": 5,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-another-setback-for-fugitive-nirav-modi-as-londo-77066635a3",
-        "rank": 6,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-qatar-emir-al-thani-speaks-to-pm-modi-after-ras--62a0d6d81e",
+        "id": "video-un-appointed-inquiry-finds-israel-targeting-pale-6e6df66346",
         "rank": 7,
-        "retentionScore": 53,
+        "retentionScore": 66,
         "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-live-biggest-arrest-in-american-history-kash-pat-9046167ed4",
+        "id": "video-powerful-earthquakes-rattle-venezuela-b059a8a0af",
         "rank": 8,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
+        "retentionScore": 65,
+        "freshnessScore": 92,
+        "relatedPath": "/events/global-earthquake-watch"
       },
       {
-        "id": "video-breaking-news-live-us-declares-nuclear-emergency-ab0fef84b1",
+        "id": "video-watch-protests-outside-brooklyn-coffee-shop-that-8198bcb938",
         "rank": 9,
+        "retentionScore": 65,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-7-2-and-7-5-magnitude-earthquakes-strike-venezue-6ced22dff3",
+        "rank": 10,
+        "retentionScore": 63,
+        "freshnessScore": 94,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-key-army-general-relinquishing-command-65bdc90c67",
+        "rank": 11,
+        "retentionScore": 62,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-these-people-are-communists-shorts-foxnews-0724e4eeee",
+        "rank": 12,
+        "retentionScore": 62,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nato-chief-presents-trump-trillion-chart-on-euro-7d1f579a68",
+        "rank": 13,
+        "retentionScore": 61,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-inside-the-explosive-trump-cassidy-capitol-showd-c0bf925151",
+        "rank": 14,
+        "retentionScore": 61,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-how-billionaire-donors-funnel-money-into-electio-7af66afee4",
+        "rank": 15,
+        "retentionScore": 60,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-russian-held-crimea-hit-hard-by-resurgent-ukrain-c888a29755",
+        "rank": 16,
+        "retentionScore": 60,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-democratic-rep-knocks-phone-out-of-a-man-s-hand--58d0bfe19c",
+        "rank": 17,
+        "retentionScore": 60,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-whose-phone-is-that-trump-reacts-to-phone-ring-i-072ffc2ddb",
+        "rank": 18,
+        "retentionScore": 60,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mamdani-s-strategist-looks-beyond-the-label-of-d-6253d16bc4",
+        "rank": 19,
+        "retentionScore": 59,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-why-the-uk-is-not-built-for-heatwaves-0fba5134cc",
+        "rank": 20,
+        "retentionScore": 58,
+        "freshnessScore": 86,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-why-ac-has-become-france-s-hottest-debate-7bf7da99ce",
+        "rank": 21,
+        "retentionScore": 58,
+        "freshnessScore": 86,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-abc-news-live-prime-june-24-2026-43558cfb51",
+        "rank": 22,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-live-abc-news-live-wednesday-june-24-abc-news-141cf659e8",
+        "rank": 23,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-rep-walkinshaw-on-trump-s-refusal-to-sign-bipart-8745326b1d",
+        "rank": 24,
         "retentionScore": 53,
         "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-charlie-kirk-murder-live-death-penalty-showdown--aa6fd16af5",
-        "rank": 10,
+        "id": "video-new-survey-shows-americans-favor-prayer-in-schoo-84db37dd20",
+        "rank": 25,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-the-suicide-coach-in-his-pocket-parents-sue-open-79948fe314",
+        "rank": 26,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-abc-world-news-tonight-with-david-muir-full-broa-bb8e45da9f",
+        "rank": 27,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mamdani-backed-house-candidates-sweep-in-3-nyc-p-5e03836d9c",
+        "rank": 28,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-gutfeld-one-mysterious-man-moves-into-town-5a18126ca9",
+        "rank": 29,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-britain-has-a-real-problem-on-their-hands-un-off-851074ee28",
+        "rank": 30,
         "retentionScore": 53,
         "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-trump-declares-major-win-as-iran-agrees-to-no-nu-accf7965be",
-        "rank": 11,
-        "retentionScore": 53,
-        "freshnessScore": 94,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-marco-rubio-live-rubio-drops-major-iran-bombshel-a703c99873",
-        "rank": 12,
-        "retentionScore": 53,
-        "freshnessScore": 94,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-us-president-trump-s-big-statement-on-iran-nucle-86efc6001b",
-        "rank": 13,
+        "id": "video-jpmorgan-chase-fires-employee-who-takes-knicks-p-7314c583d3",
+        "rank": 31,
         "retentionScore": 52,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-sea-of-ronaldo-fans-celebrate-as-cr7-sets-fifa-w-e5bda5dfa1",
-        "rank": 14,
+        "id": "video-trump-cancels-signing-of-bipartisan-affordable-h-a36091063c",
+        "rank": 32,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-magnitude-5-6-earthquake-rattles-northern-califo-defc4fa312",
+        "rank": 33,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-powerful-back-to-back-earthquakes-rattle-venezue-35d38be097",
+        "rank": 34,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-lunatic-trump-to-gop-senator-after-bill-blowup-w-b098ceec2e",
+        "rank": 35,
         "retentionScore": 52,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-breaking-news-live-trump-issues-massive-tonight--16896bb389",
-        "rank": 15,
-        "retentionScore": 46,
-        "freshnessScore": 77,
+        "id": "video-watters-they-want-revenge-a39e0e133a",
+        "rank": 36,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-caught-on-cam-dem-knocks-phone-out-of-a-man-s-ha-339e5856b3",
+        "rank": 37,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-scotland-s-tartan-army-takes-over-miami-more-wor-32609da599",
+        "rank": 38,
+        "retentionScore": 51,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-1-billion-barrels-of-oil-missing-during-iran-war-f46f1f8e35",
+        "rank": 39,
+        "retentionScore": 51,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-the-five-dems-reject-trump-s-offer-to-help-fight-75e96b1207",
+        "rank": 40,
+        "retentionScore": 51,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-the-five-new-king-maker-of-the-dem-party-3caadd8939",
+        "rank": 41,
+        "retentionScore": 51,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-knicks-parade-attendee-who-dumped-trash-on-sidew-f6e6af9b3b",
+        "rank": 42,
+        "retentionScore": 51,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-president-trump-meets-with-nato-sec-general-mark-14f36a9ad1",
+        "rank": 43,
+        "retentionScore": 51,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-out-of-cash-iran-war-bill-hits-pentagon-amid-fun-1eec700663",
+        "rank": 44,
+        "retentionScore": 51,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-n-korea-unveils-its-largest-warship-ever-ex-us-a-b6a11cd083",
+        "rank": 45,
+        "retentionScore": 50,
+        "freshnessScore": 87,
         "relatedPath": "/news"
       }
     ],
