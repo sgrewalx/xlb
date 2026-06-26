@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T06:52:49.738Z",
+  "updatedAt": "2026-06-26T06:59:09.450Z",
   "surfaces": {
     "home": [
       {
@@ -26,319 +26,697 @@
     ],
     "video": [
       {
-        "id": "video-trump-kicks-off-great-american-state-fair-d7b602c29d",
+        "id": "video-cm-vijay-flags-off-massive-start-run-stop-drugs--49c860a9fe",
         "rank": 1,
         "retentionScore": 73,
         "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-watters-these-people-want-to-hurt-you-foxnews-ne-be1ec94ba8",
+        "id": "video-youth-pastor-charged-in-murder-dies-before-court-52c9ab8a89",
         "rank": 2,
         "retentionScore": 73,
         "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-mamdani-s-risk-pays-off-in-new-york-city-s-congr-67acfd7b08",
+        "id": "video-van-driver-gives-armed-officer-a-lift-to-chase-s-dbd8bc7a91",
         "rank": 3,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-supreme-court-hands-trump-two-immigration-wins-a-749a60978f",
+        "rank": 4,
+        "retentionScore": 73,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-venezuela-earthquake-trump-extends-his-support-s-46ea6e839d",
+        "rank": 5,
+        "retentionScore": 73,
+        "freshnessScore": 96,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-venezuela-earthquake-shakes-plane-on-airport-tar-e7e33a5767",
+        "rank": 6,
+        "retentionScore": 72,
+        "freshnessScore": 94,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-poland-s-deputy-pm-doesn-t-think-russia-will-att-6d816b4354",
+        "rank": 7,
         "retentionScore": 72,
         "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-will-taylor-swift-s-wedding-be-at-madison-square-09409a42b3",
-        "rank": 4,
-        "retentionScore": 70,
-        "freshnessScore": 96,
+        "id": "video-watters-this-movement-has-a-real-desire-to-overt-6eada27fb6",
+        "rank": 8,
+        "retentionScore": 72,
+        "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-laura-these-policies-honor-our-constitution-foxn-5a0eb711fc",
-        "rank": 5,
+        "id": "video-american-narrowly-survives-earthquake-in-venezue-60c7b58dbe",
+        "rank": 9,
+        "retentionScore": 70,
+        "freshnessScore": 96,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-raghav-chadha-demands-punjab-cm-bhagwant-mann-s--915f61c3b1",
+        "rank": 10,
         "retentionScore": 69,
         "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-fbi-nypd-searches-amid-corruption-investigation-2e40a88334",
-        "rank": 6,
-        "retentionScore": 68,
-        "freshnessScore": 92,
+        "id": "video-survivor-describes-chaos-near-venezuela-s-earthq-b41d67ffcb",
+        "rank": 11,
+        "retentionScore": 69,
+        "freshnessScore": 93,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-wounded-soldiers-and-families-accuse-army-of-dow-7c6b7f2c0e",
+        "rank": 12,
+        "retentionScore": 69,
+        "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-un-appointed-inquiry-finds-israel-targeting-pale-6e6df66346",
-        "rank": 7,
+        "id": "video-brazilian-world-cup-fans-help-scottish-fan-place-dea8d871b2",
+        "rank": 13,
+        "retentionScore": 69,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lumumba-vea-dr-congo-s-living-statue-dw-news-d50032ada8",
+        "rank": 14,
+        "retentionScore": 69,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-don-t-you-be-a-hypocrite-mullin-dem-lawmaker-spa-91cf0a8f14",
+        "rank": 15,
+        "retentionScore": 69,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-pune-murder-siya-s-father-breaks-silence-if-she--60f935d9cc",
+        "rank": 16,
+        "retentionScore": 66,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-detroit-lions-terrion-arnold-arrested-on-kidnapp-a71e9ae27c",
+        "rank": 17,
+        "retentionScore": 66,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-paris-opens-cooling-centers-as-extreme-heat-wave-ab944105ee",
+        "rank": 18,
+        "retentionScore": 66,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-swedish-lawmaker-brings-baby-to-eu-meeting-in-bl-285bf9c77e",
+        "rank": 19,
+        "retentionScore": 66,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-before-and-after-images-show-sheer-devastation-o-de1a05323f",
+        "rank": 20,
         "retentionScore": 66,
         "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-powerful-earthquakes-rattle-venezuela-b059a8a0af",
-        "rank": 8,
-        "retentionScore": 65,
-        "freshnessScore": 92,
         "relatedPath": "/events/global-earthquake-watch"
       },
       {
-        "id": "video-watch-protests-outside-brooklyn-coffee-shop-that-8198bcb938",
-        "rank": 9,
+        "id": "video-rebuilding-ukraine-without-zelenskyy-dw-news-d82149d947",
+        "rank": 21,
         "retentionScore": 65,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-7-2-and-7-5-magnitude-earthquakes-strike-venezue-6ced22dff3",
-        "rank": 10,
+        "id": "video-top-headlines-of-the-day-ram-mandir-chori-pune-k-ed58c85234",
+        "rank": 22,
+        "retentionScore": 64,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mullin-and-rep-delauro-get-into-heated-exchange--fc84c3b798",
+        "rank": 23,
         "retentionScore": 63,
         "freshnessScore": 94,
-        "relatedPath": "/events/global-earthquake-watch"
-      },
-      {
-        "id": "video-key-army-general-relinquishing-command-65bdc90c67",
-        "rank": 11,
-        "retentionScore": 62,
-        "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-trump-these-people-are-communists-shorts-foxnews-0724e4eeee",
-        "rank": 12,
-        "retentionScore": 62,
-        "freshnessScore": 91,
+        "id": "video-trump-wants-to-build-the-world-s-tallest-arch-fo-239fca628b",
+        "rank": 24,
+        "retentionScore": 63,
+        "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-nato-chief-presents-trump-trillion-chart-on-euro-7d1f579a68",
-        "rank": 13,
+        "id": "video-paraguay-vs-australia-live-watch-party-of-2026-w-abb6d3aa5c",
+        "rank": 25,
+        "retentionScore": 63,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-uk-records-its-hottest-june-day-ever-bbc-news-a54131a143",
+        "rank": 26,
+        "retentionScore": 63,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-pm-modi-meets-queen-maxima-discusses-india-s-dig-e52e0c00e2",
+        "rank": 27,
+        "retentionScore": 62,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-luigi-mangione-s-attorneys-discussed-possible-pl-aa2761d020",
+        "rank": 28,
+        "retentionScore": 62,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-supreme-court-allows-trump-to-end-tps-protection-62e576c6b9",
+        "rank": 29,
+        "retentionScore": 62,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-former-abc-news-producer-max-oseredchuk-dies-in--13c402bed6",
+        "rank": 30,
+        "retentionScore": 62,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-what-s-next-in-the-palisades-fire-arson-trial-a5be6ce88f",
+        "rank": 31,
         "retentionScore": 61,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-inside-the-explosive-trump-cassidy-capitol-showd-c0bf925151",
-        "rank": 14,
+        "id": "video-mea-passport-row-news-updates-top-news-a4c539db92",
+        "rank": 32,
+        "retentionScore": 61,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-s-great-american-state-fair-kicks-off-ab63695db6",
+        "rank": 33,
         "retentionScore": 61,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-how-billionaire-donors-funnel-money-into-electio-7af66afee4",
-        "rank": 15,
+        "id": "video-america-at-250-poll-reveals-deep-bipartisan-frac-8bcc6ceba1",
+        "rank": 34,
+        "retentionScore": 61,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-japan-vs-sweden-live-watch-party-of-2026-world-c-dd618c8114",
+        "rank": 35,
         "retentionScore": 60,
-        "freshnessScore": 90,
+        "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-russian-held-crimea-hit-hard-by-resurgent-ukrain-c888a29755",
-        "rank": 16,
-        "retentionScore": 60,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-democratic-rep-knocks-phone-out-of-a-man-s-hand--58d0bfe19c",
-        "rank": 17,
-        "retentionScore": 60,
-        "freshnessScore": 90,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-whose-phone-is-that-trump-reacts-to-phone-ring-i-072ffc2ddb",
-        "rank": 18,
-        "retentionScore": 60,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-mamdani-s-strategist-looks-beyond-the-label-of-d-6253d16bc4",
-        "rank": 19,
-        "retentionScore": 59,
-        "freshnessScore": 88,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-why-the-uk-is-not-built-for-heatwaves-0fba5134cc",
-        "rank": 20,
+        "id": "video-aajtak-2-live-ayodhya-ram-mandir-pmo-at2-live-5b28071f5b",
+        "rank": 36,
         "retentionScore": 58,
-        "freshnessScore": 86,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-why-ac-has-become-france-s-hottest-debate-7bf7da99ce",
-        "rank": 21,
+        "id": "video-gutfeld-when-did-men-stop-wearing-these-cdeb5e5ab4",
+        "rank": 37,
         "retentionScore": 58,
-        "freshnessScore": 86,
+        "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-abc-news-live-prime-june-24-2026-43558cfb51",
-        "rank": 22,
+        "id": "video-us-vs-iran-us-official-claims-idf-troops-have-wi-8ed1b9f962",
+        "rank": 38,
+        "retentionScore": 58,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-aajtak-2-asim-munir-at2-516fc4786f",
+        "rank": 39,
+        "retentionScore": 55,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-venezuela-earthquake-rescuers-race-against-time--699cbbbbc3",
+        "rank": 40,
+        "retentionScore": 55,
+        "freshnessScore": 96,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-pune-horror-push-her-from-same-fort-accused-siya-2ea59b30ee",
+        "rank": 41,
         "retentionScore": 54,
         "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-live-abc-news-live-wednesday-june-24-abc-news-141cf659e8",
-        "rank": 23,
+        "id": "video-karoline-leavitt-live-karoline-s-shocking-russia-9d0ca2cb93",
+        "rank": 42,
         "retentionScore": 54,
         "freshnessScore": 96,
         "relatedPath": "/news"
       },
       {
-        "id": "video-rep-walkinshaw-on-trump-s-refusal-to-sign-bipart-8745326b1d",
-        "rank": 24,
+        "id": "video-siya-goyal-s-parents-live-ketan-agarwal-05fe8f0861",
+        "rank": 43,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-breaking-news-up-50-940badb11a",
+        "rank": 44,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-rahul-gandhi-mp-court-top-news-151b2b436b",
+        "rank": 45,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-chennai-cm-vijay-start-run-stop-drugs-07cf4e4c44",
+        "rank": 46,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-breaking-news-odisha-1f11428198",
+        "rank": 47,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-ram-mandir-donation-case-fir-8-top-news-183aa66ab1",
+        "rank": 48,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nihang-sikh-protest-live-updates-dehradun-acfb938329",
+        "rank": 49,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-live-abc-news-live-thursday-june-25-abc-news-377dd68922",
+        "rank": 50,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-the-pakistani-general-who-brought-trump-iran-tog-4e18f1e594",
+        "rank": 51,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-justices-side-with-agrochemicals-giant-bayer-aga-e69379a467",
+        "rank": 52,
+        "retentionScore": 54,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-emboldened-democratic-party-establishment-on-end-c873f41fc6",
+        "rank": 53,
+        "retentionScore": 54,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-hormuz-crisis-oman-unveils-new-shipping-transit--6f711a6072",
+        "rank": 54,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-europe-heatwave-swiss-temperature-record-falls-g-f189027a35",
+        "rank": 55,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-venezuela-disaster-235-dead-1-500-injured-world--a7d21fe4e6",
+        "rank": 56,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-fifa-world-cup-2026-france-norway-clash-today-wi-3ae2c4af8a",
+        "rank": 57,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-japan-earthquake-live-japan-hit-by-strong-6-9-ma-32bb85377c",
+        "rank": 58,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-europe-heatwave-why-is-europe-sweltering-with-hi-d8c0b0c722",
+        "rank": 59,
+        "retentionScore": 54,
+        "freshnessScore": 96,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-netanyahu-live-shocking-trump-netanyahu-se-de5a64e9fa",
+        "rank": 60,
         "retentionScore": 53,
         "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-new-survey-shows-americans-favor-prayer-in-schoo-84db37dd20",
-        "rank": 25,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-the-suicide-coach-in-his-pocket-parents-sue-open-79948fe314",
-        "rank": 26,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-abc-world-news-tonight-with-david-muir-full-broa-bb8e45da9f",
-        "rank": 27,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-mamdani-backed-house-candidates-sweep-in-3-nyc-p-5e03836d9c",
-        "rank": 28,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-gutfeld-one-mysterious-man-moves-into-town-5a18126ca9",
-        "rank": 29,
-        "retentionScore": 53,
-        "freshnessScore": 95,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-britain-has-a-real-problem-on-their-hands-un-off-851074ee28",
-        "rank": 30,
+        "id": "video-ram-mandir-donation-theft-politics-peaks-despite-7608799d51",
+        "rank": 61,
         "retentionScore": 53,
         "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-jpmorgan-chase-fires-employee-who-takes-knicks-p-7314c583d3",
-        "rank": 31,
-        "retentionScore": 52,
-        "freshnessScore": 93,
+        "id": "video-pune-murder-case-siya-s-father-breaks-silence-sa-b1c9567f49",
+        "rank": 62,
+        "retentionScore": 53,
+        "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-trump-cancels-signing-of-bipartisan-affordable-h-a36091063c",
-        "rank": 32,
-        "retentionScore": 52,
-        "freshnessScore": 93,
+        "id": "video-ram-mandir-donation-scam-live-updates-champat-ra-fa95ca3da4",
+        "rank": 63,
+        "retentionScore": 53,
+        "freshnessScore": 95,
         "relatedPath": "/news"
       },
       {
-        "id": "video-magnitude-5-6-earthquake-rattles-northern-califo-defc4fa312",
-        "rank": 33,
-        "retentionScore": 52,
-        "freshnessScore": 92,
+        "id": "video-uttarakhand-nihang-sikh-protest-news-live-dehrad-95f991ada8",
+        "rank": 64,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-uttarakhand-nihang-sikh-protest-live-updates-deh-c5e92275db",
+        "rank": 65,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-some-in-maha-movement-express-frustration-over-s-6d2931a023",
+        "rank": 66,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-hallie-jackson-now-june-25-nbc-news-now-49c8373807",
+        "rank": 67,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-catching-up-with-with-whistleblowers-on-secret-g-6267bef8f6",
+        "rank": 68,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-top-story-with-tom-llamas-june-25-nbc-news-now-2a0174e9a1",
+        "rank": 69,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-abc-news-live-prime-jun-25-2026-ba82c6462d",
+        "rank": 70,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-america-250-revolutionary-cosplay-c52db4dc95",
+        "rank": 71,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-extended-interview-polish-deputy-prime-minister--81b363afec",
+        "rank": 72,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-experts-on-the-venezuela-earthquakes-the-scale-o-5e8927b679",
+        "rank": 73,
+        "retentionScore": 53,
+        "freshnessScore": 95,
         "relatedPath": "/events/global-earthquake-watch"
       },
       {
-        "id": "video-powerful-back-to-back-earthquakes-rattle-venezue-35d38be097",
-        "rank": 34,
-        "retentionScore": 52,
-        "freshnessScore": 92,
-        "relatedPath": "/events/global-earthquake-watch"
-      },
-      {
-        "id": "video-lunatic-trump-to-gop-senator-after-bill-blowup-w-b098ceec2e",
-        "rank": 35,
-        "retentionScore": 52,
-        "freshnessScore": 92,
+        "id": "video-gubernatorial-candidate-steve-hilton-on-his-race-925a2b6333",
+        "rank": 74,
+        "retentionScore": 53,
+        "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-watters-they-want-revenge-a39e0e133a",
-        "rank": 36,
+        "id": "video-abc-world-news-tonight-with-david-muir-full-broa-4b503606de",
+        "rank": 75,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-brad-lander-on-what-mamdani-s-progressive-sweep--64c200437f",
+        "rank": 76,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/events/roscosmos-progress-96"
+      },
+      {
+        "id": "video-geo-technical-engineering-expert-explains-what-m-456af000f8",
+        "rank": 77,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-venezuelan-airport-outside-caracas-reopens-after-ca8d1a7094",
+        "rank": 78,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-what-colombia-s-new-president-means-for-the-figh-6d51e5d8c0",
+        "rank": 79,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-rutte-bromance-hits-a-snag-dw-news-478c242973",
+        "rank": 80,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-gingrich-the-constitution-still-works-d714893666",
+        "rank": 81,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-us-iran-war-iran-strikes-cargo-ships-in-strait-o-e901d19075",
+        "rank": 82,
+        "retentionScore": 53,
+        "freshnessScore": 95,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-us-iran-war-live-iran-targets-cargo-ship-in-horm-adc301b481",
+        "rank": 83,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-russia-ukraine-war-kyiv-targets-moscow-with-mass-a3f5ff0990",
+        "rank": 84,
+        "retentionScore": 53,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-pete-hegseth-live-iranians-are-hitting-us-everyw-f293fae89f",
+        "rank": 85,
         "retentionScore": 52,
         "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-caught-on-cam-dem-knocks-phone-out-of-a-man-s-ha-339e5856b3",
-        "rank": 37,
+        "id": "video-superfast-news-live-pune-murder-case-ram-mandir--c7d39e524e",
+        "rank": 86,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-cape-verde-becomes-world-cup-cinderella-story-ab5a9a96f4",
+        "rank": 87,
         "retentionScore": 52,
         "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-scotland-s-tartan-army-takes-over-miami-more-wor-32609da599",
-        "rank": 38,
-        "retentionScore": 51,
-        "freshnessScore": 91,
+        "id": "video-ancient-scrolls-unread-for-2-000-years-revealed--d6174860d0",
+        "rank": 88,
+        "retentionScore": 52,
+        "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-1-billion-barrels-of-oil-missing-during-iran-war-f46f1f8e35",
-        "rank": 39,
-        "retentionScore": 51,
-        "freshnessScore": 89,
+        "id": "video-jury-remains-deadlocked-in-palisades-fire-arson--2aea1d4379",
+        "rank": 89,
+        "retentionScore": 52,
+        "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-the-five-dems-reject-trump-s-offer-to-help-fight-75e96b1207",
-        "rank": 40,
-        "retentionScore": 51,
-        "freshnessScore": 91,
+        "id": "video-family-fights-for-coverage-of-autism-therapy-b2f80cef64",
+        "rank": 90,
+        "retentionScore": 52,
+        "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-the-five-new-king-maker-of-the-dem-party-3caadd8939",
-        "rank": 41,
-        "retentionScore": 51,
-        "freshnessScore": 91,
+        "id": "video-thousands-feared-dead-after-back-to-back-earthqu-dce495b88d",
+        "rank": 91,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-iran-strikes-cargo-ship-in-strait-of-hormuz-34501f6443",
+        "rank": 92,
+        "retentionScore": 52,
+        "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-knicks-parade-attendee-who-dumped-trash-on-sidew-f6e6af9b3b",
-        "rank": 42,
-        "retentionScore": 51,
-        "freshnessScore": 90,
+        "id": "video-nfl-star-terrion-arnold-held-without-bond-in-rob-0f6e5edaed",
+        "rank": 93,
+        "retentionScore": 52,
+        "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-president-trump-meets-with-nato-sec-general-mark-14f36a9ad1",
-        "rank": 43,
-        "retentionScore": 51,
-        "freshnessScore": 89,
+        "id": "video-trump-continues-housing-bill-standoff-supreme-co-1aa4576309",
+        "rank": 94,
+        "retentionScore": 52,
+        "freshnessScore": 92,
         "relatedPath": "/news"
       },
       {
-        "id": "video-out-of-cash-iran-war-bill-hits-pentagon-amid-fun-1eec700663",
-        "rank": 44,
-        "retentionScore": 51,
-        "freshnessScore": 89,
+        "id": "video-iran-strikes-ship-in-hormuz-after-trump-claims-t-7a3e67f31e",
+        "rank": 95,
+        "retentionScore": 52,
+        "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-n-korea-unveils-its-largest-warship-ever-ex-us-a-b6a11cd083",
-        "rank": 45,
-        "retentionScore": 50,
-        "freshnessScore": 87,
+        "id": "video-watters-these-people-are-cold-blooded-revolution-0d4f680be2",
+        "rank": 96,
+        "retentionScore": 52,
+        "freshnessScore": 93,
         "relatedPath": "/news"
+      },
+      {
+        "id": "video-markwayne-mullin-to-dem-lawmaker-don-t-point-you-cecaee1b71",
+        "rank": 97,
+        "retentionScore": 52,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-russia-ukraine-live-kyiv-unleashes-massive-drone-bdf09565a6",
+        "rank": 98,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-venezuela-earthquake-live-twin-earthquakes-trigg-354fbd51b9",
+        "rank": 99,
+        "retentionScore": 52,
+        "freshnessScore": 93,
+        "relatedPath": "/events/global-earthquake-watch"
       }
     ],
     "games": [
