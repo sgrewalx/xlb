@@ -1,35 +1,45 @@
 {
-  "updatedAt": "2026-06-26T18:20:23.566Z",
+  "updatedAt": "2026-06-26T20:24:41.856Z",
   "section": "Expanded Sports",
   "items": [
     {
-      "id": "sports-cricket-today-at-the-test-db1b92f3a5",
-      "title": "Cricket: Today at the Test",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+      "id": "sports-lynn-lights-the-fuse-as-northants-run-riot-again-e6b3b5dca6",
+      "title": "Lynn lights the fuse as Northants run riot against Essex",
+      "source": "ESPNcricinfo",
+      "url": "https://www.cricinfo.com/ci/content/story/1543127.html?ex_cid=OTC-RSS",
       "tag": "Cricket",
-      "publishedAt": "2026-06-26T19:00:25.000Z",
-      "summary": "Day 2 highlights from the third Test match between England and New Zealand.",
+      "publishedAt": "2026-06-26T20:16:04.000Z",
+      "summary": "Visitors rolled aside for 108 after Vasconcelos, Willey help pile on the runs",
       "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
     },
     {
-      "id": "sports-norway-v-france-world-cup-2026-live-fdf480c268",
-      "title": "Norway v France: World Cup 2026 – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates",
-      "tag": "Football",
-      "publishedAt": "2026-06-26T18:11:28.000Z",
-      "summary": "⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST ⚽️ Third-place table | Player guide | Golden Boot | Mail Scott ⚽️ Senegal v Iraq – live updates from the group’s other game...",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-fifa-world-cup-erling-haaland-and-others-not-sta-8607ce4165",
-      "title": "FIFA World Cup | Erling Haaland and others not starting for Norway against France at the World Cup",
+      "id": "sports-france-vs-norway-fifa-world-cup-live-dembele-sco-64e09786a6",
+      "title": "France vs Norway, FIFA World Cup LIVE | Dembele scores hat-trick, Haaland rested in final group match",
       "source": "The Hindu Sports",
       "url": "https://www.thehindu.com/sport/football/france-vs-norway-world-cup-match-live-updates-june-26-2026/article71151930.ece",
       "tag": "Sports",
-      "publishedAt": "2026-06-26T18:11:01.000Z",
-      "summary": "France ‌can secure a more comfortable route through the World Cup when they ​face Norway in their final Group I match, though ⁠finishing top could leave them facing one of the t...",
+      "publishedAt": "2026-06-26T20:15:14.000Z",
+      "summary": "Coach Ståle Solbakken appears to be resting Haaland and 10 others with Norway already qualified for Round of 32",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-ferdinand-takes-first-coaching-role-at-hornchurc-b913af89a9",
+      "title": "Ferdinand takes first coaching role at Hornchurch",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceqd15ry00go?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-06-26T20:12:50.000Z",
+      "summary": "Former West Ham defender Anton Ferdinand joins Robert Lee as National League side Hornchurch's latest high-profile appointment.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-serena-williams-faces-maya-joint-in-wimbledon-op-d62f903390",
+      "title": "Serena Williams faces Maya Joint in Wimbledon opener as Draper and Raducanu dealt tough draw",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/jun/26/serena-williams-wimbledon-draw-raducanu-djokovic-sinner-tennis",
+      "tag": "Tennis",
+      "publishedAt": "2026-06-26T19:13:18.000Z",
+      "summary": "Draper to play sixth seed Taylor Fritz in first match Ostapenko and Sabalenka drawn in Raducanu’s quarter Serena Williams will face Australia’s Maja Joint at Wimbledon in her lo...",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
@@ -43,16 +53,6 @@
       "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
     },
     {
-      "id": "sports-bergs-v-samuel-best-shots-from-brit-s-semi-final-4277e03053",
-      "title": "Bergs v Samuel - best shots from Brit's semi-final defeat",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/tennis/videos/c74y020z2kvo?at_medium=RSS&at_campaign=rss",
-      "tag": "Tennis",
-      "publishedAt": "2026-06-26T16:26:53.000Z",
-      "summary": "Watch the best shots from Great Britain's Toby Samuel as his dream run ends in a closely contested three-set defeat by Zizou Bergs at Eastbourne.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
       "id": "sports-toronto-tempo-s-marina-mabrey-ties-wnba-scoring--cbeb208ffe",
       "title": "Toronto Tempo’s Marina Mabrey ties WNBA scoring record with 53 points",
       "source": "The Guardian",
@@ -63,64 +63,64 @@
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-senegal-v-iraq-world-cup-2026-live-52aca1ed86",
+      "id": "sports-fifa-world-cup-iraq-vs-senegal-diaw-starts-for-i-4ccfb5314b",
+      "title": "FIFA World Cup, Iraq vs Senegal | Diaw starts for injured Mendy, Iraq looks to make history",
+      "source": "The Hindu Sports",
+      "url": "https://www.thehindu.com/sport/football/iraq-vs-senegal-world-cup-match-live-updates-june-26-2026/article71151938.ece",
+      "tag": "Sports",
+      "publishedAt": "2026-06-26T20:14:14.000Z",
+      "summary": "Iraq ⁠are bottom of Group I, which is one ‌of the toughest groups in this edition",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-senegal-v-iraq-world-cup-2026-live-a9fd11cf86",
       "title": "Senegal v Iraq: World Cup 2026 – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates",
       "tag": "Football",
-      "publishedAt": "2026-06-26T18:11:24.000Z",
-      "summary": "⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST ⚽️ Third-place table | Player guide | Golden Boot | Mail us ⚽️ Norway v France – live updates elsewhere in the group Neither...",
+      "publishedAt": "2026-06-26T20:12:49.000Z",
+      "summary": "⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST ⚽️ Third-place table | Player guide | Group tables | Mail us ⚽️ Norway v France – live updates elsewhere in the group Norway...",
       "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     },
     {
-      "id": "sports-steelers-hire-darian-thompson-as-special-teams-q-0224b3cd04",
-      "title": "Steelers hire Darian Thompson as special teams quality control coach",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-hire-darian-thompson-as-special-teams-quality-control-coach",
-      "tag": "Sports",
-      "publishedAt": "2026-06-26T18:10:37.000Z",
-      "summary": "The Steelers have made an addition to their coaching staff.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-belgium-vs-new-zealand-odds-prediction-time-2026-cf27b3ab4d",
-      "title": "Belgium vs. New Zealand odds, prediction, time: 2026 World Cup picks, best bets by expert on 18-8 roll",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/belgium-new-zealand-odds-prediction-time-2026-world-cup-picks-best-bets",
-      "tag": "Sports",
-      "publishedAt": "2026-06-26T18:09:48.000Z",
-      "summary": "SportsLine's Martin Green reveals his Belgium vs. New Zealand best bets for their FIFA World Cup 2026 match on Friday",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-ufc-freedom-250-how-many-people-watched-trump-s--e6b016db52",
-      "title": "UFC Freedom 250: How many people watched Trump's event worldwide? White House card shatters previous records",
-      "source": "Hindustan Times Sports",
-      "url": "https://www.hindustantimes.com/sports/us-sports/ufc-freedom-250-how-many-people-watched-trumps-event-worldwide-white-house-card-shatters-previous-records-101782494737511.html",
-      "tag": "Sports",
-      "publishedAt": "2026-06-26T18:06:26.000Z",
-      "summary": "UFC Freedom 250 reached 34 million viewers worldwide, set streaming records, and delivered an action-packed card led by Justin Gaethje.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-ben-stokes-four-for-ben-duckett-hundred-as-engla-14ee601f5b",
-      "title": "Ben Stokes four-for, Ben Duckett hundred as England roar back",
-      "source": "ESPNcricinfo",
-      "url": "https://www.cricinfo.com/ci/content/story/1543029.html?ex_cid=OTC-RSS",
-      "tag": "Cricket",
-      "publishedAt": "2026-06-26T18:02:54.000Z",
-      "summary": "Run-a-ball partnership of 179 between Duckett and Jacob Bethell transfers pressure back on to New Zealand",
-      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
-    },
-    {
-      "id": "sports-all-done-deals-in-june-2026-ba6906222d",
-      "title": "All done deals in June 2026",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "id": "sports-norway-v-france-world-cup-2026-live-5911af4448",
+      "title": "Norway v France: World Cup 2026 – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates",
       "tag": "Football",
-      "publishedAt": "2026-06-26T18:02:37.000Z",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "publishedAt": "2026-06-26T20:11:57.000Z",
+      "summary": "⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST ⚽️ Third-place table | Player guide | Group tables | Mail Scott ⚽️ Senegal v Iraq – live updates from the group’s other game...",
       "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-demb-l-hat-trick-france-star-has-three-goals-vs--e5c427221e",
+      "title": "Dembélé Hat Trick! France Star Has Three Goals vs. Norway At World Cup",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/ousmane-dembele-world-cup-goals-hat-trick-france-mbappe",
+      "tag": "Sports",
+      "publishedAt": "2026-06-26T20:11:15.000Z",
+      "summary": "France winger Ousmane Dembélé scored three goals in the first half of its World Cup match against Norway,",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-is-erling-haaland-really-injured-fans-rage-as-he-93cdc5ffc0",
+      "title": "Is Erling Haaland really injured? Fans rage as he's benched for Norway vs Mbappé's France",
+      "source": "Hindustan Times Sports",
+      "url": "https://www.hindustantimes.com/sports/us-sports/is-erling-haaland-really-injured-fans-rage-as-hes-benched-for-norway-vs-mbapp-s-france-101782503788192.html",
+      "tag": "Sports",
+      "publishedAt": "2026-06-26T20:06:03.000Z",
+      "summary": "Erling Haaland was a surprise omission from Norway's starting lineup for their final group-stage match against France.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-chaz-coleman-tennessee-part-ways-as-vols-massive-585f636fbe",
+      "title": "Chaz Coleman, Tennessee part ways as Vols' massive transfer bet goes bust",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/chaz-coleman-dismissed-by-tennessee-as-vols-massive-transfer-bet-goes-bust",
+      "tag": "Sports",
+      "publishedAt": "2026-06-26T20:05:53.000Z",
+      "summary": "Coleman arrived as a top-10 transfer and one of Tennessee's splashiest NIL-era additions. Months later, the Vols are moving on.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     }
   ]
 }
