@@ -1,45 +1,65 @@
 {
-  "updatedAt": "2026-06-26T16:06:55.585Z",
+  "updatedAt": "2026-06-26T18:22:38.946Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-i-found-the-best-prime-day-pixel-buds-deals-2a-p-d8a37a10a6",
-      "title": "I Found the Best Prime Day Pixel Buds Deals: 2a, Pro (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/google-pixel-buds-prime-day-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-06-26T15:58:48.000Z",
-      "summary": "Google Pixel Buds are steeply on sale, presumably only through the end of the day.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-xreal-s-best-usb-c-smart-glasses-are-50-off-but--ab945fc4a1",
-      "title": "Xreal’s best USB-C smart glasses are $50 off, but not for long",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-06-26T15:53:08.000Z",
-      "summary": "If you’ve been curious about the emerging world of smart glasses, Prime Day is your chance to try some of the best models with a rare discount from Best Buy or directly from Xre...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-xprize-founder-says-humans-behave-better-when-th-0ea04b0e05",
-      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
+      "id": "tech-openai-poaches-uber-india-chief-to-lead-its-bigg-5ccea0789b",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the U.S.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
       "tag": "Technology",
-      "publishedAt": "2026-06-26T15:46:05.000Z",
-      "summary": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024.",
+      "publishedAt": "2026-06-26T18:19:36.000Z",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-samsung-will-start-charging-for-smartthings-api--12e7baa0d2",
-      "title": "Samsung will start charging for SmartThings API access",
+      "id": "tech-what-to-expect-at-the-next-samsung-galaxy-unpack-aea59ce0b3",
+      "title": "What to expect at the next Samsung Galaxy Unpacked",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2202497/samsung-will-start-charging-for-smartthings-api-access",
+      "url": "https://www.engadget.com/2202726/foldables-watches-and-glasses-could-be-on-the-way",
       "tag": "Technology",
-      "publishedAt": "2026-06-26T15:36:15.000Z",
-      "summary": "Samsung will start charging for SmartThings API access.",
+      "publishedAt": "2026-06-26T18:14:45.000Z",
+      "summary": "Foldables, watches and glasses could be on the way from Samsung.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-prime-day-macbook-deals-i-recommend-2026-d4c006fb1c",
+      "title": "The Prime Day MacBook Deals I Recommend (2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-06-26T18:07:38.000Z",
+      "summary": "Apple has warned about MacBook prices rising, making these Prime Day deals even more worthwhile to consider.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-beautiful-shame-658772d252",
+      "title": "The beautiful shame",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump",
+      "tag": "Technology",
+      "publishedAt": "2026-06-26T18:00:00.000Z",
+      "summary": "While European tourists marvel at ranch dressing, Buc-ee's, and other wonders of Middle America, would-be World Cup attendees from Africa, Asia, and the Middle East have experie...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-25-of-indian-tech-services-firms-have-moved-ai-e-6c1e6f5495",
+      "title": "25% of Indian tech services firms have moved AI experiments into production level: Nasscom",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/business/25-of-indian-tech-services-firms-have-moved-ai-experiments-into-production-level-nasscom/article71150679.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-26T17:56:47.000Z",
+      "summary": "‘Indian IT is currently generating up to $12 billion in AI services revenue, with more than 2 million professionals skilled in AI and 100,000 to 200,000 trained in advanced AI c...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-antibiotic-megacluster-discovery-provides-new-st-5e152d540f",
+      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs",
+      "tag": "Technology",
+      "publishedAt": "2026-06-26T17:46:07.000Z",
+      "summary": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-26T15:21:16.000Z",
       "summary": "Steam Summer Sale, as expected, brings deep discounts on several popular games. Games like The Witcher 3, Far Cry 4, Ghostwire Tokyo, Dishonored, A Plague Tale: Innocence, and C...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-vw-may-close-four-factories-to-adapt-to-the-futu-8d25ba1ecf",
-      "title": "VW may close four factories to adapt to the future, report says",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says",
-      "tag": "Technology",
-      "publishedAt": "2026-06-26T15:10:03.000Z",
-      "summary": "With falling sales in the US and especially China, VW Group wants to restructure.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-whatsapp-still-barely-makes-meta-any-money-can-k-615e2a16d1",
-      "title": "WhatsApp still barely makes Meta any money. Can Kunal Shah change that?",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/whatsapp-still-barely-makes-meta-any-money-can-kunal-shah-change-that/article71145155.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-26T04:50:52.000Z",
-      "summary": "This week, Meta named Kunal Shah, founder of Indian fintech CRED, as WhatsApp’s new global head, succeeding Will Cathcart after nearly seven years at the helm",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-prime-day-s-best-handheld-fan-deals-up-to-20-off-73fd529426",
-      "title": "Prime Day’s Best Handheld Fan Deals, Up to 20% Off, Are About to Disappear (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/amazon-prime-day-deals-on-handheld-fans-2026",
+      "id": "tech-this-video-bird-feeder-is-the-surprise-hit-of-pr-95ef68f892",
+      "title": "This video bird feeder is the surprise hit of Prime Day",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-06-26T15:56:39.000Z",
-      "summary": "These are the best last-minute Prime Day discounts on handheld fans, from $10 budget buys to Shark’s high-tech ChillPill.",
+      "publishedAt": "2026-06-26T17:56:25.000Z",
+      "summary": "I can understand why The Verge readers are flocking to the BirdBuddy deal we posted at the beginning of Prime Day. The BirdBuddy Pro with Solar Panels is a wholesome upgrade for...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-us-is-about-to-deport-an-immigrant-to-the-ce-28324bf5ac",
-      "title": "The US Is About to Deport an Immigrant to the Center of the Ebola Crisis",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis",
+      "id": "tech-why-everyone-from-openai-to-spacex-is-building-t-d33d683ffc",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia",
       "tag": "Technology",
-      "publishedAt": "2026-06-26T15:43:49.000Z",
-      "summary": "Edward Nalwamba is a 78-year-old retired pastor whose health has rapidly declined while in detention, his attorney says.",
+      "publishedAt": "2026-06-26T17:43:22.000Z",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inf...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
