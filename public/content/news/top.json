@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-06-27T19:06:37.465Z",
+  "updatedAt": "2026-06-27T20:52:23.366Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-venezuela-live-updates-window-narrowing-to-find--de567f51f7",
+      "id": "news-heatwave-breaks-more-records-in-northern-and-cen-41834d3a24",
+      "title": "Heatwave breaks more records in northern and central Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T20:48:16.000Z",
+      "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-venezuela-live-updates-window-narrowing-to-find--fd563b0777",
       "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
       "tag": "US",
-      "publishedAt": "2026-06-27T19:04:55.000Z",
+      "publishedAt": "2026-06-27T20:46:37.000Z",
       "summary": "International teams were joining search efforts on Saturday after twin earthquakes devastated northern Venezuela, leaving many people trapped under rubble.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-family-escapes-unhurt-after-car-catches-fire-nea-7246d9f46d",
-      "title": "Family escapes unhurt after car catches fire near Jolarpet",
+      "id": "news-elevated-corridor-on-nh5-likely-if-t-n-waives-gs-51bd59b2b5",
+      "title": "Elevated corridor on NH5 likely if T.N. waives GST on construction materials",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/family-escapes-unhurt-after-car-catches-fire-near-jolarpet/article71154244.ece",
+      "url": "https://www.thehindu.com/news/cities/chennai/elevated-corridor-on-nh5-likely-if-tn-waives-gst-on-construction-materials/article71155200.ece",
       "tag": "India",
-      "publishedAt": "2026-06-27T18:48:15.000Z",
-      "summary": "The family alighted from the vehicle as the fire spread",
+      "publishedAt": "2026-06-27T20:43:14.000Z",
+      "summary": "Meanwhile, a retired highways department official says that instead of an elevated corridor, it would be better to construct three flyovers",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-kenya-rights-groups-say-protesters-found-dumped--0d6ceed39e",
-      "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-27T18:46:23.000Z",
-      "summary": "Six found and one missing, NGOs say, after arrests at memorial gatherings for protesters killed in 2024.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-watch-a-race-against-the-clock-for-venezuela-ear-255a390dd9",
-      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-27T18:41:03.000Z",
-      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-old-explosive-kills-civilian-in-baramulla-5897933a24",
-      "title": "‘Old’ explosive kills civilian in Baramulla",
+      "id": "news-indian-passport-holders-abroad-treated-as-citize-3745c6e150",
+      "title": "Indian passport holders abroad treated as citizens for using RTI",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/old-explosive-kills-civilian-in-baramulla/articleshow/132041169.cms",
+      "url": "https://timesofindia.indiatimes.com/india/indian-passport-holders-abroad-treated-as-citizens-for-using-rti/articleshow/132042098.cms",
       "tag": "India",
-      "publishedAt": "2026-06-27T18:35:28.000Z",
+      "publishedAt": "2026-06-27T20:39:20.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-colombia-vs-portugal-live-fifa-world-cup-2026-24cda707ce",
+      "title": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/27/colombia-vs-portugal-live-fifa-world-cup-2026?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T20:30:00.000Z",
+      "summary": "Follow updates as the top two teams in Group K face off - including the build-up, analysis and live text commentary.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-man-arrested-on-suspicion-of-attempted-murder-af-ec56f7a78d",
+      "title": "Man arrested on suspicion of attempted murder after vehicle hits pedestrians in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T20:17:09.000Z",
+      "summary": "Suspect held after five people injured, including three who were taken to hospital, in Ealing on Saturday afternoon A man has been arrested on suspicion of attempted murder afte...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bangladesh-china-joint-statement-mongla-port-s-i-693f0a7ebd",
+      "title": "Bangladesh-China Joint Statement, Mongla Port's Implications For India Decoded",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/bangladesh-china-joint-statement-mongla-ports-implications-for-india-decoded-11696681",
+      "tag": "India",
+      "publishedAt": "2026-06-27T18:45:02.000Z",
+      "summary": "With Tarique Rahman's visit to China, experts in India believe some of the issues touched upon in the Bangladesh-China joint statement could impact India.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -60,26 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-06-27T18:32:25.000Z",
       "summary": "This paper is authored by Aleksei Zakharov, ORF, New Delhi.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-father-lynches-two-children-after-fight-with-wif-51f9254bf9",
-      "title": "Father Lynches Two Children After Fight With Wife In Tripura",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/father-lynches-two-children-after-fight-with-wife-in-tripura-11696596",
-      "tag": "India",
-      "publishedAt": "2026-06-27T18:07:37.000Z",
-      "summary": "The woman managed to escape from the house with one of their children.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-white-house-unveils-new-images-of-us-patriot-pas-6488744dfc",
-      "title": "White House unveils new images of US ‘patriot passports’ for America’s 250th",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-america-250-passports-democrats",
-      "tag": "Europe",
-      "publishedAt": "2026-06-27T18:05:05.000Z",
-      "summary": "Democrats called plans for commemorative passport and gold coin with Trump portrait ‘more befitting a monarchy’ Donald Trump ’s efforts to brand the US government with his name...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-in-venezuela-s-ruins-civilians-fill-the-gaps-one-0e4d0ba94f",
-      "title": "In Venezuela’s Ruins, Civilians Fill the Gaps One ‘Grain of Sand’ at a Time",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-civilians-volunteers-earthquakes.html",
-      "tag": "US",
-      "publishedAt": "2026-06-27T19:01:20.000Z",
-      "summary": "Volunteers have rushed to help earthquake victims, loading vehicles with medical supplies, shovels and other tools to assist rescue and recovery efforts.",
+      "id": "news-former-oklahoma-state-trooper-lance-schroyer-nom-24b79c8ee5",
+      "title": "Former Oklahoma state trooper Lance Schroyer nominated as ICE Director: Trump",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/former-oklahoma-state-trooper-lance-schroyer-nominated-as-ice-director-trump/article71155596.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T20:36:23.000Z",
+      "summary": "The nomination comes after former ICE director Todd Lyons resigned at the end of May",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-live-updates-mideast-hostilities-flare-testing-f-daf0c52078",
-      "title": "Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
+      "id": "news-12-hours-with-venezuelan-doctors-searching-for-e-266f58e439",
+      "title": "12 Hours With Venezuelan Doctors Searching for Earthquake Survivors",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+      "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html",
       "tag": "US",
-      "publishedAt": "2026-06-27T19:00:16.000Z",
-      "summary": "Bahrain said it had been targeted by Iranian drones, an apparent retaliation after U.S. strikes on Iranian military sites overnight. A ship came under attack in the Strait of Ho...",
+      "publishedAt": "2026-06-27T20:30:22.000Z",
+      "summary": "A medical team set out from the capital to rescue people in the hardest-hit part of the disaster zone, La Guaira. They found silence in the ruins instead.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
