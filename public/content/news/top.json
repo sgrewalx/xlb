@@ -1,15 +1,85 @@
 {
-  "updatedAt": "2026-06-27T15:09:39.777Z",
+  "updatedAt": "2026-06-27T17:00:23.179Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-308-g-of-mdma-seized-in-thrissur-b5f7b2690d",
-      "title": "308 g of MDMA seized in Thrissur",
+      "id": "news-video-siya-goyal-chetan-chaudhary-at-undated-cri-dfb1c797fb",
+      "title": "Video: Siya Goyal, Chetan Chaudhary At Undated Cricket Match",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/video-siya-goyal-chetan-chaudhary-at-undated-cricket-match-11696239",
+      "tag": "Cricket",
+      "publishedAt": "2026-06-27T16:54:49.000Z",
+      "summary": "Siya Goyal and Chetan Chaudhary are accused of killing Ketan Agarwal, her fiance.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-venezuela-live-updates-rescuers-work-as-window-n-5aac7f5b35",
+      "title": "Venezuela Live Updates: Rescuers Work as Window Narrows to Find Quake Survivors",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+      "tag": "US",
+      "publishedAt": "2026-06-27T16:54:45.000Z",
+      "summary": "International teams were joining search efforts on Saturday after twin earthquakes killed more than 900 people in northern Venezuela and left many others trapped.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-mdmk-cuts-ties-with-dmk-alliance-pledges-support-a6694ab374",
+      "title": "MDMK cuts ties with DMK alliance, pledges support to TVK government",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/308-g-of-mdma-seized-in-thrissur/article71154914.ece",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/mdmk-cuts-ties-with-dmk-alliance-pledges-support-to-tvk-government/article71155113.ece",
       "tag": "India",
-      "publishedAt": "2026-06-27T15:07:06.000Z",
-      "summary": "Seven arrested in ‘Toofan‘ drive",
+      "publishedAt": "2026-06-27T16:54:20.000Z",
+      "summary": "MDMK General Secretary Vaiko announced that the party will extend its support to the Tamilaga Vettri Kazhagam (TVK) government and will abstain from contesting the upcoming by-e...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-europe-s-deadly-heatwave-breaks-german-record-an-363549bf18",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T16:51:17.000Z",
+      "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bahrain-condemns-iranian-drone-attack-after-over-75bdcd1ed0",
+      "title": "Bahrain condemns Iranian drone attack after overnight US strikes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/27/bahrain-iran-drone-attack-overnight-us-strikes-strait-hormuz",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T16:49:24.000Z",
+      "summary": "No immediate reports of damage after Bahrain hit by ‘number of drones’ as ship in strait of Hormuz also targeted Bahrain said it was attacked by Iran with a wave of drones on Sa...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-lebanon-divided-over-framework-agreement-signed--d6981cb7f2",
+      "title": "Lebanon divided over framework agreement signed in Washington",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T16:31:12.000Z",
+      "summary": "Lebanon divided over framework agreement signed in Washington",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-assam-police-say-mass-casualty-terror-attack-foi-5e167c4395",
+      "title": "Assam Police say ‘mass casualty terror attack’ foiled; 2 ULFA-I cadres arrested",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/assam-police-ulfa-i-arrest-tinsukia-terror-attack-foiled-10760643",
+      "tag": "India",
+      "publishedAt": "2026-06-27T15:20:46.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-operation-devendra-uddhav-thackeray-says-amit-sh-0b6061f5ed",
+      "title": "'Operation Devendra': Uddhav Thackeray says Amit Shah planned Sena (UBT) MP defections to 'sideline' Fadnavis",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/operation-devendra-uddhav-thackeray-says-amit-shah-planned-sena-ubt-mp-defections-to-sideline-fadnavis/articleshow/132037144.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-27T15:13:52.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,76 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ram-temple-theft-as-probe-widens-trust-confirms--99793db982",
-      "title": "Ram Temple theft: As probe widens, Trust confirms: Gen secy Champat Rai, trustee Anil Mishra have quit",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/ayodhya-ram-temple-donation-theft-champat-rai-anil-mishra-resign-10760615",
-      "tag": "India",
-      "publishedAt": "2026-06-27T14:58:58.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-who-s-the-head-of-the-family-india-s-family-stru-fdb9632728",
-      "title": "Who's the Head of the Family? India’s family structures have changed but this Census question has not",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/whos-the-head-of-the-family-indias-family-structures-have-changed-but-this-census-question-has-not/articleshow/132035295.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-27T14:56:59.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-venezuela-live-updates-rescuers-work-as-window-n-7681b6cf84",
-      "title": "Venezuela Live Updates: Rescuers Work as Window Narrows to Find Quake Survivors",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
-      "tag": "US",
-      "publishedAt": "2026-06-27T14:55:47.000Z",
-      "summary": "International teams were joining search efforts on Saturday after twin earthquakes killed more than 900 people in northern Venezuela and left many others trapped.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bodycam-shows-driver-offering-armed-police-a-lif-5f7f4b8543",
-      "title": "Bodycam shows driver offering armed police a lift mid-chase",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-27T14:40:11.000Z",
-      "summary": "Bodycam video showing a van driver offering an armed officer a lift to catch a fleeing suspect has gone viral in the UK.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-tremors-in-delhi-j-k-after-earthquake-strikes-af-de43fc3489",
-      "title": "Tremors In Delhi, J&K After Earthquake Strikes Afghanistan",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/strong-earthquake-tremors-felt-in-delhi-11695702",
-      "tag": "India",
-      "publishedAt": "2026-06-27T14:37:42.000Z",
-      "summary": "The epicentre of the earthquake was in Afghanistan, and its magnitude was 6.2 on the Richter Scale.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-europe-heatwave-live-drought-fears-in-italy-reco-98de8ab851",
-      "title": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, major roads buckle in Germany",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-06-27T14:35:06.000Z",
-      "summary": "Forecasters say hottest conditions spreading into central and eastern Europe After decades of climate warnings, why is Europe so unprepared for rising heat? Seawater is seeping...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-in-caracas-this-feels-like-the-hardest-moment-in-148798f247",
-      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-27T14:22:37.000Z",
-      "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-uzbekistan-makes-its-world-cup-debut-a-first-for-2c29e963b1",
       "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
       "source": "NPR",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-maharashtra-teacher-eligibility-test-postponed-d-b55dbe8e8d",
-      "title": "Maharashtra Teacher Eligibility Test postponed day before exam after suspicion of paper leak",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/education/maharashtra-tet-2026-paper-leak-probe-exam-postponed-updates-latest/article71153926.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-27T15:04:43.000Z",
-      "summary": "Case registered, probe on, Opposition demands inquiry",
+      "id": "news-here-s-the-latest-b84de70025",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/heres-the-latest",
+      "tag": "US",
+      "publishedAt": "2026-06-27T16:54:43.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-naidu-disburses-300-crore-r-r-funds-to-veligonda-05aeb59349",
-      "title": "Naidu disburses ₹300 crore R&R funds to Veligonda project-displaced families",
+      "id": "news-cm-to-lay-foundation-for-short-tunnel-near-hebba-222f18388d",
+      "title": "CM to lay foundation for short tunnel near Hebbal today",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-disburses-300-crore-rampr-funds-to-veligonda-project-displaced-families/article71154776.ece",
+      "url": "https://www.thehindu.com/news/cities/bangalore/cm-to-lay-foundation-for-short-tunnel-near-hebbal-today/article71155350.ece",
       "tag": "India",
-      "publishedAt": "2026-06-27T15:03:35.000Z",
-      "summary": "Thanks to the sacrifices made by the affected people, the project helps in providing irrigation water to 4.47 lakh acres and drinking water to 23 lakh people, and transform the...",
+      "publishedAt": "2026-06-27T16:54:14.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
