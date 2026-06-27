@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T06:59:09.273Z",
+  "updatedAt": "2026-06-27T06:33:17.515Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-06-26T06:52:20.130Z",
-      "summary": "USGS reported 233 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 3 km SE of Yokoshiba, Japan.",
+      "startsAt": "2026-06-27T06:11:24.360Z",
+      "summary": "USGS reported 223 earthquake events in the last 24 hours. Strongest reported event: M6.5 near 34 km WSW of Sarangani, Philippines.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-26T06:59:09.273Z",
+      "updatedAt": "2026-06-27T06:33:17.515Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-venezuela-earthquake-rescuers-race-against-time--699cbbbbc3",
-        "video-american-narrowly-survives-earthquake-in-venezue-60c7b58dbe",
-        "video-venezuela-earthquake-trump-extends-his-support-s-46ea6e839d"
+        "video-netanyahu-hails-israel-lebanon-truce-framework-n-31c97a0cbb",
+        "video-watch-jurors-react-after-judge-declares-mistrial-b6d1248fb3",
+        "video-survivors-pulled-from-venezuela-earthquake-rubbl-2b420dd9f8"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -58,10 +58,14 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-26T06:59:09.273Z",
+      "updatedAt": "2026-06-27T06:33:17.515Z",
       "importance": 73,
       "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-us-iran-war-live-us-launches-strikes-on-iran-aft-f7a417db9f",
+        "video-us-iran-war-us-launches-strikes-on-iran-after-ca-fe1922e747",
+        "video-us-launches-strikes-on-iran-after-cargo-ship-att-c3fce601fe"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -79,8 +83,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-06-26T06:56:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 2. Recent peak is Kp 2. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-06-27T06:29:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -91,13 +95,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-06-26T06:59:09.273Z",
+      "updatedAt": "2026-06-27T06:33:17.515Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-pune-murder-case-siya-s-father-breaks-silence-sa-b1c9567f49",
-        "video-paraguay-vs-australia-live-watch-party-of-2026-w-abb6d3aa5c",
-        "video-japan-vs-sweden-live-watch-party-of-2026-world-c-dd618c8114"
+        "video-netanyahu-hails-israel-lebanon-truce-framework-n-31c97a0cbb",
+        "video-watch-jurors-react-after-judge-declares-mistrial-b6d1248fb3",
+        "video-us-strikes-iran-after-cargo-ship-attack-trump-s--e84a6ddb59"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -128,7 +132,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-26T06:59:09.273Z",
+      "updatedAt": "2026-06-27T06:33:17.515Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -148,7 +152,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-26T06:59:09.043Z",
+      "startsAt": "2026-06-27T06:33:17.256Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -160,10 +164,14 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-26T06:59:09.273Z",
+      "updatedAt": "2026-06-27T06:33:17.515Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-us-iran-war-live-us-launches-strikes-on-iran-aft-f7a417db9f",
+        "video-us-iran-war-us-launches-strikes-on-iran-after-ca-fe1922e747",
+        "video-us-launches-strikes-on-iran-after-cargo-ship-att-c3fce601fe"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -181,7 +189,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-06-26T06:59:09.043Z",
+      "startsAt": "2026-06-27T06:33:17.257Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -193,10 +201,14 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-06-26T06:59:09.273Z",
+      "updatedAt": "2026-06-27T06:33:17.515Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-us-iran-war-live-us-launches-strikes-on-iran-aft-f7a417db9f",
+        "video-us-iran-war-us-launches-strikes-on-iran-after-ca-fe1922e747",
+        "video-us-launches-strikes-on-iran-after-cargo-ship-att-c3fce601fe"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",

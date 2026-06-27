@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-26T06:59:08.618Z",
-  "sourceSnapshot": "2026-06-26T06:00:00.000Z",
+  "updatedAt": "2026-06-27T06:33:16.581Z",
+  "sourceSnapshot": "2026-06-27T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -40,7 +40,7 @@
       "sourceStability": "stable",
       "recencyBand": "continuous",
       "recommendation": "expand",
-      "notes": "cold-start scoring active; priority 100, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
+      "notes": "cold-start scoring active; priority 92, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
     },
     {
       "slug": "clps-flight-astrobotic-griffin-1",
