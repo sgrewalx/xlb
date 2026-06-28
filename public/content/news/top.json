@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-06-27T22:58:48.776Z",
+  "updatedAt": "2026-06-28T00:04:47.000Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-australia-news-live-shark-spotting-drones-to-pat-3ace6ad9f5",
-      "title": "Australia news live: shark-spotting drones to patrol NSW beaches year-round",
+      "id": "news-mideast-live-updates-u-s-strikes-iran-again-test-81c88dfcb9",
+      "title": "Mideast Live Updates: U.S. Strikes Iran Again, Testing Truce",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+      "tag": "US",
+      "publishedAt": "2026-06-27T23:57:19.000Z",
+      "summary": "U.S. forces carried out retaliatory airstrikes on Iran for the second straight night, saying the latest barrage was in retaliation for an attack on an oil tanker on Saturday.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-west-asia-war-live-u-s-conducts-further-strikes--cb586103a0",
+      "title": "West Asia war LIVE: U.S. conducts further strikes against 'multiple targets' in Iran",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-06-27T23:52:39.000Z",
+      "summary": "Lebanon's President hopes U.S. will press Israel to withdraw from southern areas",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-news-live-shark-spotting-drones-to-pat-356b752bcb",
+      "title": "Australia news live: shark-spotting drones to patrol NSW beaches year-round; Chalmers grilled on ‘widow’s tax’",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-06-27T22:52:26.000Z",
+      "publishedAt": "2026-06-27T23:43:41.000Z",
       "summary": "Premier Chris Minns says technology will be largest expansion of aerial shark surveillance in the world. Follow the day’s updates live Get our breaking news email , free app or...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-live-updates-hostilities-flare-between-u-s-and-i-5990f01877",
-      "title": "Live Updates: Hostilities Flare Between U.S. and Iran, Testing Truce",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-      "tag": "US",
-      "publishedAt": "2026-06-27T22:41:46.000Z",
-      "summary": "U.S. forces carried out retaliatory airstrikes on Iran for the second straight night, after Bahrain said it had been targeted by Iranian drones and a ship came under attack in t...",
+      "id": "news-express-special-from-ganga-to-global-pet-markets-5c6733a93f",
+      "title": "Express Special | From Ganga to global pet markets: Police in Madhya Pradesh map rail route of protected turtles",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/express-special-from-ganga-to-global-pet-markets-police-in-madhya-pradesh-map-rail-route-of-protected-turtles-10760782",
+      "tag": "India",
+      "publishedAt": "2026-06-27T23:15:21.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-rain-deficit-now-at-43-likely-to-end-at-over-10-661a15dd83",
-      "title": "Rain deficit now at 43%, likely to end at over 10%",
+      "id": "news-could-legal-personhood-help-save-lough-neagh-c48bac00ec",
+      "title": "Could legal 'personhood' help save Lough Neagh?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vy307xlo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-06-27T23:01:27.000Z",
+      "summary": "Rights of Nature could give Lough Neagh the same status as a person, entitled to the same protections.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-supreme-court-takes-14-years-on-criminal-case-2--2335e4b985",
+      "title": "Supreme Court takes 14 years on criminal case, 2 convicts die waiting",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/rain-deficit-now-at-43-likely-to-end-at-over-10/articleshow/132044088.cms",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-14-years-on-criminal-case-2-convicts-die-waiting/articleshow/132044102.cms",
       "tag": "India",
-      "publishedAt": "2026-06-27T22:39:01.000Z",
+      "publishedAt": "2026-06-27T22:45:05.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-sufi-saints-and-scholars-learnt-the-ideals-of-co-47a71fa91f",
-      "title": "Sufi saints and scholars learnt the ideals of co-existence from Indian scriptures: J&K L-G",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sufi-saints-and-scholars-learnt-the-ideals-of-co-existence-from-indian-scriptures-jk-l-g/article71155192.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-27T22:31:14.000Z",
-      "summary": "Manoj Sinha also met with civil society groups, business leaders, and religious heads in Srinagar to discuss the upcoming Amarnath Yatra",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-launches-second-night-of-strikes-against-iran-89dc9868b7",
-      "title": "US launches second night of strikes against Iran after ship struck by drone",
+      "id": "news-us-launches-second-night-of-strikes-on-iran-afte-89dc9868b7",
+      "title": "US launches second night of strikes on Iran after ship hit by drone",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
       "tag": "Europe",
       "publishedAt": "2026-06-27T22:07:03.000Z",
-      "summary": "The attacks come after an Iranian drone allegedly struck another commercial vessel in the Strait of Hormuz on Saturday.",
+      "summary": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -60,16 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-06-27T21:58:51.000Z",
       "summary": "With Tarique Rahman's visit to China, experts in India believe some of the issues touched upon in the Bangladesh-China joint statement could impact India.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-israel-strikes-southern-lebanon-as-hezbollah-con-b806622aba",
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-27T21:35:40.000Z",
-      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-delhi-varanasi-bullet-train-to-cut-jewar-lucknow-2e1498b616",
-      "title": "Delhi-Varanasi bullet train to cut Jewar-Lucknow travel time to just 1 hour 40 minutes: Ashwini Vaishnaw",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/delhi-varanasi-bullet-train-jewar-lucknow-travel-time-1-hour-40-minutes-ashwini-vaishnaw-10760690",
-      "tag": "India",
-      "publishedAt": "2026-06-27T17:11:32.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-here-s-the-latest-c53fa81242",
+      "id": "news-here-s-the-latest-0653e23bee",
       "title": "Here’s the latest.",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest",
       "tag": "US",
-      "publishedAt": "2026-06-27T22:41:44.000Z",
+      "publishedAt": "2026-06-27T23:57:18.000Z",
       "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-followed-all-rules-while-availing-government-sub-a13e92eaca",
-      "title": "Followed all rules while availing government subsidy: Union minister Bhagirath Choudhary",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/followed-all-rules-while-availing-government-subsidy-union-minister-bhagirath-choudhary/articleshow/132044036.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-27T22:29:06.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-venezuela-live-updates-window-narrowing-to-find--553f49b8d3",
+      "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+      "tag": "US",
+      "publishedAt": "2026-06-27T23:54:21.000Z",
+      "summary": "International teams were joining search efforts on Saturday after twin earthquakes devastated northern Venezuela, leaving many people trapped under rubble.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
