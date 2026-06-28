@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-27T06:33:16.427Z",
-  "sourceSnapshot": "2026-06-27T06:00:00.000Z",
+  "updatedAt": "2026-06-28T07:06:24.433Z",
+  "sourceSnapshot": "2026-06-28T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -254,7 +254,7 @@
       "id": "traffic-search_striking_distance-home",
       "path": "/",
       "signal": "search_striking_distance",
-      "score": 0,
+      "score": 1,
       "risk": "medium",
       "title": "Strengthen ranking support for /",
       "hypothesis": "/ is close enough in search results that better supporting copy and internal links may improve rank.",
@@ -263,9 +263,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 5,
+        "searchImpressions": 6,
         "searchCtr": 0,
-        "avgPosition": 10.4,
+        "avgPosition": 9.333333333333334,
         "watchClicks": 0,
         "engagementScore": 0
       },
