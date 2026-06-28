@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-28T20:05:51.957Z",
+  "updatedAt": "2026-06-28T21:54:20.685Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-ford-rehires-gray-beard-engineers-after-ai-falls-32c114b359",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
+      "id": "tech-china-s-z-ai-claims-it-can-match-mythos-on-cyber-e6ab8e5807",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
       "tag": "Technology",
-      "publishedAt": "2026-06-28T19:05:39.000Z",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "publishedAt": "2026-06-28T21:42:51.000Z",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-california-law-targeting-loud-streaming-ads-take-ddae76ca5a",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1",
+      "tag": "Technology",
+      "publishedAt": "2026-06-28T21:34:14.000Z",
+      "summary": "Streaming ads might be getting a lot quieter.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-28T18:30:00.000Z",
       "summary": "These little tricks will help you spend more time driving instead of charging.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-china-claims-the-world-s-fastest-supercomputer-d2ffed98f1",
-      "title": "China claims the world’s fastest supercomputer",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
-      "tag": "Technology",
-      "publishedAt": "2026-06-28T17:20:59.000Z",
-      "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one o...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-writer-ian-bogost-says-the-small-stuff-can-help--b15ccca18c",
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization",
+      "id": "tech-suno-launches-spark-incubator-program-to-feed-in-7c060d4ee7",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
       "tag": "Technology",
-      "publishedAt": "2026-06-28T17:03:16.000Z",
-      "summary": "Has Silicon Valley been building the wrong things?",
+      "publishedAt": "2026-06-28T20:27:36.000Z",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program fo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-australia-doubles-the-maximum-penalty-for-its-so-5f6b1a41de",
-      "title": "Australia doubles the maximum penalty for its social media ban",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2203358/australia-doubles-maximum-penalty-social-media-ban",
+      "id": "tech-ford-rehires-gray-beard-engineers-after-ai-falls-32c114b359",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
       "tag": "Technology",
-      "publishedAt": "2026-06-28T17:00:22.000Z",
-      "summary": "The fine can now potentially hit 99 million AUD, or $68 million.",
+      "publishedAt": "2026-06-28T19:05:39.000Z",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
