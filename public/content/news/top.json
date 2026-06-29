@@ -1,25 +1,75 @@
 {
-  "updatedAt": "2026-06-29T17:29:43.813Z",
+  "updatedAt": "2026-06-29T19:45:44.018Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-naidu-to-launch-welfare-development-projects-dur-237b7516c0",
-      "title": "Naidu to launch welfare, development projects during five-day tour",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-to-launch-welfare-development-projects-during-five-day-tour/article71161980.ece",
-      "tag": "India",
-      "publishedAt": "2026-06-29T17:23:12.000Z",
-      "summary": "Pension distribution programme, Hero MotoCorp facility, VB-G RAMG launch and JSW Rayalaseema Steel Plant among key events in Tirupati, Chittoor, Kadapa and SPSR Nellore districts",
+      "id": "news-les-mills-olympian-who-founded-fitness-chain-die-3671307d55",
+      "title": "Les Mills, Olympian Who Founded Fitness Chain, Dies at 91",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/06/29/world/les-mills-dead.html",
+      "tag": "Running",
+      "publishedAt": "2026-06-29T19:43:11.000Z",
+      "summary": "A New Zealand Olympian, he started a small gym in Auckland that grew into a worldwide chain.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-luigi-mangione-s-federal-trial-now-scheduled-for-54f01e7815",
-      "title": "Luigi Mangione’s federal trial now scheduled for January 2027 to not clash with state case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/luigi-mangione-court",
+      "id": "news-resignation-of-m-r-vijayabhaskar-illustrates-fra-a0eaaf70c4",
+      "title": "Resignation of M.R. Vijayabhaskar illustrates fragile nature of truce between the rebels in AIADMK and Palaniswami",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/resignation-of-mr-vijayabhaskar-illustrates-fragile-nature-of-truce-between-the-rebels-in-aiadmk-and-palaniswami/article71162193.ece",
+      "tag": "India",
+      "publishedAt": "2026-06-29T19:36:33.000Z",
+      "summary": "Mr. Vijayabhaskar, who held the portfolio of Transport during 2016-21, when Jayalalithaa, OPS, and EPS were Chief Ministers, was among the 25 dissidents who sided with the TVK-l...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-deadly-heatwave-grips-italy-and-balkans-as-wildf-e565be6703",
+      "title": "Deadly heatwave grips Italy and Balkans as wildfire fears grow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-06-29T17:18:33.000Z",
-      "summary": "Mangione, accused of killing health executive Brian Thompson, has pleaded not guilty in state and federal cases Luigi Mangione ’s Manhattan federal court trial related to to the...",
+      "publishedAt": "2026-06-29T19:30:28.000Z",
+      "summary": "Older people remain most at risk as the heatwave drives up excess deaths across Europe.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-south-african-leader-warns-anti-migrant-proteste-3703915200",
+      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-06-29T19:16:34.000Z",
+      "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-has-it-become-a-crime-to-have-darshan-of-lord-ra-ff7da695d0",
+      "title": "'Has it become a crime to have darshan of Lord Ram?': Congress alleges Ajay Rai put under house arrest ahead of Ayodhya visit",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/has-it-become-a-crime-to-have-darshan-of-lord-ram-congress-alleges-ajay-rai-put-under-house-arrest-ahead-of-ayodhya-visit/articleshow/132078840.cms",
+      "tag": "India",
+      "publishedAt": "2026-06-29T19:14:15.000Z",
+      "summary": "Congress alleged its Uttar Pradesh chief Ajay Rai was placed under house arrest to prevent a party delegation from visiting Ayodhya's Ram Temple. The party claims this is a 'cow...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-man-dies-while-discarding-body-of-girlfriend--91fe8f37e8",
+      "title": "US man dies while discarding body of girlfriend he fatally strangled, officials say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/man-dies-heart-attack-discarding-girlfriend-body",
+      "tag": "Europe",
+      "publishedAt": "2026-06-29T19:11:47.000Z",
+      "summary": "Police found man, who died of a heart attack, next to his girlfriend by abandoned vehicle in wooded area of Alabama A man recently died in Alabama from a heart attack while tryi...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-4-killed-8-injured-in-collision-between-jeeps-in-d46e642745",
+      "title": "4 Killed, 8 Injured In Collision Between Jeeps In Bihar: Cops",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/4-killed-8-injured-in-collision-between-jeeps-in-bihar-cops-11704552",
+      "tag": "India",
+      "publishedAt": "2026-06-29T18:36:10.000Z",
+      "summary": "At least four persons were killed and eight others were injured when their jeeps collided head-on in Bihar's Begusarai district, police said on Monday.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -30,56 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-06-29T17:18:24.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-blatant-act-of-aggression-india-condemns-pakista-569b6fb3fa",
-      "title": "'Blatant act of aggression': India condemns Pakistan airstrikes on Afghanistan, says attacks reflect 'pattern of reckless behaviour'",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/blatant-act-of-aggression-india-condemns-pakistan-airstrikes-on-afghanistan-says-attacks-reflect-pattern-of-reckless-behaviour/articleshow/132075874.cms",
-      "tag": "India",
-      "publishedAt": "2026-06-29T17:10:30.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-at-funerals-venezuela-s-wounded-families-and-fri-68f41e6041",
-      "title": "At Funerals, Venezuela’s Wounded Families and Friends Unite in Grief",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-funerals-earthquake.html",
-      "tag": "US",
-      "publishedAt": "2026-06-29T17:08:49.000Z",
-      "summary": "Venezuelans began to bury some of the more than 1,400 victims of last week’s earthquakes, sharing tales of unimaginable loss.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-supreme-court-blocks-trump-s-attempt-to-fire-fed-10dce937cf",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-29T16:51:52.000Z",
-      "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-aftershock-hits-caracas-during-critical-hours-fo-2bbfa4740f",
-      "title": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-06-29T16:42:41.000Z",
-      "summary": "Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-majority-of-india-bound-ships-go-dark-in-hormuz--1eb3bacd47",
-      "title": "Majority Of India-Bound Ships 'Go Dark' In Hormuz Amid Iran Threat",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/majority-of-india-bound-ships-go-dark-in-hormuz-amid-iran-threat-11703917",
-      "tag": "India",
-      "publishedAt": "2026-06-29T15:54:08.000Z",
-      "summary": "Data from maritime intelligence firm Kpler shows that nearly 62% of tankers and cargo vessels sailing from the Persian Gulf to India turned off their transponders while crossing...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-senior-lebanese-official-slams-u-s-brokered-deal-e473bc6c97",
-      "title": "Senior Lebanese official slams U.S.-brokered deal with Israel, warns of divisions",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/senior-lebanese-official-slams-us-brokered-deal-with-israel-warns-of-divisions/article71162770.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-06-29T17:23:11.000Z",
-      "summary": "The Lebanon war has been a central part of diplomacy towards ending the wider U.S.-Iran conflict",
+      "id": "news-6-killed-in-shooting-in-northern-germany-after-f-c05c158ca5",
+      "title": "6 Killed in Shooting in Northern Germany After Family Dispute, Police Say",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
+      "tag": "US",
+      "publishedAt": "2026-06-29T19:40:38.000Z",
+      "summary": "Authorities said a 45-year-old man opened fire at a youth facility after a quarrel about the custody of his baby daughter. The dead were all facility employees.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-cm-to-distribute-pensions-at-punnapuvaripalem-in-5e140b7142",
-      "title": "CM to distribute pensions at Punnapuvaripalem in Nellore district on July 1",
+      "id": "news-canara-bank-hands-over-2-397-crore-dividend-cheq-ab8fcbf2db",
+      "title": "Canara Bank hands over ₹2,397 crore dividend cheque to FM Nirmala Sitharaman",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-to-distribute-pensions-at-punnapuvaripalem-in-nellore-district-on-july-1/article71162136.ece",
+      "url": "https://www.thehindu.com/business/canara-bank-hands-over-2397-crore-dividend-cheque-to-fm-nirmala-sitharaman/article71162718.ece",
       "tag": "India",
-      "publishedAt": "2026-06-29T17:21:47.000Z",
-      "summary": "District administration steps up security and logistical arrangements ahead of the Chief Minister’s visit; Hero MotoCorp foundation stone ceremony in Tirupati district to follow",
+      "publishedAt": "2026-06-29T19:32:25.000Z",
+      "summary": "The bank reported a record net profit of ₹19,187 crore in 2025-26, compared to ₹17,027 crore in the previous year, a 12.69% year-on-year increase. Government of India holds 62.9...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
