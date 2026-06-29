@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-06-29T22:46:00.026Z",
+  "updatedAt": "2026-06-29T23:53:49.484Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-there-s-now-an-openclaw-app-for-ios-and-android--842bc30ed4",
-      "title": "There's now an OpenClaw app for iOS and Android phones",
+      "id": "tech-sensitive-iphone-supplier-details-were-part-of-l-e64df9df78",
+      "title": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones",
+      "url": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics",
       "tag": "Technology",
-      "publishedAt": "2026-06-29T22:07:14.000Z",
-      "summary": "Smartphones are welcoming the agentic AI overlords.",
+      "publishedAt": "2026-06-29T23:06:30.000Z",
+      "summary": "Some of Apple's corporate secrets aren't so secret any more.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-offers-10-million-for-info-on-group-behind-si-8f7c172f63",
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree",
+      "tag": "Technology",
+      "publishedAt": "2026-06-29T22:05:33.000Z",
+      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,16 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-29T21:49:26.000Z",
       "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-south-korea-to-spend-1t-on-more-memory-chip-prod-59d071a61f",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots",
-      "tag": "Technology",
-      "publishedAt": "2026-06-29T21:09:43.000Z",
-      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-buying-a-mattress-in-2026-we-tested-100-and-thes-1533393d71",
-      "title": "Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-mattresses",
+      "id": "tech-there-s-now-an-openclaw-app-for-ios-and-android--842bc30ed4",
+      "title": "There's now an OpenClaw app for iOS and Android phones",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones",
       "tag": "Technology",
-      "publishedAt": "2026-06-29T21:05:17.000Z",
-      "summary": "WIRED has tested 100-plus bed-in-a-box mattresses for a week each. Our top pick, the Helix Midnight Luxe hybrid, is the best bed you can buy online.",
+      "publishedAt": "2026-06-29T22:07:14.000Z",
+      "summary": "Smartphones are welcoming the agentic AI overlords.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-after-a-great-start-dc-s-new-cinematic-universe--072b912a2d",
-      "title": "After a great start, DC’s new cinematic universe is already slowing down",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-      "tag": "Running",
-      "publishedAt": "2026-06-29T21:00:00.000Z",
-      "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature alway...",
+      "id": "tech-south-korea-to-spend-1t-on-more-memory-chip-prod-59d071a61f",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots",
+      "tag": "Technology",
+      "publishedAt": "2026-06-29T21:09:43.000Z",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
