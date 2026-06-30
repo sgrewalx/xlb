@@ -1,25 +1,65 @@
 {
-  "updatedAt": "2026-06-30T18:28:25.870Z",
+  "updatedAt": "2026-06-30T20:51:04.279Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-007-first-light-s-developer-lays-off-staff-but-c-b66eaf38f9",
-      "title": "007 First Light’s developer lays off staff but claims its next franchise will continue",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+      "id": "tech-the-deepmind-trio-who-built-a-poker-ai-are-now-m-92fa7ea11e",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T18:14:05.000Z",
-      "summary": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big fr...",
+      "publishedAt": "2026-06-30T20:33:48.000Z",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nvidia-competitor-etched-hits-5b-valuation-1b-in-b859f6b79f",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip",
+      "id": "tech-netflix-used-ai-to-put-gene-wilder-s-voice-into--561fa50754",
+      "title": "Netflix used AI to put Gene Wilder's voice into a new reality show",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T18:13:02.000Z",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "publishedAt": "2026-06-30T20:24:49.000Z",
+      "summary": "So much for magic.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-reimagining-sovereign-ai-for-india-s-strategic-f-962489e5eb",
+      "title": "Reimagining sovereign AI for India’s strategic future",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/opinion/op-ed/reimagining-sovereign-ai-for-indias-strategic-future/article71166911.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-06-30T20:20:44.000Z",
+      "summary": "India must leverage global AI while reducing strategic technological dependence over time",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-acer-s-swift-go-16-is-a-lot-of-laptop-for-900-2e2f69a452",
+      "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-06-30T20:00:00.000Z",
+      "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfull...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-life-c0c2cbd7ba",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy2?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-06-30T19:30:00.000Z",
+      "summary": "We hear concerns that shadow banning is limiting access to health advice for women.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-s-new-nano-banana-2-lite-image-model-is-i-d6912a0e4a",
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet",
+      "tag": "Technology",
+      "publishedAt": "2026-06-30T18:36:10.000Z",
+      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,26 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-30T18:09:01.000Z",
       "summary": "Hyderabad startup Maithri Aquatech, whose Meghdoot technology makes drinking water from air, has secured a strategic stake from DP World, a marker of maturing Indian climate tech.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-trump-s-plan-to-redesign-every-gov-website-leads-871bdf53e3",
-      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T16:59:02.000Z",
-      "summary": "A year in, National Design Studio delays plan to update government web standards.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-california-bill-to-preserve-online-games-fails-c-8a1c3f2eed",
-      "title": "California bill to preserve online games fails committee vote",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T16:11:47.000Z",
-      "summary": "At least for this session, the Stop Killing Games campaign has hit a wall in the California Senate.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-what-is-whatsapp-s-new-username-feature-and-how--779152346b",
-      "title": "What is WhatsApp’s new username feature, and how to reserve one for yourself?",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/what-is-whatsapps-new-username-feature-and-how-to-reserve-one-for-yourself/article71165042.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T09:25:36.000Z",
-      "summary": "Here is what you need to know about WhatsApp’s username feature, and what it means for you",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-whatsapp-to-let-people-chat-by-swapping-username-e5cdceba0a",
-      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T09:16:23.000Z",
-      "summary": "The app's new usernames feature will be rolled out globally over the next few months.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-launches-claude-sonnet-5-as-a-cheaper--cf435e3526",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T18:00:00.000Z",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini...",
+      "id": "tech-the-supreme-court-will-hear-an-appeal-in-the-lon-49ed1a012a",
+      "title": "The Supreme Court will hear an appeal in the long-running case between Apple and Epic Games",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2205396/the-supreme-court-will-hear-an-appeal-in-the-long-running-case-between-apple-and-epic-games",
+      "tag": "Running",
+      "publishedAt": "2026-06-30T20:16:43.000Z",
+      "summary": "Apple filed an appeal after being found in contempt of an order related to App Store fees.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-acti-puts-ai-agents-directly-into-your-smartphon-4fb3abe576",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+      "id": "tech-google-s-notebooklm-can-sum-up-your-research-in--a9c0e8dfe8",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T17:52:46.000Z",
-      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powe...",
+      "publishedAt": "2026-06-30T19:24:51.000Z",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing Notebo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
