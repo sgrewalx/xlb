@@ -1,25 +1,55 @@
 {
-  "updatedAt": "2026-06-30T20:51:04.279Z",
+  "updatedAt": "2026-06-30T22:08:54.889Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-deepmind-trio-who-built-a-poker-ai-are-now-m-92fa7ea11e",
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "id": "tech-openclaw-is-finally-available-on-android-and-ios-4a573171f7",
+      "title": "OpenClaw is finally available on Android and iOS",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T20:33:48.000Z",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "publishedAt": "2026-06-30T21:53:28.000Z",
+      "summary": "The free open source agentic program is finally invading your phone.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-netflix-used-ai-to-put-gene-wilder-s-voice-into--561fa50754",
-      "title": "Netflix used AI to put Gene Wilder's voice into a new reality show",
+      "id": "tech-anthropic-s-new-sonnet-5-model-is-better-at-the--1cce38cbdd",
+      "title": "Anthropic's new Sonnet 5 model is better at the tasks that are running up enterprise bills",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show",
+      "url": "https://www.engadget.com/2205475/anthropic-releases-claude-sonnet-5-model",
+      "tag": "Running",
+      "publishedAt": "2026-06-30T21:28:34.000Z",
+      "summary": "Anthropic trained its newest Sonnet model to excel at agentic tasks, which have been causing a headache for the company's enterprise customers and power users.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-amazon-fined-2-25-million-for-failing-to-help-id-8e759de808",
+      "title": "Amazon fined $2.25 million for failing to help identity theft victims",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T20:24:49.000Z",
-      "summary": "So much for magic.",
+      "publishedAt": "2026-06-30T21:20:01.000Z",
+      "summary": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-daisy-sound-s-first-headphones-are-premium-high--e4c2b75993",
+      "title": "Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones",
+      "tag": "Technology",
+      "publishedAt": "2026-06-30T21:07:32.000Z",
+      "summary": "The California-based startup enters a crowded headphone market with a $399 chiseled-aluminum gamble.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nasa-may-send-a-backup-nuclear-powered-mars-rove-a036bdbaab",
+      "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon",
+      "tag": "Technology",
+      "publishedAt": "2026-06-30T20:50:14.000Z",
+      "summary": "\"That would be an awesome capability.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-acer-s-swift-go-16-is-a-lot-of-laptop-for-900-2e2f69a452",
-      "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T20:00:00.000Z",
-      "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfull...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-tech-life-c0c2cbd7ba",
       "title": "Tech Life",
       "source": "BBC Technology",
@@ -50,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-06-30T19:30:00.000Z",
       "summary": "We hear concerns that shadow banning is limiting access to health advice for women.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-s-new-nano-banana-2-lite-image-model-is-i-d6912a0e4a",
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T18:36:10.000Z",
-      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-new-york-is-about-to-feel-hotter-than-phoenix-717a97b38d",
-      "title": "New York Is About to Feel Hotter Than Phoenix",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T15:18:08.000Z",
-      "summary": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-supreme-court-will-hear-an-appeal-in-the-lon-49ed1a012a",
-      "title": "The Supreme Court will hear an appeal in the long-running case between Apple and Epic Games",
+      "id": "tech-xbox-layoff-plans-reportedly-include-closing-ark-d472b072e5",
+      "title": "Xbox layoff plans reportedly include closing Arkane, canceling Blade",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2205396/the-supreme-court-will-hear-an-appeal-in-the-long-running-case-between-apple-and-epic-games",
-      "tag": "Running",
-      "publishedAt": "2026-06-30T20:16:43.000Z",
-      "summary": "Apple filed an appeal after being found in contempt of an order related to App Store fees.",
+      "url": "https://www.engadget.com/2205451/xbox-layoff-plans-reportedly-include-closing-arkane-canceling-blade",
+      "tag": "Technology",
+      "publishedAt": "2026-06-30T20:59:40.000Z",
+      "summary": "The cuts will apparently start next week.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-s-notebooklm-can-sum-up-your-research-in--a9c0e8dfe8",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "id": "tech-google-kills-tenor-gif-api-forcing-changes-at-x--295006ffd2",
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T19:24:51.000Z",
-      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing Notebo...",
+      "publishedAt": "2026-06-30T20:38:51.000Z",
+      "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
