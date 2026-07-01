@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-07-01T19:29:31.836Z",
+  "updatedAt": "2026-07-01T21:18:00.336Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-xbox-s-reset-all-the-news-about-microsoft-s-loom-7441fda0fe",
+      "title": "Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T21:00:00.000Z",
+      "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to st...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-s-hide-my-email-may-not-be-hiding-anything-d89e571619",
+      "title": "Apple's Hide My Email may not be hiding anything",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T20:57:11.000Z",
+      "summary": "A vulnerability can reportedly connect real email addresses to anonymous ones.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-goose-a-new-gay-dating-app-appears-to-be-a-psyop-c053b207d7",
+      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T20:28:57.000Z",
+      "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nasa-chief-praises-progress-blue-origin-is-makin-15dd6f196e",
+      "title": "NASA chief praises progress Blue Origin is making after launch failure",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T19:57:36.000Z",
+      "summary": "\"We've got time into 2027 before we're getting nervous.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-on-curbing-young-adults-on-social-media-2660402a5a",
+      "title": "On curbing young adults on social media",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/opinion/op-ed/on-curbing-young-adults-on-social-media/article71171472.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T19:36:49.000Z",
+      "summary": "Given the limited efficacy of bans, the alternative is to focus on the governance of social media platforms. This moves attention from those at risk to those contributing to cre...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-apple-s-hide-my-email-feature-has-a-bug-that-s-b-59f6ef2efd",
       "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
@@ -10,56 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-01T19:18:07.000Z",
       "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-is-reportedly-building-its-own-cloud-busine-109355e38c",
-      "title": "Meta is reportedly building its own cloud business",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2206249/meta-is-reportedly-building-its-own-cloud-business",
-      "tag": "Technology",
-      "publishedAt": "2026-07-01T19:04:07.000Z",
-      "summary": "Selling server infrastructure would put Meta in competition with Amazon and Google.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-sony-will-stop-making-physical-copies-of-playsta-6e27a5404e",
-      "title": "Sony will stop making physical copies of PlayStation games in 2028",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028",
-      "tag": "Technology",
-      "publishedAt": "2026-07-01T18:41:49.000Z",
-      "summary": "“We will own nothing, it's truly sad.”",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-you-can-now-sound-the-alarm-on-ai-behaving-badly-29f7cd6b5e",
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety",
-      "tag": "Technology",
-      "publishedAt": "2026-07-01T18:10:00.000Z",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-unchecked-ai-progress-may-pose-catastrophic-risk-c14e1f3ce4",
-      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns/article71171581.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-07-01T18:04:19.000Z",
-      "summary": "A preliminary report by the UN’s Independent International Scientific Panel on Artificial Intelligence said policymakers face a growing dilemma: they need robust evidence to reg...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-krafton-settles-with-subnautica-2-developer-afte-3e0ace13b5",
-      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
-      "tag": "Technology",
-      "publishedAt": "2026-07-01T17:45:23.000Z",
-      "summary": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-has-an-ai-device-prototype-and-it-sure-so-d7ca2b29a5",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish",
+      "id": "tech-elon-musk-denies-a-report-about-spacex-s-ai-phon-9f2c9b9bf9",
+      "title": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
       "tag": "Technology",
-      "publishedAt": "2026-07-01T18:54:18.000Z",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "publishedAt": "2026-07-01T20:10:21.000Z",
+      "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-li...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ashton-kutcher-leaving-sound-ventures-to-launch--243179e80a",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller",
+      "id": "tech-report-suggests-spacex-is-testing-a-handheld-ai--f45af799fd",
+      "title": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device",
       "tag": "Technology",
-      "publishedAt": "2026-07-01T18:47:22.000Z",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies...",
+      "publishedAt": "2026-07-01T20:09:31.000Z",
+      "summary": "A rumored SpaceX device could offer a way to access xAI's models without having to use a smartphone.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
