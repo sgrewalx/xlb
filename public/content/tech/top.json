@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-06-30T23:58:25.990Z",
+  "updatedAt": "2026-07-01T03:44:22.419Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-samsung-teases-wide-as-hell-new-foldable-0d37e0f853",
-      "title": "Samsung teases wide-as-hell new foldable",
+      "id": "tech-gemini-spark-comes-to-google-s-gemini-app-for-ma-29bab2b808",
+      "title": "Gemini Spark comes to Google's Gemini app for macOS",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2205289/samsung-teases-wide-as-hell-new-foldable",
+      "url": "https://www.engadget.com/2205605/google-gemini-spark-macos-app",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T23:30:00.000Z",
-      "summary": "Samsung teases wide-as-hell new foldable.",
+      "publishedAt": "2026-07-01T03:29:59.000Z",
+      "summary": "The Gemini macOS app now has access to Google's Spark agentic AI assistant.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-uber-announces-record-my-ride-ambulance-assistan-51bbffb8f3",
+      "title": "Uber Announces Record My Ride, Ambulance Assistance in India Along With New Safety Features",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/apps/news/uber-safety-features-india-record-my-ride-ambulance-assistance-and-more-11710504",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T03:21:18.000Z",
+      "summary": "Uber announced a new set of safety features for its ride-hailing platform in India at an event held in New Delhi on Monday. As per the company, the new features improve emergenc...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-father-of-the-internet-is-finally-retiring-d044e0b375",
+      "title": "The “Father of the Internet” is finally retiring",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T03:15:37.000Z",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-u-s-government-lifts-restrictions-on-powerful-ai-feb80f8a08",
+      "title": "U.S. government lifts restrictions on powerful AI models, Anthropic says",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/us-government-lifts-restrictions-on-powerful-ai-models-anthropic-says/article71168442.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T02:17:35.000Z",
+      "summary": "We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5, says Anthropic in a post on X.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-streamlining-esops-in-india-atomgrid-bets-on-spe-64e64a98c8",
+      "title": "Streamlining ESOPs in India; Atomgrid bets on speciality chemicals",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/06/streamlining-esops-in-india-vestd",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T02:00:00.000Z",
+      "summary": "Vestd wants to simplify ESOP process. The London-headquartered company helps businesses issue and manage employee equity digitally, covering everything from ESOP grants and vest...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-is-adding-ridiculous-rate-limits-and-a-soft-b72654333e",
+      "title": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "tag": "Technology",
+      "publishedAt": "2026-07-01T00:51:03.000Z",
+      "summary": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-startup-battlefield-australia-application-closes-6b350781fd",
-      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T23:00:00.000Z",
-      "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-dish-files-for-bankruptcy-but-not-shutting-down-626737bccc",
-      "title": "Dish files for bankruptcy, but not shutting down",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T22:46:52.000Z",
-      "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to con...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-june-research-roundup-6-cool-science-stories-we--df14ef908d",
       "title": "June research roundup: 6 cool science stories we almost missed",
       "source": "Ars Technica",
@@ -60,36 +90,6 @@
       "tag": "Football",
       "publishedAt": "2026-06-30T22:11:10.000Z",
       "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-reimagining-sovereign-ai-for-india-s-strategic-f-962489e5eb",
-      "title": "Reimagining sovereign AI for India’s strategic future",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/opinion/op-ed/reimagining-sovereign-ai-for-indias-strategic-future/article71166911.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T20:20:44.000Z",
-      "summary": "India must leverage global AI while reducing strategic technological dependence over time",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-maithri-aquatech-draws-dp-world-s-backing-in-a-s-ba6b4b7a93",
-      "title": "Maithri Aquatech draws DP World's backing in a sign of Indian climate tech coming of age",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/dp-world-maithri-aquatech-water-air-climate-tech-investment",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T18:09:01.000Z",
-      "summary": "Hyderabad startup Maithri Aquatech, whose Meghdoot technology makes drinking water from air, has secured a strategic stake from DP World, a marker of maturing Indian climate tech.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-announces-nano-banana-2-lite-powered-shor-51975bd811",
-      "title": "Google Announces Nano Banana 2 Lite-Powered Short Video Overviews for NotebookLM",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/apps/news/google-short-video-overviews-notebooklm-features-nano-banana-2-lite-11707116",
-      "tag": "Technology",
-      "publishedAt": "2026-06-30T16:00:01.000Z",
-      "summary": "Google on Tuesday announced Short Video Overviews for NotebookLM, its AI-powered research assistant and knowledge base builder. The feature, as the name suggests, allows users t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-discord-now-runs-natively-on-meta-quest-headsets-2ef8f0127d",
-      "title": "Discord now runs natively on Meta Quest headsets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2205537/discord-now-runs-natively-on-meta-quest-headsets",
+      "id": "tech-trump-drops-restrictions-on-anthropic-s-mythos-a-b2bdf4ceb3",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T22:57:55.000Z",
-      "summary": "The app's arrival follows an announcement at last year's Meta Connect conference.",
+      "publishedAt": "2026-07-01T02:16:06.000Z",
+      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-amazon-will-pay-2-25-million-to-settle-ftc-ident-7c9d2351ce",
-      "title": "Amazon will pay $2.25 million to settle FTC identity theft case",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2205504/amazon-will-pay-2-25-million-to-settle-ftc-identity-theft-case",
+      "id": "tech-austria-urges-europe-to-host-anthropic-following-4b3ab3ad5d",
+      "title": "Austria urges Europe to host Anthropic following U.S. curbs on AI access",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/austria-urges-europe-to-host-anthropic-following-us-curbs-on-ai-access/article71159936.ece",
       "tag": "Technology",
-      "publishedAt": "2026-06-30T22:12:53.000Z",
-      "summary": "The retailer allegedly failed to meet requirements under the Fair Credit Reporting Act.",
+      "publishedAt": "2026-07-01T02:15:04.000Z",
+      "summary": "Austria’s State Secretary for ‌Digitalization Alexander Proell wrote it ‌was ⁠important that Europe was not cut ⁠off from major innovations",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
