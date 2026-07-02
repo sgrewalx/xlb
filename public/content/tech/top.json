@@ -1,35 +1,45 @@
 {
-  "updatedAt": "2026-07-02T21:59:06.879Z",
+  "updatedAt": "2026-07-02T23:08:23.368Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-thiel-capital-s-jack-selby-nabs-stakes-in-hot-st-b1f793a070",
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "id": "tech-ai-is-not-smart-so-what-s-next-in-artificial-int-eec1f00dad",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-02T23:02:09.000Z",
+      "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-private-space-pilots-are-flying-orbital-missions-446f495c8a",
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections",
+      "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force",
       "tag": "Technology",
-      "publishedAt": "2026-07-02T21:57:10.000Z",
-      "summary": "Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing.",
+      "publishedAt": "2026-07-02T23:01:06.000Z",
+      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the US military.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-cloudflare-will-filter-out-web-crawlers-that-ser-ad5dfbd63c",
-      "title": "Cloudflare will filter out web crawlers that serve AI companies",
+      "id": "tech-meta-has-released-an-app-for-making-generative-a-4b7473bc30",
+      "title": "Meta has released an app for making generative AI games",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies",
+      "url": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games",
       "tag": "Technology",
-      "publishedAt": "2026-07-02T21:17:10.000Z",
-      "summary": "The hosting platform wants sites to have more control over how AI companies use their content.",
+      "publishedAt": "2026-07-02T22:53:42.000Z",
+      "summary": "Pocket is listed in app stores but seemingly unavailable in the US.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-has-a-new-app-called-pocket-that-is-absolut-75229ceab1",
-      "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+      "id": "tech-tesla-driver-faces-manslaughter-charges-over-tex-292f20f103",
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+      "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
       "tag": "Technology",
-      "publishedAt": "2026-07-02T21:09:06.000Z",
-      "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app le...",
+      "publishedAt": "2026-07-02T22:09:33.000Z",
+      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-glasses-wearers-hit-with-paywall-to-use-bui-21bbe27705",
-      "title": "Meta glasses wearers hit with paywall to use built-in feature",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-02T13:42:53.000Z",
-      "summary": "A feature in Meta's glasses which boosts the voice of people will be capped at three hours for free use.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-startup-news-and-updates-daily-roundup-july-2-20-97a5a530df",
       "title": "Startup news and updates: daily roundup (July 2, 2026)",
       "source": "YourStory",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-iqm-europe-s-first-public-quantum-company-admits-50a9ff4a07",
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+      "id": "tech-thiel-capital-s-jack-selby-nabs-stakes-in-hot-st-b1f793a070",
+      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain",
+      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections",
       "tag": "Technology",
-      "publishedAt": "2026-07-02T20:42:48.000Z",
-      "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+      "publishedAt": "2026-07-02T21:57:10.000Z",
+      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-best-july-4th-sales-we-found-so-far-5e83f6e0ce",
-      "title": "The best July 4th sales we found so far",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
+      "id": "tech-cloudflare-will-filter-out-web-crawlers-that-ser-ad5dfbd63c",
+      "title": "Cloudflare will filter out web crawlers that serve AI companies",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies",
       "tag": "Technology",
-      "publishedAt": "2026-07-02T20:15:45.000Z",
-      "summary": "July 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over,...",
+      "publishedAt": "2026-07-02T21:17:10.000Z",
+      "summary": "The hosting platform wants sites to have more control over how AI companies use their content.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
