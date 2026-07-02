@@ -1,65 +1,85 @@
 {
-  "updatedAt": "2026-07-02T12:03:59.145Z",
+  "updatedAt": "2026-07-02T15:07:40.965Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-socioeconomic-status-has-an-impact-on-premature--264cf58efe",
-      "title": "Socioeconomic status has an impact on premature mortality, shows Chennai study",
+      "id": "news-strategic-stockpiling-to-ai-ecosystem-the-india--54ed14178a",
+      "title": "Strategic stockpiling to AI ecosystem, the India-Japan roadmap’s out",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/india-japan-energy-ai-partnership-10-trillion-yen-investment-10768602",
+      "tag": "India",
+      "publishedAt": "2026-07-02T15:03:39.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-project-to-fill-28-tanks-launched-to-serve-ganga-ba575b5ad7",
+      "title": "Project to fill 28 tanks launched to serve Gangavati, Koppal taluks",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/socioeconomic-status-has-an-impact-on-premature-mortality-shows-chennai-study/article71173707.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/project-to-fill-28-tanks-launched-to-serve-gangavati-koppal-taluks/article71174718.ece",
       "tag": "India",
-      "publishedAt": "2026-07-02T11:58:57.000Z",
-      "summary": "The study indicates that reducing premature mortality in India will take more than just creating deterrence for smoking and drinking alcohol",
+      "publishedAt": "2026-07-02T15:02:05.000Z",
+      "summary": "MLA Gali Janardhan Reddy performs groundbreaking ceremony for the ₹153.76-crore pipeline project at Durgadevi temple in Indargi village",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-most-massive-russian-attack-on-kyiv-kills-at-lea-418a072069",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-02T11:53:29.000Z",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-live-updates-russia-hammers-ukraine-s-capital-in-baec738c21",
-      "title": "Live Updates: Russia Hammers Ukraine’s Capital in Deadly Attacks",
+      "id": "news-celebrating-the-world-cup-the-english-ask-who-ow-fb3100243f",
+      "title": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
-      "tag": "US",
-      "publishedAt": "2026-07-02T11:48:29.000Z",
-      "summary": "At least 18 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit...",
+      "url": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html",
+      "tag": "Football",
+      "publishedAt": "2026-07-02T14:55:56.000Z",
+      "summary": "The national flag of England, a white banner with a bold red cross, has been displayed by soccer fans during the World Cup. But it has caused tension over whom, and what, it is...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-at-least-18-dead-as-russia-launches-massive-dron-694d5cb118",
-      "title": "At least 18 dead as Russia launches massive drone and missile attack on Kyiv",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
-      "tag": "Europe",
-      "publishedAt": "2026-07-02T11:44:50.000Z",
-      "summary": "Ukraine capital targeted as Russia faces fuel shortages following long-range strikes against its oil refineries Europe live – latest updates At least 18 people have been killed...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-jaylen-brown-traded-to-philadelphia-76ers-from-b-aedb1ce3c8",
-      "title": "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/2/jaylen-brown-traded-to-philadelphia-76ers-from-boston-celtics?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-02T11:29:36.000Z",
-      "summary": "In an unexpected move, Boston traded the All-Star guard to division rivals Philadelphia for Paul George and draft picks.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-outrage-when-j-k-leaders-urge-talks-not-when-rss-cc25235d2f",
-      "title": "'Outrage when J&K leaders urge talks, not when RSS does': Omar Abdullah backs call for India-Pakistan dialogue",
+      "id": "news-op-eds-on-gaza-silence-on-sikhs-bjp-questions-so-d2b08554aa",
+      "title": "'Op-eds on Gaza, silence on Sikhs': BJP questions Sonia Gandhi over Pakistan gurdwara demolition",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/outrage-when-jk-leaders-urge-talks-not-when-rss-does-omar-abdullah-backs-call-for-india-pakistan-dialogue/articleshow/132137168.cms",
+      "url": "https://timesofindia.indiatimes.com/india/op-eds-on-gaza-silence-on-sikhs-bjp-questions-sonia-gandhi-over-pakistan-gurdwara-demolition/articleshow/132140869.cms",
       "tag": "India",
-      "publishedAt": "2026-07-02T11:29:25.000Z",
-      "summary": "Jammu and Kashmir chief minister Omar Abdullah has endorsed calls for dialogue between India and Pakistan, following a letter from 117 eminent citizens urging renewed talks. Abd...",
+      "publishedAt": "2026-07-02T14:49:24.000Z",
+      "summary": "The BJP has accused senior Congress leader Sonia Gandhi of exhibiting \"double standards\" by remaining silent on the reported demolition of a gurdwara in Pakistan, while frequent...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-death-toll-rises-to-21-with-more-than-80-injured-e15006427f",
+      "title": "Death toll rises to 21 with more than 80 injured in huge Russian attack on Kyiv – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-07-02T14:48:43.000Z",
+      "summary": "Damage recorded in 30 locations across in the city from overnight attacks, with ‘most of them ordinary residential buildings’ in Dublin Volodymyr Zelenskyy has said he hopes not...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-government-may-now-allow-pubs-to-extend-hours-fo-1a2e7a58c5",
+      "title": "Government may now allow pubs to extend hours for 1am England clash",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-07-02T14:44:02.000Z",
+      "summary": "The government had initially said it would not relax licensing laws further than they already have been for the World Cup.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-who-is-iranian-oil-tycoon-shamkhani-whose-ship-i-f9498109c8",
+      "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-02T14:15:42.000Z",
+      "summary": "Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-air-india-express-resumes-flights-to-all-middle--b2b8b7184b",
+      "title": "Air India Express Resumes Flights To All Middle East Destinations",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/air-india-express-resumes-flights-to-all-middle-east-destinations-11718466",
+      "tag": "India",
+      "publishedAt": "2026-07-02T13:24:37.000Z",
+      "summary": "Currently, the carrier operates around 780 weekly flights between India and West Asia connecting 18 Indian cities directly with the region.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-can-cbse-skip-parliamentary-panel-queries-minist-238ba0fe64",
-      "title": "Can CBSE skip parliamentary panel queries? Ministry, Opposition spar over accountability",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/parliamentary-panel-cbse-row-questions-chairperson-education-ministry-10768198",
-      "tag": "India",
-      "publishedAt": "2026-07-02T11:00:06.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-vikram-1-india-s-1st-private-orbital-rocket-set--fa9d542f8c",
-      "title": "Vikram-1, India's 1st Private Orbital Rocket, Set To Launch By August 4",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/vikram-1-indias-1st-private-orbital-rocket-set-to-launch-by-august-4-11717605",
-      "tag": "India",
-      "publishedAt": "2026-07-02T10:50:50.000Z",
-      "summary": "At India's spaceport, the Satish Dhawan Space Centre in Sriharikota, Skyroot Aerospace, the unicorn valued at more than $1.1 billion, has unveiled its fully stacked Vikram-1 lau...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-how-india-s-oil-sector-held-steady-through-hormu-cd053ba966",
       "title": "How India’s oil sector held steady through Hormuz crisis",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-death-of-mayiladuthurai-teen-duo-post-mortem-don-adcab4e8bf",
-      "title": "Death of Mayiladuthurai teen duo: Post-mortem done on body of Scheduled Caste youth, girl’s father arrested",
+      "id": "news-bomb-threat-to-mysuru-court-complex-turns-out-to-c3fdce3fe5",
+      "title": "Bomb threat to Mysuru court complex turns out to be a hoax",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-mayiladuthurai-teen-duo-post-mortem-done-on-body-of-scheduled-caste-youth-girls-father-arrested/article71170459.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/bomb-threat-to-mysuru-court-complex-turns-out-to-be-a-hoax/article71175013.ece",
       "tag": "India",
-      "publishedAt": "2026-07-02T11:53:18.000Z",
-      "summary": "The youth had previously alleged in the police complaint that he was abused and assaulted by the father of the girl and a few others.",
+      "publishedAt": "2026-07-02T15:00:14.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-watch-a-theft-at-a-temple-implications-of-the-ay-18b71fa4a7",
-      "title": "Watch: A theft at a temple: Implications of the Ayodhya embezzlement case",
+      "id": "news-chandanappally-church-swaps-fireworks-for-a-home-9261af6d2f",
+      "title": "Chandanappally church swaps fireworks for a home and hope",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/videos/shows/watch-a-theft-at-a-temple-implications-of-the-ayodhya-embezzlement-case/article71174187.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/chandanappally-church-swaps-fireworks-for-a-home-and-hope/article71174706.ece",
       "tag": "India",
-      "publishedAt": "2026-07-02T11:53:06.000Z",
-      "summary": "After years of anticipation, with India’s apex court getting involved, the Ayodhya Ram Mandir was consecrated in January 2024, under The Shri Ram Janmabhoomi Teerth Kshetra Trus...",
+      "publishedAt": "2026-07-02T14:58:43.000Z",
+      "summary": "Parish heeds the Catholicos’ request to forego fireworks for the church festival in the wake of the Mundakkai fireworks tragedy and redirect the savings towards building homes f...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
