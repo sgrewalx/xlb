@@ -1,46 +1,56 @@
 {
-  "updatedAt": "2026-07-02T20:49:43.135Z",
+  "updatedAt": "2026-07-02T21:56:21.427Z",
   "section": "Expanded Sports",
   "items": [
     {
-      "id": "sports-fery-last-briton-standing-in-wimbledon-singles-6f73079b7d",
-      "title": "Fery last Briton standing in Wimbledon singles",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cly87nn87plo?at_medium=RSS&at_campaign=rss",
+      "id": "sports-spain-dominate-austria-advance-to-round-of-16-09cac6690f",
+      "title": "Spain dominate Austria, advance to round of 16",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
+      "tag": "Football",
+      "publishedAt": "2026-07-02T22:43:49.000Z",
+      "summary": "null",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-dressed-for-success-fritz-advances-at-wimbledon-95125c3d7e",
+      "title": "Dressed for success, Fritz advances at Wimbledon",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49251788/fritz-impresses-walk-advancing-wimbledon",
       "tag": "Tennis",
-      "publishedAt": "2026-07-02T20:48:38.000Z",
-      "summary": "Arthur Fery is the last British player standing in the Wimbledon singles after his compatriots Katie Swan, Jacob Fearnley, and Jan Choinski are beaten.",
+      "publishedAt": "2026-07-02T22:40:45.000Z",
+      "summary": "A well-dressed Taylor Fritz impressed again, beating compatriot Patrick Kypson 6-2, 6-2, 7-5 to reach the third round at Wimbledon on Thursday.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-sciver-brunt-leads-superb-england-into-world-cup-57c166d9f0",
+      "id": "sports-america-250-road-trips-journey-into-the-mystery--50a0cba9ee",
+      "title": "America 250 road trips! Journey into the mystery and magic of sports",
+      "source": "ESPN",
+      "url": "https://www.espn.com/espn/story/_/id/49095495/america-250-espn-road-trips-journey-mystery-majesty-magic-sports",
+      "tag": "Running",
+      "publishedAt": "2026-07-02T22:32:01.000Z",
+      "summary": "Join five ESPN writers as they travel across the country on an America 250 quest to discover the mystery and magic of sports.",
+      "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
+    },
+    {
+      "id": "sports-folarin-balogun-joins-exclusive-club-with-world--370cce9c8a",
+      "title": "Folarin Balogun Joins Exclusive Club With World Cup Goal — And Red Card",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/world-cup-players-red-card-and-goal-folarin-balogun",
+      "tag": "Sports",
+      "publishedAt": "2026-07-02T21:41:00.000Z",
+      "summary": "Folarin Balogun entered an exclusive club with his goal for the United States against Bosnia and Herzegovina — but only because he also got a red card.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-sciver-brunt-leads-superb-england-into-world-cup-a3943691b1",
       "title": "Sciver-Brunt leads superb England into World Cup final",
       "source": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
       "tag": "Cricket",
-      "publishedAt": "2026-07-02T20:48:09.000Z",
+      "publishedAt": "2026-07-02T21:29:40.000Z",
       "summary": "England roar into Sunday's T20 World Cup final against Australia with a superb 40-run victory against South Africa at The Oval.",
       "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
-    },
-    {
-      "id": "sports-spain-v-austria-world-cup-2026-last-32-live-e912d0477f",
-      "title": "Spain v Austria: World Cup 2026 last 32 – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live",
-      "tag": "Football",
-      "publishedAt": "2026-07-02T20:46:23.000Z",
-      "summary": "⚽️ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽️ Player guide | Bracketology | The full draw | Golden Boot 1 min Lamine Yamal works Alexander Schlager inside the first m...",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-nahshon-wright-jets-are-turning-over-a-new-leaf--f9b91297ce",
-      "title": "Nahshon Wright: Jets are \"turning over a new leaf\" after interception-less season",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nahshon-wright-jets-are-turning-over-a-new-leaf-after-interception-less-season",
-      "tag": "Sports",
-      "publishedAt": "2026-07-02T20:37:55.000Z",
-      "summary": "Nahshon Wright had only one interception in his first four seasons.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
       "id": "sports-what-does-a-team-owner-actually-do-on-gameday-we-2879e8602c",
@@ -53,74 +63,64 @@
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-roy-feels-punished-by-commonwealth-games-omissio-0818d9beab",
-      "title": "Roy feels 'punished' by Commonwealth Games omission",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cn75j161j5zo?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-07-01T12:00:15.000Z",
-      "summary": "Northern Ireland sprinter Lauren Roy feels she is being \"punished\" after missing out on selection for the Commonwealth Games.",
-      "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
-    },
-    {
-      "id": "sports-sciver-brunt-steps-up-to-fire-england-past-south-38cce06e11",
-      "title": "Sciver-Brunt steps up to fire England past South Africa into Women’s T20 World Cup final – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/live/2026/jul/02/england-v-south-africa-womens-t20-cricket-world-cup-semi-final-live",
-      "tag": "Cricket",
-      "publishedAt": "2026-07-02T20:45:25.000Z",
-      "summary": "Updates from the Oval; play starts at 6.30pm BST Mail Tanya | Scoreboard | Australia cruise into final Oh dear, Derksen only has to shuffle a couple of pigeon steps sideways to...",
-      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
-    },
-    {
-      "id": "sports-how-to-follow-day-five-of-wimbledon-live-on-the--3292b8f3a6",
-      "title": "How to follow day five of Wimbledon live on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&at_campaign=rss",
+      "id": "sports-cool-off-on-criticism-of-serena-says-djokovic-eff6c009a6",
+      "title": "'Cool off' on criticism of Serena, says Djokovic",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49250909/djokovic-people-cool-serena-williams-criticism",
       "tag": "Tennis",
-      "publishedAt": "2026-07-02T20:42:01.000Z",
-      "summary": "Wimbledon 2026 is under way - and you can follow every minute live across the BBC.",
+      "publishedAt": "2026-07-02T22:40:45.000Z",
+      "summary": "Men's tennis star Novak Djokovic says people need to \"cool off a little bit\" on their judgment and criticism of Serena Williams, who lost in her return to singles play at Wimble...",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-he-ended-up-in-preston-murphy-gives-update-on-bo-ab92811c44",
-      "title": "'He ended up in Preston!' - Murphy gives update on Bob the cat",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj6g091dr8go?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-07-02T20:37:41.000Z",
-      "summary": "BBC commentator Danny Murphy provides an update on the fate of his cat Bob.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-wimbledon-2026-dimitrov-beats-mensik-zverev-swia-ce8bb37b38",
-      "title": "Wimbledon 2026: Dimitrov beats Mensik; Zverev, Swiatek win; Fery carries British hopes – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/live/2026/jul/02/wimbledon-2026-swan-keys-swiatek-zverev-fritz-rybakina-day-four-live",
+      "id": "sports-anisimova-rallies-behind-20-aces-avoids-upset-8ec13379b4",
+      "title": "Anisimova rallies behind 20 aces, avoids upset",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49249784/anisimova-avoids-wimbledon-upset-swiatek-eala-advance",
       "tag": "Tennis",
-      "publishedAt": "2026-07-02T20:36:38.000Z",
-      "summary": "Grigor Dimitrov claimed an emotional win against the 15th seed; Alexander Zverev, Iga Swiatek and Elena Rybakina advanced; while three of the four remaining Brits departed At 4-...",
+      "publishedAt": "2026-07-02T22:40:45.000Z",
+      "summary": "Amanda Anisimova served three of her 20 aces in the deciding tiebreaker to hold off Sofia Kenin in three sets and reach the third round at Wimbledon.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-missouri-attorney-general-launches-investigation-67ede6a50a",
-      "title": "Missouri attorney general launches investigation of ESPN's Matt Miller",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-attorney-general-launches-investigation-of-espns-matt-miller",
-      "tag": "Sports",
-      "publishedAt": "2026-07-02T20:35:59.000Z",
-      "summary": "On Wednesday, the folks at Awful Announcing posted a thorough and detailed look at the scrutiny that has arisen in the days following the revelation that ESPN draft analyst Matt...",
+      "id": "sports-serena-hurt-knee-vs-joint-trying-to-play-doubles-10ff35c406",
+      "title": "Serena hurt knee vs. Joint, trying to play doubles...",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49235544/serena-williams-tweaked-knee-singles-return-agent-says",
+      "tag": "Tennis",
+      "publishedAt": "2026-07-02T22:40:45.000Z",
+      "summary": "Serena Williams' status to play in women's doubles at Wimbledon is uncertain after she suffered a knee injury during her first singles match in nearly four years.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-man-utd-ready-for-baleba-move-friday-gossip-fa8c6e967d",
-      "title": "Man Utd ready for Baleba move - Friday gossip",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23644x506o?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-07-02T20:32:29.000Z",
-      "summary": "Manchester United want Brighton midfielder Carlos Baleba, Arsenal are keen on Aston Villa favourite Ezri Konsa and Bruno Guimaraes, and is Mason Greenwood heading to Madrid?",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+      "id": "sports-gauff-rallies-to-reach-3rd-round-at-wimbledon-6cd6aee5fa",
+      "title": "Gauff rallies to reach 3rd round at Wimbledon",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49238434/gauff-overcomes-sierra-reach-3rd-round-wimbledon",
+      "tag": "Tennis",
+      "publishedAt": "2026-07-02T22:40:45.000Z",
+      "summary": "Coco Gauff came from a break down in the third set and then won the last six points of the tiebreaker to beat Solana Sierra 6-3, 3-6, 7-6 (7) on Wednesday to reach the third rou...",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-kyrgios-swears-at-umpire-in-wimbledon-return-1c77fffb24",
+      "title": "Kyrgios swears at umpire in Wimbledon return",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49238649/nick-kyrgios-swears-berates-umpire-wimbledon-return",
+      "tag": "Tennis",
+      "publishedAt": "2026-07-02T22:40:45.000Z",
+      "summary": "Nick Kyrgios marked his return to the All England Club by swearing at an umpire before saying an emotional goodbye to his Wimbledon career.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-wimbledon-odds-sinner-sabalenka-favorites-b98e0194ad",
+      "title": "💰 Wimbledon odds: Sinner, Sabalenka favorites",
+      "source": "ESPN",
+      "url": "https://www.espn.com/betting/tennis/story/_/id/49072110/wimbledon-championship-odds-tennis-2026",
+      "tag": "Tennis",
+      "publishedAt": "2026-07-02T22:40:45.000Z",
+      "summary": "Jannik Sinner and Aryna Sabalenka are the respective favorites for Wimbledon despite upsets at Roland Garros.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     }
   ]
 }
