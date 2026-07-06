@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-06T21:21:01.816Z",
+  "updatedAt": "2026-07-06T22:58:01.242Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-google-will-now-count-all-android-backup-data-to-2df138d192",
+      "title": "Google will now count all Android backup data toward your storage cap",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2209189/google-will-now-count-all-android-backup-data-toward-your-storage-cap",
+      "tag": "Technology",
+      "publishedAt": "2026-07-06T22:09:56.000Z",
+      "summary": "Fortunately, it shouldn't take too much extra space.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-fcc-to-end-biden-era-rule-that-forces-isps-to-li-2c1dd86324",
+      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees",
+      "tag": "Technology",
+      "publishedAt": "2026-07-06T21:13:37.000Z",
+      "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-hoto-s-pixeldrive-screwdriver-is-down-to-60-matc-ee2760e312",
       "title": "Hoto’s PixelDrive screwdriver is down to $60, matching its best price",
@@ -23,16 +43,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-what-s-the-oldest-americana-flown-in-space-7417ea4130",
-      "title": "What's the oldest Americana flown in space?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space",
-      "tag": "Technology",
-      "publishedAt": "2026-07-06T19:57:56.000Z",
-      "summary": "From a Revolutionary War flag to the Statue of Liberty...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-vercel-ceo-guillermo-rauch-on-the-fight-to-split-1dfe9a254a",
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
       "source": "TechCrunch",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-06T19:49:10.000Z",
       "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-now-uses-your-uploaded-search-media-to-tr-67161c085e",
-      "title": "Google now uses your uploaded search media to train AI",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2208978/google-now-uses-your-uploaded-search-media-to-train-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-07-06T19:13:52.000Z",
-      "summary": "A few simple adjustments to your settings will opt you out of Google's latest AI-training method.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-you-can-now-customize-siri-s-pace-and-expressivi-6ef29644d2",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta",
+      "id": "tech-kremlin-suspected-of-flying-drones-over-europe-u-d079213aa6",
+      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet",
       "tag": "Technology",
-      "publishedAt": "2026-07-06T19:01:59.000Z",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "publishedAt": "2026-07-06T20:52:42.000Z",
+      "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-america-s-greatest-idea-is-still-under-threat-0579cbd409",
-      "title": "America’s greatest idea is still under threat",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/961802/america-250-free-speech",
+      "id": "tech-what-is-the-oldest-american-object-ever-launched-7417ea4130",
+      "title": "What is the oldest American object ever launched into space?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space",
       "tag": "Technology",
-      "publishedAt": "2026-07-06T18:36:33.000Z",
-      "summary": "The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around...",
+      "publishedAt": "2026-07-06T19:57:56.000Z",
+      "summary": "From a Revolutionary War flag to the Statue of Liberty...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
