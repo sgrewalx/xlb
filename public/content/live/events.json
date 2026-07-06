@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T07:16:40.165Z",
+  "updatedAt": "2026-07-06T12:12:04.232Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-07-01T07:12:08.750Z",
-      "summary": "USGS reported 252 earthquake events in the last 24 hours. Strongest reported event: M6 near 75 km SSW of El Progreso, Mexico.",
+      "startsAt": "2026-07-06T11:52:59.008Z",
+      "summary": "USGS reported 206 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 48 km SSW of Sarangani, Philippines.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-07-01T07:16:40.165Z",
+      "updatedAt": "2026-07-06T12:12:04.232Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-kornacki-cam-watch-steve-analyze-colorado-primar-95aa1bc042",
-        "video-utah-wildfire-catastrophe-deepens-monster-blazes-857e20f21b",
-        "video-us-supreme-court-blocks-trump-s-birthright-citiz-8e35a9e07e"
+        "video-venezuela-earthquakes-caracas-starts-reconstruct-a95dd90c31",
+        "video-israel-climbs-global-wealth-rankings-world-busin-557ef7fe1a",
+        "video-iran-us-the-hormuz-deadlock-world-business-watch-8d2f108641"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -40,51 +40,14 @@
       ]
     },
     {
-      "id": "space-launch-clps-flight-astrobotic-griffin-1",
-      "slug": "clps-flight-astrobotic-griffin-1",
-      "title": "CLPS Flight: Astrobotic Griffin-1",
-      "status": "upcoming",
-      "category": "space",
-      "topic": "launches",
-      "startsAt": "2026-07-01T12:00:00.000Z",
-      "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
-      "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/clps-flight-astrobotics-griffin-mission-one/",
-      "watchUrl": "https://www.nasa.gov/live",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 96,
-      "rightsProfile": "public-information",
-      "cadence": "scheduled",
-      "audienceIntent": "watch-live",
-      "updatedAt": "2026-07-01T07:16:40.165Z",
-      "importance": 73,
-      "featuredReason": "This event is one of the stronger expand candidates in the current live inventory.",
-      "relatedVideoIds": [
-        "video-us-iran-war-live-tehran-shaken-by-explosions-aft-95c6ff610c",
-        "video-afghanistan-launches-airstrikes-in-pakistan-head-115b9e2af6",
-        "video-pakistan-strikes-afghanistan-live-pak-launches-d-57f1f0ddd1"
-      ],
-      "relatedGameIds": [
-        "headline-match",
-        "timeline-sort",
-        "rapid-reaction"
-      ],
-      "relatedGalleryIds": [
-        "gallery-launch-windows",
-        "gallery-topic-rotation"
-      ]
-    },
-    {
       "id": "space-aurora-watch",
       "slug": "aurora-watch",
       "title": "Aurora watch",
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-07-01T07:13:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-07-06T12:08:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -95,13 +58,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-07-01T07:16:40.165Z",
+      "updatedAt": "2026-07-06T12:12:04.232Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-kornacki-cam-watch-steve-analyze-colorado-primar-95aa1bc042",
-        "video-utah-wildfire-catastrophe-deepens-monster-blazes-857e20f21b",
-        "video-us-supreme-court-blocks-trump-s-birthright-citiz-8e35a9e07e"
+        "video-israel-climbs-global-wealth-rankings-world-busin-557ef7fe1a",
+        "video-iran-us-the-hormuz-deadlock-world-business-watch-8d2f108641",
+        "video-mexico-vs-england-live-watch-party-of-2026-world-07e6b42628"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -132,7 +95,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-07-01T07:16:40.165Z",
+      "updatedAt": "2026-07-06T12:12:04.232Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -152,7 +115,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-07-01T07:16:39.823Z",
+      "startsAt": "2026-07-06T12:12:02.545Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -164,13 +127,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-07-01T07:16:40.165Z",
+      "updatedAt": "2026-07-06T12:12:04.232Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-us-iran-war-live-tehran-shaken-by-explosions-aft-95c6ff610c",
-        "video-afghanistan-launches-airstrikes-in-pakistan-head-115b9e2af6",
-        "video-pakistan-strikes-afghanistan-live-pak-launches-d-57f1f0ddd1"
+        "video-at-least-5-dead-as-russia-launches-waves-of-miss-a4d2ba597d"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -189,7 +150,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-07-01T07:16:39.823Z",
+      "startsAt": "2026-07-06T12:12:02.545Z",
       "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -201,13 +162,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-07-01T07:16:40.165Z",
+      "updatedAt": "2026-07-06T12:12:04.232Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-us-iran-war-live-tehran-shaken-by-explosions-aft-95c6ff610c",
-        "video-afghanistan-launches-airstrikes-in-pakistan-head-115b9e2af6",
-        "video-pakistan-strikes-afghanistan-live-pak-launches-d-57f1f0ddd1"
+        "video-at-least-5-dead-as-russia-launches-waves-of-miss-a4d2ba597d",
+        "video-england-progress-to-world-cup-quarter-finals-aft-fdee2813b7"
       ],
       "relatedGameIds": [
         "headline-match",

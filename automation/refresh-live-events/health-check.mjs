@@ -75,8 +75,8 @@ export function getLaunchDegradedReasons(launchItems) {
   const degradedReasons = [];
   const relevantLaunchItems = launchItems.filter((item) => item.status === "upcoming");
 
-  if (relevantLaunchItems.length < 1) {
-    degradedReasons.push("launch topic has fewer than 1 source-backed events");
+  if (launchItems.length < 1) {
+    degradedReasons.push("launch topic has no source-backed events");
   }
 
   const placeholderCount = launchItems.filter((item) => item.rightsProfile === "internal-placeholder").length;

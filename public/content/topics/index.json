@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T07:16:40.334Z",
+  "updatedAt": "2026-07-06T12:12:04.232Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,18 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-07-01T07:16:40.334Z"
-    },
-    {
-      "slug": "launches",
-      "title": "Launches",
-      "category": "space",
-      "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
-      "eventCount": 3,
-      "promotedEventCount": 3,
-      "bestScore": 81,
-      "recommendation": "hold",
-      "updatedAt": "2026-07-01T07:16:40.334Z"
+      "updatedAt": "2026-07-06T12:12:04.232Z"
     },
     {
       "slug": "space-weather",
@@ -32,7 +21,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-07-01T07:16:40.334Z"
+      "updatedAt": "2026-07-06T12:12:04.232Z"
     },
     {
       "slug": "nasa",
@@ -43,7 +32,18 @@
       "promotedEventCount": 1,
       "bestScore": 77,
       "recommendation": "hold",
-      "updatedAt": "2026-07-01T07:16:40.334Z"
+      "updatedAt": "2026-07-06T12:12:04.232Z"
+    },
+    {
+      "slug": "launches",
+      "title": "Launches",
+      "category": "space",
+      "summary": "2 source-backed launch pages are active here, led by NASA’s SpaceX CRS-35 around the next scheduled launch window.",
+      "eventCount": 2,
+      "promotedEventCount": 2,
+      "bestScore": 71,
+      "recommendation": "hold",
+      "updatedAt": "2026-07-06T12:12:04.232Z"
     }
   ]
 }

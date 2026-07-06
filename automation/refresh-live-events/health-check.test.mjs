@@ -9,7 +9,7 @@ import {
   rollForwardSourceHistory,
 } from "./health-check.mjs";
 
-test("getLaunchDegradedReasons flags missing upcoming launch items", () => {
+test("getLaunchDegradedReasons allows a source-backed launch deck with only ended items", () => {
   const reasons = getLaunchDegradedReasons([
     {
       startsAt: "2026-04-01T00:00:00.000Z",
@@ -18,7 +18,13 @@ test("getLaunchDegradedReasons flags missing upcoming launch items", () => {
     },
   ]);
 
-  assert.deepEqual(reasons, ["launch topic has fewer than 1 source-backed events"]);
+  assert.deepEqual(reasons, []);
+});
+
+test("getLaunchDegradedReasons flags a missing launch deck", () => {
+  const reasons = getLaunchDegradedReasons([]);
+
+  assert.deepEqual(reasons, ["launch topic has no source-backed events"]);
 });
 
 test("buildCurrentSources carries intake metadata into the current source snapshot", () => {
