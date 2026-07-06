@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-06T03:49:57.078Z",
+  "updatedAt": "2026-07-06T08:12:47.310Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-typhoon-bavi-pounds-guam-and-northern-mariana-is-f2393c62ed",
-      "title": "Typhoon Bavi Pounds Guam and Northern Mariana Islands",
+      "id": "news-israeli-command-system-identified-850-000-target-4ce69cdfdf",
+      "title": "Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
+      "tag": "Europe",
+      "publishedAt": "2026-07-06T08:00:05.000Z",
+      "summary": "Elbit Systems supplied Tzayad digital army programme to map people, vehicles and other objects in real time Israel identified about 1,000 potential targets a day during the firs...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-live-updates-crowds-gather-in-tehran-for-ay-b86043fe7c",
+      "title": "Iran Live Updates: Crowds Gather in Tehran for Ayatollah’s Funeral Procession",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/05/weather/super-typhoon-bavi-guam-saipan.html",
+      "url": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei",
       "tag": "US",
-      "publishedAt": "2026-07-06T03:45:07.000Z",
-      "summary": "There was an island-wide power outage on Saipan, the capital of the Northern Mariana Islands, as the Category 5 storm approached.",
+      "publishedAt": "2026-07-06T07:59:55.000Z",
+      "summary": "Tens of thousands of Iranians have viewed the casket of Ayatollah Ali Khamenei, who was exalted by some and despised by others. He was killed four months ago at the start of the...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-weather-today-live-heavy-rain-grounds-flights-tr-9f611d959a",
-      "title": "Weather Today LIVE: Heavy Rain Grounds Flights, Triggers Flood Alerts Across India",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-delhi-north-india-rain-imd-alert-monsoon-rains-hit-air-travel-flights-diverted-across-delhi-mumbai-11731692",
-      "tag": "India",
-      "publishedAt": "2026-07-06T03:34:37.000Z",
-      "summary": "Delhi-NCR Monsoon Alert Live Updates: The disruptions occurred amid the ongoing monsoon season, when periods of intense rainfall and gusty winds frequently impact air travel, pa...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-landslides-shut-mumbai-pune-highway-and-expressw-0b36fd2466",
-      "title": "Landslides shut Mumbai-Pune highway and expressway; trains cancelled, diverted amid heavy rainfall | Monsoon LIVE updates",
+      "id": "news-mumbai-rains-pune-mumbai-expressway-old-mumbai-p-968fc7c160",
+      "title": "Mumbai rains | Pune–Mumbai Expressway, old Mumbai–Pune Highway shut due do to landslip, heavy rainfall",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-6-2026/article71187774.ece",
+      "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-rains-punemumbai-expressway-old-mumbaipune-highway-shut-due-following-landslide-heavy-rainfall/article71187963.ece",
       "tag": "India",
-      "publishedAt": "2026-07-06T03:30:49.000Z",
-      "summary": "Due to the landslides, all the three railway lines have been affected, forcing Central Railway to cancel, divert and regulate several long-distance trains",
+      "publishedAt": "2026-07-06T07:58:57.000Z",
+      "summary": "The traffic police have issued a public appeal, requesting that citizens refrain from undertaking any journeys between Pune and Mumbai until further notice",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
