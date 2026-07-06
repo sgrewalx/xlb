@@ -89,10 +89,24 @@ jobs:
         run: npm run automation:content-audit
 
       - name: Check source health
-        run: XLB_FAIL_ON_DEGRADED_SOURCES=1 npm run automation:source-health
+        run: |
+          FAIL_ON_DEGRADED=0
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            FAIL_ON_DEGRADED=1
+          fi
+
+          XLB_FAIL_ON_DEGRADED_SOURCES=$FAIL_ON_DEGRADED npm run automation:source-health
 
       - name: Assess live automation risk
-        run: XLB_FAIL_ON_HIGH_RISK=1 npm run automation:assess-live-risk
+        run: |
+          FAIL_ON_HIGH_RISK=0
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            FAIL_ON_HIGH_RISK=1
+          fi
+
+          XLB_FAIL_ON_HIGH_RISK=$FAIL_ON_HIGH_RISK npm run automation:assess-live-risk
 
       - name: Validate content
         run: npm run validate:content

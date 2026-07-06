@@ -64,14 +64,34 @@ jobs:
         run: npm run automation:apply-opportunities
     
       - name: Check source health
-        run: npm run automation:source-health
+        run: |
+          FAIL_ON_DEGRADED=1
+
+          if [ "${{ github.event_name }}" = "workflow_run" ]; then
+            FAIL_ON_DEGRADED=0
+          fi
+
+          XLB_FAIL_ON_DEGRADED_SOURCES=$FAIL_ON_DEGRADED npm run automation:source-health
 
       - name: Assess live automation risk
-        run: npm run automation:assess-live-risk
+        run: |
+          FAIL_ON_HIGH_RISK=1
+
+          if [ "${{ github.event_name }}" = "workflow_run" ]; then
+            FAIL_ON_HIGH_RISK=0
+          fi
+
+          XLB_FAIL_ON_HIGH_RISK=$FAIL_ON_HIGH_RISK npm run automation:assess-live-risk
 
       - name: Check deploy readiness
+        id: readiness
         run: |
           FAIL_ON_REVIEW=0
+          FAIL_ON_BLOCKED=1
+
+          if [ "${{ github.event_name }}" = "workflow_run" ]; then
+            FAIL_ON_BLOCKED=0
+          fi
 
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.allow_beta_deploy }}" = "true" ]; then
             echo "Supervised beta deploy override enabled for review-required readiness."
@@ -83,33 +103,62 @@ jobs:
             FAIL_ON_REVIEW=0
           fi
 
-          XLB_FAIL_ON_BLOCKED_DEPLOY=1 XLB_FAIL_ON_REVIEW_DEPLOY=$FAIL_ON_REVIEW npm run automation:check-deploy-readiness
+          XLB_FAIL_ON_BLOCKED_DEPLOY=$FAIL_ON_BLOCKED XLB_FAIL_ON_REVIEW_DEPLOY=$FAIL_ON_REVIEW npm run automation:check-deploy-readiness
+
+          STATUS="$(node -e "const fs = require('fs'); process.stdout.write(JSON.parse(fs.readFileSync('automation/reports/deploy-readiness.json', 'utf8')).status)")"
+          SHOULD_DEPLOY=true
+
+          if [ "${{ github.event_name }}" = "workflow_run" ]; then
+            SHOULD_DEPLOY=false
+
+            if [ "$STATUS" = "ready" ]; then
+              SHOULD_DEPLOY=true
+            elif [ "$STATUS" = "review-required" ] && [ "${{ vars.ALLOW_SOFT_BETA_AUTO_DEPLOY }}" = "true" ]; then
+              SHOULD_DEPLOY=true
+            fi
+          fi
+
+          echo "status=${STATUS}" >> "$GITHUB_OUTPUT"
+          echo "should_deploy=${SHOULD_DEPLOY}" >> "$GITHUB_OUTPUT"
+
+      - name: Skip blocked workflow-run deploy
+        if: github.event_name == 'workflow_run' && steps.readiness.outputs.should_deploy != 'true'
+        run: |
+          echo "Skipping deploy for workflow-run trigger because readiness is ${{
+            steps.readiness.outputs.status
+          }}."
 
       - name: Publish ops summary
+        if: steps.readiness.outputs.should_deploy == 'true'
         run: npm run automation:ops-summary
 
       - name: Build site
+        if: steps.readiness.outputs.should_deploy == 'true'
         run: npm run build
 
       - name: Configure AWS credentials
+        if: steps.readiness.outputs.should_deploy == 'true'
         uses: aws-actions/configure-aws-credentials@v5
         with:
           role-to-assume: ${{ secrets.AWS_DEPLOY_ROLE_ARN }}
           aws-region: ${{ env.AWS_REGION }}
 
       - name: Upload immutable assets
+        if: steps.readiness.outputs.should_deploy == 'true'
         run: |
           aws s3 sync dist/assets "s3://${SITE_BUCKET}/assets" \
             --delete \
             --cache-control "public,max-age=31536000,immutable"
 
       - name: Upload content manifests
+        if: steps.readiness.outputs.should_deploy == 'true'
         run: |
           aws s3 sync dist/content "s3://${SITE_BUCKET}/content" \
             --delete \
             --cache-control "public,max-age=300,must-revalidate"
 
       - name: Upload root files
+        if: steps.readiness.outputs.should_deploy == 'true'
         run: |
           aws s3 sync dist "s3://${SITE_BUCKET}" \
             --delete \
@@ -118,6 +167,7 @@ jobs:
             --cache-control "public,max-age=60,must-revalidate"
 
       - name: Upload route documents as HTML
+        if: steps.readiness.outputs.should_deploy == 'true'
         run: |
           node -e "const fs = require('fs'); for (const route of JSON.parse(fs.readFileSync('dist/route-documents.json', 'utf8'))) console.log(route.replace(/^\\/+/, ''))" |
           while IFS= read -r key; do
@@ -128,6 +178,7 @@ jobs:
           done
 
       - name: Invalidate CloudFront
+        if: steps.readiness.outputs.should_deploy == 'true'
         run: |
           aws cloudfront create-invalidation \
             --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" \
