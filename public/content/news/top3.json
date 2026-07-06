@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-05T23:59:01.295Z",
+  "updatedAt": "2026-07-06T03:49:57.078Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-19-34-lakh-in-manipur-draft-rolls-1-58-lakh-did--0dac74eccd",
-      "title": "19.34 lakh in Manipur draft rolls, 1.58 lakh did not submit forms",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/19-34-lakh-in-manipur-draft-rolls-1-58-lakh-did-not-submit-forms-10773065",
+      "id": "news-typhoon-bavi-pounds-guam-and-northern-mariana-is-f2393c62ed",
+      "title": "Typhoon Bavi Pounds Guam and Northern Mariana Islands",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/05/weather/super-typhoon-bavi-guam-saipan.html",
+      "tag": "US",
+      "publishedAt": "2026-07-06T03:45:07.000Z",
+      "summary": "There was an island-wide power outage on Saipan, the capital of the Northern Mariana Islands, as the Category 5 storm approached.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-weather-today-live-heavy-rain-grounds-flights-tr-9f611d959a",
+      "title": "Weather Today LIVE: Heavy Rain Grounds Flights, Triggers Flood Alerts Across India",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-delhi-north-india-rain-imd-alert-monsoon-rains-hit-air-travel-flights-diverted-across-delhi-mumbai-11731692",
       "tag": "India",
-      "publishedAt": "2026-07-05T23:50:12.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-06T03:34:37.000Z",
+      "summary": "Delhi-NCR Monsoon Alert Live Updates: The disruptions occurred amid the ongoing monsoon season, when periods of intense rainfall and gusty winds frequently impact air travel, pa...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-news-live-plibersek-defends-pm-after-h-16bba4f369",
-      "title": "Australia news live: Plibersek defends PM after his comments about Kylie Minogue, saying she’s a ‘big fan as well’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-07-05T23:49:28.000Z",
-      "summary": "Meanwhile Queensland premier vows to imprison more youth offenders at party state conference. Follow today’s news live My colleague Josh Butler has a full report into today’s co...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-marine-le-pen-appeal-verdict-why-this-moment-mat-8895832e79",
-      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-05T23:31:04.000Z",
-      "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+      "id": "news-landslides-shut-mumbai-pune-highway-and-expressw-0b36fd2466",
+      "title": "Landslides shut Mumbai-Pune highway and expressway; trains cancelled, diverted amid heavy rainfall | Monsoon LIVE updates",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-6-2026/article71187774.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-06T03:30:49.000Z",
+      "summary": "Due to the landslides, all the three railway lines have been affected, forcing Central Railway to cancel, divert and regulate several long-distance trains",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
