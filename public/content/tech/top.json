@@ -1,45 +1,65 @@
 {
-  "updatedAt": "2026-07-07T17:05:20.344Z",
+  "updatedAt": "2026-07-07T19:41:17.543Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-hacked-leaked-and-held-for-ransom-the-worst-brea-002aea3cbb",
-      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T16:45:00.000Z",
-      "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-avatar-aang-the-last-airbender-finally-has-a-tra-e042de2ec8",
-      "title": "Avatar Aang: The Last Airbender finally has a trailer and a July 25 release date",
+      "id": "tech-hasbro-and-scooby-doo-team-up-for-one-of-the-goo-3a5d06feaa",
+      "title": "Hasbro and Scooby Doo team up for one of the goofiest Transformers yet",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2209710/avatar-aang-the-last-airbender-finally-has-a-trailer-and-a-july-25-release-date",
+      "url": "https://www.engadget.com/2209980/hasbro-and-scooby-doo-team-up-for-one-of-the-goofiest-transformers-yet",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T16:42:47.000Z",
-      "summary": "If you want to (legally) watch Avatar Aang: The Last Airbender, it finally has a trailer and a July 25 release date.",
+      "publishedAt": "2026-07-07T19:31:52.000Z",
+      "summary": "Hasbro and Scooby Doo team up for one of the goofiest Transformers yet.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-doom-developer-id-reportedly-cut-in-half-as-part-ce7d398c2b",
-      "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
+      "id": "tech-discord-admits-ai-moderation-bug-wrongfully-bann-3e30004dbb",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T19:28:38.000Z",
+      "summary": "Discord has acknowledged that a bug in its AI moderation system mistakenly banned more than 8,000 users over the past two months, after harmless images—including spreadsheets, c...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-s-pixel-11-launch-event-is-set-for-august-4ba7dcfe2c",
+      "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T19:08:34.000Z",
+      "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-child-exploitation-horrific-crime-don-t-want-suc-b8fbcbdab6",
+      "title": "Child exploitation horrific crime, don’t want such content on our apps: Meta",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/child-exploitation-horrific-crime-dont-want-such-content-on-our-apps-meta/article71195327.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T18:55:39.000Z",
+      "summary": "Meta said it was “categorically inaccurate” to suggest that it knowingly and deliberately targets ads featuring children to people based on an inappropriate interest",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-x-says-top-accounts-steal-videos-from-other-user-3ebd8c41ce",
+      "title": "X says top accounts steal videos from other users as it announces new video tools",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
+      "url": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T16:09:48.000Z",
-      "summary": "As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publicat...",
+      "publishedAt": "2026-07-07T18:28:08.000Z",
+      "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-shut-those-laptops-anthropic-puts-its-claude-cow-0379259463",
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "id": "tech-mysterious-compound-detected-on-pluto-and-titan-773bf56da3",
+      "title": "Mysterious Compound Detected on Pluto and Titan",
       "source": "Wired",
-      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone",
+      "url": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "publishedAt": "2026-07-07T18:03:40.000Z",
+      "summary": "Something on Pluto and one of Saturn’s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-new-virus-catalog-reveals-which-pathogens-pose-t-6116a54170",
-      "title": "New virus catalog reveals which pathogens pose the greatest threat",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T13:15:49.000Z",
-      "summary": "The data can help predict what a future pandemic virus might look like.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-qualcomm-executive-teases-snapdragon-chip-for-up-6daddcb788",
       "title": "Qualcomm Executive Teases Snapdragon Chip for Upcoming Samsung Galaxy Devices",
       "source": "Gadgets 360",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-07T12:53:48.000Z",
       "summary": "A LinkedIn teaser shared by Qualcomm Korea President Spencer Kim hints at another Snapdragon-powered Samsung Galaxy device. The video features a Snapdragon 8 Elite For Galaxy ch...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nothing-phone-4b-launched-in-india-price-feature-96003d85ec",
-      "title": "Nothing Phone 4b launched in India: Price, features and availability",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-phone-4b-launched-in-india-price-features-and-availability/article71192811.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T09:52:04.000Z",
-      "summary": "Nothing Phone 4b will sit at the base of series 4 smartphones with phones like Phone 4a, Phone 4a Pro, and flagship Phone 4",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-claude-cowork-expands-to-mobile-and-web-778f91cbe8",
-      "title": "Claude Cowork expands to mobile and web",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork",
+      "id": "tech-doom-developer-id-software-is-reportedly-losing--7bf8cd0881",
+      "title": "Doom developer id Software is reportedly losing half its staff",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2209928/doom-developer-id-software-is-reportedly-losing-half-its-staff",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T16:27:18.000Z",
-      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "publishedAt": "2026-07-07T19:04:21.000Z",
+      "summary": "Amid shakeups at Xbox, Doom developer id Software is reportedly losing half its staff.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-now-you-can-direct-anthropic-s-claude-cowork-ai--45c74b02a7",
-      "title": "Now you can direct Anthropic's Claude Cowork AI from your phone",
+      "id": "tech-the-fcc-wants-to-make-easier-for-isps-to-hide-ju-ed07df6c52",
+      "title": "The FCC wants to make easier for ISPs to hide junk fees",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2209495/now-you-can-direct-anthropic-claude-cowork-ai-from-your-phone",
+      "url": "https://www.engadget.com/2209914/the-fcc-wants-to-make-easier-for-isps-to-hide-junk-fees",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "summary": "Max subscribers get first access to Claude's new Cowork tool for your phone.",
+      "publishedAt": "2026-07-07T18:52:46.000Z",
+      "summary": "The FCC is set to defang rules around ISP junk fee reporting.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
