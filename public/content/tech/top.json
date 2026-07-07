@@ -1,35 +1,55 @@
 {
-  "updatedAt": "2026-07-07T21:15:06.046Z",
+  "updatedAt": "2026-07-07T22:51:13.037Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-meta-s-new-muse-image-model-accepts-instagram-ac-a2d2dc749b",
-      "title": "Meta's new Muse Image model accepts Instagram accounts as a prompt",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2210087/meta-s-new-muse-image-model-accepts-instagram-accounts-as-a-prompt",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T20:49:10.000Z",
-      "summary": "The new AI model is also powering effects in Stories and image generation in WhatsApp.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-s-new-muse-image-model-can-pull-other-insta-b8da95840a",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T20:31:58.000Z",
-      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app,...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-why-the-rise-of-open-source-ai-isn-t-hurting-ant-804f45acdd",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "id": "tech-final-extension-startup-battlefield-australia-ap-4a45fad556",
+      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet",
+      "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20",
+      "tag": "Running",
+      "publishedAt": "2026-07-07T22:30:00.000Z",
+      "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-now-lets-anyone-use-your-instagram-photos-i-fc26984542",
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T20:04:32.000Z",
-      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "publishedAt": "2026-07-07T21:59:29.000Z",
+      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nasa-transfers-ownership-of-maryland-woodland-to-7fcfba3910",
+      "title": "NASA transfers ownership of Maryland woodland to the US Fish and Wildlife Service",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2210180/nasa-transfers-ownership-of-maryland-woodland-to-the-us-fish-and-wildlife-service",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T21:58:47.000Z",
+      "summary": "A rare 2026 story of good news for the planet.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-of-course-viewers-are-giving-up-on-netflix-shows-7e4f520a5d",
+      "title": "Of course viewers are giving up on Netflix shows",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T21:58:39.000Z",
+      "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-data-centers-energy-demand-threatens-trump-s-mad-8e71cbcf10",
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T21:03:07.000Z",
+      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -43,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bethesda-id-software-reportedly-hit-hard-by-micr-5a83228ade",
-      "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T19:52:59.000Z",
-      "summary": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-child-exploitation-horrific-crime-don-t-want-suc-b8fbcbdab6",
       "title": "Child exploitation horrific crime, don’t want such content on our apps: Meta",
       "source": "The Hindu Technology",
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-07T18:55:39.000Z",
       "summary": "Meta said it was “categorically inaccurate” to suggest that it knowingly and deliberately targets ads featuring children to people based on an inappropriate interest",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-mysterious-compound-detected-on-pluto-and-titan-773bf56da3",
-      "title": "Mysterious Compound Detected on Pluto and Titan",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T18:03:40.000Z",
-      "summary": "Something on Pluto and one of Saturn’s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-joins-ai-cost-cutting-trend-by-relying-01e941258a",
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "id": "tech-meta-rolls-out-muse-a-new-ai-image-generator-ff7d8a6412",
+      "title": "Meta rolls out Muse, a new AI image generator",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T19:58:20.000Z",
-      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "publishedAt": "2026-07-07T22:18:10.000Z",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-hasbro-and-scooby-doo-team-up-for-one-of-the-goo-3a5d06feaa",
-      "title": "Hasbro and Scooby Doo team up for one of the goofiest Transformers yet",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2209980/hasbro-and-scooby-doo-team-up-for-one-of-the-goofiest-transformers-yet",
+      "id": "tech-netflix-is-about-to-host-videos-from-buzzfeed-co-9ef920778b",
+      "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
       "tag": "Technology",
-      "publishedAt": "2026-07-07T19:31:52.000Z",
-      "summary": "Hasbro and Scooby Doo team up for one of the goofiest Transformers yet.",
+      "publishedAt": "2026-07-07T21:37:19.000Z",
+      "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
