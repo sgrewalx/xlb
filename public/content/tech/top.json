@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-06T22:58:01.242Z",
+  "updatedAt": "2026-07-07T00:06:50.522Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-the-first-ai-run-ransomware-attack-still-needed--4d8cf7e261",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
+      "tag": "Technology",
+      "publishedAt": "2026-07-06T23:56:14.000Z",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infra...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-chip-boom-lifts-samsung-profits-by-1-800-5b0c53df32",
+      "title": "AI chip boom lifts Samsung profits by 1,800%",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-06T23:52:21.000Z",
+      "summary": "It comes as demand for semiconductors continues to outstrip supplies, which has pushed up prices.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-google-will-now-count-all-android-backup-data-to-2df138d192",
       "title": "Google will now count all Android backup data toward your storage cap",
@@ -43,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-vercel-ceo-guillermo-rauch-on-the-fight-to-split-1dfe9a254a",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents",
-      "tag": "Technology",
-      "publishedAt": "2026-07-06T19:49:10.000Z",
-      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-5-teachings-from-the-monk-who-sold-his-ferrari-f-3cc39ec940",
       "title": "5 Teachings From The Monk Who Sold His Ferrari for Inner Peace",
       "source": "YourStory",
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-06T16:56:00.000Z",
       "summary": "Discover 5 powerful teachings from The Monk Who Sold His Ferrari that can help you find inner peace, clarity, balance, and purpose in life.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-cuts-4-800-jobs-and-shrinks-xbox-in-si-d9f98fcdc8",
-      "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-06T15:18:53.000Z",
-      "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-kremlin-suspected-of-flying-drones-over-europe-u-d079213aa6",
-      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet",
+      "id": "tech-robots-available-for-rent-but-what-can-they-do-dc0f00009e",
+      "title": "Robots available for rent: But what can they do?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-06T20:52:42.000Z",
-      "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
+      "publishedAt": "2026-07-06T23:48:55.000Z",
+      "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-what-is-the-oldest-american-object-ever-launched-7417ea4130",
-      "title": "What is the oldest American object ever launched into space?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space",
+      "id": "tech-us-investors-will-soon-get-access-to-sk-hynix-an-57b659f127",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom",
       "tag": "Technology",
-      "publishedAt": "2026-07-06T19:57:56.000Z",
-      "summary": "From a Revolutionary War flag to the Statue of Liberty...",
+      "publishedAt": "2026-07-06T23:21:03.000Z",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]

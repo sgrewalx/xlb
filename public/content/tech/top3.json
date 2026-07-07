@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-06T22:58:01.242Z",
+  "updatedAt": "2026-07-07T00:06:50.522Z",
   "items": [
+    {
+      "id": "tech-the-first-ai-run-ransomware-attack-still-needed--4d8cf7e261",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human",
+      "tag": "Technology",
+      "publishedAt": "2026-07-06T23:56:14.000Z",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infra...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-chip-boom-lifts-samsung-profits-by-1-800-5b0c53df32",
+      "title": "AI chip boom lifts Samsung profits by 1,800%",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-06T23:52:21.000Z",
+      "summary": "It comes as demand for semiconductors continues to outstrip supplies, which has pushed up prices.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-google-will-now-count-all-android-backup-data-to-2df138d192",
       "title": "Google will now count all Android backup data toward your storage cap",
@@ -9,26 +29,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-06T22:09:56.000Z",
       "summary": "Fortunately, it shouldn't take too much extra space.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-fcc-to-end-biden-era-rule-that-forces-isps-to-li-2c1dd86324",
-      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees",
-      "tag": "Technology",
-      "publishedAt": "2026-07-06T21:13:37.000Z",
-      "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-hoto-s-pixeldrive-screwdriver-is-down-to-60-matc-ee2760e312",
-      "title": "Hoto’s PixelDrive screwdriver is down to $60, matching its best price",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-07-06T20:24:28.000Z",
-      "summary": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven’t assembled, Hoto’s PixelDrive cordless screwdriver can help speed up th...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
