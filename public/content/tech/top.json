@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-07-07T22:51:13.037Z",
+  "updatedAt": "2026-07-07T23:47:01.690Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-meta-built-an-ai-detection-tool-to-id-images-and-c19311a1a1",
+      "title": "Meta built an AI detection tool to ID images and video created with its new models",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T23:23:52.000Z",
+      "summary": "Meta's new AI detector has rate limits for some reason.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-final-extension-startup-battlefield-australia-ap-4a45fad556",
       "title": "Final extension: Startup Battlefield Australia applications now close July 20",
@@ -10,6 +20,16 @@
       "tag": "Running",
       "publishedAt": "2026-07-07T22:30:00.000Z",
       "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-michigan-sees-explosive-outbreak-of-diarrheal-pa-c104f727f9",
+      "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T22:29:00.000Z",
+      "summary": "Cases have risen quickly as officials are working to identify a common source.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +43,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nasa-transfers-ownership-of-maryland-woodland-to-7fcfba3910",
-      "title": "NASA transfers ownership of Maryland woodland to the US Fish and Wildlife Service",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2210180/nasa-transfers-ownership-of-maryland-woodland-to-the-us-fish-and-wildlife-service",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T21:58:47.000Z",
-      "summary": "A rare 2026 story of good news for the planet.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-of-course-viewers-are-giving-up-on-netflix-shows-7e4f520a5d",
       "title": "Of course viewers are giving up on Netflix shows",
       "source": "The Verge",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-07T21:58:39.000Z",
       "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-data-centers-energy-demand-threatens-trump-s-mad-8e71cbcf10",
-      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T21:03:07.000Z",
-      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-the-next-samsung-galaxy-unpacked-launch-is-happe-3c5a3d40e1",
+      "title": "The next Samsung Galaxy Unpacked launch is happening on July 22",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2209773/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T23:00:00.000Z",
+      "summary": "The next Samsung Galaxy Unpacked launch is happening on July 22.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-meta-rolls-out-muse-a-new-ai-image-generator-ff7d8a6412",
       "title": "Meta rolls out Muse, a new AI image generator",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-07T22:18:10.000Z",
       "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-netflix-is-about-to-host-videos-from-buzzfeed-co-9ef920778b",
-      "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T21:37:19.000Z",
-      "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
