@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-07-07T23:47:01.690Z",
+  "updatedAt": "2026-07-08T01:47:01.514Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-meta-s-glasses-will-turn-off-the-camera-if-you-t-23f610216f",
+      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "tag": "Technology",
+      "publishedAt": "2026-07-07T23:55:19.000Z",
+      "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-meta-built-an-ai-detection-tool-to-id-images-and-c19311a1a1",
       "title": "Meta built an AI detection tool to ID images and video created with its new models",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-07T21:59:29.000Z",
       "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-of-course-viewers-are-giving-up-on-netflix-shows-7e4f520a5d",
-      "title": "Of course viewers are giving up on Netflix shows",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
-      "tag": "Technology",
-      "publishedAt": "2026-07-07T21:58:39.000Z",
-      "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -113,8 +113,8 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-rolls-out-muse-a-new-ai-image-generator-ff7d8a6412",
-      "title": "Meta rolls out Muse, a new AI image generator",
+      "id": "tech-meta-just-launched-a-new-ai-generator-muse-image-ff7d8a6412",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator",
       "tag": "Technology",
