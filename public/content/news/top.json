@@ -1,75 +1,85 @@
 {
-  "updatedAt": "2026-07-09T00:02:04.579Z",
+  "updatedAt": "2026-07-09T04:43:04.736Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-trump-says-he-has-no-idea-how-hospitalized-senat-1c98e04f34",
-      "title": "Trump says he has ‘no idea’ how hospitalized senator Mitch McConnell is doing – US politics live",
+      "id": "news-australia-news-live-telstra-says-australians-can-1a1f28d14f",
+      "title": "Australia news live: Telstra says Australians can now ‘feel confident’ calling triple zero; Neil the seal ‘returns to the sea’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/08/graham-platner-democrats-senate-bernie-sanders-maine-donald-trump-us-politics-live",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-07-08T23:51:56.000Z",
-      "summary": "President tells reporters he has not spoken to McConnell, who was was admitted to the hospital last month for undisclosed treatment Sign up for the Breaking News US email During...",
+      "publishedAt": "2026-07-09T04:39:01.000Z",
+      "summary": "Meanwhile SA police say a small number of calls to triple-zero are failing to connect after Telstra’s Wednesday outages. Follow today’s news live Get our breaking news email , f...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-war-live-updates-u-s-launches-new-strikes-o-461b55f660",
+      "id": "news-landslip-in-madikeri-public-entry-to-raja-s-seat-2e8bbf0916",
+      "title": "Landslip in Madikeri: Public entry to Raja’s seat banned",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/landslip-in-madikeri-public-entry-to-rajas-seat-banned/article71198787.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-09T04:33:31.000Z",
+      "summary": "A landslide had occurred near KSRTC bus stand, prompting authorities to divert all vehicles exiting from the private and KSRTC bus stands through Raja’s seat road",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-india-news-live-updates-9-july-2026-bengaluru-me-c1ece7adc7",
+      "title": "India news LIVE updates, 9 July 2026: Bengaluru Metro Green Line faces delays due to technical issue, says BMRCL",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-9-july-2026-bengaluru-metro-wayanad-landslide-us-iran-bishnoi-10778245",
+      "tag": "India",
+      "publishedAt": "2026-07-09T04:13:34.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-u-s-launches-new-strikes-o-f79187b52a",
       "title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
       "tag": "US",
-      "publishedAt": "2026-07-08T23:46:56.000Z",
+      "publishedAt": "2026-07-09T04:03:52.000Z",
       "summary": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ensure-flyers-convenience-are-improved-across-ai-8213329a89",
-      "title": "Ensure flyers' convenience are improved across airports: HM",
+      "id": "news-us-launches-more-strikes-on-iran-with-blasts-rep-48af05b59c",
+      "title": "US launches more strikes on Iran with blasts reported in south of country",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-09T03:58:23.000Z",
+      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-court-rules-that-trump-s-name-must-stay-off-k-f10125ab21",
+      "title": "US court rules that Trump’s name must stay off Kennedy Center during appeal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/us-court-rules-that-trumps-name-must-stay-off-kennedy-center-during-appeal?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-09T03:57:46.000Z",
+      "summary": "Trump’s name was removed from the centre's facade and signage last month, after a judge ordered its removal.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-student-visas-processed-under-established-regula-9b07665247",
+      "title": "Student visas processed under 'established regulations': US Embassy amid delay concerns",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/ensure-flyers-convenience-are-improved-across-airports-hm/articleshow/132274628.cms",
+      "url": "https://timesofindia.indiatimes.com/india/student-visas-processed-under-established-regulations-us-embassy-amid-delay-concerns/articleshow/132276400.cms",
       "tag": "India",
-      "publishedAt": "2026-07-08T23:41:08.000Z",
+      "publishedAt": "2026-07-09T03:40:13.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-indonesia-s-free-meals-programme-plagued-by-alle-1cdaa020d0",
-      "title": "Indonesia’s free meals programme plagued by alleged corruption and waste",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/indonesias-free-meals-programme-plagued-by-alleged-corruption-and-waste?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-08T23:22:48.000Z",
-      "summary": "Indonesian President Prabowo Subianto's initiative has been criticised for misdirecting resources to affluent regions.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-wealthy-ai-workers-send-san-francisco-house-pric-5405bfc445",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-08T23:11:35.000Z",
-      "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-russia-denounces-nato-summit-decisions-on-aid-fo-01807c50b3",
-      "title": "Russia denounces NATO summit decisions on aid for Ukraine, defence",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/russia-denounces-nato-summit-decisions-on-aid-for-ukraine-defence/article71199990.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-07-08T22:57:50.000Z",
-      "summary": "NATO members at the summit pledged €70 billion ($80 billion) in military assistance to Ukraine for 2026",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pm-christopher-luxon-interview-new-zealand-worki-f34ba3184a",
-      "title": "PM Christopher Luxon interview: ‘New Zealand, working with India, needs to remake case for a rules-based system’",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/pm-christopher-luxon-interview-new-zealand-working-with-india-needs-to-remake-case-for-a-rules-based-system-10778058",
+      "id": "news-indian-army-opens-sscw-tech-68-applications-for--a92cb5e4fa",
+      "title": "Indian Army Opens SSCW (Tech)-68 Applications For Women Engineers",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/indian-army-opens-sscw-tech-68-applications-for-women-engineers-11746888",
       "tag": "India",
-      "publishedAt": "2026-07-08T22:55:03.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-09T02:45:55.000Z",
+      "summary": "The Indian Army has opened applications for the 68th SSCW Technical course for unmarried women engineering graduates aged 20 to 27.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-uttarakhand-becomes-country-s-6th-fully-literate-63d66bfa7c",
-      "title": "Uttarakhand Becomes Country's 6th Fully Literate State",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/uttarakhand-becomes-countrys-6th-fully-literate-state-11746338",
-      "tag": "India",
-      "publishedAt": "2026-07-08T19:48:58.000Z",
-      "summary": "Uttarakhand on Wednesday became the country's sixth fully literate state under the National Education Policy (NEP) 2020 and the 'ULLAS' (Understanding Lifelong Learning for All...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-can-india-s-ai-promise-reach-everyone-9fd6767eb0",
       "title": "Can India’s AI promise reach everyone?",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-news-live-shadow-minister-stands-by-tr-cf99e72576",
-      "title": "Australia news live: shadow minister stands by triple-zero test calls during Telstra outage; Sydney median house rents hit record $850 a week",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-07-08T23:48:34.000Z",
-      "summary": "Telstra says triple-zero issue reduced by 90%, while regional trains are still disrupted in Victoria and NSW. Follow today’s news live Get our breaking news email , free app or...",
+      "id": "news-monsoon-tracker-live-orange-alert-issued-in-delh-def0861539",
+      "title": "Monsoon tracker LIVE | Orange alert issued in Delhi",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/monsoon-rain-live-updates-delhi-orange-alert-mumbai-india-imd-weather-forecast-rain-cancelled-flight-latest-news/article71200744.ece",
+      "tag": "Running",
+      "publishedAt": "2026-07-09T04:25:12.000Z",
+      "summary": "Rain lashed parts of Delhi in the early hours of July 9, extending a wet spell in the national capital and bringing much-needed relief to residents from the recent humid conditions",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-democrats-accuse-graham-platner-of-trying-to-put-3f14b78688",
-      "title": "Democrats accuse Graham Platner of trying to put ‘thumb on the scale’ of process to replace him",
+      "id": "news-telstra-outage-triple-zero-calls-affected-by-net-a47f2f6dad",
+      "title": "Telstra outage: triple-zero calls affected by network glitches as regional train services slowly resume",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-senate-calls-withdraw",
+      "url": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update",
       "tag": "Europe",
-      "publishedAt": "2026-07-08T23:46:07.000Z",
-      "summary": "Frustration mounts that Maine nominee has not withdrawn over sexual assault claim as Trump says Platner ‘in a bind’ Sign up for the Breaking News US newsletter email Graham Plat...",
+      "publishedAt": "2026-07-09T04:24:56.000Z",
+      "summary": "Carrier says some still unable to connect to emergency hotline a day after mobile network went down Follow our Australia news live blog for latest updates Get our breaking news...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
