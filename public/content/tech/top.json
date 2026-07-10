@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-07-10T20:13:38.673Z",
+  "updatedAt": "2026-07-10T21:51:15.126Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-a-decade-later-pok-mon-go-finally-made-good-on-i-237c0e266a",
-      "title": "A decade later, Pokémon Go finally made good on its original promise",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+      "id": "tech-apple-calls-openai-s-hardware-business-rotten-to-71815e20a5",
+      "title": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit",
       "tag": "Technology",
-      "publishedAt": "2026-07-10T19:51:10.000Z",
-      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the g...",
+      "publishedAt": "2026-07-10T21:39:50.000Z",
+      "summary": "The lawsuit also names io Products, the hardware company led by Jony Ive.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-sues-openai-for-allegedly-stealing-hardwar-4a3b429a7f",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T21:36:51.000Z",
+      "summary": "Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets \"for the benefit of OpenAI.\" In its complaint, Apple all...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-sues-openai-over-alleged-trade-secret-thef-97fd12c85f",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T21:00:29.000Z",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-is-suing-openai-for-allegedly-stealing-har-c13037a6b9",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T20:44:05.000Z",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-check-out-the-first-images-of-quest-shipwreck-40e7084823",
+      "title": "Check out the first images of Quest shipwreck",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T19:59:31.000Z",
+      "summary": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,46 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-10T19:32:42.000Z",
       "summary": "Governments should regulate social media platforms, not users",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-meta-glasses-backlash-is-changing-how-or-if--bac96a4c01",
-      "title": "The Meta Glasses backlash is changing how (or if) people use them",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212604/the-meta-glasses-backlash-is-changing-how-or-if-people-use-them",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T19:30:00.000Z",
-      "summary": "Backlash online is changing how (or if) people wear Meta's smart glasses.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meet-the-battery-startup-taking-on-china-s-giant-b39394cbea",
-      "title": "Meet the Battery Startup Taking on China’s Giants",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T18:00:00.000Z",
-      "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-filing-college-app-fizz-accuses-vc-of-sharing-co-7479d56b08",
-      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T17:42:36.000Z",
-      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing sta...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-valve-s-new-steam-machine-verification-system-is-4a027101cc",
-      "title": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T16:53:31.000Z",
-      "summary": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-stubhub-ceo-is-helping-fund-mass-scalpers-on-his-039a87835c",
-      "title": "StubHub CEO is helping fund mass scalpers on his own platform",
+      "id": "tech-mamdani-announces-new-click-to-cancel-rule-for-n-e81fd75539",
+      "title": "Mamdani announces new Click-to-Cancel rule for New York City",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2212625/stubhub-ceo-is-helping-fund-mass-scalpers-on-his-own-platform",
+      "url": "https://www.engadget.com/2212741/mamdani-announces-new-click-to-cancel-rule-for-new-york-city",
       "tag": "Technology",
-      "publishedAt": "2026-07-10T19:27:21.000Z",
-      "summary": "Stubhub CEO Eric Baker is pouring millions of dollars into the ticket-scalping market, CBC reports.",
+      "publishedAt": "2026-07-10T21:04:33.000Z",
+      "summary": "The rule revives a proposed FTC protection that was abandoned last year.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ice-is-threatening-to-deport-witnesses-of-its-la-7f0102c652",
-      "title": "ICE is threatening to deport witnesses of its latest shooting",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+      "id": "tech-openai-s-browser-isn-t-dead-it-just-moved-to-the-e142deec54",
+      "title": "OpenAI's browser isn't dead, it just moved to the ChatGPT app",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212701/openai-browser-isnt-dead",
       "tag": "Technology",
-      "publishedAt": "2026-07-10T19:20:00.000Z",
-      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by I...",
+      "publishedAt": "2026-07-10T20:11:13.000Z",
+      "summary": "Let's be real, OpenAI isn't giving up on the browser market, it is just changing its strategy.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
