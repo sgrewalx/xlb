@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-07-10T21:51:15.126Z",
+  "updatedAt": "2026-07-10T22:50:30.314Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-apple-sues-openai-its-employees-claiming-theft-o-129b001fe8",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T22:44:31.000Z",
+      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-fcc-is-cracking-down-on-dji-tech-that-dodged-12fbd363cd",
+      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T22:35:18.000Z",
+      "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-bluesky-s-interim-ceo-toni-schneider-drops-the-i-d8009adcb0",
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T21:51:55.000Z",
+      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-china-recovered-its-first-reusable-rocket-and-sh-da44f66681",
+      "title": "China recovered its first reusable rocket and showed a new way to do it",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T21:41:43.000Z",
+      "summary": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-apple-calls-openai-s-hardware-business-rotten-to-71815e20a5",
       "title": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
@@ -13,26 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-sues-openai-for-allegedly-stealing-hardwar-4a3b429a7f",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T21:36:51.000Z",
-      "summary": "Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets \"for the benefit of OpenAI.\" In its complaint, Apple all...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-sues-openai-over-alleged-trade-secret-thef-97fd12c85f",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T21:00:29.000Z",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-apple-is-suing-openai-for-allegedly-stealing-har-c13037a6b9",
       "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
       "source": "Wired",
@@ -40,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-10T20:44:05.000Z",
       "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-check-out-the-first-images-of-quest-shipwreck-40e7084823",
-      "title": "Check out the first images of Quest shipwreck",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T19:59:31.000Z",
-      "summary": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tecno-camon-50-ultra-5g-india-launch-date-announ-438cd7f69b",
-      "title": "Tecno Camon 50 Ultra 5G India Launch Date Announced; Colourways and Amazon Availability Confirmed",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/tecno-camon-50-ultra-5g-india-launch-date-design-colour-options-amazon-availability-features-11754665",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T13:52:06.000Z",
-      "summary": "Tecno has confirmed that the Camon 50 Ultra 5G will launch in India on July 17 at 12pm IST. An Amazon microsite is now live, revealing the smartphone's design, colour options an...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-eu-threatens-meta-with-fines-over-addictive-face-ca404592af",
-      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T12:02:40.000Z",
-      "summary": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -100,6 +90,16 @@
       "tag": "Technology",
       "publishedAt": "2023-03-25T13:31:00.000Z",
       "summary": "Recent moves by President Joe Biden to pressure TikTok over its Chinese ownership and approve oil drilling in an untapped area of Alaska are testing the loyalty of young voters,...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-sues-openai-for-allegedly-stealing-hardwar-4a3b429a7f",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "tag": "Technology",
+      "publishedAt": "2026-07-10T21:36:51.000Z",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of A...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -113,13 +113,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-s-browser-isn-t-dead-it-just-moved-to-the-e142deec54",
-      "title": "OpenAI's browser isn't dead, it just moved to the ChatGPT app",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212701/openai-browser-isnt-dead",
+      "id": "tech-apple-sues-openai-over-alleged-trade-secret-thef-97fd12c85f",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
       "tag": "Technology",
-      "publishedAt": "2026-07-10T20:11:13.000Z",
-      "summary": "Let's be real, OpenAI isn't giving up on the browser market, it is just changing its strategy.",
+      "publishedAt": "2026-07-10T21:00:29.000Z",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
