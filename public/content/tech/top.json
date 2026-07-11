@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-11T14:18:16.629Z",
+  "updatedAt": "2026-07-11T15:44:23.194Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-openai-s-head-of-safety-is-reportedly-leaving-as-ca3dd6d0e6",
+      "title": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T15:39:12.000Z",
+      "summary": "The role will be replaced by an executive in charge of both research and safety teams.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-fl-studio-head-constantin-koehncke-turns-to-redd-e34c1f20b6",
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T15:00:00.000Z",
+      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constanti...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-openai-bets-on-families-as-chatgpt-goes-deeper-i-47d7a44095",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -10,26 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-11T14:13:00.000Z",
       "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-engadget-review-recap-steam-machine-samsung-musi-7da551d6b4",
-      "title": "Engadget review recap: Steam Machine, Samsung Music Studio 7, Oura Ring 5 and more",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212709/engadget-review-recap-steam-machine-samsung-music-studio-7",
-      "tag": "Technology",
-      "publishedAt": "2026-07-11T14:00:00.000Z",
-      "summary": "A roundup of recent reviews published by Engadget.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ice-are-heavily-armed-killers-they-re-also-huge--9afc40a0d4",
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-      "tag": "Technology",
-      "publishedAt": "2026-07-11T13:00:00.000Z",
-      "summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-your-samsung-gallery-won-t-be-able-to-sync-with--c810aa80c5",
-      "title": "Your Samsung Gallery won't be able to sync with Microsoft OneDrive soon",
+      "id": "tech-which-usb-port-should-you-use-for-your-mouse-and-248d9c19ed",
+      "title": "Which USB port should you use for your mouse and keyboard?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2211948/samsung-gallery-no-longer-syncing-microsoft-onedrive-september-2026",
+      "url": "https://www.engadget.com/2211086/which-usb-port-for-mouse-keyboard",
       "tag": "Technology",
-      "publishedAt": "2026-07-11T13:30:00.000Z",
-      "summary": "Your photos don't have to go home, but they can't stay here.",
+      "publishedAt": "2026-07-11T15:30:00.000Z",
+      "summary": "Save your best ports for your most demanding devices.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bluesky-has-an-official-ceo-again-a1584713b7",
-      "title": "Bluesky has an official CEO again",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212928/bluesky-official-ceo-toni-schneider",
+      "id": "tech-nintendo-s-talking-flower-got-a-small-price-cut-5b64c51cf2",
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-07-11T13:07:17.000Z",
-      "summary": "Toni Schneider, who took over after Jay Graber stepped down, is now Bluesky's official CEO.",
+      "publishedAt": "2026-07-11T15:00:00.000Z",
+      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m onl...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
