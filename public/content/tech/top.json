@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-07-10T23:48:30.392Z",
+  "updatedAt": "2026-07-11T01:45:36.362Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-microsoft-reports-a-massive-25-percent-jump-in-e-2733707225",
-      "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions",
+      "id": "tech-meta-deactivates-feature-that-let-you-generate-a-96bbf0c382",
+      "title": "Meta deactivates feature that let you generate AI images of any public Instagram account",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212843/meta-deactivates-muse-image-public-instagram-post-ai-images",
       "tag": "Technology",
-      "publishedAt": "2026-07-10T23:16:56.000Z",
-      "summary": "Data centers are driving up the company’s use of electricity—and carbon pollution.",
+      "publishedAt": "2026-07-11T01:33:52.000Z",
+      "summary": "Meta has deactivated the Muse Image capability to create AI deepfakes of any public Instagram account you @-mention.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-s-head-of-safety-is-leaving-the-company-78834bef16",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T01:07:26.000Z",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-cyber-agency-cisa-had-to-build-its-incident-p-8ed449de8c",
+      "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T01:01:28.000Z",
+      "summary": "CISA said it \"missed\" an opportunity to get ahead of the security incident by not creating a response plan ahead of time.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-now-f7fab62537",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T01:00:00.000Z",
+      "summary": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-no-flock-isn-t-threatening-people-for-debating-s-ee9b72d96a",
+      "title": "No, Flock isn’t threatening people for debating surveillance",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T00:10:38.000Z",
+      "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology com...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,46 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-10T23:02:09.000Z",
       "summary": "The suit will significantly complicate OpenAI's plans for a hotly anticipated initial public offering.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-sues-openai-its-employees-claiming-theft-o-f7ce0e6e3c",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T22:54:16.000Z",
-      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-fcc-is-cracking-down-on-dji-tech-that-dodged-12fbd363cd",
-      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T22:35:18.000Z",
-      "summary": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-bluesky-s-interim-ceo-toni-schneider-drops-the-i-d8009adcb0",
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T21:51:55.000Z",
-      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-calls-openai-s-hardware-business-rotten-to-71815e20a5",
-      "title": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T21:39:50.000Z",
-      "summary": "The lawsuit also names io Products, the hardware company led by Jony Ive.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-increased-drone-surveillance-of-illegal-july-4th-b0dff37d91",
-      "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks",
+      "id": "tech-phia-accused-of-cookie-stuffing-taking-affiliate-7b94f984c6",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn",
       "tag": "Technology",
-      "publishedAt": "2026-07-10T22:37:22.000Z",
-      "summary": "More police and firefighters use drones to catch and deter illegal fireworks.",
+      "publishedAt": "2026-07-11T00:29:25.000Z",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the prod...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-china-recovered-its-first-reusable-rocket-and-sh-da44f66681",
-      "title": "China recovered its first reusable rocket and showed a new way to do it",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it",
+      "id": "tech-meta-pulls-new-ai-image-feature-after-days-of-ba-8d7745ae06",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-10T21:41:43.000Z",
-      "summary": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
+      "publishedAt": "2026-07-11T00:17:54.000Z",
+      "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
