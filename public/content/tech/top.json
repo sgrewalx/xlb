@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-07-11T11:44:02.511Z",
+  "updatedAt": "2026-07-11T12:55:25.711Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-engadget-indie-pitch-penguin-colony-7044eb0844",
+      "title": "Engadget Indie Pitch: Penguin Colony",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212712/engadget-indie-pitch-penguin-colony",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T12:30:00.000Z",
+      "summary": "\"You won't know until you do and then it is too late.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-jupiter-size-planet-that-escaped-its-star-s-de-5b7cd146bc",
+      "title": "A Jupiter-size planet that escaped its star's death",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T12:00:58.000Z",
+      "summary": "It's unclear how the planet avoided its star's bloated red giant stage.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-tasty-rpg-that-will-make-you-very-hungry-c20363c041",
+      "title": "A tasty RPG that will make you very hungry",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+      "tag": "Technology",
+      "publishedAt": "2026-07-11T12:00:00.000Z",
+      "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-oneplus-n6-vs-realme-p4r-vs-poco-m8-price-in-ind-11e66f7938",
       "title": "OnePlus N6 vs Realme P4R vs Poco M8: Price in India, Specifications and Features Compared",
@@ -10,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-11T11:30:01.000Z",
       "summary": "Buyers choosing between the OnePlus N6, Realme P4R 5G, and Poco M8 5G will find notable differences in hardware and software. The OnePlus N6 and Realme P4R 5G prioritise battery...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-palworld-1-0-tiny-bookshop-on-mobile-and-other-n-b0ded9dd60",
-      "title": "Palworld 1.0, Tiny Bookshop on mobile and other new indie games worth checking out",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212703/palworld-tiny-bookshop-on-mobile-and-other-new-indie-games-worth-checking-out",
-      "tag": "Technology",
-      "publishedAt": "2026-07-11T11:30:00.000Z",
-      "summary": "Our weekly roundup of the best new indie games is here.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-11T09:23:16.000Z",
       "summary": "In 2017, when much of India's music industry was chasing the young, app-native streaming user, one product went firmly the other way.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-are-you-filthy-enough-for-a-700-portable-shower-50880ce9f7",
-      "title": "Are you filthy enough for a $700 portable shower?",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-      "tag": "Technology",
-      "publishedAt": "2026-07-11T07:00:00.000Z",
-      "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-quantum-error-correction-can-constantly-recalibr-33a9d944c9",
-      "title": "Quantum error correction can constantly recalibrate a processor",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor",
-      "tag": "Technology",
-      "publishedAt": "2026-07-10T23:02:30.000Z",
-      "summary": "Reinforcement learning uses error information to adjust control algorithms.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-skylight-s-touchscreen-calendar-got-my-whole-fam-1bccbc9299",
-      "title": "Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives",
+      "id": "tech-spotify-release-radar-s-new-personalization-opti-39ed2b1228",
+      "title": "Spotify Release Radar's new personalization options improve your music recommendations",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212917/spotify-release-radar-personalization-options-refined-session-controls",
       "tag": "Technology",
-      "publishedAt": "2026-07-11T11:00:00.000Z",
-      "summary": "The Skylight has become the informational and organizational hub of my household. My touchscreen-native kids have also gained more agency over our family activities.",
+      "publishedAt": "2026-07-11T12:16:15.000Z",
+      "summary": "Spotify's Release Radar can now deliver more personalized music recommendations.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-samsung-micro-rgb-r95h-review-2026-not-the-brigh-8846039601",
-      "title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/samsung-micro-rgb-r95h",
+      "id": "tech-the-perfect-kit-for-all-your-tiny-repairs-ae3c3f0025",
+      "title": "The perfect kit for all your tiny repairs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
       "tag": "Technology",
-      "publishedAt": "2026-07-11T10:31:00.000Z",
-      "summary": "There’s a new fleet of TVs using new mini and micro RBG display tech, and Samsung’s R95H model isn’t as impressive as it should be.",
+      "publishedAt": "2026-07-11T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the ol...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
