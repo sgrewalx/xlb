@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-07-13T21:44:37.806Z",
+  "updatedAt": "2026-07-13T22:44:35.288Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-siri-ai-is-becoming-apple-s-everything-tool-b98b91e528",
-      "title": "Siri AI Is Becoming Apple’s Everything Tool",
+      "id": "tech-sam-neill-inspired-a-generation-of-scientists-b5321ce1a7",
+      "title": "Sam Neill Inspired a Generation of Scientists",
       "source": "Wired",
-      "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool",
+      "url": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists",
       "tag": "Technology",
-      "publishedAt": "2026-07-13T21:39:09.000Z",
-      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+      "publishedAt": "2026-07-13T22:26:22.000Z",
+      "summary": "The actor, who died at age 78 on Monday, embodied a passionate approach to research and positive masculinity in his role as paleontologist Alan Grant in the 1993 blockbuster Jur...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-tests-windows-search-without-all-the-a-39df44aac6",
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "tag": "Technology",
+      "publishedAt": "2026-07-13T21:53:20.000Z",
+      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolli...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-13T20:41:26.000Z",
       "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-states-make-last-ditch-effort-to-stop-the-paramo-63bac0c10e",
-      "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
-      "tag": "Technology",
-      "publishedAt": "2026-07-13T18:35:48.000Z",
-      "summary": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distribu...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-public-betas-for-ios-27-macos-27-and-more-apple--e5bbf0c4ca",
-      "title": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available",
+      "id": "tech-oneplus-is-reportedly-bailing-on-the-us-b3b5b31a4a",
+      "title": "OnePlus is reportedly bailing on the US",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
       "tag": "Technology",
-      "publishedAt": "2026-07-13T20:45:24.000Z",
-      "summary": "Try the new Siri AI and system-wide performance improvements.",
+      "publishedAt": "2026-07-13T21:48:43.000Z",
+      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-los-angeles-law-enforcement-will-stop-using-floc-6eb71c10df",
-      "title": "Los Angeles law enforcement will stop using Flock cameras",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2214135/los-angeles-law-enforcement-will-stop-using-flock-cameras",
+      "id": "tech-siri-ai-is-becoming-apple-s-everything-tool-b98b91e528",
+      "title": "Siri AI Is Becoming Apple’s Everything Tool",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool",
       "tag": "Technology",
-      "publishedAt": "2026-07-13T20:02:48.000Z",
-      "summary": "The Los Angeles police department did not renew its contract with Flock due to data privacy concerns.",
+      "publishedAt": "2026-07-13T21:39:09.000Z",
+      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
