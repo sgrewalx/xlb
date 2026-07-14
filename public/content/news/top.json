@@ -1,65 +1,85 @@
 {
-  "updatedAt": "2026-07-14T13:14:08.987Z",
+  "updatedAt": "2026-07-14T15:17:53.836Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-this-artist-is-documenting-bengaluru-s-mango-sea-38a9804f28",
-      "title": "This artist is documenting Bengaluru’s mango season in the face of climate change and ecological loss",
+      "id": "news-bengaluru-after-footpath-clearance-drive-gba-to--1c8145a411",
+      "title": "Bengaluru: After footpath clearance drive, GBA to launch ‘Freedom from Waste’ campaign from August",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/food/features/this-artist-is-documenting-bengalurus-mango-season-in-the-face-of-climate-change-and-ecological-loss/article71216505.ece",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-after-footpath-clearance-drive-gba-to-launch-freedom-from-waste-campaign-from-august/article71221748.ece",
       "tag": "India",
-      "publishedAt": "2026-07-14T13:09:48.000Z",
-      "summary": "Using ASCII typographic symbols and 3D scans, Shruti Nagaraj’s project Maavu maps the cycle of growth, consumption, and decay of mango varieties. The project was showcased in Sa...",
+      "publishedAt": "2026-07-14T15:14:31.000Z",
+      "summary": "The campaign will follow the footpath clearance drive, which involved removing encroachments and abandoned vehicles.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-us-inflation-rate-eases-to-3-5-as-gasoline-price-12a500846a",
+      "id": "news-young-germans-opting-out-of-military-service-as--a0f0187923",
+      "title": "Young Germans opting out of military service as Berlin strives to boost army",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/14/young-germans-military-service-opt-out",
+      "tag": "Europe",
+      "publishedAt": "2026-07-14T15:08:02.000Z",
+      "summary": "Almost 6,000 people apply to be excluded on moral or religious grounds despite ‘conscription lite’ policy The number of young men applying to be conscientious objectors and refu...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-passport-regulates-departure-not-proof-of-citize-52ca76d736",
+      "title": "Passport regulates departure, not proof of citizenship: Centre",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/passport-regulates-departure-not-proof-of-citizenship-centre-10786419",
+      "tag": "India",
+      "publishedAt": "2026-07-14T14:59:22.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-inflation-rate-eases-to-3-5-as-gasoline-price-a493b8f15e",
       "title": "US inflation rate eases to 3.5% as gasoline prices fall",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
       "tag": "US",
-      "publishedAt": "2026-07-14T12:59:39.000Z",
-      "summary": "While US inflation rate fell in June, concerns remain over prices rising again due to the renewed conflict in the Middle East.",
+      "publishedAt": "2026-07-14T14:50:35.000Z",
+      "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ai-economy-must-protect-workers-bms-seeks-fairer-75534ae64f",
-      "title": "AI economy must protect workers; BMS seeks fairer growth model",
+      "id": "news-here-s-the-latest-026e4b26fb",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz/heres-the-latest",
+      "tag": "US",
+      "publishedAt": "2026-07-14T14:43:16.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-central-expert-panel-approves-environmental-clea-6c0322e3ad",
+      "title": "Central expert panel approves environmental clearance for 1,000 MW Naying hydro-power project of Arunachal Pradesh",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/ai-economy-must-protect-workers-bms-seeks-fairer-growth-model/articleshow/132392268.cms",
+      "url": "https://timesofindia.indiatimes.com/india/central-expert-panel-approves-environmental-clearance-for-1000-mw-naying-hydro-power-project-of-arunachal-pradesh/articleshow/132394573.cms",
       "tag": "India",
-      "publishedAt": "2026-07-14T12:56:09.000Z",
+      "publishedAt": "2026-07-14T14:40:05.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-explosions-heard-across-iran-state-media-reports-a67d22ac30",
-      "title": "Explosions heard across Iran, state media reports, after UAE oil tankers hit in Hormuz strait – Middle East crisis live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
+      "id": "news-india-summons-iranian-diplomat-over-missile-kill-38d957678f",
+      "title": "India summons Iranian diplomat over missile killing of seafarer",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-07-14T12:55:03.000Z",
-      "summary": "UAE says Iranian cruise missiles hit two oil tankers in strait, killing a crew member and wounding eight US launches third night of strikes on Iran as Trump announces Hormuz blo...",
+      "publishedAt": "2026-07-14T14:32:19.000Z",
+      "summary": "India summoned Iran's deputy ambassador after an Indian crew member was killed in the Strait of Hormuz.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-in-bangkok-bar-blaze-signs-of-fatal-lapses-repea-965b45b594",
-      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
-      "tag": "US",
-      "publishedAt": "2026-07-14T12:50:51.000Z",
-      "summary": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sena-corporator-who-assaulted-2-doctors-at-thane-32963c6c69",
-      "title": "Sena Corporator Who Assaulted 2 Doctors At Thane Hospital Gets Bail",
+      "id": "news-learn-ai-python-and-cybersecurity-free-cbse-offe-bede9412b3",
+      "title": "Learn AI, Python And Cybersecurity Free: CBSE Offers 19 Online Courses",
       "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/sena-corporator-who-assaulted-2-doctors-at-thane-hospital-gets-bail-11770259",
+      "url": "https://www.ndtv.com/education/learn-ai-python-and-cyber-security-free-cbse-offers-19-online-courses-11770955",
       "tag": "India",
-      "publishedAt": "2026-07-14T12:43:58.000Z",
-      "summary": "Ramesh Mhatre was arrested on July 8.",
+      "publishedAt": "2026-07-14T14:31:27.000Z",
+      "summary": "The 19 online courses include both beginner and advanced-level programmes across multiple technology domains.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-russia-readies-to-reroute-exports-from-sea-of-az-ba386fb176",
-      "title": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-14T12:14:10.000Z",
-      "summary": "Ukraine says drones hit 11 Russian vessels in the Azov Sea, targeting tankers, dry cargo ships, and a tugboat overnight.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bank-refused-to-release-his-life-savings-meagre--8184cd61ee",
-      "title": "Bank refused to release his life savings – meagre Rs 8,000 – he died waiting",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/jharkhand-adivasi-family-bank-kyc-8000-savings-death-10786086",
-      "tag": "India",
-      "publishedAt": "2026-07-14T12:00:08.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-the-bat-bms-incident-is-a-wake-up-call-dc5322b695",
       "title": "The BAT-BMS incident is a wake-up call",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-eci-extends-sir-in-andhra-pradesh-enumeration-ti-9d9ede1020",
-      "title": "ECI extends SIR in Andhra Pradesh: enumeration till July 24, final roll on October 3",
+      "id": "news-capital-expenditure-key-to-swarna-andhra-2047-go-b67d8953c9",
+      "title": "Capital expenditure key to Swarna Andhra @2047 goals, says official",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/eci-extends-sir-in-andhra-pradesh-enumeration-till-july-24-final-roll-on-october-3/article71220983.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/capital-expenditure-key-to-swarna-andhra-2047-goals-says-official/article71222055.ece",
       "tag": "India",
-      "publishedAt": "2026-07-14T13:08:34.000Z",
-      "summary": "The draft publication of the electoral roll is now scheduled for July 31, 2026; the window for filing claims and objections will open from July 31 to August 30, 2026, with their...",
+      "publishedAt": "2026-07-14T15:14:22.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-when-debris-came-crushing-how-rains-and-undispos-3f28a5ccb5",
-      "title": "When debris came crushing: How rains and undisposed mud led to a disaster in Wayanad",
+      "id": "news-hyderabad-gears-up-for-golconda-bonalu-with-focu-6f763bed3d",
+      "title": "Hyderabad gears up for Golconda Bonalu with focus on crowd management, devotee safety",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/when-debris-came-crushing-how-rains-and-undisposed-mud-led-to-a-disaster-in-wayanad/article71218293.ece",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-golconda-bonalu-with-focus-on-crowd-management-devotee-safety/article71221926.ece",
       "tag": "India",
-      "publishedAt": "2026-07-14T13:03:45.000Z",
-      "summary": "A devastating mudslide in Wayanad, Kerala, triggered by heavy rains and poor construction practices, has resulted in multiple casualties",
+      "publishedAt": "2026-07-14T15:14:01.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
