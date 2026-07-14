@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-14T22:46:35.750Z",
+  "updatedAt": "2026-07-14T23:41:56.544Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-midnight-social-media-curfew-proposed-for-older--91fbd73785",
+      "title": "Midnight social media curfew proposed for older UK teens",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-14T23:17:23.000Z",
+      "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-lorde-says-ai-glasses-are-not-sexy-8c37bdacde",
+      "title": "Lorde says AI glasses are “not sexy”",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy",
+      "tag": "Technology",
+      "publishedAt": "2026-07-14T23:10:02.000Z",
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-nothing-s-good-looking-watch-3-pro-smartwatch-is-c5ea8cbb0d",
       "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
@@ -13,13 +33,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-s-first-hardware-device-is-reportedly-a-s-2eaaf860f3",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move",
+      "id": "tech-microsoft-s-secure-boot-has-been-broken-for-a-de-8fa4ff5292",
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence",
       "tag": "Technology",
-      "publishedAt": "2026-07-14T22:22:24.000Z",
-      "summary": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+      "publishedAt": "2026-07-14T22:20:48.000Z",
+      "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,26 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-14T21:48:02.000Z",
       "summary": "It seems some people take issue with one billionaire family overseeing a third of the US' entertainment media.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-midnight-social-media-curfew-proposed-for-older--89bee31ff0",
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-14T21:43:56.000Z",
-      "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-lawsuit-claims-meta-s-layoff-decisions-were-made-82af457858",
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
-      "tag": "Technology",
-      "publishedAt": "2026-07-14T20:05:53.000Z",
-      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-pushes-back-on-apple-trade-secret-lawsuit-77c65380f2",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "id": "tech-openai-s-first-hardware-device-is-reportedly-a-s-2eaaf860f3",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move",
       "tag": "Technology",
-      "publishedAt": "2026-07-14T22:07:42.000Z",
-      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "publishedAt": "2026-07-14T22:22:24.000Z",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel l...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-s-new-flagship-model-deletes-files-on-its-986ab6397b",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
+      "id": "tech-trump-admin-puts-americans-in-congo-on-do-not-bo-8be155c6db",
+      "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak",
       "tag": "Technology",
-      "publishedAt": "2026-07-14T21:50:11.000Z",
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "publishedAt": "2026-07-14T22:09:31.000Z",
+      "summary": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
