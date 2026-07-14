@@ -1,25 +1,85 @@
 {
-  "updatedAt": "2026-07-14T07:05:17.549Z",
+  "updatedAt": "2026-07-14T09:48:42.275Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-elderly-man-killed-in-elephant-attack-in-coimbat-227d6a0580",
-      "title": "Elderly man killed in elephant attack in Coimbatore district",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/elderly-man-killed-in-elephant-attack-in-coimbatore-district/article71219996.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-14T07:02:02.000Z",
-      "summary": "The septuagenarian had gone to a nearby stream to attend nature’s call when a lone wild elephant attacked him",
+      "id": "news-here-s-the-latest-998391a7b7",
+      "title": "Here’s the latest.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz/heres-the-latest",
+      "tag": "US",
+      "publishedAt": "2026-07-14T09:42:12.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-south-east-water-to-pay-30-5m-penalty-after-mult-3494901acc",
-      "title": "South East Water to pay £30.5m penalty after multiple failures",
+      "id": "news-how-deadly-have-the-heatwaves-in-england-and-wal-3e4b37559e",
+      "title": "How deadly have the heatwaves in England and Wales been?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/c9929nl2m3go?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-07-14T09:38:32.000Z",
+      "summary": "Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-iranian-cruise-missiles-hit-two-uae-oil-tankers--ec131b62e7",
+      "title": "Iranian cruise missiles hit two UAE oil tankers in Hormuz as US strikes Iran for third night – Middle East crisis live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/14/south-east-water-penalty-ofwat-supply",
+      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
       "tag": "Europe",
-      "publishedAt": "2026-07-14T06:45:00.000Z",
-      "summary": "Ofwat investigated supplier over supply interruptions, customer failings and for breaching its licence South East Water will pay £30.5m after a series of supply interruptions, c...",
+      "publishedAt": "2026-07-14T09:36:23.000Z",
+      "summary": "UAE says Iranian cruise missiles hit two oil tankers in strait, killing a crew member and wounding eight US launches third night of strikes on Iran as Trump announces Hormuz blo...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-lebanon-and-israel-hold-talks-in-rome-amid-renew-41256bf77c",
+      "title": "Lebanon and Israel hold talks in Rome amid renewed West Asia fighting",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/lebanon-and-israel-hold-talks-in-rome-amid-renewed-west-asia-fighting/article71220632.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-07-14T09:36:07.000Z",
+      "summary": "According to a Lebanese diplomatic source familiar with the content of the talks, “the Lebanese army is ready to gradually take control of the localities from which the Israeli...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ice-kills-26-year-old-in-maine-what-happened-and-da1eed0d5c",
+      "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-14T09:34:55.000Z",
+      "summary": "More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-telangana-engineer-caught-accepting-rs-2-lakh-rs-6edde3ce2e",
+      "title": "Telangana Engineer Caught Accepting Rs 2 Lakh, Rs 32 Lakh Seized From Home",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/telangana-municipal-assistant-engineer-caught-accepting-rs-2-lakh-rs-32-lakh-seized-from-home-11769065",
+      "tag": "India",
+      "publishedAt": "2026-07-14T09:15:42.000Z",
+      "summary": "The accused, identified as 33-year-old Kallepalli Sathish Kumar, was working at the Municipal Office in Telangana's Peddapally district",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-expelled-him-from-aap-long-back-how-kejriwal-rea-4ff2950c4c",
+      "title": "'Expelled him from AAP long back': How Kejriwal reacted to Tahir Hussain's conviction",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/expelled-him-from-aap-long-back-how-kejriwal-reacted-to-tahir-hussains-conviction/articleshow/132385884.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-14T09:14:02.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-non-bailable-warrant-against-hafiz-saeed-paves-w-b3de0a2b6e",
+      "title": "Non-bailable warrant against Hafiz Saeed paves way for Pahalgam attack trial in absentia",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/hafiz-saeed-pahalgam-attack-trial-non-bailable-warrant-10785722",
+      "tag": "India",
+      "publishedAt": "2026-07-14T08:18:12.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -33,66 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-harassed-chased-attacked-how-nashik-family-s-pic-b48b67a4c8",
-      "title": "Harassed, Chased, Attacked: How Nashik Family's Picnic Turned Into Nightmare",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/harassed-chased-car-attacked-how-a-nashik-familys-picnic-turned-into-nightmare-11768152",
-      "tag": "India",
-      "publishedAt": "2026-07-14T06:43:36.000Z",
-      "summary": "The dispute began when two men at the site allegedly whistled at and sexually harassed a woman from the family",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-live-updates-u-s-strikes-iran-for-3rd-night-in-r-36bd03a83d",
-      "title": "Live Updates: U.S. Strikes Iran for 3rd Night, in Return to Open Conflict",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-      "tag": "US",
-      "publishedAt": "2026-07-14T06:42:46.000Z",
-      "summary": "President Trump announced a 20 percent fee on cargo shipped through the Strait of Hormuz. Iran said it had attacked two tankers transiting the waterway as the battle to control...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-with-us-iran-trust-broken-again-can-pakistan-bri-159e952f4e",
-      "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-14T06:41:51.000Z",
-      "summary": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-one-of-two-books-barred-by-j-k-government-availa-71cafef867",
-      "title": "One of two books barred by J&K government available in Jammu University since 2022",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/jammu-university-books-barred-government-2022-10785498",
-      "tag": "India",
-      "publishedAt": "2026-07-14T06:37:48.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-india-summons-iranian-envoy-after-indian-crew-me-c95beab479",
-      "title": "India summons Iranian envoy after Indian crew member killed in Hormuz tanker strike",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/india-summons-iranian-envoy-after-indian-crew-member-killed-in-hormuz-tanker-strike/articleshow/132382807.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-14T06:37:47.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pop-up-free-school-uniform-and-prom-dress-stall-f25821b8a8",
-      "title": "Pop-up free school uniform and prom dress stall",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8628n87w71o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-14T05:31:03.000Z",
-      "summary": "People are being encouraged to donate, swap or take items they need for free.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-s-uranium-diplomacy-with-australia-52123317d3",
       "title": "India's uranium diplomacy with Australia",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-who-is-anil-menon-the-indian-origin-nasa-astrona-3966995adf",
-      "title": "Who is Anil Menon, the Indian-origin NASA astronaut of Malayali descent set to travel to space?",
+      "id": "news-madhya-pradesh-bhojshala-complex-supreme-court-s-f603b67de8",
+      "title": "Madhya Pradesh Bhojshala complex: Supreme Court suggests temporary prayer space for Muslims until case decided",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/who-is-dr-anil-menon-first-nasa-astronaut-of-malayali-descent-journeys-to-space-expedition-74-space-news/article71220010.ece",
+      "url": "https://www.thehindu.com/news/national/supreme-court-hearing-on-madhya-pradesh-bhojshala-saraswati-temple-kamal-maula-mosque-complex/article71220469.ece",
       "tag": "India",
-      "publishedAt": "2026-07-14T06:56:40.000Z",
-      "summary": "Anil Menon, NASA’s first astronaut of Malayali origin, embarks on a historic ISS mission, conducting groundbreaking research in space.",
+      "publishedAt": "2026-07-14T09:35:40.000Z",
+      "summary": "Supreme Court directed that the Archaeological Survey of India would not make any structural alterations to the disputed structure without leave of the apex court",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-survey-for-bidadi-township-ends-in-chaos-as-wome-84ab2f5df3",
-      "title": "Survey for Bidadi Township ends in chaos as women farmers chase officials with brooms",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/survey-for-bidadi-township-ends-in-chaos-as-women-farmers-chase-officials-with-brooms/article71217562.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-14T06:49:16.000Z",
-      "summary": "With this, the row over Bidadi township, championed by Chief Minister D. K. Shivakumar and has become a political flashpoint with Union Minister H.D. Kumaraswamy, has only escal...",
+      "id": "news-nigel-farage-turned-down-taxpayer-funded-securit-1d907400a7",
+      "title": "Nigel Farage turned down taxpayer-funded security including bodyguard, car and driver last year – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/14/ann-widdecombe-nigel-farage-reform-uk-security-protection-burnham-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-07-14T09:35:22.000Z",
+      "summary": "The head of Reform UK refused the security, which was a similar level to that received by the leader of the opposition, because he considered it inadequate Keir Starmer attended...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
