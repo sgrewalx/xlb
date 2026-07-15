@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-07-15T17:05:08.447Z",
+  "updatedAt": "2026-07-15T18:54:59.997Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-hack-suggests-ai-music-generator-suno-scraped-yo-97f0442b32",
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "id": "tech-microsoft-patches-bug-in-video-game-age-of-empir-752094bf98",
+      "title": "Microsoft patches bug in video game Age of Empires II",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii",
       "tag": "Technology",
-      "publishedAt": "2026-07-15T17:00:34.000Z",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "publishedAt": "2026-07-15T18:47:01.000Z",
+      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-lionel-messi-s-final-world-cup-and-the-death-of--8d94ed513c",
-      "title": "Lionel Messi’s Final World Cup—and the Death of Early Retirement",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement",
-      "tag": "Football",
-      "publishedAt": "2026-07-15T16:28:43.000Z",
-      "summary": "Argentina’s Lionel Messi was supposed to be done years ago. Now, sports science is helping soccer’s biggest stars rewrite the rules of aging.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-valve-appears-to-be-discontinuing-self-repair-pa-cd981619e7",
-      "title": "Valve appears to be discontinuing self-repair parts for the LCD Steam Deck at iFixit",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2215785/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck",
-      "tag": "Technology",
-      "publishedAt": "2026-07-15T16:25:29.000Z",
-      "summary": "An iFixit staffer told a Steam Deck user that the company had no plans to stock replacement OEM batteries.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-samsung-shows-off-brand-new-shape-for-z-fold-8-i-12457c6b67",
-      "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
+      "id": "tech-our-explosive-diarrhea-parasite-future-6fe868f06a",
+      "title": "Our ‘explosive diarrhea parasite’ future",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
+      "url": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell",
       "tag": "Technology",
-      "publishedAt": "2026-07-15T16:05:34.000Z",
-      "summary": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey takin...",
+      "publishedAt": "2026-07-15T18:40:00.000Z",
+      "summary": "Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-launches-a-physical-keypad-for-controllin-8c68dca2ba",
+      "title": "OpenAI launches a physical keypad for controlling agents",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents",
+      "tag": "Technology",
+      "publishedAt": "2026-07-15T18:31:30.000Z",
+      "summary": "OpenAI's collaboration with keyboard maker Work Louder is available to order today.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-isn-t-smarter-than-a-baby-yet-29995de2c9",
+      "title": "AI Isn’t Smarter Than a Baby—Yet",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet",
+      "tag": "Technology",
+      "publishedAt": "2026-07-15T18:30:00.000Z",
+      "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spacex-share-price-drops-below-stock-market-debu-310a0ba978",
+      "title": "SpaceX share price drops below stock market debut",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-15T18:11:57.000Z",
+      "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-midnight-social-media-curfew-proposed-for-uk-tee-e1958d7627",
-      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-15T11:24:29.000Z",
-      "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-openai-is-building-an-ai-speaker-amid-legal-feud-7728de508b",
       "title": "OpenAI is building an AI speaker amid legal feud with Apple",
       "source": "The Hindu Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-whatnot-acquires-shaped-to-power-real-time-live--093927dcb7",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations",
+      "id": "tech-apple-quietly-hid-a-big-change-coming-for-carpla-bf178342a6",
+      "title": "Apple quietly hid a big change coming for CarPlay with iOS 27",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2211714/apple-reveal-carplay-video-playback-ios-27",
       "tag": "Technology",
-      "publishedAt": "2026-07-15T17:00:00.000Z",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s...",
+      "publishedAt": "2026-07-15T18:30:00.000Z",
+      "summary": "Apple announced the new CarPlay feature not long after Google announced a similar update for Android Auto.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-microsoft-patches-record-number-of-security-vuln-bf7c595949",
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
+      "id": "tech-something-s-glowing-on-the-pixel-11-s-camera-bar-28f79f5ff8",
+      "title": "Something’s glowing on the Pixel 11’s camera bar",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
       "tag": "Technology",
-      "publishedAt": "2026-07-15T16:20:18.000Z",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with...",
+      "publishedAt": "2026-07-15T18:24:22.000Z",
+      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store pag...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
