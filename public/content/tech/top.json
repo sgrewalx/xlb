@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-07-16T11:28:59.130Z",
+  "updatedAt": "2026-07-16T13:20:10.056Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-apple-back-to-school-sale-now-live-in-india-brin-62f9c4e2b8",
-      "title": "Apple Back to School Sale Now Live in India, Bringing Offers on MacBook Air, iPad Pro and More",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/laptops/news/apple-back-to-school-sale-goes-live-in-india-offers-macbook-air-pro-airpods-4-pencil-ipad-11779690",
+      "id": "tech-apple-intelligence-approved-for-launch-in-china--bef03d8a12",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai",
       "tag": "Technology",
-      "publishedAt": "2026-07-16T11:20:32.000Z",
-      "summary": "Apple Back to School sale is now live in India, offering discounts on MacBook models and iPad models, along with the opportunity for students, their parents, and teachers to get...",
+      "publishedAt": "2026-07-16T13:17:59.000Z",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-musk-quietly-buys-apr-energy-in-1b-deal-to-power-ee1502c4ef",
+      "title": "Musk quietly buys APR Energy in $1B deal to power Grok",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/elon-musk-buys-apr-energy-to-power-grok-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T13:02:23.000Z",
+      "summary": "Elon Musk's APR Energy acquisition, worth over $1 billion, gives him a 1 GW mobile turbine fleet to power xAI's Grok data centres.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-oneplus-never-had-a-chance-in-the-us-b92411132a",
+      "title": "OnePlus never had a chance in the US",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T13:00:00.000Z",
+      "summary": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent One...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-you-can-now-grant-claude-access-to-your-1passwor-2aeb33a773",
+      "title": "You can now grant Claude access to your 1Password credentials",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2216405/1password-anthropic-claude-integration",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T13:00:00.000Z",
+      "summary": "1Password lets you use Claude agents for personal chores without exposing your credentials.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ostium-suspends-trading-following-oracle-securit-fa035d9b62",
+      "title": "Ostium Suspends Trading Following Oracle Security Incident Drains Millions",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/cryptocurrency/news/ostium-suspends-trading-following-oracle-security-incident-drains-millions-crypto-scams-hacks-july-2026-11779978",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T12:53:32.000Z",
+      "summary": "Decentralised trading protocol Ostium has suspended trading after blockchain security firms Blockaid and CertiK reported a suspected exploit involving its liquidity vault. While...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-marks-hardware-debut-with-mini-keyboard-d-62f7a470ae",
+      "title": "OpenAI marks hardware debut with mini-keyboard designed for Codex users",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-marks-hardware-debut-with-mini-keyboard-designed-for-codex-users/article71229799.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T12:26:19.000Z",
+      "summary": "The hardware launch of Codex Micro comes as OpenAI is locked in a legal feud with Apple over the alleged theft of trade secrets from the iPhone-maker",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xpeng-s-new-budget-ev-looks-like-the-ferrari-luc-9ae0288e9d",
+      "title": "XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T12:09:08.000Z",
+      "summary": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,73 +83,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-startup-news-and-updates-daily-roundup-july-16-2-f48376543c",
-      "title": "Startup news and updates: Daily roundup (July 16, 2026)",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-16-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T11:07:58.000Z",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, July 16, 2026.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-computer-cops-inside-the-big-business-of-selling-d8630a35fc",
-      "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the dig...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-now-alerts-parents-if-their-teen-discussed--f57dbfcd55",
-      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gay-men-flocked-to-goose-for-friendship-some-sti-486b897101",
-      "title": "Gay Men Flocked to Goose for Friendship. Some Still Feel Excluded",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/gay-men-flocked-to-goose-for-friendship-some-still-feel-excluded",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "summary": "Despite positioning itself as an anti-hookup app, users tell WIRED that Goose has fake profiles, harsh acceptance standards, and problems with inclusivity.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-will-alert-parents-is-their-teens-discuss-s-1e7c6775fa",
-      "title": "Meta will alert parents is their teens discuss self harm",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2216412/meta-ai-alert-parents-if-teens-discuss-self-harm",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "summary": "Meta has rolled out a new safeguard for teens' AI interactions.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-loses-court-fight-against-854-250-italian-9093265546",
-      "title": "Google loses court fight against $854,250 Italian fine over gambling advertising",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/google-loses-court-fight-against-854250-italian-fine-over-gambling-advertising/article71229378.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T10:29:39.000Z",
-      "summary": "The YouTube videos promoting online gambling had been uploaded by a content creator ​with a commercial ‌partnership deal with Google.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-hundreds-rally-at-bethesda-hq-to-protest-xbox-la-c8bedf3546",
-      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+      "id": "tech-move-over-gps-navigation-satellites-in-low-earth-1321b7b290",
+      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there",
+      "url": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback",
       "tag": "Technology",
-      "publishedAt": "2026-07-15T22:36:28.000Z",
-      "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
+      "publishedAt": "2026-07-16T11:00:21.000Z",
+      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-realme-could-replace-realme-ui-with-coloros-17-i-977a34ac59",
-      "title": "Realme Could Replace Realme UI With ColorOS 17 in India: Report",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/realme-india-coloros-17-for-future-smartphones-report-11779551",
+      "id": "tech-claude-can-now-use-your-1password-credentials-fo-8b8e280534",
+      "title": "Claude can now use your 1Password credentials for you",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
       "tag": "Technology",
-      "publishedAt": "2026-07-16T11:00:33.000Z",
-      "summary": "Realme India has reportedly confirmed that future smartphones in the country will ship with ColorOS 17 instead of Realme UI. According to a recent report, eligible existing devi...",
+      "publishedAt": "2026-07-16T13:00:00.000Z",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password f...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-hisense-xr10-smart-projector-review-rgb-powered--37a4ca203e",
-      "title": "Hisense XR10 Smart Projector Review: RGB-Powered Wonder",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/hisense-xr10-smart-projector",
+      "id": "tech-vital-signals-puts-continuous-blood-pressure-mon-11a64c84ea",
+      "title": "Vital Signals puts continuous blood pressure monitoring into a ring",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2216390/vital-signals-blood-pressure-ring",
       "tag": "Technology",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "summary": "Projectors are adopting RGB backlighting, the hottest tech from the world of TVs. This large but vivid projector is a great option for summer movie nights.",
+      "publishedAt": "2026-07-16T13:00:00.000Z",
+      "summary": "Vital Signals promises its algorithmic blood pressure monitoring ring will reshape how we live with hypertension and other cardiac conditions",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
