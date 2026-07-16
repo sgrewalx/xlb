@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-07-16T17:03:11.332Z",
+  "updatedAt": "2026-07-16T18:55:33.248Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-newsletter-platform-beehiiv-s-now-lets-subscribe-58fcb1822b",
-      "title": "Newsletter platform Beehiiv’s now lets subscribers chat with each other, adds AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiivs-now-lets-subscribers-chat-with-each-other-adds-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T17:00:00.000Z",
-      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-is-better-at-playing-this-game-66bdb56f35",
-      "title": "Google is better at playing this game",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T16:55:54.000Z",
-      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-oneplus-ends-phone-releases-in-us-and-europe-fur-5fadd3259c",
-      "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T16:29:46.000Z",
-      "summary": "OnePlus promises to continue supporting the phones it's already released.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-ai-mode-now-integrates-with-canva-youtube-deef4eeedf",
-      "title": "Google AI Mode now integrates with Canva, YouTube Music and Instacart",
+      "id": "tech-the-amd-ryzen-7-7700x3d-chip-is-now-available-fo-c7b26c6fbd",
+      "title": "The AMD Ryzen 7 7700X3D chip is now available for $329",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart",
+      "url": "https://www.engadget.com/2216899/amd-ryzen-7-7700x3d-chip-now-available-for-329",
       "tag": "Technology",
-      "publishedAt": "2026-07-16T16:28:46.000Z",
-      "summary": "You can now make playlists, design flyers and compile shopping lists using AI in Search.",
+      "publishedAt": "2026-07-16T18:44:25.000Z",
+      "summary": "Reasonable specs for a reasonable price.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-kalshi-says-it-caught-trump-s-teleprompter-opera-9a9714279c",
+      "title": "Kalshi says it caught Trump’s teleprompter operator insider trading",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T18:43:14.000Z",
+      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News r...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-everyone-thinks-they-have-the-diarrhea-parasite-a887337577",
+      "title": "Everyone Thinks They Have the Diarrhea Parasite",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T18:36:19.000Z",
+      "summary": "Cyclosporiasis isn’t the only thing spreading across the US. So is anxiety about getting hit with it.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-vids-now-lets-you-star-in-your-own-ai-vid-14ba1a8e58",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T18:32:54.000Z",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and ed...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-we-ve-seen-helium-baked-off-a-rocky-exoplanet-s--084ba5e962",
+      "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere",
+      "tag": "Technology",
+      "publishedAt": "2026-07-16T18:00:15.000Z",
+      "summary": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-16T16:00:28.000Z",
       "summary": "Google is rebranding NotebookLM to Gemini Notebook, the company announced on Thursday. The AI-powered research and note-taking assistant, which was originally announced as Proje...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-swatch-s-new-gold-moonswatch-solves-the-problem--3e2eb4b80d",
-      "title": "Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch",
-      "tag": "Technology",
-      "publishedAt": "2026-07-16T15:37:09.000Z",
-      "summary": "Swatch’s latest MoonSwatch is the Mission to the Moon 1969, a limited-edition model with components crafted from Omega’s 18K Moonshine Gold. To get one, you'll have to join a lo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-roblox-will-let-people-use-ai-to-make-games-on-t-5dacdecaa3",
-      "title": "Roblox will let people use AI to make games on their phone",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "id": "tech-here-s-why-anthropic-is-pushing-states-to-regula-3578843445",
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster",
       "tag": "Technology",
-      "publishedAt": "2026-07-16T16:45:29.000Z",
-      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even mo...",
+      "publishedAt": "2026-07-16T18:35:18.000Z",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-x-cracks-down-on-creators-who-steal-content-6cd1f366a7",
-      "title": "X cracks down on creators who steal content",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content",
+      "id": "tech-don-t-lose-sleep-over-reports-of-260-starlink-sa-98d22591c1",
+      "title": "Don't lose sleep over reports of 260 Starlink satellites deorbiting",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2212810/spacex-starlink-satellites-deorbit-reports",
       "tag": "Technology",
-      "publishedAt": "2026-07-16T16:40:36.000Z",
-      "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
+      "publishedAt": "2026-07-16T18:30:00.000Z",
+      "summary": "SpaceX deorbiting satellites isn't a cause for worry, but scientists are still looking into the environmental impacts of frequent satellite deorbits.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
