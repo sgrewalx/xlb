@@ -1,25 +1,75 @@
 {
-  "updatedAt": "2026-07-17T17:03:01.077Z",
+  "updatedAt": "2026-07-17T18:55:21.975Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-one-more-u-s-made-anti-submarine-helicopter-deli-a5f23cb9e8",
-      "title": "One more U.S. made anti-submarine helicopter delivered to the Indian Navy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/one-more-us-made-anti-submarine-helicopter-delivered-to-the-indian-navy/article71235170.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-17T16:59:35.000Z",
-      "summary": "The MH-60R is among the world’s most advanced shipborne helicopters; it is designed primarily for anti-submarine and anti-surface warfare",
+      "id": "news-burnham-becomes-labour-leader-and-britain-s-inco-c374654bc6",
+      "title": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
+      "tag": "US",
+      "publishedAt": "2026-07-17T18:53:00.000Z",
+      "summary": "At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-china-s-moonshot-ai-claims-kimi-k3-can-rival-ope-796f61a087",
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "id": "news-malabar-pied-hornbills-sighted-in-kannur-43c6d498d7",
+      "title": "Malabar pied hornbills sighted in Kannur",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/malabar-pied-hornbills-sighted-in-kannur/article71234311.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-17T18:49:31.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-more-canadian-wildfire-smoke-shrouds-us-midwest--1f0d9d78aa",
+      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "tag": "Europe",
+      "publishedAt": "2026-07-17T18:39:51.000Z",
+      "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-eu-proposes-slowing-down-cuts-to-carbon-emission-cbef4a5c1c",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-17T16:53:04.000Z",
-      "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-17T18:34:04.000Z",
+      "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-germany-s-merz-hails-nuclear-deterrence-cooperat-3d88439e33",
+      "title": "Germany’s Merz hails nuclear deterrence cooperation with France",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-17T18:31:27.000Z",
+      "summary": "The Franco-German cooperation is not a move to replace NATO’s nuclear umbrella, stresses German Chancellor.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-losing-consciousness-aisa-activists-health-worse-aba823340d",
+      "title": "'Losing consciousness': AISA activists' health worsens on Day 20 of hunger strike at Jantar Mantar",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/losing-consciousness-aisa-activists-health-worsens-on-day-20-of-hunger-strike-at-jantar-mantar/articleshow/132466579.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-17T17:27:44.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-pm-modi-s-vande-mataram-message-set-to-fly-into--19e21dddb6",
+      "title": "PM Modi's \"Vande Mataram\" Message Set To Fly Into Space Tomorrow",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/pm-modis-vande-mataram-message-set-to-fly-into-space-tomorrow-11786226",
+      "tag": "India",
+      "publishedAt": "2026-07-17T17:04:26.000Z",
+      "summary": "As India's private space sector prepares for another defining moment, a special message from Prime Minister Narendra Modi is set to ride into space aboard Skyroot Aerospace's Vi...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -33,63 +83,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-dhs-chief-threatens-states-that-refuse-trump-s-e-827412a2f0",
-      "title": "DHS chief threatens states that refuse Trump’s election demands after president’s widely condemned speech – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-07-17T16:46:42.000Z",
-      "summary": "Markwayne Mullin follows up on president’s unproven claims as Democrats accuse Trump of ‘working to rig the midterms’ in advance Sign up for US News Breaking email Trump makes u...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-7-5-crore-students-affected-in-10-years-rahul-ga-880fbe49d6",
-      "title": "'7.5 crore students affected in 10 years': Rahul Gandhi calls paper leaks the 'norm' at Chhatron Ki Goonj programme in Dehradun",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/7-5-crore-students-affected-in-10-years-rahul-gandhi-calls-paper-leaks-the-norm-at-chhatron-ki-goonj-programme-in-dehradun/articleshow/132465654.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-17T16:45:21.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-7-3-magnitude-earthquake-in-central-america-sets-158bc40381",
-      "title": "7.3-Magnitude Earthquake in Central America Sets Off Tsunami Threat",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
-      "tag": "US",
-      "publishedAt": "2026-07-17T16:42:47.000Z",
-      "summary": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-this-historic-cannon-weighed-3-5-tonnes-theives--e3c32ed5d0",
-      "title": "This historic cannon weighed 3.5 tonnes. Theives still found a way to disappear with it",
+      "id": "news-this-historic-cannon-weighed-3-5-tonnes-thieves--e3c32ed5d0",
+      "title": "This historic cannon weighed 3.5 tonnes. Thieves still found a way to disappear with it",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/india/narwar-fort-cannon-theft-madhya-pradesh-shivpuri-heritage-artifact-stolen-10791708",
       "tag": "India",
       "publishedAt": "2026-07-17T16:41:50.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pakistan-cricketer-nawaz-sanctioned-after-cannab-d60278f272",
-      "title": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
-      "tag": "Cricket",
-      "publishedAt": "2026-07-17T16:26:34.000Z",
-      "summary": "Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-girl-7-waiting-to-go-to-school-attacked-by-stray-7dadd80b29",
-      "title": "Girl, 7, Waiting To Go To School, Attacked By Stray Dogs In Maharashtra",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/girl-7-waiting-to-go-to-school-attacked-by-stray-dogs-in-maharashtra-11785924",
-      "tag": "India",
-      "publishedAt": "2026-07-17T15:56:39.000Z",
-      "summary": "A seven-year-old girl was injured after being attacked by a pack of stray dogs outside her home in Maharashtra's Gondia district, an incident captured on CCTV.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-appsc-announces-certificate-verification-schedul-5480d02350",
-      "title": "APPSC announces certificate verification schedule for key posts",
+      "id": "news-mining-official-held-on-charge-of-bribery-b8e2ac51aa",
+      "title": "Mining official held on charge of bribery",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-announces-certificate-verification-schedule-for-key-posts/article71235338.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/mining-official-held-on-charge-of-bribery/article71233058.ece",
       "tag": "India",
-      "publishedAt": "2026-07-17T16:58:11.000Z",
+      "publishedAt": "2026-07-17T18:47:57.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-police-officer-detained-after-alleged-attempt-to-d1d3ab7651",
-      "title": "Police officer detained after alleged attempt to free relatives from police station in Nedumangad",
+      "id": "news-mahe-smi-design-fintech-conference-pfrda-chairpe-340f69f0c5",
+      "title": "MAHE-SMI design & FinTech Conference: PFRDA chairperson outlines AI roadmap to redesign NPS onboarding",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/police-officer-detained-after-alleged-attempt-to-free-relatives-from-police-station-in-nedumangad/article71235447.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/mahe-smi-design-fintech-conference-pfrda-chairperson-outlines-ai-roadmap-to-redesign-nps-onboarding/article71234474.ece",
       "tag": "India",
-      "publishedAt": "2026-07-17T16:54:00.000Z",
-      "summary": "The officer allegedly demanded the release of two of the detainees, claiming they were his relatives",
+      "publishedAt": "2026-07-17T18:45:11.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]

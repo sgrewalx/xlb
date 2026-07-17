@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-17T17:03:01.077Z",
+  "updatedAt": "2026-07-17T18:55:21.975Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-one-more-u-s-made-anti-submarine-helicopter-deli-a5f23cb9e8",
-      "title": "One more U.S. made anti-submarine helicopter delivered to the Indian Navy",
+      "id": "news-burnham-becomes-labour-leader-and-britain-s-inco-c374654bc6",
+      "title": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
+      "tag": "US",
+      "publishedAt": "2026-07-17T18:53:00.000Z",
+      "summary": "At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-malabar-pied-hornbills-sighted-in-kannur-43c6d498d7",
+      "title": "Malabar pied hornbills sighted in Kannur",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/one-more-us-made-anti-submarine-helicopter-delivered-to-the-indian-navy/article71235170.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/malabar-pied-hornbills-sighted-in-kannur/article71234311.ece",
       "tag": "India",
-      "publishedAt": "2026-07-17T16:59:35.000Z",
-      "summary": "The MH-60R is among the world’s most advanced shipborne helicopters; it is designed primarily for anti-submarine and anti-surface warfare",
+      "publishedAt": "2026-07-17T18:49:31.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-china-s-moonshot-ai-claims-kimi-k3-can-rival-ope-796f61a087",
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-17T16:53:04.000Z",
-      "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-the-u-s-iran-battle-over-the-strait-of-hormuz-ra-63095e56ed",
-      "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-      "tag": "US",
-      "publishedAt": "2026-07-17T16:50:10.000Z",
-      "summary": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
+      "id": "news-more-canadian-wildfire-smoke-shrouds-us-midwest--1f0d9d78aa",
+      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "tag": "Europe",
+      "publishedAt": "2026-07-17T18:39:51.000Z",
+      "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
