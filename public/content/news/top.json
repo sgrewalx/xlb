@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-07-17T18:55:21.975Z",
+  "updatedAt": "2026-07-17T19:59:43.114Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-burnham-becomes-labour-leader-and-britain-s-inco-c374654bc6",
-      "title": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
-      "tag": "US",
-      "publishedAt": "2026-07-17T18:53:00.000Z",
-      "summary": "At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-malabar-pied-hornbills-sighted-in-kannur-43c6d498d7",
-      "title": "Malabar pied hornbills sighted in Kannur",
+      "id": "news-kafir-screenshot-case-in-kerala-court-rejects-si-8e45512cee",
+      "title": "Kafir screenshot case in Kerala: Court rejects SIT’s plea to cancel bail of prime accused Jithin Bhaskaran",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/malabar-pied-hornbills-sighted-in-kannur/article71234311.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/kafir-screenshot-case-in-kerala-court-rejects-sits-plea-to-cancel-bail-of-prime-accused-jithin-bhaskaran/article71233100.ece",
       "tag": "India",
-      "publishedAt": "2026-07-17T18:49:31.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-17T19:54:14.000Z",
+      "summary": "The prosecution’s argument is that, after being released on bail on July 3, Jithin Bhaskaran violated bail conditions by posting messages on Facebook that allegedly challenged t...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-more-canadian-wildfire-smoke-shrouds-us-midwest--1f0d9d78aa",
-      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "id": "news-7-3-magnitude-earthquake-off-coast-of-mexico-and-9550ee477a",
+      "title": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
+      "tag": "US",
+      "publishedAt": "2026-07-17T19:54:11.000Z",
+      "summary": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-congress-to-join-nc-s-jantar-mantar-protest-on-m-c3609720e8",
+      "title": "Congress to join NC’s Jantar Mantar protest on Monday, BJP plans secretariat gherao",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/congress-to-join-ncs-jantar-mantar-protest-on-monday-bjp-plans-secretariat-gherao/articleshow/132469303.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-17T19:48:32.000Z",
+      "summary": "Jammu and Kashmir politics intensifies as the National Conference plans a protest in New Delhi. The Congress party announced its participation in the proposed sit-in demonstrati...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-dhs-chief-threatens-states-that-refuse-trump-s-e-2be4b1f50f",
+      "title": "DHS chief threatens states that refuse Trump’s election demands after president’s widely condemned speech – live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-07-17T18:39:51.000Z",
-      "summary": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of...",
+      "publishedAt": "2026-07-17T19:40:00.000Z",
+      "summary": "Markwayne Mullin follows up on president’s unproven claims as Democrats accuse Trump of ‘working to rig the midterms’ in advance Sign up for US News Breaking email Trump makes u...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-will-the-canadian-wildfire-smoke-affect-spain-vs-b5672494df",
+      "title": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-17T19:39:33.000Z",
+      "summary": "World Cup organisers are monitoring the situation 'closely', with US and FIFA presidents meeting on Friday.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-china-signals-possible-return-of-u-s-trade-privi-516bb6abf6",
+      "title": "China signals possible return of U.S. trade privileges for Hong Kong",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+      "tag": "US",
+      "publishedAt": "2026-07-17T19:16:16.000Z",
+      "summary": "The decision comes two months after President Donald Trump met with Xi Jinping, potentially warming ties ahead of Xi's expected U.S. visit.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-court-adjourns-hearing-in-krishna-janmabhumi-sha-66b5728fd3",
+      "title": "Court Adjourns Hearing In Krishna Janmabhumi-Shahi Idgah Mosque Dispute",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/allahabad-high-court-adjourns-hearing-in-krishna-janmabhumi-shahi-idgah-mosque-dispute-11786600",
+      "tag": "India",
+      "publishedAt": "2026-07-17T19:12:56.000Z",
+      "summary": "The Allahabad High Court on Friday adjourned the hearing in the Mathura Krishna Janmabhumi-Shahi Idgah mosque dispute matter till August 25.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,46 +80,6 @@
       "tag": "Europe",
       "publishedAt": "2026-07-17T18:34:04.000Z",
       "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-germany-s-merz-hails-nuclear-deterrence-cooperat-3d88439e33",
-      "title": "Germany’s Merz hails nuclear deterrence cooperation with France",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-17T18:31:27.000Z",
-      "summary": "The Franco-German cooperation is not a move to replace NATO’s nuclear umbrella, stresses German Chancellor.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-losing-consciousness-aisa-activists-health-worse-aba823340d",
-      "title": "'Losing consciousness': AISA activists' health worsens on Day 20 of hunger strike at Jantar Mantar",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/losing-consciousness-aisa-activists-health-worsens-on-day-20-of-hunger-strike-at-jantar-mantar/articleshow/132466579.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-17T17:27:44.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pm-modi-s-vande-mataram-message-set-to-fly-into--19e21dddb6",
-      "title": "PM Modi's \"Vande Mataram\" Message Set To Fly Into Space Tomorrow",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/pm-modis-vande-mataram-message-set-to-fly-into-space-tomorrow-11786226",
-      "tag": "India",
-      "publishedAt": "2026-07-17T17:04:26.000Z",
-      "summary": "As India's private space sector prepares for another defining moment, a special message from Prime Minister Narendra Modi is set to ride into space aboard Skyroot Aerospace's Vi...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-the-u-s-iran-battle-over-the-strait-of-hormuz-ra-63095e56ed",
-      "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-      "tag": "US",
-      "publishedAt": "2026-07-17T16:50:10.000Z",
-      "summary": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,22 +103,22 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mining-official-held-on-charge-of-bribery-b8e2ac51aa",
-      "title": "Mining official held on charge of bribery",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/mining-official-held-on-charge-of-bribery/article71233058.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-17T18:47:57.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-israeli-strike-in-gaza-kills-seven-people-health-047922f15b",
+      "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+      "tag": "US",
+      "publishedAt": "2026-07-17T19:52:28.000Z",
+      "summary": "The Israeli military said the attack targeted members of the second-biggest militant group in Gaza. It also said it was “aware of the claims that several uninvolved individuals”...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mahe-smi-design-fintech-conference-pfrda-chairpe-340f69f0c5",
-      "title": "MAHE-SMI design & FinTech Conference: PFRDA chairperson outlines AI roadmap to redesign NPS onboarding",
+      "id": "news-bus-driver-rescues-student-who-jumps-into-periya-aa28aec757",
+      "title": "Bus driver rescues student who jumps into Periyar",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/mahe-smi-design-fintech-conference-pfrda-chairperson-outlines-ai-roadmap-to-redesign-nps-onboarding/article71234474.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/bus-driver-rescues-student-who-jumps-into-periyar/article71235634.ece",
       "tag": "India",
-      "publishedAt": "2026-07-17T18:45:11.000Z",
+      "publishedAt": "2026-07-17T19:49:40.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
