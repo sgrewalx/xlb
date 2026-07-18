@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-07-18T21:42:06.437Z",
+  "updatedAt": "2026-07-18T22:40:19.979Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-2-u-s-soldiers-killed-and--7daf3ad8a6",
+      "id": "news-iran-war-live-updates-2-u-s-soldiers-killed-and--d93e9a69f0",
       "title": "Iran War Live Updates: 2 U.S. Soldiers Killed and 1 Service Member Missing in Iranian Attack on Jordan",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-07-18T21:41:14.000Z",
+      "publishedAt": "2026-07-18T22:28:01.000Z",
       "summary": "The soldiers were the first U.S. troops to die from hostile fire in the region since an early April truce. The deaths came as both sides expanded the scope and intensity of thei...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-cyclospora-iceberg-lettuce-recalled-in-27-states-2f346b2235",
-      "title": "Cyclospora: iceberg lettuce recalled in 27 states and more products may follow",
+      "id": "news-hungary-s-president-agrees-to-stand-down-after-l-16905eeece",
+      "title": "Hungary’s president agrees to stand down after law change ends his term",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/18/cyclospora-iceberg-lettuce-recall",
+      "url": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
       "tag": "Europe",
-      "publishedAt": "2026-07-18T21:25:14.000Z",
-      "summary": "Taylor Farms does not specify where products were served or sold, as US braces for weeks more of outbreak Taylor Farms recalled potentially contaminated shredded iceberg lettuce...",
+      "publishedAt": "2026-07-18T22:17:51.000Z",
+      "summary": "Tamás Sulyok signed the constitutional amendment that cited ‘serious loss of confidence’ in him as leader Hungary’s president Tamás Sulyok has agreed to step down after signing...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
+      "id": "news-deaths-of-2-u-s-troops-in-jordan-brings-american-62dbfe5843",
+      "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+      "tag": "US",
+      "publishedAt": "2026-07-18T22:19:44.000Z",
+      "summary": "President Trump has vowed to avenge the deaths of any U.S. military personnel, and retaliatory strikes are almost certain.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
       "id": "news-why-jordan-is-becoming-a-new-focus-in-the-u-s-ir-21c7ee085a",
       "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
       "source": "The New York Times",
@@ -110,16 +120,6 @@
       "tag": "US",
       "publishedAt": "2026-07-18T21:41:12.000Z",
       "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member miss...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-deaths-of-2-u-s-troops-in-jordan-brings-american-510e781cf7",
-      "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
-      "tag": "US",
-      "publishedAt": "2026-07-18T21:28:20.000Z",
-      "summary": "President Trump has vowed to avenge the deaths of any U.S. military personnel, and retaliatory strikes are almost certain.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
