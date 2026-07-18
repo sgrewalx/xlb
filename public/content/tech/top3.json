@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-17T23:42:35.138Z",
+  "updatedAt": "2026-07-18T01:28:25.639Z",
   "items": [
+    {
+      "id": "tech-tech-now-10e9418964",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002zc0w?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-18T01:00:00.000Z",
+      "summary": "Ammie Sekhon goes behind the scenes of WWE to see the tech that supports the show.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-applications-close-in-48-hours-here-s-everything-80f84ed9a9",
       "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
@@ -19,16 +29,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-17T22:09:47.000Z",
       "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico fro...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-there-s-now-an-api-for-mainlining-trump-s-truth--c16b9bacd7",
-      "title": "There's now an API for mainlining Trump's Truth Social posts",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts",
-      "tag": "Technology",
-      "publishedAt": "2026-07-17T22:05:37.000Z",
-      "summary": "The API is supposed to deliver posts from 'the highest-ranking Truth Social accounts.'",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
