@@ -1,24 +1,74 @@
 {
-  "updatedAt": "2026-07-19T10:19:50.927Z",
+  "updatedAt": "2026-07-19T11:49:48.195Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-here-s-the-latest-1b04d6a480",
-      "title": "Here’s the latest.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/heres-the-latest",
-      "tag": "US",
-      "publishedAt": "2026-07-19T10:04:06.000Z",
-      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-4-killed-in-massive-landslide-in-nagaland-more-f-b98dc93b39",
+      "title": "4 Killed In Massive Landslide In Nagaland, More Feared Dead",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/4-killed-in-massive-landslide-in-nagaland-more-feared-dead-11791967",
+      "tag": "India",
+      "publishedAt": "2026-07-19T11:38:01.000Z",
+      "summary": "XLB brief: a timely india item from NDTV, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-middle-east-crisis-live-us-launches-new-round-of-b44f3a5e66",
+      "id": "news-sonam-wangchuk-hunger-strike-live-delhi-hc-decli-9f7559e544",
+      "title": "Sonam Wangchuk hunger strike LIVE: Delhi HC declines interim relief on plea by Wangchuk's wife seeking transfer from Safdarjung Hospital",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-sonam-wangchuk-2026-protest-cockroach-janata-party-abhijeet-dipke-hunger-strike-july-19-2026-updates/article71240515.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-19T11:37:52.000Z",
+      "summary": "Wangchuk's wife, family given unrestricted access to him at Safdarjung; no interim order needed at this stage, says Delhi High Court",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-from-coffee-grounds-to-guinea-pig-bedding-the-co-c8af7fc6af",
+      "title": "From coffee grounds to guinea pig bedding - the composters keeping it local",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-07-19T11:33:19.000Z",
+      "summary": "Food waste is a resource like water and should be kept in communities, compost champions say.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-the-u-s-braced-for-the-world-cup-it-fell-in-love-db5ce8a265",
+      "title": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+      "tag": "Football",
+      "publishedAt": "2026-07-19T11:28:19.000Z",
+      "summary": "Amid anxiety over how the United States would welcome the world, cities like Lawrence, Kan., and Boston threw open their doors. The bonds forged are still visible on the streets.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-who-will-care-for-the-child-why-many-women-remai-b8ce4509a6",
+      "title": "Who will care for the child? Why many women remain outside the workforce",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/who-will-care-for-the-child-why-many-women-remain-outside-the-workforce/articleshow/132491918.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-19T11:25:12.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-fifa-world-cup-tobin-heath-on-record-goals-franc-e81c02b48f",
+      "title": "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T11:21:52.000Z",
+      "summary": "In an exclusive interview, Tobin Heath shares her insights before World Cup final and discusses best players and teams.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-us-launches-new-round-of-ef13d077c2",
       "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
       "tag": "Europe",
-      "publishedAt": "2026-07-19T10:01:44.000Z",
+      "publishedAt": "2026-07-19T11:15:30.000Z",
       "summary": "Fresh attacks comes after Iran’s supreme leader warned Washington would pay for ‘seeking to escalate’ the conflict Two US troops killed and one missing in Jordan after Iranian a...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
@@ -30,56 +80,6 @@
       "tag": "US",
       "publishedAt": "2026-07-19T10:00:00.000Z",
       "summary": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-ferry-carrying-116-passengers-sinks-off-guyana-c-7cebf5f6b3",
-      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T09:59:41.000Z",
-      "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-jewellery-shop-owner-held-for-false-complaint-5acdca7dd9",
-      "title": "Jewellery shop owner held for false complaint",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/jewellery-shop-owner-held-for-false-complaint/article71240972.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-19T09:58:53.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-calcutta-hc-halts-demolition-of-abhishek-banerje-7db783391a",
-      "title": "Calcutta HC halts demolition of Abhishek Banerjee's Amtala office",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/calcutta-hc-halts-demolition-of-abhishek-banerjees-amtala-office/articleshow/132492610.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-19T09:49:19.000Z",
-      "summary": "The Calcutta High Court has ordered a halt to demolition work at Abhishek Banerjee's office. This directive came after an anti-encroachment drive was initiated at the premises....",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-du-plessis-makes-winning-return-to-ufc-with-domi-e22571319a",
-      "title": "Du Plessis makes winning return to UFC with dominant decision over Usman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T09:46:35.000Z",
-      "summary": "South African fighter held the middleweight belt ⁠from January 2024 until mid-August 2025, when he lost to Chimaev.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sonam-wangchuk-s-life-would-be-at-risk-if-shifte-a90126158f",
-      "title": "Sonam Wangchuk's Life Would Be At Risk If Shifted: Sources On Wife's Plea",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/sonam-wangchuk-life-would-be-at-risk-if-shifted-sources-on-wifes-plea-11791336",
-      "tag": "India",
-      "publishedAt": "2026-07-19T08:39:46.000Z",
-      "summary": "Sonam Wangchuk's wife has said that she has \"lost faith\" in Safdarjung and sought to shift him to a private facility.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-bad-bunny-concert-in-milan-abandoned-due-to-hail-519c8b661c",
-      "title": "Bad Bunny concert in Milan abandoned due to hailstorm",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T09:57:53.000Z",
-      "summary": "Fans evacuated from sold-out open-air show as organisers promise full refunds An open-air show by Puerto Rican music star Bad Bunny in Milan on Saturday night was abandoned due...",
+      "id": "news-calcutta-high-court-orders-halt-in-demolition-of-484759661f",
+      "title": "Calcutta High Court orders halt in demolition of Abhishek Banerjee's office in Amtala",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-orders-halt-in-demolition-of-abhishek-banerjees-office-in-amtala/article71241160.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-19T11:35:44.000Z",
+      "summary": "Directing that status quo be maintained on the demolition of the building on Diamond Harbour Road till the end of July, the court said the matter will be heard again before a re...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-russia-launches-major-ballistic-missile-attack-o-1574b47bc4",
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T09:54:50.000Z",
-      "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "id": "news-sonam-wangchuk-to-remain-in-government-hospital--935c9bd63b",
+      "title": "Sonam Wangchuk To Remain In Government Hospital, Court Denies Interim Relief",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/why-was-sonam-wangchuk-hospitalised-delhi-high-court-hearing-11791599",
+      "tag": "India",
+      "publishedAt": "2026-07-19T11:33:45.000Z",
+      "summary": "Delhi High Court denied any interim relief to Sonam Wangchuk's wife during a special hearing on his request to shift him from Safdarjung hospital.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
