@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-07-19T18:54:05.120Z",
+  "updatedAt": "2026-07-19T20:03:48.339Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-u-s-and-iran-edge-closer-t-06f4629b92",
-      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
+      "id": "news-iran-war-live-updates-another-u-s-service-member-8c948ff2e3",
+      "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as Two Sides Edge Toward Wider War",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-07-19T18:47:23.000Z",
-      "summary": "The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.",
+      "publishedAt": "2026-07-19T19:59:55.000Z",
+      "summary": "The Pentagon said a service member was killed in northern Iraq on Saturday while disposing of an Iranian drone. It also said “unidentified remains” had been found in Jordan, whe...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-deputy-commissioner-of-police-stresses-on-strict-85800a08a2",
-      "title": "Deputy Commissioner of Police stresses on strict rotation of duties",
+      "id": "news-us-soldier-killed-and-one-injured-after-iranian--c68e2d9c4f",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T19:45:12.000Z",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-dozens-missing-after-passenger-ferry-sinks-off-c-2502694f11",
+      "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T19:39:58.000Z",
+      "summary": "Emergency response has rescued 67 people, including 15 children, from one of the country’s worst maritime disasters A ferry carrying 116 passengers and crew sank ⁠off the coast...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-kochi-corpn-mulls-hybrid-ro-ro-ferry-for-vypeen--700638ee01",
+      "title": "Kochi Corpn. mulls hybrid ro-ro ferry for Vypeen–Fort Kochi amid noise complaints",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/dcp-stresses-on-strict-rotation-of-duties/article71241689.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-corpn-mulls-introducing-hybrid-ro-ro-ferry-on-vypeen-fort-kochi-route-to-curb-noise-pollution/article71242085.ece",
       "tag": "India",
-      "publishedAt": "2026-07-19T18:47:07.000Z",
+      "publishedAt": "2026-07-19T19:23:22.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-thames-water-lenders-preparing-legal-challenge-i-221fd426d5",
-      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-19T18:35:16.000Z",
-      "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-burnham-to-say-uk-must-be-honest-about-its-chall-a508ddfa56",
-      "title": "Burnham to say UK must be honest about its challenges as he prepares to become PM",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T18:32:36.000Z",
-      "summary": "Labour leader will visit king to accept role on Monday and will start making cabinet appointments that afternoon Andy Burnham will warn that Britain must be honest about the cha...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sacred-unity-iran-s-supreme-leader-calls-for-cal-bd07d9cd22",
-      "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
+      "id": "news-fans-light-up-nyc-s-little-argentina-ahead-of-sp-ef9eaa9bdc",
+      "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-07-19T18:29:47.000Z",
-      "summary": "Decree comes after hardline backers of the Iranian government accused officials of treason for signing an MoU with US.",
+      "publishedAt": "2026-07-19T19:18:59.000Z",
+      "summary": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-sleeping-couple-falls-from-4-storey-roof-in-delh-8ceae9e774",
+      "title": "Sleeping Couple Falls From 4-Storey Roof in Delhi, Man Dies, Wife Critical",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/sleeping-couple-falls-from-4-storey-roof-in-delhi-man-dies-wife-critical-11793263",
+      "tag": "India",
+      "publishedAt": "2026-07-19T18:32:54.000Z",
+      "summary": "Preliminary investigation revealed that the couple had dinner with the family around 9 pm and then went to sleep on the rooftop of the house.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "India",
       "publishedAt": "2026-07-19T18:15:00.000Z",
       "summary": "Young adults worldwide and in India still desire marriage and family life. Financial security and stable employment are crucial for partnership decisions. Many young people aspi...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-delhi-s-new-rooftop-solar-campaign-to-offer-subs-fb6ebc317e",
-      "title": "Delhi's New Rooftop Solar Campaign To Offer Subsidy, Help With Installation",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/delhis-new-rooftop-solar-campaign-to-offer-subsidy-help-with-installation-11793130",
-      "tag": "India",
-      "publishedAt": "2026-07-19T17:44:43.000Z",
-      "summary": "The \"Solarize East\" campaign will initially cover South-East Delhi, with residents being guided on government subsidies, net metering and rooftop solar installation.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-increased-cooperation-with-u-s-has-put-jordan-in-0cad7bd0e1",
-      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
+      "id": "news-here-s-the-latest-5fd3114380",
+      "title": "Here’s the latest.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html",
+      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/heres-the-latest",
       "tag": "US",
-      "publishedAt": "2026-07-19T18:47:22.000Z",
-      "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
+      "publishedAt": "2026-07-19T19:36:07.000Z",
+      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-canada-wildfires-what-to-know-b102a90e7b",
-      "title": "Canada Wildfires: What to Know",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html",
-      "tag": "US",
-      "publishedAt": "2026-07-19T18:40:30.000Z",
-      "summary": "Hundreds of wildfires in Canada and the United States have blanketed large sections of North America in dense smoke over the past week.",
+      "id": "news-middle-east-crisis-live-us-military-says-service-74ccc03f70",
+      "title": "Middle East crisis live: US military says service member killed during ‘controlled detonation’ of downed Iranian drone",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T19:35:25.000Z",
+      "summary": "Centcom announces third confirmed troop death from separate incident in Iraq following new round of airstrikes to ‘swiftly punish’ Iran Two US troops killed and one missing in J...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
