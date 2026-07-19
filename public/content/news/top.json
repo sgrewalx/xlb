@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-07-19T15:49:52.333Z",
+  "updatedAt": "2026-07-19T16:48:08.400Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-u-s-and-iran-edge-closer-t-cfc49cd93f",
-      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
+      "id": "news-palestinians-say-israeli-settlers-torch-mosque-f-fbfd285e5f",
+      "title": "Palestinians say Israeli settlers torch mosque, factory",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/palestinians-say-israeli-settlers-torch-mosque-factory/article71242397.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T16:39:14.000Z",
+      "summary": "More than two dozen settlers, some masked, attacked the Al-Taqwa mosque in the village of Al-Tuwani during the night and set it on fire, Mohammed Rabie, head of the village coun...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-u-s-and-iran-edge-closer-t-f53b2b68a3",
+      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-07-19T15:47:51.000Z",
-      "summary": "The U.S. military said it had targeted Iranian forces that were responsible for an attack on a base in Jordan that left two American service members dead and one missing.",
+      "publishedAt": "2026-07-19T16:35:53.000Z",
+      "summary": "The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-a-p-ex-servicemen-form-jac-to-address-key-issues-f94214b3a2",
-      "title": "A.P. ex-servicemen form JAC to address key issues",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-ex-servicemen-form-jac-to-address-key-issues/article71241984.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-19T15:39:01.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-he-s-a-war-criminal-mamdani-exploring-whether-he-5e105ca5cc",
-      "title": "‘He’s a war criminal’: Mamdani exploring whether he can arrest Netanyahu if he visits New York",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T15:38:11.000Z",
-      "summary": "NYC mayor says in Times interview that’s he’s in ‘active conversation’ with city’s law department about the matter New York City mayor Zohran Mamdani has said he was reviewing w...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-and-iran-trade-fire-after-two-us-soldiers-kil-0bb5083018",
-      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "id": "news-ferry-carrying-133-passengers-and-crew-sinks-off-71344571c3",
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-07-19T15:35:18.000Z",
-      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "publishedAt": "2026-07-19T16:35:02.000Z",
+      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-people-s-safety-our-highest-priority-assam-govt--3b1cbdaaf6",
+      "title": "‘People’s safety our highest priority’: Assam govt requests Army, Air Force to remain on standby for flood evacuations",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/peoples-safety-our-highest-priority-assam-govt-requests-army-air-force-to-remain-on-standby-for-flood-evacuations/articleshow/132497529.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-19T16:25:24.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-thames-water-creditors-prepare-for-legal-fight-o-fd0e3ca7df",
+      "title": "Thames Water creditors prepare for legal fight over possible nationalisation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T16:17:11.000Z",
+      "summary": "Investors say they will work with Andy Burnham but hire litigation specialists amid reports the firm could enter temporary public ownership The group of investors pursuing a res...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israeli-settlers-torch-homes-and-mosque-in-masaf-70684798b1",
+      "title": "Israeli settlers torch homes and mosque in Masafer Yatta",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T16:06:55.000Z",
+      "summary": "Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-sonam-wangchuk-to-end-hunger-strike-tomorrow-on--13c4353d44",
+      "title": "Sonam Wangchuk to end hunger strike tomorrow on 2 conditions, says wife",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-end-condition-safdarjung-hospital-cjp-parliament-march-neet-10794022",
+      "tag": "India",
+      "publishedAt": "2026-07-19T16:04:59.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-who-is-andy-burnham-the-u-k-s-new-prime-minister-a8308eafd9",
+      "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+      "tag": "US",
+      "publishedAt": "2026-07-19T16:00:00.000Z",
+      "summary": "On Monday, former Manchester Mayor Andy Burnham succeeds Keir Starmer as the United Kingdom's prime minister. Burnham's politics have been shaped by England's north-south class...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,36 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-spain-vs-argentina-live-2026-fifa-world-cup-fina-bee679d26d",
-      "title": "Spain vs Argentina LIVE: 2026 FIFA World Cup final",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T15:00:00.000Z",
-      "summary": "Live coverage and text updates as Spain play Argentina in the final of the 2026 World Cup.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-death-toll-rises-to-18-as-flash-floods-landslide-284763653f",
-      "title": "Death toll rises to 18 as flash floods, landslides wreak havoc in J&K",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/jammu-and-kashmir-flash-floods-poonch-rajouri-landslides-death-toll-chenab-river-alert-10793940",
-      "tag": "India",
-      "publishedAt": "2026-07-19T14:28:00.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-no-permission-sought-or-granted-delhi-police-on--f5dee8abb8",
-      "title": "'No permission sought or granted': Delhi Police on CJP's Parliament march",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/no-permission-sought-or-granted-delhi-police-on-cjps-parliament-march/articleshow/132495962.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-19T14:20:49.000Z",
-      "summary": "Delhi Police has denied permission for a proposed march to Parliament on July 20. Prohibitory orders are in effect across the New Delhi district, banning assemblies. Unauthorize...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-the-monsoon-s-effect-on-pregnancy-de97ebcaf3",
       "title": "The monsoon’s effect on pregnancy",
       "source": "Hindustan Times",
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-an-israeli-paraglider-tries-to-save-migrating-sw-352bc51b30",
-      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
-      "tag": "US",
-      "publishedAt": "2026-07-19T10:00:00.000Z",
-      "summary": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-here-s-the-latest-91c62b3885",
-      "title": "Here’s the latest.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/heres-the-latest",
-      "tag": "US",
-      "publishedAt": "2026-07-19T15:47:14.000Z",
-      "summary": "XLB brief: a timely us item from The New York Times, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-panel-to-consider-two-complaints-on-leasing-and--40c88fca76",
-      "title": "Panel to consider two complaints on leasing and illegal diversion of forest land in Kerala",
+      "id": "news-jantar-mantar-protest-live-wangchuk-will-end-fas-c8df463b85",
+      "title": "Jantar Mantar protest LIVE: Wangchuk will end fast tomorrow if leaders raise education accountability in Parliament, says Gitanjali Angmo",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/panel-to-consider-two-complaints-on-leasing-and-illegal-diversion-of-forest-land-in-kerala/article71242073.ece",
+      "url": "https://www.thehindu.com/news/national/cjp-sonam-wangchuk-2026-protest-cockroach-janata-party-abhijeet-dipke-hunger-strike-july-19-2026-updates/article71240515.ece",
       "tag": "India",
-      "publishedAt": "2026-07-19T15:34:36.000Z",
-      "summary": "The complaints on reported illegal diversion of forest land and irregular timber auction in Chalakudy forest division and the alleged continued use of reserved forest land by Pl...",
+      "publishedAt": "2026-07-19T16:35:53.000Z",
+      "summary": "The Delhi Police say ‘no permission sought or granted’ for July 20 Parliament protest march",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-government-committed-to-uninterrupted-power-supp-8a09b22049",
+      "title": "Government committed to uninterrupted power supply, strengthening SCCL: Deputy CM Bhatti Vikramarka",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/government-committed-to-uninterrupted-power-supply-strengthening-sccl-deputy-cm-bhatti-vikramarka/article71242252.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-19T16:34:25.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
