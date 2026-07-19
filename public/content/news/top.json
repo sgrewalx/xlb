@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-07-19T16:48:08.400Z",
+  "updatedAt": "2026-07-19T17:51:34.029Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-palestinians-say-israeli-settlers-torch-mosque-f-fbfd285e5f",
-      "title": "Palestinians say Israeli settlers torch mosque, factory",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/palestinians-say-israeli-settlers-torch-mosque-factory/article71242397.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T16:39:14.000Z",
-      "summary": "More than two dozen settlers, some masked, attacked the Al-Taqwa mosque in the village of Al-Tuwani during the night and set it on fire, Mohammed Rabie, head of the village coun...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-u-s-and-iran-edge-closer-t-f53b2b68a3",
+      "id": "news-iran-war-live-updates-u-s-and-iran-edge-closer-t-b856517897",
       "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-07-19T16:35:53.000Z",
+      "publishedAt": "2026-07-19T17:46:41.000Z",
       "summary": "The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ferry-carrying-133-passengers-and-crew-sinks-off-71344571c3",
-      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "id": "news-russia-launches-major-ballistic-missile-attack-o-e728bc5c86",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-07-19T16:35:02.000Z",
-      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+      "publishedAt": "2026-07-19T17:43:20.000Z",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-at-least-50-malian-soldiers-killed-in-rebel-jiha-a4fbaedcf3",
+      "title": "At least 50 Malian soldiers killed in rebel-jihadist attack",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/several-malian-soldiers-killed-in-rebel-jihadist-attack/article71242501.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T17:41:23.000Z",
+      "summary": "The attack on the Army convoy leaving Anefis occurred on July 18, following weeks of fighting with both sides attempting to take control",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-right-to-raise-voice-peacefully-shabana-azmi-joi-51cb08ea1f",
+      "title": "‘Right to raise voice peacefully’: Shabana Azmi joins CJP’s Jantar Mantar protest",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/shabana-azmi-prakash-raj-cjp-jantar-mantar-protest-sonam-wangchuk-parliament-march-10794057",
+      "tag": "India",
+      "publishedAt": "2026-07-19T17:26:03.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-5-5-magnitude-earthquake-hits-peru-s-andes-regio-dbacaf254f",
+      "title": "5.5-magnitude earthquake hits Peru's Andes region and kills at least 5 people",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T17:12:47.000Z",
+      "summary": "More than 20 people were injured and 300 have been displaced by Saturday’s quake, while the total number of missing is still unknown A 5.5-magnitude earthquake shook the Andes r...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-675-parks-4-ridge-zones-6-62-lakh-plants-delhi-s-79ea782529",
+      "title": "675 Parks, 4 Ridge Zones, 6.62 Lakh Plants: Delhi's Monsoon Plantation Push",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/675-parks-4-ridge-zones-6-62-lakh-plants-delhis-monsoon-plantation-push-11793043",
+      "tag": "Running",
+      "publishedAt": "2026-07-19T17:11:16.000Z",
+      "summary": "DDA says it has completed nearly 30 per cent of its 23-lakh plantation target. The drive comes amid a wider push to track tree protection and compensatory plantation across Delhi.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-syria-s-al-sharaa-reshuffles-security-and-intell-5fb5f29fac",
+      "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-19T16:43:55.000Z",
+      "summary": "Government says the shake-up will strengthen security and clear the way for reconstruction.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,36 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-thames-water-creditors-prepare-for-legal-fight-o-fd0e3ca7df",
-      "title": "Thames Water creditors prepare for legal fight over possible nationalisation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T16:17:11.000Z",
-      "summary": "Investors say they will work with Andy Burnham but hire litigation specialists amid reports the firm could enter temporary public ownership The group of investors pursuing a res...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-israeli-settlers-torch-homes-and-mosque-in-masaf-70684798b1",
-      "title": "Israeli settlers torch homes and mosque in Masafer Yatta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-19T16:06:55.000Z",
-      "summary": "Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sonam-wangchuk-to-end-hunger-strike-tomorrow-on--13c4353d44",
-      "title": "Sonam Wangchuk to end hunger strike tomorrow on 2 conditions, says wife",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-end-condition-safdarjung-hospital-cjp-parliament-march-neet-10794022",
-      "tag": "India",
-      "publishedAt": "2026-07-19T16:04:59.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-who-is-andy-burnham-the-u-k-s-new-prime-minister-a8308eafd9",
       "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
       "source": "NPR",
@@ -80,16 +90,6 @@
       "tag": "US",
       "publishedAt": "2026-07-19T16:00:00.000Z",
       "summary": "On Monday, former Manchester Mayor Andy Burnham succeeds Keir Starmer as the United Kingdom's prime minister. Burnham's politics have been shaped by England's north-south class...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sonam-wangchuk-s-wife-says-he-will-end-fast-but--c39c1ccf81",
-      "title": "Sonam Wangchuk's Wife Says He Will End Fast. But There Are 2 Conditions",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/sonam-wangchuks-wife-says-he-will-end-fast-but-there-are-2-conditions-11792714",
-      "tag": "India",
-      "publishedAt": "2026-07-19T15:30:00.000Z",
-      "summary": "XLB brief: a timely india item from NDTV, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-jantar-mantar-protest-live-wangchuk-will-end-fas-c8df463b85",
-      "title": "Jantar Mantar protest LIVE: Wangchuk will end fast tomorrow if leaders raise education accountability in Parliament, says Gitanjali Angmo",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/cjp-sonam-wangchuk-2026-protest-cockroach-janata-party-abhijeet-dipke-hunger-strike-july-19-2026-updates/article71240515.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-19T16:35:53.000Z",
-      "summary": "The Delhi Police say ‘no permission sought or granted’ for July 20 Parliament protest march",
+      "id": "news-increased-cooperation-with-u-s-has-put-jordan-in-54cd28334f",
+      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html",
+      "tag": "US",
+      "publishedAt": "2026-07-19T17:46:22.000Z",
+      "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-government-committed-to-uninterrupted-power-supp-8a09b22049",
-      "title": "Government committed to uninterrupted power supply, strengthening SCCL: Deputy CM Bhatti Vikramarka",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/government-committed-to-uninterrupted-power-supply-strengthening-sccl-deputy-cm-bhatti-vikramarka/article71242252.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-19T16:34:25.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-the-u-s-braced-for-the-world-cup-it-fell-in-love-7bee340e62",
+      "title": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+      "tag": "Football",
+      "publishedAt": "2026-07-19T17:37:14.000Z",
+      "summary": "Amid anxiety over how the United States would welcome the world, cities like Lawrence, Kan., and Boston threw open their doors. The bonds forged are still visible on the streets.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
