@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-07-20T15:01:51.065Z",
+  "updatedAt": "2026-07-20T17:22:23.182Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-hackers-stole-significant-amount-of-data-from-te-b8064f4d2b",
-      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies",
+      "id": "tech-ofcom-unable-to-take-further-legal-action-agains-758b9914bb",
+      "title": "Ofcom unable to take further legal action against suicide forum",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-20T15:01:20.000Z",
-      "summary": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely...",
+      "publishedAt": "2026-07-20T16:57:30.000Z",
+      "summary": "The regulator said it had \"no further legal routes available\" under the Online Safety Act.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-dr-jill-lepore-on-why-ai-backlash-is-vital-for-t-4c33759be5",
-      "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
+      "id": "tech-lg-s-glossy-oled-gaming-monitor-is-rare-to-find--5027057060",
+      "title": "LG’s glossy OLED gaming monitor is rare to find under $400",
       "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk",
+      "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-07-20T15:00:00.000Z",
-      "summary": "Today, I’m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State, which comes out on August 25...",
+      "publishedAt": "2026-07-20T16:34:24.000Z",
+      "summary": "If you’ve been thinking about upgrading your gaming monitor, LG’s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.99...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-first-trailer-for-avengers-doomsday-is-final-40ac911111",
-      "title": "The first trailer for Avengers: Doomsday is finally here",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here",
+      "id": "tech-7-books-that-teach-you-how-to-become-less-judgme-a276a63457",
+      "title": "7 Books that teach you how to become less judgmental",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/books-teach-become-less-judgmental",
       "tag": "Technology",
-      "publishedAt": "2026-07-20T14:33:46.000Z",
-      "summary": "\"Something's coming. Something we may not be able to deter.\"",
+      "publishedAt": "2026-07-20T16:00:00.000Z",
+      "summary": "Discover seven insightful books that encourage empathy, open-mindedness, and a deeper understanding of people and their choices.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-f1-in-belgium-the-2026-cars-look-pathetic-on-all-aafc429022",
+      "title": "F1 in Belgium: The 2026 cars look pathetic on all the best racetracks",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks",
+      "tag": "Running",
+      "publishedAt": "2026-07-20T15:59:18.000Z",
+      "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-adobe-camera-app-s-new-feature-will-critique-you-47b24e8a81",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-07-20T15:45:00.000Z",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-long-is-a-new-iphone-actually-supposed-to-la-2d61956be3",
+      "title": "How long is a new iPhone actually supposed to last?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2216276/how-long-new-iphone-last-lifespan",
+      "tag": "Technology",
+      "publishedAt": "2026-07-20T15:30:00.000Z",
+      "summary": "Apple devices tend to be pretty durable, and the average lifespan of a new iPhone seems to be fairly consistent.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,36 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-20T14:01:30.000Z",
       "summary": "An Amazon India listing suggests that Google's Fitbit Air could launch in the country soon. The wearable offers continuous health monitoring, automatic workout detection, AI-pow...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-startup-news-and-updates-daily-roundup-july-20-2-5db73f62bd",
-      "title": "Startup news and updates: daily roundup (July 20, 2026)",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-20-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-07-20T14:00:48.000Z",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, July 20, 2026",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-watch-samsung-s-july-2026-galaxy-unpacked-3ee2d9d8cb",
-      "title": "How to watch Samsung's July 2026 Galaxy Unpacked event",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2215055/how-to-watch-samsungs-july-2026-galaxy-unpacked-event",
-      "tag": "Technology",
-      "publishedAt": "2026-07-20T14:00:00.000Z",
-      "summary": "Here's how to watch Samsung's 2026 Galaxy Unpacked event",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-aliexpress-fined-record-550m-by-eu-for-allowing--47b4dccb7a",
-      "title": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-20T13:44:55.000Z",
-      "summary": "The Chinese retailer allowed unsafe toys and counterfeit clothes to be sold on its site, says the EU.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-airpods-max-2-are-down-to-their-second-best--212b74e9c2",
-      "title": "The AirPods Max 2 are down to their second-best price",
+      "id": "tech-lg-s-monitors-come-with-an-unwanted-addition-for-278cd022bd",
+      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-07-20T14:41:29.000Z",
-      "summary": "There are a ton of deals available to shop today thanks to Best Buy’s “Black Friday in July” sale lasting all week. The sale typically aligns closely with Prime Day each year, b...",
+      "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
+      "tag": "Running",
+      "publishedAt": "2026-07-20T16:14:58.000Z",
+      "summary": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG drive...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-watch-flock-safety-ceo-garrett-langley-discuss-t-2dd5aca1e9",
-      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026",
+      "id": "tech-adobe-s-natural-look-camera-app-embraces-generat-5e82581b79",
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "tag": "Technology",
-      "publishedAt": "2026-07-20T14:30:00.000Z",
-      "summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garr...",
+      "publishedAt": "2026-07-20T16:00:00.000Z",
+      "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
