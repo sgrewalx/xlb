@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-07-21T22:44:39.711Z",
+  "updatedAt": "2026-07-21T23:47:48.193Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-will-ai-help-you-do-your-job-or-replace-you-5b81d7a30f",
+      "title": "Will AI help you do your job or replace you?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T23:04:42.000Z",
+      "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-range-rover-answers-the-question-what-if-we-buil-8d15e3e7b5",
+      "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T23:01:23.000Z",
+      "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-is-the-all-new-range-rover-gt-stepping-on-jaguar-9ef477e322",
+      "title": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T23:01:00.000Z",
+      "summary": "It’s “the most car-like Range Rover ever created,” but will this all-electric grand tourer spoil Jaguar’s Type 01 party?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-neill-blomkamp-s-new-zombie-ai-film-is-just-slop-1742b02a6d",
       "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
@@ -30,36 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-21T20:57:35.000Z",
       "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-shop-best-buy-s-black-friday-in-july-sale-2026-b-4517a6b44a",
-      "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/best-buy-black-friday-in-july-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T20:39:06.000Z",
-      "summary": "The discounts may not beat Prime Day, but I found worthwhile prices on WIRED-approved TVs, laptops, tablets, speakers, and other home gear.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tech-life-b0ef1ff040",
-      "title": "Tech Life",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy5?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T20:00:00.000Z",
-      "summary": "Dogs have a great sense of smell. Now machines are being trained to sniff out odours.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nintendo-customers-have-no-legal-right-to-tariff-51335c0b00",
-      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T19:09:19.000Z",
-      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-says-it-accidentally-hacked-hugging-face--5f47f50a46",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "id": "tech-openai-models-escaped-containment-and-hacked-hug-07cb4300f0",
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T21:48:54.000Z",
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an eve...",
+      "publishedAt": "2026-07-21T22:50:01.000Z",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-says-hugging-face-was-breached-by-its-own-e5fb218703",
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models",
+      "id": "tech-on-the-run-for-20-years-most-wanted-fugitive-cau-20d6ba1710",
+      "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T20:56:55.000Z",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "publishedAt": "2026-07-21T22:04:56.000Z",
+      "summary": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
