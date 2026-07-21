@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-07-21T18:09:44.189Z",
+  "updatedAt": "2026-07-21T20:13:29.310Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-data-centers-expected-to-use-4x-more-electricity-799c54b9cd",
-      "title": "Data centers expected to use 4x more electricity by 2035",
+      "id": "tech-tech-life-b0ef1ff040",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy5?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T20:00:00.000Z",
+      "summary": "Dogs have a great sense of smell. Now machines are being trained to sniff out odours.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-jack-dorsey-is-taking-on-slack-with-buzz-a-group-04a3f7295f",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T18:06:38.000Z",
-      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "publishedAt": "2026-07-21T19:43:41.000Z",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-xteink-x4-pro-is-a-tiny-ereader-with-more-fe-c7cdf01486",
-      "title": "The Xteink X4 Pro is a tiny ereader with more features than you might expect",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2219947/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T18:00:00.000Z",
-      "summary": "The Xteink X4 Pro is a tiny ereader for DRM-free books.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nearly-every-kindle-is-steeply-discounted-at-bes-a05b625f12",
-      "title": "Nearly every Kindle is steeply discounted at Best Buy",
+      "id": "tech-substack-adds-an-ai-detector-to-help-spot-blogs--9018eee34d",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T17:13:23.000Z",
-      "summary": "If you’ve been thinking about picking up a Kindle before school starts, or for your next vacation, now’s a good time to do it. As part of its Black Friday in July sale, Best Buy...",
+      "publishedAt": "2026-07-21T19:22:28.000Z",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-steam-deck-sales-are-losing-steam-since-may-s-pr-6d2bb83d51",
-      "title": "Steam Deck sales are losing steam since May's price hike",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T17:12:34.000Z",
-      "summary": "Analysis of bestseller charts shows an 80 percent dip from 2025's sales rate.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-a-sneaky-hacking-tool-targeting-ai-infrastructur-b3df2bdec2",
-      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "id": "tech-taylor-farms-spent-big-on-maga-and-anti-regulato-b7ba928e70",
+      "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak",
       "source": "Wired",
-      "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots",
+      "url": "https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T16:08:44.000Z",
-      "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+      "publishedAt": "2026-07-21T19:10:35.000Z",
+      "summary": "The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-nintendo-customers-have-no-legal-right-to-tariff-51335c0b00",
+      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T19:09:19.000Z",
+      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-substack-is-adding-an-ai-detection-feature-0be77dab23",
+      "title": "Substack is adding an AI detection feature",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T18:54:20.000Z",
+      "summary": "Substack is partnering with Pangram to add an AI detection feature.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ai-minister-role-boosted-but-tech-department-axe-719d553dd2",
-      "title": "AI minister role boosted but tech department axed in Burnham shake-up",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T09:15:55.000Z",
-      "summary": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tesla-spins-up-robotaxi-pilots-in-orlando-and-ta-5fcd5a49c1",
-      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "id": "tech-ai-and-the-rise-of-the-universal-entertainment-a-75cd60c991",
+      "title": "AI and the rise of the universal entertainment app",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T18:05:10.000Z",
-      "summary": "The company didn't say how many are in each city, and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
+      "publishedAt": "2026-07-21T19:39:30.000Z",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-may-unveil-a-new-device-subscription-servi-3597aa42c1",
-      "title": "Apple may unveil a new device subscription service as soon as next week",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2219945/apple-may-unveil-a-new-device-subscription-service-as-soon-as-next-week",
+      "id": "tech-bucking-ev-slowdown-sila-raises-300m-to-expand-b-a2010d2d7b",
+      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T17:41:19.000Z",
-      "summary": "Apple may unveil a new device subscription service, reportedly in partnership with Klarna, as soon as next week.",
+      "publishedAt": "2026-07-21T19:36:35.000Z",
+      "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
