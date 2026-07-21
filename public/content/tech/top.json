@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-07-21T20:13:29.310Z",
+  "updatedAt": "2026-07-21T21:54:56.777Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-openai-says-it-accidentally-hacked-hugging-face--5f47f50a46",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T21:48:54.000Z",
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an eve...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-france-will-ban-social-media-for-children-under--2d0ad7d241",
+      "title": "France will ban social media for children under 15",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2220289/france-will-ban-social-media-for-children-under-15",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T21:43:53.000Z",
+      "summary": "The country's new law also bans the use of mobile phones in schools.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-these-are-the-countries-moving-to-ban-social-med-5470c9ab49",
+      "title": "These are the countries moving to ban social media for children",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T20:57:35.000Z",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-shop-best-buy-s-black-friday-in-july-sale-2026-b-4517a6b44a",
+      "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-buy-black-friday-in-july-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-07-21T20:39:06.000Z",
+      "summary": "The discounts may not beat Prime Day, but I found worthwhile prices on WIRED-approved TVs, laptops, tablets, speakers, and other home gear.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-tech-life-b0ef1ff040",
       "title": "Tech Life",
@@ -13,36 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-jack-dorsey-is-taking-on-slack-with-buzz-a-group-04a3f7295f",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T19:43:41.000Z",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-substack-adds-an-ai-detector-to-help-spot-blogs--9018eee34d",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T19:22:28.000Z",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-taylor-farms-spent-big-on-maga-and-anti-regulato-b7ba928e70",
-      "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T19:10:35.000Z",
-      "summary": "The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-nintendo-customers-have-no-legal-right-to-tariff-51335c0b00",
       "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
       "source": "Ars Technica",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-21T19:09:19.000Z",
       "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-substack-is-adding-an-ai-detection-feature-0be77dab23",
-      "title": "Substack is adding an AI detection feature",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature",
-      "tag": "Technology",
-      "publishedAt": "2026-07-21T18:54:20.000Z",
-      "summary": "Substack is partnering with Pangram to add an AI detection feature.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ai-and-the-rise-of-the-universal-entertainment-a-75cd60c991",
-      "title": "AI and the rise of the universal entertainment app",
+      "id": "tech-openai-says-hugging-face-was-breached-by-its-own-e5fb218703",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T19:39:30.000Z",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, a...",
+      "publishedAt": "2026-07-21T20:56:55.000Z",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bucking-ev-slowdown-sila-raises-300m-to-expand-b-a2010d2d7b",
-      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory",
+      "id": "tech-2026-lg-oled-evo-tvs-are-getting-a-new-creator-o-fe1bedcc81",
+      "title": "2026 LG OLED evo TVs are getting a new Creator Original picture mode",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2220242/2026-lg-oled-evo-tvs-are-getting-a-new-creator-original-picture-mode",
       "tag": "Technology",
-      "publishedAt": "2026-07-21T19:36:35.000Z",
-      "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
+      "publishedAt": "2026-07-21T20:52:04.000Z",
+      "summary": "The elevated streaming experience is happening in collaboration with Prime Video.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
