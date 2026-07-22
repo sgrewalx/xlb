@@ -1,65 +1,75 @@
 {
-  "updatedAt": "2026-07-22T21:59:00.916Z",
+  "updatedAt": "2026-07-22T23:06:08.645Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-iran-digs-in-after-latest--2891850d5a",
+      "id": "news-australia-news-live-brisbane-fog-causes-flight-d-ee03a18274",
+      "title": "Australia news live: Brisbane fog causes flight delays; Labor faces seven major challenges, Chalmers says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-07-22T23:00:43.000Z",
+      "summary": "Treasurer says ‘parties of the sensible centre and the centre-left parties’ face ‘serious economic challenges’. Follow live Get our breaking news email , free app or daily news...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-neet-paper-leaks-government-offers-discussion-in-8f195b8ed6",
+      "title": "NEET paper leaks: Government offers discussion in House, Opposition presses for Dharmendra Pradhan’s resignation",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/neet-paper-leaks-government-offers-discussion-in-house-opposition-presses-for-dharmendra-pradhans-resignation-10799259",
+      "tag": "India",
+      "publishedAt": "2026-07-22T22:56:07.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-watch-what-we-know-about-the-us-saudi-nuclear-de-51037c5af6",
+      "title": "Watch: What we know about the US-Saudi nuclear deal",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-22T22:45:08.000Z",
+      "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-iran-war-live-updates-iran-digs-in-after-latest--d7f3c5f72f",
       "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
       "tag": "US",
-      "publishedAt": "2026-07-22T21:54:32.000Z",
-      "summary": "President Trump said the United States would target a bridge or power plant if Iran fired on ships in the Strait of Hormuz. Iran’s foreign minister repeated his nation’s positio...",
+      "publishedAt": "2026-07-22T22:42:36.000Z",
+      "summary": "Early Thursday in the Middle East, the U.S. Central Command said it was carrying out a new wave strikes on Iran, a 12th consecutive day of attacks. Iranian state media said the...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-u-s-announces-civilian-nuclear-deal-with-saudi-a-69ed7899b4",
-      "title": "U.S. announces civilian nuclear deal with Saudi Arabia",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/us-announces-civilian-nuclear-deal-with-saudi-arabia/article71255445.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-07-22T21:51:30.000Z",
-      "summary": "\"Together, these two agreements lay the legal foundation for a decades-long, multi-billion-dollar partnership that advances several priority economic and strategic objectives, i...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-as-of-july-11-4-of-7-99-lakh-waqf-claims-rejecte-d157195588",
-      "title": "As of July, 11.4% of 7.99 lakh Waqf claims rejected after uploading on central portal",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/as-of-july-11-4-of-7-99-lakh-waqf-claims-rejected-after-uploading-on-central-portal/articleshow/132567927.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-22T21:51:28.000Z",
-      "summary": "Minority affairs minister Kiren Rijiju shared waqf property data in Parliament. As of July 17, over 6.17 lakh waqf properties were validated and approved. A total of 91,253 prop...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-australia-news-live-china-hits-back-at-penny-won-400fca264f",
-      "title": "Australia news live: China hits back at Penny Wong’s comments; Victorian teachers due to begin strike",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-07-22T21:42:58.000Z",
-      "summary": "China’s foreign ministry says ‘relevant countries’ should ‘stop stirring up tension’. Follow live Get our breaking news email , free app or daily news podcast Self-reported dome...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-signs-landmark-nuclear-deal-with-saudi-arabia-0f6a51690f",
-      "title": "US signs landmark nuclear deal with Saudi Arabia",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-22T21:31:25.000Z",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-us-and-saudi-arabia-announce-nuclear-cooperation-8f9b5ce26f",
-      "title": "US and Saudi Arabia announce nuclear cooperation deal",
+      "id": "news-austrian-home-where-hitler-was-born-reopened-as--47fe2d4d40",
+      "title": "Austrian home where Hitler was born reopened as police station",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-07-22T21:30:25.000Z",
-      "summary": "Trump administration says 'historic' agreement will 'reinforce global nonproliferation standards' and create jobs in US.",
+      "publishedAt": "2026-07-22T22:30:44.000Z",
+      "summary": "For decades, neo-Nazis and far-right extremists flocked to the Austrian home where Adolf Hitler.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-jantar-mantar-protest-live-heavy-security-deploy-af1b5d7cee",
+      "title": "Jantar Mantar protest LIVE: Heavy security deployed at Jantar Mantar, as crowd of protesters swells",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-rahul-gandhi-news-abhijeet-dipke-sonam-wangchuk-saurav-das-parliament-session/article71251952.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-22T22:16:08.000Z",
+      "summary": "Rahul Gandhi using students' issues for political mileage, says J.P. Nadda; Wangchuk seeks 'unequivocal assurance' that no young protester will face punitive, retaliatory legal...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-sc-acquits-blast-accused-in-jail-for-23-years-cc890ea3c8",
+      "title": "SC acquits blast accused in jail for 23 years",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/sc-acquits-blast-accused-in-jail-for-23-years/articleshow/132567930.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-22T21:57:04.000Z",
+      "summary": "Says He Was Wrongfully Convicted",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-amid-opposition-government-tussle-lok-sabha-disr-b461fd8099",
-      "title": "Amid Opposition-Government tussle, Lok Sabha disrupted for 3rd straight day",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/neet-ug-paper-leaks-amid-opposition-government-tussle-lok-sabha-disrupted-for-3rd-straight-day-10799162",
-      "tag": "India",
-      "publishedAt": "2026-07-22T19:39:07.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-helplessness-in-the-face-of-conflict-b064f40019",
       "title": "Helplessness in the face of conflict",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-complaint-filed-in-nhrc-over-police-brutality-on-1abdd50c0a",
-      "title": "Complaint filed in NHRC over police ‘brutality’ on protesters at Jantar Mantar",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/complaint-filed-in-nhrc-over-police-brutality-on-protesters-at-jantar-mantar/articleshow/132567912.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-22T21:41:03.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-tesla-s-profits-slide-despite-growing-revenue-as-7386c548b7",
+      "title": "Tesla’s profits slide despite growing revenue as it pivots to robotics and AI",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
+      "tag": "Europe",
+      "publishedAt": "2026-07-22T23:00:17.000Z",
+      "summary": "Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectations Tesla reported its second-quarter earnings on Wednesday, dis...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-protesters-at-jantar-mantar-find-relief-at-free--ebf3a2678c",
-      "title": "Protesters at Jantar Mantar find relief at free clinics set up by doctors",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/protesters-at-jantar-mantar-find-relief-at-free-clinics-set-up-by-doctors/article71255285.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-22T21:38:38.000Z",
-      "summary": "The clinic, apart from having paracetamol, painkillers, bottles of Dettol, and sanitary pads, also has a machine to check blood pressure, an oximeter, and thermometers. The medi...",
+      "id": "news-yemen-s-houthis-claim-attacks-on-red-sea-tankers-9142b2aedc",
+      "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+      "tag": "Europe",
+      "publishedAt": "2026-07-22T22:57:09.000Z",
+      "summary": "US military says it is degrading Tehran’s ability to threaten ships in strait of Hormuz; Houthis say tankers violated their blockade; US signs nuclear deal with Saudi Arabia Wel...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
