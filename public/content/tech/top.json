@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-23T22:50:31.260Z",
+  "updatedAt": "2026-07-23T23:52:05.643Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-an-fda-panel-just-endorsed-these-unproven-peptid-2c0e460bab",
+      "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T23:45:12.000Z",
+      "summary": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA's bulk list, including the “Wolverine stack” touted by Joe Roga...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-fined-890m-by-eu-for-favouring-its-own-ap-5a467c0976",
+      "title": "Google fined €890m by EU for favouring its own apps over rivals",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T23:10:09.000Z",
+      "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-mobileye-ceo-amnon-shashua-to-step-aside-as-comp-b51f6ce451",
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-lawmakers-push-for-ai-kill-switch-after-openai-g-adaee3a2d1",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T20:58:35.000Z",
-      "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-microsoft-responds-to-lg-monitors-installing-mca-7662d56b4a",
       "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
       "source": "Ars Technica",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-23T20:47:33.000Z",
       "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-s-new-feel-good-ai-ad-uses-a-song-about-the-6c8db6867e",
-      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually",
-      "tag": "Running",
-      "publishedAt": "2026-07-23T18:45:52.000Z",
-      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -113,13 +113,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-patreon-is-laying-off-20-percent-of-its-staff-d04a93a2ea",
-      "title": "Patreon is laying off 20 percent of its staff",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff",
+      "id": "tech-lawmakers-push-for-ai-kill-switch-after-openai-g-adaee3a2d1",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-23T20:47:15.000Z",
-      "summary": "While the company is trying to protect creators from AI, it still thinks the technology is changing how it does business.",
+      "publishedAt": "2026-07-23T20:58:35.000Z",
+      "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
