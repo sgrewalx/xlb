@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-07-23T12:24:20.561Z",
+  "updatedAt": "2026-07-23T15:02:04.305Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-flo-mobility-builds-robots-that-haul-constructio-d5a1b34dc4",
-      "title": "Flo Mobility builds robots that haul construction materials. L&T and Godrej use them",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/flo-mobility-construction-robots",
+      "id": "tech-the-new-halo-remake-is-a-reminder-of-what-xbox-u-e114045ba5",
+      "title": "The new Halo remake is a reminder of what Xbox used to be",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
       "tag": "Technology",
-      "publishedAt": "2026-07-23T12:20:58.000Z",
-      "summary": "The Bengaluru-based startup's autonomous robot carries up to 1.5 tonnes across building sites. It raised $2.5 million in a pre-Series A round.",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "summary": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensi...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-chip-startup-etched-defies-skeptics-hits-10-3-3c54d15790",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-latest-resident-evil-movie-trailer-has-lots--1d6d091d1d",
+      "title": "The latest Resident Evil movie trailer has lots of fun nods to the games",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2221678/new-resident-evil-movie-trailer-fun-nods-to-games",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T14:50:00.000Z",
+      "summary": "The film, from Weapons director Zach Cregger, hits theaters on September 18.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-fined-890m-by-eu-for-favouring-its-own-ap-4ac38a7693",
+      "title": "Google fined €890m by EU for favouring its own apps over rivals",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T14:05:27.000Z",
+      "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hachidori-robotics-builds-warehouse-robots-that--0714358529",
+      "title": "Hachidori Robotics builds warehouse robots that need no tracks, magnets or shutdowns",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/hachidori-robotics-track-free-warehouse-robots",
+      "tag": "Running",
+      "publishedAt": "2026-07-23T14:04:02.000Z",
+      "summary": "The Bengaluru-based startup makes autonomous mobile robots for factories and warehouses using a patented indoor positioning system.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-samsung-galaxy-z-fold-9-ultra-may-match-galaxy-s-706236fb29",
+      "title": "Samsung Galaxy Z Fold 9 Ultra May Match Galaxy S27 Ultra With 200-Megapixel Camera, 5x Periscope Zoom",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-z-fold-9-ultra-camera-features-expected-sensors-leak-11812023",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T13:58:39.000Z",
+      "summary": "A fresh leak from South Korea suggests Samsung could significantly upgrade the Galaxy Z Fold 9 Ultra's cameras by replacing its existing telephoto unit with a 50-megapixel 5x pe...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gopro-wireless-mic-system-review-an-audio-upgrad-8748b9278d",
-      "title": "GoPro Wireless Mic System review: An audio upgrade with fixable flaws",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2220868/gopro-wireless-mic-system-review",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "summary": "GoPro's Wireless Mic System nails the basics, but it has some frustrating flaws.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-moonshot-accused-by-u-s-official-of-distilling-a-e07d276b38",
       "title": "Moonshot accused by U.S. official of distilling Anthropic’s Fable",
       "source": "The Hindu Technology",
@@ -40,26 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-23T11:48:13.000Z",
       "summary": "Chinese AI firm Moonshot made headlines worldwide last week with the release of its open-weight, 2.8 trillion-parameter Kimi K3 model",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-let-s-enjoy-the-ride-says-elon-musk-as-ai-fears--ce890d6aa7",
-      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T11:39:11.000Z",
-      "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-oppo-find-x10-series-spotted-alongside-iphone-17-d916875a4f",
-      "title": "Oppo Find X10 Series Spotted Alongside iPhone 17 Pro in New Leak",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-series-leaked-image-design-testing-specifications-features-11811346",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T11:37:58.000Z",
-      "summary": "Oppo Find X10 series has been spotted in a leaked image, according to a report. The purported Oppo Find X10 series image hints at the design of the upcoming lineup, which is exp...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-experts-say-exploiting-anthropic-s-fable-isn-t-h-ff553ac3a1",
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T11:00:00.000Z",
-      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-hit-with-1-billion-fine-for-breaking-eu-a-f9aeb47e77",
-      "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T10:33:08.000Z",
-      "summary": "The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-easemyai-uses-cameras-and-ai-to-monitor-factory--dfb28da0ae",
-      "title": "EaseMyAI uses cameras and AI to monitor factory floors, ports and warehouses",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/easemyai-ai-industrial-monitoring",
+      "id": "tech-amazon-s-best-4k-streaming-sticks-are-up-to-40-p-49833f49b2",
+      "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-07-23T12:20:34.000Z",
-      "summary": "The Mumbai startup builds robotic process automation using computer vision, and counts Hitachi, Ericsson and two large banks among its clients.",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "summary": "There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesi...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-indian-drone-makers-import-their-batteries-dream-4534dfde03",
-      "title": "Indian drone makers import their batteries. Dreamfly Innovations wants to change that",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/dreamfly-innovations-drone-batteries-india",
+      "id": "tech-edtech-platform-raises-4-5m-to-help-teach-studen-ddde799554",
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code",
       "tag": "Technology",
-      "publishedAt": "2026-07-23T12:20:06.000Z",
-      "summary": "The Bengaluru startup makes fire-resistant, high-density batteries for drones and aerospace. It raised Rs 12 crore in a seed round led by Avaana Capital.",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
