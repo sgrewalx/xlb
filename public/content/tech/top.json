@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-07-23T15:02:04.305Z",
+  "updatedAt": "2026-07-23T17:08:45.729Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-new-halo-remake-is-a-reminder-of-what-xbox-u-e114045ba5",
-      "title": "The new Halo remake is a reminder of what Xbox used to be",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T15:00:00.000Z",
-      "summary": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensi...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-chip-startup-etched-defies-skeptics-hits-10-3-3c54d15790",
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "id": "tech-runway-launches-ai-model-router-as-generative-me-19bdcd567e",
+      "title": "Runway launches AI model router as generative media gets crowded",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded",
       "tag": "Technology",
-      "publishedAt": "2026-07-23T15:00:00.000Z",
-      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "publishedAt": "2026-07-23T17:07:35.000Z",
+      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Rout...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-latest-resident-evil-movie-trailer-has-lots--1d6d091d1d",
-      "title": "The latest Resident Evil movie trailer has lots of fun nods to the games",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2221678/new-resident-evil-movie-trailer-fun-nods-to-games",
+      "id": "tech-geekbench-7-will-push-your-computer-or-phone-eve-01e0f31e09",
+      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
       "tag": "Technology",
-      "publishedAt": "2026-07-23T14:50:00.000Z",
-      "summary": "The film, from Weapons director Zach Cregger, hits theaters on September 18.",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned m...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-eu-fines-google-1-billion-for-prioritizing-i-bbf7bb8788",
+      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T16:51:52.000Z",
+      "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xbox-is-testing-free-ad-supported-cloud-gaming-8f11461681",
+      "title": "Xbox is testing free, ad-supported cloud gaming",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2221790/xbox-is-testing-free-ad-supported-cloud-gaming",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T16:42:20.000Z",
+      "summary": "Microsoft is borrowing from the GeForce Now playbook with an ad-supported cloud streaming test.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-eu-hits-google-with-1-billion-fine-over-its-play-346d6fa802",
+      "title": "EU hits Google with $1 billion fine over its Play app store and search",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/eu-hits-google-with-1-billion-fine-over-its-play-app-store-and-search/article71259337.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T16:36:11.000Z",
+      "summary": "It was the latest major crackdown on Big Tech by Brussels, which has led the world in reining in some of the world's largest companies from Silicon Valley to Beijing",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meesho-cuts-down-losses-by-half-as-revenue-rises-7193b8e7f3",
+      "title": "Meesho cuts down losses by half as revenue rises 48%",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/meesho-cuts-down-losses-by-half-as-revenue-rises",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T15:02:33.000Z",
+      "summary": "Meesho expects the growth momentum to continue driven by efficiencies derived through AI despite challenging macro economic environment.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-arms-race-in-line-for-a-reckoning-after-opena-7c9bbd6931",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
+      "tag": "Technology",
+      "publishedAt": "2026-07-23T14:45:05.000Z",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -43,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-hachidori-robotics-builds-warehouse-robots-that--0714358529",
-      "title": "Hachidori Robotics builds warehouse robots that need no tracks, magnets or shutdowns",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/hachidori-robotics-track-free-warehouse-robots",
-      "tag": "Running",
-      "publishedAt": "2026-07-23T14:04:02.000Z",
-      "summary": "The Bengaluru-based startup makes autonomous mobile robots for factories and warehouses using a patented indoor positioning system.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-samsung-galaxy-z-fold-9-ultra-may-match-galaxy-s-706236fb29",
       "title": "Samsung Galaxy Z Fold 9 Ultra May Match Galaxy S27 Ultra With 200-Megapixel Camera, 5x Periscope Zoom",
       "source": "Gadgets 360",
@@ -60,36 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-23T13:58:39.000Z",
       "summary": "A fresh leak from South Korea suggests Samsung could significantly upgrade the Galaxy Z Fold 9 Ultra's cameras by replacing its existing telephoto unit with a 50-megapixel 5x pe...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-22-back-to-school-college-dorm-room-essentials-2-3fc11612b5",
-      "title": "22 Back-to-School College Dorm Room Essentials (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-college-and-dorm-essentials-gear",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T12:01:00.000Z",
-      "summary": "Deck out your room and make class a cinch with these WIRED-tested favorites.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-moonshot-accused-by-u-s-official-of-distilling-a-e07d276b38",
-      "title": "Moonshot accused by U.S. official of distilling Anthropic’s Fable",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/moonshot-accused-of-distilling-anthropics-fable-by-us-official/article71257506.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T11:48:13.000Z",
-      "summary": "Chinese AI firm Moonshot made headlines worldwide last week with the release of its open-weight, 2.8 trillion-parameter Kimi K3 model",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-white-house-report-says-trump-can-usher-in-a-new-80692ab248",
-      "title": "White House report says Trump can usher in a \"new golden age\" of science",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T11:23:21.000Z",
-      "summary": "The resulting report is a near-random mixture of real problems and grievances.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-amazon-s-best-4k-streaming-sticks-are-up-to-40-p-49833f49b2",
-      "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
+      "id": "tech-openai-is-making-big-claims-as-it-rolls-out-chat-90e0852d1f",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-07-23T15:00:00.000Z",
-      "summary": "There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesi...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "tag": "Running",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. Dur...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-edtech-platform-raises-4-5m-to-help-teach-studen-ddde799554",
-      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "id": "tech-openai-makes-chatgpt-health-available-to-all-u-s-3dc599f50e",
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users",
       "tag": "Technology",
-      "publishedAt": "2026-07-23T15:00:00.000Z",
-      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am.",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
