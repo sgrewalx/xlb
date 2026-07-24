@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-07-24T14:44:40.186Z",
+  "updatedAt": "2026-07-24T18:10:43.374Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-tech-broification-of-american-science-has-of-7d567fe3f4",
-      "title": "The tech-broification of American science has officially begun",
+      "id": "tech-why-cognition-bought-poke-ai-personality-is-beco-130cd0af65",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+      "tag": "Technology",
+      "publishedAt": "2026-07-24T18:07:32.000Z",
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conv...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-boox-teases-the-incredibly-tiny-picco-ereader-203f6adbfe",
+      "title": "Boox teases the incredibly tiny Picco ereader",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2222691/boox-teases-incredibly-tiny-picco-ereader",
+      "tag": "Technology",
+      "publishedAt": "2026-07-24T17:54:42.000Z",
+      "summary": "It features a 3.97-inch monochrome e-paper display.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-did-chinese-ai-steal-from-anthropic-and-openai-l-9eae88b219",
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast",
+      "tag": "Technology",
+      "publishedAt": "2026-07-24T17:53:01.000Z",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-blade-runner-2099-s-moody-dystopia-streams-on-am-a62497dc26",
+      "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
       "tag": "Technology",
-      "publishedAt": "2026-07-24T14:43:55.000Z",
-      "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House...",
+      "publishedAt": "2026-07-24T17:40:00.000Z",
+      "summary": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits P...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-union-cabinet-approves-draft-bill-for-stricter-p-4a6527dc63",
-      "title": "Union Cabinet approves draft bill for stricter punishments in paper leak cases",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/union-cabinet-approves-draft-bill-for-stricter-punishments-in-paper-leak-cases",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T14:29:37.000Z",
-      "summary": "The Cabinet meeting chaired by the prime minister at the Parliament House complex approved the draft bill to hand stricter punishments to those involved in paper leaks as compar...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-why-jimothy-the-raccoon-has-become-a-mega-meme-o-0356d10649",
-      "title": "Why Jimothy the raccoon has become a mega meme online",
+      "id": "tech-playstation-network-down-leaving-thousands-of-ga-6e6c5a785e",
+      "title": "PlayStation Network down, leaving thousands of gamers unable to play",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-24T14:27:46.000Z",
-      "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.",
+      "publishedAt": "2026-07-24T16:59:25.000Z",
+      "summary": "Sony's status page read that it was \"working to resolve the issue as soon as possible\".",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-this-is-the-world-s-most-advanced-robotic-servic-b384b62c2b",
+      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about",
+      "tag": "Technology",
+      "publishedAt": "2026-07-24T15:23:06.000Z",
+      "summary": "\"These are things that tend to be really hard.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-whatsapp-pay-surpasses-cred-in-upi-volumes-in-ju-b9ca2aacc0",
+      "title": "WhatsApp Pay surpasses CRED in UPI volumes in June",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/whatsapp-pay-surpasses-cred-in-upi-volumes-in-june",
+      "tag": "Technology",
+      "publishedAt": "2026-07-24T14:56:06.000Z",
+      "summary": "The shift in rankings coincided with a leadership change at CRED. During the month, founder Kunal Shah left the fintech company to become WhatsApp’s global CEO.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -43,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-i-visited-samsung-s-foldable-themed-pop-up-pub-a-e30ca851dd",
-      "title": "I visited Samsung's foldable-themed pop-up pub and its alcohol-free beers tasted terrible",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2222451/samsung-fold-inn-london-tour-opening-hours-foldables",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T14:00:00.000Z",
-      "summary": "Following its Unpacked launch event for the Galaxy Z Fold 8 series, Samsung briefly opened a theme pub in the middle of London.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-s-new-voice-mode-makes-it-to-the-chatgpt--369ad9f5d6",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T13:36:42.000Z",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-disabling-bitchat-in-india-explained-f9f91537f6",
       "title": "Disabling BitChat in India? | Explained",
       "source": "The Hindu Technology",
@@ -70,26 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-24T13:26:02.000Z",
       "summary": "The notice was issued close to midnight on July 23",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-best-window-air-conditioners-of-2026-midea-zafro-332caa0cb4",
-      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-window-air-conditioners",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T11:37:00.000Z",
-      "summary": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-robot-snakes-searched-for-venezuela-earthquake-s-2e5427123a",
-      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T11:20:43.000Z",
-      "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-where-will-indian-spacetech-s-best-returns-come--df5d1bb21c",
-      "title": "Where Will Indian Spacetech’s Best Returns Come From? Speciale Invest’s Vishesh Rajaram Answers",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/speciale-invest-vishesh-rajaram-indian-spacetech-returns",
+      "id": "tech-us-accuses-american-of-allegedly-wiping-his-phon-b4bda6de2b",
+      "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search",
       "tag": "Technology",
-      "publishedAt": "2026-07-24T14:23:08.000Z",
-      "summary": "Rockets grab headlines, but deeptech investor Vishesh Rajaram sees stronger risk-adjusted returns in downstream applications and satellite manufacturing.",
+      "publishedAt": "2026-07-24T17:53:30.000Z",
+      "summary": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-what-i-track-in-a-day-e32652576b",
-      "title": "What I track in a day",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/970056/optimizer-health-tracking-fitness-wearables-what-i-track-in-a-day",
-      "tag": "Running",
-      "publishedAt": "2026-07-24T14:00:00.000Z",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change...",
+      "id": "tech-anduril-reportedly-in-talks-to-raise-funding-at--32e74eef62",
+      "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark",
+      "tag": "Technology",
+      "publishedAt": "2026-07-24T17:33:19.000Z",
+      "summary": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
