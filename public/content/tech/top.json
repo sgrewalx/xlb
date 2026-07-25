@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-07-24T23:56:03.205Z",
+  "updatedAt": "2026-07-25T01:56:59.832Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-spacex-launches-new-v3-starlink-satellites-but-s-1d045aef6f",
-      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure",
+      "id": "tech-a-display-of-diversity-india-habitat-centre-host-dfe009c4be",
+      "title": "A display of diversity: India Habitat Centre hosts Kalabimb 2026 art exhibition",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/india-habitat-centre-art-exhibition-creativity-diversity-photography",
       "tag": "Technology",
-      "publishedAt": "2026-07-24T23:25:47.000Z",
-      "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+      "publishedAt": "2026-07-25T01:45:00.000Z",
+      "summary": "In this photo essay, we feature more highlights from the Kalabimb art exhibition in New Delhi.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spacex-launches-starship-on-another-test-flight--5649b1a089",
+      "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-starship-on-another-test-flight-this-time-with-the-most-advanced-starlinks/article71264817.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-25T01:23:16.000Z",
+      "summary": "XLB brief: a timely technology item from The Hindu Technology, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-now-09259b1a80",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002zn5l?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-25T01:00:00.000Z",
+      "summary": "Highlights from the Esports World Cup in Paris and how to build a gaming PC.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-i-tried-out-openai-s-new-ai-keypad-which-will-be-db4c4ca6e5",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else",
+      "tag": "Technology",
+      "publishedAt": "2026-07-25T00:23:11.000Z",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-warning-shot-or-publicity-stunt-how-worried-shou-1ab6a4421b",
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T23:11:13.000Z",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-one-of-nasa-s-most-important-deep-space-observat-b6a54fbdc2",
       "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
       "source": "Wired",
@@ -40,6 +60,16 @@
       "tag": "Technology",
       "publishedAt": "2026-07-24T22:30:26.000Z",
       "summary": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-wildfire-forces-evacuation-of-nasa-s-deep-space--ef1576d9d8",
+      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain",
+      "tag": "Technology",
+      "publishedAt": "2026-07-24T22:28:20.000Z",
+      "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-canadian-legislator-reads-out-apparent-llm-respo-732dbe570a",
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T21:25:15.000Z",
-      "summary": "\"Here’s a more natural, flowing version of that section...\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-whatsapp-pay-surpasses-cred-in-upi-volumes-in-ju-b9ca2aacc0",
-      "title": "WhatsApp Pay surpasses CRED in UPI volumes in June",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/whatsapp-pay-surpasses-cred-in-upi-volumes-in-june",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T14:56:06.000Z",
-      "summary": "The shift in rankings coincided with a leadership change at CRED. During the month, founder Kunal Shah left the fintech company to become WhatsApp’s global CEO.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-anthropic-expands-claude-voice-mode-with-opus-so-b8b23202e5",
       "title": "Anthropic Expands Claude Voice Mode With Opus, Sonnet AI Models",
       "source": "Gadgets 360",
@@ -80,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-24T14:24:29.000Z",
       "summary": "Claude's Voice Mode has received a major beta update that brings support for the Opus and Sonnet AI models alongside new connected services. Users can now access Gmail, Google C...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-disabling-bitchat-in-india-explained-f9f91537f6",
-      "title": "Disabling BitChat in India? | Explained",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/news/national/disabling-bitchat-in-india-explained/article71262179.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-07-24T13:26:02.000Z",
-      "summary": "The notice was issued close to midnight on July 23",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-s-13th-starship-flight-test-launches-with-251f709094",
-      "title": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2222979/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites",
+      "id": "tech-spacex-launches-new-v3-starlink-satellites-but-s-1d045aef6f",
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure",
       "tag": "Technology",
-      "publishedAt": "2026-07-24T22:54:01.000Z",
-      "summary": "Starship is carrying 20 V3 Starlink satellites as payload for its 13th test flight.",
+      "publishedAt": "2026-07-24T23:25:47.000Z",
+      "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-threatens-eu-with-new-tariffs-in-response--5a5f75b1a7",
-      "title": "Trump threatens EU with new tariffs in response to Google fine",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2222963/trump-threatens-eu-with-new-tariffs-in-response-to-google-fine",
+      "id": "tech-warning-shot-or-publicity-stunt-how-worried-shou-1ab6a4421b",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-24T22:35:37.000Z",
-      "summary": "The European Commission found Google's search ranking and anti-steering violated the Digital Markets Act.",
+      "publishedAt": "2026-07-24T23:11:13.000Z",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
