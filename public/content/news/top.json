@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-07-25T17:01:41.878Z",
+  "updatedAt": "2026-07-25T18:56:02.027Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-iran-war-live-updates-u-s-strikes-abate-even-as--3ef279f2d3",
-      "title": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
+      "id": "news-live-updates-hundreds-of-thousands-flee-as-fires-5b801eeed8",
+      "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
       "tag": "US",
-      "publishedAt": "2026-07-25T16:56:32.000Z",
-      "summary": "U.S. forces did not announce new overnight attacks on southern Iran for the first time in about two weeks, but tensions remained high as the Houthis and Saudi-led forces in Yeme...",
+      "publishedAt": "2026-07-25T18:36:20.000Z",
+      "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-amit-shah-directly-responsible-for-violence-agai-8505608729",
-      "title": "Amit Shah ‘directly responsible’ for violence against students, says Rahul Gandhi",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/students-are-indias-future-modi-is-past-past-can-never-fight-future-rahul-gandhi/article71265925.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-25T16:54:37.000Z",
-      "summary": "Claims Mr. Shah authorised use of lethal weapons on students; says PM should apologise; says Education Minister’s resignation is a “victory of our students”, but will not solve...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-more-than-250-000-flee-wildfires-in-france-and-s-6eec50f47a",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-07-25T16:43:10.000Z",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-iran-s-government-spars-with-state-tv-as-mediato-927ad7757f",
-      "title": "Iran’s government spars with state TV as mediators push talks with US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-25T16:39:16.000Z",
-      "summary": "Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-france-and-spain-race-to-control-wildfires-as-mo-82e8ea02df",
-      "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
+      "id": "news-scorching-us-heat-wave-to-hit-70-million-people--e38508c2ea",
+      "title": "Scorching US heat wave to hit 70 million people with third ‘heat dome’ in month",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
       "tag": "Europe",
-      "publishedAt": "2026-07-25T16:33:39.000Z",
-      "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first minister Tell us: have you been affected by wildfires in E...",
+      "publishedAt": "2026-07-25T18:34:53.000Z",
+      "summary": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwest About 70 million people in the US are set to face excessive heat...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ebola-deaths-in-drc-surge-past-1-300-as-virus-sp-a276a65d70",
+      "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-25T18:28:09.000Z",
+      "summary": "The outbreak is spreading at the fastest rate ever recorded and threatens to become the worst in history.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-no-barricades-or-warning-signs-6-year-old-drowns-cb14deeb5c",
+      "title": "No Barricades Or Warning Signs, 6-Year-Old Drowns In Pit In Greater Noida",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/no-barricades-or-warning-signs-6-year-old-drowns-in-pit-in-greater-noida-11822233",
+      "tag": "India",
+      "publishedAt": "2026-07-25T18:24:14.000Z",
+      "summary": "According to locals, the nearly 15-foot-deep pit had been dug by the Greater Noida Authority for boring work and was filled with rainwater.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-amarnath-yatra-resumes-via-batal-after-rain-forc-f941c543a8",
+      "title": "Amarnath yatra resumes via Batal after rain-forced halt",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/amarnath-yatra-resumes-via-batal-after-rain-forced-halt/articleshow/132631784.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-25T18:05:45.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-india-s-cockroach-protest-called-off-after-educa-2498ed52a7",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-25T17:44:46.000Z",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-west-asia-war-updates-iran-guards-say-stopped-fo-065a4072bd",
+      "title": "West Asia war updates: Iran Guards say stopped four ships trying to transit Hormuz strait",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-saudi-arabia-houthis-attack-gulf-states-strait-of-hormuz-live-updates-july-25-2026/article71265151.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-07-25T17:17:24.000Z",
+      "summary": "U.S. President Trump describes negotiations with Iran as “by far the most serious that we’ve seen”",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -63,33 +83,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-will-take-legal-action-cjp-firm-on-punishing-cop-47a0f52e0f",
-      "title": "'Will take legal action': CJP firm on punishing cops who used excessive force",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/will-take-legal-action-cjp-firm-on-punishing-cops-who-used-excessive-force/articleshow/132629974.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-25T16:24:05.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-cockroach-to-people-s-movement-how-the-student-p-85d322b9a6",
-      "title": "'Cockroach' To People's Movement: How The Student Protest Outgrew Founders",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/cockroach-to-peoples-movement-how-the-student-protest-outgrew-founders-11821825",
-      "tag": "India",
-      "publishedAt": "2026-07-25T15:43:01.000Z",
-      "summary": "It ended where, in many ways, it had begun. Moments after Union Education Minister Dharmendra Pradhan resigned on Saturday, Abhijeet Dipke, founder of the Cockroach Janata Party...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-s-cockroach-movement-ousts-minister-but-ca-3df980cccf",
       "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
       "source": "NPR",
       "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
       "tag": "US",
       "publishedAt": "2026-07-25T14:48:22.000Z",
-      "summary": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office",
+      "summary": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-dharmendra-pradhan-tenders-resignation-as-union--dd8a89c6a3",
-      "title": "Dharmendra Pradhan tenders resignation as Union Education Minister; CJP calls off protests",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/dharmendra-pradhan-quit-resign-as-union-education-minister-jantar-mantar-protest-july-25-2026/article71265711.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-25T16:53:51.000Z",
-      "summary": "Protesters erupt in joy; President appoints Pralhad Joshi as new Education Minister; govt. promises compensation to kin of NEET aspirants who died by suicide and withdrawal of F...",
+      "id": "news-conditions-for-european-wildfires-created-by-sum-88fbe1af37",
+      "title": "Conditions for European Wildfires Created by Summer of Extremes",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
+      "tag": "US",
+      "publishedAt": "2026-07-25T18:29:10.000Z",
+      "summary": "The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-watch-cjp-protest-mumbai-s-young-voices-on-accou-4f86c84ad8",
-      "title": "Watch: CJP Protest: Mumbai’s young voices on accountability and change| Pulse Maharashtra",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/videos/watch-cjp-protest-mumbais-young-voices-on-accountability-and-change-pulse-maharashtra/article71267282.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-25T16:53:12.000Z",
-      "summary": "A ground report from Mumbai exploring how Gen Z views the CJP agitation, the issues that brought young people into the movement, and their expectations around accountability, re...",
+      "id": "news-iran-war-live-updates-u-s-strikes-abate-even-as--cfef014d01",
+      "title": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+      "tag": "US",
+      "publishedAt": "2026-07-25T18:28:42.000Z",
+      "summary": "U.S. forces did not announce new overnight attacks on southern Iran for the first time in about two weeks, but tensions remained high as the Houthis and Saudi-led forces in Yeme...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
