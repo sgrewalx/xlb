@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-07-26T13:06:36.760Z",
+  "updatedAt": "2026-07-26T14:57:21.721Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-water-supply-issue-affects-gatwick-airport-f1d3906778",
-      "title": "Water supply issue affects Gatwick Airport",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-26T13:02:55.000Z",
-      "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-nims-hyderabad-reduces-deep-brain-stimulation-su-3e8c60dd00",
-      "title": "NIMS Hyderabad reduces deep brain stimulation surgery time with new technique",
+      "id": "news-pradhan-had-offered-to-quit-at-start-of-protest--653fbf50aa",
+      "title": "Pradhan had offered to quit at start of protest, was asked to wait, claims Vijayvargiya",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/nims-hyderabad-reduces-deep-brain-stimulation-surgery-time-with-new-technique/article71268937.ece",
+      "url": "https://www.thehindu.com/news/national/pradhan-offered-to-quit-on-first-day-of-student-agitation-bjp-leader-vijayvargiya/article71268701.ece",
       "tag": "India",
-      "publishedAt": "2026-07-26T13:02:34.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-26T14:51:13.000Z",
+      "summary": "Says Dharmendra Pradhan’s resignation foiled plans of foreign forces that wanted to create unrest in India",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-firefighters-in-france-battle-to-prevent-huge-bl-c530d51beb",
-      "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
+      "id": "news-romania-summons-russia-s-ambassador-after-downin-28b51da6dd",
+      "title": "Romania summons Russia’s ambassador after downing third drone since Friday",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+      "url": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
       "tag": "Europe",
-      "publishedAt": "2026-07-26T12:56:30.000Z",
-      "summary": "Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditions Europe wildfires live – latest updates Authorities are battling...",
+      "publishedAt": "2026-07-26T14:44:25.000Z",
+      "summary": "F-16 fighter jet intercepted drone in Romanian airspace over Black Sea, defence minister says Romania has said it was summoning Russia’s ambassador after the Nato member’s milit...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-live-updates-extreme-heat-and-strong-winds-fuel--52ef683d04",
+      "id": "news-pm-modi-names-nandan-nilekani-to-lead-overhaul-o-e1c60264cc",
+      "title": "PM Modi names Nandan Nilekani to lead overhaul of India’s exam system",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-names-nandan-nilekani-to-lead-overhaul-of-indias-exam-system/articleshow/132642919.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-26T14:38:54.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-live-updates-extreme-heat-and-strong-winds-fuel--0b3df7eb48",
       "title": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
       "tag": "US",
-      "publishedAt": "2026-07-26T12:53:09.000Z",
+      "publishedAt": "2026-07-26T14:38:26.000Z",
       "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe cou...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-gatwick-airport-left-without-running-water-after-09b3ea9751",
+      "title": "Gatwick Airport left without running water after major outage",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "tag": "Running",
+      "publishedAt": "2026-07-26T14:22:26.000Z",
+      "summary": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-senegal-s-faye-launches-a-new-party-formalising--37a2ece982",
+      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-26T14:22:03.000Z",
+      "summary": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-a-room-that-still-waits-for-him-kargil-hero-s-mo-37000a1579",
+      "title": "A Room That Still Waits For Him: Kargil Hero's Mother Creates Shrine At Home",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/a-room-that-still-waits-for-him-kargil-heros-mother-creates-shrine-at-home-11824763",
+      "tag": "India",
+      "publishedAt": "2026-07-26T14:16:52.000Z",
+      "summary": "Grenadier Udeyman Singh, 18, was from Shamachak, Jammu. He was killed in action on Tiger Hill.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-pm-modi-announces-exam-reform-task-force-nandan--3f68d776b9",
+      "title": "PM Modi announces exam reform task force, Nandan Nilekani to lead",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/narendra-modi-exam-task-force-nandan-nilekani-cjp-protest-dharmendra-pradhan-10804628",
+      "tag": "India",
+      "publishedAt": "2026-07-26T13:56:32.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,36 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-govt-ordered-probe-an-eyewash-tripura-congress-m-79516beed0",
-      "title": "'Govt-ordered probe an eyewash': Tripura Congress MLA demands judicial inquiry into DGP Anurag Dhankar's death",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/govt-ordered-probe-an-eyewash-tripura-congress-mla-demands-judicial-inquiry-into-dgp-anurag-dhankars-death/articleshow/132641186.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-26T12:39:46.000Z",
-      "summary": "Tripura Congress MLA Sudip Roy Barman reiterated the party's demand for a judicial probe. He cited unnatural circumstances surrounding the death of state DGP Anurag Dhankar. The...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-cat-2026-eligibility-criteria-explained-registra-27fcaaa7c6",
-      "title": "CAT 2026 Eligibility Criteria Explained: Registration Starts On August 3",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/education/cat-2026-eligibility-criteria-explained-registration-starts-on-august-3-11824478",
-      "tag": "India",
-      "publishedAt": "2026-07-26T12:36:58.000Z",
-      "summary": "Candidates appearing for the final year of Bachelor's degree and those who are awaiting results can also apply.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-president-ahmed-al-sharaa-syria-seeking-security-d4d0d74d40",
-      "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-26T12:34:13.000Z",
-      "summary": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-a-national-sovereign-software-backbone-290a63da87",
       "title": "A national sovereign software backbone",
       "source": "Hindustan Times",
@@ -93,33 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-angamaly-sabarimala-rail-line-kerala-begins-land-4d23bb86cf",
-      "title": "Angamaly-Sabarimala rail line: Kerala begins land acquisition, Railways allocates Rs 505 crore",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/angamaly-sabarimala-railway-line-project-kerala-land-acquisition-rs-505-crore-allocation-10804444",
+      "id": "news-bjp-forced-pradhan-to-resign-as-gen-z-targeted-m-d6cc9ff691",
+      "title": "BJP forced Pradhan to resign as Gen Z targeted Modi’s resignation: Revanth",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana/bjp-forced-pradhan-to-resign-as-gen-z-targeted-modis-resignation-revanth/article71269720.ece",
       "tag": "India",
-      "publishedAt": "2026-07-26T11:11:26.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-26T14:50:05.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-modi-must-answer-for-deaths-of-90-students-linke-246c964878",
-      "title": "Modi must answer for deaths of 90 students linked to exam scandals, says Kerala Minister O.J. Janeesh",
+      "id": "news-hyderabad-police-warn-of-cyber-fraud-in-name-of--887ad9fbc3",
+      "title": "Hyderabad Police warn of cyber fraud in name of Indiramma housing scheme",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/modi-must-answer-for-deaths-of-90-students-linked-to-exam-scandals-says-kerala-minister-oj-janeesh/article71269260.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-police-warn-of-cyber-fraud-in-name-of-indiramma-housing-scheme/article71269615.ece",
       "tag": "India",
-      "publishedAt": "2026-07-26T13:02:09.000Z",
-      "summary": "He says the country witnessed question paper leaks on five different occasions, and Dharmendra Pradhan should have accepted moral responsibility and resigned immediately after t...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-kerala-high-court-judges-inspect-thrissur-mental-28fbef99b3",
-      "title": "Kerala High Court judges inspect Thrissur mental health centre, reviews facilities",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-judges-inspect-thrissur-mental-health-centre-reviews-facilities/article71269300.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-26T13:01:08.000Z",
-      "summary": "Officials say the inspection was part of the court’s broader exercise of visiting government mental health institutions across the State in connection with cases dealing with th...",
+      "publishedAt": "2026-07-26T14:47:00.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
