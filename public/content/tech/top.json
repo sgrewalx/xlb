@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-26T15:54:52.670Z",
+  "updatedAt": "2026-07-26T16:47:28.439Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-hugging-face-ceo-calls-for-radical-transparency--80ca92d432",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+      "tag": "Technology",
+      "publishedAt": "2026-07-26T16:33:13.000Z",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-why-do-phones-still-use-battery-when-powered-off-749f3e5809",
+      "title": "Why do phones still use battery when powered off?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2219830/phone-battery-powered-off-explained",
+      "tag": "Technology",
+      "publishedAt": "2026-07-26T16:30:00.000Z",
+      "summary": "Your battery is continually losing charge.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-carrie-is-just-trying-to-make-a-friend-in-the-ne-5852432112",
       "title": "Carrie is just trying to make a friend in the new trailer",
@@ -10,16 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-26T15:33:27.000Z",
       "summary": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Co...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-android-auto-has-a-developer-menu-you-can-access-367f1ace3a",
-      "title": "Android Auto has a developer menu you can access in seconds",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2218723/android-auto-hidden-menu",
-      "tag": "Technology",
-      "publishedAt": "2026-07-26T15:30:00.000Z",
-      "summary": "If you want to tweak your Android Auto settings, the software has a developer menu you can check out.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-26T02:15:00.000Z",
       "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 242nd quiz. Ready?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-monday-com-is-the-latest-tech-company-to-blame-a-15fabc22fd",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
-      "tag": "Running",
-      "publishedAt": "2026-07-26T01:30:00.000Z",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-you-can-get-three-months-of-xbox-game-pass-ultim-facb1712a6",
-      "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+      "id": "tech-techcrunch-mobility-uber-bets-on-its-former-ceo-9af5bbcf8d",
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo",
       "tag": "Technology",
-      "publishedAt": "2026-07-26T15:00:00.000Z",
-      "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can...",
+      "publishedAt": "2026-07-26T16:03:00.000Z",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-marvel-announces-ryan-gosling-as-ghost-rider-a-n-f939be29e3",
-      "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+      "id": "tech-android-auto-has-a-developer-menu-you-can-access-367f1ace3a",
+      "title": "Android Auto has a developer menu you can access in seconds",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2218723/android-auto-hidden-menu",
       "tag": "Technology",
-      "publishedAt": "2026-07-26T14:51:33.000Z",
-      "summary": "While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosl...",
+      "publishedAt": "2026-07-26T15:30:00.000Z",
+      "summary": "If you want to tweak your Android Auto settings, the software has a developer menu you can check out.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
