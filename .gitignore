@@ -11,3 +11,7 @@ data/analytics/*.csv
 xlb.md
 quotes_dump.txt
 xlb.txt
+z_artifacts/
+.env
+.env.*
+!.env.example
