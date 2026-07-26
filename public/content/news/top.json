@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-07-26T18:59:25.673Z",
+  "updatedAt": "2026-07-26T20:10:58.641Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-berlin-pride-attack-what-we-know-about-the-suspe-465208bd6c",
-      "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
-      "tag": "US",
-      "publishedAt": "2026-07-26T18:56:54.000Z",
-      "summary": "German authorities said the main suspect in the crime, which they called a likely act of terrorism, had been killed in a police raid on Sunday evening.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-a-gamble-on-the-cauvery-issue-ff223b83b9",
-      "title": "A gamble on the Cauvery issue",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/opinion/op-ed/a-gamble-on-the-cauvery-issue/article71270322.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-26T18:52:33.000Z",
-      "summary": "CM Vijay aims to hold direct talks with Karnataka for water-sharing",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-water-returning-to-gatwick-airport-after-major-o-785cdc6a30",
-      "title": "Water returning to Gatwick Airport after major outage",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-26T18:50:47.000Z",
-      "summary": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-injured-tigress-found-in-pilibhit-tiger-reserve--aa7625e034",
-      "title": "Injured Tigress Found In Pilibhit Tiger Reserve Dies During Treatment",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/injured-tigress-found-in-pilibhit-tiger-reserve-dies-during-treatment-11825517",
-      "tag": "India",
-      "publishedAt": "2026-07-26T18:43:07.000Z",
-      "summary": "While the exact cause of death will be ascertained once the autopsy report is received, preliminary assessment suggest that she may have sustained injuries during a territorial...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-romania-summons-russian-envoy-as-it-shoots-down--cd4c43b643",
-      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "id": "news-not-standard-for-taylor-farms-to-ask-white-house-cf5502b529",
+      "title": "‘Not standard’ for Taylor Farms to ask White House to delay cyclospora recall, ex-FDA head says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
       "tag": "Europe",
-      "publishedAt": "2026-07-26T18:17:22.000Z",
-      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
+      "publishedAt": "2026-07-26T20:01:42.000Z",
+      "summary": "Scott Gottlieb responds to report that company contacted the White House seeking to delay a recall announcement Former Food and Drug Administration commissioner Dr Scott Gottlie...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-cjp-s-win-fuels-call-by-e20-janta-party-for-no-e-2294415a14",
+      "title": "CJP’s win fuels call by ‘E20 Janta Party’ for no-ethanol option",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/cjps-win-fuels-call-by-e20-janta-party-for-no-ethanol-option/articleshow/132647638.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-26T20:01:01.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-finding-land-biggest-challenge-for-kozhikode-cor-356cd61358",
+      "title": "Finding land biggest challenge for Kozhikode Corporation’s stray dog shelter project",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/finding-land-biggest-challenge-for-kozhikode-corporations-stray-dog-shelter-project/article71269623.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-26T19:56:23.000Z",
+      "summary": "The project envisages small shelters at multiple locations, but animal welfare bodies caution that land availability and local opposition could hamper implementation",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-live-updates-extreme-heat-and-strong-winds-fuel--5069c0e206",
+      "title": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
+      "tag": "US",
+      "publishedAt": "2026-07-26T19:48:56.000Z",
+      "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe cou...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-what-lies-ahead-for-iran-s-economy-as-scope-of-u-736dc89f4b",
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-26T19:31:58.000Z",
+      "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-berlin-pride-attack-suspect-shot-and-killed-duri-cc7dd8981b",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-26T19:21:26.000Z",
+      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-doesn-t-add-to-offending-driver-s-negligence-cou-ebae21032a",
+      "title": "Doesn't Add To Offending Driver's Negligence: Court On Sleeping On Pavement",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/doesnt-add-to-offending-drivers-negligence-court-on-sleeping-on-pavement-11825530",
+      "tag": "India",
+      "publishedAt": "2026-07-26T18:55:10.000Z",
+      "summary": "The judge said a pedestrian using a pavement for walking, standing, or resting owing to compelling circumstances cannot be expected to anticipate that a motor vehicle would be d...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-border-czar-says-ice-officer-in-maine-kill-b3d29e7f56",
-      "title": "Trump ‘border czar’ says ICE officer in Maine killing should not have cleared vetting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/trump-border-czar-ice-officer-maine-killing-vetting",
-      "tag": "Europe",
-      "publishedAt": "2026-07-26T18:02:23.000Z",
-      "summary": "Tom Homan comments on officer’s eligibility to serve after reports that agent’s two ex-wives had accused him of abuse Tom Homan, the Trump administration “border czar”, on Sunda...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-opposition-to-take-on-government-in-parliament-o-b765772b10",
-      "title": "Opposition to take on government in Parliament over police action against protesting student",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/opposition-to-take-on-government-in-parliament-over-police-action-against-protesting-student/articleshow/132646022.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-26T17:59:43.000Z",
-      "summary": "Opposition parties will strongly raise police action against protesting students in Parliament. Rahul Gandhi demanded accountability from Home Minister Amit Shah regarding the i...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-a-national-sovereign-software-backbone-290a63da87",
       "title": "A national sovereign software backbone",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-two-traffic-police-personnel-caught-on-camera-ac-24ec2e20cb",
-      "title": "Two traffic police personnel caught on camera accepting bribes",
+      "id": "news-railway-revises-redevelopment-deadlines-for-ers--d0f460205d",
+      "title": "Railway revises redevelopment deadlines for ERS, ERN stations",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/two-traffic-police-personnel-accepting-bribes-caught-on-camera/article71269352.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/railway-revises-redevelopment-deadlines-for-ers-ern-stations/article71270023.ece",
       "tag": "India",
-      "publishedAt": "2026-07-26T18:50:31.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-26T19:36:30.000Z",
+      "summary": "Projects have been pushed to 2028 after the Railway terminated contracts over missed timelines and initiated fresh tenders; passenger groups press for better amenities during th...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-state-s-small-airports-see-drop-in-aai-customer--facbe556bc",
-      "title": "State’s small airports see drop in AAI customer satisfaction index survey",
+      "id": "news-five-member-expert-team-inspects-proposed-sewage-faccabd238",
+      "title": "Five-member expert team inspects proposed sewage treatment plant sites",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/states-small-airports-see-drop-in-aai-customer-satisfaction-index-survey/article71269298.ece",
+      "url": "https://www.thehindu.com/news/cities/Kochi/five-member-expert-committee-visits-stp-sites/article71269114.ece",
       "tag": "India",
-      "publishedAt": "2026-07-26T18:46:53.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-26T19:34:39.000Z",
+      "summary": "The five-member team also visited some of the polluted canals and localities in the city that lacked proper sewage management systems",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
