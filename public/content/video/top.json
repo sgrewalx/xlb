@@ -1,7 +1,601 @@
 {
-  "updatedAt": "2026-07-26T13:24:42.285Z",
+  "updatedAt": "2026-07-26T15:06:02.817Z",
   "section": "Expanded Video",
   "items": [
+    {
+      "id": "video-exclusive-laura-loomer-explains-her-shift-on-the-eb1a2ff07e",
+      "title": "Exclusive: Laura Loomer explains her shift on the Russia-Ukraine war",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/watch?v=1t0RMy1kXM8",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:55:43.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/1t0RMy1kXM8?rel=0"
+    },
+    {
+      "id": "video-sea-drones-to-defend-the-sky-in-ukraine-as-the-w-ff7eabfbd4",
+      "title": "Sea drones to defend the sky in Ukraine as the war continues • FRANCE 24 English",
+      "source": "YouTube - France 24",
+      "url": "https://www.youtube.com/watch?v=9O6Yiozh04M",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:51:49.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/9O6Yiozh04M?rel=0"
+    },
+    {
+      "id": "video-kargil-vijay-diwas-2026-from-operation-vijay-to--502c2ae5a2",
+      "title": "Kargil Vijay Diwas 2026: From Operation Vijay to Op Sindoor | How India's Military Became Stronger",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=m187YUKPDx0",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:50:10.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/m187YUKPDx0?rel=0"
+    },
+    {
+      "id": "video-big-announcement-from-marvel-at-san-diego-comic--c2835c99fb",
+      "title": "Big announcement from Marvel at San Diego Comic-Con",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/watch?v=JAYbqPCIiqs",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:49:51.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/JAYbqPCIiqs?rel=0"
+    },
+    {
+      "id": "video-berlin-pride-attack-leaves-one-dead-as-police-hu-8cc4eb55cb",
+      "title": "Berlin Pride attack leaves one dead as police hunt suspect",
+      "source": "YouTube - Sky News",
+      "url": "https://www.youtube.com/watch?v=mHEJDBC8Ag8",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:47:38.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/mHEJDBC8Ag8?rel=0"
+    },
+    {
+      "id": "video-us-iran-war-live-deadly-airstrikes-hit-iran-s-la-3f2a8f9760",
+      "title": "US-Iran War LIVE: Deadly Airstrikes Hit Iran's Largest Nuclear Power Plant, Middle East On Alert",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=Y5cyFKKwxek",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:46:01.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/Y5cyFKKwxek?rel=0"
+    },
+    {
+      "id": "video-netanyahu-set-to-meet-with-trump-amid-war-in-ira-e2bc6c2d54",
+      "title": "Netanyahu set to meet with Trump amid war in Iran",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/watch?v=DXvUsUOnYOo",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:43:18.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/DXvUsUOnYOo?rel=0"
+    },
+    {
+      "id": "video-kornacki-on-trump-s-approval-rating-100-days-bef-51a3bf59be",
+      "title": "Kornacki on Trump’s approval rating 100 days before midterms",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/shorts/Wyz6EdmKT50",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:40:00.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/Wyz6EdmKT50?rel=0"
+    },
+    {
+      "id": "video-german-chancellor-gives-statement-on-berlin-van--46c8f46948",
+      "title": "German Chancellor gives statement on Berlin van attack",
+      "source": "YouTube - Sky News",
+      "url": "https://www.youtube.com/watch?v=dSUJFV96GOg",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:37:40.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/dSUJFV96GOg?rel=0"
+    },
+    {
+      "id": "video-flavio-bolsonaro-launches-brazil-presidential-ca-a711fe919b",
+      "title": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei • FRANCE 24",
+      "source": "YouTube - France 24",
+      "url": "https://www.youtube.com/watch?v=iyo87iNHKPA",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:35:19.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/iyo87iNHKPA?rel=0"
+    },
+    {
+      "id": "video-trump-speech-live-trump-addresses-iran-us-war-in-c228d24011",
+      "title": "Trump Speech LIVE: Trump Addresses Iran-US War In Major Statement | Trump On Iran | Breaking News",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=oErTfBo52D0",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:35:12.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/oErTfBo52D0?rel=0"
+    },
+    {
+      "id": "video-bali-viral-run-club-accused-of-excluding-indones-dd49394e8b",
+      "title": "Bali viral run club accused of excluding Indonesians",
+      "source": "YouTube - CNN",
+      "url": "https://www.youtube.com/shorts/SjYTITqdEDM",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:34:36.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/SjYTITqdEDM?rel=0"
+    },
+    {
+      "id": "video-berlin-csd-attack-investigation-update-0f85b62633",
+      "title": "Berlin CSD Attack: Investigation Update",
+      "source": "YouTube - DW News",
+      "url": "https://www.youtube.com/watch?v=ePVjRmvHjXM",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:34:32.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/ePVjRmvHjXM?rel=0"
+    },
+    {
+      "id": "video-neet-row-uddhav-raj-thackeray-greet-supporters-i-3c2cab141a",
+      "title": "NEET Row: Uddhav & Raj Thackeray Greet Supporters in Dadar Victory March | WION News",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=L_H2DIVfBpg",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:33:57.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/L_H2DIVfBpg?rel=0"
+    },
+    {
+      "id": "video-sen-van-hollen-on-u-s-deal-with-saudi-arabia-04591d9204",
+      "title": "Sen. Van Hollen on U.S. deal with Saudi Arabia",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/shorts/E7GdZ88Itls",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:31:11.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/E7GdZ88Itls?rel=0"
+    },
+    {
+      "id": "video-beloved-baby-monkey-punch-marks-first-birthday-c-d655b0c28e",
+      "title": "Beloved baby monkey Punch marks FIRST birthday celebration #foxnews #news #shorts #animals",
+      "source": "YouTube - Fox News",
+      "url": "https://www.youtube.com/shorts/2S9tIyjm6Ek",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:30:20.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/2S9tIyjm6Ek?rel=0"
+    },
+    {
+      "id": "video-pm-modi-s-new-plan-to-curb-paper-leaks-nandan-ni-d8d24eab2d",
+      "title": "PM Modi's New Plan To Curb Paper Leaks: Nandan Nilekani-Led Exam Panel | All You Need To Know",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=gvloGi3M1hY",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:30:20.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/gvloGi3M1hY?rel=0"
+    },
+    {
+      "id": "video-us-is-locked-and-loaded-mike-walz-warns-085bcdd81b",
+      "title": "US is 'LOCKED AND LOADED,' Mike Walz warns",
+      "source": "YouTube - Fox News",
+      "url": "https://www.youtube.com/watch?v=rjIAtOjcnmQ",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:30:12.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/rjIAtOjcnmQ?rel=0"
+    },
+    {
+      "id": "video-sky-reporter-and-firefighters-surrounded-by-flam-c40a3ae9d6",
+      "title": "Sky reporter and firefighters surrounded by flames as wildfires spread across France",
+      "source": "YouTube - Sky News",
+      "url": "https://www.youtube.com/watch?v=uOEbUwD9Lgo",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:29:59.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/uOEbUwD9Lgo?rel=0"
+    },
+    {
+      "id": "video-sen-van-hollen-calls-for-end-to-war-in-iran-8af4c8399e",
+      "title": "Sen. Van Hollen calls for end to war in Iran",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/shorts/3WEtb2hTvk8",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:27:21.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/3WEtb2hTvk8?rel=0"
+    },
+    {
+      "id": "video-attacks-in-critical-waterways-threaten-global-ec-d6abe9d527",
+      "title": "Attacks in critical waterways threaten global economy",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/shorts/9BjbqrXAs1s",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:26:07.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/9BjbqrXAs1s?rel=0"
+    },
+    {
+      "id": "video-europe-battles-deadly-wildfires-300-000-evacuate-94f13c7b7c",
+      "title": "Europe Battles Deadly Wildfires | 300,000 Evacuated Across Spain and France | Emergency Declared",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=SmEHwZddpTk",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:25:24.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/SmEHwZddpTk?rel=0"
+    },
+    {
+      "id": "video-good-morning-america-news-to-start-your-day-july-5134723ad3",
+      "title": "Good Morning America: News to start your day | July 26",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/watch?v=D9TsuaAD_jE",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:25:12.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/D9TsuaAD_jE?rel=0"
+    },
+    {
+      "id": "video-family-of-corey-ruiz-demanding-justice-following-7d136546b8",
+      "title": "Family of Corey Ruiz demanding justice following police shooting",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/watch?v=uYJTMLfR7uc",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:22:54.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/uYJTMLfR7uc?rel=0"
+    },
+    {
+      "id": "video-football-wafcon-kicks-off-in-morocco-with-record-3305a02ce9",
+      "title": "Football: WAFCON kicks off in Morocco with record 16-nation line-up • FRANCE 24 English",
+      "source": "YouTube - France 24",
+      "url": "https://www.youtube.com/watch?v=9lfRiPJsQAI",
+      "tag": "Football",
+      "publishedAt": "2026-07-26T14:21:40.000Z",
+      "summary": "XLB brief: a timely football item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/9lfRiPJsQAI?rel=0"
+    },
+    {
+      "id": "video-vehicle-drives-into-crowd-during-lgbtq-parade-in-632671bd7c",
+      "title": "Vehicle drives into crowd during LGBTQ+ parade in Germany",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/watch?v=R5CK1oNhcwk",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:19:55.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/R5CK1oNhcwk?rel=0"
+    },
+    {
+      "id": "video-french-farmers-provide-water-tankers-to-help-fig-f87d13075a",
+      "title": "French farmers provide water tankers to help fight fire • FRANCE 24 English",
+      "source": "YouTube - France 24",
+      "url": "https://www.youtube.com/watch?v=MQdgQa7xBbI",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:18:27.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/MQdgQa7xBbI?rel=0"
+    },
+    {
+      "id": "video-how-to-eat-and-drink-to-minimize-jet-lag-3bc36e6a0b",
+      "title": "How to eat and drink to minimize jet lag",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/shorts/44G8OCALCsc",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:15:11.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/44G8OCALCsc?rel=0"
+    },
+    {
+      "id": "video-today-co-host-opens-up-about-husband-s-battle-wi-6bd6180070",
+      "title": "TODAY co-host opens up about husband’s battle with cancer: 'He encouraged me to keep writing’",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=BOobQo-xlFI",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:14:09.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/BOobQo-xlFI?rel=0"
+    },
+    {
+      "id": "video-kargil-vijay-diwas-2026-27-years-of-courage-sacr-0f5bcaef01",
+      "title": "Kargil Vijay Diwas 2026: 27 Years of Courage, Sacrifice & India’s New Defence Era | WION Originals",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=DwTaNP4sUCI",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:12:30.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/DwTaNP4sUCI?rel=0"
+    },
+    {
+      "id": "video-watch-priyanka-gandhi-pays-tribute-to-rescue-dog-c5a01cefaa",
+      "title": "WATCH: Priyanka Gandhi Pays Tribute To Rescue Dogs Of Wayanad Tragedy | #shorts",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/shorts/8DEcVHtPj-s",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:10:33.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/8DEcVHtPj-s?rel=0"
+    },
+    {
+      "id": "video-mark-kelly-questions-not-reasonable-military-fun-0e905ab90e",
+      "title": "Mark Kelly questions ‘not reasonable’ military funding requests for war with Iran: Full interview",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=BO5Kai5VHVc",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:06:09.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/BO5Kai5VHVc?rel=0"
+    },
+    {
+      "id": "video-mark-kelly-democrats-can-win-in-maine-with-troy--9250c3f358",
+      "title": "Mark Kelly: Democrats can ‘win in Maine’ with Troy Jackson, Platner ‘wasn’t vetted well enough’",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=oKS1GEOoJUM",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:02:30.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/oKS1GEOoJUM?rel=0"
+    },
+    {
+      "id": "video-spanish-civil-guard-rescue-and-give-water-to-ani-6ad587012d",
+      "title": "Spanish Civil Guard rescue and give water to animals during wildfires",
+      "source": "YouTube - AP",
+      "url": "https://www.youtube.com/watch?v=bvGMxpLTZBU",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:00:11.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/bvGMxpLTZBU?rel=0"
+    },
+    {
+      "id": "video-pm-modi-announces-high-powered-task-force-on-exa-349d15d837",
+      "title": "PM Modi Announces High-Powered Task Force On Exam Reforms Led By Nandan Nilekani #shorts",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/shorts/e_zz__hCgT4",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T14:00:02.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/e_zz__hCgT4?rel=0"
+    },
+    {
+      "id": "video-pm-modi-shares-fresh-reel-announces-high-powered-f59d78e745",
+      "title": "PM Modi Shares Fresh Reel, Announces High-Powered Task Force On Exam Reforms Led By Nandan Nilekani",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=roYYAXLXAwQ",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:52:28.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/roYYAXLXAwQ?rel=0"
+    },
+    {
+      "id": "video-romania-shoots-down-russian-drone-after-airspace-f89369e758",
+      "title": "Romania Shoots Down Russian Drone After Airspace Breach | NATO on High Alert | Russia-Ukraine",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=jotV78vuDRE",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:50:26.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/jotV78vuDRE?rel=0"
+    },
+    {
+      "id": "video-could-robots-replace-humans-picking-strawberries-93e7de49d4",
+      "title": "Could robots replace humans picking strawberries?",
+      "source": "YouTube - Sky News",
+      "url": "https://www.youtube.com/shorts/zfdRNXy8K4s",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:48:20.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/zfdRNXy8K4s?rel=0"
+    },
+    {
+      "id": "video-the-dink-brings-pickleball-to-the-big-screen-wio-cd43797567",
+      "title": "'The Dink' Brings Pickleball To the Big Screen | WION News",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=tfPv0KftX_s",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:47:30.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/tfPv0KftX_s?rel=0"
+    },
+    {
+      "id": "video-berlin-police-do-not-rule-out-more-attacks-as-ma-8e0de68d81",
+      "title": "Berlin police 'do not rule out more attacks' as manhunt for terror suspect continues | Full coverage",
+      "source": "YouTube - Sky News",
+      "url": "https://www.youtube.com/watch?v=QNR94GK-JQI",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:45:31.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/QNR94GK-JQI?rel=0"
+    },
+    {
+      "id": "video-manhunt-underway-for-alleged-berlin-pride-attack-1c12c4a273",
+      "title": "MANHUNT underway for alleged Berlin Pride attacker #shorts #us #news #foxnews",
+      "source": "YouTube - Fox News",
+      "url": "https://www.youtube.com/shorts/0_VF1POzIKs",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:45:25.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/0_VF1POzIKs?rel=0"
+    },
+    {
+      "id": "video-himanta-biswa-sarma-defends-keshab-mahanta-after-760601f802",
+      "title": "Himanta Biswa Sarma Defends Keshab Mahanta After Daughter Joins CJP Protest",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=rfV6RMmEyDI",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:44:03.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/rfV6RMmEyDI?rel=0"
+    },
+    {
+      "id": "video-marco-rubio-live-rubio-issues-stark-warning-to-i-baafcaf6ef",
+      "title": "Marco Rubio LIVE: Rubio Issues Stark Warning To Iran | Marco Rubio's Major Announcement LIVE",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=RgSHgtaI8pI",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:43:18.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/RgSHgtaI8pI?rel=0"
+    },
+    {
+      "id": "video-iran-halts-retaliatory-strikes-israel-lebanon-te-22768d4f57",
+      "title": "Iran Halts Retaliatory Strikes | Israel-Lebanon Tensions Escalate | Russia-Ukraine War | China Flood",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=OKvV_KdFOl4",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:39:34.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/OKvV_KdFOl4?rel=0"
+    },
+    {
+      "id": "video-west-asia-on-edge-iran-war-sparks-fears-of-nucle-648382febd",
+      "title": "West Asia on Edge | Iran War Sparks Fears of Nuclear Arms Race as Saudi Arabia and Turkey Rearm",
+      "source": "YouTube - WION",
+      "url": "https://www.youtube.com/watch?v=ZUUsgoeu4TY",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:38:39.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/ZUUsgoeu4TY?rel=0"
+    },
+    {
+      "id": "video-war-in-iran-enters-sixth-month-fc211b4c4c",
+      "title": "War in Iran enters sixth month",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/shorts/ens8UscqFqs",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:38:00.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/ens8UscqFqs?rel=0"
+    },
+    {
+      "id": "video-amb-mike-waltz-says-military-has-everything-that-1d6a3aceb5",
+      "title": "Amb. Mike Waltz says military has ‘everything that it needs’ amid supply concerns: Full interview",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=eBKhTm70ztc",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:37:47.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/eBKhTm70ztc?rel=0"
+    },
+    {
+      "id": "video-ben-sasse-america-needs-this-to-survive-94f65d1cec",
+      "title": "Ben Sasse: America needs this to survive",
+      "source": "YouTube - CNN",
+      "url": "https://www.youtube.com/shorts/XUTyOhkt0t0",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:32:37.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/XUTyOhkt0t0?rel=0"
+    },
+    {
+      "id": "video-trump-iran-war-live-white-house-warns-iran-no-to-d1c9cd547d",
+      "title": "TRUMP IRAN WAR LIVE | White House Warns Iran: No Tolls On Strait Of Hormuz Or Face Total Strike",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=TluQp73_48Y",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:32:33.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/TluQp73_48Y?rel=0"
+    },
+    {
+      "id": "video-amb-mike-waltz-signed-u-s-saudi-nuclear-deal-won-5a46eb687a",
+      "title": "Amb. Mike Waltz: Signed U.S.-Saudi nuclear deal won’t be ‘implemented’ without Trump’s latest terms",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=HLrnPPsJ3XM",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:30:21.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/HLrnPPsJ3XM?rel=0"
+    },
+    {
+      "id": "video-west-bank-on-edge-after-israeli-settlers-palesti-fbe77ed45c",
+      "title": "West Bank on edge after Israeli settlers, Palestinians clash in Tell | DW News",
+      "source": "YouTube - DW News",
+      "url": "https://www.youtube.com/shorts/8YGrjWqnR7E",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:30:11.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/8YGrjWqnR7E?rel=0"
+    },
+    {
+      "id": "video-europe-s-wildfires-force-over-300-000-people-to--670113d92d",
+      "title": "Europe's wildfires force over 300,000 people to evacuate as they burn towards cities",
+      "source": "YouTube - ABC News",
+      "url": "https://www.youtube.com/watch?v=DZbJXA2Onwk",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:27:19.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - ABC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/DZbJXA2Onwk?rel=0"
+    },
+    {
+      "id": "video-kornacki-which-states-democrats-have-to-win-for--568c10518a",
+      "title": "Kornacki: Which states Democrats ‘have to win’ for control of Congress",
+      "source": "YouTube - NBC News",
+      "url": "https://www.youtube.com/watch?v=cd127O_lX80",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:25:12.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - NBC News, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/cd127O_lX80?rel=0"
+    },
+    {
+      "id": "video-breaking-news-live-trump-signs-nuke-strike-order-4b595a41b4",
+      "title": "BREAKING NEWS LIVE: 'TRUMP SIGNS NUKE STRIKE ORDER!' | Trump Speech LIVE | IRAN-US War | US News",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=zBc_RH2SrFc",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T13:21:45.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/zBc_RH2SrFc?rel=0"
+    },
     {
       "id": "video-cwg-2026-rishikanta-singh-wins-silver-in-weightl-f77461313e",
       "title": "CWG 2026: Rishikanta Singh Wins Silver In Weightlifting, Opens India's Silver Account #shorts",
@@ -80,17 +674,6 @@
       "embedUrl": "https://www.youtube.com/embed/SU3tcOv5YLo?rel=0"
     },
     {
-      "id": "video-punjab-in-focus-after-pradhan-exit-bjp-congress--4c0ae44d96",
-      "title": "PUNJAB In Focus After Pradhan Exit: BJP, Congress Target Bhagwant Mann Govt Amid Paper Leak Row",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=tBVQtX3QdLk",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T13:00:54.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/tBVQtX3QdLk?rel=0"
-    },
-    {
       "id": "video-gun-dealers-with-serious-violations-back-in-busi-2f624fdbd4",
       "title": "Gun dealers with serious violations back in business, thanks to Trump",
       "source": "YouTube - CNN",
@@ -113,8 +696,8 @@
       "embedUrl": "https://www.youtube.com/embed/5Aq8vDYP_g0?rel=0"
     },
     {
-      "id": "video-u-s-eyes-plan-to-obtain-iran-s-nuclear-material--8cc3785592",
-      "title": "U.S. eyes plan to obtain Iran's nuclear material from Pickaxe Mountain site",
+      "id": "video-us-eyes-plans-to-obtain-iran-s-nuclear-material--8cc3785592",
+      "title": "US EYES plans to obtain Iran’s nuclear material: report",
       "source": "YouTube - Fox News",
       "url": "https://www.youtube.com/watch?v=k5VQkCMzJYo",
       "tag": "Video",
@@ -157,28 +740,6 @@
       "embedUrl": "https://www.youtube.com/embed/w8PzERaAR4Q?rel=0"
     },
     {
-      "id": "video-iran-slams-ukraine-for-deadly-caspian-sea-attack-c8e7ad7b19",
-      "title": "Iran Slams Ukraine For Deadly Caspian Sea Attack, IRGC Set To Join Putin's Revenge Ops? Watch",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=CaC7xLLkrqc",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:50:34.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/CaC7xLLkrqc?rel=0"
-    },
-    {
-      "id": "video-iran-halts-retaliatory-strikes-houthi-drone-atta-ff78992fef",
-      "title": "Iran Halts Retaliatory Strikes | Houthi Drone Attacks | Spain Wildfires | Australia-US Tariffs",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=gr1KDwSRQJU",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:46:50.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/gr1KDwSRQJU?rel=0"
-    },
-    {
       "id": "video-berlin-pride-attendees-flee-after-van-rams-into--daf589643c",
       "title": "Berlin pride attendees flee after van rams into festival crowd #shorts #us #news #foxnews",
       "source": "YouTube - Fox News",
@@ -190,17 +751,6 @@
       "embedUrl": "https://www.youtube.com/embed/QwIPKbQBL7Y?rel=0"
     },
     {
-      "id": "video-pentagon-briefing-live-hegseth-s-stark-warning-u-7df8c5de5b",
-      "title": "Pentagon Briefing Live | Hegseth’s Stark Warning| U.S.–Iran War | Trump | Khamenei | US Iran War",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=B_o-7Hq3Tyc",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:40:07.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/B_o-7Hq3Tyc?rel=0"
-    },
-    {
       "id": "video-vigil-for-victims-of-berlin-car-ramming-as-polic-65f1aa1c02",
       "title": "Vigil for victims of Berlin car ramming as police search for attacker | DW News",
       "source": "YouTube - DW News",
@@ -210,61 +760,6 @@
       "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/-A5mnZe3JdE?rel=0"
-    },
-    {
-      "id": "video-french-firefighters-battle-blazes-with-military--b2157ebe23",
-      "title": "French firefighters battle blazes with military cargo planes • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=ZieiLH0n6sI",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:34:59.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/ZieiLH0n6sI?rel=0"
-    },
-    {
-      "id": "video-j-k-news-massive-landslide-blocks-jammu-srinagar-194b699e99",
-      "title": "J&K News: Massive Landslide Blocks Jammu-Srinagar National Highway | J&K Weather #shorts",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/shorts/wPxuxMvsALk",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:30:08.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/wPxuxMvsALk?rel=0"
-    },
-    {
-      "id": "video-russian-army-goes-on-rampage-big-donetsk-win-for-2b3e75e6f9",
-      "title": "Russian Army Goes On Rampage: Big Donetsk Win For Putin| Zaporizhzhia, Sumy Hit Hard| Ukraine War",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=3MPrXFQqrzU",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:30:07.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/3MPrXFQqrzU?rel=0"
-    },
-    {
-      "id": "video-formula-1-heads-to-hungary-for-final-break-wion--680a94d30b",
-      "title": "Formula 1 Heads to Hungary for Final Break | WION News",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=tVQUKPBJtzk",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:29:53.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/tVQUKPBJtzk?rel=0"
-    },
-    {
-      "id": "video-typhoon-noul-batters-china-200-000-evacuated-mas-5f75edfd5c",
-      "title": "Typhoon Noul Batters China | 200,000 Evacuated, Massive Power Outages Hit Guangdong",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=IYBJmERxAw0",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:29:52.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/IYBJmERxAw0?rel=0"
     },
     {
       "id": "video-live-firefighters-battle-wildfires-in-france-1c6d191501",
@@ -289,17 +784,6 @@
       "embedUrl": "https://www.youtube.com/embed/h4mAEKtUVsY?rel=0"
     },
     {
-      "id": "video-punjab-paper-leak-row-cm-bhagwant-mann-hits-for--0d4d3485b5",
-      "title": "Punjab Paper Leak Row: CM Bhagwant Mann Hits For At BJP's Allegations, 'Not A Single...' | WATCH",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=zou4x8fHhRg",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:26:29.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/zou4x8fHhRg?rel=0"
-    },
-    {
       "id": "video-video-shows-berlin-pride-attendees-being-told-to-cf00de789b",
       "title": "Video shows Berlin Pride attendees being told to leave after van-ramming attack",
       "source": "YouTube - AP",
@@ -322,28 +806,6 @@
       "embedUrl": "https://www.youtube.com/embed/S-kRJs3bttI?rel=0"
     },
     {
-      "id": "video-karnataka-cm-dk-shivakumar-reacts-to-dharmendra--d4533d583b",
-      "title": "Karnataka CM DK Shivakumar Reacts To Dharmendra Pradhan's Resignation #shorts",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/shorts/yY1_Y-zZHu0",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:15:26.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/yY1_Y-zZHu0?rel=0"
-    },
-    {
-      "id": "video-iran-govt-enters-into-a-big-fight-with-state-tv--a365ee2dd6",
-      "title": "Iran Govt Enters Into A Big Fight With State TV| Lens On Pezeshkian's 'Supreme Leader' Speech| Watch",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=iF5NaalSuYw",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:10:30.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/iF5NaalSuYw?rel=0"
-    },
-    {
       "id": "video-why-do-car-ramming-attacks-keep-happening-in-ger-757ee6fa6a",
       "title": "Why do car ramming attacks keep happening in Germany? | DW News",
       "source": "YouTube - DW News",
@@ -353,39 +815,6 @@
       "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/SN0rlLTICLg?rel=0"
-    },
-    {
-      "id": "video-telangana-cm-revanth-reddy-wants-lok-sabha-poll--48849090c3",
-      "title": "Telangana CM Revanth Reddy Wants Lok Sabha Poll Age Cut To 21, Calls For 'Gen Z Representation'",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=TiBbkAi6ZDo",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:07:40.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/TiBbkAi6ZDo?rel=0"
-    },
-    {
-      "id": "video-spain-wildfires-2026-firefighting-helicopters-ba-86db64ccc9",
-      "title": "Spain Wildfires 2026: Firefighting Helicopters Battle Massive Blazes as 10,000 Evacuated",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/shorts/NcSmq0zC-98",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:05:51.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/NcSmq0zC-98?rel=0"
-    },
-    {
-      "id": "video-pralhad-joshi-takes-charge-of-education-ministry-c555b725fc",
-      "title": "Pralhad Joshi Takes Charge of Education Ministry After Dharmendra Pradhan Resigns | NEET Protest",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=jlzZKoU4eXI",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:03:36.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/jlzZKoU4eXI?rel=0"
     },
     {
       "id": "video-us-forces-board-vessels-that-attempted-to-violat-bf79b1670f",
@@ -430,50 +859,6 @@
       "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/LIhPMK68wXo?rel=0"
-    },
-    {
-      "id": "video-uddhav-thackeray-raj-thackeray-hold-victory-marc-24aef7cd5f",
-      "title": "Uddhav Thackeray & Raj Thackeray Hold 'Victory March' Following Dharmendra Pradhan's Resignation",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/shorts/YEpMMW2B7P8",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:00:17.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/YEpMMW2B7P8?rel=0"
-    },
-    {
-      "id": "video-communities-upstream-fire-gun-shots-to-warn-peop-105a7fe27e",
-      "title": "Communities Upstream Fire Gun Shots to Warn People of Floods | WION Inside South Asia",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=5Yx9mqR33uM",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T12:00:01.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/5Yx9mqR33uM?rel=0"
-    },
-    {
-      "id": "video-iran-war-expands-beyond-red-sea-tehran-warns-ukr-8dbcfdb401",
-      "title": "Iran War Expands Beyond Red Sea? Tehran Warns Ukraine After Vessel Strike in Caspian Sea",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=ru103RwboeE",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T11:48:03.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/ru103RwboeE?rel=0"
-    },
-    {
-      "id": "video-iran-us-conflict-update-houthis-target-saudi-ara-c7d4ceb832",
-      "title": "Iran-US Conflict Update | Houthis Target Saudi Arabia | Ukraine Accuses Russia | Spain Wildfires",
-      "source": "YouTube - WION",
-      "url": "https://www.youtube.com/watch?v=ut2mKXmYsAk",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T11:46:53.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - WION, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/ut2mKXmYsAk?rel=0"
     },
     {
       "id": "video-shadow-home-secretary-dismisses-andy-burnham-rul-7eae258785",
@@ -597,6 +982,17 @@
       "embedUrl": "https://www.youtube.com/embed/A4RWCpdG1is?rel=0"
     },
     {
+      "id": "video-us-news-live-karoline-leavitt-schools-trump-hati-adea1d8b2f",
+      "title": "US News Live: Karoline Leavitt Schools Trump-hating Reporters! 'He's The Greatest Leader'",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=p_5LOrg3EvA",
+      "tag": "Video",
+      "publishedAt": "2026-07-26T11:08:26.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
+      "embedUrl": "https://www.youtube.com/embed/p_5LOrg3EvA?rel=0"
+    },
+    {
       "id": "video-domesticdispute-viralvideo-shocking-a0f193d3b3",
       "title": "पति की हरकत से भड़की पत्नी, घर में जमकर हुआ हंगामा | #DomesticDispute #viralvideo #Shocking",
       "source": "YouTube - Aaj Tak",
@@ -663,17 +1059,6 @@
       "embedUrl": "https://www.youtube.com/embed/-mpA8kawPAU?rel=0"
     },
     {
-      "id": "video-trump-speech-live-trump-addresses-iran-us-war-in-db3e7f6d3a",
-      "title": "Trump Speech LIVE: Trump Addresses Iran-US War In Major Statement | Trump On Iran | Breaking News",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=oErTfBo52D0",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:57:37.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/oErTfBo52D0?rel=0"
-    },
-    {
       "id": "video-sanjay-singh-sanjaysingh-aap-neetprotest-9b05894a26",
       "title": "‘करोड़ों युवाओं ने सरकार को झुकाया’- Sanjay Singh का बड़ा बयान | #SanjaySingh #AAP #neetprotest",
       "source": "YouTube - Aaj Tak",
@@ -683,17 +1068,6 @@
       "summary": "XLB brief: a timely video item from YouTube - Aaj Tak, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
       "embedUrl": "https://www.youtube.com/embed/Ah0Tj_ADVos?rel=0"
-    },
-    {
-      "id": "video-marco-rubio-live-rubio-issues-stark-warning-to-i-93f9533d3a",
-      "title": "Marco Rubio LIVE: Rubio Issues Stark Warning To Iran | Marco Rubio's Major Announcement LIVE",
-      "source": "YouTube - Times Now",
-      "url": "https://www.youtube.com/watch?v=RgSHgtaI8pI",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:54:59.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/RgSHgtaI8pI?rel=0"
     },
     {
       "id": "video-us-iran-crisis-live-us-army-to-invade-iran-press-094e00d6d5",
@@ -707,389 +1081,15 @@
       "embedUrl": "https://www.youtube.com/embed/FW5VbmQXLFo?rel=0"
     },
     {
-      "id": "video-deadly-attack-on-holiday-camp-in-russian-held-pa-c82ac20685",
-      "title": "Deadly attack on holiday camp in Russian-held part of Ukraine, officials say • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=GMSoxzAz7PU",
+      "id": "video-trump-army-address-live-be-prepared-trump-issues-4b43aa6956",
+      "title": "TRUMP ARMY ADDRESS LIVE | 'BE PREPARED!' Trump Issues Urgent Warning & Major Order To US Troops",
+      "source": "YouTube - Times Now",
+      "url": "https://www.youtube.com/watch?v=J5nrM719N88",
       "tag": "Video",
-      "publishedAt": "2026-07-26T10:32:58.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-07-26T10:44:06.000Z",
+      "summary": "XLB brief: a timely video item from YouTube - Times Now, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/GMSoxzAz7PU?rel=0"
-    },
-    {
-      "id": "video-can-europe-escape-us-payment-dominance-dw-news-fbe3eb00ba",
-      "title": "Can Europe escape US payment dominance? | DW News",
-      "source": "YouTube - DW News",
-      "url": "https://www.youtube.com/watch?v=zfk_cNiGse8",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:30:36.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/zfk_cNiGse8?rel=0"
-    },
-    {
-      "id": "video-digital-currencies-what-can-europe-learn-from-br-ae70507bd5",
-      "title": "Digital Currencies: What can Europe learn from Brazil? | DW News",
-      "source": "YouTube - DW News",
-      "url": "https://www.youtube.com/shorts/GbSohnfzP_M",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:30:20.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/GbSohnfzP_M?rel=0"
-    },
-    {
-      "id": "video-wildfires-ravage-southwest-france-thousands-face-41bf6f8241",
-      "title": "Wildfires ravage southwest France: Thousands face devastation after evacuation • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=KNlrvceh5HY",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:29:53.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/KNlrvceh5HY?rel=0"
-    },
-    {
-      "id": "video-aftermath-of-berlin-pride-van-ramming-attack-as--4ed7b23892",
-      "title": "Aftermath of Berlin Pride van-ramming attack as police hunt suspect",
-      "source": "YouTube - AP",
-      "url": "https://www.youtube.com/watch?v=yiKdAGWALuY",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:15:29.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/yiKdAGWALuY?rel=0"
-    },
-    {
-      "id": "video-what-we-know-about-the-berlin-pride-attack-so-fa-2c910c4a3d",
-      "title": "What we know about the Berlin Pride attack so far. #Germany #BBCNews",
-      "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/shorts/VRQRIYZ2tNU",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:07:40.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/VRQRIYZ2tNU?rel=0"
-    },
-    {
-      "id": "video-gen-keane-iranian-leadership-is-arrogant-b97a8bf216",
-      "title": "Gen Keane: Iranian leadership is ARROGANT",
-      "source": "YouTube - Fox News",
-      "url": "https://www.youtube.com/watch?v=NB-q1ZfxThU",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T10:00:15.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/NB-q1ZfxThU?rel=0"
-    },
-    {
-      "id": "video-france-fire-situation-remains-very-unfavourable--1d750ebe30",
-      "title": "France fire situation 'remains very unfavourable' says interior minister • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=uUU9READb5Y",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:57:20.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/uUU9READb5Y?rel=0"
-    },
-    {
-      "id": "video-german-police-hunt-suspect-in-berlin-pride-attac-06eaac4243",
-      "title": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=FaBF3ZXJWPs",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:53:31.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/FaBF3ZXJWPs?rel=0"
-    },
-    {
-      "id": "video-israel-detains-over-70-suspects-following-deadly-98fb59d8f5",
-      "title": "Israel detains over 70 suspects following deadly violence in the West Bank • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=ZxgF0EOYtJc",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:49:37.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/ZxgF0EOYtJc?rel=0"
-    },
-    {
-      "id": "video-wes-streeting-discusses-defence-trump-and-burnha-56be5fb81d",
-      "title": "Wes Streeting discusses defence, Trump and Burnham on Trevor Phillips",
-      "source": "YouTube - Sky News",
-      "url": "https://www.youtube.com/watch?v=aevFnAt9DKs",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:45:21.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/aevFnAt9DKs?rel=0"
-    },
-    {
-      "id": "video-women-s-football-women-s-africa-cup-of-nations-k-9f2c367c4e",
-      "title": "Women's Football: Women's Africa Cup of Nations kicks off in Morocco • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=ZI9jX5jJcqs",
-      "tag": "Football",
-      "publishedAt": "2026-07-26T09:39:48.000Z",
-      "summary": "XLB brief: a timely football item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/ZI9jX5jJcqs?rel=0"
-    },
-    {
-      "id": "video-scaffolding-falls-as-china-hit-by-its-largest-ty-dc5a76fe18",
-      "title": "Scaffolding falls as China hit by its largest typhoon in 2026",
-      "source": "YouTube - CNN",
-      "url": "https://www.youtube.com/shorts/9iGrZR8XqSA",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:37:37.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/9iGrZR8XqSA?rel=0"
-    },
-    {
-      "id": "video-raging-wildfire-forces-evacuations-in-castellon--9ca373270c",
-      "title": "Raging wildfire forces evacuations in Castellon in Spain's Valencia region",
-      "source": "YouTube - AP",
-      "url": "https://www.youtube.com/watch?v=Cjn1grt4Zwo",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:35:38.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/Cjn1grt4Zwo?rel=0"
-    },
-    {
-      "id": "video-france-battles-fire-whirlwinds-as-another-55-000-ab12747bfe",
-      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated | BBC News",
-      "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/watch?v=Fc-1b2Qm1jo",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:30:23.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/Fc-1b2Qm1jo?rel=0"
-    },
-    {
-      "id": "video-berlin-pride-attack-what-we-know-right-now-dw-ne-1471695a75",
-      "title": "Berlin Pride attack: What we know right now | DW News",
-      "source": "YouTube - DW News",
-      "url": "https://www.youtube.com/watch?v=pH1Khp92CuY",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:28:09.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/pH1Khp92CuY?rel=0"
-    },
-    {
-      "id": "video-women-s-afcon-2026-tournament-gets-underway-afte-d5e0418de3",
-      "title": "Women's AFCON 2026: Tournament gets underway after months of delay • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=mI2kdt28Qoo",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:26:44.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/mI2kdt28Qoo?rel=0"
-    },
-    {
-      "id": "video-wildfires-keep-southwest-france-on-edge-evacuati-3ce5b34f98",
-      "title": "Wildfires keep southwest France on edge: Evacuations top 200,000 • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=jqGlOkqUjak",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:00:58.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/jqGlOkqUjak?rel=0"
-    },
-    {
-      "id": "video-looking-back-at-three-years-of-sunday-morning-wi-1c2960c27b",
-      "title": "Looking back at three years of Sunday Morning with Trevor Phillips",
-      "source": "YouTube - Sky News",
-      "url": "https://www.youtube.com/watch?v=5rqxxkh7XwU",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:00:33.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/5rqxxkh7XwU?rel=0"
-    },
-    {
-      "id": "video-levin-dsa-requires-constant-pushback-79e5744a53",
-      "title": "Levin: DSA requires CONSTANT pushback",
-      "source": "YouTube - Fox News",
-      "url": "https://www.youtube.com/watch?v=m759AdyewsU",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T09:00:02.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/m759AdyewsU?rel=0"
-    },
-    {
-      "id": "video-ap-reporter-shows-wildfires-burning-in-france-as-b5129306c6",
-      "title": "AP reporter shows wildfires burning in France as 250,000 people evacuated so far",
-      "source": "YouTube - AP",
-      "url": "https://www.youtube.com/watch?v=qs1t8N6hmZ8",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T08:55:16.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/qs1t8N6hmZ8?rel=0"
-    },
-    {
-      "id": "video-spain-struggles-to-contain-wildfires-60-000-evac-38cc18d168",
-      "title": "Spain struggles to contain wildfires: 60,000 evacuated around Madrid • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=jU4G-JUirw8",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T08:49:13.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/jU4G-JUirw8?rel=0"
-    },
-    {
-      "id": "video-berlin-will-stand-strong-after-attack-at-pride-e-a443cf7b7f",
-      "title": "Berlin will 'stand strong' after attack at pride event, says mayor. #Berlin #BBCNews",
-      "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/shorts/TDOCQH6rvJw",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T08:34:58.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/TDOCQH6rvJw?rel=0"
-    },
-    {
-      "id": "video-burnham-unveils-major-social-care-plan-as-pressu-2074acbd84",
-      "title": "Burnham unveils major social care plan as pressure mounts on spending",
-      "source": "YouTube - Sky News",
-      "url": "https://www.youtube.com/watch?v=L-DDeBRdlRw",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T08:24:57.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Sky News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/L-DDeBRdlRw?rel=0"
-    },
-    {
-      "id": "video-we-see-a-longer-fire-season-nearly-everywhere-in-529f9566ba",
-      "title": "'We see a longer fire season nearly everywhere': Insight on Europe's wildfires • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=hcCdgk2uZ0Q",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T08:05:10.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/hcCdgk2uZ0Q?rel=0"
-    },
-    {
-      "id": "video-karoline-leavitt-communists-only-answer-is-take--dca31cf851",
-      "title": "Karoline Leavitt: Communists' only answer is TAKE MORE",
-      "source": "YouTube - Fox News",
-      "url": "https://www.youtube.com/watch?v=dpP7FYKNYEo",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T08:00:16.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/dpP7FYKNYEo?rel=0"
-    },
-    {
-      "id": "video-manhunt-ongoing-after-one-killed-and-16-injured--26120cf2e5",
-      "title": "Manhunt ongoing after one killed and 16 injured at Berlin Pride event | BBC News",
-      "source": "YouTube - BBC News",
-      "url": "https://www.youtube.com/watch?v=_X1Ygl4ERvg",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T07:46:40.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - BBC News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/_X1Ygl4ERvg?rel=0"
-    },
-    {
-      "id": "video-scene-of-berlin-pride-van-ramming-attack-that-le-af76037c71",
-      "title": "Scene of Berlin Pride van-ramming attack that left 1 dead and 16 injured",
-      "source": "YouTube - AP",
-      "url": "https://www.youtube.com/watch?v=vT6gopmXJwg",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T07:37:53.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/vT6gopmXJwg?rel=0"
-    },
-    {
-      "id": "video-sen-fetterman-socialism-should-be-the-unacceptab-c0205f6158",
-      "title": "Sen Fetterman: Socialism should be the UNACCEPTABLE view",
-      "source": "YouTube - Fox News",
-      "url": "https://www.youtube.com/watch?v=GueGDcRLX5s",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T07:00:29.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - Fox News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/GueGDcRLX5s?rel=0"
-    },
-    {
-      "id": "video-inside-the-battle-to-protect-borneo-s-last-orang-8a339cecd4",
-      "title": "Inside the battle to protect Borneo’s last orangutans | DW Reporter",
-      "source": "YouTube - DW News",
-      "url": "https://www.youtube.com/watch?v=z0lQQCPHGeY",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T07:00:16.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/z0lQQCPHGeY?rel=0"
-    },
-    {
-      "id": "video-spain-fires-firefighters-are-hoping-that-more-of-fe05e3b6e6",
-      "title": "Spain fires: 'Firefighters are hoping that more of those fires don't join up' • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=PY_ufqNTc3k",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T06:45:49.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/PY_ufqNTc3k?rel=0"
-    },
-    {
-      "id": "video-manhunt-continues-after-man-drives-vehicle-into--e0b9a95695",
-      "title": "Manhunt continues after man drives vehicle into Berlin Pride event • FRANCE 24 English",
-      "source": "YouTube - France 24",
-      "url": "https://www.youtube.com/watch?v=ztCscNRy278",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T06:43:43.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - France 24, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/ztCscNRy278?rel=0"
-    },
-    {
-      "id": "video-why-france-is-allowing-terminally-ill-people-to--f5351c3f3c",
-      "title": "Why France is allowing terminally ill people to end their life | Focus on Europe",
-      "source": "YouTube - DW News",
-      "url": "https://www.youtube.com/watch?v=vCXWdlN9jME",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T05:30:39.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - DW News, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/vCXWdlN9jME?rel=0"
-    },
-    {
-      "id": "video-berlin-mayor-vows-unity-after-van-slams-into-peo-de1c0e3524",
-      "title": "Berlin mayor vows unity after van slams into people at Pride festival, killing 1",
-      "source": "YouTube - AP",
-      "url": "https://www.youtube.com/watch?v=_G9hhaKjcNU",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T05:10:00.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - AP, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/_G9hhaKjcNU?rel=0"
-    },
-    {
-      "id": "video-wildfires-in-southwest-europe-continue-to-rage-ee16716439",
-      "title": "Wildfires in Southwest Europe continue to rage",
-      "source": "YouTube - CNN",
-      "url": "https://www.youtube.com/shorts/y-c_JTcwmws",
-      "tag": "Video",
-      "publishedAt": "2026-07-26T05:02:59.000Z",
-      "summary": "XLB brief: a timely video item from YouTube - CNN, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "Video content provides visual context and can help explain why current events matter in a way that text alone cannot.",
-      "embedUrl": "https://www.youtube.com/embed/y-c_JTcwmws?rel=0"
+      "embedUrl": "https://www.youtube.com/embed/J5nrM719N88?rel=0"
     }
   ]
 }
