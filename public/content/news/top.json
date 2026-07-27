@@ -1,66 +1,76 @@
 {
-  "updatedAt": "2026-07-27T18:18:58.082Z",
+  "updatedAt": "2026-07-27T20:15:05.999Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-cuba-lacking-fuel-relies-on-ingenuity-to-defy-tr-bd2639bdb4",
-      "title": "Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump’s Blockade",
+      "id": "news-coast-guard-airlifts-ailing-seafarer-from-ship-o-23b85e9721",
+      "title": "Coast Guard airlifts ailing seafarer from ship off Gujarat coast despite rough seas, adverse weather",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/coast-guard-airlifts-ailing-seafarer-from-ship-off-gujarat-coast-despite-rough-seas-adverse-weather/articleshow/132670432.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-27T20:05:51.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-pirlo-out-of-italy-football-top-job-after-backla-c84a2c214d",
+      "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-07-27T20:01:03.000Z",
+      "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-wildfires-live-updates-new-heat-wave-could-worse-6a4f11ad1b",
+      "title": "Wildfires Live Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html",
+      "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
       "tag": "US",
-      "publishedAt": "2026-07-27T18:13:35.000Z",
-      "summary": "President Trump has tried to strangle Cuba by blocking its oil imports. But six months later, the island is finding ways to endure.",
+      "publishedAt": "2026-07-27T19:59:32.000Z",
+      "summary": "Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-karnataka-high-court-strikes-down-health-securit-9fec2ab585",
-      "title": "Karnataka High Court strikes down Health Security se National Security Cess Act, 2025",
+      "id": "news-rayalaseema-india-s-new-industrial-hub-ecaf5ac445",
+      "title": "Rayalaseema: India’s new industrial hub",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-strikes-down-health-security-se-national-security-cess-act-2025/article71273514.ece",
+      "url": "https://www.thehindu.com/opinion/op-ed/rayalaseema-indias-new-industrial-hub/article71274260.ece",
       "tag": "India",
-      "publishedAt": "2026-07-27T18:09:41.000Z",
-      "summary": "Asks Centre to rework on pan masala cess law while pointing out that cess cannot be levied on assumed production capacity of machines",
+      "publishedAt": "2026-07-27T19:49:33.000Z",
+      "summary": "The TDP government has transformed the arid region into an economic hub",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-will-gen-z-protest-impact-bihar-s-bankipur-bypol-f6a373d467",
-      "title": "Will Gen Z Protest Impact Bihar's Bankipur Bypolls? BJP Chief's Response",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/will-gen-z-protest-impact-bihars-bankipur-bypolls-bjp-chiefs-response-11829800",
-      "tag": "India",
-      "publishedAt": "2026-07-27T18:06:40.000Z",
-      "summary": "Bankipur has been Nitin Nabin's stronghold. He vacated the seat to move to national politics and the Rajya Sabha.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-backs-pete-hegseth-amid-renewed-tensions-w-a9c9c72661",
+      "id": "news-trump-backs-pete-hegseth-amid-renewed-tensions-w-e31ee439dd",
       "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-07-27T18:05:53.000Z",
+      "publishedAt": "2026-07-27T19:43:29.000Z",
       "summary": "Trump said he thinks his defense secretary ‘has done a great job’ Sign up for the Breaking News US email Donald Trump said ⁠today that ⁠he had paused US strikes on Iran to give...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-saudi-arabia-defends-against-drone-strikes-from--c3e702d954",
-      "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+      "id": "news-un-eyeing-potential-israeli-war-crimes-in-lebano-cd34a4cdba",
+      "title": "UN eyeing potential Israeli war crimes in Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-07-27T17:58:27.000Z",
-      "summary": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
+      "publishedAt": "2026-07-27T19:32:53.000Z",
+      "summary": "High Commissioner Turk discusses displacement and trauma in Lebanon, asserting Israel is violating international law.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-wildfire-now-nine-miles-away-from-french-city-of-3a2324ea29",
-      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-07-27T17:50:42.000Z",
-      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+      "id": "news-in-rajasthan-local-body-polls-congress-to-reserv-6bd4710d59",
+      "title": "In Rajasthan Local Body Polls, Congress To Reserve 50% Tickets For Youths",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/in-rajasthan-local-body-polls-congress-to-reserve-50-tickets-for-youths-11829977",
+      "tag": "India",
+      "publishedAt": "2026-07-27T18:56:53.000Z",
+      "summary": "Govind Singh Dotasra has announced that the party would reserve 50% of its tickets for young candidates, describing the move as an effort to bring new leadership into grassroots...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
       "id": "news-homes-of-2-women-linked-to-trafficking-case-demo-afec3c3968",
@@ -83,16 +93,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-no-legal-action-firs-being-withdrawn-bihar-govt--6c30fb5561",
-      "title": "'No legal action, FIRs being withdrawn': Bihar govt assures protesters in big win for students, CJP",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/no-legal-action-firs-being-withdrawn-bihar-govt-assures-protesters-in-big-win-for-students-cjp/articleshow/132666030.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-27T16:34:19.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-must-prevent-its-way-to-better-health-f25e7e88c7",
       "title": "India must prevent its way to better health",
       "source": "Hindustan Times",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-how-the-iran-backed-houthis-cornered-saudi-arabi-00fab78b2c",
-      "title": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-      "tag": "US",
-      "publishedAt": "2026-07-27T18:10:43.000Z",
-      "summary": "The Iran-backed Houthi militia in Yemen has seized on a vulnerable moment for neighboring Saudi Arabia, which does not want another war. The group hopes to force political conce...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+      "id": "news-wildfires-stark-reminder-of-extreme-climate-chal-3f71c83484",
+      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-07-27T19:59:01.000Z",
+      "summary": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-oommen-chandy-carried-sorrows-and-sufferings-of--9d0c023b00",
-      "title": "Oommen Chandy carried sorrows and sufferings of the common people in his heart: V.D. Satheesan",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/oommen-chandy-carried-sorrows-and-sufferings-of-the-common-people-in-his-heart-vd-satheesan/article71273337.ece",
+      "id": "news-tmc-s-abhishek-banerjee-meets-lok-sabha-speaker--4730daf808",
+      "title": "TMC’s Abhishek Banerjee meets Lok Sabha Speaker Om Birla, seeks early decision on disqualification of 20 rebel MPs",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/tmcs-abhishek-banerjee-meets-lok-sabha-speaker-om-birla-seeks-early-decision-on-disqualification-of-20-rebel-mps/articleshow/132670395.cms",
       "tag": "India",
-      "publishedAt": "2026-07-27T18:09:40.000Z",
-      "summary": "He was inaugurating the Oommen Chandy commemoration organised by Kerala Secretariat Association here on Monday",
+      "publishedAt": "2026-07-27T19:55:58.000Z",
+      "summary": "TMC leader Abhishek Banerjee met Lok Sabha Speaker Om Birla regarding pending disqualification petitions. He urged the speaker to expedite decisions on twenty rebel Members of P...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
