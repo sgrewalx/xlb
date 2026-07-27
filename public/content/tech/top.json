@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-07-27T21:02:00.663Z",
+  "updatedAt": "2026-07-27T22:51:53.159Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-thea-energy-lands-20m-federal-grant-to-build-its-33d927629e",
-      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors",
+      "id": "tech-some-people-s-chats-with-claude-ai-found-publicl-76a3d93605",
+      "title": "Some people's chats with Claude AI found publicly available online",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T20:40:12.000Z",
-      "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+      "publishedAt": "2026-07-27T22:14:04.000Z",
+      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-dhs-official-resigns-citing-war-on-immigrants-8ff8f31aa1",
-      "title": "DHS Official Resigns, Citing ‘War on Immigrants’",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T20:34:04.000Z",
-      "summary": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration cr...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spotify-is-experiencing-another-major-outage-2448772ea1",
-      "title": "Spotify is experiencing another major outage",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2224515/spotify-is-experiencing-another-major-outage",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T20:28:35.000Z",
-      "summary": "A second gremlin is rolling through Spotify this evening.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-xbox-s-huge-outage-even-blocked-games-on-disc-ef4961509a",
-      "title": "Xbox’s huge outage even blocked games on disc",
+      "id": "tech-x-money-is-launching-in-the-us-starting-today-e0f346a7c6",
+      "title": "X Money is launching in the US starting today",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+      "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T19:53:50.000Z",
-      "summary": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too....",
+      "publishedAt": "2026-07-27T22:10:18.000Z",
+      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-5th-circuit-blocks-texas-law-requiring-websites--af93403881",
-      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech",
+      "id": "tech-x-money-begins-limited-us-rollout-2231d90500",
+      "title": "X Money begins limited US rollout",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T19:18:02.000Z",
-      "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
+      "publishedAt": "2026-07-27T22:04:17.000Z",
+      "summary": "Only Premium and Premium X subscribers get the privilege of banking with Elon for now.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-unveils-ai-security-tools-it-says-outp-1821bae4ac",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T21:56:14.000Z",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-satya-nadella-says-companies-that-trust-one-ai-f-7d338b724a",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T21:17:11.000Z",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella s...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-new-firefighting-technologies-could-help-battle--439bdadd1a",
+      "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T21:06:54.000Z",
+      "summary": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-budding-birders-are-flocking-to-shazam-like--bbc91ada49",
-      "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T07:53:30.000Z",
-      "summary": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-as-rivals-chase-acquisitions-peacock-bets-on-bun-407f2c2037",
-      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube",
+      "id": "tech-trump-admin-exempts-spacex-s-starlink-from-fcc-b-bc5e4cde88",
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T20:40:00.000Z",
-      "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+      "publishedAt": "2026-07-27T21:40:27.000Z",
+      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-psa-your-claude-shared-chats-and-artifacts-may-h-baacd96f1f",
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
+      "id": "tech-razer-s-analog-huntsman-v3-pro-is-over-20-percen-253d78395f",
+      "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T20:19:42.000Z",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "publishedAt": "2026-07-27T21:29:22.000Z",
+      "summary": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
