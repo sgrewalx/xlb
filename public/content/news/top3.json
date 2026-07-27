@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-07-27T21:57:58.242Z",
+  "updatedAt": "2026-07-27T23:00:51.753Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-wildfires-live-updates-new-heat-wave-could-worse-aa81a55903",
+      "id": "news-is-it-time-to-stop-using-glue-and-labels-on-pape-a3e250632f",
+      "title": "Is it time to stop using glue and labels on paper?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-07-27T23:00:06.000Z",
+      "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-wildfires-live-updates-new-heat-wave-could-worse-cc1d3fbbea",
       "title": "Wildfires Live Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
       "tag": "US",
-      "publishedAt": "2026-07-27T21:52:39.000Z",
+      "publishedAt": "2026-07-27T22:53:37.000Z",
       "summary": "Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-some-people-s-chats-with-claude-ai-made-publicly-a6241dd976",
-      "title": "Some people's chats with Claude AI made publicly available online",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-07-27T21:51:34.000Z",
-      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-i-am-a-street-fighter-combative-dharmendra-pradh-3eba98aad7",
-      "title": "'I am a street fighter': Combative Dharmendra Pradhan arrives in Parliament to a rousing welcome",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/i-am-a-street-fighter-combative-dharmendra-pradhan-arrives-in-parliament-to-a-rousing-welcome/articleshow/132670795.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-27T21:42:17.000Z",
-      "summary": "Former minister Dharmendra Pradhan asserted his street fighter identity after resigning from his post. He arrived in Parliament as a Member of Parliament, receiving strong suppo...",
+      "id": "news-australia-news-live-labor-mps-gather-before-vict-d52f4454be",
+      "title": "Australia news live: Labor MPs gather before Victorian leadership challenge; PM praises outgoing ACTU ‘giants’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-07-27T22:44:19.000Z",
+      "summary": "The Victorian premier, Jacinta Allan, will be challenged by her deputy, Ben Carroll. Follow updates live Get our breaking news email , free app or daily news podcast ACTU presid...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
