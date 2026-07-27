@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-07-27T22:51:53.159Z",
+  "updatedAt": "2026-07-27T23:55:06.408Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-some-people-s-chats-with-claude-ai-found-publicl-76a3d93605",
-      "title": "Some people's chats with Claude AI found publicly available online",
+      "id": "tech-is-it-time-to-stop-using-glue-and-labels-on-pape-8a3376c742",
+      "title": "Is it time to stop using glue and labels on paper?",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T22:14:04.000Z",
-      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+      "publishedAt": "2026-07-27T23:00:06.000Z",
+      "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-france-records-its-first-ever-pyrocumulonimbus-c-5da3a7de22",
+      "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T22:57:20.000Z",
+      "summary": "Extreme fire conditions on the ground have created unprecedented conditions in the atmosphere.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-new-firefighting-technologies-could-help-battle--439bdadd1a",
-      "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T21:06:54.000Z",
-      "summary": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-pm-modi-lauds-sitamarhi-plastic-recycling-model--7baba9d826",
       "title": "PM Modi lauds Sitamarhi plastic recycling model in Mann Ki Baat",
       "source": "YourStory",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-some-people-s-chats-with-claude-ai-found-publicl-76a3d93605",
+      "title": "Some people's chats with Claude AI found publicly available online",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T22:14:04.000Z",
+      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-trump-admin-exempts-spacex-s-starlink-from-fcc-b-bc5e4cde88",
       "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
       "source": "Ars Technica",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-27T21:40:27.000Z",
       "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-razer-s-analog-huntsman-v3-pro-is-over-20-percen-253d78395f",
-      "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T21:29:22.000Z",
-      "summary": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
