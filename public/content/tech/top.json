@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-07-27T19:12:36.333Z",
+  "updatedAt": "2026-07-27T21:02:00.663Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-microsoft-launches-its-first-cybersecurity-model-3eb0d7456a",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "id": "tech-thea-energy-lands-20m-federal-grant-to-build-its-33d927629e",
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system",
+      "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T18:32:11.000Z",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "publishedAt": "2026-07-27T20:40:12.000Z",
+      "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-dhs-official-resigns-citing-war-on-immigrants-8ff8f31aa1",
+      "title": "DHS Official Resigns, Citing ‘War on Immigrants’",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T20:34:04.000Z",
+      "summary": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration cr...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-spotify-is-experiencing-another-major-outage-2448772ea1",
+      "title": "Spotify is experiencing another major outage",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2224515/spotify-is-experiencing-another-major-outage",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T20:28:35.000Z",
+      "summary": "A second gremlin is rolling through Spotify this evening.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xbox-s-huge-outage-even-blocked-games-on-disc-ef4961509a",
+      "title": "Xbox’s huge outage even blocked games on disc",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T19:53:50.000Z",
+      "summary": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too....",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-5th-circuit-blocks-texas-law-requiring-websites--af93403881",
+      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech",
+      "tag": "Technology",
+      "publishedAt": "2026-07-27T19:18:02.000Z",
+      "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,46 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-27T18:03:12.000Z",
       "summary": "In the 136th episode of Mann Ki Baat, the Prime Minister spotlighted a Bihar district where 40 kg of single-use plastic goes into every public bench",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-what-s-the-difference-between-usb-3-0-2-0-and-wh-72de6cdac2",
-      "title": "What's the difference between USB 3.0 & 2.0 and which should you use?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2219836/difference-between-usb-3-0-and-2-0-which-to-use",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T17:30:00.000Z",
-      "summary": "The ports look the same, but one is much faster than the other.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-why-china-is-giving-away-its-best-ai-models-1aa19eda58",
-      "title": "Why China is giving away its best AI models",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T16:51:50.000Z",
-      "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-activist-charged-with-felony-after-giving-border-000fbc0c08",
-      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T15:58:34.000Z",
-      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-inside-the-wild-rescue-mission-that-took-4-belug-141a9d6336",
-      "title": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T15:33:56.000Z",
-      "summary": "Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-sued-after-alleged-app-store-crypto-scam-c-9d945033a8",
-      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+      "id": "tech-as-rivals-chase-acquisitions-peacock-bets-on-bun-407f2c2037",
+      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m",
+      "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T18:28:15.000Z",
-      "summary": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the...",
+      "publishedAt": "2026-07-27T20:40:00.000Z",
+      "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-amazon-s-new-satellite-network-for-mobile-phones-b72721fa20",
-      "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
+      "id": "tech-psa-your-claude-shared-chats-and-artifacts-may-h-baacd96f1f",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
       "tag": "Technology",
-      "publishedAt": "2026-07-27T18:08:29.000Z",
-      "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
+      "publishedAt": "2026-07-27T20:19:42.000Z",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
