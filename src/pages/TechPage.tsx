@@ -10,7 +10,7 @@ export function TechPage() {
     <>
       <Seo
         title="Tech | XLB"
-        description="A compact view of the latest technology news, products, and trends worth checking now."
+        description="Scan selected technology news, product updates, and industry shifts with direct source links."
         path="/tech"
       />
       <section className="static-hero">

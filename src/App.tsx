@@ -228,7 +228,7 @@ function AppChrome() {
             element={
               <StaticPage
                 title="About | XLB"
-                description=""
+                description="How XLB presents source-backed live events, public-interest monitoring, and watch destinations."
                 path="/about"
                 eyebrow="About"
                 sections={aboutSections}
@@ -240,7 +240,7 @@ function AppChrome() {
             element={
               <StaticPage
                 title="Privacy | XLB"
-                description="XLB stores minimal data."
+                description="Read XLB's current privacy and data-handling approach."
                 path="/privacy"
                 eyebrow="Privacy"
                 sections={privacySections}
@@ -252,7 +252,7 @@ function AppChrome() {
             element={
               <StaticPage
                 title="Terms | XLB"
-                description="Nothing complicated"
+                description="Terms for using XLB's informational, entertainment, and source-linked pages."
                 path="/terms"
                 eyebrow="Terms"
                 sections={termsSections}
@@ -264,7 +264,7 @@ function AppChrome() {
             element={
               <StaticPage
                 title="Contact | XLB"
-                description="Operational contact information for platform, safety, or any other feedback."
+                description="Contact XLB about platform feedback, broken feeds, safety concerns, or content questions."
                 path="/contact"
                 eyebrow="Contact"
                 sections={contactSections}
@@ -276,7 +276,7 @@ function AppChrome() {
             element={
               <StaticPage
                 title="Advertise | XLB"
-                description="Clean, direct, labeled and performance-safe surfaces."
+                description="Advertising principles and potential sponsor formats for XLB."
                 path="/advertise"
                 eyebrow="Advertise"
                 sections={advertiseSections}
