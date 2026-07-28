@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-07-28T19:07:15.923Z",
+  "updatedAt": "2026-07-28T20:58:32.283Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-waymo-robotaxi-operators-face-fresh-scrutiny-ove-c07ba576ee",
-      "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+      "id": "tech-mcp-startup-runlayer-accuses-rippling-of-stealin-0f88a2141e",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T19:06:33.000Z",
-      "summary": "Rep. Kevin Mullin (D-California ) has proposed bill would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators — action that...",
+      "publishedAt": "2026-07-28T20:45:12.000Z",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-cw-s-live-sports-programming-is-coming-to-es-f49351deca",
-      "title": "The CW's live sports programming is coming to ESPN on August 4",
+      "id": "tech-ebay-has-to-pay-55-7-million-in-settlement-for-i-56ad9fb2ae",
+      "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T20:15:19.000Z",
+      "summary": "For months on end, eBay employees and contractors made life hell for a couple that had criticized the company. Six years later, the company is finally paying up.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-life-d804583cff",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T20:00:00.000Z",
+      "summary": "What do we need to know about agentic AI?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-double-fine-lays-off-about-a-third-of-its-employ-e70726f3e8",
+      "title": "Double Fine lays off about a third of its employees",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2225384/the-cws-live-sports-programming-is-coming-to-espn-on-august-4",
+      "url": "https://www.engadget.com/2225508/double-fine-lays-off-about-a-third-of-its-employees",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T18:52:02.000Z",
-      "summary": "The CW's live sports programming is coming to ESPN on August 4.",
+      "publishedAt": "2026-07-28T19:57:10.000Z",
+      "summary": "Double Fine lays off about a third of its staff.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-won-t-turn-on-any-restricted-mode-for-miss-626adc1897",
-      "title": "Apple won’t turn on any ‘restricted mode’ for missed lease payments",
+      "id": "tech-ai-leaders-sign-statement-asking-the-government--5d4c33daa3",
+      "title": "AI leaders sign statement asking the government to do something about automated AI",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T18:43:57.000Z",
-      "summary": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Bria...",
+      "publishedAt": "2026-07-28T19:46:43.000Z",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government suppo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-new-airliner-sets-record-flying-24-hrs-nonstop-f-f94f7209cc",
+      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T18:43:36.000Z",
+      "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,26 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-28T17:40:00.000Z",
       "summary": "Discover five fiction books that deliver unexpected life lessons on resilience, purpose, relationships, and personal growth.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-report-trump-mad-rfk-jr-hasn-t-cut-more-vaccines-f0fdc6e178",
-      "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T16:16:25.000Z",
-      "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-is-the-electric-trike-the-next-big-thing-in-shar-85f3b2c02b",
-      "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T14:00:00.000Z",
-      "summary": "Veo is launching accessibility-focused electric tricycles in Denver, with plans to put its e-trikes on the streets nationwide.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-some-people-s-chats-with-claude-ai-found-to-be-p-fd51d6356f",
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T07:10:37.000Z",
-      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ebay-reaches-56m-settlement-with-e-commerce-news-6fb708c410",
-      "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+      "id": "tech-sam-altman-is-ready-to-decelerate-b729e28277",
+      "title": "Sam Altman is ready to decelerate",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T18:35:29.000Z",
-      "summary": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate...",
+      "publishedAt": "2026-07-28T20:17:08.000Z",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sega-s-dreamcast-retro-console-is-still-getting--91bfd636e7",
-      "title": "Sega's Dreamcast retro console is still getting new games 25 years after it was abandoned",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2222199/sega-dreamcast-console-new-games",
+      "id": "tech-is-it-illegal-to-trick-the-us-government-into-wi-6ace86af31",
+      "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T18:30:00.000Z",
-      "summary": "The retro console is still a favorite for gamers who appreciate simplicity of older tech but still want online play.",
+      "publishedAt": "2026-07-28T19:35:00.000Z",
+      "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
