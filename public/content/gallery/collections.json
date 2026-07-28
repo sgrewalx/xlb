@@ -85,15 +85,6 @@
       "relatedLabel": "Open live space",
       "entries": [
         {
-          "id": "space-launch-clps-flight-astrobotic-griffin-1",
-          "title": "CLPS Flight: Astrobotic Griffin-1",
-          "summary": "CLPS Flight: Astrobotic Griffin-1 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-          "metricLabel": "Countdown",
-          "metricValue": "4h 43m",
-          "href": "/events/clps-flight-astrobotic-griffin-1",
-          "accent": "space"
-        },
-        {
           "id": "space-launch-nasa-s-spacex-crs-35",
           "title": "NASA’s SpaceX CRS-35",
           "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
