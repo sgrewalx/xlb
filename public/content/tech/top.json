@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-07-28T07:32:31.277Z",
+  "updatedAt": "2026-07-28T10:24:39.480Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-nothing-might-be-working-on-its-first-smartwatch-6eb6f341f2",
-      "title": "Nothing Might Be Working on Its First Smartwatch, Tipped to Launch in September",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/wearables/news/nothing-smartwatch-launch-timeline-expected-price-design-leak-11831534",
+      "id": "tech-meta-summoned-after-pm-modi-post-removed-govt-re-2986e35e93",
+      "title": "Meta summoned after PM Modi post removed; govt rejects glitch explanation",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/meta-summoned-pm-modi-post-govt-explanation-not-reasonable",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T07:21:24.000Z",
-      "summary": "A new leak suggests Nothing is preparing to introduce its first smartwatch under the main Nothing brand. Tipster Yogesh Brar claims the wearable could launch in September with t...",
+      "publishedAt": "2026-07-28T10:14:33.000Z",
+      "summary": "The government has summoned Meta's global public policy chief after the company briefly removed Prime Minister Narendra Modi's Facebook post, rejecting its explanation that an a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-some-people-s-chats-with-claude-ai-found-publicl-fd51d6356f",
-      "title": "Some people's chats with Claude AI found publicly available online",
+      "id": "tech-lyft-and-baidu-start-testing-robotaxis-in-london-89ba10b4e5",
+      "title": "Lyft and Baidu start testing robotaxis in London",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T10:04:49.000Z",
+      "summary": "As it promised last year, Baidu has started testing its robotaxis in London along with partners Lyft and Freenow.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-silicon-valley-s-next-ipo-billionaires-are-comin-9683791175",
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T10:00:00.000Z",
+      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hugging-face-is-being-used-to-easily-undress-wom-65b6fcb81e",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T09:07:14.000Z",
+      "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-lyft-and-baidu-enter-london-s-robotaxi-battlegro-8194578b20",
+      "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T08:00:00.000Z",
+      "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-some-people-s-chats-with-claude-ai-found-to-be-p-fd51d6356f",
+      "title": "Some people's chats with Claude AI found to be publicly available online",
       "source": "BBC Technology",
       "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
       "publishedAt": "2026-07-28T07:10:37.000Z",
       "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-two-fund-managers-who-handled-rs-1-35-lakh-crore-efa7f48d80",
-      "title": "Two fund managers who handled Rs 1.35 lakh crore for others just built a company for India's rich",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/veriqus-rs-387-crore-wealthtech-india",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T05:49:08.000Z",
-      "summary": "Veriqus raised Rs 387 crore to build an integrated wealth platform for India's HNIs, family offices and emerging wealthy families.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,46 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-28T05:30:24.000Z",
       "summary": "The letter—signed by companies including Microsoft, Nvidia, OpenAI, SpaceX, Google, IBM, Palantir, and Meta—stressed the importance of American AI leadership",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-hugging-face-has-a-deepfake-nudes-problem-9cdfc44fbb",
-      "title": "Hugging Face Has a Deepfake Nudes Problem",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T05:30:00.000Z",
-      "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cursor-makes-its-biggest-india-push-yet-ahead-of-42943cf4d5",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T04:30:00.000Z",
-      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-2027-mercedes-benz-c-class-electric-first-drive--d2df70e7c5",
-      "title": "2027 Mercedes-Benz C-Class Electric first drive: A long-range triumph with a few cabin quirks",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2220206/2027-mercedes-benz-c-class-electric-first-drive",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T01:00:00.000Z",
-      "summary": "With plenty of range and stellar ride quality, the new C-Class is a brilliant EV with a dashboard that's a little too in your face.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-x-money-is-launching-in-the-us-starting-today-e0f346a7c6",
-      "title": "X Money is launching in the US starting today",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-      "tag": "Technology",
-      "publishedAt": "2026-07-27T22:10:18.000Z",
-      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +93,33 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-samsung-galaxy-s27-pro-galaxy-s27-ultra-battery--02003cebcb",
-      "title": "Samsung Galaxy S27 Pro, Galaxy S27 Ultra Battery Capacities Leak; Could Get Silicon-Carbon Technology",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-pro-ultra-battery-capacities-leak-report-11831396",
+      "id": "tech-flipkart-s-supply-chain-arm-ekart-opens-logistic-6a9b564190",
+      "title": "Flipkart's supply chain arm Ekart opens logistics network to external brands",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/flipkart-supply-chain-arm-ekart-logistics-network-external-brands",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T06:44:08.000Z",
-      "summary": "Following the launch of the Galaxy Z Fold 8, Z Fold 8 Ultra, and Z Flip 8 last week, the rumour mill is now shifting towards Samsung’s next-generation Galaxy S lineup. While the...",
+      "publishedAt": "2026-07-28T10:04:42.000Z",
+      "summary": "Under the new franchise model, Ekart has operationalised over 300 outlets across Surat, Mumbai, Delhi, and Bengaluru.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-redmi-note-17-5g-india-launch-revealed-along-wit-36526235e8",
-      "title": "Redmi Note 17 5G India Launch Revealed Along With Battery, Display Features: Expected Specifications",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/redmi-note-17-5g-india-launch-date-announced-specifications-features-11831376",
+      "id": "tech-antler-india-bets-on-ai-climate-tech-and-deeptec-b493e13a81",
+      "title": "Antler India bets on AI, climate tech, and deeptech with new startup cohort",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/antler-india-bets-on-ai-climate-deeptech-with-new-startup-cohort",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T06:41:22.000Z",
-      "summary": "Redmi Note 17 5G will be launched in India on August 6, the Xiaomi sub-brand revealed on Tuesday. The smartphone maker has also confirmed that the Redmi Note 17 5G will be equip...",
+      "publishedAt": "2026-07-28T09:58:51.000Z",
+      "summary": "The cohort comprises an autonomous cargo seaplane developer, a long-duration battery maker, and an AI-powered enterprise software, besides wealth management and consumer hardwar...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-dyson-v16-piston-animal-submarine-review-powerfu-2c23697786",
+      "title": "Dyson V16 Piston Animal Submarine Review: Powerful but Pricey",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/dyson-v16-piston-animal-submarine",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T09:31:00.000Z",
+      "summary": "Dyson’s new stick vacuum can vacuum and mop in a single cordless device—if you’re willing to really splurge.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
