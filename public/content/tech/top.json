@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-07-28T20:58:32.283Z",
+  "updatedAt": "2026-07-28T22:03:43.759Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-mcp-startup-runlayer-accuses-rippling-of-stealin-0f88a2141e",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "id": "tech-bot-detection-startup-spur-nabs-200m-from-insigh-f4443c50af",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T20:45:12.000Z",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "publishedAt": "2026-07-28T21:29:34.000Z",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-company-employees-petition-us-government-for--30784b7098",
+      "title": "AI company employees petition US government for regulation",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T21:20:39.000Z",
+      "summary": "A thousand workers from OpenAI, Anthropic, Google, Meta and more have signed the letter.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-union-drive-at-the-wikimedia-foundation-is-e-599b906696",
+      "title": "The union drive at the Wikimedia Foundation is expanding",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T21:11:11.000Z",
+      "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joi...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,26 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-28T20:00:00.000Z",
       "summary": "What do we need to know about agentic AI?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-double-fine-lays-off-about-a-third-of-its-employ-e70726f3e8",
-      "title": "Double Fine lays off about a third of its employees",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2225508/double-fine-lays-off-about-a-third-of-its-employees",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T19:57:10.000Z",
-      "summary": "Double Fine lays off about a third of its staff.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-leaders-sign-statement-asking-the-government--5d4c33daa3",
-      "title": "AI leaders sign statement asking the government to do something about automated AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T19:46:43.000Z",
-      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government suppo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sam-altman-is-ready-to-decelerate-b729e28277",
-      "title": "Sam Altman is ready to decelerate",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+      "id": "tech-ebay-s-bizarre-cyberstalking-saga-ends-with-a-56-c59a583774",
+      "title": "eBay’s bizarre cyberstalking saga ends with a $56 million settlement",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T20:17:08.000Z",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "publishedAt": "2026-07-28T21:11:11.000Z",
+      "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-is-it-illegal-to-trick-the-us-government-into-wi-6ace86af31",
-      "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
+      "id": "tech-mcp-startup-runlayer-accuses-rippling-of-stealin-0f88a2141e",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T19:35:00.000Z",
-      "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others...",
+      "publishedAt": "2026-07-28T20:45:12.000Z",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
