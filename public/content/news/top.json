@@ -1,75 +1,95 @@
 {
-  "updatedAt": "2026-07-28T21:00:20.237Z",
+  "updatedAt": "2026-07-28T22:52:06.933Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-how-cubans-are-surviving-943408b309",
-      "title": "How Cubans Are Surviving",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/28/world/cuba-us-trump-ukraine-iran-japan-quake.html",
-      "tag": "US",
-      "publishedAt": "2026-07-28T20:52:16.000Z",
-      "summary": "It’s been six months since the U.S. cut off the island’s fuel sources. Our reporters went there and found remarkable stories of resilience.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-india-s-gen-z-wants-pakistan-to-end-terror-activ-640d4d1a04",
-      "title": "India’s Gen Z wants Pakistan to end terror activities: govt",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/pakistans-gen-z-should-take-note-of-islamabads-support-for-terrorism-against-india-mea/article71277721.ece",
-      "tag": "India",
-      "publishedAt": "2026-07-28T20:45:13.000Z",
-      "summary": "A supporter of terrorism, Pakistan cannot lay any claim to a “pluralistic cultural legacy” like the Indus Valley Civilisation, says MEA spokesperson Randhir Jaiswal",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-after-stalemate-government-opposition-spar-over--9f63be7f4f",
-      "title": "After stalemate, government, opposition spar over paper leak law in Lok Sabha",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/after-stalemate-government-opposition-spar-over-paper-leak-law-in-lok-sabha/articleshow/132694398.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-28T20:42:55.000Z",
-      "summary": "Parliament debated a bill to strengthen penalties for exam paper leaks. Opposition members supported student protests and criticized police actions during demonstrations. Govern...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-rome-s-viral-graffiti-cleaner-is-taking-on-an-an-4be3982fa7",
-      "title": "Rome’s viral graffiti cleaner is taking on an ancient problem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-28T20:41:18.000Z",
-      "summary": "Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-touts-strong-and-steadfast-lindsey-graham--f79168a629",
-      "title": "Trump touts ‘strong and steadfast’ Lindsey Graham in eulogy at Washington DC funeral service – live",
+      "id": "news-australia-news-live-allan-was-subjected-to-vile--651f3a1139",
+      "title": "Australia news live: Allan was subjected to ‘vile sexism’ as premier, Gillard says; former Melbourne gangster sentenced to life in prison in Iraq",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-07-28T20:36:20.000Z",
-      "summary": "The Republican senator died earlier this month; his funeral was attended by members of Congress as well as Benjamin Netanyahu and Volodymyr Zelenskyy Sign up for the Breaking Ne...",
+      "publishedAt": "2026-07-28T22:44:11.000Z",
+      "summary": "Former PM says ousted Victorian premier was ‘courageous in combating misogyny’ and was a trailblazer for other women. Follow updates Get our breaking news email , free app or da...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ebay-agrees-56m-settlement-with-bloggers-over-ha-74855c306b",
+      "id": "news-delulu-opposition-thinks-youth-are-with-it-rahul-c18f88152b",
+      "title": "Delulu opposition thinks youth are with it, Rahul suffering from FOMO: NDA",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/delulu-opposition-thinks-youth-are-with-it-rahul-suffering-from-fomo-nda/articleshow/132696081.cms",
+      "tag": "India",
+      "publishedAt": "2026-07-28T22:28:12.000Z",
+      "summary": "BJP and allies defended the government's handling of student protests and paper leaks. They asserted that the youth trust Prime Minister Modi's commitment to reforms. Opposition...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bjp-rejects-report-on-govt-offer-to-change-pradh-faccd11798",
+      "title": "BJP rejects report on Govt offer to change Pradhan portfolio",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/bjp-rejects-report-on-govt-offer-to-change-pradhan-portfolio-10808149",
+      "tag": "India",
+      "publishedAt": "2026-07-28T22:07:40.000Z",
+      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-cpi-m-pdp-condemn-killings-by-security-forces-in-96971851f9",
+      "title": "CPI(M), PDP condemn killings by security forces in POK",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/cpim-pdp-condemn-killings-by-security-forces-in-pok/article71277896.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-28T22:04:43.000Z",
+      "summary": "Reports claim 21 people were killed and dozens injured in firing by security forces on supporters of the Joint Awami Action Committee in Rawalakot on July 27",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-japan-kumamoto-earthquake-what-happened-damage-v-5dd2ce5bf3",
+      "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-28T21:59:40.000Z",
+      "summary": "A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ebay-agrees-56m-settlement-with-bloggers-over-ha-d5afd3b22e",
       "title": "eBay agrees $56m settlement with bloggers over harassment case",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
       "tag": "US",
-      "publishedAt": "2026-07-28T20:31:15.000Z",
+      "publishedAt": "2026-07-28T21:49:16.000Z",
       "summary": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-keiko-fujimori-is-inaugurated-as-peru-s-presiden-a2bccdff27",
-      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
+      "id": "news-japan-mounts-rescues-in-buildings-that-collapsed-45eb17210d",
+      "title": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
       "tag": "US",
-      "publishedAt": "2026-07-28T20:30:50.000Z",
-      "summary": "The 51-year-old daughter of the late former President Alberto Fujimori, Peru's new conservative leader has pledged to fight crime with an \"iron fist.\"",
+      "publishedAt": "2026-07-28T21:43:17.000Z",
+      "summary": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-two-army-personnel-injured-in-landmine-explosion-c9c84a529d",
+      "title": "Two Army Personnel Injured In Landmine Explosion In Jammu And Kashmir",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/two-army-personnel-injured-in-landmine-explosion-in-jammu-and-kashmirs-uri-11835359",
+      "tag": "India",
+      "publishedAt": "2026-07-28T21:08:04.000Z",
+      "summary": "Two Army personnel were injured in a landmine explosion near the Line of Control (LoC) in the Uri sector of north Kashmir's Baramulla district.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-as-spain-battles-wildfires-its-politicians-battl-173683ce37",
+      "title": "As Spain battles wildfires, its politicians battle over climate change's role",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
+      "tag": "US",
+      "publishedAt": "2026-07-28T20:31:54.000Z",
+      "summary": "Crews are still battling wildfires that broke out last week and have burned nearly 200,000 acres across Spain. The country is bracing for another round of extreme heat, with tem...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -83,43 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-assam-floods-seven-more-deaths-in-24-hours-over--3cedb60d1e",
-      "title": "Assam Floods: Seven More Deaths In 24 Hours, Over 3 Lakh People Affected",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/assam-flood-seven-more-deaths-in-24-hours-over-3-lakh-people-affected-11835207",
-      "tag": "India",
-      "publishedAt": "2026-07-28T20:02:16.000Z",
-      "summary": "Seven more deaths pushed the toll in the Assam floods to 75 on Tuesday, though the number of affected population came down to 3.32 lakh across seven districts, an official bulle...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-nmc-releases-eligibility-guidelines-for-neet-can-600dd4aa63",
-      "title": "NMC releases eligibility guidelines for NEET candidates with disability – two weeks after results",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/india/nmc-releases-eligibility-guidelines-for-neet-candidates-with-disability-two-weeks-after-results-10808011",
-      "tag": "India",
-      "publishedAt": "2026-07-28T19:15:56.000Z",
-      "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-many-feared-dead-from-7-1-magnitude-quake-in-kum-b3c12b9610",
-      "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-28T20:36:48.000Z",
-      "summary": "A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-apple-becomes-second-ever-5tn-company-as-investo-6c4585da60",
-      "title": "Apple becomes second ever $5tn company as investors flee AI stocks",
+      "id": "news-trump-administration-reportedly-plans-to-end-med-d2efb36e1d",
+      "title": "Trump administration reportedly plans to end Medicare subsidy that tempers drug costs for seniors – live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-07-28T20:33:14.000Z",
-      "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-off Apple has become only the second company to pass the...",
+      "publishedAt": "2026-07-28T22:24:46.000Z",
+      "summary": "The change will stop $3.6bn in subsidies, making the cost of prescription drug plans more expensive for seniors next year, the Wall Street Journal reports Sign up for the Breaki...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-rescuers-pick-through-wreckage-after-devastating-d429ed997e",
+      "title": "Rescuers pick through wreckage after ‘devastating’ Wisconsin tornado",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/wisconsin-tornado",
+      "tag": "Europe",
+      "publishedAt": "2026-07-28T22:16:26.000Z",
+      "summary": "No deaths reported after twister leveled homes and topples trees and power lines in north-east of state First responders searched homes and buildings on Tuesday for possible vic...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
