@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-07-29T18:57:31.907Z",
+  "updatedAt": "2026-07-29T20:09:26.230Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-claude-opus-5-became-downright-ruthless-when-tas-3fe9059e24",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "id": "tech-the-us-government-s-robot-ban-also-includes-vacu-6fd1b1928b",
+      "title": "The US government's robot ban also includes vacuums",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2226533/the-us-government-robot-ban-also-includes-vacuums",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T19:47:40.000Z",
+      "summary": "Robots apparently don't need to be bipedal to be caught up in the FCC's new foreign-made robot ban.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-hugging-face-ai-break-in-as-told-through-an--d117ea6632",
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "tag": "Running",
-      "publishedAt": "2026-07-29T18:45:27.000Z",
-      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T19:44:49.000Z",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-which-of-dyson-s-2026-vacuum-models-is-the-best-93498534fb",
+      "title": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/dyson-vacuum-comparison-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T19:08:24.000Z",
+      "summary": "Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +43,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-it-s-frighteningly-easy-to-jailbreak-some-fronti-36f713a88b",
-      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T18:30:00.000Z",
-      "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-google-begins-global-rollout-of-age-verification-41fe86f153",
       "title": "Google begins global rollout of age verification API in Google Play",
       "source": "Ars Technica",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-29T18:08:22.000Z",
       "summary": "Google's new API relies on parents to set age ranges in Family Link.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-teases-the-pixel-11-pro-and-hints-at-a-ne-fddda4144d",
-      "title": "Google teases the Pixel 11 Pro and hints at a new camera bar feature",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2226320/google-pixel-11-pro-camera-bar-tease",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T17:40:19.000Z",
-      "summary": "We played spot the difference and noticed this intriguing difference in Google's teaser for the Pixel 11 Pro.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-president-says-it-s-building-a-family-of--aa428154f0",
-      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "id": "tech-waymos-are-starting-to-run-on-freeways-again-f6a190e1a7",
+      "title": "Waymos are starting to run on freeways again",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2226530/waymos-are-starting-to-run-on-the-freeways-again",
       "tag": "Technology",
-      "publishedAt": "2026-07-29T18:15:02.000Z",
-      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its...",
+      "publishedAt": "2026-07-29T19:45:05.000Z",
+      "summary": "Waymo paused highway operations in May after several robotaxis drove into sections that were closed for construction.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-us-government-just-banned-roombas-59a5fbb0fd",
-      "title": "The US government just banned Roombas",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T18:13:09.000Z",
-      "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spy...",
+      "id": "tech-claude-opus-5-became-downright-ruthless-when-tas-3fe9059e24",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
+      "tag": "Running",
+      "publishedAt": "2026-07-29T18:45:27.000Z",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
