@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-07-29T01:42:52.803Z",
+  "updatedAt": "2026-07-29T04:59:48.126Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-openai-s-rogue-agent-compromised-a-customer-at-a-fb89f73022",
+      "title": "OpenAI's rogue agent compromised a customer at a second tech firm, executive says",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/openais-rogue-agent-compromised-a-customer-at-a-second-tech-firm-executive-says/article71279639.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T04:08:25.000Z",
+      "summary": "Modal said the customer had “published an unauthenticated endpoint that allowed anyone on the internet to use their sandboxes for code execution”",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-misfortunes-that-never-happened-the-hidden-cost--a7c53b0c98",
+      "title": "Misfortunes that never happened: the hidden cost of fears on",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/misfortunes-never-happened-hidden-cost-fears",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T03:30:00.000Z",
+      "summary": "Explore how anticipatory fear makes us suffer over events that never occur, and learn practical ways to break the cycle of worry and anxiety.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-whatsapp-web-now-supports-group-video-calls-quic-59dd787b84",
+      "title": "WhatsApp Web Now Supports Group Video Calls; QuickHD, Noise Suppression Features Rolling Out",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/apps/news/whatsapp-web-group-video-calls-quickhd-noise-suppression-features-update-11835883",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T03:12:35.000Z",
+      "summary": "WhatsApp announced several new audio and video calling features on Tuesday. The Meta-owned instant messaging app says users can engage in one-on-one and group calls directly thr...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-audi-has-a-new-flagship-designed-with-the-us-in--9071541124",
+      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T01:00:36.000Z",
+      "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-openai-s-rogue-ai-agent-hacked-more-than-just-hu-a5001a7a19",
       "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
@@ -53,46 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-reaction-wheel-failures-leave-swift-rescue-missi-fc29ce294c",
-      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T22:09:00.000Z",
-      "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-5-fiction-books-that-offer-surprising-life-lesso-471d1b8ffa",
-      "title": "5 Fiction books that offer surprising life lessons",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/fiction-books-offer-surprising-life-lessons",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T17:40:00.000Z",
-      "summary": "Discover five fiction books that deliver unexpected life lessons on resilience, purpose, relationships, and personal growth.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-pixel-11-pixel-11-pro-pixel-11-pro-xl-pri-1dcb8dee1b",
-      "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL Price, Battery Capacities Leaked Online",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/google-pixel-11-pro-xl-series-price-uk-battery-capacity-leak-11833437",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T13:31:47.000Z",
-      "summary": "Pixel 11 series price and battery details leaked online. As per the leak, the Pixel 11 will cost GBP 879 (roughly Rs. 1,12,000) for the 256GB storage model. The Pixel 11 Pro is...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-is-social-media-changing-how-you-eat-b1fad7dd7e",
-      "title": "Is social media changing how you eat?",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/children/is-social-media-changing-how-you-eat/article71220316.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T11:04:05.000Z",
-      "summary": "Social media influences and trends have been around us for quite long, but ever wondered if it’s actually changing the way you view food and healthy lifestyles?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-a-typo-landed-an-innocent-gamer-in-prison-for-18-8a3d63121e",
-      "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months",
+      "id": "tech-apple-briefly-tops-5-trillion-market-value-for-f-d4d5298292",
+      "title": "Apple briefly tops $5 trillion market value for first time",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-briefly-tops-5-trillion-market-value-for-first-time/article71279637.ece",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T23:30:00.000Z",
-      "summary": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authorities arrested, charged, and c...",
+      "publishedAt": "2026-07-29T03:43:56.000Z",
+      "summary": "Apple became the most valuable company in the world earlier this month, overtaking chipmaker Nvidia",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sloppy-and-clumsy-but-overwhelming-inside-the-ro-ac27d66cd9",
-      "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-moonshot-ai-releases-weights-for-kimi-k3-as-u-s--a123f453e2",
+      "title": "Moonshot AI releases weights for Kimi K3 as U.S. Big Tech firms debate open-weight models",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/moonshot-ai-releases-weights-for-kimi-k3-as-us-big-tech-firms-debate-open-weight-models/article71276300.ece",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T23:00:10.000Z",
-      "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
+      "publishedAt": "2026-07-29T02:40:17.000Z",
+      "summary": "Chinese AI firm Moonshot made headlines with the release of Kimi K3 earlier this month, igniting debate over the merits and risks of open-weight models",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
