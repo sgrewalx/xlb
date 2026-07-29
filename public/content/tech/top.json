@@ -1,35 +1,55 @@
 {
-  "updatedAt": "2026-07-29T04:59:48.126Z",
+  "updatedAt": "2026-07-29T07:44:42.372Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-openai-s-rogue-agent-compromised-a-customer-at-a-fb89f73022",
-      "title": "OpenAI's rogue agent compromised a customer at a second tech firm, executive says",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/openais-rogue-agent-compromised-a-customer-at-a-second-tech-firm-executive-says/article71279639.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T04:08:25.000Z",
-      "summary": "Modal said the customer had “published an unauthenticated endpoint that allowed anyone on the internet to use their sandboxes for code execution”",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-misfortunes-that-never-happened-the-hidden-cost--a7c53b0c98",
-      "title": "Misfortunes that never happened: the hidden cost of fears on",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/misfortunes-never-happened-hidden-cost-fears",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T03:30:00.000Z",
-      "summary": "Explore how anticipatory fear makes us suffer over events that never occur, and learn practical ways to break the cycle of worry and anxiety.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-whatsapp-web-now-supports-group-video-calls-quic-59dd787b84",
-      "title": "WhatsApp Web Now Supports Group Video Calls; QuickHD, Noise Suppression Features Rolling Out",
+      "id": "tech-motorola-edge-60-pro-gets-android-17-beta-in-ind-af465b84e5",
+      "title": "Motorola Edge 60 Pro Gets Android 17 Beta in India With Dynamic Island Feature, Moto AI Qira, and More",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/apps/news/whatsapp-web-group-video-calls-quickhd-noise-suppression-features-update-11835883",
+      "url": "https://www.gadgets360.com/mobiles/news/motorola-edge-60-pro-india-android-17-beta-update-rollout-user-reports-11836837",
       "tag": "Technology",
-      "publishedAt": "2026-07-29T03:12:35.000Z",
-      "summary": "WhatsApp announced several new audio and video calling features on Tuesday. The Meta-owned instant messaging app says users can engage in one-on-one and group calls directly thr...",
+      "publishedAt": "2026-07-29T07:17:14.000Z",
+      "summary": "Motorola appears to have expanded its Android 17 beta programme to the Motorola Edge 60 Pro for select members of its community forum in India. Users who have received the updat...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-why-india-imports-apples-despite-record-producti-1f51e85f9a",
+      "title": "Why India Imports Apples Despite Record Production, and How to Fix It",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/india-apple-billion-dollar-opportunity",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T07:06:32.000Z",
+      "summary": "India grows a record apple crop yet imports more than ever. The opportunity is not to grow more, but to store longer, process the culls and own the year.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-russia-charges-telegram-founder-pavel-durov-with-139109af46",
+      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism and puts him on wanted list",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism-and-puts-him-on-wanted-list/article71280355.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T07:00:44.000Z",
+      "summary": "Russia’s main domestic security agency says the founder of the messaging app Telegram has been charged with aiding terrorism and put on an international wanted list",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xai-is-challenging-a-new-minnesota-law-banning-n-71e4be5943",
+      "title": "xAI is challenging a new Minnesota law banning 'nudify' apps",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2225792/xai-challenging-new-minnesota-law-banning-nudify-apps",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T06:35:11.000Z",
+      "summary": "Elon Musk's xAI has filed a lawsuit to block Minnesota's new law that would ban apps that can generate nonconsensual intimate imagery from being enforced.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-lg-promo-codes-and-coupons-for-july-2026-13350b3a66",
+      "title": "LG Promo Codes and Coupons for July 2026",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/lg-promo-code",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T05:00:00.000Z",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -43,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-s-rogue-ai-agent-hacked-more-than-just-hu-a5001a7a19",
-      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T00:15:30.000Z",
-      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-cyera-agrees-to-acquire-oasis-security-for-1b-to-e0691cafce",
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
       "source": "TechCrunch",
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-29T00:09:05.000Z",
       "summary": "The deal is Cyera's third acquisition this year.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-us-is-banning-foreign-made-humanoid-robots-a-70e6a04a82",
-      "title": "The US is banning foreign-made humanoid robots and power inverters",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2225693/the-us-is-banning-foreign-made-humanoid-robots-and-power-inverters",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T00:02:16.000Z",
-      "summary": "It's part of a national security strategy to kickstart domestic production of emerging technology.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-briefly-tops-5-trillion-market-value-for-f-d4d5298292",
-      "title": "Apple briefly tops $5 trillion market value for first time",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/apple-briefly-tops-5-trillion-market-value-for-first-time/article71279637.ece",
+      "id": "tech-google-gemini-spark-personal-ai-agent-launched-i-c51639a4f2",
+      "title": "Google Gemini Spark Personal AI Agent Launched in India, Adds Agentic Features to Gmail, Docs, and More",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/news/google-gemini-spark-india-launch-paid-users-personal-ai-agents-11836847",
       "tag": "Technology",
-      "publishedAt": "2026-07-29T03:43:56.000Z",
-      "summary": "Apple became the most valuable company in the world earlier this month, overtaking chipmaker Nvidia",
+      "publishedAt": "2026-07-29T07:16:07.000Z",
+      "summary": "Google has launched Gemini Spark, its new personal AI agent, in India, the tech giant announced on Wednesday. The AI agent is powered by Google’s Gemini 3.6 Flash model. Google...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-moonshot-ai-releases-weights-for-kimi-k3-as-u-s--a123f453e2",
-      "title": "Moonshot AI releases weights for Kimi K3 as U.S. Big Tech firms debate open-weight models",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/moonshot-ai-releases-weights-for-kimi-k3-as-us-big-tech-firms-debate-open-weight-models/article71276300.ece",
+      "id": "tech-the-phone-that-keeps-up-with-your-content-not-ju-deb11f0410",
+      "title": "The Phone That Keeps Up With Your Content, Not Just Your Calls",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/sponsored/the-phone-that-keeps-up-with-your-content-not-just-your-calls-11836860",
       "tag": "Technology",
-      "publishedAt": "2026-07-29T02:40:17.000Z",
-      "summary": "Chinese AI firm Moonshot made headlines with the release of Kimi K3 earlier this month, igniting debate over the merits and risks of open-weight models",
+      "publishedAt": "2026-07-29T07:11:06.000Z",
+      "summary": "‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
