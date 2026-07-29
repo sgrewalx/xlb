@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-07-28T23:51:06.168Z",
+  "updatedAt": "2026-07-29T01:42:52.803Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-a-typo-landed-an-innocent-gamer-in-prison-for-18-8a3d63121e",
-      "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
+      "id": "tech-openai-s-rogue-ai-agent-hacked-more-than-just-hu-a5001a7a19",
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
       "source": "Wired",
-      "url": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months",
+      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face",
       "tag": "Technology",
-      "publishedAt": "2026-07-28T23:30:00.000Z",
-      "summary": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authorities arrested, charged, and c...",
+      "publishedAt": "2026-07-29T00:15:30.000Z",
+      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-cyera-agrees-to-acquire-oasis-security-for-1b-to-e0691cafce",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T00:09:05.000Z",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-us-is-banning-foreign-made-humanoid-robots-a-70e6a04a82",
+      "title": "The US is banning foreign-made humanoid robots and power inverters",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2225693/the-us-is-banning-foreign-made-humanoid-robots-and-power-inverters",
+      "tag": "Technology",
+      "publishedAt": "2026-07-29T00:02:16.000Z",
+      "summary": "It's part of a national security strategy to kickstart domestic production of emerging technology.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ebay-and-its-former-execs-settle-cyberstalking-c-0892e71f6f",
-      "title": "eBay and its former execs settle cyberstalking case brought by journalist couple",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2225652/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T22:31:41.000Z",
-      "summary": "Ina and David Steiner will receive compensation after a 2019 campaign to silence their critiques of the company.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-reaction-wheel-failures-leave-swift-rescue-missi-fc29ce294c",
       "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
       "source": "Ars Technica",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-28T22:09:00.000Z",
       "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-bot-detection-startup-spur-nabs-200m-from-insigh-f4443c50af",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T21:29:34.000Z",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-a-typo-landed-an-innocent-gamer-in-prison-for-18-8a3d63121e",
+      "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months",
+      "tag": "Technology",
+      "publishedAt": "2026-07-28T23:30:00.000Z",
+      "summary": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authorities arrested, charged, and c...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-sloppy-and-clumsy-but-overwhelming-inside-the-ro-ac27d66cd9",
       "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
       "source": "BBC Technology",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-28T23:00:10.000Z",
       "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-fired-tesla-manager-says-full-self-driving-cars--7e6b9e524c",
-      "title": "Fired Tesla manager says Full Self-Driving cars were 'rolling hazards'",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2225645/tesla-full-self-driving-cars-were-rolling-hazards-fired-manager",
-      "tag": "Technology",
-      "publishedAt": "2026-07-28T22:14:23.000Z",
-      "summary": "A new lawsuit accuses Tesla of overextending the safety operators overseeing its robotaxis.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
