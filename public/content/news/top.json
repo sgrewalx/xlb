@@ -1,25 +1,65 @@
 {
-  "updatedAt": "2026-07-30T20:58:13.416Z",
+  "updatedAt": "2026-07-30T22:05:10.214Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-mistaken-username-sent-man-to-prison-for-18-mont-9c36a846c5",
-      "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
+      "id": "news-india-wants-to-join-the-strawberry-superpowers-a5a9970227",
+      "title": "India wants to join the strawberry superpowers",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-07-30T22:04:09.000Z",
+      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-thousands-of-migrants-enter-ceuta-a-spanish-encl-d8083b4f60",
+      "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
       "tag": "US",
-      "publishedAt": "2026-07-30T20:51:03.000Z",
-      "summary": "An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was invo...",
+      "publishedAt": "2026-07-30T22:00:25.000Z",
+      "summary": "The arrivals in Ceuta, a six-mile-long peninsula on Morocco’s northern coast that Spain has governed for centuries, have fueled political tensions.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-parliament-passes-paper-leak-bill-as-opposition--9f94311b6c",
-      "title": "Parliament passes paper leak Bill as Opposition walks out of Rajya Sabha",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajya-sabha-too-passes-bill-on-paper-leaks-opposition-walks-out-of-voting/article71287509.ece",
+      "id": "news-australia-news-live-attorneys-general-meet-to-re-0f44677204",
+      "title": "Australia news live: attorneys general meet to reform working with children checks; leaders gather for Garma festival",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-07-30T21:54:32.000Z",
+      "summary": "Attorneys general meet in Darwin to work on nationalising the working with children check after serious allegations of safety breaches in childcare sector. Follow live Get our b...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-16-indians-including-10-seamen-killed-in-middle--a748028b77",
+      "title": "16 Indians, including 10 seamen, killed in Middle East conflict: Government",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/16-indians-including-10-seamen-killed-in-middle-east-conflict-government/articleshow/132750491.cms",
       "tag": "India",
-      "publishedAt": "2026-07-30T20:45:54.000Z",
-      "summary": "Jitendra Singh says the government has made efforts to free medical education from management quota malice while replying to the debate in Upper House; Kharge demands SC-monitor...",
+      "publishedAt": "2026-07-30T21:53:23.000Z",
+      "summary": "Sixteen Indian nationals, including ten seafarers, have died in the West Asia conflict. Seventy-five other Indian nationals sustained injuries in the same regional conflict. In...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-why-is-us-gdp-growth-slowing-and-how-can-it-be-r-b84a14d146",
+      "title": "Why is US GDP growth slowing, and how can it be reversed?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-07-30T21:39:37.000Z",
+      "summary": "Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-naveen-patnaik-lambasts-bjp-government-for-chang-b91ac18ea5",
+      "title": "Naveen Patnaik lambasts BJP government for changing Indian Hockey jersey colour from blue to saffron",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-lambasts-bjp-government-for-changing-indian-hockey-jersey-colour-from-blue-to-saffron/article71287459.ece",
+      "tag": "India",
+      "publishedAt": "2026-07-30T21:21:21.000Z",
+      "summary": "Just because the government changed in Odisha, it should not change our national team colours, he said",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -31,46 +71,6 @@
       "publishedAt": "2026-07-30T20:42:51.000Z",
       "summary": "XLB brief: a timely india item from Indian Express, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-after-pm-row-new-meta-protocols-for-vip-accounts-c72afa5f01",
-      "title": "After PM row, new Meta protocols for VIP accounts",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/after-pm-row-new-meta-protocols-for-vip-accounts/articleshow/132750139.cms",
-      "tag": "India",
-      "publishedAt": "2026-07-30T20:40:55.000Z",
-      "summary": "Meta has introduced new protocols for handling prominent individuals' accounts. This follows the temporary removal of Prime Minister Narendra Modi's Facebook video. The company...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-security-camera-shows-russian-missile-exploding--c978b79430",
-      "title": "Security camera shows ‘Russian missile’ exploding in Poland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-07-30T20:39:38.000Z",
-      "summary": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-middle-east-crisis-live-tensions-rise-in-region--c746e73374",
-      "title": "Middle East crisis live: tensions rise in region after US launches ‘heavy’ strikes on Iran",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-      "tag": "Europe",
-      "publishedAt": "2026-07-30T20:35:10.000Z",
-      "summary": "Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday US launches fresh stri...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bbc-inside-science-f57ec09450",
-      "title": "BBC Inside Science",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct977y?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-07-30T20:00:00.000Z",
-      "summary": "What if the Goldilocks zone is for idiots?",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
       "id": "news-france-spain-eye-wildfire-reprieve-as-other-blaz-d256fa6e1e",
@@ -103,23 +103,23 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-execution-nation-4bfacf3d01",
-      "title": "Execution Nation",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/30/world/us-death-penalty-iran-saudi-world-cup.html",
-      "tag": "US",
-      "publishedAt": "2026-07-30T20:47:34.000Z",
-      "summary": "The United States is an outlier in the West. We look at why the country clings to the death penalty.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-war-live-updates-saudis-form-military-allia-5b50dd17e8",
+      "id": "news-iran-war-live-updates-saudis-form-military-allia-7d75092b40",
       "title": "Iran War Live Updates: Saudis Form Military Alliance to Protect Red Sea Shipping",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
       "tag": "US",
-      "publishedAt": "2026-07-30T20:43:02.000Z",
+      "publishedAt": "2026-07-30T21:48:06.000Z",
       "summary": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-middle-east-crisis-live-iraq-says-it-had-no-prio-33414d4a05",
+      "title": "Middle East crisis live: Iraq says it had ‘no prior knowledge’ of US-Saudi attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+      "tag": "Europe",
+      "publishedAt": "2026-07-30T21:47:01.000Z",
+      "summary": "Iraqi prime minister postpones trip to Saudi Arabia after attacks as government spokesperson denies Trump’s claim that strikes were coordinated with Iraq US launches fresh strik...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
