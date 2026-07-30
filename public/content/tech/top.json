@@ -1,25 +1,75 @@
 {
-  "updatedAt": "2026-07-30T15:02:01.850Z",
+  "updatedAt": "2026-07-30T17:14:46.756Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-razer-s-new-keyboards-drop-the-price-on-powerful-5aa1e7343a",
-      "title": "Razer’s new keyboards drop the price on powerful gaming features",
+      "id": "tech-abc-demands-fcc-drop-its-punitive-early-license--a072865a44",
+      "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+      "url": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T15:00:00.000Z",
-      "summary": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering c...",
+      "publishedAt": "2026-07-30T17:08:14.000Z",
+      "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-forward-deployed-engineers-are-the-ai-industry-s-096b12adc8",
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession",
+      "id": "tech-for-the-first-time-zoox-can-charge-people-for-ri-81c219e377",
+      "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T15:00:00.000Z",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "publishedAt": "2026-07-30T17:06:13.000Z",
+      "summary": "The temporary exemption from federal safety standards will let Amazon’s Zoox launch a real, paid robotaxi service in Las Vegas.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-linkedin-is-testing-a-seems-like-ai-slop-reporti-59e503aa3c",
+      "title": "LinkedIn is testing a 'seems like AI slop' reporting tool",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2227188/linkedin-testing-seems-like-ai-slop-reporting-tool",
+      "tag": "Technology",
+      "publishedAt": "2026-07-30T17:02:54.000Z",
+      "summary": "The company is also removing some of its own AI-writing features.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-okta-buys-ai-security-startup-permiso-source-say-85aa146a7e",
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m",
+      "tag": "Technology",
+      "publishedAt": "2026-07-30T16:09:42.000Z",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-quantum-computers-outperform-classical-ones-with-8d5b6e45df",
+      "title": "Quantum computers outperform classical ones, with results you can trust",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right",
+      "tag": "Technology",
+      "publishedAt": "2026-07-30T15:59:37.000Z",
+      "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-assassin-s-creed-hexe-will-not-release-until-sec-1c4e98f77d",
+      "title": "Assassin's Creed Hexe Will Not Release Until Second Half of 2027 at the Earliest, Claims Insider",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/games/news/assassins-creed-hexe-launch-window-tipped-second-half-2027-ubisoft-11844801",
+      "tag": "Technology",
+      "publishedAt": "2026-07-30T15:42:16.000Z",
+      "summary": "Assassin's Creed Hexe is the next mainline title in the series, but Ubisoft has not announced a release window for the title. An industry insider, however, has claimed that the...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-phonepe-launches-pulsepro-actionable-data-intell-26e6f79b9c",
+      "title": "PhonePe launches PulsePro: Actionable data intelligence for Indian businesses",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/07/phonepe-launches-pulsepro-actionable-data-intelligence-for-indian-businesses",
+      "tag": "Technology",
+      "publishedAt": "2026-07-30T15:19:58.000Z",
+      "summary": "PhonePe PulsePro is a data intelligence platform that enables businesses to make informed decisions using aggregated, privacy-safe insights from India's digital transactions.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,46 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-7-books-that-will-make-you-more-comfortable-with-15cf4842ad",
-      "title": "7 Books that will make you more comfortable with ambiguity",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/06/7-books-make-comfortable-ambiguity",
-      "tag": "Technology",
-      "publishedAt": "2026-07-30T14:10:00.000Z",
-      "summary": "Discover seven thought-provoking books that help you embrace uncertainty, complexity, and the unanswered questions of life.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-qualcomm-to-reportedly-raise-snapdragon-chip-pri-520e23b487",
-      "title": "Qualcomm to Reportedly Raise Snapdragon Chip Prices, Android Phones Could Get Costlier",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/qualcomm-snapdragon-chip-prices-ceo-cristiano-amon-android-phones-costlier-memory-crunch-report-11843935",
-      "tag": "Technology",
-      "publishedAt": "2026-07-30T13:35:20.000Z",
-      "summary": "Rising memory prices and supply shortages have negatively affected the technology sector. This situation also hiked prices of products ranging from smartphones, tablets, smart g...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-use-screen-mirroring-on-roku-with-your-an-ca954db371",
-      "title": "How to use screen mirroring on Roku with your Android phone",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2222918/how-to-screen-mirror-roku-android-phone",
-      "tag": "Technology",
-      "publishedAt": "2026-07-30T13:30:00.000Z",
-      "summary": "Your Roku can probably display what's on your phone screen, if you have Android.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-doge-veterans-are-landing-big-jobs-at-prediction-87f1b707a2",
-      "title": "DOGE Veterans Are Landing Big Jobs at Prediction Markets",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets",
-      "tag": "Technology",
-      "publishedAt": "2026-07-30T13:20:16.000Z",
-      "summary": "Polymarket and Novig have both recently brought ex-DOGE affiliates onboard as scrutiny of the industry intensifies.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-eu-aims-for-seven-ai-gigafactories-with-10-billi-bd77fe5423",
       "title": "EU aims for seven AI gigafactories with €10 billion plan in race with U.S., China",
       "source": "The Hindu Technology",
@@ -80,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-30T12:20:19.000Z",
       "summary": "European Commission said it aims to attract at least €20 billion in ‌private investments for the ‌projects; the total was increased from five ⁠planned gigafactories to seven fol...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-mythos-attack-on-3rd-round-pqc-algorithm-candida-259ee132fc",
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years",
-      "tag": "Technology",
-      "publishedAt": "2026-07-29T22:07:06.000Z",
-      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-in-the-hugging-face-breach-openai-s-hacker-was-n-b6ce6fd878",
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable",
+      "id": "tech-google-is-working-on-chrome-updates-that-don-t-r-3e70f0b3d9",
+      "title": "Google is working on Chrome updates that don’t require restarts",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T14:48:32.000Z",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against HuggingFace has nothing to do with AI, but traditional cybersecuri...",
+      "publishedAt": "2026-07-30T17:00:00.000Z",
+      "summary": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-zoox-can-now-charge-for-rides-in-its-steering-wh-70e84f58e3",
-      "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+      "id": "tech-chrome-needs-twice-a-week-patching-thanks-to-ai--bcf9ac75dc",
+      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T14:35:43.000Z",
-      "summary": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has...",
+      "publishedAt": "2026-07-30T17:00:00.000Z",
+      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
