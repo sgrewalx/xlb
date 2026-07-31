@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-07-30T23:10:01.373Z",
+  "updatedAt": "2026-07-31T01:52:27.819Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-reddit-reports-a-solid-quarter-but-shows-signs-o-890d6bced1",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact",
+      "id": "tech-three-things-we-learned-about-ai-from-big-tech-e-138bcaa005",
+      "title": "Three things we learned about AI from Big Tech earnings",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T23:08:58.000Z",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "publishedAt": "2026-07-31T01:31:50.000Z",
+      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spotify-s-new-feature-lets-you-leave-little-note-24f68b1620",
-      "title": "Spotify's new feature lets you leave little notes on songs",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2227542/spotify-new-feature-lets-you-leave-little-user-notes-on-songs",
+      "id": "tech-anthropic-says-claude-hacked-real-systems-during-b4a051b2cd",
+      "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T22:47:02.000Z",
-      "summary": "Give me a mixtape, and hold the tape.",
+      "publishedAt": "2026-07-31T01:24:26.000Z",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-says-its-own-ai-models-breached-three--09ff612a88",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+      "tag": "Technology",
+      "publishedAt": "2026-07-31T01:06:54.000Z",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-reddit-s-ceo-sure-seems-frustrated-with-google-s-9898037a38",
+      "title": "Reddit's CEO sure seems frustrated with Google's AI overviews",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2227553/reddit-s-ceo-sure-seems-frustrated-with-google-s-ai-overviews",
+      "tag": "Technology",
+      "publishedAt": "2026-07-30T23:09:07.000Z",
+      "summary": "Amid rumors of Google breakup, Huffman says \"people don't want a summary of reddit, they want reddit.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,26 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-07-30T22:29:45.000Z",
       "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intel...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-india-wants-to-join-the-strawberry-superpowers-4dfca97842",
-      "title": "India wants to join the strawberry superpowers",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-07-30T22:04:09.000Z",
-      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-a-leaked-memo-ties-cyberattacks-on-minnesota-wat-46baf5a2ce",
-      "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran",
-      "tag": "Technology",
-      "publishedAt": "2026-07-30T21:20:00.000Z",
-      "summary": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-investors-love-ai-as-long-as-you-re-a-cloud-host-c6f995962f",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host",
+      "id": "tech-teen-hackers-tell-bbc-how-police-are-helping-the-78be4f1ec7",
+      "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T22:41:41.000Z",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "publishedAt": "2026-07-31T00:42:48.000Z",
+      "summary": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-says-gaming-slowdown-and-app-store-changes-cb480bcf75",
-      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "id": "tech-apple-stockpiles-inventory-as-it-braces-for-sign-ca6db7dae5",
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints",
       "tag": "Technology",
-      "publishedAt": "2026-07-30T22:37:06.000Z",
-      "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services busines...",
+      "publishedAt": "2026-07-30T23:28:05.000Z",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
