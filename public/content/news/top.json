@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-08-01T17:54:35.587Z",
+  "updatedAt": "2026-08-01T18:57:02.871Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-commercial-lpg-price-cut-by-about-200-atf-price--34181fe559",
-      "title": "Commercial LPG price cut by about ₹200; ATF price hiked by ₹5",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/commercial-lpg-prices-cut-by-209-per-cylinder/article71293413.ece",
+      "id": "news-nirmal-purja-renowned-mountaineer-is-found-dead--f77dee1c6e",
+      "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html",
+      "tag": "US",
+      "publishedAt": "2026-08-01T18:47:13.000Z",
+      "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-spain-s-pedro-s-nchez-was-a-hero-of-migrants-aft-c8e4661270",
+      "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+      "tag": "US",
+      "publishedAt": "2026-08-01T18:33:27.000Z",
+      "summary": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-cloudburst-damages-structures-in-kishtwar-rain-h-76c1ddd49a",
+      "title": "Cloudburst damages structures in Kishtwar; rain halts Amarnath Yatra",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/cloudburst-damages-structures-in-kishtwar-rain-halts-amarnath-yatra/articleshow/132795533.cms",
       "tag": "India",
-      "publishedAt": "2026-08-01T17:51:55.000Z",
-      "summary": "Price of 5-kg free trade LPG cylinders comes down by ₹46",
+      "publishedAt": "2026-08-01T18:27:00.000Z",
+      "summary": "Flash floods in Kishtwar's Chatroo area damaged shops and houses early Saturday. Vehicles were washed away, and the national highway sustained damage from debris. The Amarnath Y...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-apjac-urges-govt-to-fulfil-pending-demands-22cfa2787b",
+      "title": "APJAC urges govt. to fulfil pending demands",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/apjac-urges-govt-to-fulfil-pending-demands/article71295602.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-01T18:24:11.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-at-least-three-killed-in-explosion-near-cafe-in--765cbef802",
+      "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-01T18:22:35.000Z",
+      "summary": "⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-come-to-bengal-as-much-as-you-want-suvendu-adhik-1682a7a832",
+      "title": "'Come To Bengal As Much As You Want': Suvendu Adhikari To Taslima Nasreen",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/come-to-bengal-as-much-as-you-want-suvendu-adhikari-to-taslima-nasreen-11853540",
+      "tag": "India",
+      "publishedAt": "2026-08-01T18:15:04.000Z",
+      "summary": "Welcoming Nasreen to what he called a \"safe West Bengal\", Adhikari said her presence itself demonstrated that democracy, constitutional values, freedom of speech and fundamental...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -17,10 +67,10 @@
       "title": "Italy putting nearly all major cities on highest heat alert",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
+      "tag": "Europe",
       "publishedAt": "2026-08-01T17:51:46.000Z",
       "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
       "id": "news-trump-offering-early-access-to-online-posts-in-m-c866ebd51b",
@@ -30,46 +80,6 @@
       "tag": "Europe",
       "publishedAt": "2026-08-01T17:29:00.000Z",
       "summary": "Truth Social, where Trump’s account is by far the largest, to offer users early access for up to $100,000 per month Donald Trump is now offering early access to his Truth Social...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-israeli-forces-detain-residents-and-demolish-hom-ce7fa2f184",
-      "title": "Israeli forces detain residents and demolish homes in southern Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-01T17:28:52.000Z",
-      "summary": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria's southern provinces.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-i-flew-in-the-douglas-dc-3-a-wwii-workhorse-of-a-a989c26f03",
-      "title": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
-      "tag": "US",
-      "publishedAt": "2026-08-01T17:12:16.000Z",
-      "summary": "The Douglas DC-3 was mass-produced during World War II. Today, one of the few still remaining transports passengers in Colombia’s jungle.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-neet-pg-2026-gets-major-overhaul-centres-closer--7a4bc053f4",
-      "title": "NEET-PG 2026 gets major overhaul: Centres closer to home, single-shift exam, fewer questions with no change in test duration",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/neet-pg-2026-gets-major-overhaul-centres-closer-to-home-single-shift-exam-less-questions-with-no-change-in-test-duration/articleshow/132793694.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-01T17:07:44.000Z",
-      "summary": "NEET-PG exam sees significant changes for candidate convenience and enhanced security. Candidates now select three preferred states for their examination centre locations. The e...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-elite-mountaineer-nirmal-nims-purja-killed-in-av-b56eb3ff20",
-      "title": "Elite Mountaineer Nirmal 'Nims' Purja Killed In Avalanche On PoK Peak",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/elite-mountaineer-nirmal-nims-purja-killed-in-avalanche-on-pok-peak-11852569",
-      "tag": "India",
-      "publishedAt": "2026-08-01T15:44:10.000Z",
-      "summary": "\"Today, it is with profound sadness and immense heartbreak that we confirm that Nirmal 'Nimsdai' Purja, tragically lost his life following the avalanche on Broad Peak,\" Elite Ex...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -83,43 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-lebanese-who-fled-the-israeli-invasion-visit-to--c582825c30",
-      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-      "tag": "US",
-      "publishedAt": "2026-08-01T10:00:00.000Z",
-      "summary": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
+      "id": "news-children-with-disability-should-be-encouraged-to-52c51c82be",
+      "title": "Children with disability should be encouraged to pursue their strengths: Judge",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/children-with-disability-should-be-encouraged-to-pursue-their-strengths-judge/article71294197.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-01T18:23:25.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-counterfeit-military-combat-uniform-racket-comes-129756b8db",
-      "title": "Counterfeit military combat uniform racket comes to light in Rajasthan",
+      "id": "news-govt-will-take-steps-to-create-employment-opport-9bcad53e12",
+      "title": "Govt. will take steps to create employment opportunities for graduates: Speaker J.C.D. Prabhakar",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/counterfeit-military-combat-uniform-racket-comes-to-light-in-rajasthan/article71295774.ece",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/govt-will-take-steps-to-create-employment-opportunities-for-graduates-speaker-jcd-prabhakar/article71295613.ece",
       "tag": "India",
-      "publishedAt": "2026-08-01T17:46:47.000Z",
-      "summary": "Army’s intelligence units and Rajasthan Police seize 1,000 metres of unauthorised Army-pattern combat cloth",
+      "publishedAt": "2026-08-01T18:22:09.000Z",
+      "summary": "Retired faculty members and staff were felicitated on the occasion",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-worker-injured-in-kulgam-attack-dies-l-g-pushes--18a621e6b0",
-      "title": "Worker injured in Kulgam attack dies; L-G pushes for SoPs to protect migrant labourers",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/migrant-workers-killed-in-jammu-kashmir-kulgam-terror-attack-updates/article71293425.ece",
+      "id": "news-fear-stalks-kashmir-s-brick-kilns-after-terroris-d0e2b9458c",
+      "title": "Fear stalks Kashmir’s brick kilns after terrorists kill 2 migrant workers",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/fear-stalks-kashmirs-brick-kilns-after-terrorists-kill-2-migrant-workers/articleshow/132795497.cms",
       "tag": "India",
-      "publishedAt": "2026-08-01T17:43:28.000Z",
-      "summary": "Security agencies asked to conduct ‘comprehensive review of SOPs’ to protect labourers in J&K; Deputy CM questions Centre’s peace narrative, demands high-level probe",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-vijay-must-visit-karnataka-on-august-3-says-prem-bb20e790be",
-      "title": "Vijay must visit Karnataka on August 3, says Premallatha Vijayakant",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/vijay-must-visit-karnataka-on-august-3-says-premallatha-vijayakant/article71294189.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-01T17:39:05.000Z",
-      "summary": "She was leading the party’s protests against the proposed dam by Karnataka",
+      "publishedAt": "2026-08-01T18:22:05.000Z",
+      "summary": "Two migrant labourers were killed Friday evening in Kulgam, causing panic among workers. Brick kilns across south Kashmir halted operations as labourers stayed indoors. Many wor...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
