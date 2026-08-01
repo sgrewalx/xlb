@@ -1,45 +1,65 @@
 {
-  "updatedAt": "2026-08-01T14:52:50.298Z",
+  "updatedAt": "2026-08-01T15:54:19.775Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-what-to-know-about-ceuta-bf9dc0509a",
-      "title": "What to Know About Ceuta",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-      "tag": "US",
-      "publishedAt": "2026-08-01T14:49:27.000Z",
-      "summary": "The peninsula on Morocco’s northern coast, which Spain has governed for centuries, has been a frequent site of mass migrant crossings and political tensions.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-spain-to-put-containment-fence-on-ceuta-s-border-a11fecc152",
-      "title": "Spain to put containment fence on Ceuta's border with Morocco after frontier rush that killed 67",
+      "id": "news-heavy-rain-in-kerala-set-exam-postponed-79a8d223f1",
+      "title": "Heavy rain in Kerala: SET exam postponed",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/spain-to-put-containment-fence-on-ceutas-border-with-morocco-after-frontier-rush-that-killed-67/article71294879.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-08-01T14:48:25.000Z",
-      "summary": "“We are relentless against those who break the law,” Spanish Interior Minister Fernando Grande-Marlaska told journalists in Ceuta",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-india-s-students-do-not-need-pm-modi-s-forgivene-aa43b1e29f",
-      "title": "India’s students do not need PM Modi's forgiveness, they are owed his apology: Rahul Gandhi",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/indias-students-do-not-need-pm-modis-forgiveness-they-are-owed-his-apology-rahul-gandhi/articleshow/132791491.cms",
+      "url": "https://www.thehindu.com/news/national/kerala/heavy-rain-in-kerala-set-exam-postponed/article71295479.ece",
       "tag": "India",
-      "publishedAt": "2026-08-01T14:38:40.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-08-01T15:53:19.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-spanish-pm-calls-for-urgent-eu-meeting-after-sel-e3ea4ba311",
+      "id": "news-israel-bombards-gaza-days-after-trump-announced--7ead5e30eb",
+      "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+      "tag": "US",
+      "publishedAt": "2026-08-01T15:50:12.000Z",
+      "summary": "Palestinian officials said at least two people were killed. The deal announced by President Trump calls in part for Hamas to give up its weapons and Israel to stop its attacks i...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-spain-attacks-selfish-response-of-some-eu-countr-20ba43f4e3",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-01T15:46:08.000Z",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-elite-mountaineer-nirmal-nims-purja-killed-in-av-9b5815c3eb",
+      "title": "Elite Mountaineer Nirmal 'Nims' Purja Killed In Avalanche On PoK Peak",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/elite-mountaineer-nirmal-nims-purja-killed-in-avalanche-on-pok-peak-11852569",
+      "tag": "India",
+      "publishedAt": "2026-08-01T15:35:54.000Z",
+      "summary": "\"Today, it is with profound sadness and immense heartbreak that we confirm that Nirmal 'Nimsdai' Purja, tragically lost his life following the avalanche on Broad Peak,\" Elite Ex...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-dmk-moves-sc-seeking-immediate-release-of-cauver-176de1f9d0",
+      "title": "DMK moves SC seeking immediate release of Cauvery water from Karnataka to Tamil Nadu",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/dmk-moves-sc-seeking-immediate-release-of-cauvery-water-from-karnataka-to-tamil-nadu/articleshow/132792083.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-01T15:18:42.000Z",
+      "summary": "The DMK has petitioned the Supreme Court for immediate Cauvery water release from Karnataka. Karnataka's government faces a directive to release 3,500 cusecs daily for fifteen d...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-spanish-pm-calls-for-urgent-eu-meeting-after-sel-fc6b9ae948",
       "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
       "tag": "Europe",
-      "publishedAt": "2026-08-01T14:36:16.000Z",
-      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro S...",
+      "publishedAt": "2026-08-01T15:05:05.000Z",
+      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Spain’s prime minister, Pedro Sánchez, has called for an urg...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -50,26 +70,6 @@
       "tag": "Europe",
       "publishedAt": "2026-08-01T14:28:20.000Z",
       "summary": "Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-mountaineer-nirmal-purja-killed-in-pakistan-aval-b4c1d8592f",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-01T14:11:40.000Z",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-group-of-men-drag-couple-into-forest-rob-them-at-7e8c2659a8",
-      "title": "Group Of Men Drag Couple Into Forest, Rob Them, Attempt To Rape Woman",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/group-of-men-drag-couple-into-forest-rob-them-attempt-to-rape-woman-11853099",
-      "tag": "India",
-      "publishedAt": "2026-08-01T13:16:09.000Z",
-      "summary": "Five people have been arrested in connection with the incident, which occurred near Gader village on Thursday night, and a search has been launched for two on-the-run accused, S...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-in-iran-the-u-s-appears-headed-for-a-strategic-d-97e46c9ace",
-      "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-      "tag": "US",
-      "publishedAt": "2026-08-01T14:46:19.000Z",
-      "summary": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-telugu-language-culture-takes-centre-stage-at-at-c0c000b14b",
-      "title": "Telugu language, culture takes centre stage at ATA conference in the United States",
+      "id": "news-kasimedu-fishermen-urge-cm-vijay-to-retrieve-7-b-1e0b5da227",
+      "title": "Kasimedu fishermen urge CM Vijay to retrieve 7 boats captured by Andhra Pradesh police",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telugu-language-culture-takes-centre-stage-at-ata-conference-in-the-united-states/article71294387.ece",
+      "url": "https://www.thehindu.com/news/cities/chennai/kasimedu-fishermen-urge-cm-vijay-to-retrieve-7-boats-captured-by-andhra-pradesh-police/article71295457.ece",
       "tag": "India",
-      "publishedAt": "2026-08-01T14:45:48.000Z",
+      "publishedAt": "2026-08-01T15:52:57.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-two-more-qnet-representatives-arrested-in-hydera-c2396272b3",
-      "title": "Two more QNET representatives arrested in Hyderabad investment fraud case",
+      "id": "news-pm-modi-inaugurates-viveka-smaraka-in-mysuru-3a90611c18",
+      "title": "PM Modi inaugurates Viveka Smaraka in Mysuru",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/two-more-qnet-representatives-arrested-in-hyderabad-investment-fraud-case/article71295054.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/pm-modi-inaugurates-viveka-smaraka-in-mysuru/article71295322.ece",
       "tag": "India",
-      "publishedAt": "2026-08-01T14:45:22.000Z",
+      "publishedAt": "2026-08-01T15:52:23.000Z",
       "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-incessant-downpour-disrupts-life-in-kerala-s-koz-a8111a57a0",
+      "title": "Incessant downpour disrupts life in Kerala’s Kozhikode",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/incessant-downpour-disrupts-life-in-keralas-kozhikode/article71295292.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-01T15:50:45.000Z",
+      "summary": "Eight relief camps opened in district accommodating 214 persons from 72 families evacuated from vulnerable areas",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
