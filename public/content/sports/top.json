@@ -1,16 +1,36 @@
 {
-  "updatedAt": "2026-08-01T18:48:58.122Z",
+  "updatedAt": "2026-08-01T20:03:00.034Z",
   "section": "Expanded Sports",
   "items": [
     {
-      "id": "sports-commonwealth-games-2026-kerr-on-hunt-for-mile-vi-2a9d08d01f",
-      "title": "Commonwealth Games 2026: Kerr on hunt for mile victory in athletics; Finucane wins third cycling gold – live",
+      "id": "sports-watch-sportscene-highlights-of-saturday-s-scotti-165dd8a6d8",
+      "title": "Watch: Sportscene highlights of Saturday's Scottish Premiership games",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-08-01T20:29:34.000Z",
+      "summary": "Highlights of Falkirk v St Mirren and Aberdeen v Hearts.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-commonwealth-games-2026-kerr-on-hunt-for-mile-vi-6e64870814",
+      "title": "Commonwealth Games 2026: Kerr on hunt for mile victory; England’s Hobbs wins cycling gold after pile-up – live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/sport/live/2026/aug/01/commonwealth-games-2026-netball-semi-finals-athletics-cycling-and-more-live",
       "tag": "Running",
-      "publishedAt": "2026-08-01T18:46:49.000Z",
+      "publishedAt": "2026-08-01T20:01:53.000Z",
       "summary": "Updates from Saturday’s live action around Glasgow Medal table | How ‘mop man’ Miller stole the show Boxing The first hands will be thrown just after 11am in women’s 54kg final...",
       "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
+    },
+    {
+      "id": "sports-grading-mlb-trade-deadline-deals-will-doval-impr-96b87e1ba7",
+      "title": "Grading MLB Trade Deadline Deals: Will Doval Improve Pirates Bullpen?",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-trade-deadline-grades",
+      "tag": "Sports",
+      "publishedAt": "2026-08-01T19:42:07.000Z",
+      "summary": "We're grading the deals ahead of Monday's MLB trade deadline.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
       "id": "sports-awesome-archer-s-four-wicket-spell-sinks-spirit-aa57159722",
@@ -21,26 +41,6 @@
       "publishedAt": "2026-08-01T18:41:05.000Z",
       "summary": "Southern Brave's Jofra Archer takes four wickets for only nine runs as London Spirit are bowled out for 105 in the men's Hundred at Lord's.",
       "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
-    },
-    {
-      "id": "sports-from-hospital-bed-to-yellow-metal-scent-of-succe-9d1088bad6",
-      "title": "From Hospital bed to yellow metal: 'Scent of success' smells like Jaismine",
-      "source": "The Hindu Sports",
-      "url": "https://www.thehindu.com/sport/from-hospital-bed-to-yellow-metal-scent-of-success-smells-like-jaismine/article71295901.ece",
-      "tag": "Sports",
-      "publishedAt": "2026-08-01T18:35:57.000Z",
-      "summary": "Having arrived in Glasgow with the burden of expectation and months of interrupted preparation, the gold medal meant far more than another title",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-call-for-full-review-as-pressure-grows-on-infant-72abf411e2",
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-08-01T17:07:46.000Z",
-      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     },
     {
       "id": "sports-norrie-beaten-by-shapovalov-in-los-cabos-semi-fi-da4292be32",
@@ -63,63 +63,63 @@
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-root-in-very-different-place-over-test-captaincy-0c0e78193a",
-      "title": "Root in 'very different place' over Test captaincy",
+      "id": "sports-nisbet-leads-from-front-as-aberdeen-turn-tables--3e14c8909e",
+      "title": "Nisbet leads from front as Aberdeen turn tables on Hearts",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
-      "tag": "Cricket",
-      "publishedAt": "2026-08-01T18:36:03.000Z",
-      "summary": "England's Joe Root is ready to embrace his second stint as Test captain, saying he is in a \"very different place\" to when he stepped down from the role four years ago.",
-      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz05yv1x9vro?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-08-01T19:58:27.000Z",
+      "summary": "What a difference a year makes as Aberdeen get the better of Hearts but what comes next for these two sides?",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     },
     {
-      "id": "sports-new-york-yankees-reportedly-send-pitcher-camilo--3815468f36",
-      "title": "New York Yankees Reportedly Send Pitcher Camilo Doval To Pittsburgh Pirates",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/new-york-yankees-reportedly-send-pitcher-camilo-doval-pittsburgh-pirates",
+      "id": "sports-lions-agree-to-terms-with-lb-devin-white-399b9ee4ff",
+      "title": "Lions agree to terms with LB Devin White",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-agree-to-terms-with-lb-devin-white",
       "tag": "Sports",
-      "publishedAt": "2026-08-01T18:31:53.000Z",
-      "summary": "The New York Yankees traded reliever Camilo Doval to the Pittsburgh Pirates in exchange for minor league prospects.",
+      "publishedAt": "2026-08-01T19:32:59.000Z",
+      "summary": "The Lions have agreed to terms with free agent linebacker Devin White on a one-year deal, according to Jordan Schultz of The Schultz Report.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-2026-mlb-trade-deadline-buzz-trades-tracker-aroz-09e617f732",
-      "title": "2026 MLB Trade Deadline Buzz, Trades Tracker: Arozarena, Kirby On The Move?",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/mlb/2026-mlb-trade-deadline-rumors-news-trades",
+      "id": "sports-reports-chiefs-wr-cyrus-allen-day-to-day-with-sh-eb4d8925c5",
+      "title": "Reports: Chiefs WR Cyrus Allen day-to-day with shin bruise",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-chiefs-wr-cyrus-allen-day-to-day-with-shin-bruise",
       "tag": "Sports",
-      "publishedAt": "2026-08-01T18:30:46.000Z",
-      "summary": "The 2026 MLB trade deadline is Monday, Aug. 3, at 6 p.m. ET. Here are the rumors, news and trades leading up to that day.",
+      "publishedAt": "2026-08-01T19:32:30.000Z",
+      "summary": "Chiefs rookie wide receiver Cyrus Allen appears to have avoided a serious injury on Saturday.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-mlb-trade-deadline-tracker-following-every-move--7de26b53a7",
+      "id": "sports-mlb-trade-deadline-tracker-following-every-move--106b5a27c3",
       "title": "MLB trade deadline tracker: Following every move of the 2026 deadline",
       "source": "CBS Sports",
       "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-tracker-2026",
       "tag": "Sports",
-      "publishedAt": "2026-08-01T18:26:01.000Z",
+      "publishedAt": "2026-08-01T19:23:27.000Z",
       "summary": "The 2026 trade deadline is set for Monday, Aug. 3, and the deals look like they could go right down to the last minute",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-durand-cup-ajaraie-scores-hat-trick-in-northeast-2435add2f0",
-      "title": "Durand Cup: Ajaraie scores hat-trick in NorthEast United’s rout of Bodoland",
-      "source": "The Hindu Sports",
-      "url": "https://www.thehindu.com/sport/football/durand-cup-ajaraie-scores-hat-trick-in-northeast-uniteds-rout-of-bodoland/article71295351.ece",
-      "tag": "Sports",
-      "publishedAt": "2026-08-01T18:22:08.000Z",
-      "summary": "The defending champion scores five in the second period of play after the Moroccan striker put it ahead on the stroke of half-time",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+      "id": "sports-scottish-premiership-mayo-and-nisbet-strike-late-3ac146c884",
+      "title": "Scottish Premiership: Mayo and Nisbet strike late to help Aberdeen stun Hearts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/aug/01/scottish-premiership-aberdeen-hearts-falkirk-st-mirren",
+      "tag": "Football",
+      "publishedAt": "2026-08-01T19:21:08.000Z",
+      "summary": "Two stoppage-time goals secured 2-1 win for the hosts Killian Phillips double gives St Mirren 2-0 win at Falkirk Hearts’ miserable summer continued as they conceded two late goa...",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     },
     {
-      "id": "sports-unnati-bags-bronze-india-s-record-cwg-haul-in-ju-7e8f22d034",
-      "title": "Unnati bags bronze, India's record CWG haul in judo rises to four medals",
-      "source": "The Hindu Sports",
-      "url": "https://www.thehindu.com/sport/unnati-bags-bronze-indias-record-cwg-haul-in-judo-rises-to-four-medals/article71295903.ece",
+      "id": "sports-colorado-judge-immediately-grants-extra-year-of--f0feffdd9e",
+      "title": "Colorado judge immediately grants extra year of eligibility to NCAA athletes who just graduated",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-basketball/news/colorado-judge-ruling-ncaa-five-for-five-seniors",
       "tag": "Sports",
-      "publishedAt": "2026-08-01T18:21:59.000Z",
-      "summary": "Unnati defeated South Africa's Skye Knoester by ippon, wrapping up the contest in just 1 minute and 7 seconds with a decisive move",
+      "publishedAt": "2026-08-01T19:12:30.000Z",
+      "summary": "A federal judge's injunction could grant a fifth year of eligibility to a massive amount of athletes, opening a chaotic transfer portal window in August",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     }
   ]
