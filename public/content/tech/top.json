@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-08-03T20:54:37.024Z",
+  "updatedAt": "2026-08-03T21:58:23.426Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-your-fitbit-data-can-now-connect-directly-to-app-a2ab926b3d",
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "tag": "Technology",
+      "publishedAt": "2026-08-03T21:24:23.000Z",
+      "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-research-roundup-6-cool-science-stories-we-almos-7b5b7cb82b",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5",
+      "tag": "Technology",
+      "publishedAt": "2026-08-03T20:13:37.000Z",
+      "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-aws-is-helping-vibe-coding-startup-superblocks-a-af7d7f56ef",
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
@@ -30,26 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-03T18:30:00.000Z",
       "summary": "Before you go spend money on new headphones, try these adjustments. You can probably improve the sound on the ones you have.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-europe-s-ai-labeling-and-transparency-rules-are--0d0114cade",
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "tag": "Technology",
-      "publishedAt": "2026-08-03T17:38:45.000Z",
-      "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations unde...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-2026-volkswagen-jetta-sport-the-cheap-car-isn-t--1dcc6b0cdd",
-      "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet",
-      "tag": "Technology",
-      "publishedAt": "2026-08-03T16:10:22.000Z",
-      "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-samsung-s-discounted-smart-monitor-is-349-99-its-1c0c2e9f55",
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-08-03T21:13:38.000Z",
+      "summary": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines f...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-who-s-legally-to-blame-for-anthropic-and-openai--20660d6db7",
       "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-03T19:45:35.000Z",
       "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-designarena-creators-raise-7-9-million-to-bring--d0cde6cdba",
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
-      "tag": "Technology",
-      "publishedAt": "2026-08-03T19:28:57.000Z",
-      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
