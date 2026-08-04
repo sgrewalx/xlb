@@ -1,55 +1,65 @@
 {
-  "updatedAt": "2026-08-04T22:03:34.474Z",
+  "updatedAt": "2026-08-04T23:54:39.112Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-now-you-can-securely-link-multiple-phones-to-one-d73b979872",
-      "title": "Now you can securely link multiple phones to one Signal account",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
-      "tag": "Technology",
-      "publishedAt": "2026-08-04T22:02:46.000Z",
-      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. W...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-perplexity-has-successfully-overturned-amazon-s--47575b1173",
-      "title": "Perplexity has successfully overturned Amazon's injunction on its AI shopping bot",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot",
-      "tag": "Technology",
-      "publishedAt": "2026-08-04T21:58:34.000Z",
-      "summary": "Amazon's public fight with Perplexity over online shopping started in November 2025.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spacex-s-first-ever-earnings-show-higher-revenue-4ae9fabbc3",
-      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "id": "tech-could-tech-replace-firefighters-in-the-battle-ag-056e39d2da",
+      "title": "Could tech replace firefighters in the battle against wildfires?",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-08-04T21:57:19.000Z",
-      "summary": "Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.",
+      "publishedAt": "2026-08-04T23:21:47.000Z",
+      "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-has-bought-329m-worth-of-tesla-megapacks--b0c3d572cd",
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "id": "tech-don-t-screw-this-up-marvel-4b903440d4",
+      "title": "Don’t screw this up, Marvel",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+      "tag": "Technology",
+      "publishedAt": "2026-08-04T23:20:56.000Z",
+      "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ok-well-rogue-ai-agents-are-hacking-again-ad54052729",
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents",
+      "tag": "Technology",
+      "publishedAt": "2026-08-04T23:11:31.000Z",
+      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-texas-governor-orders-audit-of-new-data-centers--df65fa186a",
+      "title": "Texas governor orders audit of new data centers after realizing over 400 gigawatts of power is a lot",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2230511/texas-governor-orders-audit-of-new-data-centers-after-realizing-over-400-gigawatts-of-power-is-a-lot",
+      "tag": "Technology",
+      "publishedAt": "2026-08-04T22:48:48.000Z",
+      "summary": "The state already hosts more than 500 data centers.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-elon-musk-repeatedly-one-upped-his-execs-on-spac-9416131d2d",
+      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call",
       "tag": "Technology",
-      "publishedAt": "2026-08-04T21:07:26.000Z",
-      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "publishedAt": "2026-08-04T22:30:58.000Z",
+      "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-texas-halts-data-center-connections-to-power-gri-61232275ef",
-      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "id": "tech-senators-demand-crackdown-on-wildfire-prediction-e3467a932b",
+      "title": "Senators demand crackdown on wildfire \"prediction markets\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand",
+      "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets",
       "tag": "Technology",
-      "publishedAt": "2026-08-04T20:34:28.000Z",
-      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+      "publishedAt": "2026-08-04T21:52:31.000Z",
+      "summary": "Fire experts warn such markets could incentivize arson.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-04T15:41:32.000Z",
       "summary": "Microsoft has sent a document to developers detailing its plans to extend Xbox Backward Compatibility on PC to Xbox 360 titles. According to a report, the leaked document says t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-landmark-deal-would-officially-add-laser-weapons-8af62b2b36",
-      "title": "Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal",
-      "tag": "Technology",
-      "publishedAt": "2026-08-04T15:29:45.000Z",
-      "summary": "Facing a growing drone threat, the Pentagon is poised to sign a first-of-its-kind contract for “Enduring High Energy Lasers”—and make directed energy weapons an official part of...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-we-just-got-our-first-real-look-at-how-small-x-s-b8fa554f4f",
-      "title": "We just got our first real look at how small X's ad business is",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2230464/we-just-got-our-first-real-look-at-how-small-x-ad-business-is",
+      "id": "tech-saudi-led-group-completes-55bn-purchase-of-gamin-e4ee3bd325",
+      "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-08-04T21:49:25.000Z",
-      "summary": "Advertisers seem to be spending a whole lot less than they used to on the platform.",
+      "publishedAt": "2026-08-04T23:09:44.000Z",
+      "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-s-first-public-earnings-statement-shows-t-fef91db999",
-      "title": "SpaceX's first public earnings statement shows the financials of an AI company in 2026",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026",
+      "id": "tech-lucid-s-turnaround-plan-hinges-on-1-4b-in-cash-s-69b381eff8",
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis",
       "tag": "Technology",
-      "publishedAt": "2026-08-04T21:42:08.000Z",
-      "summary": "That's a lot of capital expenditure.",
+      "publishedAt": "2026-08-04T22:24:00.000Z",
+      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
