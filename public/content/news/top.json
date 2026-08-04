@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-08-04T19:20:01.487Z",
+  "updatedAt": "2026-08-04T21:03:03.564Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-arson-arrest-made-over-largest-of-washington-sta-8191c1b51d",
-      "title": "Arson arrest made over largest of Washington state's wildfires",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-04T19:18:45.000Z",
-      "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-devastating-la-wildfire-sparked-by-utility-compa-489ff03e19",
-      "title": "Devastating LA wildfire sparked by utility company tower, long-awaited report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/eaton-wildfire-cause-los-angeles",
-      "tag": "Europe",
-      "publishedAt": "2026-08-04T19:13:06.000Z",
-      "summary": "Investigators pin blame for Eaton fire, which killed 19 people and ruined thousands of homes, on ‘electrical arcing events’ at out-of-service tower The deadly 2025 Eaton fire in...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-mexico-declares-war-on-stinky-seaweed-9409cb63d8",
-      "title": "Mexico Declares War on Stinky Seaweed",
+      "id": "news-south-korea-wants-to-raise-its-birthrate-but-doe-9c68d66747",
+      "title": "South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/04/climate/mexico-declares-war-sargassum-seaweed.html",
+      "url": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
       "tag": "US",
-      "publishedAt": "2026-08-04T19:08:09.000Z",
-      "summary": "A changing climate is helping to fuel the growth of a gigantic blob of foul-smelling seaweed that has washed up in some coastal communities. Mexico is fighting back.",
+      "publishedAt": "2026-08-04T21:00:05.000Z",
+      "summary": "South Korea, which has one of the world’s lowest fertility rates, is in the throes of a breakdown in emergency care. It is particularly acute for at-risk newborns.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-after-share-price-crash-following-ipo-spacex-to--1f0710949c",
+      "title": "After share price crash following IPO, SpaceX to report first earnings as a public company",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
+      "tag": "Europe",
+      "publishedAt": "2026-08-04T20:59:00.000Z",
+      "summary": "The company will release its second quarter earnings on Tuesday, giving investors a look at its potential profit For the first time since SpaceX went public, the world is gettin...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-spacex-s-first-ever-earnings-show-a-loss-and-hug-69b2158756",
+      "title": "SpaceX's first-ever earnings show a loss and huge spending",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-08-04T20:48:59.000Z",
+      "summary": "Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-sense-of-insecurity-emerges-as-key-concern-of-el-0d9bf89150",
+      "title": "Sense of insecurity emerges as key concern of elderly people during panel’s sitting in Kochi",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/sense-of-insecurity-emerges-as-key-concern-of-elderly-people-during-panels-sitting-in-kochi/article71305509.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-04T20:41:05.000Z",
+      "summary": "Complaints lodged by senior citizens with the Kerala State Elderly Commission pertained to issues including neglect of elderly parents by adult children, financial cheating, and...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-court-deals-blow-to-trump-s-bid-to-scrap-clim-dafc36cd5e",
+      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-04T20:35:56.000Z",
+      "summary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-from-launch-to-data-tech-to-isro-facility-pvt-fi-425b49f4ce",
+      "title": "From launch to data, tech to Isro facility, pvt firms to get 30-100% subsidy",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/from-launch-to-data-tech-to-isro-facility-pvt-firms-to-get-30-100-subsidy/articleshow/132873060.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-04T20:33:50.000Z",
+      "summary": "New government schemes will offer significant financial support to Indian private space companies. These initiatives aim to boost domestic launch capabilities and global competi...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ukraine-s-air-defenses-are-proving-to-be-a-weak--f0f1306edb",
+      "title": "Ukraine's air defenses are proving to be a weak point",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point",
+      "tag": "US",
+      "publishedAt": "2026-08-04T20:16:33.000Z",
+      "summary": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defen...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,46 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mps-feel-left-out-of-foundation-stone-laying-par-465f383145",
-      "title": "MPs feel left out of foundation stone laying, parliamentary panel steps in",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/mps-feel-left-out-of-foundation-stone-laying-parliamentary-panel-steps-in/articleshow/132871175.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-04T19:04:51.000Z",
-      "summary": "A parliamentary panel has called attention to the frequent exclusion of MPs from events related to rural road schemes. To rectify this, the committee has urged the introduction...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-engine-failure-leaves-ro-ro-ferry-adrift-off-koc-15ab415a81",
-      "title": "Engine failure leaves Ro-Ro ferry adrift off Kochi",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/engine-failure-leaves-ro-ro-ferry-adrift-off-kochi/article71306690.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-04T18:54:41.000Z",
-      "summary": "A Fisheries patrol boat and Marine Enforcement team pursued the drifting ferry, secured it with towing lines, and safely towed it back to the shore",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-doj-sends-monitors-to-michigan-poll-sites-as-law-04bcf5798c",
-      "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-04T18:50:29.000Z",
-      "summary": "While FBI poll monitoring not new, US lawmakers raise alarm amid Trump's years-long claims of election fraud.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-the-soaring-demand-for-patriot-missiles-from-the-63c225fad2",
-      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-      "tag": "US",
-      "publishedAt": "2026-08-04T18:01:04.000Z",
-      "summary": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriot...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-dismantling-systemic-barriers-for-women-in-tech--6febd37b2f",
       "title": "Dismantling systemic barriers for women in tech and entrepreneurship",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-house-committee-launches-investigation-into-repu-70af412409",
-      "title": "House committee launches investigation into Republican lawmaker amid domestic abuse allegations – live",
+      "id": "news-us-stock-market-hits-record-highs-as-ai-profits--9617e731cb",
+      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
+      "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
       "tag": "Europe",
-      "publishedAt": "2026-08-04T19:11:07.000Z",
-      "summary": "Max Miller says he has ‘nothing to hide’ amid domestic abuse allegations made against him by his ex-wife, Emily Moreno, daughter of Republican Ohio senator Bernie Moreno Sign up...",
+      "publishedAt": "2026-08-04T20:56:59.000Z",
+      "summary": "S&amp;P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago The US stock market rallied to records on Tuesday as pr...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-university-of-maryland-teacher-of-the-year-detai-7f479b8304",
-      "title": "University of Maryland ‘teacher of the year’ detained by ICE in Texas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/ice-detention-teacher-university-of-maryland",
-      "tag": "Europe",
-      "publishedAt": "2026-08-04T19:11:00.000Z",
-      "summary": "DHS said pharmacy instructor Berhanu Kibret overstayed visa and arrested him at Dallas-Fort Worth airport An instructor at the University of Maryland, Baltimore who only just re...",
+      "id": "news-when-a-i-goes-rogue-22a0f64f3d",
+      "title": "When A.I. Goes Rogue",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html",
+      "tag": "US",
+      "publishedAt": "2026-08-04T20:56:24.000Z",
+      "summary": "It was the stuff of science fiction — until recently.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ex-olympian-weighing-all-options-after-reflectin-33dd466a60",
-      "title": "Ex-Olympian weighing ‘all options’ after reflecting pool charges dropped",
+      "id": "news-man-charged-in-washington-state-with-starting-la-1ffba9c949",
+      "title": "Man charged in Washington state with starting largest wildfire in the area",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/ex-olympian-david-hearn-reflecting-pool-case",
-      "tag": "Running",
-      "publishedAt": "2026-08-04T19:07:33.000Z",
-      "summary": "David Hearn has ‘number of potential remedies’ after being prosecuted in connection with pool damage, attorney says An attorney for the former Olympic canoeist who was charged w...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-arson-charge-old-trails-wildfire",
+      "tag": "Europe",
+      "publishedAt": "2026-08-04T20:52:04.000Z",
+      "summary": "Suspect had a prior conviction for reportedly shooting his father in Arizona, after he told his son to do the dishes Authorities on Monday charged a man in Washington state with...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
