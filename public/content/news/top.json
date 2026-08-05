@@ -1,25 +1,75 @@
 {
-  "updatedAt": "2026-08-05T19:17:35.449Z",
+  "updatedAt": "2026-08-05T20:58:55.276Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-allocation-for-higher-education-drops-in-tamil-n-4a8f43978e",
-      "title": "Allocation for Higher Education drops in Tamil Nadu Budget 2026-27; educationists react sharply",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/allocation-for-higher-education-drops-in-tamil-nadu-budget-2026-27-educationists-react-sharply/article71310288.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-05T19:10:40.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-musk-money-and-mars-6a612b6ab7",
+      "title": "Musk, Money and Mars",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/05/world/elon-musk-wealth-gaza-strikes.html",
+      "tag": "US",
+      "publishedAt": "2026-08-05T20:52:49.000Z",
+      "summary": "SpaceX shares are down, but Elon Musk is still the richest man in the world. What’s next?",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-watch-scariest-night-as-ukraine-fails-to-interce-15c09ebcb9",
-      "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+      "id": "news-ousted-bangladeshi-leader-vows-to-return-from-ex-00a8fdee6c",
+      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+      "tag": "US",
+      "publishedAt": "2026-08-05T20:43:29.000Z",
+      "summary": "Hasina's speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-abdul-el-sayed-s-michigan-primary-victory-is-the-9af64d81b8",
+      "title": "Abdul El-Sayed’s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-08-05T19:00:32.000Z",
-      "summary": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
+      "publishedAt": "2026-08-05T20:41:27.000Z",
+      "summary": "The former public health official’s victory in Michigan US Senate primary race comes after progressive wins in New York and Colorado Abdul El-Sayed wins Michigan Senate primary...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-rajya-sabha-clears-bill-to-increase-number-of-su-14ddac7277",
+      "title": "Rajya Sabha clears Bill to increase number of Supreme Court judges",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/parliament-clears-bill-to-increase-number-of-judges-in-supreme-court/article71310523.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-05T20:28:43.000Z",
+      "summary": "Parliamentary Affairs Minister says there is no proposal to hold Special Session to push through women’s quota and delimitation Bills; Congress presses for Amit Shah’s statement...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-spacex-shares-slide-on-the-heels-of-first-quarte-be85e21a8f",
+      "title": "SpaceX shares slide on the heels of first quarterly report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-05T20:06:08.000Z",
+      "summary": "The stock was down more than 13 percent as investors were spooked by the company's heavy investments.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israel-strikes-south-lebanon-after-first-evacuat-1b7653b7e9",
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-05T20:03:36.000Z",
+      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-navigation-sat-nvs-03-ready-for-launch-3-more-sa-c9e99c5559",
+      "title": "Navigation sat NVS-03 ready for launch, 3 more satellites to follow: Space min Jitendra Singh in LS",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/navigation-sat-nvs-03-ready-for-launch-3-more-satellites-to-follow-space-min-jitendra-singh-in-ls/articleshow/132967589.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-05T19:38:20.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -33,56 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-finland-tries-to-protect-children-against-deepfa-23b0e2b809",
-      "title": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
-      "tag": "US",
-      "publishedAt": "2026-08-05T18:59:01.000Z",
-      "summary": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-middle-east-crisis-live-iran-and-oman-agree-on-c-a305793b20",
-      "title": "Middle East crisis live: Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-08-05T18:57:31.000Z",
-      "summary": "Joint announcement for geographic coordinates being finalised, says spokesperson, adding that it would not guarantee security in waterway The ⁠geographic coordinates for a shipp...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-malaysia-vows-not-to-return-rohingya-refugees-to-32bb5800d0",
-      "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-05T18:40:06.000Z",
-      "summary": "Authorities are screening 5,000 refugees as rights groups warn they remain at risk of persecution in Myanmar.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-tamil-nadu-government-vows-to-secure-rightful-sh-5a3406dda1",
-      "title": "Tamil Nadu government vows to secure rightful share in inter-state river water",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/government-vows-to-secure-rightful-share-in-inter-state-river-water/articleshow/132961604.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-05T18:30:49.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-pakistan-s-ruling-party-leads-in-kashmir-vote-de-8c9f23761b",
-      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
-      "tag": "US",
-      "publishedAt": "2026-08-05T16:06:06.000Z",
-      "summary": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-strategic-imperatives-for-india-amid-pakistan-s--41ef24a5af",
       "title": "Strategic imperatives for India amid Pakistan's domestic turmoil",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-assam-cm-meets-family-of-boy-who-died-saving-pup-50e7f87c89",
-      "title": "Assam CM meets family of boy who died saving puppy from flood water",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam/assam-cm-meets-family-of-boy-who-died-saving-puppy-from-flood-water/article71310193.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-05T19:09:07.000Z",
-      "summary": "Hridip was swept away after he saved the puppy, which was struggling to stay afloat",
+      "id": "news-malaysian-pilot-smuggled-55-pounds-of-ecstasy-in-f5945a453b",
+      "title": "Malaysian Pilot Smuggled 55 Pounds of Ecstasy Into Indonesia, Officials Say",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/05/world/asia/malaysian-airlines-pilot-drugs-arrest.html",
+      "tag": "US",
+      "publishedAt": "2026-08-05T20:50:20.000Z",
+      "summary": "The pilot, identified only by his initials, also tested positive for ecstasy and cocaine when he was arrested last week at the Jakarta airport, the Indonesian police said.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-rinl-employees-ask-pmo-to-clear-pending-salaries-2d1dee3118",
-      "title": "RINL employees ask PMO to clear pending salaries, VRS settlements",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/rinl-employees-ask-pmo-to-clear-pending-salaries-and-vrs-settlements/article71308726.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-05T19:07:12.000Z",
-      "summary": "The collectives said the plant had an emergency reserve fund of over ₹900 crore and a cash balance of ₹195 crore, and that salaries, VRS-2 and VRS-3 settlements and family and w...",
+      "id": "news-how-china-s-a-i-is-surging-across-africa-837c19ea70",
+      "title": "How China’s A.I. Is Surging Across Africa",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+      "tag": "US",
+      "publishedAt": "2026-08-05T20:41:15.000Z",
+      "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-t-n-budget-govt-announces-ai-planning-approvals--6c1dfcaace",
-      "title": "T.N. Budget: Govt. announces AI planning approvals, new housing scheme",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/chennai/tn-budget-govt-announces-ai-planning-approvals-new-housing-scheme/article71310030.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-05T19:04:45.000Z",
-      "summary": "Under the MY-HOME scheme, one lakh housing units will be developed over the next seven years through public-private partnership model, to provide safe and affordable housing for...",
+      "id": "news-senate-confirms-trump-pick-erica-schwartz-as-new-1eeb4f63a7",
+      "title": "Senate confirms Trump pick Erica Schwartz as new CDC director",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/erica-schwartz-cdc-director-senate-confirmation",
+      "tag": "Europe",
+      "publishedAt": "2026-08-05T20:27:01.000Z",
+      "summary": "Schwartz, president’s third pick to lead top US public health agency, confirmed in 51-44 Senate vote Dr Erica Schwartz was confirmed by the US Senate as director ‌of the Centers...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
