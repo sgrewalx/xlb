@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-05T17:19:52.415Z",
+  "updatedAt": "2026-08-05T19:14:17.853Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-minecraft-is-coming-to-switch-2-on-october-27-04be5cdf82",
+      "title": "Minecraft is coming to Switch 2 on October 27",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231133/minecraft-is-coming-to-switch-2-on-october-27",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T19:07:35.000Z",
+      "summary": "Minecraft for the Switch 2 feels like a perfect place for mouse controls, but Mojang hasn't said anything about that feature yet.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-worms-and-viruses-are-coming-f75f83295a",
+      "title": "AI Worms and Viruses Are Coming",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T18:30:00.000Z",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-reddit-aims-to-make-karma-less-important-for-fir-c2b1dd25b4",
+      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T18:00:40.000Z",
+      "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requi...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-two-of-ring-s-latest-video-doorbells-are-a-lot-c-95158432a1",
+      "title": "Two of Ring’s latest video doorbells are a lot cheaper than usual",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T17:53:43.000Z",
+      "summary": "Ring’s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand’s most well-rounded video doorbells, whether you’re looking for a hardwired model or one that runs on a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-google-shakes-up-ai-leadership-as-deepmind-chief-32bf16c83e",
       "title": "Google shakes up AI leadership as DeepMind chief Demis Hassabis shifts role",
@@ -13,53 +53,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meet-the-eight-startups-pitching-at-startup-batt-ab05d9cabc",
-      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T17:02:00.000Z",
-      "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-s-selling-refurbished-macbook-neos-with-a--8fa8ed3196",
-      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T16:59:23.000Z",
-      "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-d-wave-on-rails-company-tests-entanglement-on-it-9a03bb0d0b",
-      "title": "D-Wave on rails: Company tests entanglement on its dual-rail qubits",
+      "id": "tech-after-jacking-up-prices-disney-and-netflix-consi-fb29e559b3",
+      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits",
+      "url": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T16:37:07.000Z",
-      "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-world-s-smallest-usb-drive-has-more-storage--20def30746",
-      "title": "The world's smallest USB drive has more storage than an iPhone 17",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2226447/worlds-smallest-usb-drive-more-storage-than-iphone-17",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T16:30:00.000Z",
-      "summary": "At a time when storage space commands a premium price, SanDisk's Extreme Fit drive is worth a look.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-ran-ads-that-contained-ai-generated-child-s-c329a9d439",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T16:26:36.000Z",
-      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "publishedAt": "2026-08-05T17:12:39.000Z",
+      "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sure-seems-like-fenix-flexin-used-ai-music-gener-aa395cfc3b",
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "id": "tech-google-deepmind-ceo-demis-hassabis-is-stepping-d-228da36d56",
+      "title": "Google DeepMind CEO Demis Hassabis is stepping down, but will remain with the company",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231124/google-deepmind-ceo-demis-hassabis-is-stepping-down-but-will-remain-with-the-company",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T16:57:25.000Z",
-      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new det...",
+      "publishedAt": "2026-08-05T19:01:02.000Z",
+      "summary": "A handful of high-level personnel changes are coming to DeepMind.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-psa-apple-s-private-relay-can-leak-your-real-ip--a9f5ff15fe",
-      "title": "PSA: Apple’s Private Relay can leak your real IP address",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address",
+      "id": "tech-meta-apps-displayed-ads-that-contained-ai-genera-f94aeaf097",
+      "title": "Meta apps displayed ads that contained AI-generated CSAM",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231100/meta-apps-displayed-ads-that-contained-ai-generated-csam",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T16:52:29.000Z",
-      "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
+      "publishedAt": "2026-08-05T18:41:08.000Z",
+      "summary": "Researchers identified more than 50 ads on Meta properties that violated the company's policies on child sexual abuse material.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
