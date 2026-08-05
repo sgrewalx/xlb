@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-08-05T22:07:32.661Z",
+  "updatedAt": "2026-08-05T23:49:19.158Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-openai-s-browser-could-be-hijacked-to-spam-your--ccbff53020",
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T23:30:00.000Z",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-get-up-to-400-off-your-techcrunch-disrupt-2026-p-3e8b1e73c6",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T22:55:43.000Z",
+      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pric...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-x-s-head-of-product-is-leaving-the-company-one-y-3030122f9b",
+      "title": "X's head of product is leaving the company one year after joining",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231302/x-head-of-product-nikita-bier-leaving-the-company-one-year-after-joining",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T22:48:54.000Z",
+      "summary": "Nikita Bier was the face of some of the platform's biggest changes.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-thousands-of-servers-can-be-backdoored-by-exploi-40ee3efeee",
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T22:35:20.000Z",
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-x-product-chief-nikita-bier-is-leaving-after-one-4de07b6752",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T22:19:55.000Z",
+      "summary": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state:...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-ai-or-real-bbc-analyses-viral-china-disaster-vid-f097ea064a",
       "title": "AI or real? BBC analyses viral China disaster videos",
@@ -10,56 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-05T22:00:32.000Z",
       "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-introduces-muse-code-its-take-on-a-coding-a-74fa22c6d1",
-      "title": "Meta introduces Muse Code, its take on a coding agent",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T21:57:52.000Z",
-      "summary": "The terminal-based coding tool is powered by a new AI model, Muse Spark 1.2.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nikita-bier-steps-down-as-x-s-head-of-product-ed82d2677a",
-      "title": "Nikita Bier steps down as X’s head of product",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T21:30:50.000Z",
-      "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-schwartz-confirmed-as-cdc-director-after-bunglin-71ae778d27",
-      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T21:03:18.000Z",
-      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-national-design-studio-became-a-doge-landing-3586d1c3cd",
-      "title": "The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/national-design-studio-doge-recruiting",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T21:00:00.000Z",
-      "summary": "WIRED spoke with an engineer who was interviewed by Edward “Big Balls” Coristine for a government engineering role at the NDS, the White House agency staffed by other DOGE veter...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-two-of-ring-s-latest-video-doorbells-are-a-lot-c-95158432a1",
-      "title": "Two of Ring’s latest video doorbells are a lot cheaper than usual",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T17:53:43.000Z",
-      "summary": "Ring’s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand’s most well-rounded video doorbells, whether you’re looking for a hardwired model or one that runs on a...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-travis-kalanick-s-robotics-startup-atoms-taps-fo-4bf6962c60",
-      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo",
+      "id": "tech-a-security-pro-hacked-north-korean-hackers-he-fo-e46ccfff8a",
+      "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T21:26:40.000Z",
-      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "publishedAt": "2026-08-05T23:30:00.000Z",
+      "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in a shocking number of system...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-launches-muse-code-an-ai-agent-for-large-co-03f544be0c",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+      "id": "tech-welp-nobody-saw-spacex-s-falcon-9-rocket-crash-i-aedfb1f562",
+      "title": "Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T21:21:28.000Z",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "publishedAt": "2026-08-05T22:40:53.000Z",
+      "summary": "Although no one captured a direct image of the impact, scientists have detected signals confirming the rocket hit the lunar surface. Orbiters could provide the first images of t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
