@@ -1,35 +1,45 @@
 {
-  "updatedAt": "2026-08-05T19:14:17.853Z",
+  "updatedAt": "2026-08-05T20:57:07.373Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-minecraft-is-coming-to-switch-2-on-october-27-04be5cdf82",
-      "title": "Minecraft is coming to Switch 2 on October 27",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231133/minecraft-is-coming-to-switch-2-on-october-27",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T19:07:35.000Z",
-      "summary": "Minecraft for the Switch 2 feels like a perfect place for mouse controls, but Mojang hasn't said anything about that feature yet.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-worms-and-viruses-are-coming-f75f83295a",
-      "title": "AI Worms and Viruses Are Coming",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T18:30:00.000Z",
-      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-reddit-aims-to-make-karma-less-important-for-fir-c2b1dd25b4",
-      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+      "id": "tech-moove-raises-250m-to-become-the-backbone-of-the--512e7877a8",
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T18:00:40.000Z",
-      "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requi...",
+      "publishedAt": "2026-08-05T20:50:45.000Z",
+      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-dhs-wants-protesters-signal-group-chats-ad0bfaa2f7",
+      "title": "DHS Wants Protesters’ Signal Group Chats",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T20:38:54.000Z",
+      "summary": "A lawsuit accuses Homeland Security of violating protesters’ free-speech rights—but the agency is using it to try to get access to the plaintiffs’ encrypted communications.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-senate-advances-the-latest-kids-online-safety-ac-342e8be5ec",
+      "title": "Senate advances the latest Kids Online Safety Act out of committee",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231193/senate-advances-the-latest-kids-online-safety-act-out-of-committee",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T20:11:29.000Z",
+      "summary": "The House passed its own version of the contentious KOSA bill in June.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hank-green-found-the-ai-problem-that-youtube-lab-752417257e",
+      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T19:51:40.000Z",
+      "summary": "\"Slop\" isn't the only problem.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-05T17:14:00.000Z",
       "summary": "Demis Hassabis becomes chief scientist, relinquishes DeepMind CEO role; Jeff Dean and other key engineers leave to found new startup; moves follow departure of two star research...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-after-jacking-up-prices-disney-and-netflix-consi-fb29e559b3",
-      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T17:12:39.000Z",
-      "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-deepmind-ceo-demis-hassabis-is-stepping-d-228da36d56",
-      "title": "Google DeepMind CEO Demis Hassabis is stepping down, but will remain with the company",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231124/google-deepmind-ceo-demis-hassabis-is-stepping-down-but-will-remain-with-the-company",
+      "id": "tech-how-lightspeed-found-their-newest-hire-via-insta-97b9253861",
+      "title": "How Lightspeed found their newest hire… via Instagram DM",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T19:01:02.000Z",
-      "summary": "A handful of high-level personnel changes are coming to DeepMind.",
+      "publishedAt": "2026-08-05T20:48:56.000Z",
+      "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-apps-displayed-ads-that-contained-ai-genera-f94aeaf097",
-      "title": "Meta apps displayed ads that contained AI-generated CSAM",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231100/meta-apps-displayed-ads-that-contained-ai-generated-csam",
+      "id": "tech-why-lightspeed-is-going-all-in-on-creator-led-ve-c519c1817f",
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T18:41:08.000Z",
-      "summary": "Researchers identified more than 50 ads on Meta properties that violated the company's policies on child sexual abuse material.",
+      "publishedAt": "2026-08-05T20:48:54.000Z",
+      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisiti...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
