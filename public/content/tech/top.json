@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-08-05T15:07:44.418Z",
+  "updatedAt": "2026-08-05T17:19:52.415Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-zoox-to-start-charging-for-robotaxi-rides-in-las-751a2bd963",
-      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/zoox-begins-charging-for-robotaxi-rides-in-las-vegas",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T15:06:42.000Z",
-      "summary": "This marks the official launch of Zoox's commercial operations.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-pb-fintech-net-profit-up-92-in-q1-of-fy27-b8d0eed979",
-      "title": "PB Fintech net profit up 92% in Q1 of FY27",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/pb-fintech-net-profit-up-92-in-q1-of-fy27",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T14:50:30.000Z",
-      "summary": "PB Fintech is parent company of PolicyBazaar PB Fintech reported healthy growth in the insurance premium business and credit segment PB Fintech, the parent company of online ins...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-assistant-will-vanish-from-android-phones-0dcc400080",
-      "title": "Google Assistant will vanish from Android phones and connected devices in September",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2230792/google-assistant-shut-down-android-devices-in-september",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T14:48:36.000Z",
-      "summary": "Like birthdays in late May and most of June, it's all about Gemini.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spacex-rocket-stage-believed-to-have-slammed-int-7420d7c760",
-      "title": "SpaceX rocket stage believed to have slammed into Moon",
+      "id": "tech-google-shakes-up-ai-leadership-as-deepmind-chief-32bf16c83e",
+      "title": "Google shakes up AI leadership as DeepMind chief Demis Hassabis shifts role",
       "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/science/spacex-rocket-stage-believed-to-have-slammed-into-moon/article71309751.ece",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-shakes-up-ai-leadership-as-deepmind-chief-demis-hassabis-shifts-role/article71310807.ece",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T14:16:38.000Z",
-      "summary": "While there is not yet official confirmation that the Falcon 9 upper stage struck the lunar surface, it had been expected to make impact at approximately 0635 GMT",
+      "publishedAt": "2026-08-05T17:14:00.000Z",
+      "summary": "Demis Hassabis becomes chief scientist, relinquishes DeepMind CEO role; Jeff Dean and other key engineers leave to found new startup; moves follow departure of two star research...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sunbird-relaunched-its-imessage-app-for-android--4da7aa4530",
-      "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
+      "id": "tech-meet-the-eight-startups-pitching-at-startup-batt-ab05d9cabc",
+      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T14:13:15.000Z",
-      "summary": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month....",
+      "publishedAt": "2026-08-05T17:02:00.000Z",
+      "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-s-selling-refurbished-macbook-neos-with-a--8fa8ed3196",
+      "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T16:59:23.000Z",
+      "summary": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-d-wave-on-rails-company-tests-entanglement-on-it-9a03bb0d0b",
+      "title": "D-Wave on rails: Company tests entanglement on its dual-rail qubits",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T16:37:07.000Z",
+      "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-world-s-smallest-usb-drive-has-more-storage--20def30746",
+      "title": "The world's smallest USB drive has more storage than an iPhone 17",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2226447/worlds-smallest-usb-drive-more-storage-than-iphone-17",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T16:30:00.000Z",
+      "summary": "At a time when storage space commands a premium price, SanDisk's Extreme Fit drive is worth a look.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-ran-ads-that-contained-ai-generated-child-s-c329a9d439",
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T16:26:36.000Z",
+      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-neuranics-lab-is-building-a-blood-count-machine--f2d518b1f9",
+      "title": "Neuranics Lab is building a blood count machine that runs by fingerprick",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/neuranics-fingerprick-blood-count-machine",
+      "tag": "Technology",
+      "publishedAt": "2026-08-05T16:17:35.000Z",
+      "summary": "The Delhi-based company has developed MorphX, a point-of-care platform that claims to return a full blood count in minutes without needing a trained technician.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-13-best-coolers-for-sunshine-and-nighttime-2026-4c7d268c5f",
-      "title": "13 Best Coolers for Sunshine and Nighttime (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-best-cooler",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T12:02:00.000Z",
-      "summary": "We tested coolers on camping trips, road trips, beach days, and at parties to bring you our favorite models for every situation. The Yeti Tundra Haul is our top pick.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-pushing-the-limits-infinite-machine-s-olto-is-ba-8779be8343",
-      "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T11:00:26.000Z",
-      "summary": "Scooter layout makes pedaling a bad experience. But it does have pedals.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-techcrunch-disrupt-2026-s-real-world-ai-stage-fe-1c01f5f839",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals",
+      "id": "tech-sure-seems-like-fenix-flexin-used-ai-music-gener-aa395cfc3b",
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T15:05:00.000Z",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "publishedAt": "2026-08-05T16:57:25.000Z",
+      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new det...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-as-gen-z-reconsiders-dating-apps-tinder-s-irl-ev-dc1cef4df2",
-      "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
+      "id": "tech-psa-apple-s-private-relay-can-leak-your-real-ip--a9f5ff15fe",
+      "title": "PSA: Apple’s Private Relay can leak your real IP address",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities",
+      "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address",
       "tag": "Technology",
-      "publishedAt": "2026-08-05T14:45:06.000Z",
-      "summary": "Tinder is expanding its in-person events feature from an initial Los Angeles test to 26 cities worldwide by the end of September.",
+      "publishedAt": "2026-08-05T16:52:29.000Z",
+      "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
