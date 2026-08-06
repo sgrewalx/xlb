@@ -1,45 +1,65 @@
 {
-  "updatedAt": "2026-08-06T04:55:50.271Z",
+  "updatedAt": "2026-08-06T07:33:29.018Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-meta-apologises-for-temporarily-removing-pm-modi-44c823e9da",
-      "title": "Meta apologises for temporarily removing PM Modi's Facebook post",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/meta-apologises-temporarily-removing-pm-modi-facebook-post",
-      "tag": "Technology",
-      "publishedAt": "2026-08-06T04:34:42.000Z",
-      "summary": "Government sources said Meta global officials have been asked to stay back for another round of questioning on Thursday, when IT Minister Ashwini Vaishnaw will meet the company'...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-s-icloud-private-relay-may-expose-users-re-84e19e0922",
-      "title": "Apple’s iCloud Private Relay May Expose Users' Real IP Addresses Due to WebKit Flaws: Report",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/apps/news/apple-icloud-private-relay-webkit-flaws-ip-addresses-leak-report-11872566",
-      "tag": "Technology",
-      "publishedAt": "2026-08-06T04:08:02.000Z",
-      "summary": "Apple introduced iCloud Private Relay in 2021 as a new privacy service that allows users to connect to and browse the Web more securely and privately. However, security research...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-s-ai-model-hacked-another-company-during-te-283e1c3402",
-      "title": "Meta's AI model hacked another company during testing: Report",
+      "id": "tech-xiaomi-launches-redmi-note-17-with-snapdragon-pr-ec5e71427d",
+      "title": "Xiaomi launches Redmi Note 17 with Snapdragon processor",
       "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/metas-ai-model-hacked-another-company-during-testing-report/article71311998.ece",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-launches-redmi-note-17-with-snapdragon-processor/article71312548.ece",
       "tag": "Technology",
-      "publishedAt": "2026-08-06T04:06:47.000Z",
-      "summary": "Meta worked on the testing with an outside evaluation partner called Irregular, ​the report said",
+      "publishedAt": "2026-08-06T07:27:54.000Z",
+      "summary": "It operates on Android 16 with HyperOS 3 out of the box, and will offer 4 years of software and 6 years of security patches",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-299-viture-pro-2-are-the-company-s-lightest--f66c031443",
-      "title": "The $299 Viture Pro 2 are the company's lightest and most comfortable smartglasses yet",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231156/virtue-pro-2-are-the-companys-lightest-and-most-comfortable-smartglasses-yet",
+      "id": "tech-flipkart-freedom-sale-samsung-galaxy-s25-fe-conf-016bac48d0",
+      "title": "Flipkart Freedom Sale: Samsung Galaxy S25 FE Confirmed to Be Available at a Discounted Price",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/flipkart-freedom-sale-samsung-galaxy-s25-fe-price-offer-discount-specifications-11873144",
       "tag": "Technology",
-      "publishedAt": "2026-08-06T04:00:00.000Z",
-      "summary": "Viture is releasing a more compact Mobile Dock Mini for just $99 alongside its new $299 smartglasses.",
+      "publishedAt": "2026-08-06T06:55:42.000Z",
+      "summary": "Samsung Galaxy S25 FE will be available at Rs. 47,999 during the upcoming Flipkart Freedom Sale. Interested users can buy the handset with EMI offers starting at Rs. 8,333 per m...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-from-cloud-migration-to-citizen-services-appsqua-1a8ffa873d",
+      "title": "From cloud migration to citizen services: AppSquadz and India’s evolving digital transformation journey",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/from-cloud-migration-to-citizen-services-appsquadz-and-indias-evolving-digital-transformation-journey",
+      "tag": "Technology",
+      "publishedAt": "2026-08-06T06:34:29.000Z",
+      "summary": "In the last 5 years, AppSquadz has expanded its cloud capabilities to support some significant digital transformation initiatives across government, healthcare, and enterprise s...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-s-private-relay-feature-could-reveal-your--6c7f1a33b8",
+      "title": "Apple's Private Relay feature could reveal your IP address to websites and services",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231360/apple-private-relay-feature-could-reveal-your-ip-address",
+      "tag": "Technology",
+      "publishedAt": "2026-08-06T06:06:34.000Z",
+      "summary": "Security researchers found an issue with Apple's WebKit browser engine that affects Private Relay.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-or-real-bbc-analyses-viral-china-disaster-vid-9c1aa35101",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-06T05:29:27.000Z",
+      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-hungryroot-coupon-codes-30-off-this-august-6bd03de361",
+      "title": "Hungryroot Coupon Codes: 30% Off This August",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/hungryroot-promo-code",
+      "tag": "Technology",
+      "publishedAt": "2026-08-06T05:00:00.000Z",
+      "summary": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-06T00:25:10.000Z",
       "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-didn-t-notice-its-ai-agents-using-a-messa-55133c5df2",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree",
-      "tag": "Technology",
-      "publishedAt": "2026-08-06T00:15:04.000Z",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ai-or-real-bbc-analyses-viral-china-disaster-vid-f097ea064a",
-      "title": "AI or real? BBC analyses viral China disaster videos",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-08-05T22:00:32.000Z",
-      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-building-a-startup-ecosystem-in-the-mountains-ho-e23cc2ed31",
-      "title": "Building a startup ecosystem in the mountains: How Jammu & Kashmir laid its foundation",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/07/jammu-kashmir-startup-ecosystem",
+      "id": "tech-redmi-note-17-5g-launched-in-india-with-8-000mah-2213c4b351",
+      "title": "Redmi Note 17 5G Launched in India With 8,000mAh Battery, 50-Megapixel Rear Camera: Price, Specifications",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/redmi-note-17-5g-price-in-india-launch-sale-date-specifications-features-11873187",
       "tag": "Technology",
-      "publishedAt": "2026-08-06T04:18:11.000Z",
-      "summary": "Jammu and Kashmir is steadily building its startup ecosystem through policy support, incubators, funding and local entrepreneurs driving innovation.",
+      "publishedAt": "2026-08-06T06:51:16.000Z",
+      "summary": "Redmi Note 17 5G has been launched in India. The new smartphone is scheduled to go on sale in India on August 12 via Amazon and the Xiaomi India online store. The Redmi Note 17...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-chases-openai-anthropic-with-new-ai-coding--372452c3e9",
-      "title": "Meta chases OpenAI, Anthropic with new AI coding app",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/meta-chases-openai-anthropic-with-new-ai-coding-app/article71311991.ece",
+      "id": "tech-samsung-unveils-the-big-bespoke-ai-fest-in-india-997b695441",
+      "title": "Samsung Unveils The Big Bespoke AI Fest in India Ahead of Independence Day: Offers, Benefits",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/home-appliances/news/samsung-the-big-bespoke-ai-fest-in-india-ahead-of-independence-day-offers-benefits-11873114",
       "tag": "Technology",
-      "publishedAt": "2026-08-06T04:01:09.000Z",
-      "summary": "Meta has poured billions into its AI division, now known as Meta Superintelligence Labs, as it attempts to keep up with OpenAI and Anthropic",
+      "publishedAt": "2026-08-06T06:50:28.000Z",
+      "summary": "Samsung has started its The Big Bespoke AI Fest campaign in India with promotional offers on selected AI-powered home appliances until August 15. Buyers can avail of cashback, e...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
