@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-08-07T09:52:56.873Z",
+  "updatedAt": "2026-08-07T10:43:34.776Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-us-strikes-1-2bn-deal-with-german-firm-to-halt-o-494bdfbfd2",
-      "title": "US strikes $1.2bn deal with German firm to halt offshore wind projects",
+      "id": "news-akali-dal-chief-sukhbir-badal-meets-pm-modi-rais-eb7bffee0c",
+      "title": "Akali Dal chief Sukhbir Badal meets PM Modi, raising speculation on SAD-BJP alliance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/punjab/akali-dal-chief-sukhbir-badal-meets-pm-modi-sad-bjp-alliance-on-cards/article71317144.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-07T10:38:13.000Z",
+      "summary": "Senior party leader Daljit Cheema declined to comment on the alliance for now, stating only that talks had taken place; “The leaders have met, that’s all,” Mr. Cheema told The H...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-labour-government-says-more-people-working-illeg-bdc8fde85a",
+      "title": "Labour government says more people working illegally are being arrested and deported – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
+      "tag": "Europe",
+      "publishedAt": "2026-08-07T10:35:47.000Z",
+      "summary": "More than double number of arrests made since 2024 compared with previous two-year period Conservative councillors have been told they “must not allow” Labour, Liberal Democrat...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-news-spice-rani-he-ram-names-on-police-merit-lis-900c886cb5",
+      "title": "'News, Spice Rani, He Ram': Names on police merit list triggers row in Chhattisgarh",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/news-spice-rani-he-ram-names-on-police-merit-list-triggers-row-in-chhattisgarh/articleshow/133030883.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-07T10:31:41.000Z",
+      "summary": "According to the CGPSC, the candidates had appeared for document verification, physical tests and the preliminary examination under the same names. Former chief minister Bhupesh...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-how-japan-reduced-deaths-from-a-major-quake-b0d49f6ed2",
+      "title": "How Japan Reduced Deaths From a Major Quake",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+      "tag": "US",
+      "publishedAt": "2026-08-07T10:14:07.000Z",
+      "summary": "After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-central-europe-sees-record-temperatures-as-heatw-d5d7df7c15",
+      "title": "Central Europe sees record temperatures as heatwave continues",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-07T10:11:26.000Z",
+      "summary": "Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-interoperability-will-define-india-s-digital-fut-17695d1ec0",
+      "title": "Interoperability will define India's digital future",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/ht-insight/future-tech/interoperability-will-define-indias-digital-future-101786097177157.html",
+      "tag": "India",
+      "publishedAt": "2026-08-07T10:09:17.000Z",
+      "summary": "This article is authored by Amal Chandra, policy analyst, columnist and coordinator, Students For Liberty.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-strikes-1-2bn-deal-to-pay-german-firm-to-halt-494bdfbfd2",
+      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-08-07T09:50:54.000Z",
-      "summary": "RWE said it has agreed to relinquish its leases off the California, Louisiana and New York coasts.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
-    },
-    {
-      "id": "news-thailand-school-shooting-leaves-at-least-eight-d-dc795597a3",
-      "title": "Thailand School Shooting Leaves at Least Eight Dead",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
       "tag": "US",
-      "publishedAt": "2026-08-07T09:49:53.000Z",
-      "summary": "A student killed his grandparents at their home before opening fire at a high school near Bangkok and turning the gun on himself, the authorities said.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-hyderabad-airport-advises-passengers-to-plan-ahe-7d54e985f9",
-      "title": "Hyderabad airport advises passengers to plan ahead as cabbies, gig workers plan indefinite strike from August 8",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-airport-advises-passengers-to-plan-ahead-as-cabbies-gig-workers-plan-indefinite-strike-from-august-8/article71316751.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-07T09:46:55.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-sukhbir-singh-badal-meets-pm-modi-fuels-bjp-sad--9ec5fe243a",
-      "title": "Sukhbir Singh Badal meets PM Modi, fuels BJP-SAD alliance buzz ahead of Punjab polls next year",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/sukhbir-singh-badal-meets-pm-modi-fuels-bjp-sad-alliance-buzz-ahead-of-punjab-polls-next-year/articleshow/133029908.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-07T09:43:22.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-england-striker-ivan-toney-charged-with-assault--ff0b6ffc32",
-      "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident",
-      "tag": "Europe",
-      "publishedAt": "2026-08-07T09:40:14.000Z",
-      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England striker Ivan Toney has been charged with assault following...",
+      "publishedAt": "2026-08-07T09:50:54.000Z",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -63,16 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-several-killed-after-student-opens-fire-inside-t-fb32aa9bdb",
-      "title": "Several killed after student opens fire inside Thailand school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-07T09:13:48.000Z",
-      "summary": "At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-besieged-sudanese-city-faces-relentless-drone-st-c5d040ebce",
       "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
       "source": "NPR",
@@ -83,43 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ai-can-help-india-move-from-reactive-to-preventi-151bedfe2c",
-      "title": "AI can help India move from reactive to preventive health care",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/future-tech/ai-can-help-india-move-from-reactive-to-preventive-health-care-101786018730205.html",
+      "id": "news-congress-issues-whip-to-its-mps-in-parliament-as-cfe0d83cb9",
+      "title": "Congress issues whip to its MPs in Parliament; asks them to be present from August 10-12",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/congress-issues-whip-to-its-mps-in-parliament-asks-them-to-be-present-from-august-10-12/article71317145.ece",
       "tag": "India",
-      "publishedAt": "2026-08-06T12:25:53.000Z",
-      "summary": "This article is authored by Ankit Modi, founding member and chief strategy & growth officer, Qure.ai.",
+      "publishedAt": "2026-08-07T10:36:00.000Z",
+      "summary": "The issuance of the whip comes amid reports that the contentious FCRA amendment bill will be taken up for discussion and passage in Parliament next week",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-basavaraj-horatti-resigns-as-karnataka-legislati-66bc8390aa",
-      "title": "Basavaraj Horatti resigns as Karnataka Legislative Council Chairperson",
+      "id": "news-why-mechuka-trout-quest-is-drawing-anglers-to-ar-7c24cffcbc",
+      "title": "Why Mechuka Trout Quest is drawing anglers to Arunachal Pradesh",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/basavaraj-horatti-resigns-as-karnataka-legislative-council-chairperson/article71316889.ece",
+      "url": "https://www.thehindu.com/life-and-style/travel/why-mechuka-trout-quest-is-drawing-anglers-to-arunachal-pradesh/article71308774.ece",
       "tag": "India",
-      "publishedAt": "2026-08-07T09:41:41.000Z",
-      "summary": "The eight-time member of Council is expected to officially step down from the post on August 14, after conducting the proceedings of the House on August 13 when the monsoon sess...",
+      "publishedAt": "2026-08-07T10:35:17.000Z",
+      "summary": "With pristine rivers, thriving trout populations and a growing catch-and-release culture, the annual Mechuka Trout Quest is drawing anglers from India and abroad, and helping Ar...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-aimim-corporator-held-for-sheltering-tcs-sexual--378999ef85",
-      "title": "AIMIM corporator held for sheltering TCS ‘sexual harassment’ case accused",
+      "id": "news-cpi-launches-padayatra-in-visakhapatnam-under-mo-97bc041e35",
+      "title": "CPI launches padayatra in Visakhapatnam under ‘Modi Hatao, Desh Bachao’ campaign",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/aimim-corporator-held-for-sheltering-tcs-sexual-harassment-case-accused/article71317014.ece",
-      "tag": "Running",
-      "publishedAt": "2026-08-07T09:39:27.000Z",
-      "summary": "Mateen Patel was taken into custody, months after police tracked down accused Nida Khan to a house arranged by him in the Marathwada city",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-watch-trump-govt-clamps-down-on-birth-tourism-dd49b1a680",
-      "title": "Watch: Trump govt. clamps down on ‘birth tourism’",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/videos/watch-trump-govt-clamps-down-on-birth-tourism/article71317055.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-08-07T09:38:14.000Z",
-      "summary": "U.S. President Donald Trump has signed two executive orders to crack down on birth tourism and limit the number of people eligible for birthright citizenship, weeks after the Su...",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-launches-padayatra-in-visakhapatnam-under-modi-hatao-desh-bachao-campaign/article71316908.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-07T10:32:44.000Z",
+      "summary": "J.V. Satyanarayana Murthy said the nationwide campaign began on August 6 and would end in a rally at Ramlila Maidan on September 1, and asked Deputy Chief Minister Pawan Kalyan...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
