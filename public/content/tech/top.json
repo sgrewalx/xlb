@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-07T20:29:20.734Z",
+  "updatedAt": "2026-08-07T21:28:19.353Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-wacom-s-movinkpad-11-is-a-fun-and-mid-priced-ent-b595dd4c12",
+      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists",
+      "tag": "Technology",
+      "publishedAt": "2026-08-07T21:20:00.000Z",
+      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-fenix-flexin-isn-t-even-denying-using-ai-to-make-922b859ce0",
       "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-07T18:00:02.000Z",
       "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cloudflare-launches-kitesurf-a-browser-built-for-275e043eb7",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-      "tag": "Technology",
-      "publishedAt": "2026-08-07T16:16:09.000Z",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for com...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-security-researchers-scanned-the-polish-web-and--5141daaecf",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks",
+      "tag": "Technology",
+      "publishedAt": "2026-08-07T21:00:08.000Z",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-watching-roku-s-ai-channel-is-like-eating-from-a-30dd53f360",
       "title": "Watching Roku’s AI channel is like eating from a trough",
       "source": "The Verge",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-07T18:59:46.000Z",
       "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest expe...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-puts-the-brakes-on-a-new-model-because-it-54b683e55c",
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "tag": "Technology",
-      "publishedAt": "2026-08-07T18:40:34.000Z",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
