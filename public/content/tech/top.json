@@ -1,25 +1,35 @@
 {
-  "updatedAt": "2026-08-07T21:28:19.353Z",
+  "updatedAt": "2026-08-07T22:24:47.626Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-wacom-s-movinkpad-11-is-a-fun-and-mid-priced-ent-b595dd4c12",
-      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists",
+      "id": "tech-the-gaming-site-sponsored-by-walmart-lays-off-it-00a4ebf6ae",
+      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
       "tag": "Technology",
-      "publishedAt": "2026-08-07T21:20:00.000Z",
-      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "publishedAt": "2026-08-07T22:05:08.000Z",
+      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-fenix-flexin-isn-t-even-denying-using-ai-to-make-922b859ce0",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "id": "tech-after-rippling-blew-millions-on-ai-in-months-it--fce3e1a9e9",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+      "tag": "Running",
+      "publishedAt": "2026-08-07T21:30:11.000Z",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-flesh-eating-screwworms-feast-on-humans-in-mexic-0e5f93fe9b",
+      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500",
       "tag": "Technology",
-      "publishedAt": "2026-08-07T20:01:51.000Z",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's vid...",
+      "publishedAt": "2026-08-07T21:09:00.000Z",
+      "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-07T18:37:26.000Z",
       "summary": "Framework's customer database was accessed, but no payment info was released.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-new-official-30th-anniversary-quake-mission-pack-94c8c539c0",
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics",
-      "tag": "Technology",
-      "publishedAt": "2026-08-07T18:00:02.000Z",
-      "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-wacom-s-movinkpad-11-is-a-fun-and-mid-priced-ent-b595dd4c12",
+      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists",
+      "tag": "Technology",
+      "publishedAt": "2026-08-07T21:20:00.000Z",
+      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-security-researchers-scanned-the-polish-web-and--5141daaecf",
       "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-07T21:00:08.000Z",
       "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-watching-roku-s-ai-channel-is-like-eating-from-a-30dd53f360",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "tag": "Technology",
-      "publishedAt": "2026-08-07T18:59:46.000Z",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest expe...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
