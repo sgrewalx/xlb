@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-08-07T21:30:46.077Z",
+  "updatedAt": "2026-08-07T22:26:19.771Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-prosecutor-fired-over-blogposts-critical-of-trum-31bb837b49",
-      "title": "Prosecutor fired over blogposts critical of Trump sues US justice department",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/prosecutor-fired-trump-blog-lawsuit",
-      "tag": "Europe",
-      "publishedAt": "2026-08-07T21:24:58.000Z",
-      "summary": "Will Rosenzweig’s defunct blog was publicized online by conservative pundit who tagged senior DoJ officials A federal prosecutor fired last year over critical comments he had wr...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-watch-bbc-asks-infantino-if-he-will-resign-as-fi-578cd9314b",
-      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "tag": "Football",
-      "publishedAt": "2026-08-07T21:24:17.000Z",
-      "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-giri-pradakshina-jams-visakhapatnam-roads-till-p-5871cb78d3",
-      "title": "Giri Pradakshina jams Visakhapatnam roads till past midnight; four-hour gridlock at Venkojipalem",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/giri-pradakshina-triggers-severe-traffic-jams-in-vizag/article71278162.ece",
+      "id": "news-post-pahalgam-panel-proposes-security-boost-at-m-b1c2528db6",
+      "title": "Post Pahalgam, panel proposes security boost at major J&K sites",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/post-pahalgam-panel-proposes-security-boost-at-major-jk-sites/articleshow/133044032.cms",
       "tag": "India",
-      "publishedAt": "2026-08-07T21:19:25.000Z",
-      "summary": "Stretches from Maddilapalem to Madhurawada stayed jammed for up to four hours as lakhs walked the 32-km route; at Venkojipalem, motorists switched off their engines and slept in...",
+      "publishedAt": "2026-08-07T22:21:40.000Z",
+      "summary": "A parliamentary committee proposed an integrated security framework for Jammu and Kashmir's tourist spots. This includes comprehensive CCTV coverage and centralized monitoring f...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-south-koreans-beat-the-heat-with-silent-disco-po-e1cbf118df",
-      "title": "South Koreans beat the heat with ‘silent disco’ pool party",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+      "id": "news-discrepancies-in-validating-kunbi-caste-certific-f39117f84e",
+      "title": "Discrepancies in validating Kunbi caste certificates: Jarange-Patil",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/discrepancies-in-validating-kunbi-caste-certificates-jarange-patil/article71317594.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-07T22:18:16.000Z",
+      "summary": "Mr. Jarange-Patil has set an August 29 deadline and threatened a fresh “final” agitation over delays and denials in the certificate process",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-spain-imposes-border-controls-against-italy-as-r-be1bd6c47a",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-07T21:12:45.000Z",
-      "summary": "South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.",
+      "publishedAt": "2026-08-07T22:13:55.000Z",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-democrats-gain-momentum-in-pivotal-us-senate-and-b7f384bd23",
+      "title": "Democrats gain momentum in pivotal US Senate and governor’s races in Texas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-07T22:08:49.000Z",
+      "summary": "James Talarico leads Ken Paxton in the Texas Senate race, signalling a potential shift in the Republican stronghold.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-key-republican-says-he-will-vote-for-todd-blanch-ac7b8d4a14",
+      "title": "Key Republican says he will vote for Todd Blanche to become attorney general after other senators defect – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest",
+      "tag": "Europe",
+      "publishedAt": "2026-08-07T21:56:16.000Z",
+      "summary": "Senator Bill Cassidy, who will not be returning to Congress after losing his Louisiana primary to a Trump-backed candidate, said he would support the AG nominee Murkowski won’t...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,16 +63,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israeli-efforts-to-seize-more-palestinian-land-h-33cc2f2f8e",
-      "title": "Israeli efforts to seize more Palestinian land have reached a frenzied pitch",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5914041/israeli-efforts-to-seize-more-palestinian-land-have-reached-a-frenzied-pitch",
-      "tag": "US",
-      "publishedAt": "2026-08-07T20:24:36.000Z",
-      "summary": "Israeli efforts to establish new Jewish settlements and seize Palestinian land have reached a frenzied pitch in the occupied West Bank, where Palestinian residents say they have...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-anti-khalistani-terrorist-gursimran-mand-assault-09b285a17a",
       "title": "Anti-Khalistani Terrorist Gursimran Mand Assaulted In Ambala",
       "source": "NDTV",
@@ -73,13 +73,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iltija-faces-fir-questioning-over-assault-on-cop-afd6c62c98",
-      "title": "Iltija faces FIR, questioning over 'assault' on cop, accuses police of manhandling; Omar calls it 'fixed match'",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/iltija-faces-fir-questioning-over-assault-on-cop-accuses-police-of-manhandling-omar-calls-it-fixed-match/articleshow/133040872.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-07T18:33:15.000Z",
-      "summary": "Omar Abdullah, J&K chief minister, labeled the Iltija Mufti incident a contrived event, alleging that agencies are working to bolster the PDP's tarnished political standing. Ilt...",
+      "id": "news-colombia-s-new-president-vows-to-remake-the-coun-09c9d450ba",
+      "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+      "tag": "US",
+      "publishedAt": "2026-08-07T15:41:45.000Z",
+      "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-thai-pm-vows-to-introduce-stricter-gun-laws-afte-880113f805",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-07T21:19:27.000Z",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-we-were-mum-on-students-stir-u-p-rld-chief-quits-fe9e4e51d9",
-      "title": "‘We were mum on students’ stir’: U.P. RLD chief quits, flags corruption",
+      "id": "news-nhrc-seeks-report-on-deaths-in-assam-factory-exp-a4a67c32cd",
+      "title": "NHRC seeks report on deaths in Assam factory explosion",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/we-were-mum-on-students-stir-up-rld-chief-quits-flags-corruption/article71318148.ece",
+      "url": "https://www.thehindu.com/news/national/assam/nhrc-seeks-report-on-deaths-in-assam-factory-explosion/article71280538.ece",
       "tag": "India",
-      "publishedAt": "2026-08-07T21:18:32.000Z",
-      "summary": "Speaking to The Hindu in Lucknow, Mr. Rai, said the way RLD, a party known to take positions on issues of public interest stopped making interventions over core matters, forced...",
+      "publishedAt": "2026-08-07T22:17:47.000Z",
+      "summary": "Five people, including the owner of the factory, were arrested in connection with the explosion, which left two other workers severely injured",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-hunter-biden-tells-bbc-his-pardon-was-not-good-f-e2a2b9802f",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-08-07T21:16:52.000Z",
-      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.",
+      "id": "news-need-for-moderation-in-public-speech-1330d10b1e",
+      "title": "Need for moderation in public speech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/opinion/op-ed/need-for-moderation-in-public-speech/article71278473.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-07T22:17:44.000Z",
+      "summary": "Tamil Nadu’s political arena has become a theatre of vitriolic discourse",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-government-maps-27-arunachal-border-locations-wi-d8ea71c564",
+      "title": "Government maps 27 Arunachal border locations with standard names",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/govt-maps-27-arunachal-border-locations-with-standard-names/articleshow/133043102.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-07T22:15:25.000Z",
+      "summary": "India has taken a decisive step by officially naming twenty-seven sites in Arunachal Pradesh on its maps, a move designed to clarify territorial boundaries and counter Chinese a...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
