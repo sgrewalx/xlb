@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-08-08T17:20:36.634Z",
+  "updatedAt": "2026-08-08T18:21:47.099Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-sharpest-image-ever-taken-of-the-sun-reveals-aefbd333a3",
-      "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon",
+      "id": "tech-an-amazon-data-center-could-have-the-worst-pollu-dec396a4e1",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
       "tag": "Technology",
-      "publishedAt": "2026-08-08T17:19:42.000Z",
-      "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+      "publishedAt": "2026-08-08T17:53:34.000Z",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in th...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-to-get-the-best-battery-life-from-your-retro-d2e054b2d3",
+      "title": "How to get the best battery life from your retro handheld game console",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2230359/retro-handheld-game-console-how-to-best-battery-life",
+      "tag": "Technology",
+      "publishedAt": "2026-08-08T17:30:00.000Z",
+      "summary": "There's a smarter way to power vintage portable gaming devices. Give these tips a try.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,26 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-08T16:34:22.000Z",
       "summary": "X is winding down its existing Revenue Sharing program.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-wired-vs-wireless-carplay-how-are-they-different-c024c1115d",
-      "title": "Wired vs. wireless CarPlay: How are they different & which is better to use?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2230261/carplay-wired-vs-wireless-differences-which-better",
-      "tag": "Technology",
-      "publishedAt": "2026-08-08T16:30:00.000Z",
-      "summary": "There are advantages and disadvantages to both connection types. Here's how they compare and when you might choose one over the other.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-buc-ee-s-dodges-john-oliver-to-sue-another-small-a39ebabc7d",
-      "title": "Buc-ee’s dodges John Oliver to sue another small business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "tag": "Technology",
-      "publishedAt": "2026-08-08T15:47:30.000Z",
-      "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of La...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -60,6 +50,16 @@
       "tag": "Technology",
       "publishedAt": "2026-08-08T14:30:30.000Z",
       "summary": "Delhivery also announced the elevation of Vani Venkatesh to the role of Deputy CEO, effective immediately. Ms Venkatesh joined the company in February 2025 as Chief Business Off...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-census-proposal-would-stop-counting-undocumented-022de8832b",
+      "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation",
+      "tag": "Technology",
+      "publishedAt": "2026-08-08T14:03:58.000Z",
+      "summary": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexua...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-wired-vs-wireless-carplay-how-are-they-different-c024c1115d",
+      "title": "Wired vs. wireless CarPlay: How are they different & which is better to use?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2230261/carplay-wired-vs-wireless-differences-which-better",
+      "tag": "Technology",
+      "publishedAt": "2026-08-08T16:30:00.000Z",
+      "summary": "There are advantages and disadvantages to both connection types. Here's how they compare and when you might choose one over the other.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-the-kindle-scribe-colorsoft-is-a-lot-of-fun-but--659ac9d760",
       "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-08T16:00:00.000Z",
       "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-claude-vs-chatgpt-how-these-ai-assistants-differ-ffe22854de",
-      "title": "Claude Vs ChatGPT: How These AI Assistants Differ",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ",
-      "tag": "Technology",
-      "publishedAt": "2026-08-08T15:30:00.000Z",
-      "summary": "In a practical breakdown of how Claude and ChatGPT AI models differ, one tends to fall short when it comes to quality responses and overall user experience.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
