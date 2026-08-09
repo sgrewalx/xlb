@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-08-09T22:21:11.361Z",
+  "updatedAt": "2026-08-09T23:22:32.300Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-canada-wildfires-what-to-know-about-fires-in-bri-b0de19489e",
+      "id": "news-australia-news-live-nsw-schools-may-ban-take-hom-4b611dadd8",
+      "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-08-09T23:06:08.000Z",
+      "summary": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live Safety bureau chief says what happened at Sydney air...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-west-asia-war-live-netanyahu-vows-iran-will-not--fd62d1251b",
+      "title": "West Asia war LIVE: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-uae-attacks-strait-of-hormuz-lebanon-infiltration-donald-trump-irgc-netanyahu/article71323971.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-08-09T23:03:16.000Z",
+      "summary": "\"I want to emphasise once again: with an agreement or without an agreement, as long as I am Prime Minister, Iran will not have nuclear weapons,\" Mr. Netanyahu said at a cabinet...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-not-afraid-to-stay-the-canadians-taking-fighting-c5fe701b18",
+      "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-08-09T23:02:39.000Z",
+      "summary": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-union-reports-108-attacks-on-palestinian-journal-16a733d8cc",
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-09T23:01:25.000Z",
+      "summary": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-to-bypass-bosphorus-hormuz-russia-moots-direct-r-d772b687a4",
+      "title": "To bypass Bosphorus & Hormuz, Russia moots direct rail link to India",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/to-bypass-bosphorus-hormuz-russia-moots-direct-rail-link-to-india/articleshow/133076764.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-09T22:50:37.000Z",
+      "summary": "Russia has proposed a direct rail corridor to connect to the Indian Ocean, aiming to circumvent the perilous straits. This ambitious route would pass through Turkmenistan, Iran,...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-canada-wildfires-what-to-know-about-fires-in-bri-24a91f63d5",
       "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
       "tag": "US",
-      "publishedAt": "2026-08-09T22:15:13.000Z",
+      "publishedAt": "2026-08-09T22:23:03.000Z",
       "summary": "Fire activity has increased sharply in British Columbia, with thousands evacuated from their homes just weeks after smoke from blazes in Ontario choked the East Coast.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-maharashtra-fda-to-introduce-end-to-end-traceabi-f8c26ee36b",
-      "title": "Maharashtra FDA to introduce end-to-end traceability of milk to fight adulteration",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-to-introduce-end-to-end-traceability-of-milk-to-fight-adulteration/article71325631.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-09T22:11:56.000Z",
-      "summary": "Digitisation initiative to be launched to connect milk to milch animals and to trace anomalies to arrest adulteration process",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-alexandria-ocasio-cortez-announces-decision-to-f-2218a4dc74",
-      "title": "Alexandria Ocasio-Cortez announces decision to freeze her eggs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility",
-      "tag": "Europe",
-      "publishedAt": "2026-08-09T22:06:49.000Z",
-      "summary": "US congresswoman to share journey online as she criticizes Trump administration’s attacks on reproductive care Alexandria Ocasio-Cortez has announced she is going to freeze her...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,36 +70,6 @@
       "tag": "US",
       "publishedAt": "2026-08-09T22:00:52.000Z",
       "summary": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-government-may-be-going-slow-on-fcra-to-woo-dmk--2814fdb32f",
-      "title": "Government may be going slow on FCRA to woo DMK, NCP(SP) for delimitation",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/government-may-be-going-slow-on-fcra-to-woo-dmk-ncpsp-for-delimitation/articleshow/133075158.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-09T21:58:55.000Z",
-      "summary": "As Parliament approaches its closing week, the FCRA amendment bill is notably absent from Monday's Lok Sabha agenda, signaling a possible political strategy from the government....",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-israel-rejects-trump-s-15-point-plan-for-gaza-ne-ba08e40c2b",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-09T21:25:04.000Z",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-germany-warns-of-daily-hybrid-warfare-after-expl-d1150d0a0b",
-      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-09T20:40:25.000Z",
-      "summary": "Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-news-live-nsw-schools-may-ban-take-hom-b7e885c2e0",
-      "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+      "id": "news-several-injured-in-denmark-in-suspected-underwor-41aca17c8b",
+      "title": "Several injured in Denmark in suspected underworld shooting: police",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/several-injured-in-holbaek-denmark-shooting/article71326146.ece",
       "tag": "Europe",
-      "publishedAt": "2026-08-09T22:06:44.000Z",
-      "summary": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live The federal government is trumpeting “big benefits”...",
+      "publishedAt": "2026-08-09T22:55:25.000Z",
+      "summary": "Police said in a statement they were present at several locations in Holbaek, about 70 km west of Copenhagen, following “a shooting in which multiple people have been hit”",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ed-chargesheets-against-rcom-reliance-infra-in-4-8826e5a820",
-      "title": "ED chargesheets against RCom, Reliance Infra in 40k crore bank fraud",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/ed-chargesheets-against-rcom-reliance-infra-in-40k-crore-bank-fraud/articleshow/133075153.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-09T21:49:48.000Z",
-      "summary": "The Enforcement Directorate has formally charged Reliance Communications and Reliance Infrastructure with serious financial offenses, including money laundering involving over f...",
+      "id": "news-israeli-military-closes-palestinian-christian-vi-65c7a330b1",
+      "title": "Israeli military closes Palestinian Christian village Taybeh, citing settler attacks",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/israeli-military-closes-palestinian-christian-village-taybeh-citing-settler-attacks/article71326145.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-08-09T22:45:49.000Z",
+      "summary": "An Israeli military spokesperson said turning Taybeh into a closed military zone was “due to some violent attacks ‌by Israelis in the region.”",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-one-crore-homes-completed-and-delivered-under-pm-1565872d77",
-      "title": "One crore homes completed and delivered under PM scheme: Government",
+      "id": "news-dope-test-of-turbulent-air-india-flight-s-pilot--f2e741f299",
+      "title": "Dope test of turbulent Air India flight’s pilot ‘not negative’, sent for confirmation, says government",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/one-crore-homes-completed-and-delivered-under-pm-scheme-government/articleshow/133075146.cms",
+      "url": "https://timesofindia.indiatimes.com/india/dope-test-of-turbulent-ai-flights-pilot-not-negative-sent-for-confirmation-says-government/articleshow/133076744.cms",
       "tag": "India",
-      "publishedAt": "2026-08-09T21:41:57.000Z",
-      "summary": "Since the inception of the Pradhan Mantri Awas Yojna, over one crore urban houses have been built, representing a significant achievement in housing development. Since 2015, 1.2...",
+      "publishedAt": "2026-08-09T22:37:51.000Z",
+      "summary": "Following a serious incident involving altitude loss on an Air India flight, the pilot was subjected to a dope screening test. The results were not definitively negative, thereb...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
