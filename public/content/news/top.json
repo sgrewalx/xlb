@@ -1,25 +1,75 @@
 {
-  "updatedAt": "2026-08-09T17:22:47.968Z",
+  "updatedAt": "2026-08-09T18:27:49.624Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-ainrc-to-contest-polls-in-t-n-says-lakshminaraya-e913952f92",
-      "title": "AINRC to contest polls in T.N., says Lakshminarayanan",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/ainrc-leaders-celebrate-puducherry-cms-birthday/article71325825.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-09T17:21:12.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-netanyahu-rejects-trump-s-gaza-peace-plan-demand-63d0784f9a",
+      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
+      "tag": "US",
+      "publishedAt": "2026-08-09T18:21:45.000Z",
+      "summary": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-london-mayor-orders-council-to-drop-plan-to-ban--b530ad3800",
-      "title": "London mayor orders council to drop plan to ban new pubs and restaurants in Soho and West End",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/09/london-mayor-sadiq-khan-westminster-ban-new-pubs-restaurants-soho-west-end",
+      "id": "news-iran-taps-longtime-i-r-g-c-commander-mohsen-reza-29bd4c0b39",
+      "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+      "tag": "US",
+      "publishedAt": "2026-08-09T18:18:22.000Z",
+      "summary": "The appointment of Mohsen Rezaei as secretary of the Supreme National Security Council suggests that Iran’s old guard is consolidating power.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-suspected-cartel-boss-kinahan-lands-in-ireland-a-531f08dbe4",
+      "title": "Suspected cartel boss Kinahan lands in Ireland after extradition from Dubai",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/daniel-kinahan-ireland-crime-gang-boss-extradition-dubai-dublin-august-9-2026/article71325895.ece",
       "tag": "Europe",
-      "publishedAt": "2026-08-09T17:00:20.000Z",
-      "summary": "Exclusive: Sadiq Khan urges Westminster council to adopt ‘positive vision of economic growth’ of nightlife Sadiq Khan has ordered Westminster council to scrap a policy that woul...",
+      "publishedAt": "2026-08-09T18:07:15.000Z",
+      "summary": "Kinahan had been held in custody in Dubai since his arrest there in April after Ireland issued a warrant for “alleged serious organised crime offences”",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-lake-mead-plummets-to-historic-low-water-level-a-564daf122b",
+      "title": "Lake Mead plummets to historic low water level as Colorado River struggles",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/09/lake-mead-record-low-water-level-colorado-river",
+      "tag": "Europe",
+      "publishedAt": "2026-08-09T18:05:38.000Z",
+      "summary": "Levels at reservoir along Arizona-Nevada border dipped below previous record set in 2022, amid water crisis in west Lake Mead, the largest reservoir in the United States, has pl...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-residents-warned-to-brace-for-the-worst-as-canad-d4994a637c",
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-09T18:03:55.000Z",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-death-count-in-assam-floods-reaches-100-nearly-1-26f0172b10",
+      "title": "Death Count In Assam Floods Reaches 100, Nearly 1.4 Lakh Affected",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/death-count-in-assam-floods-reaches-100-nearly-1-4-lakh-affected-11887460",
+      "tag": "India",
+      "publishedAt": "2026-08-09T17:55:10.000Z",
+      "summary": "One person each drowned in floodwaters in Golaghat and Karbi Anglong districts during the last 24 hours, the Assam State Disaster Management Authority (ASDMA) said.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-ranchi-police-fully-prepared-jharkhand-braces-fo-e29bbbc0e5",
+      "title": "'Ranchi police fully prepared': Jharkhand braces for students' protest march to Assembly",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/ranchi-police-fully-prepared-jharkhand-braces-for-students-protest-march-to-assembly/articleshow/133072759.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-09T17:51:32.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -33,56 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-man-arrested-after-boat-capsizes-near-statue-of--580d035158",
-      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-09T16:46:18.000Z",
-      "summary": "A nearby vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-israel-rejects-trump-s-15-point-plan-to-disarm-h-b793418b90",
-      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-      "tag": "US",
-      "publishedAt": "2026-08-09T16:39:14.000Z",
-      "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-reflection-of-public-anger-suvendu-adhikari-afte-6bd5f63451",
-      "title": "'Reflection of public anger': Suvendu Adhikari after Mamata Banerjee faces protests, called 'chor'",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/reflection-of-public-anger-suvendu-adhikari-after-mamata-banerjee-faces-protests-called-chor/articleshow/133070360.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-09T16:22:20.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-security-guard-rapes-woman-on-gujarat-building-t-62518fb873",
-      "title": "Security Guard Rapes Woman On Gujarat Building Terrace 4 Days After Joining",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/security-guard-rapes-woman-on-gujarat-building-terrace-4-days-after-joining-11887165",
-      "tag": "India",
-      "publishedAt": "2026-08-09T15:53:40.000Z",
-      "summary": "The accused, Dharam Singh, originally from Hardoi district in Uttar Pradesh, allegedly choked the woman before sexually assaulting her and locking her on the terrace before flee...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-in-munich-it-s-never-too-early-for-a-breakfast-b-8b6aad9f4d",
-      "title": "In Munich, it's never too early for a breakfast beer with sausage and pretzels",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5900954/in-munich-its-never-too-early-for-a-breakfast-beer-with-sausage-and-pretzels",
-      "tag": "US",
-      "publishedAt": "2026-08-09T12:48:36.000Z",
-      "summary": "Bavarians traditionally wash down a breakfast of boiled veal sausage, sweet mustard and a giant pretzel with beer — all before the church bells ring at midday.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-why-building-women-leaders-is-a-business-imperat-c0a12704e8",
       "title": "Why building women leaders is a business imperative",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-disaster-response-force-deployed-to-trace-missin-99808b052d",
-      "title": "Disaster response force deployed to trace missing trekker at Shivagange",
+      "id": "news-how-can-there-be-a-fair-delimitation-when-it-is--2dc22cb6e3",
+      "title": "How can there be a fair delimitation when it is a fraud: TNCC president",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/bangalore/disaster-response-force-deployed-to-trace-missing-trekker-at-shivagange/article71325814.ece",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/how-can-there-be-a-fair-delimitation-when-it-is-a-fraud-tncc-president/article71325260.ece",
       "tag": "India",
-      "publishedAt": "2026-08-09T17:20:12.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-08-09T18:04:17.000Z",
+      "summary": "B. Manickam Tagore criticises DMK and AIADMK for ‘changing their view on the delimitation Bill in just a matter of months’, and not participating in the meeting convened by Chie...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-jharkhand-students-protest-updates-students-anno-0004439dad",
-      "title": "Jharkhand students protest updates: Students announce march to Assembly on Monday, Govt announces probe; Jharkhand Governor accepts resignations of three JPSC members",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protest-jpsc-jssc-aspirants-demonstration-jmm-hemant-soren-ranchi-live-updates-august-9-2026/article71323953.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-09T17:18:04.000Z",
-      "summary": "Demand for cancellation of JPSC exam met; will continue stir till demand for CBI probe met, say protesters after talks with Jharkhand government",
+      "id": "news-labour-seeking-deeper-relationship-with-eu-under-b02b911e04",
+      "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+      "tag": "Europe",
+      "publishedAt": "2026-08-09T18:00:21.000Z",
+      "summary": "Exclusive: Hamish Falconer wants ‘sense of renewed pace’ in post-Brexit talks while staying within Labour’s red lines The UK will move faster and be more ambitious on achieving...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-jharkhand-government-cancels-jpsc-exam-protests--6162857422",
-      "title": "Jharkhand government cancels JPSC exam; protests to continue till CBI probe ordered, say students",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-stir-protesters-stick-to-demand-for-cbi-probe-into-exam-anomaly-jharkhand-govt-says-98-demands-met/article71325193.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-09T17:07:06.000Z",
-      "summary": "Students to march to State Assembly on Monday; three JPSC members resign; Chief Minister Hemant Soren assures protesters that “justice will be delivered with full transparency”",
+      "id": "news-iran-holding-firm-to-hormuz-pushes-for-return-to-b5c7d1a0cb",
+      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+      "tag": "US",
+      "publishedAt": "2026-08-09T17:58:21.000Z",
+      "summary": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
