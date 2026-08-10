@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-08-10T21:33:16.445Z",
+  "updatedAt": "2026-08-10T22:28:01.022Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-live-updates-powerful-7-4-earthquake-strikes-col-40ab0ab86d",
-      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "id": "news-yabloko-russian-antiwar-party-is-banned-from-par-aba497965e",
+      "title": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html",
       "tag": "US",
-      "publishedAt": "2026-08-10T21:27:50.000Z",
-      "summary": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers sear...",
+      "publishedAt": "2026-08-10T22:15:53.000Z",
+      "summary": "The party, Yabloko, has navigated a delicate balancing act with an increasingly heavy-handed Kremlin, but its pro-peace manifesto turned out to be the red line.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-signs-executive-order-to-split-measles-mum-b9b45c1f0b",
+      "title": "Trump signs executive order to split measles, mumps and rubella vaccine into separate shots in sweeping change – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
+      "tag": "Europe",
+      "publishedAt": "2026-08-10T22:07:47.000Z",
+      "summary": "He added that his administration would no longer recommend hepatitis b, Covid-19 and influenza shots for children Trump signs order attempting to override CDC vaccine schedule a...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-colombia-s-espriella-to-lead-emergency-efforts-f-51b602a963",
+      "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-10T21:48:23.000Z",
+      "summary": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-councils-to-get-more-powers-to-stop-vape-and-bet-1918686dc0",
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-08-10T21:33:51.000Z",
+      "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,43 +53,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-politics-live-parliament-returns-as-la-68d4e17ae8",
-      "title": "Australia politics live: parliament returns as Labor seeks deals on NDIS, gambling ads and news bargaining reforms",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-08-10T21:19:46.000Z",
-      "summary": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament. Follow today’s news live Get our breaking news email , free app or daily new...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-signs-order-to-limit-childhood-vaccines-an-626e67308b",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-10T21:12:40.000Z",
-      "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-says-relationship-is-good-even-as-netanyah-a64db392f9",
-      "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-10T21:03:53.000Z",
-      "summary": "US President Donald Trump maintains that his relationship with Israel's PM Benjamin Netanyahu is still good.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-supriya-sule-s-meeting-with-pm-sets-off-speculat-ca5342d4ea",
-      "title": "Supriya Sule’s meeting with PM sets off speculation over NCP(SP)’s stance on delimitation Bill",
+      "id": "news-three-students-die-of-snakebite-at-maharashtra-s-ce2f5e4cd1",
+      "title": "Three students die of snakebite at Maharashtra school",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/ncp-sp-mps-meet-pm-modi-discuss-maharashtra-issues/article71328632.ece",
+      "url": "https://www.thehindu.com/news/national/maharashtra/snake-bites-tribal-girls-at-school-in-maharashtras-gadchiroli-some-dead-probe-ordered/article71327311.ece",
       "tag": "India",
-      "publishedAt": "2026-08-10T20:39:19.000Z",
-      "summary": "The party’s position on delimitation would be decided only after the government introduced a Bill in Parliament, NCP(SP) spokesperson Mahesh Tapase says in Mumbai",
+      "publishedAt": "2026-08-10T21:01:54.000Z",
+      "summary": "The incident took place in the early hours of Monday when the snake, a krait, is suspected to have entered the hostel of the Japatlai Residential Ashram School in Dhanora taluka...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-number-of-govt-elementary-schools-down-10-000-in-e8777806ea",
-      "title": "Number of govt elementary schools down 10,000 in a year",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/number-of-govt-elementary-schools-down-10000-in-a-year/articleshow/133137369.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-10T21:18:17.000Z",
-      "summary": "Meghalaya, Telangana See Sharpest Fall",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-colombia-quake-chases-teenage-venezuelan-brother-e3465a1810",
-      "title": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+      "id": "news-live-updates-powerful-7-4-earthquake-strikes-col-4967d8b089",
+      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html",
+      "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
       "tag": "US",
-      "publishedAt": "2026-08-10T21:17:28.000Z",
-      "summary": "A pair of brothers who lost their mother and other family members in Venezuela and were profiled by The New York Times have now survived deadly quakes in two countries.",
+      "publishedAt": "2026-08-10T22:04:52.000Z",
+      "summary": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers sear...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-air-india-turbulence-scare-airbus-and-french-age-a1ba733508",
-      "title": "Air India turbulence scare: Airbus and French agency to join probe into Phuket flight",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/air-india-turbulence-scare-airbus-and-french-agency-to-join-probe-into-phuket-flight/articleshow/133137353.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-10T21:12:56.000Z",
-      "summary": "Pilot Behaviour, Technical Issues Under Scanner",
+      "id": "news-colombia-s-earthquake-puts-abelardo-de-la-esprie-64ec7c90ce",
+      "title": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html",
+      "tag": "US",
+      "publishedAt": "2026-08-10T22:04:50.000Z",
+      "summary": "Abelardo De La Espriella had never held public office until his inauguration on Friday. Now, he is at the helm of a major disaster response.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-images-emerge-from-quake-battered-colombia-221a9f6ef8",
+      "title": "Images Emerge From Quake-Battered Colombia",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
+      "tag": "US",
+      "publishedAt": "2026-08-10T22:04:02.000Z",
+      "summary": "The most powerful temblor in a decade struck in a Pacific Coast region, killing over 100 people.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
