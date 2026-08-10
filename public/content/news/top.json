@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-08-10T03:45:12.858Z",
+  "updatedAt": "2026-08-10T05:17:54.861Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-australia-news-live-body-found-in-suitcase-was-l-74d31ed9d2",
-      "title": "Australia news live: ‘body’ found in suitcase was lifelike doll with ‘bruises and grazes’; Victorian Liberals promise weekly red bin pickup",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-08-10T03:39:44.000Z",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-jharkhand-student-protests-security-tightened-pr-fe791a4861",
-      "title": "Jharkhand student protests: Security tightened, prohibitory orders clamped ahead of march",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protests-security-tightened-prohibitory-orders-clamped-ahead-of-march/article71326906.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-10T03:39:25.000Z",
-      "summary": "n view of the possibility of unrest during the students’ proposed march to the state assembly, the police administration has been put on alert, ADG (Headquarters) Manoj Kaushik...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-residents-warned-to-brace-for-the-worst-as-canad-c32a0d0001",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "id": "news-forest-funding-boost-as-two-million-trees-plante-fd59ea6d41",
+      "title": "Forest funding boost as two million trees planted",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq894dq252ko?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-08-10T05:14:31.000Z",
+      "summary": "A tree planting scheme to boost climate resilience receives £8.7m of funding.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-eight-teenagers-charged-with-murder-over-alleged-fd963bb175",
+      "title": "Eight teenagers charged with murder over alleged attack after Queensland party",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/teenagers-charged-murder-bahrs-scrub-logan-queensland-party-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-08-10T03:33:51.000Z",
-      "summary": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
+      "publishedAt": "2026-08-10T05:07:12.000Z",
+      "summary": "Man, 21, dies six days after being taken to hospital in critical condition after alleged attack in Bahrs Scrub, Logan A “preconceived plan” to do harm at a party has resulted in...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-oil-prices-climb-as-iranian-demands-cloud-outloo-7342461bef",
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+      "id": "news-our-mother-tongue-is-as-pure-as-our-mother-vijay-3a7f48eff6",
+      "title": "'Our mother tongue is as pure as our mother': Vijay moves Tamil anthem resolution; DMK, AIADMK back it",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/our-mother-tongue-is-as-pure-as-our-mother-vijay-moves-tamil-anthem-resolution-dmk-aiadmk-back-it/articleshow/133082241.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-10T05:06:21.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-jharkhand-students-protest-live-protestors-start-57d743d0c0",
+      "title": "Jharkhand students protest LIVE: Protestors start gathering for march to Assembly, say 'march will be peaceful, constitutional'",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-10-2026/article71326913.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-10T05:01:36.000Z",
+      "summary": "Protestors alleged that hundreds of students coming to the State capital Ranchi, from different parts of Jharkhand were being stopped by the police forcefully",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-explosive-wildfire-in-british-columbia-leaves-1--eceb6a3917",
+      "title": "Explosive Wildfire in British Columbia Leaves 1 Dead",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
+      "tag": "US",
+      "publishedAt": "2026-08-10T04:59:24.000Z",
+      "summary": "The Bald Range fire had burned more than 33,000 acres and remained out of control on Sunday, officials said. About 20,000 people were ordered to evacuate.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-will-ai-make-education-more-educational-c1d5a74998",
+      "title": "Will AI make education more educational?",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/ht-insight/future-tech/will-ai-make-education-more-educational-101786297739203.html",
+      "tag": "India",
+      "publishedAt": "2026-08-10T04:59:18.000Z",
+      "summary": "This article is authored by Rajeev Parashar and Parul Gupta.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-wildfires-bear-down-on-homes-in-canada-s-okanaga-e62a49c44a",
+      "title": "Wildfires bear down on homes in Canada’s Okanagan region",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-10T03:24:38.000Z",
-      "summary": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
+      "publishedAt": "2026-08-10T04:49:42.000Z",
+      "summary": "A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,26 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-india-digest-tiss-ex-student-arrested-after-bail-ccfdd79a4a",
-      "title": "India digest: TISS ex-student arrested after bail plea rejected; security guard rapes student on terrace",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/india-digest-tiss-ex-student-arrested-after-bail-plea-rejected-security-guard-rapes-student-on-terrace/articleshow/133077542.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-10T02:12:32.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-canada-wildfires-what-to-know-about-fires-in-bri-8497f46ab1",
-      "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-      "tag": "US",
-      "publishedAt": "2026-08-10T01:55:48.000Z",
-      "summary": "Fire activity has increased sharply in British Columbia, with thousands evacuated from their homes just weeks after smoke from blazes in Ontario choked the East Coast.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-demi-vollering-wins-tour-de-france-for-the-2nd-t-38f8cf9b54",
       "title": "Demi Vollering wins Tour de France for the 2nd time",
       "source": "NPR",
@@ -83,43 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-why-building-women-leaders-is-a-business-imperat-c0a12704e8",
-      "title": "Why building women leaders is a business imperative",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/economy/why-building-women-leaders-is-a-business-imperative-101786275130831.html",
-      "tag": "India",
-      "publishedAt": "2026-08-09T11:33:57.000Z",
-      "summary": "This article is authored by Pravasi Bhushan, director, Academics, WILL.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-china-evacuates-one-million-from-homes-as-massiv-e43bbfd7f3",
-      "title": "China evacuates one million from homes as massive storm arrives",
+      "id": "news-work-at-national-trust-site-to-prevent-flooding-38835a2f1b",
+      "title": "Work at National Trust site to prevent flooding",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmez1x2yzo?at_medium=RSS&at_campaign=rss",
       "tag": "World",
-      "publishedAt": "2026-08-10T03:15:21.000Z",
-      "summary": "Typhoon Dolphin made landfall on Sunday evening, affecting Shanghai and other parts of eastern China.",
+      "publishedAt": "2026-08-10T05:11:31.000Z",
+      "summary": "Flood prevention work is taking place, in a bid to use land as a sponge for the River Severn and River Tern.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-meta-will-soon-face-another-high-stakes-trial-in-0cd3b7712d",
-      "title": "Meta will soon face another high-stakes trial in U.S.",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-08-10T03:09:45.000Z",
-      "summary": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury sele...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+      "id": "news-ospreys-hatch-at-nature-reserve-for-first-time-abb306436e",
+      "title": "Ospreys hatch at nature reserve for first time",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c62e6n1607qo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-08-10T05:07:57.000Z",
+      "summary": "Campfield Marsh, on the shore of Solway Firth in Cumbria, has a platform to attract ospreys.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-china-slams-india-s-move-of-formally-naming-27-p-e5ed357ec1",
-      "title": "China slams India’s move of formally naming 27 places in Arunachal Pradesh",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/china-slams-indias-move-of-formally-naming-27-places-in-arunachal-pradesh/article71326872.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-10T03:07:29.000Z",
-      "summary": "China said India should avoid turning border issue into a larger dispute, as such actions could stifle the improving political ties between the two countries",
+      "id": "news-australia-news-live-two-workers-were-temporarily-cf706e2df1",
+      "title": "Australia news live: Two workers were temporarily stood down over airport near-miss; Icac witness says his wife is having contractions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-08-10T05:03:43.000Z",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Police say the remains found in a suitcase near Goulburn are not human. Supt Linda Bradbury...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
