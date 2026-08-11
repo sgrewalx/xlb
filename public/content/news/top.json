@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-08-11T05:54:10.920Z",
+  "updatedAt": "2026-08-11T06:52:20.438Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-trump-pivots-back-to-sanctions-for-iran-as-other-200dc064ef",
-      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-      "tag": "US",
-      "publishedAt": "2026-08-11T05:48:27.000Z",
-      "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
+      "id": "news-arvind-kejriwal-extends-support-to-jharkhand-stu-25058934cd",
+      "title": "Arvind Kejriwal extends support to Jharkhand students’ protest",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/arvind-kejriwal-extends-support-to-jharkhand-students-protest/article71331302.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-11T06:45:48.000Z",
+      "summary": "I support the demands of the protesting students in Jharkhand and appeal to the government to resolve their issues immediately; violence against students is simply unacceptable,...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-news-live-rba-holds-cash-rate-at-4-35--35bd86dee9",
-      "title": "Australia news live: RBA holds cash rate at 4.35%; PM defends Japan relationship after Coalition question over ‘classless’ melon comment",
+      "id": "news-australia-news-live-bullock-warns-more-hikes-pos-ff2f9c4a0e",
+      "title": "Australia news live: Bullock warns more hikes possible after RBA holds cash rate at 4.35%; PM faces Coalition questions on ‘classless’ melon comment",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-08-11T05:44:08.000Z",
+      "publishedAt": "2026-08-11T06:44:32.000Z",
       "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Ted O’Brien says that just because the Japanese government has downplayed melon-gate, doesn...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-jharkhand-students-protests-live-normal-life-hit-40942b5a9e",
-      "title": "Jharkhand students' protests LIVE: Normal life hit in parts of State as BJP enforces bandh",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-11-2026/article71330994.ece",
+      "id": "news-life-begins-at-conception-tamil-nadu-speaker-spa-aeb2c02ebb",
+      "title": "'Life begins at conception': Tamil Nadu Speaker sparks row over anti-abortion remarks",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/life-begins-at-conception-tamil-nadu-speaker-sparks-row-over-anti-abortion-remarks/articleshow/133144435.cms",
       "tag": "India",
-      "publishedAt": "2026-08-11T05:28:55.000Z",
-      "summary": "Most schools and business establishments remained closed, while vehicular movement was very low in the state capital Ranchi and several other cities",
+      "publishedAt": "2026-08-11T06:41:02.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-court-dismisses-criminal-charges-against-gaut-86c4860c60",
+      "title": "US Court Dismisses Criminal Charges Against Gautam Adani, Sagar Adani",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/us-court-dismisses-criminal-charges-against-gautam-adani-sagar-adani-11892598",
+      "tag": "India",
+      "publishedAt": "2026-08-11T06:08:05.000Z",
+      "summary": "US court permanently dismisses criminal charges against Adani chairman Gautam Adani and Sagar Adani.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-yemen-s-houthis-launch-ballistic-missile-attacks-7e2b4b7420",
+      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-11T06:05:07.000Z",
+      "summary": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-turkey-s-parliament-approves-a-pardon-like-bill--a01301bd75",
+      "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+      "tag": "US",
+      "publishedAt": "2026-08-11T06:03:49.000Z",
+      "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,36 +70,6 @@
       "tag": "US",
       "publishedAt": "2026-08-11T05:24:12.000Z",
       "summary": "A Coventry charity opens a uniform bank as the government sets limits on logoed items for pupils.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-history-will-remember-him-kindly-sonia-gandhi-wr-16282086cc",
-      "title": "'History will remember him kindly': Sonia Gandhi writes on Manmohan Singh after SC clean chit",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/history-will-remember-him-kindly-sonia-gandhi-writes-on-manmohan-singh-after-sc-clean-chit/articleshow/133142850.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-11T05:22:11.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-somali-referee-arrives-for-uefa-super-cup-after--bcccd43d3e",
-      "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-11T05:12:05.000Z",
-      "summary": "Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-history-will-remember-him-kindly-sonia-gandhi-pe-af04290305",
-      "title": "\"History Will Remember Him Kindly\": Sonia Gandhi Pens Oped On Manmohan Singh",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/history-will-remember-him-kindly-sonia-gandhi-pens-oped-on-manmohan-singh-after-coal-scam-case-clean-chit-11892895",
-      "tag": "India",
-      "publishedAt": "2026-08-11T04:20:58.000Z",
-      "summary": "Congress leader Sonia Gandhi said Singh's record of integrity and accountability stood in stark contrast to the way the Modi government has operated.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-colombia-quake-leaves-more-than-110-dead-as-it-h-959493a0c1",
-      "title": "Colombia quake leaves more than 110 dead – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "tag": "Europe",
-      "publishedAt": "2026-08-11T05:32:08.000Z",
-      "summary": "This blog is now closed – a full report is here People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandr...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-lobbying-firm-linked-to-reformers-created-fake-a-7d9cd21f33",
-      "title": "Lobbying firm linked to Reformers created fake administrative assistant named ‘Jessica’, Icac hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/christian-reformers-firm-fake-assistant-jessica-icac-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-08-11T05:28:30.000Z",
-      "summary": "Consultant Jeremy Greenwood gives evidence to Independent Commission Against Corruption as it investigates allegations linked to Christian Liberal group Follow our Australia new...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-west-asia-war-live-trump-says-will-demand-confli-a292fa8c5e",
-      "title": "West Asia war LIVE: Trump says will demand conflict compensation from Iran",
+      "id": "news-jharkhand-students-protests-live-cjp-s-dipke-con-bc352ad8ac",
+      "title": "Jharkhand students' protests LIVE: CJP's Dipke condemns police action against fasting student leader",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-11-2026-hormuz-strait-reopen-us-iran-talks/article71330825.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-08-11T05:22:15.000Z",
-      "summary": "Donald Trump's announcement was a direct response to Iran’s insistence that U.S. payment of war reparations is a precondition to any resolution of the ongoing hostilities",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-11-2026/article71330994.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-11T06:45:38.000Z",
+      "summary": "The CJP demanded an immediate independent probe into the alleged police action and sought accountability of officials who ordered the lathi-charge",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-parliament-monsoon-session-day-17-live-both-hous-7690a71cff",
+      "title": "Parliament Monsoon Session Day 17 LIVE: Both Houses adjourned till 2 p.m. amid protests",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-17-lok-sabha-rajya-sabha-live-updates-august-11-2026/article71330961.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-11T06:41:33.000Z",
+      "summary": "Lok Sabha Speaker Om Birla on Tuesday appealed to Opposition members to let the House function so that key Bills are passed with a constructive debate",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-dipke-condemns-police-action-against-fasting-stu-a46cab3103",
+      "title": "Dipke condemns police action against fasting student leader in Jharkhand",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/dipke-condemns-police-action-against-fasting-student-leader-in-jharkhand/article71331290.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-11T06:40:15.000Z",
+      "summary": "According to a statement issued by the Cockroach Janta Party, Abhijeet Dipke spoke to Mr. Mahto over a video call while the student leader was hospitalised",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
