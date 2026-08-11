@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-11T21:35:20.229Z",
+  "updatedAt": "2026-08-11T22:31:36.674Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-phoebe-gates-and-sophia-kianni-reportedly-knew-p-0ea3673442",
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T21:39:58.000Z",
+      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-an-fcc-filing-points-to-new-sonos-headphones-com-f5e4100618",
       "title": "An FCC filing points to new Sonos headphones coming soon",
@@ -10,6 +20,16 @@
       "tag": "Technology",
       "publishedAt": "2026-08-11T21:23:30.000Z",
       "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reporte...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-russian-drones-found-near-vital-european-offshor-c5713d8d5c",
+      "title": "Russian drones found near vital European offshore gas site, get blown up",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T21:20:11.000Z",
+      "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,16 +43,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-can-t-stop-states-1-4-trillion-lawsuit-from-a81b14e9a0",
-      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T20:27:16.000Z",
-      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-is-it-safe-to-eat-lettuce-yet-15e7dad0c7",
       "title": "Is It Safe to Eat Lettuce Yet?",
       "source": "Wired",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-11T20:26:01.000Z",
       "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-uber-surprised-robotics-company-serve-by-selling-1e691604f3",
-      "title": "Uber surprised robotics company Serve by selling its entire stake",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T20:02:02.000Z",
-      "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gemini-becomes-google-s-fastest-growing-product--f94265f3d0",
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product",
+      "id": "tech-accel-closes-oversubscribed-550m-india-fund-with-6d018caabd",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T19:48:12.000Z",
-      "summary": "But will Gemini's surge survive slowing model releases?",
+      "publishedAt": "2026-08-11T21:39:11.000Z",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-chatgpt-and-gemini-both-just-passed-1-billion-us-a537bb4764",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "id": "tech-chrome-adopts-what-may-be-the-best-protection-ye-0d5b9fab76",
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T19:41:42.000Z",
-      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's...",
+      "publishedAt": "2026-08-11T20:59:52.000Z",
+      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
