@@ -1,45 +1,65 @@
 {
-  "updatedAt": "2026-08-11T18:46:47.227Z",
+  "updatedAt": "2026-08-11T19:54:17.389Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-zoom-screen-sharing-bug-let-people-fully-take-ov-8eab4248a1",
-      "title": "Zoom screen-sharing bug let people fully take over other devices on a call",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2234871/zoom-screen-sharing-bug-let-people-fully-take-over-other-devices-on-a-call",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T18:44:18.000Z",
-      "summary": "Zoom screen-sharing bug let people fully take over other devices on a call.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-s-free-streaming-service-now-lets-you-pic-ce7b518197",
-      "title": "Google’s free streaming service now lets you pick shows and movies to watch",
+      "id": "tech-chatgpt-and-gemini-both-just-passed-1-billion-us-a537bb4764",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T18:35:16.000Z",
-      "summary": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels...",
+      "publishedAt": "2026-08-11T19:41:42.000Z",
+      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-less-than-2-5-of-taylor-farms-recalled-lettuce-w-7a3e626810",
-      "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T18:00:14.000Z",
-      "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-bluesky-s-active-user-base-is-shrinking-as-its-f-be0539d838",
-      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "id": "tech-fbi-says-cybercriminals-are-hacking-into-victims-f0d73aa2bd",
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app",
+      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T17:46:14.000Z",
-      "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "publishedAt": "2026-08-11T19:38:23.000Z",
+      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-life-f161a7ad48",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T19:30:00.000Z",
+      "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-and-when-to-view-the-perseid-meteor-shower-a-75922b7cf5",
+      "title": "How and When to View the Perseid Meteor Shower (August 2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T19:15:40.000Z",
+      "summary": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-flight-tracking-service-is-suing-kalshi-for-us-4bfefa0a61",
+      "title": "A flight tracking service is suing Kalshi for using its data without authorization",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2234903/a-flight-tracking-service-is-suing-kalshi-for-using-its-data-without-authorization",
+      "tag": "Running",
+      "publishedAt": "2026-08-11T19:11:09.000Z",
+      "summary": "A flight tracking service is suing Kalshi for using its data without authorization.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-used-ev-buying-guide-the-30-000-edition-90954e0862",
+      "title": "Used EV buying guide: The $30,000 edition",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T18:31:53.000Z",
+      "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-razer-naga-v3-pro-review-buttons-galore-fee3deaa14",
-      "title": "Razer Naga V3 Pro Review: Buttons Galore",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/razer-naga-v3-pro",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T15:00:00.000Z",
-      "summary": "The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-supply-chain-disruptions-push-ideaforge-into-los-9aa3aa38f9",
       "title": "Supply chain disruptions push ideaForge into losses in Q1FY27",
       "source": "YourStory",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-11T12:23:11.000Z",
       "summary": "The order book of ideaForge now stands at over Rs 300 crore with demand coming in from both civil and defence sectors",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-agent-hacks-gym-to-get-its-user-a-spot-in-pil-05470243cc",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T12:09:26.000Z",
-      "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-abbott-partners-with-google-health-for-ai-powere-ba4c2cf91e",
-      "title": "Abbott partners with Google Health for AI-powered glucose monitoring",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2234851/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring",
+      "id": "tech-openai-launches-chatgpt-desktop-app-for-linux-cfca007698",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T18:35:34.000Z",
-      "summary": "Abbott partners with Google Health for AI-powered glucose monitoring.",
+      "publishedAt": "2026-08-11T19:15:35.000Z",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-can-a-macbook-run-multiple-external-monitors-it--97383a74f9",
-      "title": "Can a MacBook run multiple external monitors? It depends",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2234172/can-macbook-run-multiple-external-monitors",
+      "id": "tech-threads-has-a-vr-app-now-c238d1c36b",
+      "title": "Threads has a VR app now",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T18:30:00.000Z",
-      "summary": "Most current models support at least two.",
+      "publishedAt": "2026-08-11T19:10:14.000Z",
+      "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last mon...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
