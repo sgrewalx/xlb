@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-08-11T19:54:17.389Z",
+  "updatedAt": "2026-08-11T20:34:15.894Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-is-it-safe-to-eat-lettuce-yet-15e7dad0c7",
+      "title": "Is It Safe to Eat Lettuce Yet?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T20:26:01.000Z",
+      "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-uber-surprised-robotics-company-serve-by-selling-1e691604f3",
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T20:02:02.000Z",
+      "summary": "The divesture comes comes as the two once-tight companies have started to diverge on the business side.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-chatgpt-and-gemini-both-just-passed-1-billion-us-a537bb4764",
       "title": "ChatGPT and Gemini both just passed 1 billion users",
@@ -13,33 +33,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-fbi-says-cybercriminals-are-hacking-into-victims-f0d73aa2bd",
-      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T19:38:23.000Z",
-      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tech-life-f161a7ad48",
+      "id": "tech-tech-life-0809d5cfd9",
       "title": "Tech Life",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
       "publishedAt": "2026-08-11T19:30:00.000Z",
       "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-and-when-to-view-the-perseid-meteor-shower-a-75922b7cf5",
-      "title": "How and When to View the Perseid Meteor Shower (August 2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T19:15:40.000Z",
-      "summary": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-launches-chatgpt-desktop-app-for-linux-cfca007698",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "id": "tech-fbi-says-cybercriminals-are-hacking-into-victims-f0d73aa2bd",
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T19:15:35.000Z",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "publishedAt": "2026-08-11T19:38:23.000Z",
+      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-threads-has-a-vr-app-now-c238d1c36b",
-      "title": "Threads has a VR app now",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+      "id": "tech-how-and-when-to-view-the-perseid-meteor-shower-a-75922b7cf5",
+      "title": "How and When to View the Perseid Meteor Shower (August 2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T19:10:14.000Z",
-      "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last mon...",
+      "publishedAt": "2026-08-11T19:15:40.000Z",
+      "summary": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
