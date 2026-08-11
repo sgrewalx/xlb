@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-08-11T22:31:36.674Z",
+  "updatedAt": "2026-08-11T23:29:47.480Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-tokenomics-why-making-ai-pay-is-tricky-39aa350712",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T23:03:52.000Z",
+      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-xbox-elite-3-prototype-pad-leaks-with-tiny-built-520f4a2b6c",
+      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "tag": "Technology",
+      "publishedAt": "2026-08-11T22:36:35.000Z",
+      "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-phoebe-gates-and-sophia-kianni-reportedly-knew-p-0ea3673442",
       "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
@@ -10,16 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-11T21:39:58.000Z",
       "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-an-fcc-filing-points-to-new-sonos-headphones-com-f5e4100618",
-      "title": "An FCC filing points to new Sonos headphones coming soon",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T21:23:30.000Z",
-      "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reporte...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-11T20:26:01.000Z",
       "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tech-life-0809d5cfd9",
-      "title": "Tech Life",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T19:30:00.000Z",
-      "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -113,13 +113,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-chrome-adopts-what-may-be-the-best-protection-ye-0d5b9fab76",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers",
+      "id": "tech-an-fcc-filing-points-to-new-sonos-headphones-com-f5e4100618",
+      "title": "An FCC filing points to new Sonos headphones coming soon",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
       "tag": "Technology",
-      "publishedAt": "2026-08-11T20:59:52.000Z",
-      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "publishedAt": "2026-08-11T21:23:30.000Z",
+      "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reporte...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
