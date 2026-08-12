@@ -1,16 +1,56 @@
 {
-  "updatedAt": "2026-08-12T20:29:47.341Z",
+  "updatedAt": "2026-08-12T21:32:06.532Z",
   "section": "Expanded Sports",
   "items": [
     {
-      "id": "sports-european-athletics-championships-day-three-from--68bc72915b",
-      "title": "European Athletics Championships: day three from Birmingham – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/live/2026/aug/12/european-athletics-championships-day-three-birmingham-live",
+      "id": "sports-what-every-indycar-team-needs-to-achieve-over-fi-cdf94c64e7",
+      "title": "What Every INDYCAR Team Needs To Achieve Over Final 5 Races",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/motor/what-indycar-teams-need-final-push-with-five-races-left",
+      "tag": "Sports",
+      "publishedAt": "2026-08-12T21:30:28.000Z",
+      "summary": "As the season comes down to the wire, here's what every INDYCAR team needs to do to finish the year as strong as possible.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-doue-goal-awarded-on-var-after-tight-offside-e5b49e029a",
+      "title": "Doue goal awarded on VAR after tight offside",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gw5zrznq1o?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-08-12T21:29:07.000Z",
+      "summary": "Desire Doue's goal is awarded after initially being flagged offside to give PSG the lead in the second half of the Super Cup against Aston Villa.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-mi-london-hold-on-to-beat-phoenix-but-fail-to-pr-7bac4205cc",
+      "title": "MI London hold on to beat Phoenix but fail to progress to eliminator",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c8xnwrknkw0o?at_medium=RSS&at_campaign=rss",
+      "tag": "Cricket",
+      "publishedAt": "2026-08-12T21:28:31.000Z",
+      "summary": "MI London hang on to beat Birmingham Phoenix by just two runs, but their margin of victory isn't big enough to help them finish in the top three of the Hundred table, meaning th...",
+      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
+    },
+    {
+      "id": "sports-european-championships-day-four-schedule-bbc-cov-2f26eccddb",
+      "title": "European Championships: Day four schedule & BBC coverage",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9d338xxwp7o?at_medium=RSS&at_campaign=rss",
       "tag": "Running",
-      "publishedAt": "2026-08-12T20:28:37.000Z",
-      "summary": "Live updates from the third day of action Email Luke | Sign up for The Recap Hudson-Smith was second in his semi-final last night. I reckon he’ll pull it out of the bag tonight,...",
+      "publishedAt": "2026-08-12T21:26:43.000Z",
+      "summary": "Timetable and BBC coverage times for the European Athletics Championships in Birmingham from 10-16 August.",
       "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
+    },
+    {
+      "id": "sports-rybakina-comeback-knocks-osaka-out-of-canadian-o-29d46c8b2d",
+      "title": "Rybakina comeback knocks Osaka out of Canadian Open",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/clyqp1d0x40o?at_medium=RSS&at_campaign=rss",
+      "tag": "Tennis",
+      "publishedAt": "2026-08-12T21:15:03.000Z",
+      "summary": "Elena Rybakina comes back from a set and a break down to beat Naomi Osaka in three sets in their Canadian Open quarter-final.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
       "id": "sports-triple-double-king-russell-westbrook-calls-time--8e864fb937",
@@ -23,103 +63,63 @@
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-lakers-sold-for-record-breaking-12-5-billion-eve-1dede45df0",
-      "title": "Lakers sold for record-breaking $12.5 billion: Everything to know about Josh Kushner, Bob Iger's purchase",
+      "id": "sports-2026-nfl-thanksgiving-games-schedule-teams-how-t-333da932af",
+      "title": "2026 NFL Thanksgiving Games: Schedule, Teams, How to Watch",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch",
+      "tag": "Sports",
+      "publishedAt": "2026-08-12T21:29:06.000Z",
+      "summary": "See the 2026 NFL Thanksgiving schedule, including all five Thanksgiving Week matchups, kickoff times, TV channels and streaming information.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-teenager-madgo-scores-equaliser-for-villa-b3ab3cf7f7",
+      "title": "Teenager Madgo scores equaliser for Villa",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn5np12dzqzo?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-08-12T21:25:37.000Z",
+      "summary": "17-year-old Brian Madjo equalisers for Aston Villa against PSG in the Uefa Super Cup.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-guimaraes-makes-arsenal-debut-in-draw-with-como-841512490a",
+      "title": "Guimaraes makes Arsenal debut in draw with Como",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kp6k3p1no?at_medium=RSS&at_campaign=rss",
+      "tag": "Football",
+      "publishedAt": "2026-08-12T21:24:42.000Z",
+      "summary": "Bruno Guimaraes put in an assured performance as he made his Arsenal debut in a 1-1 friendly draw with Como at Emirates stadium.",
+      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
+    },
+    {
+      "id": "sports-college-basketball-rankings-louisville-lands-unc-5d1a90cab3",
+      "title": "College basketball rankings: Louisville lands UNC's Seth Trimble, makes big move in early Top 25 And 1",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger",
+      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-preseason-rankings-louisville-north-carolina-seth-trimble-early-top-25-and-1",
       "tag": "Sports",
-      "publishedAt": "2026-08-12T20:25:33.000Z",
-      "summary": "Mark Walter bought the team just 14 months ago; now, Luka Dončić and friends have new owners as they try to get back into title contention",
+      "publishedAt": "2026-08-12T21:21:40.000Z",
+      "summary": "The Cardinals surge into the top 10 of our early rankings after Pat Kelsey secures a commitment from Trimble",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
-      "id": "sports-xavi-becomes-first-non-dutch-netherlands-coach-s-835c69e17d",
-      "title": "Xavi becomes first non-Dutch Netherlands coach since 1978",
+      "id": "sports-atletico-agree-34-2m-deal-for-tottenham-s-romero-2349d955f2",
+      "title": "Atletico agree £34.2m deal for Tottenham's Romero",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77g5dne45lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss",
       "tag": "Football",
-      "publishedAt": "2026-08-12T20:15:18.000Z",
-      "summary": "Former Barcelona manager Xavi is appointed as the new head coach of the Netherlands on a four-year deal.",
+      "publishedAt": "2026-08-12T21:18:21.000Z",
+      "summary": "Cristian Romero is set to join La Liga side Atletico Madrid as they agree a £34.2m fee with Tottenham for their captain.",
       "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     },
     {
-      "id": "sports-zadran-atal-tons-propel-afghanistan-to-series-wi-02c18425ad",
-      "title": "Zadran, Atal tons propel Afghanistan to series win",
-      "source": "ESPNcricinfo",
-      "url": "https://www.cricinfo.com/ci/content/story/1549645.html?ex_cid=OTC-RSS",
-      "tag": "Cricket",
-      "publishedAt": "2026-08-12T18:34:35.000Z",
-      "summary": "Balbirnie's ton, Campher blitz not enough as Ireland fall short in 344 chase",
-      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
-    },
-    {
-      "id": "sports-arthur-fery-ready-to-test-himself-at-masters-lev-b042f2e6f1",
-      "title": "Arthur Fery ready to test himself at Masters level after Wimbledon run",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/aug/11/arthur-fery-cincinnati-open-wimbledon-2026-tennis",
-      "tag": "Tennis",
-      "publishedAt": "2026-08-11T21:45:04.000Z",
-      "summary": "Briton reached SW19 semi-finals as a wildcard World No 36 has first-round bye in Cincinnati Arthur Fery believes he is at the start of a new chapter in his career as he returns...",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-wonderful-run-gb-s-newnham-fights-back-for-400m--20f49a6c2c",
-      "title": "'Wonderful run!' GB's Newnham fights back for 400m hurdles silver",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/athletics/videos/cd69p3l2830o?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-08-12T20:24:05.000Z",
-      "summary": "Great Britain's Emily Newnham runs a personal best to seal an excellent silver in the women's 400m hurdles at the European Championships in Birmingham, having recently earned th...",
-      "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
-    },
-    {
-      "id": "sports-lost-flair-on-india-and-its-test-cricket-4b79f273b9",
-      "title": "Lost flair: On India and its Test cricket",
-      "source": "The Hindu Sports",
-      "url": "https://www.thehindu.com/opinion/editorial/lost-flair-on-india-and-its-test-cricket/article71337606.ece",
+      "id": "sports-mets-vs-braves-wednesday-mlb-picks-trade-to-cont-0c1b844039",
+      "title": "Mets vs. Braves Wednesday MLB picks: Trade to contender may have energized new Atlanta pitcher Tyler Mahle",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/mets-vs-braves-wednesday-mlb-picks-trade-to-contender-may-have-energized-new-atlanta-pitcher-tyler-mahle",
       "tag": "Sports",
-      "publishedAt": "2026-08-12T20:23:32.000Z",
-      "summary": "India is no longer at its best in Test cricket",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-49ers-add-rb-zamir-white-503b2a7e34",
-      "title": "49ers add RB Zamir White",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-add-rb-zamir-white",
-      "tag": "Sports",
-      "publishedAt": "2026-08-12T20:22:29.000Z",
-      "summary": "San Francisco has elected to add one of the running backs the club worked out this week.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-european-super-cup-paris-saint-germain-v-aston-v-e8b40df387",
-      "title": "European Super Cup: Paris Saint-Germain v Aston Villa – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/live/2026/aug/12/european-super-cup-paris-saint-germain-v-aston-villa-live",
-      "tag": "Football",
-      "publishedAt": "2026-08-12T20:14:29.000Z",
-      "summary": "Live Super Cup updates from 8pm BST Email Scott | Premier League previews: Aston Villa PSG get the ball rolling. Or rather sailing, as they hoof it into the stand, rugby style,...",
-      "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
-    },
-    {
-      "id": "sports-patriots-sign-rb-hassan-haskins-5acf22a47f",
-      "title": "Patriots sign RB Hassan Haskins",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-rb-hassan-haskins",
-      "tag": "Sports",
-      "publishedAt": "2026-08-12T20:11:18.000Z",
-      "summary": "The Patriots made a change to their running back group on Wednesday.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-nfl-faces-ai-accusations-over-new-content-on-mov-478f3bd2ae",
-      "title": "NFL faces AI accusations over new content on \"Move the Sticks\" podcast feed",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-faces-ai-accusations-over-new-content-on-move-the-sticks-podcast-feed",
-      "tag": "Sports",
-      "publishedAt": "2026-08-12T20:10:56.000Z",
-      "summary": "As AI becomes more and more prevalent in society, it's also quietly infiltrating sports media.",
+      "publishedAt": "2026-08-12T21:15:57.000Z",
+      "summary": "Tyler Mahle's first start with Atlanta went well, and he returns to the mound tonight vs. the Mets",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     }
   ]
