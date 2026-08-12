@@ -1,65 +1,75 @@
 {
-  "updatedAt": "2026-08-12T07:11:42.329Z",
+  "updatedAt": "2026-08-12T09:03:49.578Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-when-and-where-to-see-the-solar-eclipse-in-scotl-b49f3e1e22",
-      "title": "When and where to see the solar eclipse in Scotland",
+      "id": "news-deported-from-the-u-s-trapped-in-a-prison-in-afr-685fe5ad98",
+      "title": "Deported From the U.S., Trapped in a Prison in Africa",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html",
+      "tag": "US",
+      "publishedAt": "2026-08-12T09:00:18.000Z",
+      "summary": "Roberto Mosquera, a Cuban immigrant who has lived in the United States since 1980 and completed a prison sentence in 1996, was arrested by ICE last year and sent to a prison in...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-david-crowley-defeats-francesca-hong-to-win-demo-ecee7f2cf9",
+      "title": "David Crowley defeats Francesca Hong to win Democratic primary for Wisconsin governor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/david-crowley-defeats-francesca-hong-to-win-democratic-primary-for-wisconsin-governor",
+      "tag": "Europe",
+      "publishedAt": "2026-08-12T08:59:58.000Z",
+      "summary": "Crowly pulls off last-minute victory in tight race after polls had shown his progressive opponent as a clear frontrunner David Crowley, the Milwaukee county executive, pulled of...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-solar-eclipse-where-and-when-you-can-see-it-acro-122078da19",
+      "title": "Solar eclipse: Where and when you can see it across North West England",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx256nwl7lxo?at_medium=RSS&at_campaign=rss",
       "tag": "World",
-      "publishedAt": "2026-08-12T07:09:42.000Z",
-      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
+      "publishedAt": "2026-08-12T08:57:36.000Z",
+      "summary": "The partial eclipse is expected to be the most extensive since 1999, astronomers say.",
       "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     },
     {
-      "id": "news-how-nigel-farage-ended-up-running-against-count--4e00c025a4",
-      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-      "tag": "Running",
-      "publishedAt": "2026-08-12T07:09:06.000Z",
-      "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-solar-eclipse-2026-will-it-be-visible-from-india-1a2575c7a1",
-      "title": "Solar eclipse 2026: Will it be visible from India?",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/science/solar-eclipse-2026-surya-grahan-india-august-12-2026/article71331174.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-12T07:08:22.000Z",
-      "summary": "A solar eclipse is when the Sun, Moon and Earth are in alignment, and the Moon passes directly between the Sun and Earth, casting a shadow on our planet and blocking some of the...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-australia-politics-live-japan-s-ambassador-to-au-afc3afe1e9",
-      "title": "Australia politics live: Japan’s ambassador to Australia downplays Albanese’s melon comments; witness paid for Reformer’s trip to Fiji to avoid inquiry, Icac told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-08-12T06:58:33.000Z",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Education minister says funding agreement with Victoria ‘very close’ The education minister...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-congress-spent-rs-248-6-crore-on-5-state-polls-r-e8eb6d16fc",
-      "title": "Congress spent Rs 248.6 crore on 5-state polls, received Rs 207.1 crore during election period",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/congress-spent-rs-248-6-crore-on-5-state-polls-received-rs-207-1-crore-during-election-period/articleshow/133173371.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-12T06:33:19.000Z",
-      "summary": "The Congress party spent Rs 248.6 crore on recent assembly elections across five states. Its total receipts during this period amounted to Rs 207.1 crore, showing a deficit. Gen...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-at-least-15-dead-dozens-missing-as-ferry-capsize-ae5b02bfbd",
-      "title": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+      "id": "news-rybakina-defeats-osaka-advances-to-canadian-open-570f23825c",
+      "title": "Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/8/12/rybakina-defeats-osaka-advances-to-canadian-open-semifinals-to-play-gauff?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-12T06:29:37.000Z",
-      "summary": "Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.",
+      "publishedAt": "2026-08-12T08:45:46.000Z",
+      "summary": "Elena Rybakina stages a huge comeback to beat Naomi Osaka and will now play Coco Gauff for a place in the final.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-kerala-human-rights-panel-appoints-ex-chief-secr-b9c1cd527f",
+      "title": "Kerala human rights panel appoints ex-Chief Secretary S.M. Vijayanand to monitor waste management in Thiruvananthapuram Corporation",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-human-rights-panel-appoints-ex-chief-secretary-sm-vijayanand-to-monitor-waste-management-in-thiruvananthapuram-corporation/article71335622.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-12T08:41:45.000Z",
+      "summary": "Special rapporteur-cum-special monitor to evaluate and advise on issues related to solid waste disposal in the capital city",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-one-company-nearly-4-decade-career-the-n-chandra-51ce3bd4ba",
+      "title": "One Company, Nearly 4-Decade Career: The N Chandrasekaran Story",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/tata-sons-one-company-nearly-4-decade-career-the-n-chandrasekaran-story-11899136",
+      "tag": "India",
+      "publishedAt": "2026-08-12T08:31:59.000Z",
+      "summary": "N Chandrasekaran, a former chief executive of Tata Consulting Services (TCS), took over as chairman of Tata Sons in 2017 following a bitter boardroom battle that led to the oust...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-amit-shah-ready-to-answer-any-question-rahul-gan-0a45612088",
+      "title": "Amit Shah 'ready to answer any question'; Rahul Gandhi says 'not interested in him giving us lecture'",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/amit-shah-ready-to-answer-any-question-rahul-gandhi-says-not-interested-in-him-giving-us-lecture/articleshow/133173424.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-12T07:18:20.000Z",
+      "summary": "Union home minister Amit Shah offered an extended parliamentary discussion on student protests. He proposed sitting in Parliament from today until tomorrow to address concerns....",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-mumbai-landslide-kills-5-rescuers-use-victim-cam-30ba8d0fb8",
-      "title": "Mumbai Landslide Kills 5, Rescuers Use Victim Camera To Search For Survivors",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/kurla-landslide-two-dead-several-feared-trapped-after-landslide-hits-mumbai-gaushiya-chawl-11897783",
-      "tag": "India",
-      "publishedAt": "2026-08-12T05:12:28.000Z",
-      "summary": "According to information shared by the Brihanmumbai Municipal Corporation's (BMC) Mumbai Fire Brigade, the incident happened at 3:48 am on Wednesday. The landslide occurred at G...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-why-disability-services-fail-to-reach-millions-c79ba57bc6",
       "title": "Why disability services fail to reach millions",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-cauvery-water-dispute-hearing-in-supreme-court-p-95f5351a36",
-      "title": "Cauvery water dispute hearing in Supreme Court posted to August 17 as Judge falls ill",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/cauvery-dispute-posted-to-august-17-as-judge-down-with-viral-fever/article71335351.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-12T07:05:33.000Z",
-      "summary": "The case was expected to be heard on August 13 regarding Tamil Nadu’s plea for Karnataka to implement a July 30 CWMA decision to release 3500 cusecs for 15 days from its Kabini...",
+      "id": "news-probation-chief-says-he-s-not-fully-confident-se-24a2f207d1",
+      "title": "Probation chief says he’s ‘not fully confident’ service will cope with early prisoner releases – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-08-12T08:58:26.000Z",
+      "summary": "Martin Jones expresses concern scheme will increase pressure on probation service as Burnham addresses controversy over PC Harper’s killers Yesterday Andy Burnham suggested that...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-coimbatore-metro-rail-the-wait-for-green-signal--08a95c1d5f",
-      "title": "Coimbatore Metro Rail: the wait for green signal continues | Explained",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-metro-rail-wait-continues-for-the-green-signal/article71331530.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-12T07:05:29.000Z",
-      "summary": "How did Coimbatore embark on the ambitious proposal for a metro rail? What was the CMRL proposal for Coimbatore? What is the way forward for the proposal?",
+      "id": "news-four-killed-in-houthi-strike-on-red-sea-ship-yem-aaf39473c4",
+      "title": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+      "tag": "US",
+      "publishedAt": "2026-08-12T08:55:55.000Z",
+      "summary": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-baththa-vijay-sethupathi-reunites-with-balaji-th-4443d25e68",
-      "title": "‘Baththa’: Vijay Sethupathi reunites with Balaji Tharaneetharan for his next; first look out",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/entertainment/movies/baththa-vijay-sethupathi-balaji-tharaneetharan-atlee-sai-abhyankkar/article71335380.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-12T07:05:04.000Z",
-      "summary": "Starring Lijomol Jose as the female lead, the film has music scored by Sai Abhyankkar",
+      "id": "news-tata-group-chairman-n-chandrasekaran-to-step-dow-2e827f32c5",
+      "title": "Tata Group Chairman N Chandrasekaran to step down in February",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-12T08:50:52.000Z",
+      "summary": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
