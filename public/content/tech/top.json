@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-08-12T16:45:51.985Z",
+  "updatedAt": "2026-08-12T17:50:50.488Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-hdmi-splitter-vs-hdmi-switch-how-are-they-differ-a9fc2c37c9",
-      "title": "HDMI splitter vs. HDMI switch: How are they different?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2231585/hdmi-splitter-vs-switch-how-different",
+      "id": "tech-google-s-pixel-11-phone-preorders-come-with-up-t-f978bc719d",
+      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
       "tag": "Technology",
-      "publishedAt": "2026-08-12T16:30:00.000Z",
-      "summary": "If you've got a jumble of HDMI cables behind your entertainment center, one of these devices might help.",
+      "publishedAt": "2026-08-12T17:47:54.000Z",
+      "summary": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-twitch-streamers-can-now-refuse-to-let-amazon-tr-2ed81dc16c",
+      "title": "Twitch streamers can now refuse to let Amazon train its genAI models on their content",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2235647/twitch-streamers-can-now-refuse-to-let-amazon-train-its-gen-ai-models-on-their-content",
+      "tag": "Technology",
+      "publishedAt": "2026-08-12T17:46:29.000Z",
+      "summary": "There's now an opt-out toggle for something that should have been opt-in to begin with.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-backed-thrive-holdings-raises-2b-to-bring-e400cfaf5b",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise",
+      "tag": "Technology",
+      "publishedAt": "2026-08-12T17:41:29.000Z",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-astrotalk-turns-unicorn-via-esop-buyback-0f5a6a91fd",
+      "title": "AstroTalk turns unicorn via ESOP buyback",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/astrotalk-turns-unicorn-via-esop-buyback",
+      "tag": "Technology",
+      "publishedAt": "2026-08-12T17:33:23.000Z",
+      "summary": "Spiritual-tech startup AstroTalk has reached a valuation of $1 billion through an ESOP buyback involving over 100 employees.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-discord-ordered-to-suspend-livestreams-in-brazil-558955abde",
+      "title": "Discord ordered to suspend livestreams in Brazil",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-12T17:10:31.000Z",
+      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-tries-to-override-new-york-gambling-laws-orde-5f3d32ad9f",
+      "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating",
+      "tag": "Technology",
+      "publishedAt": "2026-08-12T16:33:43.000Z",
+      "summary": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,46 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tesla-wants-to-build-a-10b-solar-factory-in-texa-f82389a246",
-      "title": "Tesla wants to build a $10B solar factory in Texas",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas",
-      "tag": "Technology",
-      "publishedAt": "2026-08-12T16:18:31.000Z",
-      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-the-pixel-11-pro-fold-compares-to-the-galaxy-9c9ddae3da",
-      "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
-      "tag": "Technology",
-      "publishedAt": "2026-08-12T16:00:00.000Z",
-      "summary": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, i...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-startup-news-and-updates-daily-roundup-august-12-17fe030d50",
-      "title": "Startup news and updates: daily roundup (August 12, 2026)",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-12-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-08-12T15:48:20.000Z",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Wednesday, August 12, 2026.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-booksellers-suspect-ai-firms-are-buying-and-then-85bc68f3dc",
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart",
-      "tag": "Technology",
-      "publishedAt": "2026-08-12T15:19:17.000Z",
-      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-google-s-pixel-watch-5-can-now-detect-breathing--22d7c3bf43",
       "title": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
       "source": "Wired",
@@ -80,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-12T14:07:59.000Z",
       "summary": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tokenomics-why-making-ai-pay-is-tricky-39aa350712",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-08-11T23:03:52.000Z",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-form-energy-raises-750m-to-build-more-100-hour-b-14442e1a1e",
-      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid",
+      "id": "tech-honor-launches-its-long-awaited-robot-phone-and--3b08196977",
+      "title": "Honor launches its long-awaited Robot Phone and yes it can wiggle at you",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you",
       "tag": "Technology",
-      "publishedAt": "2026-08-12T16:18:23.000Z",
-      "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+      "publishedAt": "2026-08-12T17:42:53.000Z",
+      "summary": "The big news with Honor's latest is the automated pop-up camera gimbal.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-launches-pixel-11-pixel-11-pro-and-pixel--c8a0ca755a",
-      "title": "Google launches Pixel 11, Pixel 11 Pro and Pixel 11 Pro XL",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-launches-pixel-11-pixel-11-pro-and-pixel-11-pro-xl/article71336576.ece",
+      "id": "tech-twitch-streamers-can-now-opt-out-from-training-a-050a15d90c",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "tag": "Technology",
-      "publishedAt": "2026-08-12T16:04:49.000Z",
-      "summary": "Google has used their self-developed 2nm silicon, Tensor G6, in the Pixel 11 series. The lineup gets up to 16 GB RAM and 512 GB of storage in India",
+      "publishedAt": "2026-08-12T17:29:10.000Z",
+      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pic...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
