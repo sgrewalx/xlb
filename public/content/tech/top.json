@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-12T23:30:16.490Z",
+  "updatedAt": "2026-08-13T01:05:42.340Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-a-rare-two-player-computer-space-arcade-machine--1058b7bee2",
+      "title": "A rare two-player Computer Space arcade machine is up for auction",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2235951/a-rare-retro-arcade-machine-featured-in-soylent-green-is-up-for-auction",
+      "tag": "Technology",
+      "publishedAt": "2026-08-12T23:34:18.000Z",
+      "summary": "The sparkly cabinet is part of a huge retro tech auction focused on Steve Jobs and the computer revolution.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-why-japanese-firms-are-being-so-slow-to-use-ai-a27d8aae60",
       "title": "Why Japanese firms are being so slow to use AI",
@@ -23,13 +33,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-to-stop-twitch-from-training-ai-on-your-stre-73425141a5",
-      "title": "How to stop Twitch from training AI on your streams",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2235928/how-to-stop-twitch-training-ai-on-streams",
+      "id": "tech-toddler-s-tragic-death-from-brain-destroying-amo-60d3bb6e13",
+      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it",
       "tag": "Technology",
-      "publishedAt": "2026-08-12T22:38:45.000Z",
-      "summary": "And why the company didn't make the feature opt-in.",
+      "publishedAt": "2026-08-12T22:31:19.000Z",
+      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-12T22:26:37.000Z",
       "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-terabytes-of-credentials-leaked-in-massive-suppl-b6b32a0821",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack",
-      "tag": "Technology",
-      "publishedAt": "2026-08-12T21:43:21.000Z",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-how-to-stop-twitch-from-training-ai-on-your-stre-73425141a5",
+      "title": "How to stop Twitch from training AI on your streams",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2235928/how-to-stop-twitch-training-ai-on-streams",
+      "tag": "Technology",
+      "publishedAt": "2026-08-12T22:38:45.000Z",
+      "summary": "And why the company didn't make the feature opt-in.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-ai-nuclear-power-firm-fermi-finally-has-a-new-ce-6a4fea9f1b",
       "title": "AI nuclear power firm Fermi finally has a new CEO",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-12T22:24:00.000Z",
       "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-claude-cowork-can-now-run-in-a-chrome-sidebar-67aca77092",
-      "title": "Claude Cowork can now run in a Chrome sidebar",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2235919/claude-cowork-can-now-run-in-a-chrome-sidebar",
-      "tag": "Technology",
-      "publishedAt": "2026-08-12T22:19:29.000Z",
-      "summary": "Take your conversations with the chatbot into the Anthropic browser extension.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
