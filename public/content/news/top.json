@@ -1,45 +1,85 @@
 {
-  "updatedAt": "2026-08-13T04:02:23.328Z",
+  "updatedAt": "2026-08-13T06:10:13.940Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-israeli-settlers-besiege-palestinian-families-in-53bce74026",
-      "title": "Israeli settlers besiege Palestinian families in West Bank’s Qusra",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-13T03:54:09.000Z",
-      "summary": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-ten-fishermen-from-rameswaram-held-by-sri-lankan-629cb2710d",
-      "title": "Ten fishermen from Rameswaram held by Sri Lankan Navy on charges of fishing beyond Katchatheevu islet",
+      "id": "news-10-fishermen-from-rameswaram-held-by-sri-lankan--e2fe072c47",
+      "title": "10 fishermen from Rameswaram held by Sri Lankan Navy on charges of fishing beyond Katchatheevu islet",
       "source": "The Hindu",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/ten-fishermen-from-rameswaram-held-by-lankan-navy/article71339334.ece",
       "tag": "India",
-      "publishedAt": "2026-08-13T03:52:13.000Z",
+      "publishedAt": "2026-08-13T06:05:54.000Z",
       "summary": "A senior official in the TN Fisheries department said that the arrested fishermen were taken to Talaimannar Naval Port and are likely to be produced in a court during the day.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-fssai-puts-influencers-celebrities-on-notice-ove-463b153b23",
-      "title": "FSSAI puts influencers, celebrities on notice over food promotions",
+      "id": "news-millions-crowd-cities-to-see-spain-s-first-total-e51b8bf635",
+      "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+      "tag": "US",
+      "publishedAt": "2026-08-13T06:04:38.000Z",
+      "summary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-how-clinic-closures-left-3-7-million-afghan-chil-eab5022f68",
+      "title": "How clinic closures left 3.7 million Afghan children acutely malnourished",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-13T06:00:55.000Z",
+      "summary": "One in 10 children in Afghanistan are suffering as healthcare funding plummets, Save the Children says.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-politics-live-taylor-s-staffer-berates-dc4cf6bd0d",
+      "title": "Australia politics live: Taylor’s staffer berates journalist for asking about Icac; Coalition again targets Albanese over melon comments in question time",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-08-13T05:58:29.000Z",
+      "summary": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or dai...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-cloudy-skies-lead-to-mixed-fortunes-for-scotland-04a75caf4b",
+      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-08-13T05:40:24.000Z",
+      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-first-total-eclipse-in-europe-in-decades-turns-d-d805c8e0e5",
+      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+      "tag": "US",
+      "publishedAt": "2026-08-13T04:58:02.000Z",
+      "summary": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-govt-notifies-rs-3-030-crore-scheme-for-three-me-8716bca24b",
+      "title": "Govt notifies Rs 3,030-crore scheme for three mega chemical parks",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/fssai-puts-influencers-celebrities-on-notice-over-food-promotions/articleshow/133197022.cms",
+      "url": "https://timesofindia.indiatimes.com/india/govt-notifies-rs-3030-crore-scheme-for-three-mega-chemical-parks/articleshow/133196700.cms",
       "tag": "India",
-      "publishedAt": "2026-08-13T03:49:05.000Z",
+      "publishedAt": "2026-08-13T04:34:39.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-politics-live-icac-hears-evidence-on-s-b5dbd56c51",
-      "title": "Australia politics live: Icac hears evidence on ‘shake down Angus’ message as opposition leader’s staffer berates journalist for asking about it",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-08-13T03:43:46.000Z",
-      "summary": "Opposition leader says he has ‘made clear’ to Bragg that his job is to express the views of the Coalition. Follow today’s news live Get our breaking news email , free app or dai...",
+      "id": "news-ssc-stenographer-2026-exam-dates-out-september-s-3170b7a772",
+      "title": "SSC Stenographer 2026 Exam Dates Out: September Shift, Schedule Details",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/ssc-stenographer-2026-exam-dates-out-september-shift-schedule-details-11903127",
+      "tag": "India",
+      "publishedAt": "2026-08-13T04:24:35.000Z",
+      "summary": "SSC will conduct the Combined Hindi Translators exam on September 8, 2026, for recruitment in central government offices.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,73 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-major-russian-grain-export-terminals-hit-in-ukra-2f28569570",
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-13T03:28:56.000Z",
-      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-karnataka-bandh-over-cauvery-gets-moral-support--75c26d5a14",
-      "title": "Karnataka Bandh Over Cauvery Gets \"Moral Support\", Bus, School Ops Normal",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/karnataka-bandh-today-karnataka-bandh-over-cauvery-gets-moral-support-bus-school-ops-normal-11900668",
-      "tag": "India",
-      "publishedAt": "2026-08-13T03:03:09.000Z",
-      "summary": "The Bangalore Metropolitan Transport Corporation (BMTC) and Karnataka State Road Transport Corporation (KSRTC) employees' association have not provided support to Karnataka bandh.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-first-total-eclipse-in-europe-in-decades-turns-d-32526fc7f4",
-      "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-      "tag": "US",
-      "publishedAt": "2026-08-13T02:10:34.000Z",
-      "summary": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-photos-see-the-best-photos-from-the-solar-eclips-db0577bf53",
-      "title": "Photos: See the best photos from the solar eclipse",
-      "source": "NPR",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
-      "tag": "US",
-      "publishedAt": "2026-08-13T01:38:01.000Z",
-      "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-fda-suspends-13-food-establishments-licences-acr-eab41516a4",
-      "title": "FDA suspends 13 food establishments’ licences across four districts in Maharashtra",
+      "id": "news-parliament-monsoon-session-day-19-live-pm-modi-a-6521510750",
+      "title": "Parliament Monsoon Session Day 19 LIVE: PM Modi, Amit Shah present as Lok Sabha adjourned sine die",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/fda-suspends-13-food-establishments-licences-across-four-districts-in-maharashtra/article71338050.ece",
+      "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-2026-live-august-13-2026/article71339498.ece",
       "tag": "India",
-      "publishedAt": "2026-08-13T03:51:55.000Z",
-      "summary": "Four Domino’s Pizza licenses were suspended in Mumbai and Satara",
+      "publishedAt": "2026-08-13T06:04:56.000Z",
+      "summary": "Scheduled to end on August 13, the Monsoon Session of Parliament has seen little transaction of business as the Opposition demanded Amit Shah's statement to the use of police 'e...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-n-chandrasekaran-the-marathoner-technocrat-who-g-6e57bcd1d1",
-      "title": "N. Chandrasekaran: The marathoner technocrat who gave new direction to Tata Group",
+      "id": "news-natarajan-chandrasekaran-s-journey-from-tcs-to-t-4935e78428",
+      "title": "Natarajan Chandrasekaran’s journey: From TCS to the top of Tata Group",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Industry/the-marathoner-technocrat-who-gave-new-direction-to-tata-group/article71337151.ece",
-      "tag": "Running",
-      "publishedAt": "2026-08-13T03:50:58.000Z",
-      "summary": "N. Chandrasekaran steered the Tata conglomerate through unchartered territories making massive investments in semiconductors, electronics manufacturing, consumer Internet platfo...",
+      "url": "https://www.thehindu.com/business/natarajan-chandrasekaran-journey-career-timeline/article71339716.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-13T06:04:28.000Z",
+      "summary": "Chandrasekaran is the first non-family chairman to lead one of the largest Indian conglomerates and was handpicked by Ratan Tata after the 2016 ouster of Cyrus Mistry.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-use-medical-tourists-money-to-treat-poor-indians-d01074233f",
-      "title": "Use medical tourists' money to treat poor Indians: Panel",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/use-medical-tourists-money-to-treat-poor-indians-panel/articleshow/133196769.cms",
+      "id": "news-cockroaches-found-in-restaurant-of-hostel-for-le-aff23e4b83",
+      "title": "Cockroaches found in restaurant of hostel for legislators in Bengaluru",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/expired-food-items-seized-from-karnataka-health-department-canteen-in-arogya-soudha-in-bengaluru-cockroaches-found-in-kitchen-of-restaurant-in-legislators-home/article71339704.ece",
       "tag": "India",
-      "publishedAt": "2026-08-13T03:48:21.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-08-13T06:03:12.000Z",
+      "summary": "Expired food items seized from Karnataka Health Department canteen in Arogya Soudha in Bengaluru",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
