@@ -1,35 +1,45 @@
 {
-  "updatedAt": "2026-08-13T18:47:55.967Z",
+  "updatedAt": "2026-08-13T19:51:08.927Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-i-finally-found-a-robot-lawnmower-i-d-trust-with-1194b1b272",
-      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "id": "tech-openai-is-losing-its-second-executive-this-week-7ffc72d7b7",
+      "title": "OpenAI is losing its second executive this week",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "tag": "Technology",
-      "publishedAt": "2026-08-13T18:30:00.000Z",
-      "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous...",
+      "publishedAt": "2026-08-13T19:28:39.000Z",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming w...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-best-spotify-alternatives-to-ease-your-consc-61e6b9f8d0",
-      "title": "The Best Spotify Alternatives to Ease Your Conscience",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2234678/best-spotify-alternatives-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-08-13T18:30:00.000Z",
-      "summary": "There are loads of options for getting new music into your ears if you're fed up with Spotify.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-anthropic-set-ai-agents-loose-on-the-same-task-t-b7554d488b",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "id": "tech-openai-introduces-ultrafast-a-new-mode-that-make-8efbbf1060",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
       "tag": "Technology",
-      "publishedAt": "2026-08-13T18:28:14.000Z",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-a...",
+      "publishedAt": "2026-08-13T19:22:40.000Z",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-instagram-changes-its-wordmark-logo-after-over-a-6d9666f592",
+      "title": "Instagram changes its wordmark logo after over a decade",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/internet/instagram-changes-its-wordmark-logo-after-over-a-decade/article71342724.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-08-13T19:15:12.000Z",
+      "summary": "The change was announced by Instagram head Adam Mosseri on both Instagram and Threads, where he described the new logo as “sharper and more modern” while still referencing the o...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-us-government-to-allow-private-companies-to-carr-b8e1e856d5",
+      "title": "US government to allow private companies to carry out cyberattacks on its behalf",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf",
+      "tag": "Technology",
+      "publishedAt": "2026-08-13T18:52:06.000Z",
+      "summary": "US government to allow private companies to carry out cyberattacks on its behalf.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-says-it-has-taken-down-756-000-australian-t-4e8b2cc152",
-      "title": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/meta-says-it-has-taken-down-756000-australian-teen-accounts-as-ban-enforcement-looms/article71340332.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-08-13T09:23:03.000Z",
-      "summary": "Australian government figures and multiple independent studies have shown more than eight in 10 under-16s were still on social media in the ban’s first three months",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-you-can-now-just-point-at-a-mess-and-this-robot--5726dbbf64",
-      "title": "You can now just point at a mess and this robot vacuum will suck it up",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "id": "tech-ibm-partners-with-openai-to-bolster-enterprise-a-3cc9377021",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
       "tag": "Technology",
-      "publishedAt": "2026-08-13T18:00:00.000Z",
-      "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk dire...",
+      "publishedAt": "2026-08-13T19:19:49.000Z",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-flock-tries-to-make-its-cameras-harder-for-cops--7a02767b9e",
-      "title": "Flock tries to make its cameras harder for cops to misuse",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2236415/flock-tries-to-make-its-cameras-harder-for-cops-to-misuse",
+      "id": "tech-the-trump-admin-will-start-letting-private-firms-dad354fd6d",
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
       "tag": "Technology",
-      "publishedAt": "2026-08-13T17:25:34.000Z",
-      "summary": "Flock tries to make its cameras harder for cops to misuse.",
+      "publishedAt": "2026-08-13T18:56:13.000Z",
+      "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The privat...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
