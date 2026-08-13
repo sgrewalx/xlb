@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-08-13T21:34:26.080Z",
+  "updatedAt": "2026-08-13T22:30:34.054Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-netflix-shuts-down-oxenfree-studio-night-school--2004f69db7",
-      "title": "Netflix shuts down Oxenfree studio Night School weeks after praising its 'really solid numbers'",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2236683/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers",
+      "id": "tech-investors-sue-selena-gomez-alleging-fraud-tied-t-54ea2ea9f9",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup",
       "tag": "Technology",
-      "publishedAt": "2026-08-13T21:24:22.000Z",
-      "summary": "Execs praised Night School's latest game, Unhinged, before pulling the rug.",
+      "publishedAt": "2026-08-13T22:12:40.000Z",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-cloud-storage-is-great-until-your-vendor-goes-ou-a8c6a37380",
+      "title": "Cloud storage is great until your vendor goes out of business",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs",
+      "tag": "Technology",
+      "publishedAt": "2026-08-13T22:04:16.000Z",
+      "summary": "A St. Louis PBS station is suing a data center provider to rescue a 70-year archive.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-i-lost-14-000-in-a-month-investors-hit-by-korean-7336b52aea",
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-13T22:00:10.000Z",
+      "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-that-is-not-acceptable-judge-orders-google-to-ma-57ab0e42e9",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "tag": "Technology",
+      "publishedAt": "2026-08-13T21:53:04.000Z",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge Jam...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-mark-zuckerberg-s-ai-manifesto-is-6-500-words-an-76130dfcfe",
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "source": "Wired",
       "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything",
       "tag": "Technology",
       "publishedAt": "2026-08-13T21:14:43.000Z",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Un...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-writer-introduces-new-ai-model-and-upgraded-harn-4d3d5546ad",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
-      "tag": "Technology",
-      "publishedAt": "2026-08-13T21:13:24.000Z",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-netflix-is-closing-two-game-studios-0fe88605d4",
-      "title": "Netflix is closing two game studios",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-      "tag": "Technology",
-      "publishedAt": "2026-08-13T20:52:58.000Z",
-      "summary": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -59,7 +69,7 @@
       "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals",
       "tag": "Technology",
       "publishedAt": "2026-08-13T19:38:58.000Z",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-13T16:20:54.000Z",
       "summary": "The SaaS company's revenues touched Rs 437 crore during the quarter, a year-on-year growth of 32.4%, its highest quarterly revenue till date.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-bumble-divides-users-by-ditching-its-signature-w-3d26c21cc7",
-      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-08-13T14:09:05.000Z",
-      "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-x-is-testing-a-tool-that-will-let-users-see-if-t-e4d3e6afe4",
-      "title": "X is testing a tool that will let users see if their posts have been 'shadowbanned'",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2236672/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned",
+      "id": "tech-flock-says-its-new-tool-will-help-identify-polic-8de1cee4db",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works",
       "tag": "Technology",
-      "publishedAt": "2026-08-13T21:10:21.000Z",
-      "summary": "The feature is rolling out as the company open-sources more of its ranking algorithm.",
+      "publishedAt": "2026-08-13T22:02:04.000Z",
+      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-databricks-wanted-to-raise-1b-investors-wanted-1-030890fe9b",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "id": "tech-if-apple-sends-you-a-push-notification-alerting--ccc29c5a80",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously",
       "tag": "Technology",
-      "publishedAt": "2026-08-13T20:14:39.000Z",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "publishedAt": "2026-08-13T21:50:11.000Z",
+      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
