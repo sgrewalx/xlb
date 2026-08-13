@@ -1,35 +1,75 @@
 {
-  "updatedAt": "2026-08-13T12:51:39.755Z",
+  "updatedAt": "2026-08-13T14:17:08.724Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-harvey-nichols-bought-by-sports-direct-owner-69e39f8afa",
-      "title": "Harvey Nichols bought by Sports Direct owner",
+      "id": "news-unidentified-persons-break-into-retired-engineer-acca0bc368",
+      "title": "Unidentified persons break into retired engineer’s house, steal valuables",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/predawn-burglary-at-retired-engineers-house-in-madanapalle-670-grams-of-gold-stolen/article71339568.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-13T14:14:22.000Z",
+      "summary": "According to the police, the persons cut the window grills and entered the house while the occupants were asleep; a clues team and a sniffer dog have been deployed and CCTV foot...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-oil-hunters-and-dr-phil-how-a-longshot-project-i-76c75eed56",
+      "title": "Oil, Hunters and Dr. Phil: How a Longshot Project Is Shaking Up Greenland",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+      "tag": "US",
+      "publishedAt": "2026-08-13T14:12:25.000Z",
+      "summary": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-europe-heatwave-live-temperatures-of-40c-expecte-fe63b235f5",
+      "title": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for ‘extreme heat’ expanded across England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-08-13T14:05:20.000Z",
+      "summary": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come Met Office has just offered an update on temperatures across the UK, with...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-parle-retains-india-s-most-chosen-in-home-fmcg-c-f70c715ac1",
+      "title": "Parle retains India's most chosen in-home FMCG crown for 14th consecutive year",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/parle-retains-indias-most-chosen-in-home-fmcg-crown-for-14th-consecutive-year/articleshow/133214923.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-13T14:03:33.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-lebanese-americans-sue-us-over-israel-s-rights-a-1276bcc768",
+      "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-13T14:02:14.000Z",
+      "summary": "Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-harvey-nichols-bought-by-owner-of-sports-direct-25d2fc5379",
+      "title": "Harvey Nichols bought by owner of Sports Direct",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
       "tag": "US",
-      "publishedAt": "2026-08-13T12:51:03.000Z",
-      "summary": "Harvey Nichols was founded in 1831, but had appointed an administrator in June.",
+      "publishedAt": "2026-08-13T14:00:39.000Z",
+      "summary": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-see-the-2026-european-solar-eclipse-in-photos-an-9ca9b7b286",
-      "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+      "id": "news-taiwan-briefly-slows-its-mobile-internet-to-text-e32e6a3680",
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
       "tag": "US",
-      "publishedAt": "2026-08-13T12:51:02.000Z",
-      "summary": "People gathered across the continent to watch the total solar eclipse on Wednesday.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-kudumbashree-targets-record-onasadya-sales-throu-e667db9f7d",
-      "title": "Kudumbashree targets record Onasadya sales through 83 cafe units in Kollam",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kudumbashree-targets-record-onasadya-sales-through-83-cafe-units-in-kollam/article71340784.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-13T12:48:46.000Z",
-      "summary": "Starting August 17, Café Kudumbashree units will accept orders until August 22, employing enhanced logistics and strict quality controls to ensure a top-notch dining experience.",
+      "publishedAt": "2026-08-13T13:18:43.000Z",
+      "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,46 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-evening-news-wrap-sukhbir-badal-attacked-in-nand-c72ba1e57f",
-      "title": "Evening news wrap: Sukhbir Badal attacked in Nanded; Air India begins pilot drug testing, & more",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sukhbir-badal-attacked-in-nanded-air-india-begins-pilot-drug-testing-more/articleshow/133211349.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-13T12:41:30.000Z",
-      "summary": "Sukhbir Singh Badal faced a kirpan attack at a Nanded gurdwara, while a police inspector was injured. Air India has initiated mandatory substance screening for all its pilots fo...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-rsc-postpones-othello-while-leading-actor-sharon-19e1a103d1",
-      "title": "RSC postpones Othello while leading actor Sharon D Clarke has cancer treatment",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/13/rsc-postpones-othello-shakespeare-actor-sharon-d-clarke-cancer-treatment",
-      "tag": "Europe",
-      "publishedAt": "2026-08-13T12:35:24.000Z",
-      "summary": "Radical reimagining of Shakespeare play was due to run at Swan theatre in Stratford-upon-Avon from 13 February to 3 April 2027 The Royal Shakespeare Company has announced that i...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-infantino-s-fifa-fate-must-go-to-an-election-say-8ad985247c",
-      "title": "Infantino’s FIFA fate must go to an election, says Africa football chief",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss",
-      "tag": "Football",
-      "publishedAt": "2026-08-13T12:19:02.000Z",
-      "summary": "CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March's election.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-inflation-eased-slightly-in-july-and-ice-plans-t-173bf241c9",
-      "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
-      "tag": "US",
-      "publishedAt": "2026-08-13T11:31:18.000Z",
-      "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-role-of-secure-digital-identity-492c4470a3",
       "title": "Role of secure digital identity",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-hundreds-of-flights-canceled-in-sicily-as-mount--93a22af4e8",
-      "title": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html",
-      "tag": "US",
-      "publishedAt": "2026-08-13T12:47:24.000Z",
-      "summary": "Etna erupts often, but it usually doesn’t release this much ash, an expert said. Tens of thousands of travelers’ plans have been disrupted in the past week.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-fishing-community-in-nagapattinam-village-bars-i-b771acb841",
-      "title": "Fishing community in Nagapattinam village bars its youth from drinking alcohol",
+      "id": "news-after-18-months-bidar-police-arrest-two-key-accu-ee2af23940",
+      "title": "After 18 months, Bidar police arrest two key accused in ATM robbery-cum-murder case",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/fishing-community-in-nagapattinam-village-bars-its-youth-from-drinking-alcohol/article71340051.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/after-18-months-bidar-police-arrest-two-key-accused-in-atm-robbery-cum-murder-case/article71341476.ece",
       "tag": "India",
-      "publishedAt": "2026-08-13T12:40:02.000Z",
-      "summary": "Those violating the ban would be liable to pay a fine of ₹5,000, the fishermen panchayatdars have announced",
+      "publishedAt": "2026-08-13T14:13:30.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-transport-watchdog-investigates-third-near-miss--3794741fdc",
-      "title": "Transport watchdog investigates third near miss at Sydney airport",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/transport-watchdog-investigates-another-near-miss-at-sydney-airport",
-      "tag": "Europe",
-      "publishedAt": "2026-08-13T12:35:02.000Z",
-      "summary": "Two planes came close to collision on the runway on Sunday – hours after another near miss – making a total of three in recent weeks Get our breaking news email , free app or da...",
+      "id": "news-politicians-from-areca-growing-areas-oppose-ban--9f595e7dbc",
+      "title": "Politicians from areca growing areas oppose ban on sale of gutka, pan masala",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/politicians-from-areca-growing-areas-oppose-ban-on-sale-of-gutka-pan-masala/article71341102.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-13T14:12:29.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-jagan-mohan-reddy-accuses-nda-govt-in-andhra-pra-a642ae1312",
+      "title": "Jagan Mohan Reddy accuses NDA govt. in Andhra Pradesh of pursuing vindictive politics",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-mohan-reddy-accuses-nda-govt-in-andhra-pradesh-of-pursuing-vindictive-politics/article71341211.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-13T14:11:15.000Z",
+      "summary": "BC leaders from YSRCP are being targeted, victims are being shown as accused and false cases are being registered against them to gag the Opposition, alleges the party president",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
