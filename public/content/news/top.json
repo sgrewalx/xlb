@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-08-14T07:12:04.848Z",
+  "updatedAt": "2026-08-14T09:00:16.433Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-cheers-professor-remembering-sumit-sarkar-f73981f8c5",
-      "title": "Cheers, Professor! Remembering Sumit Sarkar",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/cheers-professor-remembering-sumit-sarkar/article71344407.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-14T07:05:33.000Z",
-      "summary": "There is no other scholar, no other historian, who can match the breadth, sweep and intensity of Sarkar. He achieved all this while keeping his own presence barely noticeable in...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-unprecedented-rains-in-japan-kill-six-people-2f14bdbd95",
-      "title": "'Unprecedented' rains in Japan kill six people",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-14T07:00:56.000Z",
-      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-australia-news-live-bet365-apologises-after-chil-fc3d392914",
-      "title": "Australia news live: Bet365 apologises after children wear gambling logos in charity race; search for 18-year-old bushwalker continues",
+      "id": "news-nigel-farage-investigation-reopened-by-parliamen-10c75f0230",
+      "title": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-08-14T06:47:28.000Z",
-      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Albanese says gambling inducements are ‘over the top’ Albanese said gambling inducements ar...",
+      "publishedAt": "2026-08-14T08:52:46.000Z",
+      "summary": "Reform UK leader’s re-election restarts inquiry into £5m gift from cyrpto-billionaire Watchdog resumes investigation into Farage over financial gifts Farage wins Clacton byelect...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-union-minister-jp-nadda-admitted-to-aiims-delhi--838678f7e1",
-      "title": "Union minister JP Nadda admitted to AIIMS Delhi after uneasiness",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/union-minister-jp-nadda-admitted-to-aiims-delhi-after-uneasiness/articleshow/133230999.cms",
+      "id": "news-deeply-flawed-approach-bar-council-s-nalsar-enro-f28bba2748",
+      "title": "‘Deeply flawed approach’: Bar Council’s NALSAR enrolment U-turn draws criticism from ABVP",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/deeply-flawed-approach-bar-councils-nalsar-enrolment-u-turn-draws-criticism-from-abvp/article71344738.ece",
       "tag": "India",
-      "publishedAt": "2026-08-14T06:46:06.000Z",
+      "publishedAt": "2026-08-14T08:52:25.000Z",
+      "summary": "The RSS’ student wing argued that students should not be held accountable for alleged wrongdoing in which they had no role",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-us-says-dozens-of-countries-helped-china-dodge-t-c5b452011a",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-14T08:39:46.000Z",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-sc-quashes-all-firs-against-samay-raina-ranveer--904c0718fc",
+      "title": "SC quashes all FIRs against Samay Raina, Ranveer Allahabadia in ‘India’s Got Latent’ case",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/sc-quashes-all-firs-against-samay-raina-ranveer-allahabadia-in-indias-got-latent-case/articleshow/133233102.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-14T08:34:04.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-wildfires-force-thousands-to-flee-as-blazes-spre-2abd118592",
+      "title": "Wildfires force thousands to flee as blazes spread across Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/wildfires-force-thousands-to-flee-as-blazes-spread-across-europe?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-14T08:23:27.000Z",
+      "summary": "At least a dozen people have reportedly been hospitalised in Croatia after blazes tore into the tourist town of Omis.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-up-neet-ug-counselling-2026-registration-ends-to-e7805845bd",
+      "title": "UP NEET UG Counselling 2026: Registration Ends Today, Check Revised Schedule",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/up-neet-ug-counselling-2026-registration-ends-today-check-revised-schedule-11908976",
+      "tag": "India",
+      "publishedAt": "2026-08-14T07:51:30.000Z",
+      "summary": "UP NEET UG 2026 counselling registration for Round 1 ends today, August 14. Check the revised deadline for registration, document upload, fee payment and security deposit.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-what-to-know-about-the-u-k-special-election-fara-486d93b773",
+      "title": "What to Know About the U.K. Special Election: Farage vs. Binface",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
+      "tag": "US",
+      "publishedAt": "2026-08-14T07:37:37.000Z",
+      "summary": "Nigel Farage, the right-wing populist leader, won a by-election for his parliamentary seat in Clacton, which he initiated after coming under pressure over his financial declarat...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,36 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-flock-adds-safeguards-to-licence-plate-readers-a-df28e61ebd",
-      "title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-14T06:22:41.000Z",
-      "summary": "US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-farage-wins-special-u-k-election-that-he-initiat-77a9895c45",
-      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
-      "tag": "US",
-      "publishedAt": "2026-08-14T06:05:46.000Z",
-      "summary": "Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, his costumed main rival, came second with 27 percent, a personal best.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-upset-over-lawyer-representing-his-wife-in-court-e70ca37713",
-      "title": "Upset Over Lawyer Representing His Wife In Court, Kerala Man Stabs His Father",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/upset-over-lawyer-representing-his-wife-in-court-kerala-man-stabs-his-father-11908478",
-      "tag": "India",
-      "publishedAt": "2026-08-14T06:03:49.000Z",
-      "summary": "Mohandas, whose son and daughter-in-law are lawyers, was attacked at his residence in Murikumpadam, Puthuvypeen, on Thursday evening, police said.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-role-of-secure-digital-identity-492c4470a3",
       "title": "Role of secure digital identity",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-arrest-of-trio-by-kerala-s-vigilance-in-alleged--da3ef53882",
-      "title": "Arrest of trio by Kerala’s Vigilance in alleged ₹10-lakh bribery case exposes official-middlemen nexus",
+      "id": "news-caste-census-2027-full-list-of-questions-to-be-a-c09c7f0671",
+      "title": "Caste Census 2027: Full list of questions to be asked in the second phase of Census",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/arrest-of-trio-by-keralas-vigilance-in-alleged-10-lakh-bribery-case-exposes-official-middlemen-nexus/article71344404.ece",
+      "url": "https://www.thehindu.com/news/national/second-phase-of-caste-census-2027-questions-to-be-asked-during-population-enumeration/article71344272.ece",
       "tag": "India",
-      "publishedAt": "2026-08-14T07:01:37.000Z",
-      "summary": "VACB sources say role of more revenue officials in the case is being probed",
+      "publishedAt": "2026-08-14T08:51:44.000Z",
+      "summary": "The second phase of the Census, Population Enumeration (PE), will be conducted in February 2027. Caste identities will be recorded during this phase",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-attack-on-sukhbir-badal-doctor-says-sad-chief-un-75b3b24941",
-      "title": "Attack on Sukhbir Badal: Doctor says SAD chief underwent surgery for 90 minutes, condition stable",
+      "id": "news-independence-day-2026-where-am-i-from-the-compli-585439bac2",
+      "title": "Independence Day 2026: Where am I from? The complicated meaning of home for Indians abroad",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/punjab/sukhbir-badal-underwent-surgery-condition-stable-updates/article71344364.ece",
+      "url": "https://www.thehindu.com/society/independence-day-2026-where-am-i-from-home-indians-abroad/article71327373.ece",
       "tag": "India",
-      "publishedAt": "2026-08-14T06:59:15.000Z",
-      "summary": "Sukhbir Singh Badal, will be discharged on Friday, August 14, and is likely to be flown to Punjab in the afternoon, an official said.",
+      "publishedAt": "2026-08-14T08:48:00.000Z",
+      "summary": "A seemingly simple question becomes complicated when identity and belonging span three continents",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-u-s-names-india-among-over-40-nations-accused-of-e182839579",
-      "title": "U.S. names India among over 40 nations accused of helping China evade tariffs via ‘shadow network’",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/us-names-india-among-over-40-nations-accused-of-helping-china-evade-tariffs-via-shadow-network/article71344225.ece",
+      "id": "news-three-firefighters-and-a-child-hospitalised-in-e-82f35e44fd",
+      "title": "Three firefighters and a child hospitalised in England as 150 million in Europe to experience temperatures above 35C – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-08-14T06:57:43.000Z",
-      "summary": "‘The Great Transshipment Scam’ report said the transshipments became more prevalent after 2018; Peter Navarro announced that U.S. will use an AI-enabled “Detective Border”",
+      "publishedAt": "2026-08-14T08:45:49.000Z",
+      "summary": "Four people taken to hospital in Stourbridge, West Midlands as extreme heat continues to grip Europe Four taken to hospital and homes damaged in West Midlands fires While the te...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
