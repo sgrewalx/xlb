@@ -1,45 +1,75 @@
 {
-  "updatedAt": "2026-08-14T21:17:27.903Z",
+  "updatedAt": "2026-08-14T22:13:53.420Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-five-arrested-in-connection-to-stolen-works-by-c-6b8f6221dc",
-      "title": "Five Arrested in Connection to Stolen Works by Cézanne, Renoir and Matisse, Prosecutors Say",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
-      "tag": "US",
-      "publishedAt": "2026-08-14T21:08:19.000Z",
-      "summary": "The Italian military police said that art collectively valued at more than $10 million had been found five months after being taken in a nighttime heist near Parma.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bbc-seeks-to-subpoena-trump-s-eldest-children-an-a83cec9463",
-      "title": "BBC seeks to subpoena Trump’s eldest children and son-in-law over defamation lawsuit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "tag": "Europe",
-      "publishedAt": "2026-08-14T21:05:47.000Z",
-      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as i...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-clear-encroachments-from-pipeline-road-in-kochi--42377ec27e",
-      "title": "Clear encroachments from Pipeline Road in Kochi, says KWA",
+      "id": "news-maharashtra-government-to-set-a-task-force-for-d-a047f8279d",
+      "title": "Maharashtra government to set a task force for drone policy implementation",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/clear-encroachments-from-pipeline-road-in-kochi-says-kwa/article71346794.ece",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-to-set-a-task-force-for-drone-policy-implementation/article71344469.ece",
       "tag": "India",
-      "publishedAt": "2026-08-14T20:49:22.000Z",
-      "summary": "The drive against encroachers is being taken up ahead of laying pipelines to the city from a 190-mld water treatment plant that has been planned",
+      "publishedAt": "2026-08-14T22:04:17.000Z",
+      "summary": "“The policy need is to strengthen existing drone ecosystem and for that government has to assist the existing companies as well attracting new investments,” Chief Minister Deven...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-former-cambridge-professor-accused-of-plagiarism-403e829305",
-      "title": "Former Cambridge professor accused of plagiarism found dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
+      "id": "news-many-iranians-are-heading-to-turkey-to-escape-th-fa3df56f4a",
+      "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
+      "tag": "US",
+      "publishedAt": "2026-08-14T22:03:08.000Z",
+      "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-dismisses-concerns-about-uss-abraham-linco-1c5809c058",
+      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-08-14T20:46:40.000Z",
-      "summary": "Jason Arday's body was found in south London just a week after he resigned from the University of Cambridge.",
+      "publishedAt": "2026-08-14T22:01:29.000Z",
+      "summary": "President claims families not worried, despite relatives raising concerns, but confirms USS George Washington will replace aircraft carrier on Iran mission Trump administration...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-says-he-will-declare-strait-of-hormuz-a-us-876cce930b",
+      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-14T21:50:46.000Z",
+      "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-draft-dark-skies-guidance-drawn-up-for-the-highl-4cf1bbb7b8",
+      "title": "Draft dark skies guidance drawn up for the Highlands",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dw2e9dedo?at_medium=RSS&at_campaign=rss",
+      "tag": "World",
+      "publishedAt": "2026-08-14T21:46:55.000Z",
+      "summary": "The plan to reduce light pollution could be put out for public consultation at a later date.",
+      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
+    },
+    {
+      "id": "news-jason-arday-cambridge-professor-accused-of-plagi-c7816b2390",
+      "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+      "tag": "US",
+      "publishedAt": "2026-08-14T21:34:18.000Z",
+      "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-man-accused-of-attacking-sukhbir-badal-sent-to-p-37a87cf6e8",
+      "title": "Man Accused Of Attacking Sukhbir Badal Sent To Police Custody Till August 24",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/maharashtra-man-accused-of-attacking-sukhbir-badal-sent-to-police-custody-till-august-24-11912179",
+      "tag": "India",
+      "publishedAt": "2026-08-14T21:03:38.000Z",
+      "summary": "Sixty-two-year-old Jaspal Singh, accused of attacking Shiromani Akali Dal chief and former Punjab Deputy Chief Minister Sukhbir Singh Badal, was sent into police custody till Au...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,36 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-dozens-injured-and-thousands-evacuated-in-croati-e344e0b4c6",
-      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-14T20:22:56.000Z",
-      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-green-india-mission-fell-short-by-98-in-increasi-e6b219de3e",
-      "title": "Green India Mission Fell Short By 98% In Increasing Forest Cover: CAG",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/green-india-mission-fell-short-by-98-in-increasing-forest-cover-cag-11912065",
-      "tag": "India",
-      "publishedAt": "2026-08-14T19:44:00.000Z",
-      "summary": "The forest cover increased by only 0.03 million hectares (ha) against a target of 1.4 million ha between 2015-16 and 2024-25 under the Green India Mission, according to a new re...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-the-taliban-has-taken-a-terrible-toll-on-the-edu-399bc106fd",
-      "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-      "tag": "US",
-      "publishedAt": "2026-08-14T14:41:22.000Z",
-      "summary": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the ed...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-needs-robust-systems-for-advanced-therapie-7c0ca8b81b",
       "title": "India needs robust systems for advanced therapies",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-dismisses-concerns-about-uss-abraham-linco-19f18fe22e",
-      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
+      "id": "news-jason-arday-professor-at-centre-of-cambridge-pla-151ee7e463",
+      "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
       "tag": "Europe",
-      "publishedAt": "2026-08-14T21:05:25.000Z",
-      "summary": "President claims families not worried, despite relatives raising concerns, but confirms USS George Washington will replace aircraft carrier on Iran mission Trump administration...",
+      "publishedAt": "2026-08-14T21:50:41.000Z",
+      "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at th...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-ontario-free-to-axe-toronto-bike-lanes-region-s--66e4ba5c12",
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "id": "news-wildfires-rage-across-europe-as-heatwaves-drive--f4ea710d13",
+      "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-14T21:03:43.000Z",
-      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones as cause of city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes...",
+      "publishedAt": "2026-08-14T21:50:35.000Z",
+      "summary": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-as-army-fails-to-protect-palestinians-israeli-le-a17794645a",
-      "title": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
-      "tag": "US",
-      "publishedAt": "2026-08-14T21:01:21.000Z",
-      "summary": "Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent set...",
+      "id": "news-israeli-soldiers-accused-of-supporting-terrorist-965613761a",
+      "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-14T21:45:20.000Z",
+      "summary": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
