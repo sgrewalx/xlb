@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-08-15T06:22:42.026Z",
+  "updatedAt": "2026-08-15T07:22:36.224Z",
   "section": "Expanded News",
   "items": [
+    {
+      "id": "news-at-least-20-dead-as-7-7-magnitude-earthquake-roc-624ee92813",
+      "title": "At Least 20 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "tag": "US",
+      "publishedAt": "2026-08-15T07:19:49.000Z",
+      "summary": "The temblor was one of the strongest the area had experienced in decades, an official said.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-independence-day-2026-pm-modi-appeals-to-oppn-to-e2ab7b7238",
+      "title": "Independence Day 2026: PM Modi appeals to Oppn. to help implement women’s quota, says ‘you may take the credit’",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-modi-independence-day-2026-speech-women-reservation-opposition-appeal-maoism-mindset/article71348509.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-15T07:19:17.000Z",
+      "summary": "The Prime Minister also warned against individuals with Maoist mindset — “dimagi Naxals” as he termed them — who have entrenched themselves within the corridors of power in the...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-first-australian-death-of-little-penguin-with-h5-e5d04e4e15",
+      "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
+      "tag": "Europe",
+      "publishedAt": "2026-08-15T07:01:50.000Z",
+      "summary": "Authorities confirm first Australian death of species found with virus near where it attracts crowds to a ‘penguin parade’ Get our breaking news email , free app or daily news p...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-south-korea-s-president-wants-talks-with-north-t-840fd8de84",
+      "title": "South Korea’s president wants talks with North to end Korean War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-15T06:53:28.000Z",
+      "summary": "South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-sure-sign-of-his-desperation-congress-hits-back--a355662b6a",
+      "title": "‘Sure sign of his desperation’: Congress hits back at PM Modi over ‘dimaagi Naxals’ remark",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/sure-sign-of-his-desperation-congress-hits-back-at-pm-modi-over-dimaagi-naxals-remark/articleshow/133255730.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-15T06:34:19.000Z",
+      "summary": "Congress general secretary Jairam Ramesh called Prime Minister Narendra Modi's 'dimaagi Naxals' remark a sign of desperation. Prime Minister Modi stated that armed Naxalism has...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
     {
       "id": "news-at-least-14-dead-after-7-7-magnitude-earthquake--3dd5128fd9",
       "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
@@ -13,26 +63,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-independence-day-live-updates-in-12-years-india--ef48f957b2",
-      "title": "Independence Day LIVE updates: In 12 years, India transformed from 'Fragile 5' to world's fastest-growing major economy, says Modi",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/india-80th-independence-day-2026-live-updates-on-august-15-pm-modi-speech-red-fort/article71348349.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-15T06:17:36.000Z",
-      "summary": "PM Modi urges self-reliance, calls upon citizens to realise 'Viksit Bharat' by 2047",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-at-least-20-dead-as-7-7-magnitude-earthquake-roc-dac677c576",
-      "title": "At Least 20 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
-      "tag": "US",
-      "publishedAt": "2026-08-15T06:13:01.000Z",
-      "summary": "The temblor was one of the strongest the area had experienced in decades, an official said.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-shoutout-to-gen-z-warning-for-rivals-in-vijay-s--b53d38ebf9",
       "title": "Shoutout To Gen Z, Warning For Rivals In Vijay's First Independence Day Speech",
       "source": "NDTV",
@@ -40,36 +70,6 @@
       "tag": "India",
       "publishedAt": "2026-08-15T06:05:15.000Z",
       "summary": "Vijay said forces working against his government will be defeated and conspiracies against his regime will also be thwarted.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-small-scale-projects-offer-hope-for-gaza-farmers-217baf898d",
-      "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/15/chk-small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-15T06:03:00.000Z",
-      "summary": "Greenhouses and rented plots are lifelines for Gaza farmers, helping them grow crops despite the extensive destruction.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-westminster-council-threatens-charing-cross-soup-5a9cf545fa",
-      "title": "Westminster council threatens Charing Cross soup kitchen with closure",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
-      "tag": "Europe",
-      "publishedAt": "2026-08-15T06:00:49.000Z",
-      "summary": "Conservative authority says site is not safe for vulnerable people charity serves or general public Westminster council is making it “impossible” for soup kitchens to operate by...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-attempt-to-muzzle-our-voice-on-independence-day--ff527953c4",
-      "title": "‘Attempt to muzzle our voice on Independence Day’: CJP Instagram handle restored",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/attempt-to-muzzle-our-voice-on-independence-day-cjp-instagram-handle-restored/articleshow/133256778.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-15T05:45:18.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-avoid-blame-game-on-assam-floods-says-nagaland-c-a627756840",
-      "title": "Avoid blame game on Assam floods, says Nagaland coal miners’ body",
+      "id": "news-notices-to-43-medical-shops-in-telangana-over-sa-436a7ec2d0",
+      "title": "Notices to 43 medical shops in Telangana over sale of Mounjaro, Ozempic without prescription",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/assam/avoid-blame-game-on-assam-floods-says-nagaland-coal-miners-body/article71348721.ece",
+      "url": "https://www.thehindu.com/news/national/telangana/notices-to-43-medical-shops-in-telangana-over-sale-of-mounjaro-ozempic-without-prescription/article71348448.ece",
       "tag": "India",
-      "publishedAt": "2026-08-15T06:16:21.000Z",
-      "summary": "The Tuli Area Coal Mining Contractors’ Association says people in the two States should refrain from making unverified claims and focus on relief, recovery, and cooperation",
+      "publishedAt": "2026-08-15T07:19:02.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-pm-modi-greets-people-on-independence-day-fe4ec019dc",
-      "title": "PM Modi greets people on Independence Day",
+      "id": "news-in-independence-day-speech-kerala-cm-warns-again-b5de7d2e1c",
+      "title": "In Independence Day speech, Kerala CM warns against communalism, calls for open-minded democracy",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/pm-modi-greets-people-on-independence-day/article71348355.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/in-independence-day-speech-kerala-cm-warns-against-communalism-calls-for-open-minded-democracy/article71348651.ece",
       "tag": "India",
-      "publishedAt": "2026-08-15T06:14:30.000Z",
-      "summary": "Modi also paid tributes to the countless freedom fighters whose courage, sacrifice and unwavering commitment ensured the end of colonial rule",
+      "publishedAt": "2026-08-15T07:18:53.000Z",
+      "summary": "Notably, Vande Mataram song was not played at the function despite the direction of Union government",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-officer-hoists-national-flag-twice-in-belagavi-d-7098696142",
-      "title": "Officer hoists national flag twice in Belagavi district due to glitch",
+      "id": "news-a-p-witnessing-significant-progress-with-initiat-adca00b5b5",
+      "title": "A.P. witnessing significant progress with initiatives of government: Minister for MSME Kondapalli Srinivas",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/officer-hoists-national-flag-twice-in-belagavi-district-due-to-glitch/article71348562.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-witnessing-significant-progress-with-initiatives-of-government-minister-for-msme-kondapalli-srinivas/article71348589.ece",
       "tag": "India",
-      "publishedAt": "2026-08-15T06:09:11.000Z",
-      "summary": "Kalagouda Patil, Tahsildar, hoisted the national flag at Gadad Maradi gate in Saundatti",
+      "publishedAt": "2026-08-15T07:13:25.000Z",
+      "summary": "Development and welfare were being given equal priority for the overall benefit of the people of the State, said Minister for MSME and NRI Affairs Kondapalli Srinivas",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
