@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-08-15T09:17:45.214Z",
+  "updatedAt": "2026-08-15T10:14:06.506Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-independence-day-2026-pm-modi-leads-india-in-com-7a6b292a17",
-      "title": "Independence Day 2026: PM Modi leads India in commemorating 80 years of freedom",
+      "id": "news-quit-lit-21d80a75ce",
+      "title": "Quit Lit",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
+      "tag": "US",
+      "publishedAt": "2026-08-15T10:08:58.000Z",
+      "summary": "There are good reasons to abandon books we’re not enjoying, but our attenuated attention might lead us to tap out too early.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-the-bar-and-bench-walk-with-you-cji-tells-youth--bda52aaedd",
+      "title": "The Bar and Bench walk with you, CJI tells youth in I-Day message a day after Bar Council overreach",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/photos/80th-independence-day-celebrations-august-15-2026-in-pictures-red-fort-pm-modi-vande-mataram/article71348541.ece",
+      "url": "https://www.thehindu.com/news/national/the-bar-and-bench-walk-with-you-cji-tells-youth-in-i-day-message-a-day-after-bar-council-overreach/article71349048.ece",
       "tag": "India",
-      "publishedAt": "2026-08-15T09:08:59.000Z",
-      "summary": "For the first time, the national song, 'Vande Mataram', was rendered during the 80th Independence Day celebrations at the Red Fort",
+      "publishedAt": "2026-08-15T10:07:33.000Z",
+      "summary": "Chief Justice of India Surya Kant commends the ‘remarkable resilience’, tech know-how, and awareness of social realities in the younger generation",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-donald-trump-doesn-t-just-love-billionaires-he-l-07f171d67d",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "tag": "Europe",
+      "publishedAt": "2026-08-15T10:00:54.000Z",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-100gw-of-nuclear-power-by-2047-5-reactors-this-d-d27cabe8e6",
+      "title": "100GW of nuclear power by 2047, 5 reactors this decade: Inside PM Modi's energy self-reliance plan",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/100gw-of-nuclear-power-by-2047-5-reactors-this-decade-inside-pm-modis-energy-self-reliance-plan/articleshow/133257863.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-15T09:37:03.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-south-korea-proposes-talks-to-officially-end-war-f631d1c835",
+      "title": "South Korea proposes talks to officially end war with North",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-15T09:35:23.000Z",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,26 +63,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-jason-arday-professor-at-centre-of-cambridge-pla-1955f1818d",
-      "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-      "tag": "Europe",
-      "publishedAt": "2026-08-15T09:04:19.000Z",
-      "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at th...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-russia-campaigned-to-derail-moldova-s-pro-wester-b27f147239",
-      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-      "tag": "US",
-      "publishedAt": "2026-08-15T09:03:53.000Z",
-      "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning gove...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-they-fought-for-the-u-s-in-afghanistan-now-they--1f6a2bb740",
       "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
       "source": "NPR",
@@ -50,16 +70,6 @@
       "tag": "US",
       "publishedAt": "2026-08-15T09:00:00.000Z",
       "summary": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may wan...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-powerful-7-7-magnitude-earthquake-kills-at-least-99ca63095f",
-      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-15T08:52:55.000Z",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -73,16 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-bjp-says-sonia-objected-to-full-vande-mataram-co-60c8f1592f",
-      "title": "BJP says Sonia objected to full Vande Mataram; Congress says she was seeking chair for Kharge",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/bjp-says-sonia-objected-to-full-vande-mataram-congress-says-she-was-seeking-chair-for-kharge/articleshow/133258866.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-15T08:41:07.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-india-needs-robust-systems-for-advanced-therapie-7c0ca8b81b",
       "title": "India needs robust systems for advanced therapies",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-youth-protests-find-echo-in-minister-s-i-day-spe-0baa2f635a",
-      "title": "Youth protests find echo in Minister’s I-Day speech in Shivamogga",
+      "id": "news-what-is-the-latest-mining-amendment-act-about-ex-b51b849943",
+      "title": "What is the latest Mining Amendment Act about? | Explained",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/youth-protests-find-echo-in-ministers-i-day-speech-in-shivamogga/article71349009.ece",
+      "url": "https://www.thehindu.com/business/Industry/what-is-the-latest-mining-amendment-act-about-explained/article71348935.ece",
       "tag": "India",
-      "publishedAt": "2026-08-15T09:06:57.000Z",
-      "summary": "Youth should question government and society, says Minister",
+      "publishedAt": "2026-08-15T10:04:05.000Z",
+      "summary": "The opposition to the proposed act primarily centres on a potential subversion to the federal structure of how revenue from mining resources is taxed, especially in resource-ric...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-university-of-sheffield-scholarship-2027-indian--b7cce2a9be",
-      "title": "University Of Sheffield Scholarship 2027: Indian Students To Get Over Rs 8 Lakh Tuition Fee Discount",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/education/university-of-sheffield-scholarship-2027-indian-students-to-get-over-rs-8-lakh-tuition-fee-discount-11913975",
+      "id": "news-return-what-was-taken-away-from-j-k-omar-abdulla-e7d495a139",
+      "title": "Return what was taken away from J&K: Omar Abdullah in his I-Day speech",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/committed-to-goal-of-jks-state-restoration-its-constitutional-guarantees-omar/article71348703.ece",
       "tag": "India",
-      "publishedAt": "2026-08-15T09:04:31.000Z",
-      "summary": "The University of Sheffield will offer eligible Indian students a £7,000 tuition fee discount for postgraduate taught courses starting in September 2027.",
+      "publishedAt": "2026-08-15T10:03:22.000Z",
+      "summary": "Referring to the protest in Pakistan Occupied Kashmir (PoK) Mr. Abdullah said, “They are our own people. The J&K Assembly has seats earmarked for them. If 2019 had not happened...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-canadian-petition-to-expel-u-s-ambassador-pete-h-64a853b077",
-      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-      "tag": "US",
-      "publishedAt": "2026-08-15T09:02:14.000Z",
-      "summary": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 160,000 Canadians want him gone.",
+      "id": "news-external-forces-behind-gen-z-protest-odisha-cm-m-02870d8dd6",
+      "title": "External forces behind Gen-Z protest, Odisha CM Mohan Majhi",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-independence-day-celebrations-cm-mohan-majhi-speech/article71348853.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-15T10:03:01.000Z",
+      "summary": "On the occasion, Mohan Majhi announced that the students of classes 9 and 10 in State-run schools will be provided free textbooks, as is done for the students up to class 8",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
