@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-08-15T17:13:11.796Z",
+  "updatedAt": "2026-08-15T18:16:28.488Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-government-rolls-out-foreign-asset-disclosure-sc-f02fdb6468",
-      "title": "Government rolls out foreign asset disclosure scheme for small taxpayers",
+      "id": "news-moroccan-police-arrest-more-than-100-people-as-t-8bf105abaa",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "tag": "Europe",
+      "publishedAt": "2026-08-15T18:08:21.000Z",
+      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-vit-ap-university-honours-nine-unsung-heroes-d8119f9673",
+      "title": "VIT-AP University honours nine unsung heroes",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/Economy/government-rolls-out-foreign-asset-disclosure-scheme-for-small-taxpayers/article71350429.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-university-honours-nine-unsung-heroes/article71350266.ece",
       "tag": "India",
-      "publishedAt": "2026-08-15T17:10:03.000Z",
-      "summary": "Taxpayers will pay a 30% tax on the value of the declared undisclosed foreign asset or income, plus an additional amount equal to the tax, effectively taking the levy to 60%",
+      "publishedAt": "2026-08-15T18:03:27.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-jason-arday-cambridge-professor-accused-of-plagi-42cb15e9cd",
-      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "id": "news-canadian-petition-to-expel-u-s-ambassador-pete-h-b3781e70e5",
+      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
       "tag": "US",
-      "publishedAt": "2026-08-15T17:04:43.000Z",
-      "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-leak-debris-were-reported-got-no-response-uttara-fd16d3479b",
-      "title": "Leak, Debris Were Reported, Got No Response: Uttarakhand Tunnel Workers",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/chamoli-tunnel-uttarakhand-tunnel-tragedy-leak-debris-were-reported-got-no-response-uttarakhand-tunnel-workers-11915291",
-      "tag": "India",
-      "publishedAt": "2026-08-15T17:00:35.000Z",
-      "summary": "Eight workers were killed after the tunnel, in Uttarakhand's Chamoli, got flooded.",
+      "publishedAt": "2026-08-15T18:02:30.000Z",
+      "summary": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
