@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-08-14T23:09:52.057Z",
+  "updatedAt": "2026-08-15T00:30:33.634Z",
   "section": "Expanded Sports",
   "items": [
     {
-      "id": "sports-unfinished-business-markham-practice-postponed-a-298bdecac9",
-      "title": "Unfinished Business: Markham Practice Postponed As Crews Work To Finish Course",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/motor/indycar-markham-track-postponed-to-saturday-unfinished-course",
+      "id": "sports-australia-v-bangladesh-first-men-s-test-day-thre-508c7cc6cd",
+      "title": "Australia v Bangladesh: first men’s Test, day three – live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/live/2026/aug/15/australia-v-bangladesh-first-test-day-three-live-updates-darwin",
+      "tag": "Cricket",
+      "publishedAt": "2026-08-15T00:28:41.000Z",
+      "summary": "Updates as the Test at Marrara Cricket Ground continues Play starts in Darwin at 10am ACST/10.30am AEST Any thoughts? Email Angus Jack Weatherald’s mum is on the TV talking abou...",
+      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
+    },
+    {
+      "id": "sports-cardinals-rookie-ol-chase-bisontis-tears-mcl-f80c1efd65",
+      "title": "Cardinals rookie OL Chase Bisontis tears MCL",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-rookie-ol-chase-bisontis-tears-mcl",
       "tag": "Sports",
-      "publishedAt": "2026-08-14T22:57:25.000Z",
-      "summary": "INDYCAR's Markham debut took an unexpected turn as an unfinished track forced practice to be postponed.",
+      "publishedAt": "2026-08-15T00:23:20.000Z",
+      "summary": "Cardinals second-round offensive guard Chase Bisontis will miss most, or possibly all, of his rookie season.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
@@ -33,16 +43,6 @@
       "whyItMatters": "Football creates regular global sports momentum and quick-return storylines."
     },
     {
-      "id": "sports-walter-tongue-make-the-difference-as-super-giant-ce68310457",
-      "title": "Walter, Tongue make the difference as Super Giants surge into Men's Hundred final",
-      "source": "ESPNcricinfo",
-      "url": "https://www.cricinfo.com/ci/content/story/1549995.html?ex_cid=OTC-RSS",
-      "tag": "Cricket",
-      "publishedAt": "2026-08-14T21:18:27.000Z",
-      "summary": "Brook and Rickelton fight for SRL, but target of 187 proves to be out of reach",
-      "whyItMatters": "Cricket gives XLB a stronger India-relevant sports lane and a reason for repeat sports check-ins."
-    },
-    {
       "id": "sports-struggling-venus-williams-suffers-14th-straight--be529532ce",
       "title": "Struggling Venus Williams suffers 14th straight defeat in Cincinnati rout",
       "source": "The Guardian",
@@ -63,6 +63,56 @@
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     },
     {
+      "id": "sports-two-drives-two-punts-for-tua-tagovailoa-in-falco-de1ed350da",
+      "title": "Two drives, two punts for Tua Tagovailoa in Falcons debut",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-drives-two-punts-for-tua-tagovailoa-in-falcons-debut",
+      "tag": "Sports",
+      "publishedAt": "2026-08-15T00:09:36.000Z",
+      "summary": "Quarterback Tua Tagovailoa made his preseason debut with the Falcons on Friday night against the Broncos.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-cade-klubnik-plays-two-series-leads-jets-to-10-p-8b1d5b4516",
+      "title": "Cade Klubnik plays two series, leads Jets to 10 points",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cade-klubnik-plays-two-series-leads-jets-to-10-points",
+      "tag": "Sports",
+      "publishedAt": "2026-08-15T00:09:27.000Z",
+      "summary": "The Jets made a late change at quarterback on Friday and rookie Cade Klubnik got the start against the Buccaneers as a result.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-michael-holley-is-fine-after-fainting-on-air-dur-3a882376b1",
+      "title": "Michael Holley is fine after fainting on-air during PFT Live",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-holley-is-fine-after-fainting-on-air-during-pft-live",
+      "tag": "Sports",
+      "publishedAt": "2026-08-14T23:48:44.000Z",
+      "summary": "Friday's edition of PFT Live included a moment that was unprecedented in the 15-year history of the show.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-lord-s-to-lahore-a-look-at-india-s-milestone-tes-e2602f0559",
+      "title": "Lord's to Lahore: A look at India's milestone Tests before the 600th at Galle",
+      "source": "Times of India Sports",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-play-600th-test-at-galle-what-happened-in-1st-100th-200th-300th-400th-and-500th-tests/articleshow/133251542.cms",
+      "tag": "Sports",
+      "publishedAt": "2026-08-14T23:30:00.000Z",
+      "summary": "The men-in-Blue, led by Shubman Gill, are set to become only the third team after England and Australia to reach the milestone, that too on the day when the nation is celebratin...",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
+      "id": "sports-why-is-stefon-diggs-not-playing-today-vs-dolphin-bdc3be3106",
+      "title": "Why is Stefon Diggs not playing today vs Dolphins? Commanders WR’s preseason status revealed",
+      "source": "Hindustan Times Sports",
+      "url": "https://www.hindustantimes.com/sports/us-sports/why-is-stefon-diggs-not-playing-today-vs-dolphins-commanders-wr-s-preseason-status-revealed-101786748105270.html",
+      "tag": "Sports",
+      "publishedAt": "2026-08-14T23:01:03.000Z",
+      "summary": "Stefon Diggs’ preseason status is in focus as the Commanders prepare to face the Miami Dolphins today.",
+      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
+    },
+    {
       "id": "sports-fantasy-football-2026-rankings-draft-prep-nfl-mo-b85ead97d9",
       "title": "Fantasy football 2026 rankings, draft prep: NFL model makes QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
       "source": "CBS Sports",
@@ -70,56 +120,6 @@
       "tag": "Sports",
       "publishedAt": "2026-08-14T22:45:32.000Z",
       "summary": "SportsLine simulated the new NFL season 10,000 times and revealed its 2026 Fantasy football QB, RB, WR picks and rankings",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-ryanair-mocks-argentina-after-world-cup-winner-r-4f2670f9aa",
-      "title": "Ryanair mocks Argentina after World Cup winner Rodri spotted on ultra-low-budget flight",
-      "source": "Times of India Sports",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ryanair-brutally-mocks-argentina-after-world-cup-winner-rodri-spotted-on-ultra-low-budget-flight/articleshow/133251743.cms",
-      "tag": "Sports",
-      "publishedAt": "2026-08-14T22:42:21.000Z",
-      "summary": "Ryanair joined the viral reaction to Rodri’s budget flight from Madrid to Liverpool with a cheeky message aimed at Argentina. The airline tagged the Argentina national team whil...",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-2026-nfl-bold-predictions-why-caleb-williams-wil-2464f2f112",
-      "title": "2026 NFL Bold Predictions: Why Caleb Williams Will Win MVP And More Picks",
-      "source": "Fox Sports",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bold-predictions-why-caleb-williams-will-win-mvp-more-picks",
-      "tag": "Sports",
-      "publishedAt": "2026-08-14T22:30:37.000Z",
-      "summary": "Caleb Williams winning MVP? Packers out of the postseason? Colin Cowherd makes five bold predictions for 2026.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-report-emeka-egbuka-has-sprained-toe-should-be-g-c868173d93",
-      "title": "Report: Emeka Egbuka has sprained toe, should be good for Week 1",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-emeka-egbuka-has-sprained-toe-should-be-good-for-week-1",
-      "tag": "Sports",
-      "publishedAt": "2026-08-14T22:17:51.000Z",
-      "summary": "The Buccaneers received good news about wide receiver Emeka Egbuka's injury on Friday.",
-      "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
-    },
-    {
-      "id": "sports-hodgkinson-beaten-to-european-gold-by-rival-werr-34afd3c3d7",
-      "title": "Hodgkinson beaten to European gold by rival Werro",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-08-14T22:14:41.000Z",
-      "summary": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.",
-      "whyItMatters": "Running and athletics widen the page beyond match coverage into performance and training stories."
-    },
-    {
-      "id": "sports-fantasy-football-2026-one-weird-trick-for-findin-f77a3fa892",
-      "title": "Fantasy Football 2026: One weird trick for finding breakouts",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-2026-one-weird-trick-for-finding-breakouts",
-      "tag": "Sports",
-      "publishedAt": "2026-08-14T22:03:25.000Z",
-      "summary": "Player production often hinges on play volume. Here are four offenses that will likely see offensive snap regression in 2026.",
       "whyItMatters": "It adds variety to the sports mix without turning the page into a full sports wire."
     }
   ]
