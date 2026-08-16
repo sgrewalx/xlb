@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-16T20:12:39.333Z",
+  "updatedAt": "2026-08-16T21:12:18.545Z",
   "section": "Expanded News",
   "items": [
+    {
+      "id": "news-kushner-meets-with-hamas-to-advance-trump-s-gaza-0df524e53d",
+      "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+      "tag": "US",
+      "publishedAt": "2026-08-16T21:04:48.000Z",
+      "summary": "The president’s son-in-law met the Palestinian militant group’s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-death-toll-rises-to-84-from-capsized-ferry-in-zi-846229ebf9",
+      "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T21:03:53.000Z",
+      "summary": "The boat overturned during heavy winds near the Zambian border.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-kushner-meets-with-hamas-on-the-gaza-road-map-ah-496e2c7a76",
+      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "tag": "US",
+      "publishedAt": "2026-08-16T20:20:22.000Z",
+      "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-west-asia-war-highlights-saudi-authorities-issue-2d277ad9e1",
+      "title": "West Asia war highlights: Saudi authorities issue warning for Jazan province along Yemen border",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-16-2026/article71351835.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T20:11:34.000Z",
+      "summary": "Iran offers a $30,000 bounty for killing, capturing U.S. soldiers; Israel vows to go after Hezbollah as it names another killed",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
     {
       "id": "news-belgian-wildfire-doubles-in-size-on-third-day-te-8272670542",
       "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
@@ -13,13 +53,13 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-as-china-pushes-to-expand-in-asia-trump-focuses--0185ae9f40",
-      "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-      "tag": "US",
-      "publishedAt": "2026-08-16T19:57:59.000Z",
-      "summary": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
+      "id": "news-republican-senator-denounces-trump-s-crazy-stupi-bbaca0ecf7",
+      "title": "Republican senator denounces Trump’s ‘crazy, stupid’ claims about MMR vaccine safety",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T19:58:31.000Z",
+      "summary": "Outgoing Louisiana senator Bill Cassidy, a medical doctor, voted to confirm anti-vaccine activist RFK Jr as health secretary before speaking out Republican senator Bill Cassidy...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -33,36 +73,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-suspect-in-virginia-state-university-shooting-fo-c843836304",
-      "title": "Suspect in Virginia State University shooting found hiding in dorm closet",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T19:39:03.000Z",
-      "summary": "Suspect, 19, who is not enrolled at the university arrested in connection with shooting of five people, authorities say A young man suspected in connection with the shooting of...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-erdogan-says-israeli-attacks-on-lebanon-are-a-se-298397b40e",
-      "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T19:29:31.000Z",
-      "summary": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-congress-protests-in-kalaburagi-against-purifica-ea6b219f49",
-      "title": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-protests-in-kalaburagi-against-purification-ritual-at-kharges-rally-venue-in-uttarakhand/article71353343.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-16T19:24:01.000Z",
-      "summary": "Party leaders condemn alleged caste discrimination in Uttarakhand, burn tyres during demonstration",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-one-family-one-ticket-row-grows-as-bjp-s-ravneet-54aeef46f2",
       "title": "\"One Family One Ticket\" Row Grows As BJP's Ravneet Bittu Targets Congress",
       "source": "NDTV",
@@ -70,16 +80,6 @@
       "tag": "India",
       "publishedAt": "2026-08-16T19:20:07.000Z",
       "summary": "The issue has intensified the ongoing political tussle between Punjab Congress chief Amrinder Singh Raja Warring and Sukhjinder Singh Randhawa.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-a-good-and-bad-week-for-italy-s-art-police-and-m-10a2a1dbb8",
-      "title": "A good – and bad – week for Italy's art police and museum security",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-      "tag": "US",
-      "publishedAt": "2026-08-16T16:27:54.000Z",
-      "summary": "On Friday, Italian police said they'd recovered three paintings stolen from a museum near the city of Parma. By Saturday night, thieves in Sicily had made off with four more mas...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-envoy-kushner-meets-hamas-leader-to-push-g-fa840f97a6",
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "id": "news-israelis-harass-palestinian-owned-cafe-in-icelan-4ca0afa250",
+      "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-16T19:58:14.000Z",
-      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "publishedAt": "2026-08-16T21:02:08.000Z",
+      "summary": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-two-dead-and-hundreds-evacuated-after-twin-fires-6b606a1cb1",
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "id": "news-erdogan-says-hamas-acted-sincerely-criticises-is-3a1854f43c",
+      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-16T19:50:36.000Z",
-      "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "publishedAt": "2026-08-16T20:55:19.000Z",
+      "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-kushner-holds-talks-with-hamas-to-advance-trump--3e60d5d297",
-      "title": "Kushner Holds Talks With Hamas to Advance Trump Gaza Plan",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-      "tag": "US",
-      "publishedAt": "2026-08-16T19:46:26.000Z",
-      "summary": "The president’s adviser met with representatives of the armed Palestinian group in Egypt, several officials said.",
+      "id": "news-us-admiral-praises-uss-lincoln-crew-amid-reporte-13053ce0d2",
+      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T20:46:01.000Z",
+      "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
