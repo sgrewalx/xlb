@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-08-16T07:23:58.058Z",
+  "updatedAt": "2026-08-16T08:18:33.859Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-sit-fast-tracks-probe-into-suspected-gst-evasion-5a9c559c41",
-      "title": "SIT fast-tracks probe into suspected GST evasion on foreign remittances for hosting Messi and Argentine team in 2025",
+      "id": "news-cholera-outbreak-sickens-more-than-90-in-myanmar-445db2b924",
+      "title": "Cholera Outbreak Sickens More Than 90 in Myanmar’s Biggest City",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
+      "tag": "US",
+      "publishedAt": "2026-08-16T08:15:20.000Z",
+      "summary": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-three-killed-as-russia-launches-fresh-aerial-att-8ef359385f",
+      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T08:14:56.000Z",
+      "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-warangal-dmo-k-surekha-dies-in-road-accident-d7e81d590d",
+      "title": "Warangal DMO K. Surekha dies in road accident",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/sit-fast-tracks-probe-into-suspected-gst-evasion-on-foreign-remittances-for-hosting-messi-and-argentine-team-in-2025/article71352230.ece",
-      "tag": "Running",
-      "publishedAt": "2026-08-16T07:19:19.000Z",
-      "summary": "Officials said the investigation will likely lay the legal groundwork for a sweeping anti-corruption enquiry into the high-profile plan that turned into a fiasco amid a storm of...",
+      "url": "https://www.thehindu.com/news/national/telangana/warangal-dmo-k-surekha-dies-in-road-accident/article71351963.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-16T08:11:00.000Z",
+      "summary": "A lorry collided with the car in which the 43-year-old District Marketing Officer was present",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-congress-should-feel-ashamed-amit-shah-targets-s-772217798b",
+      "title": "‘Congress should feel ashamed’: Amit Shah targets Sonia Gandhi over Vande Mataram row",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/congress-should-feel-ashamed-amit-shah-targets-sonia-gandhi-over-vande-mataram-row/articleshow/133271895.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-16T08:02:48.000Z",
+      "summary": "Union Home Minister Amit Shah criticized the Congress party for allegedly disrespecting the national song Vande Mataram. He accused Sonia Gandhi of asking for the rendition to b...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-lionel-messi-misses-penalty-as-nashville-thrash--5e8edf479e",
+      "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T07:47:45.000Z",
+      "summary": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,16 +63,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-twelve-killed-as-polish-bus-veers-off-hungarian--228fe97003",
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T07:04:17.000Z",
-      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-our-children-are-less-cognitively-capable-says-n-5abac4b630",
       "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
       "source": "The Guardian",
@@ -40,36 +70,6 @@
       "tag": "Europe",
       "publishedAt": "2026-08-16T07:00:20.000Z",
       "summary": "Jared Cooney Horvath argues that educational technology undermines how children learn and develop Jared Cooney Horvath is on a mission. In the wake of global campaigns for smart...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-as-china-pushes-to-expand-in-asia-trump-focuses--09a39ee9c9",
-      "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-      "tag": "US",
-      "publishedAt": "2026-08-16T06:53:38.000Z",
-      "summary": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-bangladesh-make-history-with-first-ever-test-cri-e88643f9b3",
-      "title": "Bangladesh make history with first-ever Test cricket win in Australia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
-      "tag": "Cricket",
-      "publishedAt": "2026-08-16T06:40:50.000Z",
-      "summary": "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-jharkhand-protests-continue-students-to-gherao-c-b3699fd0f8",
-      "title": "Jharkhand protests continue: Students to gherao CM residence on August 20 if demands not met",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/jharkhand-protests-continue-students-to-gherao-cm-residence-on-august-20-if-demands-not-met/articleshow/133271115.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-16T06:35:31.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-fda-notice-to-shah-rukh-ajay-devgn-and-tiger-shr-b9d45c3a21",
-      "title": "FDA notice to Shah Rukh, Ajay Devgn and Tiger Shroff over Vimal Elaichi ad",
+      "id": "news-jharkhand-job-exam-stir-protesters-announce-cm-r-f0470b1ca7",
+      "title": "Jharkhand job exam stir: protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/fda-notice-to-shah-rukh-ajay-devgn-and-tiger-shroff-over-vimal-elaichi-ad/article71352152.ece",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-students-demand-congress-to-withdraw-support-from-jmm-coalition-cm-sorens-resignation/article71350761.ece",
       "tag": "India",
-      "publishedAt": "2026-08-16T07:05:46.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-08-16T08:09:38.000Z",
+      "summary": "The students accuse JMM-Congress of playing politics; ask Congress to withdraw support from JMM-led coalition",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-g-k-vasan-condemns-two-chennai-students-death-ca-d45c3272f5",
-      "title": "G.K. Vasan condemns two Chennai students’ death; calls for crackdown on illegal drugs",
+      "id": "news-soren-promises-systemic-change-amid-ongoing-stud-bad7229acb",
+      "title": "Soren promises ‘systemic change’ amid ongoing student protest in Jharkhand",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/gk-vasan-condemns-two-chennai-students-death-calls-for-crackdown-on-illegal-drugs/article71352015.ece",
+      "url": "https://www.thehindu.com/news/national/jharkhand/soren-promises-systemic-change-amid-ongoing-student-protest-in-jharkhand/article71349382.ece",
       "tag": "India",
-      "publishedAt": "2026-08-16T07:04:50.000Z",
-      "summary": "Citing a media report of the incident, the TMC(M) leader said it was the duty of the Tamil Nadu government to get to the motive behind the murder, arrest those involved",
+      "publishedAt": "2026-08-16T08:08:54.000Z",
+      "summary": "Addressing a gathering in Ranchi on Independence Day, the Chief Minister assured students that their hard work would not be left at the mercy of any mafia",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-what-do-the-latest-white-house-allegations-mean--4e6d68badc",
-      "title": "What do the latest White House allegations mean for India? | Explained",
+      "id": "news-b-tech-student-from-arunachal-found-dead-in-kera-e8c8f502a9",
+      "title": "B.Tech student from Arunachal found dead in Kerala; Minister promises probe as students blame credits-based ‘year back’ system",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/business/what-do-the-latest-white-house-allegations-mean-for-india-explained/article71352187.ece",
+      "url": "https://www.thehindu.com/news/national/kerala/btech-student-from-arunachal-found-dead-in-kerala-minister-promises-probe-as-students-blame-credits-based-year-back-system/article71352107.ece",
       "tag": "India",
-      "publishedAt": "2026-08-16T07:01:16.000Z",
-      "summary": "White House has identified more than 40 countries associated with “elevated illegal transshipment risk”, with India among the top “enablers” of China’s evasion of tariffs; the o...",
+      "publishedAt": "2026-08-16T08:07:36.000Z",
+      "summary": "State Higher Education Minister said around 20 students of the college were facing difficulties following the Kerala Technology University’s recent decision to allow only studen...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
