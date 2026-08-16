@@ -1,25 +1,65 @@
 {
-  "updatedAt": "2026-08-16T21:12:18.545Z",
+  "updatedAt": "2026-08-16T22:12:32.856Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-kushner-meets-with-hamas-to-advance-trump-s-gaza-0df524e53d",
+      "id": "news-rahul-gandhi-s-chhatron-ki-goonj-rally-in-pune-w-01b7571d9c",
+      "title": "Rahul Gandhi's 'chhatron ki goonj' rally in Pune will be exclusively for girls",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/rahul-gandhis-chhatron-ki-goonj-rally-in-pune-will-be-exclusively-for-girls/articleshow/133282215.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-16T21:59:18.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-says-us-to-scale-back-military-drills-with-511b6b8b29",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T21:57:13.000Z",
+      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-politics-live-nationals-argue-gun-buyb-fbe1b608db",
+      "title": "Australia politics live: Nationals argue gun buyback is against constitutional clause featured in The Castle",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T21:54:40.000Z",
+      "summary": "Scheme will give NSW gun licence holders a fixed compensation fee based on type of firearm. Follow today’s news live Get our breaking news email , free app or daily news podcast...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-anwar-ibrahim-malaysia-between-the-superpowers-c696c92f7c",
+      "title": "Anwar Ibrahim: Malaysia between the superpowers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-16T21:23:03.000Z",
+      "summary": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-kushner-meets-with-hamas-to-advance-trump-s-gaza-2e9bd1178b",
       "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
       "tag": "US",
-      "publishedAt": "2026-08-16T21:04:48.000Z",
+      "publishedAt": "2026-08-16T21:16:17.000Z",
       "summary": "The president’s son-in-law met the Palestinian militant group’s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-death-toll-rises-to-84-from-capsized-ferry-in-zi-846229ebf9",
-      "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T21:03:53.000Z",
-      "summary": "The boat overturned during heavy winds near the Zambian border.",
+      "id": "news-ips-officer-s-mother-killed-in-u-p-s-ambedkar-na-5130f9be31",
+      "title": "IPS officer’s mother killed in U.P.’s Ambedkar Nagar, jewellery missing; probe underway",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/ips-officers-mother-killed-in-ups-ambedkar-nagar-jewellery-missing-probe-underway/article71353942.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-16T21:09:42.000Z",
+      "summary": "Police said a gold chain, nose pin, earrings and anklets were missing, while no other household items appeared disturbed and the family suspects thieves may have entered the house",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -30,46 +70,6 @@
       "tag": "US",
       "publishedAt": "2026-08-16T20:20:22.000Z",
       "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-west-asia-war-highlights-saudi-authorities-issue-2d277ad9e1",
-      "title": "West Asia war highlights: Saudi authorities issue warning for Jazan province along Yemen border",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-16-2026/article71351835.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T20:11:34.000Z",
-      "summary": "Iran offers a $30,000 bounty for killing, capturing U.S. soldiers; Israel vows to go after Hezbollah as it names another killed",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-belgian-wildfire-doubles-in-size-on-third-day-te-8272670542",
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T20:01:51.000Z",
-      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-republican-senator-denounces-trump-s-crazy-stupi-bbaca0ecf7",
-      "title": "Republican senator denounces Trump’s ‘crazy, stupid’ claims about MMR vaccine safety",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T19:58:31.000Z",
-      "summary": "Outgoing Louisiana senator Bill Cassidy, a medical doctor, voted to confirm anti-vaccine activist RFK Jr as health secretary before speaking out Republican senator Bill Cassidy...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-barrierless-tolling-makes-road-users-fall-in-lin-4c6bdb92d2",
-      "title": "Barrierless tolling makes road users fall in line, drop in number of e-notices at plazas",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/barrierless-tolling-makes-road-users-fall-in-line-drop-in-number-of-e-notices-at-plazas/articleshow/133281792.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-16T19:43:26.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israelis-harass-palestinian-owned-cafe-in-icelan-4ca0afa250",
-      "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+      "id": "news-five-teenagers-killed-and-four-other-people-inju-4212d781e4",
+      "title": "Five teenagers killed and four other people injured in Ireland car crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/five-teenagers-killed-and-four-other-people-injured-in-ireland-car-crash",
       "tag": "Europe",
-      "publishedAt": "2026-08-16T21:02:08.000Z",
-      "summary": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine",
+      "publishedAt": "2026-08-16T21:50:56.000Z",
+      "summary": "Police say one of the two vehicles involved was driving in the wrong direction on the M9 motorway in County Kildare Five teenagers have died and four other people have been seri...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-erdogan-says-hamas-acted-sincerely-criticises-is-3a1854f43c",
-      "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T20:55:19.000Z",
-      "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
+      "id": "news-how-pm-modi-has-changed-focus-of-independence-da-198e8acdc1",
+      "title": "How PM Modi has changed focus of Independence Day speeches",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/how-pm-modi-has-changed-focus-of-independence-day-speeches/articleshow/133282201.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-16T21:47:04.000Z",
+      "summary": "From Access To Aspiration, Problem To Potential",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-us-admiral-praises-uss-lincoln-crew-amid-reporte-13053ce0d2",
-      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-16T20:46:01.000Z",
-      "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
+      "id": "news-vande-mataram-row-congress-hits-out-at-shah-for--4c32dc95e6",
+      "title": "Vande Mataram row: Congress hits out at Shah for demanding apology",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/congress-hits-out-at-shah-for-demanding-apology/articleshow/133282011.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-16T21:35:14.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
