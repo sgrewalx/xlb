@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-08-17T21:16:20.318Z",
+  "updatedAt": "2026-08-17T22:13:47.519Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-what-are-your-retro-game-consoles-worth-ae89609cee",
-      "title": "What are your retro game consoles worth?",
+      "id": "tech-why-flash-drive-capacity-keeps-increasing-and-wh-c9840079d2",
+      "title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2237553/what-are-retro-game-consoles-worth",
+      "url": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today",
       "tag": "Technology",
-      "publishedAt": "2026-08-17T20:30:00.000Z",
-      "summary": "Many variables affect the value of retro game consoles today. Which ones are worth keeping, and which ones are destined for the trash?",
+      "publishedAt": "2026-08-17T21:30:00.000Z",
+      "summary": "While smaller drives can certainly still be found, there's a good reason why you don't often find them on retailers' shelves.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-what-is-el-ni-o-here-s-what-it-means-for-weather-84970a8bdc",
+      "title": "What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T21:28:42.000Z",
+      "summary": "This year’s El Niño is shaping up to be the strongest on record. This is what impacts to expect and how bad it could get.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-automation-startup-relay-shuts-down-staff-joi-797103850b",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T21:27:05.000Z",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-abc-s-livestreamed-news-show-is-powered-by-trend-4d227c8e86",
+      "title": "ABC’s livestreamed news show is powered by trending topics",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T20:59:23.000Z",
+      "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by V...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,36 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-17T20:23:09.000Z",
       "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-unprecedented-number-of-apple-users-received-rec-c9e89f9680",
-      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T20:18:35.000Z",
-      "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-this-r-rated-film-studio-wants-to-be-the-hbo-of--0a79e36b5a",
-      "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T20:18:17.000Z",
-      "summary": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-this-compact-glorious-mechanical-keyboard-is-jus-1f4ae32f55",
-      "title": "This compact Glorious mechanical keyboard is just $35",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T19:27:49.000Z",
-      "summary": "Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Gl...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-as-wisconsin-cities-flee-flock-its-shared-camera-f219b693c9",
-      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value",
+      "id": "tech-what-are-your-retro-game-consoles-worth-ae89609cee",
+      "title": "What are your retro game consoles worth?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2237553/what-are-retro-game-consoles-worth",
       "tag": "Technology",
-      "publishedAt": "2026-08-17T20:14:23.000Z",
-      "summary": "\"Network effect\" can run in reverse.",
+      "publishedAt": "2026-08-17T20:30:00.000Z",
+      "summary": "Many variables affect the value of retro game consoles today. Which ones are worth keeping, and which ones are destined for the trash?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-youtube-public-view-counts-will-likely-get-highe-2732a566c4",
-      "title": "YouTube public view counts will likely get higher starting next week",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2238611/youtube-public-view-counts-will-likely-get-higher-starting-next-week",
-      "tag": "Running",
-      "publishedAt": "2026-08-17T20:02:11.000Z",
-      "summary": "The platform will start tracking views the same way across video formats.",
+      "id": "tech-unprecedented-number-of-apple-users-received-rec-c9e89f9680",
+      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T20:18:35.000Z",
+      "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
