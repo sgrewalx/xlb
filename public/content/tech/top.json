@@ -1,45 +1,55 @@
 {
-  "updatedAt": "2026-08-17T17:16:55.825Z",
+  "updatedAt": "2026-08-17T18:22:51.592Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-feedly-attributes-weeklong-slowdown-to-bug-not-i-afd4e3408b",
-      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T17:10:59.000Z",
-      "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are a...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-samsung-might-be-making-a-new-foldable-that-s-ev-726633224b",
-      "title": "Samsung might be making a new foldable that's even wider than the Galaxy Z Fold 8",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T16:50:47.000Z",
-      "summary": "Samsung may have as many as five different foldable phones next year.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-analogue-pocket-gets-a-supreme-makeover-in-r-8f8a1478ca",
-      "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T16:40:32.000Z",
-      "summary": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-this-sub-7-000-sportscar-might-be-just-what-the--47b347975f",
-      "title": "This sub-$7,000 sportscar might be just what the future needs",
+      "id": "tech-hidden-airtag-reveals-amazon-is-trashing-rare-bo-1b07387c03",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
       "tag": "Technology",
-      "publishedAt": "2026-08-17T15:01:25.000Z",
-      "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
+      "publishedAt": "2026-08-17T18:13:47.000Z",
+      "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-is-forced-to-stop-favoring-its-own-apps-in-b45de48461",
+      "title": "Apple is forced to stop favoring its own apps in personal data collection prompts",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T18:12:36.000Z",
+      "summary": "A German competition authority said that Apple's data collection prompts favors its own apps versus third-party options.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-youtube-will-now-count-a-view-as-soon-as-a-video-540f5d80b7",
+      "title": "YouTube will now count a view as soon as a video starts playing",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T18:09:33.000Z",
+      "summary": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-youtube-is-changing-how-it-counts-views-to-give--0616e8b23b",
+      "title": "YouTube is changing how it counts views to give the numbers a boost",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T17:13:03.000Z",
+      "summary": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on A...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-claude-text-watermark-explained-how-anthropic-wi-9002046db6",
+      "title": "Claude Text Watermark Explained: How Anthropic Will Detect AI Content",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/news/claude-text-watermark-explained-how-anthropic-will-detect-ai-content-11921775",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T15:00:21.000Z",
+      "summary": "Anthropic has explained the technology behind Claude’s upcoming text watermarking system, which will use word-selection patterns to indicate whether the AI contributed to a pass...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-17T14:10:00.000Z",
       "summary": "Explore 5 insightful books that explain why we compare ourselves with others and how to build confidence beyond external validation.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-epic-games-store-confirmed-to-get-official-linux-43673e763b",
-      "title": "Epic Games Store Confirmed to Get Official Linux Support Soon",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/games/news/epic-games-store-linux-support-official-soon-steam-deck-11922009",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T14:09:44.000Z",
-      "summary": "Epic Games Store is officially coming to Linux soon. Epic Games has confirmed that its storefront will get a native Linux support. The company did not share a release timeline,...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-amazon-which-started-off-selling-books-is-destro-50ad58f2f6",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+      "id": "tech-why-4k-blu-ray-always-beats-4k-streaming-for-pic-4d4ff30267",
+      "title": "Why 4K Blu-ray always beats 4K streaming for picture quality",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2237552/why-4k-blu-ray-better-quality-than-streaming",
       "tag": "Technology",
-      "publishedAt": "2026-08-17T16:38:44.000Z",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "publishedAt": "2026-08-17T17:30:00.000Z",
+      "summary": "If you're after the best picture quality, you'll always want to go with a disc.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sonos-finally-added-live-activities-controls-for-0339f8d0d8",
-      "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+      "id": "tech-apple-is-reportedly-expanding-apple-wallet-ids-t-d552497a23",
+      "title": "Apple is reportedly expanding Apple Wallet IDs to four more states",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2238436/apple-is-reportedly-expanding-apple-wallet-id-to-four-more-states",
       "tag": "Technology",
-      "publishedAt": "2026-08-17T16:38:35.000Z",
-      "summary": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. T...",
+      "publishedAt": "2026-08-17T17:22:15.000Z",
+      "summary": "North Carolina's DMV has confirmed plans for a mobile ID program that'll eventually support Apple Wallet.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
