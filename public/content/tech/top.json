@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-17T22:13:47.519Z",
+  "updatedAt": "2026-08-17T23:13:07.414Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-us-vaccination-rates-fall-again-as-exemptions-co-ef0568b36f",
+      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T22:08:47.000Z",
+      "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-why-flash-drive-capacity-keeps-increasing-and-wh-c9840079d2",
       "title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
@@ -40,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-17T20:59:23.000Z",
       "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by V...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-moon-s-shadow-raced-across-the-heart-of-spai-84e545014e",
-      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T20:23:09.000Z",
-      "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-former-spacex-engineers-are-building-a-robotic-f-47cf99d45c",
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts",
+      "tag": "Technology",
+      "publishedAt": "2026-08-17T21:18:49.000Z",
+      "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-what-are-your-retro-game-consoles-worth-ae89609cee",
       "title": "What are your retro game consoles worth?",
       "source": "Engadget",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-17T20:30:00.000Z",
       "summary": "Many variables affect the value of retro game consoles today. Which ones are worth keeping, and which ones are destined for the trash?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-unprecedented-number-of-apple-users-received-rec-c9e89f9680",
-      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators",
-      "tag": "Technology",
-      "publishedAt": "2026-08-17T20:18:35.000Z",
-      "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
