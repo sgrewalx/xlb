@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-08-18T13:34:43.309Z",
+  "updatedAt": "2026-08-18T14:22:37.637Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-anthro-energy-breaks-ground-on-factory-that-coul-afe7baa92e",
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries",
+      "tag": "Technology",
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-samsung-galaxy-s26-fe-alleged-renders-leaked-by--afae9f9e7a",
+      "title": "Samsung Galaxy S26 FE Alleged Renders Leaked by Tipster; Design, Colour Options Revealed",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s26-fe-renders-leak-design-colour-options-11926154",
+      "tag": "Technology",
+      "publishedAt": "2026-08-18T13:48:09.000Z",
+      "summary": "The Samsung Galaxy S26 FE has been sighted on various certification platforms lately, which suggests its launch could be on the horizon. Although the South Korean tech conglomer...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-comcast-s-new-home-protection-setup-uses-wi-fi-t-bd5ff76530",
+      "title": "Comcast's new home protection setup uses Wi-Fi to detect motion",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2239010/comcast-new-home-protection-setup-uses-wifi-to-detect-motion",
+      "tag": "Technology",
+      "publishedAt": "2026-08-18T13:38:32.000Z",
+      "summary": "Xfinity Shield is designed to bring home, family and cybersecurity protection together.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-comcast-is-turning-millions-of-its-routers-into--a479c1f30f",
       "title": "Comcast is turning millions of its routers into motion detectors",
@@ -13,23 +43,13 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-you-can-use-your-starlink-mini-at-home-but-it-ll-0514ba2fd7",
-      "title": "You can use your Starlink Mini at home, but it'll cost you",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2235272/starlink-mini-residential-home-use-cost-more",
+      "id": "tech-microsoft-copilot-reveals-secret-input-that-allo-911550b9c6",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked",
       "tag": "Technology",
-      "publishedAt": "2026-08-18T13:30:00.000Z",
-      "summary": "Starlink is an attractive option for those who live in remote areas or travel frequently, but the Mini isn't ideal for residential use.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-s-new-macos-update-reportedly-contains-a-v-2f14696618",
-      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T13:28:51.000Z",
-      "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
+      "publishedAt": "2026-08-18T13:00:04.000Z",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -63,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-oppo-find-x10-could-feature-6-59-inch-1-5k-displ-fbf71c1b52",
-      "title": "Oppo Find X10 Could Feature 6.59-Inch 1.5K Display With BT.2020 Colour Gamut",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-display-features-expected-colour-gamut-weibo-leak-11926166",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T12:11:02.000Z",
-      "summary": "The Oppo Find X10 could bring a wider colour gamut and improved eye-care features to the company's flagship lineup. A new display substrate is reportedly being developed with BT...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-openai-makes-chatgpt-less-human-for-teens-in-new-714c0cf3a0",
       "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
       "source": "BBC Technology",
@@ -80,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-18T11:26:26.000Z",
       "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-as-temperatures-get-hotter-pesticides-are-more-d-14b18e1169",
-      "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T11:07:49.000Z",
-      "summary": "Research shows heat amplifies the dangers of pesticides.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-abc-sues-the-fcc-over-trump-and-carr-s-campaign--1ce830c303",
-      "title": "ABC sues the FCC over Trump and Carr’s campaign of threats",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
+      "id": "tech-warp-s-new-system-is-an-out-of-the-box-software--e2f992ba13",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
       "tag": "Technology",
-      "publishedAt": "2026-08-18T13:27:43.000Z",
-      "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed...",
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-polaroid-s-new-pok-mon-collection-captures-memor-a07f466b7e",
-      "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
+      "id": "tech-openai-launches-a-safer-chatgpt-for-teens-years--d166b35447",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
       "tag": "Technology",
-      "publishedAt": "2026-08-18T13:00:00.000Z",
-      "summary": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pokémon. The new co...",
+      "publishedAt": "2026-08-18T13:50:30.000Z",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
