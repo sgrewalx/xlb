@@ -1,25 +1,55 @@
 {
-  "updatedAt": "2026-08-18T21:15:07.640Z",
+  "updatedAt": "2026-08-18T22:13:47.216Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-erin-patterson-woman-convicted-in-australia-s-mu-9cdc1ae561",
-      "title": "Erin Patterson, Woman Convicted in Australia’s Mushroom Murder Case, Appeals",
+      "id": "news-a-rescue-mission-in-remote-colombia-792389f847",
+      "title": "A Rescue Mission in Remote Colombia",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/18/world/australia/erin-patterson-appeal-mushroom-murder-australia.html",
+      "url": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
       "tag": "US",
-      "publishedAt": "2026-08-18T21:00:06.000Z",
-      "summary": "An Australian woman, Erin Patterson, was found guilty of murdering three of her husband’s relatives and trying to kill a fourth by serving them deadly mushrooms.",
+      "publishedAt": "2026-08-18T22:06:32.000Z",
+      "summary": "Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-tupac-shakur-murder-trial-former-security-office-f65067cb03",
-      "title": "Tupac Shakur murder trial: former security officer describes witnessing aftermath of shooting – latest updates",
+      "id": "news-jon-ossoff-blasts-draft-dodging-crook-president--6315eb4275",
+      "title": "Jon Ossoff blasts ‘draft-dodging, crook president’ in latest war of words with Trump – US politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "tag": "Running",
+      "publishedAt": "2026-08-18T21:54:24.000Z",
+      "summary": "The Democratic senator, who is currently running for re-election in Georgia, says Trump ‘has plunged our nation recklessly into a war he knows not how to end or to win’ Sign up...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-bolivia-arrests-political-adviser-to-latin-ameri-52f273c00a",
+      "title": "Bolivia arrests political adviser to Latin American right-wingers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-18T20:52:57.000Z",
-      "summary": "William Heidmeyer recounts hearing ‘three volleys’ of gunfire and seeing one man holding a pistol What we know about Tupac Shakur’s death and what to expect from murder trial Di...",
+      "publishedAt": "2026-08-18T21:50:43.000Z",
+      "summary": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-why-is-pm-cares-fund-keeping-large-sums-idle-ask-2b25162b87",
+      "title": "Why is PM CARES Fund keeping large sums idle, asks RTI activist",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/pm-cares-fund-audit-2024-25-domestic-foreign-donations/article71360330.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-18T21:34:53.000Z",
+      "summary": "PM CARES Fund, a public charitable trust established in March 2020 to support relief efforts during public health emergencies and other disasters, is chaired by the Prime Minist...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-trump-s-voter-id-praise-follows-gyanesh-kumar-se-de8ee4cb97",
+      "title": "Trump's voter ID praise follows Gyanesh Kumar - Sergio Gor meet",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/trumps-voter-id-praise-follows-gyanesh-kumar-sergio-gor-meet/articleshow/133332198.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-18T21:26:43.000Z",
+      "summary": "Recently, US President Donald Trump commended India’s voter ID system after a meeting between Indian election official Gyanesh Kumar and US Ambassador Sergio Gor. Kumar detailed...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -43,36 +73,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-russia-reports-ukrainian-drone-strike-near-zapor-00290cf08f",
-      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-18T20:45:42.000Z",
-      "summary": "Concern over the security of Europe's largest nuclear plant has been rife since Russia launched its full-scale war.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-nepal-break-agniveer-hiring-deadlock-gorkha-vete-2a79a57e5f",
-      "title": "Nepal: Break Agniveer hiring deadlock, Gorkha veterans press Balen government",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/nepal-break-agniveer-hiring-deadlock-gorkha-veterans-press-balen-government/articleshow/133332119.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-18T20:43:53.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-h1n1-cases-on-the-rise-experts-say-no-cause-for--a5e7f3a601",
-      "title": "H1N1 cases on the rise, experts say no cause for alarm",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/sci-tech/health/h1n1-cases-spike-across-the-country/article71361535.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-18T20:25:35.000Z",
-      "summary": "Doctors say no cause for alarm, but children with asthma may need intervention; Delhi reports six times the number of cases as last year; early testing and treatment may stem th...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-2-mbbs-interns-sexually-harassed-at-haryana-medi-b93401c321",
       "title": "2 MBBS Interns Sexually Harassed At Haryana Medical College, Accused Arrested",
       "source": "NDTV",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-a-mother-s-quest-to-rescue-her-son-from-russian--28854ecaa7",
-      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-      "tag": "US",
-      "publishedAt": "2026-08-18T20:55:38.000Z",
-      "summary": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in ea...",
+      "id": "news-tupac-shakur-murder-trial-former-security-office-0fc1f7b531",
+      "title": "Tupac Shakur murder trial: former security officer describes witnessing aftermath of shooting – latest updates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+      "tag": "Europe",
+      "publishedAt": "2026-08-18T21:52:00.000Z",
+      "summary": "William Heidmeyer recounts hearing ‘three volleys’ of gunfire and seeing one man holding a pistol What we know about Tupac Shakur’s death and what to expect from murder trial Di...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-australia-politics-live-ndis-reforms-to-pass-par-f5f2869c0e",
-      "title": "Australia politics live: NDIS reforms to pass parliament today after 63 amendments get Coalition on side",
+      "id": "news-australia-politics-live-labor-very-confident-tha-02bfb2c290",
+      "title": "Australia politics live: Labor ‘very confident’ that tax changes won’t lift rents by 30%; NDIS reforms to pass parliament today",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-08-18T20:52:41.000Z",
-      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast Good morni...",
+      "publishedAt": "2026-08-18T21:50:00.000Z",
+      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsin...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-abc-is-right-to-stand-up-to-pressure-tactics-fro-a4b8ab4c2d",
-      "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
+      "id": "news-harvard-to-pay-53m-over-theft-and-sale-of-human--d9cc394c28",
+      "title": "Harvard to pay $53m over theft and sale of human remains from medical school",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
+      "url": "https://www.theguardian.com/education/2026/aug/18/harvard-human-remains-lawsuit",
       "tag": "Europe",
-      "publishedAt": "2026-08-18T20:51:57.000Z",
-      "summary": "Brendan Carr has ‘shown he won’t hesitate to weaponize FCC against outlets administration dislikes’, says Foundation for Individual Rights and Expression ABC sues Trump’s media...",
+      "publishedAt": "2026-08-18T21:44:31.000Z",
+      "summary": "Cedric Lodge, 58, sentenced in December to eight years in prison for stealing and selling body parts in national scheme Harvard University has agreed to pay a $53m settlement to...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
