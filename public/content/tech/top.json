@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-08-18T16:19:05.351Z",
+  "updatedAt": "2026-08-18T17:18:07.775Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-abc-sues-the-fcc-to-stop-an-early-review-of-its--4f3767faa6",
-      "title": "ABC sues the FCC to stop an early review of its TV licenses",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2239181/abc-sues-the-fcc-to-stop-an-early-review-of-its-tv-licences",
+      "id": "tech-apple-overhauls-its-eu-app-store-fees-loosens-ru-b9c8a3d13c",
+      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores",
       "tag": "Technology",
-      "publishedAt": "2026-08-18T16:00:04.000Z",
-      "summary": "ABC accused the Trump Administration of waging \"a retaliatory campaign\" because it doesn't like what the network broadcasts.",
+      "publishedAt": "2026-08-18T17:12:13.000Z",
+      "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bluesky-says-its-recent-outage-was-caused-by-ano-f03cffd244",
-      "title": "Bluesky says its recent outage was caused by another DDoS attack",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack",
+      "id": "tech-apple-squashes-eu-beef-with-new-app-store-rules-ff68e6dbcd",
+      "title": "Apple squashes EU beef with new App Store rules",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
       "tag": "Technology",
-      "publishedAt": "2026-08-18T15:59:48.000Z",
-      "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
+      "publishedAt": "2026-08-18T16:48:26.000Z",
+      "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alterna...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-meta-trial-that-could-reshape-facebook-instagram-08ad7d5e33",
+      "title": "Meta trial that could reshape Facebook, Instagram gets underway",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/business/Industry/meta-trial-that-could-reshape-facebook-instagram-gets-underway/article71361969.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-08-18T16:44:39.000Z",
+      "summary": "Meta founder and CEO Mark Zuckerberg is expected to testify during the multi-week trial, as is Instagram head Adam Mosseri",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-passkey-vs-password-what-s-the-difference-and-wh-407647cf19",
+      "title": "Passkey vs. password: What's the difference and which is better?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2238783/passkey-vs-password-differences-which-better",
+      "tag": "Technology",
+      "publishedAt": "2026-08-18T16:30:00.000Z",
+      "summary": "Passwords are less secure than passkeys, even if you use a password manager. Here's why and how to get started with passkeys.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-peacock-is-raising-prices-by-up-to-3-63673220a8",
-      "title": "Peacock is raising prices by up to $3",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T14:11:39.000Z",
-      "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by V...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-samsung-galaxy-s26-fe-alleged-renders-leaked-by--afae9f9e7a",
       "title": "Samsung Galaxy S26 FE Alleged Renders Leaked by Tipster; Design, Colour Options Revealed",
       "source": "Gadgets 360",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-18T13:48:09.000Z",
       "summary": "The Samsung Galaxy S26 FE has been sighted on various certification platforms lately, which suggests its launch could be on the horizon. Although the South Korean tech conglomer...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-smartphone-buyers-seek-ai-phones-while-performan-c867dd2bb6",
-      "title": "Smartphone buyers seek AI phones while performance remains a key ask, report",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/smartphone-buyers-seek-ai-phones-while-performance-remains-a-key-ask-report/article71360604.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T12:58:44.000Z",
-      "summary": "Nearly 25% buyers said they need a phone that can understand and suggest action, 18% needed it for generative photo editing, 17% for doing visual search",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-hoverit-builds-loitering-munitions-and-surveilla-f3aa37da89",
-      "title": "HoverIt builds loitering munitions and surveillance drones in Lucknow",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/hoverit-loitering-munitions-surveillance-drones",
+      "id": "tech-comcast-adds-motion-sensing-to-millions-of-its-n-03a0a68295",
+      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch",
       "tag": "Technology",
-      "publishedAt": "2026-08-18T15:46:44.000Z",
-      "summary": "The company designs and manufactures unmanned systems ranging from compact surveillance drones to strike platforms and flew India's first jet-powered loitering munition this month.",
+      "publishedAt": "2026-08-18T16:39:05.000Z",
+      "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-rechargion-builds-sodium-ion-battery-cells-from--4047423f96",
-      "title": "Rechargion builds sodium-ion battery cells from materials India already has",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/rechargion-sodium-ion-battery-cells",
+      "id": "tech-peacock-is-raising-subscription-prices-for-the-f-1b19cb2624",
+      "title": "Peacock is raising subscription prices for the fourth time in as many years",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2239222/peacock-is-raising-subscription-prices-for-the-fourth-time-in-as-many-years",
       "tag": "Technology",
-      "publishedAt": "2026-08-18T15:46:14.000Z",
-      "summary": "The Pune-based CSIR-NCL spin-off has developed sodium-ion cells using its own hard carbon and electrode materials, and has put them through independent safety testing at ARAI.",
+      "publishedAt": "2026-08-18T16:28:05.000Z",
+      "summary": "Peacock is raising subscription prices for the fourth time in as many years.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
