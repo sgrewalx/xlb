@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-08-19T09:22:38.091Z",
+  "updatedAt": "2026-08-19T10:18:33.185Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-flock-has-a-powerful-new-ai-tool-for-police-we-g-2c26bf2fda",
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "id": "tech-framework-gave-its-12-inch-laptop-some-hardware--6961d868c9",
+      "title": "Framework gave its 12-inch laptop some hardware upgrades",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T10:14:26.000Z",
+      "summary": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-can-google-make-its-pixel-perfect-in-india-expla-b96b1d3920",
+      "title": "Can Google make its Pixel perfect in India? | Explained",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/can-google-make-its-pixel-perfect-in-india-explained/article71364249.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T10:14:06.000Z",
+      "summary": "India can be the Google Pixel’s biggest market, given that it has the potential and scale to do so, but the company needs to work on its retail presence",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-relativity-networks-raises-22-million-to-bring-a-e206707217",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-reverse-lookup-service-exposed-millions-of-photo-d68d7b93fd",
+      "title": "Reverse-Lookup Service Exposed Millions of Photos of People’s Faces",
       "source": "Wired",
-      "url": "https://www.wired.com/story/flock-safety-os-investigate",
+      "url": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T09:00:00.000Z",
-      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than...",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "summary": "The people-search tool ClarityCheck says its reverse image search service is “private and secure”—but it left a database containing more than 9 million image files exposed.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-zerodha-co-founder-nikhil-kamath-infuses-rs-200--00e2eca64c",
-      "title": "Zerodha Co-founder Nikhil Kamath infuses Rs 200 Cr in Ctrls’ Rs 250 Cr fund raise",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/zerodha-co-founder-nikhil-kamath-infuses-rs-200-cr-in-ctrls-rs-250-cr-fund-raise",
-      "tag": "Technology",
-      "publishedAt": "2026-08-19T08:42:40.000Z",
-      "summary": "Zerodha Co-founder Nikhil Kamath has invested Rs 200 crore in CtrlS, the India based hyperscale data centre operator, alongside a Rs 50 crore investment by entrepreneur Sreeram...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-samsung-galaxy-z-fold-8-ultra-and-more-get-augus-486ce7a6ec",
-      "title": "Samsung Galaxy Z Fold 8 Ultra and More Get August 2026 Security Patch: Report",
+      "id": "tech-oneplus-16-display-details-again-leaked-online-t-7615a3838d",
+      "title": "OnePlus 16 Display Details Again Leaked Online; Tipped to Feature ColorOS 17",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-devices-watch-5-pro-z-fold-flip-ultra-8-august-2026-security-update-report-11930042",
+      "url": "https://www.gadgets360.com/mobiles/news/oneplus-16-display-specifications-features-leak-weibo-11930357",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T08:29:55.000Z",
-      "summary": "Samsung's August 2026 SMR now seems to be reaching more Galaxy devices. It was first released for the Galaxy Watch 5 Pro, followed by the Galaxy Z Fold 8 series and several othe...",
+      "publishedAt": "2026-08-19T09:57:56.000Z",
+      "summary": "A tipster has claimed once again that the OnePlus 16 will come with a 165Hz refresh rate display. It is said to debut with BOE's next-generation oriental screen. It could ship w...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-fast-approval-health-insurance-policies-in-india-b7aec0480d",
+      "title": "Fast-approval health insurance policies in India: Plans, benefits, and who should consider them",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/fast-approval-health-insurance-policies-india-plans-benefits-who-should-consider-them",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T09:16:19.000Z",
+      "summary": "From zero-waiting-period plans to flexible coverage options, fast-approval health insurance policies can provide coverage soon after activation. Here’s a look at some of the opt...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -40,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-19T07:11:10.000Z",
       "summary": "ByteDance and Tencent have received 10,000 H200 chips each, the Financial Times says, and other Chinese companies could follow.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-spacex-shares-skyrocket-as-money-raised-hits-85--44c5400773",
-      "title": "SpaceX shares skyrocket as money raised hits $85.7 billion",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/spacex-shares-skyrocket-as-money-raised-hits-857-billion/article71107601.ece",
-      "tag": "Running",
-      "publishedAt": "2026-08-19T05:11:41.000Z",
-      "summary": "Demand for SpaceX's shares was so strong that the banks running the sale exercised a so-called greenshoe option",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,26 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-cursor-capitalizes-on-github-frustration-launche-18bcaf6b9e",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T22:14:25.000Z",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-steelseries-comfy-wireless-gaming-headset-is-nea-ab4e3ff0eb",
-      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T20:01:01.000Z",
-      "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunc...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-iphone-18-pro-s-a20-pro-chip-could-be-apple-s-fi-12bfa2c62b",
-      "title": "iPhone 18 Pro’s A20 Pro Chip Could Be Apple’s First SoC Built on TSMC’s 2nm Process, Tipped to Deliver Major Performance Gains",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/iphone-18-pro-performance-improvement-apple-a20-pro-chipset-tipped-specifications-features-11929853",
+      "id": "tech-hot-or-not-built-the-internet-we-re-still-swipin-0a49fe5088",
+      "title": "Hot or Not Built the Internet We’re Still Swiping Through",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T07:45:37.000Z",
-      "summary": "Apple will launch the first mobile chipset fabricated using TSMC's 2nm process, according to a tipster citing supply chain sources. The company is expected to launch the iPhone...",
+      "publishedAt": "2026-08-19T09:45:00.000Z",
+      "summary": "The early website Hot or Not taught its users to rank people at scale. Twenty-six years later, dating apps are trying to escape the culture the site helped create.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-may-add-camera-control-button-to-future-ip-e1efcb2633",
-      "title": "Apple May Add Camera Control Button to Future iPad, Patent Reveals",
+      "id": "tech-google-says-gboard-rambler-switches-to-offline-m-c3adc58129",
+      "title": "Google Says Gboard Rambler Switches to Offline Mode After Usage Limit: Report",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/tablets/news/apple-ipad-camera-control-buttone-expected-feature-launch-report-11929757",
+      "url": "https://www.gadgets360.com/ai/news/google-gboard-rambler-usage-limit-explained-report-11930329",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T07:43:35.000Z",
-      "summary": "Apple's newly granted patent describes a pressure-sensitive physical control that could be used on a future tablet. The mechanism can detect different levels of force, determine...",
+      "publishedAt": "2026-08-19T09:30:24.000Z",
+      "summary": "Google has clarified the fallback behaviour of Gboard Rambler after users reach its usage cap. The Gemini-powered voice input feature continues processing speech through its off...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
