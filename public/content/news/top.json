@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-08-19T00:45:37.816Z",
+  "updatedAt": "2026-08-19T02:13:23.625Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-australia-politics-live-one-nation-files-three-y-8b5e640464",
+      "id": "news-chinese-robotics-giant-unitree-soars-in-stock-ma-d8e89e524f",
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-08-19T02:09:46.000Z",
+      "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-australia-politics-live-one-nation-files-three-y-41ff5678fa",
       "title": "Australia politics live: One Nation files three years of overdue financial returns hours before deadline",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-08-19T00:44:23.000Z",
+      "publishedAt": "2026-08-19T01:59:29.000Z",
       "summary": "Meanwhile Liberal MP Andrew Wallace says concerns remain over gambling bill after crossing the floor on Tuesday. Follow today’s news live Follow our breaking news email , free a...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-west-asia-war-live-turkiye-rejects-israeli-claim-e57ecb9692",
+      "title": "West Asia war LIVE: Turkiye rejects Israeli claims after strike on Syria air base",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-news-donald-trump-live-updates-on-august-19-2026/article71363121.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T01:47:15.000Z",
+      "summary": "Israel and Syria agreed to a status quo in security matters, which Syria was on the verge of breaching by permitting Turkish troops to deploy at an airbase near Aleppo, said Ben...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-how-ebola-became-the-deadliest-outbreak-in-dr-co-fc381d66c2",
+      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T00:53:34.000Z",
+      "summary": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -20,36 +50,6 @@
       "tag": "India",
       "publishedAt": "2026-08-19T00:18:09.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-quebec-separatist-says-no-independence-referendu-64deac795a",
-      "title": "Quebec separatist says no independence referendum while Trump in office",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-19T00:17:01.000Z",
-      "summary": "Leader of Canadian province's secessionist party says debate over independence stymied by turbulence in US politics.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-harvard-agrees-to-pay-millions-after-morgue-mana-b61774dc67",
-      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-19T00:07:37.000Z",
-      "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-census-2027-questionnaire-seeks-parents-religion-565129f16f",
-      "title": "Census 2027 questionnaire seeks parents’ religion, place of birth up to village level",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/census-2027-questionnaire-seeks-parents-religion-place-of-birth-up-to-village-level/article71361794.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-18T23:20:32.000Z",
-      "summary": "Besides the open field option to declare caste, respondents can choose “Does not want to declare Caste” and “No Caste”",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-erin-patterson-appeal-live-mushroom-murderer-cha-cdd5c85dc0",
+      "id": "news-erin-patterson-appeal-live-mushroom-murderer-cha-37a18f95c7",
       "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-08-19T00:39:10.000Z",
-      "summary": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Get our breaking news email , free app or daily news podcast J...",
+      "publishedAt": "2026-08-19T01:55:59.000Z",
+      "summary": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Mushroom murderer Erin Patterson was convicted over three deat...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-tupac-shakur-murder-trial-you-better-treat-me-as-d433961639",
-      "title": "Tupac Shakur murder trial: ‘You better treat me as a hostile witness,’ Suge Knight associate testifies – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-      "tag": "Europe",
-      "publishedAt": "2026-08-19T00:35:18.000Z",
-      "summary": "This live blog is now closed. What we know about Tupac Shakur’s death and what to expect from murder trial District Court Judge Carli Kierney relayed a few questions directly fr...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-florida-primaries-live-governor-matchup-set-demo-11b7161e7d",
-      "title": "Florida primaries live: governor matchup set; Democratic socialist shocks establishment-backed nominee in Senate race",
+      "id": "news-florida-primaries-governor-matchup-set-democrati-d8793a9cae",
+      "title": "Florida primaries: governor matchup set; Democratic socialist shocks establishment-backed nominee in Senate race – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-08-19T00:35:15.000Z",
-      "summary": "Trump-backed Byron Donalds and Democrat David Jolly race to succeed term-limited governor Ron DeSantis; Angie Nixon upsets Alex Vindman in Senate primary Donalds and Jolly to fa...",
+      "publishedAt": "2026-08-19T01:55:42.000Z",
+      "summary": "This live blog is now closed. Donalds and Jolly to face off in Florida governor race Democratic socialist Angie Nixon wins Senate primary Sign up for the US Breaking News email...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-meta-hooked-children-and-misled-public-prosecuto-f63217c6fb",
+      "title": "Meta hooked children and misled public: prosecutors",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/meta-hooked-children-and-misled-public-prosecutors/article71363109.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T01:38:47.000Z",
+      "summary": "In what many experts have called social media's ‘big tobacco moment’, a coalition of States is asking that Meta be penalized by around $200 billion for designing products addict...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
