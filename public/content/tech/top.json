@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-08-19T22:14:18.027Z",
+  "updatedAt": "2026-08-19T23:13:45.516Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-openai-seeks-to-one-up-anthropic-with-new-custom-7b971fdb82",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
+      "id": "tech-elon-musk-is-expected-to-point-his-money-machine-0fca12498f",
+      "title": "Elon Musk Is Expected to Point His Money Machine at Texas",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T22:10:46.000Z",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "publishedAt": "2026-08-19T23:00:00.000Z",
+      "summary": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-does-giving-a-camera-wings-dodge-the-fcc-s-drone-32238f3f3a",
+      "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T22:35:20.000Z",
+      "summary": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the bran...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-waymo-s-cheaper-next-gen-robotaxi-is-now-open-to-2246f3724c",
+      "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T22:25:01.000Z",
+      "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,26 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-19T20:21:59.000Z",
       "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nielsen-is-leaning-more-on-wearables-to-hear-wha-bac5b6248a",
-      "title": "Nielsen is leaning more on wearables to hear what people are watching",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
-      "tag": "Technology",
-      "publishedAt": "2026-08-19T19:53:09.000Z",
-      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partn...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-i-saw-the-future-of-ai-in-a-robot-that-can-learn-cf25a8c5fc",
-      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers",
-      "tag": "Technology",
-      "publishedAt": "2026-08-19T19:30:00.000Z",
-      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-openai-seeks-to-one-up-anthropic-with-new-custom-7b971fdb82",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T22:10:46.000Z",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-cognition-ceo-denies-report-that-spacex-tried-to-63684324c8",
       "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-19T21:51:23.000Z",
       "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-travis-kalanick-kicks-off-another-round-of-vc-ba-0417f11cfe",
-      "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful",
-      "tag": "Technology",
-      "publishedAt": "2026-08-19T21:48:24.000Z",
-      "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
