@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-08-19T21:16:09.389Z",
+  "updatedAt": "2026-08-19T22:14:18.027Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-waymo-ojai-vans-are-now-available-for-all-riders-a9f78a6fce",
-      "title": "Waymo Ojai vans are now available for all riders in three cities",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities",
+      "id": "tech-openai-seeks-to-one-up-anthropic-with-new-custom-7b971fdb82",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T21:07:58.000Z",
-      "summary": "It's a full rollout for the driverless vans in San Francisco, Phoenix and Los Angeles.",
+      "publishedAt": "2026-08-19T22:10:46.000Z",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-valve-steam-frame-videos-show-how-to-wear-the-he-80cc5f8eaf",
+      "title": "Valve Steam Frame videos show how to wear the headset, perfect the fit and sign in",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T21:14:31.000Z",
+      "summary": "Eight leaked Steam Frame videos are informative and kinda silly.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,16 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-19T20:21:59.000Z",
       "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-rillet-raises-100m-series-c-at-1b-valuation-2-ye-27b8a3ac4a",
-      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth",
-      "tag": "Technology",
-      "publishedAt": "2026-08-19T20:12:33.000Z",
-      "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-pok-mon-and-polaroid-are-collaborating-on-three--460e1171ad",
-      "title": "Pokémon and Polaroid are collaborating on three new adorable cameras",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2240387/pokemon-polaroid-collaboration-cameras-coming-soon",
+      "id": "tech-cognition-ceo-denies-report-that-spacex-tried-to-63684324c8",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T20:27:28.000Z",
-      "summary": "The new cameras are prettier versions of Polaroid Now and Polaroid Go.",
+      "publishedAt": "2026-08-19T21:51:23.000Z",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-flight-attendants-freaked-out-that-google-is-buy-e6e58b1c43",
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data",
+      "id": "tech-travis-kalanick-kicks-off-another-round-of-vc-ba-0417f11cfe",
+      "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T20:04:41.000Z",
-      "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+      "publishedAt": "2026-08-19T21:48:24.000Z",
+      "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
