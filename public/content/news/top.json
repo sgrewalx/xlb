@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-08-19T14:24:09.952Z",
+  "updatedAt": "2026-08-19T15:22:22.716Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-rajamahendravaram-court-grants-two-day-police-cu-3a452dbe74",
-      "title": "Rajamahendravaram court grants two-day police custody of hit-and-run accused",
+      "id": "news-jump-in-energy-bills-drives-uk-inflation-to-high-f6ac1d369e",
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-08-19T15:19:55.000Z",
+      "summary": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-six-arrested-for-hunting-blackbuck-in-bidar-fore-0cf68b80c2",
+      "title": "Six arrested for hunting blackbuck in Bidar forests",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rajamahendravaram-court-grants-two-day-police-custody-of-hit-and-run-accused/article71364706.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/six-arrested-for-hunting-blackbuck-in-bidar-forests/article71365703.ece",
       "tag": "India",
-      "publishedAt": "2026-08-19T14:21:43.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-08-19T15:18:13.000Z",
+      "summary": "The Forest Department has seized two four-wheelers and a rifle used in the crime",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-a-democratic-socialist-win-and-losses-for-trump--8904d57356",
+      "title": "A democratic socialist win and losses for Trump allies: takeaways from primaries in three key states",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/key-takeaways-primaries-florida-alaska-wyoming",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T15:14:16.000Z",
+      "summary": "Elections in Florida, Alaska and Wyoming provide a sense of how voters are feeling ahead of November’s midterms Primaries in Florida, Alaska and Wyoming held on Tuesday provided...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-palestinian-refugee-and-two-relatives-drown-off--2a628d190b",
+      "title": "Palestinian refugee and two relatives drown off English coast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T14:52:39.000Z",
+      "summary": "A girl is taken to hospital in critical condition in what PM Burnham calls a 'terrible family tragedy'.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-send-us-your-questions-about-the-iran-war-c74035a3ec",
+      "title": "Send Us Your Questions About the Iran War",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/19/world/iran-war-reader-questions.html",
+      "tag": "US",
+      "publishedAt": "2026-08-19T14:47:37.000Z",
+      "summary": "Times reporters who cover the war, diplomacy, energy and the broader Middle East are joining our “Ask a Correspondent” feature as the conflict nears the six-month mark. Let us k...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-government-planning-to-bring-e10-back-clamour-gr-7316532ac2",
+      "title": "Government planning to bring E10 back? Clamour grows after top bureaucrat's remark",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/government-planning-to-bring-e10-back-clamour-grows-after-top-bureaucrats-remark/articleshow/133351117.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-19T14:47:07.000Z",
+      "summary": "E20 is petrol containing 20% ethanol and 80% petrol. The government has promoted higher ethanol blending as a way to reduce crude oil imports, save foreign exchange and improve...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-school-assembly-news-headlines-august-20-top-nat-7a02337442",
+      "title": "School Assembly News Headlines (August 20): Top National, International, Sports News",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-august-20-top-national-international-sports-news-11931998",
+      "tag": "India",
+      "publishedAt": "2026-08-19T14:31:09.000Z",
+      "summary": "Today's national highlights include major policy moves, exam and mid-day meal controversies, and a surprising university answer-key mixup.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,66 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-south-korea-shortens-war-games-with-us-citing-wa-1a4d6dce5b",
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-19T14:16:27.000Z",
-      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-ukrainian-diver-arrested-in-croatia-over-nord-st-220f41064c",
-      "title": "Ukrainian diver arrested in Croatia over Nord Stream pipeline bombings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/19/ukrainian-diver-arrested-in-croatia-over-nord-stream-pipeline-bombings",
-      "tag": "Europe",
-      "publishedAt": "2026-08-19T14:14:54.000Z",
-      "summary": "Berlin to seek suspect’s extradition for 2022 explosions that damaged gas pipelines to Russia A Ukrainian man has been arrested in Croatia as part of an investigation into the 2...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-after-youth-outcry-vietnam-says-former-official--f3d4fcd27c",
-      "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/19/world/asia/vietnam-crash-tree-55-community-party-official.html",
-      "tag": "US",
-      "publishedAt": "2026-08-19T14:09:23.000Z",
-      "summary": "Young people are calling for justice after a former Communist Party official killed a teenager in a car crash. The government’s response has been surprising.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-two-mumbai-doctors-to-receive-pakistan-s-highest-8f675c28d1",
-      "title": "Two Mumbai doctors to receive Pakistan’s highest civilian honour for keeping Jinnah’s illness secret",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/two-mumbai-doctors-to-receive-pakistans-highest-civilian-honour-for-keeping-jinnahs-illness-secret/articleshow/133350510.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-19T14:01:05.000Z",
-      "summary": "In a remarkable recognition, two Parsi physicians have been nominated posthumously for Pakistan's prestigious civilian award. They upheld the confidentiality surrounding Muhamma...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-mourinho-fires-real-madrid-shot-at-barcelona-say-ee5661e419",
-      "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-19T13:24:34.000Z",
-      "summary": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-should-india-keep-upi-free-for-consumers-ex-paym-6b3805103c",
-      "title": "Should India Keep UPI Free For Consumers? Ex-Payments Body Chief Explains",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/should-india-keep-upi-free-for-consumers-ex-payments-body-chief-explains-11931530",
-      "tag": "India",
-      "publishedAt": "2026-08-19T13:06:24.000Z",
-      "summary": "Santanu Paul, former NPCI chief, argued that UPI's remarkable success is directly linked to its free-to-use model",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-crucial-imperative-of-finalising-the-india-eaeu--60b18ea7c0",
       "title": "Crucial imperative of finalising the India-EAEU Free Trade Agreement",
       "source": "Hindustan Times",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-tamil-nadu-assembly-group-clash-not-drugs-behind-55d38b281b",
-      "title": "Tamil Nadu Assembly: Group clash, not drugs behind killing of Coimbatore student Amuthan, says Law Minister",
+      "id": "news-lokayukta-searches-11-premises-in-disproportiona-641cbcd722",
+      "title": "Lokayukta searches 11 premises in disproportionate assets case; assets worth ₹18.3 crore recovered from special land acquisition officer",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-group-clash-not-drugs-behind-killing-of-coimbatore-student-amuthan-says-law-minister-r-nirmalkumar/article71355258.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/lokayukta-searches-11-premises-in-disproportionate-assets-case-assets-worth-183-crore-recovered-from-special-land-acquisition-officer/article71365676.ece",
       "tag": "India",
-      "publishedAt": "2026-08-19T14:21:40.000Z",
-      "summary": "Social Justice Minister Vanni Arasu and Backward Classes Minister V. Sampath Kumar met Amuthan’s parents and offered ₹6 lakh in compensation and government job to his brother.",
+      "publishedAt": "2026-08-19T15:15:42.000Z",
+      "summary": "The searches were carried out at the residences and office of Mallikarjuna B., Special Land Acquisition Officer, Subramanya Nagar, Guddadahalli, Hebbal, as well as the residence...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-three-held-with-vapes-and-banned-foreign-cigaret-498bb8d8c0",
-      "title": "Three held with vapes and banned foreign cigarettes",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/three-held-with-vapes-and-banned-foreign-cigarettes/article71364688.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-19T14:21:13.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-jaecoo-owner-chery-takes-next-step-in-uk-push-wi-b6698cac90",
+      "title": "Jaecoo owner Chery takes ‘next step’ in UK push with R&D centre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T15:12:36.000Z",
+      "summary": "Owner of firm behind ‘Temu Range Rover’ will open facility in Bedfordshire in autumn The Chinese carmaker behind the irreverently nicknamed “Temu Range Rover” is plotting furthe...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-sri-sri-ravi-shankar-offers-special-prayers-at-k-1770cea4e1",
-      "title": "Sri Sri Ravi Shankar offers special prayers at Kanaka Durga temple in Vijayawada",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sri-sri-ravi-shankar-offers-special-prayers-at-kanaka-durga-temple-in-vijayawada/article71365065.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-19T14:19:07.000Z",
-      "summary": "Temple officials and members of its governing board offer the spiritual leader a traditional welcome on his arrival",
+      "id": "news-democrat-mary-peltola-and-republican-dan-sulliva-c8bd5e26d6",
+      "title": "Democrat Mary Peltola and Republican Dan Sullivan lead in Alaska primary for US Senate – US politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
+      "tag": "Running",
+      "publishedAt": "2026-08-19T15:12:28.000Z",
+      "summary": "Incumbent Sullivan is running for third term while Peltola is fighting to flip seat and aid Democrats in retaking control of Congress Democratic socialist Angie Nixon clinches s...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
