@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-19T16:19:09.166Z",
+  "updatedAt": "2026-08-19T17:17:40.593Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-meta-ai-now-has-a-dedicated-desktop-app-for-mac-f081be91be",
+      "title": "Meta AI now has a dedicated desktop app for Mac",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2240154/meta-ai-now-has-a-dedicated-desktop-app-for-mac",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T17:10:45.000Z",
+      "summary": "Meta's new Mac app is part of the company's push to make more business-friendly AI tools.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-hit-the-brakes-now-what-a368377af1",
+      "title": "OpenAI hit the brakes. Now what?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T17:10:09.000Z",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the b...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-fantastical-journey-unfolds-in-gorgeous-wildwo-a4a2751880",
+      "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T17:06:06.000Z",
+      "summary": "\"I will tear apart this forest and bring back what it took from me.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-coders-say-they-already-found-workarounds-to-cla-7aca1cf437",
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T16:44:07.000Z",
+      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-time-s-running-out-save-300-on-your-techcrunch-d-17ac785b4d",
       "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
@@ -13,26 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-we-reviewed-the-new-pixel-lineup-ask-us-anything-7ed826c093",
-      "title": "We reviewed the new Pixel lineup, ask us anything",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
-      "tag": "Technology",
-      "publishedAt": "2026-08-19T16:15:00.000Z",
-      "summary": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews liv...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-flock-is-testing-a-new-ai-tool-that-tracks-and-i-0a79268e3f",
-      "title": "Flock is testing a new AI tool that tracks and identifies people based on their driving habits",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2240069/flock-testing-new-ai-police-tool-tracks-identifies-drivers",
-      "tag": "Running",
-      "publishedAt": "2026-08-19T16:15:00.000Z",
-      "summary": "This goes way, way further than keeping an eye on license plates.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-81-000-warning-letters-sent-to-crypto-holders-in-6b400afb5f",
       "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
       "source": "BBC Technology",
@@ -40,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-19T16:14:46.000Z",
       "summary": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-pixel-11-pro-and-pixel-11-pro-xl-review-s-b920e9008c",
-      "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl",
-      "tag": "Technology",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "summary": "Google’s new voice typing is pure magic, but subpar gaming performance and a useless rear LED keep these flagships from true greatness.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sabotage-experts-lawmakers-blast-rfk-jr-for-dest-b90529890f",
-      "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research",
-      "tag": "Technology",
-      "publishedAt": "2026-08-18T22:32:46.000Z",
-      "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-monzo-says-issue-with-card-payments-and-transfer-ff5ad00103",
-      "title": "Monzo says issue with card payments and transfers now resolved",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "tag": "Running",
-      "publishedAt": "2026-08-19T16:04:16.000Z",
-      "summary": "The digital bank said all of its services were now \"back up and running\"",
+      "id": "tech-gta-vi-keeps-leaking-ahead-of-its-gameplay-premi-09799000a4",
+      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+      "tag": "Technology",
+      "publishedAt": "2026-08-19T17:03:11.000Z",
+      "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-pixel-11-pro-is-a-great-phone-no-thanks-to-i-e549a24a84",
-      "title": "The Pixel 11 Pro is a great phone, no thanks to its flashiest new features",
+      "id": "tech-meta-ai-is-getting-a-mac-app-9ddf3700e7",
+      "title": "Meta AI is getting a Mac app",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981713/google-pixel-11-pro-review",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
       "tag": "Technology",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "summary": "Google is trying to get you off your phone. The Pixel 11 Pro is \"A Phone Designed to Help You Use It Less,\" the company promises. It can proactively help you book restaurant res...",
+      "publishedAt": "2026-08-19T17:00:00.000Z",
+      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggesti...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
