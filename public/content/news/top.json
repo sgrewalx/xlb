@@ -1,15 +1,75 @@
 {
-  "updatedAt": "2026-08-19T11:22:50.068Z",
+  "updatedAt": "2026-08-19T12:28:41.384Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-trainline-virgin-atlantic-and-red-driving-school-01cc583445",
-      "title": "Trainline, Virgin Atlantic and Red Driving School investigated over hidden fees",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/19/trainline-virgin-atlantic-driving-school-investigated-hidden-ticket-fees",
+      "id": "news-police-conduct-meeting-with-educational-institut-7300b0a260",
+      "title": "Police conduct meeting with educational institutions in the Nilgiris on student safety",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/police-conduct-meeting-with-educational-institutions-in-the-nilgiris-on-student-safety/article71364313.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-19T12:22:52.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-with-limited-options-trump-tries-economic-pressu-d679c9be83",
+      "title": "With Limited Options, Trump Tries Economic Pressure on Iran — Again",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+      "tag": "US",
+      "publishedAt": "2026-08-19T12:21:30.000Z",
+      "summary": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israeli-army-orders-criminal-investigation-into--29040dbb3b",
+      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-19T11:14:33.000Z",
-      "summary": "UK competition watchdog investigation is part of broader clampdown on illegal ‘drip pricing’ Business live – latest updates The UK’s competition watchdog has launched investigat...",
+      "publishedAt": "2026-08-19T12:18:49.000Z",
+      "summary": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-sumit-sarkar-the-citizen-historian-399f8aaf79",
+      "title": "Sumit Sarkar: The Citizen Historian",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/sumit-sarkar-the-citizen-historian/articleshow/133341150.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-19T12:14:48.000Z",
+      "summary": "Professor Sumit Sarkar significantly impacted the understanding of Indian nationalism, illuminating its intricacies through comprehensive analysis. He explored the evolution of...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-government-rough-sleeping-funding-may-not-be-eno-e5f4a94f59",
+      "title": "Government rough sleeping funding may not ‘be enough’ to tackle problem, says Burnham – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/19/andy-burnham-homelessness-rough-sleeping-christmas-labour-tories-reform-prisons-north-sea-oil-uk-politics-latest",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T12:03:24.000Z",
+      "summary": "PM pledges to get rough sleepers off streets for Christmas but issues ‘rallying call’ for community and voluntary organisations to help with plan Andy Burnham has admitted gover...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-in-ukraine-forcible-military-recruitment-efforts-68e54f7ca8",
+      "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-19T11:47:44.000Z",
+      "summary": "'Busification', the term describing being captured on the street, is engulfed by abuse and corruption.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-happens-congress-mp-downplays-heated-exchange-wi-8ebffd7f2f",
+      "title": "\"Happens\": Congress MP Downplays Heated Exchange With Samajwadi Party MLA",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/happens-congress-mp-imran-masood-downplays-heated-exchange-with-samajwadi-party-mla-ashu-malik-11930689",
+      "tag": "India",
+      "publishedAt": "2026-08-19T11:46:54.000Z",
+      "summary": "The heated exchange reportedly erupted after Imran Masood, who was chairing the meeting in Saharanpur, objected to interruptions and insisted that speakers follow the proceeding...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -23,103 +83,43 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-important-part-of-india-us-envoy-sergio-gor-visi-efb1b6dacb",
-      "title": "'Important part of India': US envoy Sergio Gor visits Srinagar, says 'will review' travel advisory",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/important-part-of-india-us-envoy-sergio-gor-visits-srinagar-says-will-review-travel-advisory/articleshow/133345516.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-19T11:09:53.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-keralam-governor-rushes-to-help-passerby-who-col-af30a19af5",
-      "title": "Keralam Governor rushes to help passerby who collapses near Lok Bhavan",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-governor-rushes-to-help-passerby-who-collapses-near-lok-bhavan/article71364483.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-19T11:09:34.000Z",
-      "summary": "Rajendra Arlekar was leaving his official residence in Thiruvananthapuram for Onam celebrations when he noticed the person collapse and ensured the latter received medical help",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-why-india-needs-a-trusted-care-system-for-senior-722cd9b5ef",
-      "title": "Why India needs a trusted care system for seniors living alone",
+      "id": "news-crucial-imperative-of-finalising-the-india-eaeu--60b18ea7c0",
+      "title": "Crucial imperative of finalising the India-EAEU Free Trade Agreement",
       "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/public-health/why-india-needs-a-trusted-care-system-for-seniors-living-alone-101787137616518.html",
+      "url": "https://www.hindustantimes.com/ht-insight/international-affairs/crucial-imperative-of-finalising-the-india-eaeu-free-trade-agreement-101787137779456.html",
       "tag": "India",
-      "publishedAt": "2026-08-19T11:09:24.000Z",
-      "summary": "This article is authored by Prashanth Reddy, founder & MD, Anvayaa Kin Care.",
+      "publishedAt": "2026-08-19T11:13:27.000Z",
+      "summary": "This article is authored by Pravesh Kumar Gupta, associate fellow, Vivekananda International Foundation, New Delhi.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trainline-virgin-atlantic-and-red-driving-school-934b626e2f",
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-08-19T11:08:42.000Z",
-      "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
+      "id": "news-tamil-nadu-government-order-seeking-steps-to-pre-dd65332cfa",
+      "title": "Tamil Nadu government order seeking steps to prevent students from protesting withdrawn after row",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-order-seeking-steps-to-prevent-students-from-protesting-withdrawn-after-row/article71363796.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-19T12:15:56.000Z",
+      "summary": "The order, addressed to principals of all Government Arts and Science Colleges and Colleges of Education, asked them to take appropriate coordinated action to prevent students f...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-top-india-court-allows-passive-euthanasia-but-fe-f10c166468",
-      "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-19T10:53:01.000Z",
-      "summary": "Families of terminally ill patients have little or no awareness or preparedness for what comes next.",
+      "id": "news-fssai-action-prompts-amway-emami-four-other-bran-a24f05bd73",
+      "title": "FSSAI action prompts Amway, Emami, four other brands to drop '100%' product claims",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/fssai-action-prompts-amway-emami-four-other-brands-to-drop-100-product-claims/articleshow/133348092.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-19T12:12:51.000Z",
+      "summary": "FSSAI said Bonn Biscuits had used a \"100%\" claim in an advertisement for its Bonn Cummin Flavor Jeera Bite Biscuits, 76 gm. The company has since removed the claim from its webs...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-u-a-e-halts-trade-ties-with-iran-and-says-it-was-4b2b478135",
-      "title": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles",
+      "id": "news-chinese-comic-investigated-after-singing-a-riff--c8cdea5531",
+      "title": "Chinese Comic Investigated After Singing a Riff of a Patriotic Song",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+      "url": "https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html",
       "tag": "US",
-      "publishedAt": "2026-08-19T10:39:49.000Z",
-      "summary": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which the country denies.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-don-t-think-we-should-encourage-large-families-c-99089bf90e",
-      "title": "\"Don't Think We Should Encourage Large Families\": Congress MP On Vijay Government's Move",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/dont-think-we-should-encourage-large-families-congress-mp-karti-chidambaram-on-vijay-governments-move-11929773",
-      "tag": "India",
-      "publishedAt": "2026-08-19T08:33:44.000Z",
-      "summary": "Congress MP Karti Chidambaram said he disagrees with the Tamil Nadu government's move to encourage large families after the state government announced it is extending the matern...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-foreigner-dies-during-questioning-at-surat-stati-1759af2182",
-      "title": "Foreigner dies during questioning at Surat station after train brawl; probe underway",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/gujarat/foreigner-dies-during-questioning-at-surat-station-after-train-brawl-probe-underway/article71364440.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-19T11:08:58.000Z",
-      "summary": "The GRP have launched a custodial death investigation to ascertain the circumstances leading to his death, said officials",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-neet-ug-paper-leak-supreme-court-advises-meaning-e52077c3af",
-      "title": "NEET-UG paper leak: Supreme Court advises meaningful continuity in NTA reforms, not Committee-hopping",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/neet-ug-paper-leak-supreme-court-asks-nta-about-taken-on-inquiry-committees-recommendations/article71363878.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-19T11:08:11.000Z",
-      "summary": "The Centre has set up a ‘task force’ chaired by Nandan Nilekani for tech reforms to make the NTA leak-proof; the apex court asks what has been done so far to implement the recom...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-telangana-sir-draft-rolls-2026-published-f9d594bf99",
-      "title": "Telangana SIR | Draft rolls-2026 published",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-sir-2026-draft-electoral-rolls-published/article71355618.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-19T11:06:32.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-08-19T12:10:34.000Z",
+      "summary": "Guo Degang, one of the country’s best-known comedians, was reported to the authorities, as the arts continue to be a focus for ideological crackdowns.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
