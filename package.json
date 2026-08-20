@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run generate:sitemap && npm run validate:content && tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build && node scripts/generate-route-documents.mjs && npm run audit:routes",
+    "build": "npm run generate:sitemap && npm run release:build",
+    "build:validated": "tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build && node scripts/generate-route-documents.mjs && npm run audit:routes",
     "generate:sitemap": "node scripts/generate-sitemap.mjs",
     "test": "node --test automation/**/*.test.mjs scripts/*.test.mjs",
     "test:clean": "node scripts/run-tests-clean.mjs",
@@ -24,6 +25,7 @@
     "automation:fetch-ga4": "node automation/capture-analytics/fetch-ga4.mjs",
     "automation:fetch-search-console": "node automation/capture-analytics/fetch-search-console.mjs",
     "automation:merge-analytics": "node automation/capture-analytics/merge-snapshots.mjs",
+    "automation:validate-analytics": "node automation/capture-analytics/validate-snapshots.mjs",
     "automation:traffic-opportunities": "node automation/traffic-opportunities/run.mjs",
     "automation:apply-opportunities": "node automation/apply-traffic-opportunities/run.mjs",
     "automation:rank-live": "node automation/rank-live-events/run.mjs",
@@ -35,7 +37,10 @@
     "automation:source-health": "node automation/refresh-live-events/health-check.mjs",
     "automation:assess-live-risk": "node automation/governance/assess-live-risk.mjs",
     "automation:check-deploy-readiness": "node automation/governance/check-deploy-readiness.mjs",
-    "automation:ops-summary": "node automation/governance/generate-ops-summary.mjs"
+    "automation:ops-summary": "node automation/governance/generate-ops-summary.mjs",
+    "automation:enforce-deploy-readiness": "node automation/governance/enforce-deploy-readiness.mjs",
+    "automation:content-candidate": "node automation/release/run-content-candidate.mjs",
+    "release:build": "node automation/release/build-validated-candidate.mjs"
   },
   "dependencies": {
     "chess.js": "^1.4.0",
