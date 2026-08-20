@@ -164,6 +164,10 @@ export interface HomeModule {
   description: string;
   ctaLabel: string;
   ctaUrl: string;
+  emptyState?: {
+    title: string;
+    description: string;
+  } | null;
   metrics: ModuleMetric[];
   items: HomeModuleItem[];
   relatedLinks: SurfaceItemLink[];

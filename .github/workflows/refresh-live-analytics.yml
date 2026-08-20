@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-live-analytics-main
+  cancel-in-progress: false
+
 env:
   GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
   SEARCH_CONSOLE_SITE_URL: ${{ vars.SEARCH_CONSOLE_SITE_URL }}
@@ -16,12 +20,17 @@ env:
   XLB_SEARCH_CONSOLE_LOOKBACK_DAYS: ${{ vars.XLB_SEARCH_CONSOLE_LOOKBACK_DAYS }}
 
 jobs:
-  refresh-live-analytics:
+  persist-analytics:
     runs-on: ubuntu-latest
+    outputs:
+      snapshot_date: ${{ steps.snapshot-date.outputs.value }}
 
     steps:
-      - name: Checkout
+      - name: Checkout current main
         uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -33,7 +42,11 @@ jobs:
         run: npm ci
 
       - name: Compute snapshot date
-        run: echo "XLB_SNAPSHOT_DATE=$(date -u +%F)" >> "$GITHUB_ENV"
+        id: snapshot-date
+        run: |
+          SNAPSHOT_DATE="$(date -u +%F)"
+          echo "XLB_SNAPSHOT_DATE=${SNAPSHOT_DATE}" >> "$GITHUB_ENV"
+          echo "value=${SNAPSHOT_DATE}" >> "$GITHUB_OUTPUT"
 
       - name: Prepare Google service account
         env:
@@ -64,96 +77,117 @@ jobs:
       - name: Merge analytics snapshots
         run: npm run automation:merge-analytics
 
-      - name: Generate traffic opportunity queue
-        run: XLB_ANALYTICS_SNAPSHOT=./automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json npm run automation:traffic-opportunities
+      - name: Validate analytics snapshots
+        run: npm run automation:validate-analytics
 
-      - name: Rank live events
-        run: XLB_ANALYTICS_SNAPSHOT=./automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json npm run automation:rank-live
-
-      - name: Refresh live event manifests
-        run: npm run automation:live-events
-
-      - name: Apply low-risk autofixes
-        run: npm run automation:apply-low-risk-fixes
-
-      - name: Generate autonomous surface manifests
-        run: XLB_ANALYTICS_SNAPSHOT=./automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json npm run automation:traffic-engine
-
-      - name: Apply traffic opportunities
-        run: npm run automation:apply-opportunities
-        
-      - name: Regenerate sitemap
-        run: node scripts/generate-sitemap.mjs
-
-      - name: Run content audit
-        run: npm run automation:content-audit
-
-      - name: Check source health
+      - name: Detect analytics changes
+        id: analytics-changes
         run: |
-          FAIL_ON_DEGRADED=0
-
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            FAIL_ON_DEGRADED=1
-          fi
-
-          XLB_FAIL_ON_DEGRADED_SOURCES=$FAIL_ON_DEGRADED npm run automation:source-health
-
-      - name: Assess live automation risk
-        run: |
-          FAIL_ON_HIGH_RISK=0
-
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            FAIL_ON_HIGH_RISK=1
-          fi
-
-          XLB_FAIL_ON_HIGH_RISK=$FAIL_ON_HIGH_RISK npm run automation:assess-live-risk
-
-      - name: Validate content
-        run: npm run validate:content
-
-      - name: Publish ops summary
-        run: npm run automation:ops-summary
-
-      - name: Detect changes
-        id: changes
-        run: |
-          if git diff --quiet -- public/content/live public/content/topics public/content/home public/content/video/shorts.json public/content/games public/content/gallery automation/snapshots automation/reports automation/experiments public/sitemap.xml; then
+          if [ -z "$(git status --porcelain --untracked-files=all -- \
+            "automation/snapshots/ga4-${XLB_SNAPSHOT_DATE}.json" \
+            "automation/snapshots/search-console-${XLB_SNAPSHOT_DATE}.json" \
+            "automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json")" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Read risk level
-        id: risk
-        run: |
-          LEVEL="$(node -e "const fs = require('fs'); process.stdout.write(JSON.parse(fs.readFileSync('automation/reports/live-risk-report.json', 'utf8')).level)")"
-          echo "level=${LEVEL}" >> "$GITHUB_OUTPUT"
-
       - name: Configure git identity
-        if: steps.changes.outputs.changed == 'true'
+        if: steps.analytics-changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit analytics refresh
-        if: steps.changes.outputs.changed == 'true'
+      - name: Commit validated analytics snapshots
+        if: steps.analytics-changes.outputs.changed == 'true'
         run: |
-          git add public/content/live public/content/topics public/content/home public/content/video/shorts.json public/content/games public/content/gallery automation/snapshots automation/reports automation/experiments public/sitemap.xml
-          git commit -m "chore: refresh live analytics and surface manifests"
+          git add -- \
+            "automation/snapshots/ga4-${XLB_SNAPSHOT_DATE}.json" \
+            "automation/snapshots/search-console-${XLB_SNAPSHOT_DATE}.json" \
+            "automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json"
+          git commit -m "chore: persist analytics snapshots for ${XLB_SNAPSHOT_DATE}"
 
-      - name: Push to main
-        if: steps.changes.outputs.changed == 'true'
+      - name: Persist analytics to main
+        if: steps.analytics-changes.outputs.changed == 'true'
         run: |
           for attempt in 1 2 3; do
             git pull --rebase origin main
-
             if git push origin HEAD:main; then
               exit 0
             fi
-
-            echo "Push attempt ${attempt} failed; retrying after a short delay..."
+            echo "Analytics push attempt ${attempt} failed; retrying..."
             sleep 5
           done
-
-          echo "Unable to push refreshed analytics and manifests after 3 attempts."
+          echo "Unable to persist validated analytics after 3 attempts."
           exit 1
+
+  publish-content-candidate:
+    needs: persist-analytics
+    runs-on: ubuntu-latest
+    env:
+      XLB_SNAPSHOT_DATE: ${{ needs.persist-analytics.outputs.snapshot_date }}
+
+    steps:
+      - name: Checkout last-known-good main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Fast-forward through persisted analytics
+        run: git pull --ff-only origin main
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate and validate content candidate
+        run: npm run automation:content-candidate
+
+      - name: Detect candidate changes
+        id: candidate-changes
+        run: |
+          if [ -z "$(git status --porcelain --untracked-files=all -- \
+            public/content/live \
+            public/content/topics \
+            public/content/home \
+            public/content/video/shorts.json \
+            public/content/games \
+            public/content/gallery \
+            automation/reports \
+            automation/experiments \
+            public/sitemap.xml)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configure git identity
+        if: steps.candidate-changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Promote validated content candidate
+        if: steps.candidate-changes.outputs.changed == 'true'
+        run: |
+          git add -- \
+            public/content/live \
+            public/content/topics \
+            public/content/home \
+            public/content/video/shorts.json \
+            public/content/games \
+            public/content/gallery \
+            automation/reports \
+            automation/experiments \
+            public/sitemap.xml
+          git commit -m "chore: promote validated content candidate"
+
+      - name: Publish exact validated candidate to main
+        if: steps.candidate-changes.outputs.changed == 'true'
+        run: git push origin HEAD:main
