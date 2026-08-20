@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-08-20T12:26:07.905Z",
+  "updatedAt": "2026-08-20T13:38:00.005Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-meta-ai-s-new-mac-app-wants-you-to-talk-to-your--617161bbb7",
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
+      "id": "tech-dji-osmo-fans-are-breaking-the-shackles-of-its-c-192f23326d",
+      "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
       "tag": "Technology",
-      "publishedAt": "2026-08-20T12:11:57.000Z",
-      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "publishedAt": "2026-08-20T13:30:00.000Z",
+      "summary": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily r...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-data-giant-alation-confirms-cyberattack-680703e895",
+      "title": "AI data giant Alation confirms cyberattack",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack",
+      "tag": "Technology",
+      "publishedAt": "2026-08-20T13:01:24.000Z",
+      "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-grok-exfiltrates-user-data-when-malicious-instru-a99b0fbccb",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
+      "tag": "Technology",
+      "publishedAt": "2026-08-20T13:00:35.000Z",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-5-books-that-explore-the-thoughts-we-never-say-a-c92d4d10d9",
+      "title": "5 Books that explore the thoughts we never say aloud",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/books-explore-unspoken-thoughts",
+      "tag": "Technology",
+      "publishedAt": "2026-08-20T13:00:00.000Z",
+      "summary": "Discover five thought-provoking books that explore hidden emotions, unspoken fears, and the inner thoughts people rarely share aloud.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-bitgo-becomes-first-global-crypto-firm-to-secure-e0e21b5540",
+      "title": "BitGo Becomes First Global Crypto Firm to Secure South Korea VASP Licence",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/cryptocurrency/news/bitgo-receives-south-korean-virtual-asset-licence-as-first-global-crypto-firm-crypto-regulations-crypto-markets-11936324",
+      "tag": "Technology",
+      "publishedAt": "2026-08-20T12:53:16.000Z",
+      "summary": "BitGo has received virtual asset service provider registration in South Korea, allowing its local subsidiary, BitGo Korea, to offer crypto custody and transaction services to in...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,26 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-glasses-are-a-workplace-menace-1d42e35a81",
-      "title": "Meta glasses are a workplace menace",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
-      "tag": "Technology",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-oneplus-tipped-to-launch-a-new-4g-phone-exclusiv-95c522d007",
-      "title": "OnePlus Tipped to Launch a New 4G Phone Exclusively in India Next Month",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/oneplus-4g-phone-india-launch-timeline-tipped-11936021",
-      "tag": "Technology",
-      "publishedAt": "2026-08-20T11:48:30.000Z",
-      "summary": "OnePlus is planning to launch a new 4G smartphone in India in September, according to a tipster. The smartphone is said to debut exclusively in India, similar to the tech firm’s...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-poolease-x1-pool-robot-review-how-bad-can-it-be-98c6177d1a",
       "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
       "source": "Wired",
@@ -50,16 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-20T11:02:00.000Z",
       "summary": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-he-quit-engineering-to-clean-the-ganga-removing--0009d7aebb",
-      "title": "He quit engineering to clean the Ganga, removing 2.47 lakh kg of waste",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/shubham-kumar-being-helper-foundation-ganga-cleaning-patna",
-      "tag": "Technology",
-      "publishedAt": "2026-08-20T10:47:25.000Z",
-      "summary": "Shubham Kumar quit engineering to clean the Ganga, building a 1,100-volunteer movement that removed 2.47 lakh kg of waste.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nasa-calls-off-mission-to-rescue-swift-gamma-ray-dc71a6f29e",
-      "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory",
-      "tag": "Technology",
-      "publishedAt": "2026-08-20T00:18:48.000Z",
-      "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-slack-is-launching-collaborative-vibe-coding-cha-21c4fc36cd",
-      "title": "Slack is launching collaborative vibe-coding channels",
+      "id": "tech-nasa-gives-up-on-trying-to-rescue-the-swift-tele-494b5300de",
+      "title": "NASA gives up on trying to rescue the Swift telescope",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "url": "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update",
       "tag": "Technology",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch inc...",
+      "publishedAt": "2026-08-20T13:04:37.000Z",
+      "summary": "Plans to rescue NASA's Swift Observatory satellite from falling into Earth's atmosphere are seemingly dead in the water. The agency and Katalyst Space announced yesterday that t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-lg-s-new-oled-manufacturing-tech-can-make-panels-f65afa8cbf",
-      "title": "LG's new OLED manufacturing tech can make panels bigger and brighter",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2240635/lg-flipp-oled-manufacturing-bigger-brighter-displays",
+      "id": "tech-i-bought-dji-s-banned-camera-it-was-cheap-and-ea-bb88e2c5ff",
+      "title": "I bought DJI’s banned camera — it was cheap and easy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
       "tag": "Technology",
-      "publishedAt": "2026-08-20T11:56:46.000Z",
-      "summary": "LG has an unveiled a new OLED manufacturing breakthrough that will allow brighter, sharper and longer-lasting panels of nearly any size.",
+      "publishedAt": "2026-08-20T13:00:00.000Z",
+      "summary": "As a kid, I always imagined the \"black market\" would be like the movies: Shady vendors hawking illicit goods along dusty streets. But if you want a banned DJI Osmo Pocket 4 or P...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]

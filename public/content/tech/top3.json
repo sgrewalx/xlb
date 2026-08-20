@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-08-20T12:26:07.905Z",
+  "updatedAt": "2026-08-20T13:38:00.005Z",
   "items": [
     {
-      "id": "tech-meta-ai-s-new-mac-app-wants-you-to-talk-to-your--617161bbb7",
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
-      "tag": "Technology",
-      "publishedAt": "2026-08-20T12:11:57.000Z",
-      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-roblox-vows-to-make-changes-after-australian-reg-ed540cfa68",
-      "title": "Roblox vows to make changes after Australian regulator found yet more child safety lapses",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2240638/roblox-pledges-change-after-australia-finds-yet-more-child-safety-lapses",
-      "tag": "Technology",
-      "publishedAt": "2026-08-20T12:03:29.000Z",
-      "summary": "Australia's safety regulator found Roblox still allows adults to contact children after years of pledging to stop it.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meta-glasses-are-a-workplace-menace-1d42e35a81",
-      "title": "Meta glasses are a workplace menace",
+      "id": "tech-dji-osmo-fans-are-breaking-the-shackles-of-its-c-192f23326d",
+      "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
       "source": "The Verge",
-      "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+      "url": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
       "tag": "Technology",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item...",
+      "publishedAt": "2026-08-20T13:30:00.000Z",
+      "summary": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily r...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-data-giant-alation-confirms-cyberattack-680703e895",
+      "title": "AI data giant Alation confirms cyberattack",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack",
+      "tag": "Technology",
+      "publishedAt": "2026-08-20T13:01:24.000Z",
+      "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-grok-exfiltrates-user-data-when-malicious-instru-a99b0fbccb",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
+      "tag": "Technology",
+      "publishedAt": "2026-08-20T13:00:35.000Z",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
