@@ -46,7 +46,16 @@ test("content promotion can only occur after the complete candidate passes", asy
 
 test("deploy performs no production-affecting mutation after validation", async () => {
   const workflow = await readFile(deployFile, "utf8");
+  const triggers = workflow.slice(workflow.indexOf("on:\n"), workflow.indexOf("\npermissions:"));
 
+  assert.doesNotMatch(triggers, /workflow_run:/);
+  assert.match(triggers, /workflow_dispatch:/);
+  assert.match(triggers, /push:/);
+  assert.match(triggers, /paths-ignore:\n\s+- automation\/snapshots\/\*\*/);
+  assert.doesNotMatch(triggers, /schedule:|pull_request:/);
+  assert.match(workflow, /ref: \$\{\{ github\.sha \}\}/);
+  assert.doesNotMatch(workflow, /github\.event\.workflow_run/);
+  assert.match(workflow, /XLB_DEPLOY_READINESS_MAX_AGE_HOURS/);
   assert.match(workflow, /npm run automation:enforce-deploy-readiness/);
   assert.match(workflow, /npm run release:build/);
   assert.doesNotMatch(workflow, /automation:apply-opportunities/);

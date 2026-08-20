@@ -8,16 +8,6 @@ on:
         required: true
         default: false
         type: boolean
-  workflow_run:
-    workflows:
-      - Refresh Live Analytics
-      - Refresh News
-      - Refresh Sports
-      - Refresh Tech
-      - Refresh Video
-      - Refresh Quotes
-    types:
-      - completed
   push:
     branches:
       - main
@@ -37,25 +27,18 @@ env:
   SITE_BUCKET: xlb-codemachine-in-site
   CLOUDFRONT_DISTRIBUTION_ID: ESCMUKA0YFHMN
   VITE_GA_MEASUREMENT_ID: ${{ secrets.VITE_GA_MEASUREMENT_ID }}
+  XLB_DEPLOY_READINESS_MAX_AGE_HOURS: ${{ vars.XLB_DEPLOY_READINESS_MAX_AGE_HOURS }}
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: >-
-      ${{
-        github.event_name != 'workflow_run' ||
-        (
-          github.event.workflow_run.conclusion == 'success' &&
-          github.event.workflow_run.head_branch == 'main'
-        )
-      }}
 
     steps:
       - name: Checkout release commit
         uses: actions/checkout@v6
         with:
-          ref: ${{ github.event_name == 'workflow_run' && 'main' || github.sha }}
+          ref: ${{ github.sha }}
           fetch-depth: 0
 
       - name: Record release commit
