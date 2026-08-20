@@ -1,4 +1,5 @@
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
+import { pathToFileURL } from "node:url";
 
 const EVENTS_FILE = new URL("../../public/content/live/events.json", import.meta.url);
 const SCOREBOARD_FILE = new URL("../../public/content/live/scoreboard.json", import.meta.url);
@@ -20,10 +21,30 @@ async function main() {
     throw new Error("Analytics snapshot is missing or empty");
   }
 
+  const items = buildRankedScoreboard({
+    events: events.items,
+    health,
+    snapshot,
+  });
+
+  const changed = await writeJsonIfChanged(SCOREBOARD_FILE, {
+    updatedAt: new Date().toISOString(),
+    sourceSnapshot: snapshot.capturedAt,
+    items,
+  });
+
+  console.log(
+    changed
+      ? "Updated public/content/live/scoreboard.json"
+      : "public/content/live/scoreboard.json already matched ranked output",
+  );
+}
+
+export function buildRankedScoreboard({ events, health, snapshot, now = Date.now() }) {
   const analyticsContext = summarizeAnalyticsContext(snapshot.pages);
   const sourceHealthMap = new Map((health?.sources ?? []).map((source) => [source.id, source]));
 
-  const items = events.items.map((event) => {
+  const items = events.map((event) => {
     const pagePath = `/events/${event.slug}`;
     const metrics = snapshot.pages.find((page) => page.path === pagePath) ?? null;
     const categoryPath = `/live/${event.category}`;
@@ -34,7 +55,11 @@ async function main() {
     const engagementScore = metrics?.engagementScore ?? 0;
     const searchImpressions = metrics?.searchImpressions ?? 0;
     const searchCtr = metrics?.searchCtr ?? 0;
-    const heuristic = buildHeuristicAssessment(event, sourceHealthMap.get(resolveSourceId(event)));
+    const heuristic = buildHeuristicAssessment(
+      event,
+      sourceHealthMap.get(resolveSourceId(event)),
+      now,
+    );
     const observedScore = Math.round(
       pageviews * 0.3 +
         watchClicks * 1.6 +
@@ -90,18 +115,7 @@ async function main() {
   });
 
   items.sort((left, right) => right.score - left.score);
-
-  const changed = await writeJsonIfChanged(SCOREBOARD_FILE, {
-    updatedAt: new Date().toISOString(),
-    sourceSnapshot: snapshot.capturedAt,
-    items,
-  });
-
-  console.log(
-    changed
-      ? "Updated public/content/live/scoreboard.json"
-      : "public/content/live/scoreboard.json already matched ranked output",
-  );
+  return items;
 }
 
 function buildColdStartAssessment(event) {
@@ -178,10 +192,9 @@ function buildColdStartAssessment(event) {
   };
 }
 
-function buildHeuristicAssessment(event, sourceHealth) {
+function buildHeuristicAssessment(event, sourceHealth, now) {
   let score = 45;
   const reasons = [];
-  const now = Date.now();
   const startsAt = Date.parse(event.startsAt);
   const timeUntilStart = Number.isFinite(startsAt) ? startsAt - now : Number.NaN;
 
@@ -342,7 +355,9 @@ function resolveSourceId(event) {
   return "";
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

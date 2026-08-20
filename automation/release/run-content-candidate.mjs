@@ -3,18 +3,18 @@ import { assertPromotableCandidate } from "./validate-candidate-change-set.mjs";
 
 export const candidateSteps = [
   { id: "traffic-opportunities", script: "automation:traffic-opportunities", analytics: true },
-  { id: "rank-live", script: "automation:rank-live", analytics: true },
   { id: "live-events", script: "automation:live-events" },
-  { id: "low-risk-autofixes", script: "automation:apply-low-risk-fixes" },
-  { id: "surface-manifests", script: "automation:traffic-engine", analytics: true },
-  { id: "apply-opportunities", script: "automation:apply-opportunities" },
-  { id: "sitemap", script: "generate:sitemap" },
-  { id: "content-audit", script: "automation:content-audit" },
   {
     id: "source-health",
     script: "automation:source-health",
     env: { XLB_FAIL_ON_DEGRADED_SOURCES: "1" },
   },
+  { id: "rank-live", script: "automation:rank-live", analytics: true },
+  { id: "low-risk-autofixes", script: "automation:apply-low-risk-fixes" },
+  { id: "surface-manifests", script: "automation:traffic-engine", analytics: true },
+  { id: "apply-opportunities", script: "automation:apply-opportunities" },
+  { id: "sitemap", script: "generate:sitemap" },
+  { id: "content-audit", script: "automation:content-audit" },
   {
     id: "live-risk",
     script: "automation:assess-live-risk",
