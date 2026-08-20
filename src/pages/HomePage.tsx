@@ -21,7 +21,7 @@ export function HomePage() {
     <>
       <Seo
         title="XLB | Watch now"
-        description="Live events, live video, and fast paths into the most active pages on XLB."
+        description="Watch live events and video, then move quickly into the most active pages on XLB."
         path="/"
       />
       <section className="live-page-hero home-traffic-hero">

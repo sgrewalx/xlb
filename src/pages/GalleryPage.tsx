@@ -12,7 +12,7 @@ export function GalleryPage() {
     <>
       <Seo
         title="Gallery | XLB"
-        description="Live visual explainers built from current event and topic signals instead of static poster experiments."
+        description="Explore live visual explainers tied to current events, monitoring pages, and XLB topics."
         path="/gallery"
       />
       <section className="live-page-hero gallery-page-hero">

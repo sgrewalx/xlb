@@ -10,7 +10,7 @@ export function NewsPage() {
     <>
       <Seo
         title="News | XLB"
-        description="A tighter read on the world, with selected stories worth checking now."
+        description="Scan selected current stories with concise context and direct links to original reporting."
         path="/news"
       />
       <section className="static-hero">

@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
+import { pathToFileURL } from "node:url";
+import { buildRouteDefinitions, SITE_ORIGIN } from "./route-definitions.mjs";
 
-const SITE_ORIGIN = "https://xlb.codemachine.in";
 const EVENTS_FILE = new URL("../public/content/live/events.json", import.meta.url);
 const TOPICS_FILE = new URL("../public/content/topics/index.json", import.meta.url);
 const NEWS_FILE = new URL("../public/content/news/top3.json", import.meta.url);
@@ -14,24 +15,6 @@ const GALLERY_FILE = new URL("../public/content/gallery/collections.json", impor
 const QUOTES_FILE = new URL("../public/content/quotes/quotes.json", import.meta.url);
 const XLB_FILE = new URL("../public/content/xlb/top3.json", import.meta.url);
 const OUTPUT_FILE = new URL("../public/sitemap.xml", import.meta.url);
-
-const staticPaths = [
-  "/",
-  "/about",
-  "/privacy",
-  "/terms",
-  "/contact",
-  "/advertise",
-  "/live",
-  "/live/space",
-  "/live/earth",
-  "/games",
-  "/gallery",
-  "/sports",
-  "/news",
-  "/tech",
-  "/video",
-];
 
 async function main() {
   const [events, topics, news, sports, tech, video, videoShorts, homeModules, games, gallery, quotes, xlb] = await Promise.all([
@@ -75,20 +58,17 @@ async function main() {
     ["/gallery", gallery.updatedAt],
   ]);
 
-  const dynamicPaths = [
-    ...(events.items ?? []).map((item) => {
-      const path = `/events/${item.slug}`;
-      pathLastmod.set(path, item.updatedAt ?? events.updatedAt);
-      return path;
-    }),
-    ...(topics.items ?? []).map((item) => {
-      const path = `/topics/${item.slug}`;
-      pathLastmod.set(path, item.updatedAt ?? topics.updatedAt);
-      return path;
-    }),
-  ];
+  for (const item of events.items ?? []) {
+    pathLastmod.set(`/events/${item.slug}`, item.updatedAt ?? events.updatedAt);
+  }
+  for (const item of topics.items ?? []) {
+    pathLastmod.set(`/topics/${item.slug}`, item.updatedAt ?? topics.updatedAt);
+  }
 
-  const paths = [...new Set([...staticPaths, ...dynamicPaths])];
+  const paths = buildRouteDefinitions({
+    eventsFeed: events,
+    topicsFeed: topics,
+  }).map((route) => route.path);
 
   const xml = [
     '<?xml version="1.0" encoding="UTF-8"?>',
@@ -138,7 +118,9 @@ function dateOnly(value) {
   return new Date(timestamp).toISOString().slice(0, 10);
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

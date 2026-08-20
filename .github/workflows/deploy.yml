@@ -164,14 +164,16 @@ jobs:
             --delete \
             --exclude "assets/*" \
             --exclude "content/*" \
+            --exclude "route-documents/*" \
+            --exclude "route-documents.json" \
             --cache-control "public,max-age=60,must-revalidate"
 
       - name: Upload route documents as HTML
         if: steps.readiness.outputs.should_deploy == 'true'
         run: |
-          node -e "const fs = require('fs'); for (const route of JSON.parse(fs.readFileSync('dist/route-documents.json', 'utf8'))) console.log(route.replace(/^\\/+/, ''))" |
-          while IFS= read -r key; do
-            aws s3 cp "dist/index.html" "s3://${SITE_BUCKET}/${key}" \
+          node -e "const fs = require('fs'); for (const item of JSON.parse(fs.readFileSync('dist/route-documents.json', 'utf8'))) console.log(item.documentPath + '\\t' + item.storageKey)" |
+          while IFS=$'\t' read -r document key; do
+            aws s3 cp "dist/${document}" "s3://${SITE_BUCKET}/${key}" \
               --cache-control "public,max-age=60,must-revalidate" \
               --content-type "text/html" \
               --metadata-directive REPLACE

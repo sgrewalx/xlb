@@ -16,20 +16,6 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-clps-flight-astrobotic-griffin-1",
-      "title": "Watch index coverage for /events/clps-flight-astrobotic-griffin-1",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/events/clps-flight-astrobotic-griffin-1 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/events/clps-flight-astrobotic-griffin-1"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
       "id": "traffic-index-watch-events-aurora-watch",
       "title": "Watch index coverage for /events/aurora-watch",
       "ownerAgent": "traffic-improvement-agent",

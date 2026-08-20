@@ -10,7 +10,7 @@ export function SportsPage() {
     <>
       <Seo
         title="Sports | XLB"
-        description="A compact view of the sports stories and fixtures worth opening now."
+        description="Scan selected sports stories, fixtures, and major moments with direct links to their original sources."
         path="/sports"
       />
       <section className="static-hero">

@@ -227,7 +227,7 @@ Terraform provisions:
 - CloudFront distribution with OAC
 - ACM certificate in `us-east-1`
 - Route 53 `A` and `AAAA` alias records for `xlb.codemachine.in`
-- SPA fallback for `/index.html`
+- real HTTP 404 responses through the generated `/404.html` document
 
 Deploy steps:
 1. Create or confirm the hosted zone `codemachine.in` exists in Route 53.
@@ -252,8 +252,10 @@ Cache strategy:
 
 Versioning strategy:
 - Vite emits hashed asset filenames automatically
+- the build emits one route-specific HTML document per sitemap URL
+- deployment maps each generated document to its extensionless S3 route key
 - S3 bucket versioning is enabled
-- CloudFront invalidation is limited to `/`, `/index.html`, and `/content/*`
+- CloudFront is invalidated after the route-document upload
 
 AWS CLI deploy example:
 ```bash
@@ -262,8 +264,15 @@ npm run validate:content
 npm run build
 aws s3 sync dist/assets s3://xlb-codemachine-in-site/assets --delete --cache-control "public,max-age=31536000,immutable"
 aws s3 sync dist/content s3://xlb-codemachine-in-site/content --delete --cache-control "public,max-age=300,must-revalidate"
-aws s3 sync dist s3://xlb-codemachine-in-site --delete --exclude "assets/*" --exclude "content/*" --cache-control "public,max-age=60,must-revalidate"
-aws cloudfront create-invalidation --distribution-id <DIST_ID> --paths "/" "/index.html" "/content/*"
+aws s3 sync dist s3://xlb-codemachine-in-site --delete --exclude "assets/*" --exclude "content/*" --exclude "route-documents/*" --exclude "route-documents.json" --cache-control "public,max-age=60,must-revalidate"
+node -e "const fs = require('fs'); for (const item of JSON.parse(fs.readFileSync('dist/route-documents.json', 'utf8'))) console.log(item.documentPath + '\\t' + item.storageKey)" |
+while IFS=$'\t' read -r document key; do
+  aws s3 cp "dist/${document}" "s3://xlb-codemachine-in-site/${key}" \
+    --cache-control "public,max-age=60,must-revalidate" \
+    --content-type "text/html" \
+    --metadata-directive REPLACE
+done
+aws cloudfront create-invalidation --distribution-id <DIST_ID> --paths "/*"
 ```
 
 ## G. GitHub Actions automation plan

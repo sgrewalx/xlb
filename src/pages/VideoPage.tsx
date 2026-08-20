@@ -10,7 +10,7 @@ export function VideoPage() {
     <>
       <Seo
         title="Video | XLB"
-        description="Single-item short-form video viewer with reel-style up/down navigation."
+        description="Watch one short-form video at a time in XLB's reel-style viewer."
         path="/video"
       />
       <VideoShortFeed
