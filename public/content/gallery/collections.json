@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T07:16:40.334Z",
+  "updatedAt": "2026-08-20T09:42:09.061Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 252 earthquake events in the last 24 hours. Strongest reported event: M6 near 75 km SSW of El Progreso, Mexico.",
+          "summary": "USGS reported 309 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 25 km NNE of Ruteng, Indonesia.",
           "metricLabel": "Updated",
-          "metricValue": "Jul 1, 07:16 AM",
+          "metricValue": "Aug 20, 09:42 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -50,7 +50,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
@@ -94,12 +94,12 @@
           "accent": "space"
         },
         {
-          "id": "space-launch-roscosmos-progress-96",
-          "title": "Roscosmos Progress 96",
-          "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "id": "space-launch-nasa-s-northrop-grumman-crs-25",
+          "title": "NASA’s Northrop Grumman CRS-25",
+          "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
           "metricLabel": "Countdown",
           "metricValue": "Starting",
-          "href": "/events/roscosmos-progress-96",
+          "href": "/events/nasa-s-northrop-grumman-crs-25",
           "accent": "space"
         }
       ]
@@ -131,12 +131,12 @@
           "accent": "space"
         },
         {
-          "id": "launches",
-          "title": "Launches",
-          "summary": "3 source-backed launch pages are active here, led by CLPS Flight: Astrobotic Griffin-1 around Jul 1.",
+          "id": "nasa",
+          "title": "NASA",
+          "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
           "metricLabel": "Event count",
-          "metricValue": "3",
-          "href": "/topics/launches",
+          "metricValue": "1",
+          "href": "/topics/nasa",
           "accent": "signal"
         }
       ]

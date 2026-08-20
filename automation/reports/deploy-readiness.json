@@ -1,26 +1,26 @@
 {
-  "checkedAt": "2026-08-20T08:55:17.893Z",
+  "checkedAt": "2026-08-20T09:42:10.299Z",
   "status": "review-required",
   "canAutoDeploy": false,
   "healthStatus": "healthy",
   "riskLevel": "medium",
-  "autonomyStatus": "earning-trust",
+  "autonomyStatus": "cold-start",
   "evidence": {
     "sourceHealth": {
       "path": "automation/reports/live-source-health.json",
-      "sha256": "173d359015813bb013614bd95df321c4ed03239cda68492f61dfeb9248342503"
+      "sha256": "c97a1cab24b20d10a1969f3f4b5a64f35a42ecf3665b2f119d681801b81329d3"
     },
     "liveRisk": {
       "path": "automation/reports/live-risk-report.json",
-      "sha256": "98577a3ccbeb3a881196a6c838f9fbce0779d7e117dc5596388af560fca920f2"
+      "sha256": "f04cc891a805655bcd5a483ff7c1af12a3ec37d10e55b139add249a796639b1e"
     },
     "autonomyState": {
       "path": "automation/reports/autonomy-state.json",
-      "sha256": "2b019e56da6b423bedaa181434f707f9596ecace019bb5a14423229a7ba9e8a6"
+      "sha256": "5e9ed62605052cdb9fb174277a7fa6b27383832d953e6ac746d27496fe88381c"
     }
   },
   "reasons": [
     "live risk requires review before deployment",
-    "autonomy maturity is earning-trust"
+    "autonomy maturity is cold-start"
   ]
 }

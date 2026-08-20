@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T12:12:04.232Z",
+  "updatedAt": "2026-08-20T09:42:08.635Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-07-06T11:52:59.008Z",
-      "summary": "USGS reported 206 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 48 km SSW of Sarangani, Philippines.",
+      "startsAt": "2026-08-20T09:33:04.830Z",
+      "summary": "USGS reported 309 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 25 km NNE of Ruteng, Indonesia.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-07-06T12:12:04.232Z",
+      "updatedAt": "2026-08-20T09:42:08.635Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-venezuela-earthquakes-caracas-starts-reconstruct-a95dd90c31",
-        "video-israel-climbs-global-wealth-rankings-world-busin-557ef7fe1a",
-        "video-iran-us-the-hormuz-deadlock-world-business-watch-8d2f108641"
+        "video-watch-vande-bharat-run-at-100-km-hr-on-chenab-br-aae57aa1c6",
+        "video-taliban-celebrates-afghanistan-independence-day--381e104a8c",
+        "video-amit-shah-blasts-rahul-gandhi-watch-home-ministe-6eb27ac421"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,7 +46,7 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-07-06T12:08:00.000Z",
+      "startsAt": "2026-08-20T09:39:00.000Z",
       "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
@@ -58,13 +58,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-07-06T12:12:04.232Z",
+      "updatedAt": "2026-08-20T09:42:08.635Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-israel-climbs-global-wealth-rankings-world-busin-557ef7fe1a",
-        "video-iran-us-the-hormuz-deadlock-world-business-watch-8d2f108641",
-        "video-mexico-vs-england-live-watch-party-of-2026-world-07e6b42628"
+        "video-watch-vande-bharat-run-at-100-km-hr-on-chenab-br-aae57aa1c6",
+        "video-taliban-celebrates-afghanistan-independence-day--381e104a8c",
+        "video-amit-shah-blasts-rahul-gandhi-watch-home-ministe-6eb27ac421"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -95,7 +95,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-07-06T12:12:04.232Z",
+      "updatedAt": "2026-08-20T09:42:08.635Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -115,7 +115,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-07-06T12:12:02.545Z",
+      "startsAt": "2026-08-20T09:42:08.379Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -123,15 +123,16 @@
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 82,
+      "heroPriority": 88,
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-07-06T12:12:04.232Z",
-      "importance": 66,
+      "updatedAt": "2026-08-20T09:42:08.635Z",
+      "importance": 70,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-at-least-5-dead-as-russia-launches-waves-of-miss-a4d2ba597d"
+        "video-russia-launches-fatal-missile-strikes-on-ukraini-b84236aad7",
+        "video-russia-launches-deadly-strikes-on-ukraine-s-capi-e051fca755"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -144,30 +145,30 @@
       ]
     },
     {
-      "id": "space-launch-roscosmos-progress-96",
-      "slug": "roscosmos-progress-96",
-      "title": "Roscosmos Progress 96",
+      "id": "space-launch-nasa-s-northrop-grumman-crs-25",
+      "slug": "nasa-s-northrop-grumman-crs-25",
+      "title": "NASA’s Northrop Grumman CRS-25",
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-07-06T12:12:02.545Z",
-      "summary": "Roscosmos Progress 96 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
+      "startsAt": "2026-08-20T09:42:08.379Z",
+      "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/roscosmos-progress-96/",
+      "sourceUrl": "https://www.nasa.gov/event/nasas-northrop-grumman-crs-25/",
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 76,
+      "heroPriority": 82,
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-07-06T12:12:04.232Z",
-      "importance": 63,
+      "updatedAt": "2026-08-20T09:42:08.635Z",
+      "importance": 45,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-at-least-5-dead-as-russia-launches-waves-of-miss-a4d2ba597d",
-        "video-england-progress-to-world-cup-quarter-finals-aft-fdee2813b7"
+        "video-russia-launches-fatal-missile-strikes-on-ukraini-b84236aad7",
+        "video-russia-launches-deadly-strikes-on-ukraine-s-capi-e051fca755"
       ],
       "relatedGameIds": [
         "headline-match",

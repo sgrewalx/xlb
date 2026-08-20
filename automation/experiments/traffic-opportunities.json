@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T07:16:40.686Z",
+  "updatedAt": "2026-08-20T09:42:09.713Z",
   "items": [
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
@@ -44,20 +44,6 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-nasa-s-spacex-crs-35",
-      "title": "Watch index coverage for /events/nasa-s-spacex-crs-35",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/events/nasa-s-spacex-crs-35"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
       "id": "traffic-index-watch-events-roscosmos-progress-96",
       "title": "Watch index coverage for /events/roscosmos-progress-96",
       "ownerAgent": "traffic-improvement-agent",
@@ -86,20 +72,6 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-topics-launches",
-      "title": "Watch index coverage for /topics/launches",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/topics/launches"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
       "id": "traffic-index-watch-topics-space-weather",
       "title": "Watch index coverage for /topics/space-weather",
       "ownerAgent": "traffic-improvement-agent",
@@ -114,14 +86,28 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-search_striking_distance-home",
-      "title": "Strengthen ranking support for /",
+      "id": "traffic-index-watch-topics-launches",
+      "title": "Watch index coverage for /topics/launches",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/topics/launches"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-search_striking_distance-events-nasa-s-spacex-crs-35",
+      "title": "Strengthen ranking support for /events/nasa-s-spacex-crs-35",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",
       "status": "queued",
-      "hypothesis": "/ is close enough in search results that better supporting copy and internal links may improve rank.",
+      "hypothesis": "/events/nasa-s-spacex-crs-35 is close enough in search results that better supporting copy and internal links may improve rank.",
       "targetPaths": [
-        "/"
+        "/events/nasa-s-spacex-crs-35"
       ],
       "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",

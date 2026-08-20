@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-01T07:16:39.212Z",
-  "sourceSnapshot": "2026-07-01T06:00:00.000Z",
+  "updatedAt": "2026-08-20T09:42:08.072Z",
+  "sourceSnapshot": "2026-08-20T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -8,12 +8,12 @@
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 9,
-    "sitemapPathCount": 25,
-    "opportunityCount": 10,
+    "pageCount": 10,
+    "sitemapPathCount": 24,
+    "opportunityCount": 8,
     "searchOpportunityCount": 1,
     "engagementOpportunityCount": 0,
-    "indexWatchCount": 9
+    "indexWatchCount": 7
   },
   "opportunities": [
     {
@@ -95,32 +95,6 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-nasa-s-spacex-crs-35",
-      "path": "/events/nasa-s-spacex-crs-35",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /events/nasa-s-spacex-crs-35",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
       "id": "traffic-index-watch-events-roscosmos-progress-96",
       "path": "/events/roscosmos-progress-96",
       "signal": "index_watch",
@@ -173,32 +147,6 @@
       }
     },
     {
-      "id": "traffic-index-watch-topics-launches",
-      "path": "/topics/launches",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /topics/launches",
-      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
       "id": "traffic-index-watch-topics-space-weather",
       "path": "/topics/space-weather",
       "signal": "index_watch",
@@ -225,21 +173,47 @@
       }
     },
     {
-      "id": "traffic-search_striking_distance-home",
-      "path": "/",
+      "id": "traffic-index-watch-topics-launches",
+      "path": "/topics/launches",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/launches",
+      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": false,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-search_striking_distance-events-nasa-s-spacex-crs-35",
+      "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_striking_distance",
       "score": 1,
       "risk": "medium",
-      "title": "Strengthen ranking support for /",
-      "hypothesis": "/ is close enough in search results that better supporting copy and internal links may improve rank.",
+      "title": "Strengthen ranking support for /events/nasa-s-spacex-crs-35",
+      "hypothesis": "/events/nasa-s-spacex-crs-35 is close enough in search results that better supporting copy and internal links may improve rank.",
       "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
       "recommendation": "Add clearer on-page context and link to it from the most relevant section page.",
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 6,
+        "searchImpressions": 8,
         "searchCtr": 0,
-        "avgPosition": 9.333333333333334,
+        "avgPosition": 10.25,
         "watchClicks": 0,
         "engagementScore": 0
       },

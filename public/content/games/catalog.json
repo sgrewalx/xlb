@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T07:16:40.334Z",
+  "updatedAt": "2026-08-20T09:42:09.061Z",
   "thesis": "Games are a retention layer tied to live content, not a standalone acquisition thesis.",
   "items": [
     {
@@ -21,9 +21,9 @@
       "description": "Re-order live events from soonest to latest using the active event deck.",
       "relatedPath": "/live",
       "relatedLabel": "Go to Live",
-      "prompt": "Use active live events such as Global earthquake watch, CLPS Flight: Astrobotic Griffin-1, Aurora watch.",
+      "prompt": "Use active live events such as Global earthquake watch, Aurora watch, NASA live programming.",
       "metricLabel": "Active events",
-      "metricValue": "4",
+      "metricValue": "3",
       "featured": true
     },
     {
@@ -45,7 +45,7 @@
       "description": "Tap through a short focus drill tied to the live-event clock.",
       "relatedPath": "/live/space",
       "relatedLabel": "Go to Live Space",
-      "prompt": "Use a short timer tied to the NASA live programming cadence.",
+      "prompt": "Use a short timer tied to the NASA’s SpaceX CRS-35 cadence.",
       "metricLabel": "Target time",
       "metricValue": "10 taps",
       "featured": true

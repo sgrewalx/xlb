@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-01T07:16:39.369Z",
-  "sourceSnapshot": "2026-07-01T06:00:00.000Z",
+  "updatedAt": "2026-08-20T09:42:08.919Z",
+  "sourceSnapshot": "2026-08-20T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -66,6 +66,26 @@
       "slug": "nasa-s-spacex-crs-35",
       "pagePath": "/events/nasa-s-spacex-crs-35",
       "category": "space",
+      "score": 72,
+      "scoringMode": "cold-start",
+      "coldStartScore": 85,
+      "heuristicScore": 41,
+      "observedScore": 0,
+      "pageviews": 0,
+      "watchClicks": 0,
+      "engagementScore": 0,
+      "searchImpressions": 8,
+      "searchCtr": 0,
+      "categoryPageviews": 0,
+      "sourceStability": "stable",
+      "recencyBand": "stale",
+      "recommendation": "hold",
+      "notes": "cold-start scoring active; priority 88, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Imported from the Search Console API."
+    },
+    {
+      "slug": "nasa-s-northrop-grumman-crs-25",
+      "pagePath": "/events/nasa-s-northrop-grumman-crs-25",
+      "category": "space",
       "score": 71,
       "scoringMode": "cold-start",
       "coldStartScore": 83,
@@ -81,26 +101,6 @@
       "recencyBand": "stale",
       "recommendation": "hold",
       "notes": "cold-start scoring active; priority 82, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Promoted event without a dedicated analytics note yet."
-    },
-    {
-      "slug": "roscosmos-progress-96",
-      "pagePath": "/events/roscosmos-progress-96",
-      "category": "space",
-      "score": 69,
-      "scoringMode": "cold-start",
-      "coldStartScore": 81,
-      "heuristicScore": 41,
-      "observedScore": 0,
-      "pageviews": 0,
-      "watchClicks": 0,
-      "engagementScore": 0,
-      "searchImpressions": 0,
-      "searchCtr": 0,
-      "categoryPageviews": 0,
-      "sourceStability": "stable",
-      "recencyBand": "stale",
-      "recommendation": "hold",
-      "notes": "cold-start scoring active; priority 76, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Promoted event without a dedicated analytics note yet."
     }
   ]
 }
