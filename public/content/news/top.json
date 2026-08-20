@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-08-20T09:25:15.378Z",
+  "updatedAt": "2026-08-20T10:21:02.414Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-at-least-13-killed-in-kyiv-as-ukraine-grapples-w-b9d6a8b151",
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-20T09:14:56.000Z",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-russia-launches-massive-attack-on-kyiv-and-surro-180a49cab8",
-      "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-08-20T09:10:07.000Z",
-      "summary": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles Ukraine’s foreign minister Andrii Sybiha said that Russia violated the airspace o...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-state-backed-israeli-settler-violence-forces-wes-446477410c",
-      "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-20T09:08:58.000Z",
-      "summary": "HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-why-your-next-long-haul-layover-may-be-in-seoul--9e1cae303c",
-      "title": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
+      "id": "news-north-korean-official-dismisses-reduced-drills-b-f3048d8426",
+      "title": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
+      "url": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
       "tag": "US",
-      "publishedAt": "2026-08-20T09:06:16.000Z",
-      "summary": "The Iran war has slashed transit traffic at Middle Eastern airports, creating opportunities for hubs in Asia and beyond — at least for now.",
+      "publishedAt": "2026-08-20T10:20:21.000Z",
+      "summary": "Kim Yo-jong, a powerful adviser and sister of Kim Jong-un, also said she was “unaware” of any communication with Washington, contradicting President Trump’s claim her brother ha...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-odisha-forms-inquiry-committee-to-examine-reloca-f9113abc1c",
-      "title": "Odisha forms inquiry committee to examine relocation of villages from tiger habitat",
+      "id": "news-bhubaneswar-drivers-protest-113-arrested-354-veh-36c573d838",
+      "title": "Bhubaneswar drivers' protest: 113 arrested, 354 vehicles seized over violence, says Police",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/odisha-forms-inquiry-committee-to-examine-relocation-of-villages-from-tiger-habitat/article71368200.ece",
+      "url": "https://www.thehindu.com/news/national/odisha/bhubaneswar-drivers-protest-113-arrested-354-vehicles-seized-over-violence-says-police/article71368187.ece",
       "tag": "India",
-      "publishedAt": "2026-08-20T08:59:00.000Z",
-      "summary": "The committee was formed after Odisha Human Rights Commission directed to do so. Villagers had alleged that relocation was forcible and their consent was manufactured",
+      "publishedAt": "2026-08-20T10:16:33.000Z",
+      "summary": "So far, seven FIRs have been registered against the protesters at Kharvel Nagar police station in this connection with the violence",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-burnham-announces-plans-to-clean-up-illegal-wast-62a6af1e47",
+      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-08-20T10:14:29.000Z",
+      "summary": "The prime minister has promised a crackdown on criminal gangs making money from dumping waste Foreign secretary Ed Miliband has issued a rebuke to Israel after it published a te...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-former-liberian-vice-president-charged-in-drug-t-4f77cb7ac5",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-20T10:11:26.000Z",
+      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-rss-believes-it-knows-the-truth-for-everyone-rah-1842b86887",
+      "title": "'RSS believes it knows the truth for everyone': Rahul Gandhi attacks Sangh over ideology",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/rss-believes-it-knows-the-truth-for-everyone-rahul-gandhi-attacks-sangh-over-ideology/articleshow/133372967.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-20T09:52:42.000Z",
+      "summary": "Speaking at the \"Hara Bhara Swaraj: A Tribute to Rajiv Gandhi's Vision\" programme, the Gandhi Scion described the ideological contest in India as a deeper struggle over how peop...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-north-korea-fires-a-suspected-missile-toward-the-eaef21140c",
+      "title": "North Korea fires a suspected missile toward the sea, Japan says",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+      "tag": "US",
+      "publishedAt": "2026-08-20T09:24:45.000Z",
+      "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-how-conflict-is-making-life-more-expensive-for-i-1bdb6f4ba5",
+      "title": "How conflict is making life more expensive for Iranians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-20T09:20:17.000Z",
+      "summary": "How conflict is making life more expensive for Iranians",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -63,16 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-papa-looking-down-proudly-rahul-priyanka-s-emoti-92e56b033c",
-      "title": "'Papa looking down proudly': Rahul, Priyanka's emotional note for 'Mama' Sonia Gandhi ahead of memoir release",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/papa-looking-down-proudly-rahul-gandhis-emotional-note-to-mama-sonia-gandhi-ahead-of-her-memoir-release/articleshow/133371398.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-20T08:54:59.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-ex-congress-mp-sajjan-kumar-convicted-in-1984-an-d95bce0e83",
       "title": "Ex-Congress MP Sajjan Kumar, Convicted In 1984 Anti-Sikh Riots Case, Dies",
       "source": "NDTV",
@@ -83,43 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-chinese-court-sentences-founder-of-property-deve-e47a7b0469",
-      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-      "tag": "US",
-      "publishedAt": "2026-08-20T07:31:55.000Z",
-      "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in...",
+      "id": "news-ready-to-give-all-water-to-tamil-nadu-from-new-d-809c6fc5e2",
+      "title": "Ready to give all water to Tamil Nadu from new dam at Mullaperiyar, says V.D. Satheesan",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/ready-to-give-all-water-to-tamil-nadu-from-new-dam-at-mullaperiyar-says-vd-satheesan/article71368507.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-20T10:14:54.000Z",
+      "summary": "At South Zonal Council Meeting, V.D. Satheesan also urges Union government to annul the Mines and Minerals (Development and Regulation) Amendment Act, 2026,",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-trump-vows-tougher-economic-measures-on-iran-and-0afab914eb",
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-20T09:13:18.000Z",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "id": "news-deliveries-at-keralam-s-kozhikode-government-wom-82d0d37c1d",
+      "title": "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/deliveries-at-keralams-kozhikode-government-women-and-childrens-hospital-decline/article71368209.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-20T10:13:59.000Z",
+      "summary": "According to Health department, there were a total of 5,201 deliveries (2,729 normal and 2,472 C-section) in 2020-21. This number came down to 2,238 (1,387 normal and 851 C-sect...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-burnham-announces-plans-to-clean-up-illegal-wast-eba94ce14f",
-      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
+      "id": "news-gcse-results-hundreds-of-thousands-of-pupils-acr-6032263839",
+      "title": "GCSE results: hundreds of thousands of pupils across England, Wales and Northern Ireland receive grades – latest updates",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+      "url": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
       "tag": "Europe",
-      "publishedAt": "2026-08-20T09:05:01.000Z",
-      "summary": "The prime minister has promised a crackdown on criminal gangs making money from dumping waste Keir Starmer’s former chief of staff has lifted the lid on how “unbearable” it was...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-s-order-to-cut-military-exercises-with-sou-e3e48e093f",
-      "title": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
-      "tag": "US",
-      "publishedAt": "2026-08-20T09:04:19.000Z",
-      "summary": "President Trump’s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances.",
+      "publishedAt": "2026-08-20T10:12:20.000Z",
+      "summary": "Education secretary says the government is looking at changing the resits policy in England Compulsory GCSE resits in England harm teenagers’ mental wellbeing, study finds Myles...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
