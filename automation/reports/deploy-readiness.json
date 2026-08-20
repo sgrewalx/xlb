@@ -1,12 +1,26 @@
 {
-  "checkedAt": "2026-04-07T08:51:53.505Z",
+  "checkedAt": "2026-08-20T08:55:17.893Z",
   "status": "review-required",
   "canAutoDeploy": false,
   "healthStatus": "healthy",
   "riskLevel": "medium",
-  "autonomyStatus": "cold-start",
+  "autonomyStatus": "earning-trust",
+  "evidence": {
+    "sourceHealth": {
+      "path": "automation/reports/live-source-health.json",
+      "sha256": "173d359015813bb013614bd95df321c4ed03239cda68492f61dfeb9248342503"
+    },
+    "liveRisk": {
+      "path": "automation/reports/live-risk-report.json",
+      "sha256": "98577a3ccbeb3a881196a6c838f9fbce0779d7e117dc5596388af560fca920f2"
+    },
+    "autonomyState": {
+      "path": "automation/reports/autonomy-state.json",
+      "sha256": "2b019e56da6b423bedaa181434f707f9596ecace019bb5a14423229a7ba9e8a6"
+    }
+  },
   "reasons": [
     "live risk requires review before deployment",
-    "autonomy maturity is cold-start"
+    "autonomy maturity is earning-trust"
   ]
 }

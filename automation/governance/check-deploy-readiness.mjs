@@ -1,4 +1,5 @@
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
+import { buildEvidenceBindings } from "./governance-evidence.mjs";
 
 const HEALTH_FILE = new URL("../../automation/reports/live-source-health.json", import.meta.url);
 const RISK_FILE = new URL("../../automation/reports/live-risk-report.json", import.meta.url);
@@ -46,6 +47,7 @@ export function buildDeployReadiness({ health, risk, autonomyState, checkedAt = 
     healthStatus: health?.status ?? "unknown",
     riskLevel: risk?.level ?? "unknown",
     autonomyStatus: autonomyState?.status ?? "unknown",
+    evidence: buildEvidenceBindings({ health, risk, autonomyState }),
     reasons,
   };
 }
