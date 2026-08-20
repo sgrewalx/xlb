@@ -186,7 +186,20 @@ function validateHomeModules(json, label) {
     assert(isString(item.ctaLabel), `${label}: item ${index} ctaLabel required`);
     assert(isString(item.ctaUrl), `${label}: item ${index} ctaUrl required`);
     assert(Array.isArray(item.metrics) && item.metrics.length > 0, `${label}: item ${index} metrics required`);
-    assert(Array.isArray(item.items) && item.items.length > 0, `${label}: item ${index} items required`);
+    assert(Array.isArray(item.items), `${label}: item ${index} items must be an array`);
+    if (item.kind === "next_24_hours" && item.items.length === 0) {
+      assert(item.emptyState && isString(item.emptyState.title), `${label}: item ${index} emptyState title required`);
+      assert(
+        isString(item.emptyState.description),
+        `${label}: item ${index} emptyState description required`,
+      );
+    } else {
+      assert(item.items.length > 0, `${label}: item ${index} items required`);
+      assert(
+        item.emptyState == null,
+        `${label}: item ${index} emptyState must be absent or null when items exist`,
+      );
+    }
     assert(
       Array.isArray(item.relatedLinks) && item.relatedLinks.length > 0,
       `${label}: item ${index} relatedLinks required`,

@@ -9,6 +9,7 @@ import {
 
 function makeContext(overrides = {}) {
   return {
+    now: Date.parse("2026-05-03T09:00:00.000Z"),
     updatedAt: "2026-05-03T09:00:00.000Z",
     snapshotFile: "/tmp/merged-2026-05-03.json",
     snapshot: {
@@ -179,6 +180,52 @@ test("buildHomeModules returns the three primary acquisition modules", () => {
     "why_people_check",
   ]);
   assert.equal(feed.items[0].items[0].href, "/events/aurora-watch");
+  assert.equal(feed.items[1].items.length, 1);
+  assert.equal(feed.items[1].emptyState, null);
+});
+
+test("buildHomeModules models zero upcoming events as an explicit empty state", () => {
+  const base = makeContext();
+  const context = makeContext({
+    liveEventsFeed: {
+      ...base.liveEventsFeed,
+      items: base.liveEventsFeed.items.filter((item) => item.status !== "upcoming"),
+    },
+  });
+
+  const next24 = buildHomeModules(context).items.find((item) => item.kind === "next_24_hours");
+
+  assert.deepEqual(next24.items, []);
+  assert.deepEqual(next24.emptyState, {
+    title: "No scheduled events in the next 24 hours",
+    description: "Live monitoring remains active while the next scheduled event is confirmed.",
+  });
+  assert.equal(next24.metrics[0].value, "0");
+});
+
+test("buildHomeModules includes multiple upcoming events inside the next 24 hours", () => {
+  const base = makeContext();
+  const context = makeContext({
+    liveEventsFeed: {
+      ...base.liveEventsFeed,
+      items: [
+        ...base.liveEventsFeed.items,
+        {
+          ...base.liveEventsFeed.items.find((item) => item.id === "launch"),
+          id: "second-launch",
+          slug: "second-launch",
+          title: "Second launch",
+          startsAt: "2026-05-04T08:00:00.000Z",
+        },
+      ],
+    },
+  });
+
+  const next24 = buildHomeModules(context).items.find((item) => item.kind === "next_24_hours");
+
+  assert.deepEqual(next24.items.map((item) => item.id), ["launch", "second-launch"]);
+  assert.equal(next24.emptyState, null);
+  assert.equal(next24.metrics[0].value, "2");
 });
 
 test("buildAutonomyState and prune report reflect active signals and stale items", () => {

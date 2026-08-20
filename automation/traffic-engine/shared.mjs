@@ -177,6 +177,9 @@ async function readJson(fileUrl) {
 }
 
 export function buildHomeModules(context) {
+  const now = Number.isFinite(context.now)
+    ? context.now
+    : Date.parse(context.now ?? "") || Date.now();
   const liveItems = promotedLiveItems(context).slice(0, 8);
   const liveNow = liveItems.filter((item) =>
     ["live", "watch", "monitoring"].includes(item.status),
@@ -185,7 +188,7 @@ export function buildHomeModules(context) {
     .filter((item) => item.status === "upcoming")
     .filter((item) => {
       const startsAt = Date.parse(item.startsAt);
-      const delta = startsAt - Date.now();
+      const delta = startsAt - now;
       return Number.isFinite(delta) && delta > 0 && delta <= 24 * 60 * 60 * 1000;
     })
     .sort((left, right) => Date.parse(left.startsAt) - Date.parse(right.startsAt));
@@ -205,6 +208,7 @@ export function buildHomeModules(context) {
         description: "The pages below are the fastest path into changing information on the site right now.",
         ctaLabel: "Open Live",
         ctaUrl: "/live",
+        emptyState: null,
         metrics: [
           {
             label: "Live pages",
@@ -245,7 +249,7 @@ export function buildHomeModules(context) {
         metrics: [
           {
             label: "Next-day events",
-            value: String((next24.length || nextAny.length)),
+            value: String(next24.length),
           },
           {
             label: "Launch candidates",
@@ -256,7 +260,13 @@ export function buildHomeModules(context) {
             value: compactNumber(context.pageMap.get("/")?.returnVisitors ?? 0),
           },
         ],
-        items: (next24.length ? next24 : nextAny)
+        emptyState: next24.length === 0
+          ? {
+              title: "No scheduled events in the next 24 hours",
+              description: "Live monitoring remains active while the next scheduled event is confirmed.",
+            }
+          : null,
+        items: next24
           .slice(0, 3)
           .map((item) => ({
             id: item.id,
@@ -279,6 +289,7 @@ export function buildHomeModules(context) {
         description: "The early click and revisit signals already point to live pages and embedded video, not generic category walls.",
         ctaLabel: "Open video feed",
         ctaUrl: "/video",
+        emptyState: null,
         metrics: [
           {
             label: "Video views",
