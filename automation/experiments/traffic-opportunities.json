@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T09:42:09.713Z",
+  "updatedAt": "2026-08-21T03:54:31.284Z",
   "items": [
     {
       "id": "traffic-index-watch-events-global-earthquake-watch",
@@ -44,14 +44,14 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-roscosmos-progress-96",
-      "title": "Watch index coverage for /events/roscosmos-progress-96",
+      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
+      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
       "status": "queued",
-      "hypothesis": "/events/roscosmos-progress-96 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "hypothesis": "/events/nasa-s-northrop-grumman-crs-25 is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
-        "/events/roscosmos-progress-96"
+        "/events/nasa-s-northrop-grumman-crs-25"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",

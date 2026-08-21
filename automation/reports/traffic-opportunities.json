@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-20T09:42:08.072Z",
-  "sourceSnapshot": "2026-08-20T06:00:00.000Z",
+  "updatedAt": "2026-08-21T03:54:29.835Z",
+  "sourceSnapshot": "2026-08-21T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -95,13 +95,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-roscosmos-progress-96",
-      "path": "/events/roscosmos-progress-96",
+      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
+      "path": "/events/nasa-s-northrop-grumman-crs-25",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /events/roscosmos-progress-96",
-      "hypothesis": "/events/roscosmos-progress-96 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
+      "hypothesis": "/events/nasa-s-northrop-grumman-crs-25 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {

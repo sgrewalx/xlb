@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T09:42:09.061Z",
+  "updatedAt": "2026-08-21T06:00:00.000Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 309 earthquake events in the last 24 hours. Strongest reported event: M5.8 near 25 km NNE of Ruteng, Indonesia.",
+          "summary": "USGS reported 307 earthquake events in the last 24 hours. Strongest reported event: M6.7 near 31 km NW of Aniso, Peru.",
           "metricLabel": "Updated",
-          "metricValue": "Aug 20, 09:42 AM",
+          "metricValue": "Aug 21, 03:54 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -50,7 +50,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
