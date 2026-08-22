@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-08-22T11:11:52.355Z",
+  "updatedAt": "2026-08-22T12:18:26.493Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-two-great-new-repairable-gadgets-ec4b90d1bf",
+      "title": "Two great new repairable gadgets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+      "tag": "Technology",
+      "publishedAt": "2026-08-22T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-darkest-dungeon-dlc-a-bioshock-style-shooter-wit-29bced4d39",
+      "title": "Darkest Dungeon DLC, a BioShock-style shooter with clowns and other new indie games worth checking out",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2241995/darkest-dungeon-dlc-a-bioshock-style-shooter-with-clowns-and-other-new-indie-games-worth-checking-out",
+      "tag": "Technology",
+      "publishedAt": "2026-08-22T12:00:00.000Z",
+      "summary": "Plus, Mixtape on Mac, Tetris Effect-style pachinko and a platformer with randomized controls.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-putting-mice-into-hibernation-causes-a-major-los-d84abaac96",
+      "title": "Putting mice into hibernation causes a major loss of synapses",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone",
+      "tag": "Technology",
+      "publishedAt": "2026-08-22T11:22:32.000Z",
+      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-the-4-best-monitor-arms-to-clear-up-your-desk-sp-0c1ef33c92",
       "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
@@ -33,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-reportedly-cut-more-than-200-jobs-across-v-234510516c",
-      "title": "Apple reportedly cut more than 200 jobs across Vision Pro and Siri software teams",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2242070/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams",
-      "tag": "Technology",
-      "publishedAt": "2026-08-22T03:14:33.000Z",
-      "summary": "Apple has laid off employees in its Vision Pro and Siri teams as it shifts focus to smart glasses and next-gen AI tech.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-startup-success-is-a-test-match-not-a-t20-game-a-f47f9230c1",
       "title": "Startup success is a Test match, not a T20 game: Accel India co-founder Subrata Mitra on why he backed Flipkart, Myntra, and others",
       "source": "YourStory",
@@ -63,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-trump-s-space-transportation-policy-calls-for-ne-2965dbc4bf",
-      "title": "Trump's space transportation policy calls for new spaceport on federal land",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches",
-      "tag": "Technology",
-      "publishedAt": "2026-08-21T23:32:17.000Z",
-      "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-tiktok-to-pay-400m-to-us-in-one-of-largest-child-78442fd000",
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "source": "BBC Technology",
@@ -80,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-21T22:36:12.000Z",
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-hoverair-s-transforming-modular-drone-has-alread-f703444ab3",
-      "title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "tag": "Technology",
-      "publishedAt": "2026-08-21T22:14:11.000Z",
-      "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-dismantling-the-roadless-rule-threatens-to-disru-4d27e28062",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us",
+      "tag": "Technology",
+      "publishedAt": "2026-08-22T11:08:53.000Z",
+      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-set-up-a-separate-work-profile-on-your-android-p-e8b363bb86",
       "title": "Set Up a Separate Work Profile on Your Android Phone",
       "source": "Wired",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-22T11:00:00.000Z",
       "summary": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-best-mattress-toppers-i-ve-tried-2026-suppor-825c5f8735",
-      "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/the-best-mattress-toppers",
-      "tag": "Technology",
-      "publishedAt": "2026-08-22T10:32:00.000Z",
-      "summary": "These toppers will transform your mattress into exactly what you need, whether that’s a super-plush pillow top, memory foam, or targeted back support.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
