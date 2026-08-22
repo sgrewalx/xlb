@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:54:30.581Z",
+  "updatedAt": "2026-08-22T03:47:19.967Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-08-21T03:47:33.630Z",
-      "summary": "USGS reported 307 earthquake events in the last 24 hours. Strongest reported event: M6.7 near 31 km NW of Aniso, Peru.",
+      "startsAt": "2026-08-22T03:44:05.010Z",
+      "summary": "USGS reported 299 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 194 km SW of Labuan, Indonesia.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-21T03:54:30.581Z",
+      "updatedAt": "2026-08-22T03:47:19.967Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-live-murder-trial-in-death-of-former-micro-cb9ab5a302",
-        "video-peru-earthquake-live-peru-hit-by-powerful-6-7-ma-1cb12221f3",
-        "video-trump-s-deportation-twist-mexicans-sent-to-this--9fd2564f03"
+        "video-trump-live-trump-s-nuclear-warning-sparks-global-498d98b02c"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,8 +44,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-08-21T03:51:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-08-22T03:43:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -58,14 +56,10 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-21T03:54:30.581Z",
+      "updatedAt": "2026-08-22T03:47:19.967Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-      "relatedVideoIds": [
-        "video-trump-targets-1-000-us-space-launches-a-year-by--2b0a7de800",
-        "video-watch-live-murder-trial-in-death-of-former-micro-cb9ab5a302",
-        "video-trump-s-deportation-twist-mexicans-sent-to-this--9fd2564f03"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -95,7 +89,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-21T03:54:30.581Z",
+      "updatedAt": "2026-08-22T03:47:19.967Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -115,7 +109,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-21T03:54:30.296Z",
+      "startsAt": "2026-08-22T03:47:19.744Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -127,12 +121,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-21T03:54:30.581Z",
+      "updatedAt": "2026-08-22T03:47:19.967Z",
       "importance": 71,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-trump-targets-1-000-us-space-launches-a-year-by--2b0a7de800"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -150,7 +142,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-21T03:54:30.297Z",
+      "startsAt": "2026-08-22T03:47:19.745Z",
       "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -162,12 +154,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-21T03:54:30.581Z",
+      "updatedAt": "2026-08-22T03:47:19.967Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-trump-targets-1-000-us-space-launches-a-year-by--2b0a7de800"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",

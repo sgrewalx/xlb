@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T06:00:00.000Z",
-  "snapshotFile": "merged-2026-08-21.json",
-  "capturedAt": "2026-08-21T06:00:00.000Z",
+  "updatedAt": "2026-08-22T06:00:00.000Z",
+  "snapshotFile": "merged-2026-08-22.json",
+  "capturedAt": "2026-08-22T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -32,7 +32,7 @@
     {
       "path": "/events/nasa-s-spacex-crs-35",
       "pageviews": 0,
-      "searchImpressions": 8,
+      "searchImpressions": 9,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
