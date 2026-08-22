@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-22T22:13:05.668Z",
+  "updatedAt": "2026-08-22T23:12:16.114Z",
   "section": "Expanded News",
   "items": [
+    {
+      "id": "news-trump-s-top-trade-representative-details-offer-t-683a86d4e7",
+      "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+      "tag": "US",
+      "publishedAt": "2026-08-22T23:02:27.000Z",
+      "summary": "In an interview, Jamieson Greer, President’s Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-struggling-households-need-more-help-with-bills--5d76fb0121",
+      "title": "Struggling households need more help with bills, energy industry says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-08-22T23:00:03.000Z",
+      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-tropical-storm-moke-advances-towards-hawaii-with-3e26d23649",
+      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-22T22:29:07.000Z",
+      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-vanished-from-tracking-system-how-panama-flagged-3b8aa5dd7a",
+      "title": "'Vanished from tracking system': How Panama-flagged cargo ship with 24 on board sank off Odisha coast",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/vanished-from-tracking-system-how-panama-flagged-cargo-ship-with-24-on-board-sank-off-odisha-coast/articleshow/133432951.cms",
+      "tag": "Running",
+      "publishedAt": "2026-08-22T22:25:18.000Z",
+      "summary": "XLB brief: a timely running item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
     {
       "id": "news-canada-retaliates-as-trade-war-with-u-s-escalate-9a71c6cfec",
       "title": "Canada retaliates as trade war with U.S. escalates",
@@ -13,16 +53,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-real-madrid-beat-espanyol-2-1-in-jose-mourinho-s-b38782571a",
-      "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T21:55:06.000Z",
-      "summary": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-tropical-storm-moke-poised-to-slam-into-hawaii-j-8ec5d92982",
       "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
       "source": "The Guardian",
@@ -30,36 +60,6 @@
       "tag": "Europe",
       "publishedAt": "2026-08-22T21:52:05.000Z",
       "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islan...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-jaishankar-to-visit-moscow-on-august-23-24-eb708c3203",
-      "title": "Jaishankar to visit Moscow on August 23-24",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/jaishankar-to-visit-moscow-on-august-23-24/articleshow/133431124.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-22T21:51:31.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-trump-s-top-trade-representative-details-offer-t-ecb038369b",
-      "title": "Trump’s Top Trade Representative Details Offer That Canada Refused",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
-      "tag": "US",
-      "publishedAt": "2026-08-22T21:12:50.000Z",
-      "summary": "In an interview, Jamieson Greer, Trump’s trade representative, laid out details of the trade offer that the United States made to Canada before talks crumbled.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-carney-calls-trump-s-fresh-tariffs-a-miscalculat-d8f8feaa5e",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T20:10:00.000Z",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,6 +93,26 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
+      "id": "news-real-madrid-beat-espanyol-2-1-in-jose-mourinho-s-b38782571a",
+      "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-22T21:55:06.000Z",
+      "summary": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-jaishankar-to-visit-moscow-on-august-23-24-eb708c3203",
+      "title": "Jaishankar to visit Moscow on August 23-24",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/jaishankar-to-visit-moscow-on-august-23-24/articleshow/133431124.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-22T21:51:31.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
       "id": "news-open-air-cinema-brings-movie-nights-back-to-khar-68502596f9",
       "title": "Open-air cinema brings movie nights back to Khartoum",
       "source": "Al Jazeera",
@@ -100,26 +120,6 @@
       "tag": "Europe",
       "publishedAt": "2026-08-22T21:27:22.000Z",
       "summary": "Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-meghan-s-casting-in-the-gentlemen-reportedly-wit-77ee815989",
-      "title": "Meghan’s casting in The Gentlemen reportedly withdrawn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T21:23:18.000Z",
-      "summary": "Duchess of Sussex was believed to have been under consideration for season three of Guy Ritchie’s crime caper The Duchess of Sussex’s reported casting in Guy Ritchie’s The Gentl...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-how-two-british-historians-made-a-smash-hit-podc-5efcbb6948",
-      "title": "How Two British Historians Made a Smash Hit Podcast",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
-      "tag": "US",
-      "publishedAt": "2026-08-22T21:03:53.000Z",
-      "summary": "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
