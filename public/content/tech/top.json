@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-21T23:14:01.193Z",
+  "updatedAt": "2026-08-22T00:38:53.442Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-the-unlikely-place-at-the-center-of-china-s-ai-b-da75686cbc",
+      "title": "The Unlikely Place at the Center of China’s AI Boom",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom",
+      "tag": "Technology",
+      "publishedAt": "2026-08-21T23:25:32.000Z",
+      "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-anthropic-s-opus-4-6-is-a-smut-machine-ec72ac68b1",
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -73,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-s-big-reckoning-is-here-04b60f0873",
-      "title": "Meta’s Big Reckoning Is Here",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/metas-big-reckoning-is-here",
-      "tag": "Technology",
-      "publishedAt": "2026-08-21T15:00:00.000Z",
-      "summary": "Meta is in court again over child safety, and this time it’s a landmark case that could force significant changes to core features of Facebook and Instagram.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-mantra-halts-network-transactions-following-unsp-ba1a1db188",
       "title": "MANTRA Halts Network Transactions Following Unspecified Incident",
       "source": "Gadgets 360",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-tesla-s-door-handles-lead-to-its-biggest-recall--04e058632f",
+      "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet",
+      "tag": "Technology",
+      "publishedAt": "2026-08-21T23:10:00.000Z",
+      "summary": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates—but they will also require physical warning stickers and came...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-nvidia-partners-with-data-center-developer-clove-d798852e51",
       "title": "Nvidia partners with data center developer Cloverleaf",
       "source": "TechCrunch",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-21T22:37:38.000Z",
       "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tiktok-will-pay-400-million-to-settle-doj-child--255c2e18c7",
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "tag": "Technology",
-      "publishedAt": "2026-08-21T22:13:34.000Z",
-      "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Prote...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
