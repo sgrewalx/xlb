@@ -1,35 +1,55 @@
 {
-  "updatedAt": "2026-08-22T06:24:56.297Z",
+  "updatedAt": "2026-08-22T07:24:26.709Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-aicte-opens-select-mtech-programmes-to-4-year-bs-95c3977c9c",
-      "title": "AICTE opens select MTech programmes to 4-year BSc graduates",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/aicte-opens-select-mtech-programmes-to-4-year-bsc-graduates/articleshow/133418722.cms",
+      "id": "news-five-killed-several-injured-in-bihar-s-champaran-5cb281d857",
+      "title": "Five killed, several injured in Bihar's Champaran as bus ploughs into crowd attending cultural programme",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/bihar/five-killed-several-injured-in-bihars-champaran-as-bus-ploughs-into-crowd-attending-cultural-programme/article71376831.ece",
       "tag": "India",
-      "publishedAt": "2026-08-22T06:12:02.000Z",
+      "publishedAt": "2026-08-22T07:12:47.000Z",
+      "summary": "\"While trying to avert a head-on collision with a truck, the bus ploughed into a crowd attending a cultural event on the roadside, killing five men and injuring several others,\"...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-not-poor-enough-do-people-use-london-s-pay-it-fo-d26df02c34",
+      "title": "Not 'poor enough': Do people use London's pay-it-forward schemes?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cewrv4wqvw2o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-08-22T06:59:33.000Z",
+      "summary": "The schemes are in place to help people who are struggling with the cost of living.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-victorian-labor-promises-free-dental-care-if-re--663bca084b",
+      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
+      "tag": "Europe",
+      "publishedAt": "2026-08-22T06:45:46.000Z",
+      "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victori...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-cm-yogi-akhilesh-mayawati-among-52-leaders-given-fee63f241c",
+      "title": "CM Yogi, Akhilesh, Mayawati among 52 leaders given Rs 10 lakh bulletproof jackets ahead of UP polls: Report",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/cm-yogi-akhilesh-mayawati-among-52-leaders-given-rs-10-lakh-bulletproof-jackets-ahead-of-up-polls-report/articleshow/133419031.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-22T06:43:42.000Z",
       "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-canada-vows-to-match-trump-s-50-tariffs-after-tr-14a6b379bd",
-      "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T06:05:58.000Z",
-      "summary": "Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-kerala-driving-test-wait-stretches-beyond-2-mont-9592695141",
-      "title": "Kerala driving test wait stretches beyond 2 months despite MVD directive",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-driving-test-wait-stretches-beyond-2-months-despite-mvd-directive/article71376610.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-22T06:01:58.000Z",
-      "summary": "The delay in implementing the new directive is reportedly one of the main reasons for the continuing backlog",
+      "id": "news-mexican-governor-accused-by-u-s-of-helping-carte-e07b01f477",
+      "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+      "tag": "US",
+      "publishedAt": "2026-08-22T06:42:24.000Z",
+      "summary": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back and...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -40,26 +60,6 @@
       "tag": "Europe",
       "publishedAt": "2026-08-22T05:36:39.000Z",
       "summary": "The Chang'e-7 seeks to find out more about the water trapped within the moon's shadowed craters.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-russian-strikes-on-ukraine-kill-two-officials-sa-74472a356e",
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T05:15:58.000Z",
-      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-canada-u-s-trade-war-escalates-as-talks-collapse-87bc28f2a1",
-      "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-      "tag": "US",
-      "publishedAt": "2026-08-22T05:13:58.000Z",
-      "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on t...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-battery-fires-at-recycling-centres-are-costing-u-92620a03f9",
-      "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/22/lithium-battery-fires-waste-recycling-centres-vapes-uk",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T06:00:57.000Z",
-      "summary": "Experts say fires caused by wrongly discarded lithium batteries, such as those in vapes, are putting lives at risk Fires at recycling centres caused by wrongly discarded lithium...",
+      "id": "news-palle-nidra-enabling-police-to-have-informal-int-84cbbbba0e",
+      "title": "Palle Nidra enabling police to have informal interaction with common people, says Vizianagaram SP Damodar",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/palle-nidra-enabling-police-to-have-informal-interaction-with-common-people-says-vizianagaram-sp-damodar/article71376645.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-22T07:11:33.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-we-fear-lessons-will-not-be-learned-chloe-moffat-ab36b69039",
-      "title": "‘We fear lessons will not be learned’: Chloe Moffat’s parents on their fight to hold Treasury to account",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/22/chloe-moffat-parents-treasury-death",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T06:00:56.000Z",
-      "summary": "Couple considering suing for wrongful death after coroner found disciplinary process materially contributed to suicide When a coroner ruled this month that the Treasury “materia...",
+      "id": "news-jadavpur-university-clash-bjp-mla-denies-involve-9cea34b69a",
+      "title": "Jadavpur University clash: BJP MLA denies involvement, says party 'never been associated with ABVP'",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/jadavpur-university-clash-bjp-mla-denies-involvement-says-party-never-been-associated-with-abvp/article71376818.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-22T07:01:31.000Z",
+      "summary": "Jadavpur MLA Sarbari Mukherjee alleged that the Left-leaning SFI and RSF instigated ABVP supporters to enter the campus after a member of the RSS' student wing was injured",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-sorrow-as-community-pays-tribute-to-shining-ligh-3139ba2a3d",
-      "title": "Sorrow as community pays tribute to ‘shining light’ Lily Hooper after NSW hiking tragedy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/sorrow-as-community-pays-tribute-to-shining-light-lily-hooper-after-nsw-hiking-tragedy",
-      "tag": "Europe",
-      "publishedAt": "2026-08-22T05:59:38.000Z",
-      "summary": "The 18-year-old remembered as a talented athlete with an infectious smile and ‘one of those people who everyone simply liked’ Get our breaking news email , free app or daily new...",
+      "id": "news-jharkhand-protesters-attempt-to-burn-effigies-of-41b7db8f47",
+      "title": "Jharkhand protesters attempt to burn effigies of CM Hemant Soren, Rahul Gandhi; scuffle with police in Ranchi",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protesters-attempt-to-burn-effigies-of-cm-hemant-soren-rahul-gandhi-scuffle-with-police-in-ranchi/article71374669.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-22T06:59:49.000Z",
+      "summary": "Similar scuffles were also reported from Hazaribag and Giridih, where JMM workers clashed with students trying to burn effigies of Hemant Soren",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
