@@ -1,25 +1,55 @@
 {
-  "updatedAt": "2026-08-22T12:18:26.493Z",
+  "updatedAt": "2026-08-22T13:23:51.636Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-two-great-new-repairable-gadgets-ec4b90d1bf",
-      "title": "Two great new repairable gadgets",
+      "id": "tech-an-okay-laptop-with-16gb-of-ram-is-better-than-a-c03b2f1b1d",
+      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
       "tag": "Technology",
-      "publishedAt": "2026-08-22T12:00:00.000Z",
-      "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all...",
+      "publishedAt": "2026-08-22T13:00:00.000Z",
+      "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that st...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-darkest-dungeon-dlc-a-bioshock-style-shooter-wit-29bced4d39",
-      "title": "Darkest Dungeon DLC, a BioShock-style shooter with clowns and other new indie games worth checking out",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2241995/darkest-dungeon-dlc-a-bioshock-style-shooter-with-clowns-and-other-new-indie-games-worth-checking-out",
+      "id": "tech-saily-ultra-esim-premum-plan-review-packed-with--2f8af59097",
+      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/saily-ultra-esim",
       "tag": "Technology",
-      "publishedAt": "2026-08-22T12:00:00.000Z",
-      "summary": "Plus, Mixtape on Mac, Tetris Effect-style pachinko and a platformer with randomized controls.",
+      "publishedAt": "2026-08-22T13:00:00.000Z",
+      "summary": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-to-airplay-from-iphone-or-macbook-to-your-tv-d3bb7db860",
+      "title": "How to AirPlay from iPhone or MacBook to your TV",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2240112/how-to-airplay-from-iphone-macbook-to-tv",
+      "tag": "Technology",
+      "publishedAt": "2026-08-22T13:00:00.000Z",
+      "summary": "If you want to display media from your phone on a TV screen, you'll need to follow these steps to use AirPlay or screen mirroring.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-robot-horse-and-rider-steal-the-spotlight-at-chi-b4422df8be",
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-22T12:47:28.000Z",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-much-ram-do-you-really-need-in-a-smartphone-b85c72835d",
+      "title": "How Much RAM Do You Really Need in a Smartphone?",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/features/how-much-ram-need-in-smartphones-8gb-24gb-uses-11926888",
+      "tag": "Technology",
+      "publishedAt": "2026-08-22T12:30:17.000Z",
+      "summary": "Smartphones are available with 4GB, 6GB, 8GB, 12GB and 16GB of RAM. 4GB is generally limited to entry-level phones, while 6GB can handle everyday use. 8GB and 12GB of RAM are mo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,26 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-22T11:22:32.000Z",
       "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-4-best-monitor-arms-to-clear-up-your-desk-sp-0c1ef33c92",
-      "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-monitor-arms",
-      "tag": "Technology",
-      "publishedAt": "2026-08-22T11:01:00.000Z",
-      "summary": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-check-battery-health-on-an-android-phone--b6b2901330",
-      "title": "How to Check Battery Health on an Android Phone: A Step-by-Step Guide",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/how-to/features/poco-m8x-5g-battery-charging-details-announced-specifications-features-11925241",
-      "tag": "Technology",
-      "publishedAt": "2026-08-22T10:30:01.000Z",
-      "summary": "Google lets Android phone users check the battery health of their handsets directly in the Settings menu. Hence, users do not have to download third-party apps to check the same...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-tiktok-to-pay-400m-to-us-in-one-of-largest-child-78442fd000",
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-08-21T22:36:12.000Z",
-      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-dismantling-the-roadless-rule-threatens-to-disru-4d27e28062",
-      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us",
+      "id": "tech-this-handy-google-pixel-feature-can-help-solve-a-7bc7caf431",
+      "title": "This handy Google Pixel feature can help solve annoying Android Bluetooth problems",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature",
       "tag": "Technology",
-      "publishedAt": "2026-08-22T11:08:53.000Z",
-      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+      "publishedAt": "2026-08-22T12:30:00.000Z",
+      "summary": "If you're having trouble with Bluetooth connections on your Pixel phone, this tool is a great place to start your troubleshooting.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-set-up-a-separate-work-profile-on-your-android-p-e8b363bb86",
-      "title": "Set Up a Separate Work Profile on Your Android Phone",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone",
+      "id": "tech-two-great-new-repairable-gadgets-ec4b90d1bf",
+      "title": "Two great new repairable gadgets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
       "tag": "Technology",
-      "publishedAt": "2026-08-22T11:00:00.000Z",
-      "summary": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
+      "publishedAt": "2026-08-22T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
