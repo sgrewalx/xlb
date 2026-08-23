@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:00:00.000Z",
+  "updatedAt": "2026-08-23T17:54:46.250Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 199 earthquake events in the last 24 hours. Strongest reported event: M6.2 near Scotia Sea.",
+          "summary": "USGS reported 297 earthquake events in the last 24 hours. Strongest reported event: M6 near 33 km SSW of Honchō, Japan.",
           "metricLabel": "Updated",
-          "metricValue": "Aug 23, 03:55 AM",
+          "metricValue": "Aug 23, 05:54 PM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -50,7 +50,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 1. Recent peak is Kp 1. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
