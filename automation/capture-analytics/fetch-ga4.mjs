@@ -350,10 +350,25 @@ export function classifyGa4Data({ totals, rowCount, pageCount }) {
   return "inconsistent";
 }
 
-function parseRowCount(report) {
-  const rowCount = Number(report?.rowCount);
+export function parseRowCount(report) {
+  const rows = report?.rows;
+  if (rows != null && !Array.isArray(rows)) {
+    throw new Error("GA4 page report rowCount is missing or invalid");
+  }
+
+  const returnedRowCount = rows?.length ?? 0;
+  const rowCount = report?.rowCount;
+  if (rowCount == null) {
+    if (returnedRowCount === 0) {
+      return 0;
+    }
+    throw new Error("GA4 page report omitted rowCount despite returning rows");
+  }
   if (!Number.isInteger(rowCount) || rowCount < 0) {
     throw new Error("GA4 page report rowCount is missing or invalid");
+  }
+  if (rowCount < returnedRowCount) {
+    throw new Error("GA4 page report rowCount is smaller than the returned row count");
   }
   return rowCount;
 }
