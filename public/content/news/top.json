@@ -1,35 +1,65 @@
 {
-  "updatedAt": "2026-08-23T10:15:07.587Z",
+  "updatedAt": "2026-08-23T11:13:45.065Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-udf-mps-from-keralam-seek-bjp-s-response-on-bifu-78c0d70b1f",
-      "title": "UDF MPs from Keralam seek BJP’s response on bifurcation of Palakkad railway division",
+      "id": "news-indian-u-s-businesses-keen-to-invest-in-banglade-92cd2ded7c",
+      "title": "Indian, U.S. businesses keen to invest in Bangladesh: Commerce Minister Khandakar Abdul Muktadir",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/udf-mps-from-keralam-seek-bjps-response-on-bifurcation-of-palakkad-railway-division/article71380432.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-23T10:13:52.000Z",
-      "summary": "Kozhikode MP asks Union Minister Suresh Gopi to comment on the issue; UDF MPs plan to stage a fast outside Divisional Railway Manager’s office at Palakkad on August 26 in protest",
+      "url": "https://www.thehindu.com/news/international/indian-us-businesses-keen-to-invest-in-bangladesh-minister/article71380715.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-08-23T11:10:18.000Z",
+      "summary": "Bangladesh Commerce Minister Khandakar Abdul Muktadir's remarks comes days after a 14-member Confederation of Indian Industry delegation visited Bangladesh from August 17 to 19",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-struggling-households-need-more-help-with-bills--8adff46143",
-      "title": "Struggling households need more help with bills, energy industry says",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-08-23T10:11:21.000Z",
-      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-party-of-loudmouths-cm-devendra-fadnavis-says-ra-e5be08b34c",
-      "title": "'Party of loudmouths': CM Devendra Fadnavis says Rahul Gandhi's Pune event for women a 'showoff'",
+      "id": "news-grassroots-outreach-youth-connect-bjp-sharpens-p-934c536bce",
+      "title": "'Grassroots outreach, youth connect': BJP sharpens poll strategy for 7 states",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/party-of-loudmouths-cm-devendra-fadnavis-says-rahul-gandhis-pune-event-for-women-a-showoff/articleshow/133437605.cms",
+      "url": "https://timesofindia.indiatimes.com/india/grassroots-outreach-youth-connect-bjp-sharpens-poll-strategy-for-7-states/articleshow/133438310.cms",
       "tag": "India",
-      "publishedAt": "2026-08-23T10:04:10.000Z",
-      "summary": "CM Devendra Fadnavis attacked the Congress, accusing the party of losing touch with voters and relying on public statements to remain politically relevant. \"Their job is just to...",
+      "publishedAt": "2026-08-23T11:03:24.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-crosscountry-cancels-uk-services-after-power-cut-14ac35167e",
+      "title": "CrossCountry cancels UK services after power cut",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-08-23T10:57:17.000Z",
+      "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-syria-foreign-minister-says-door-open-for-diplom-c8736694a3",
+      "title": "Syria foreign minister says door open for diplomacy with Israel",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-23T10:48:55.000Z",
+      "summary": "Asaad al-Shaibani urges Israel to seize 'historic opportunity' for diplomacy.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-these-were-brave-officers-tributes-paid-to-polic-9320828e8b",
+      "title": "‘These were brave officers’: tributes paid to police among seven killed in A66 crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+      "tag": "Europe",
+      "publishedAt": "2026-08-23T10:43:55.000Z",
+      "summary": "Redcar MP says Teesside community is ‘reeling’ as PM offers condolences and asks public to avoid speculation Tributes are being paid to two police officers who died on Teesside...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-outsiders-to-partners-engaging-gen-z-and-masteri-fd3d09b757",
+      "title": "Outsiders to partners: Engaging Gen Z and mastering existing policy channels",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/ht-insight/governance/outsiders-to-partners-engaging-gen-z-and-mastering-existing-policy-channels-101787480988409.html",
+      "tag": "India",
+      "publishedAt": "2026-08-23T10:32:42.000Z",
+      "summary": "Authored by - Sriparna Pathak, executive director, Centre for Northeast Asian Studies, Jindal School of International Affairs, OP Jindal Global University.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -53,36 +83,6 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-israeli-air-strike-near-gaza-refugee-camp-kills--074dde98e0",
-      "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-23T09:43:47.000Z",
-      "summary": "Israeli air attack near Gaza's Maghazi camp kills one person and injures two others.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-iran-linked-hackers-blamed-for-cyber-attack-that-4f96c4ad8f",
-      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-      "tag": "Europe",
-      "publishedAt": "2026-08-23T09:07:44.000Z",
-      "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack th...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-extreme-heat-demands-public-health-interventions-dca9f405aa",
-      "title": "Extreme heat demands public health interventions and income loss safeguards",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/ht-insight/public-health/extreme-heat-demands-public-health-interventions-and-income-loss-safeguards-101787394270031.html",
-      "tag": "India",
-      "publishedAt": "2026-08-22T10:41:32.000Z",
-      "summary": "This article is authored by Deepali Khanna, senior vice president and head, Asia, The Rockefeller Foundation.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-hours-after-u-s-imposes-tariffs-canada-says-it-l-cc2c5142f5",
       "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
       "source": "NPR",
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-digital-mapping-of-rivulets-other-water-sources--1a16fba5f1",
-      "title": "Digital mapping of rivulets, other water sources completed in Keralam’s Kunnamangalam block panchayat",
+      "id": "news-chhattisgarh-police-bust-inter-state-currency-do-e84579df4c",
+      "title": "Chhattisgarh police bust inter-State currency-doubling racket; seven held from Maharashtra",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/kozhikode/digital-mapping-of-rivulets-other-water-sources-completed-in-keralams-kunnamangalam-block-panchayat/article71380486.ece",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-police-bust-inter-state-currency-doubling-racket-seven-held-from-maharashtra/article71380712.ece",
       "tag": "India",
-      "publishedAt": "2026-08-23T10:12:06.000Z",
-      "summary": "The initiative, claimed to be the first such organised attempt by a local body in Kozhikode district, has provided a scientific record of the water resources and their present c...",
+      "publishedAt": "2026-08-23T10:59:17.000Z",
+      "summary": "The official said that the accused allegedly cheated people with a claim that they could change blackened and damaged currency into new notes using a chemical and could also dou...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-junior-doctors-strike-enters-seventh-day-without-19c2b7075c",
-      "title": "Junior doctors’ strike enters seventh day without emergency services; IMA, doctors’ bodies back demands",
+      "id": "news-markapuram-police-arrest-man-linked-to-two-murde-9d7c324c57",
+      "title": "Markapuram police arrest man linked to two murder cases",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/junior-doctors-strike-enters-a-week-without-emergency-services-ima-doctors-bodies-back-demands/article71378238.ece",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/markapuram-police-arrest-man-linked-to-two-murder-cases/article71378030.ece",
       "tag": "India",
-      "publishedAt": "2026-08-23T10:12:06.000Z",
-      "summary": "The Indian Medical Association, the A.P. Government Doctors’ Association and Praja Arogya Vedika called the demands genuine; PAV leaders who visited Siddhartha Medical College s...",
+      "publishedAt": "2026-08-23T10:55:15.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-andhra-junior-doctors-to-continue-strike-as-talk-96db149c9d",
-      "title": "Andhra junior doctors to continue strike as talks with govt. make no headway",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-junior-doctors-to-continue-strike-as-talks-with-govt-make-no-headway/article71369639.ece",
+      "id": "news-sajjan-kumar-role-model-row-haryana-cong-leader--847f24d83e",
+      "title": "Sajjan Kumar ‘role model’ row: Haryana Cong leader urges Kharge to remove Hooda from CWC",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/sajjan-kumar-role-model-row-haryana-cong-leader-urges-kharge-to-remove-hooda-from-cwc/articleshow/133438227.cms",
       "tag": "India",
-      "publishedAt": "2026-08-23T10:10:42.000Z",
-      "summary": "3% hike offer is inadequate to compensate for the prevailing inflation, says APJUDA, adding that it has been assured of another round of talks",
+      "publishedAt": "2026-08-23T10:54:27.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
