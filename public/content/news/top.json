@@ -1,25 +1,65 @@
 {
-  "updatedAt": "2026-08-23T08:19:52.433Z",
+  "updatedAt": "2026-08-23T09:19:27.243Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-udf-mps-from-keralam-seek-bjp-s-response-on-bifu-ed8f95d4f4",
-      "title": "UDF MPs from Keralam seek BJP’s response on bifurcation of Palakkad railway division",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/udf-mps-from-keralam-seek-bjps-response-on-bifurcation-of-palakkad-railway-division/article71380432.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-23T08:13:48.000Z",
-      "summary": "Kozhikode MP asks Union Minister Suresh Gopi to comment on the issue; UDF MPs plan to stage a fast outside Divisional Railway Manager’s office at Palakkad on August 26 in protest",
+      "id": "news-four-years-ago-a-crypto-boss-went-missing-now-hi-6f448ad4e8",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "tag": "US",
+      "publishedAt": "2026-08-23T09:16:36.000Z",
+      "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-struggling-households-need-more-help-with-bills--73c1588a48",
-      "title": "Struggling households need more help with bills, energy industry says",
+      "id": "news-iran-linked-hackers-blamed-for-cyber-attack-that-4f96c4ad8f",
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "tag": "Europe",
+      "publishedAt": "2026-08-23T09:07:44.000Z",
+      "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack th...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-shantinagara-airport-bus-lounge-falls-into-negle-502db184a3",
+      "title": "Shantinagara Airport Bus Lounge falls into neglect, raises concerns over passenger safety and maintenance",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/cities/bangalore/shantinagara-airport-bus-lounge-falls-into-neglect-raises-concerns-over-passenger-safety-and-maintenance/article71316124.ece",
+      "tag": "India",
+      "publishedAt": "2026-08-23T09:00:55.000Z",
+      "summary": "During a visit by The Hindu, the lounge was found with its lights switched off, while the waiting area and washrooms showed visible signs of poor maintenance",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-zelensky-has-questions-to-answer-about-corruptio-5351dbace8",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-08-23T08:03:52.000Z",
-      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-23T08:47:47.000Z",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-israeli-wounded-in-occupied-west-bank-stabbing-0b26cca854",
+      "title": "Israeli wounded in occupied West Bank stabbing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-08-23T08:38:01.000Z",
+      "summary": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-words-being-put-in-my-mouth-deepender-hooda-deni-8539e163f7",
+      "title": "'Words being put in my mouth': Deepender Hooda denies calling Sajjan Kumar a 'role model'",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/words-being-put-in-my-mouth-deepender-hooda-denies-calling-sajjan-kumar-a-role-model/articleshow/133436793.cms",
+      "tag": "India",
+      "publishedAt": "2026-08-23T08:34:46.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -30,46 +70,6 @@
       "tag": "India",
       "publishedAt": "2026-08-23T07:51:42.000Z",
       "summary": "IP University has revised the Spot Round 3 offline counselling schedule for 2026-27. Check revised dates, eligibility, venues and important admission details.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-kazakhstan-holds-parliamentary-election-expected-6026504837",
-      "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-08-23T07:38:42.000Z",
-      "summary": "Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-carney-stands-up-to-trump-in-u-s-canada-trade-wa-94c899ac35",
-      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
-      "tag": "US",
-      "publishedAt": "2026-08-23T07:15:52.000Z",
-      "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-why-this-abnormal-gap-congress-questions-delay-i-fdc9101ce0",
-      "title": "'Why this abnormal gap?' Congress questions delay in prorogation of Monsoon Session",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/why-this-abnormal-gap-congress-questions-delay-in-prorogation-of-monsoon-session/articleshow/133435898.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-23T07:11:05.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-london-s-low-emission-zone-is-working-so-why-are-1c20c8348d",
-      "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
-      "tag": "Europe",
-      "publishedAt": "2026-08-23T07:00:26.000Z",
-      "summary": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against them Ten years ago, Alasta...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
@@ -93,33 +93,33 @@
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-punnamada-in-keralam-s-alappuzha-sizzles-as-boat-3e5a52ad0b",
-      "title": "Punnamada in Keralam’s Alappuzha sizzles as boat clubs battle for NTBR crown",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/punnamada-in-keralams-alappuzha-sizzles-as-boat-clubs-battle-for-ntbr-crown/article71376956.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-23T08:13:45.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-echoing-trump-latin-america-s-leaders-boost-alli-fd0ffbef2d",
+      "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "tag": "US",
+      "publishedAt": "2026-08-23T09:01:52.000Z",
+      "summary": "With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-china-says-border-with-india-generally-stable-at-367087243f",
-      "title": "China says border with India ‘generally stable at the moment’",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/china-says-border-with-india-generally-stable-at-the-moment/article71336706.ece",
-      "tag": "India",
-      "publishedAt": "2026-08-23T08:06:59.000Z",
-      "summary": "Statement from Chinese Foreign Ministry comes in response to recent reports of rising tension in Arunachal Pradesh; MEA says maintaining peace in border areas is of “utmost impo...",
+      "id": "news-the-world-s-breadbaskets-are-getting-pounded-by--cb7f13db22",
+      "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
+      "tag": "US",
+      "publishedAt": "2026-08-23T09:01:49.000Z",
+      "summary": "Bad harvests and attacks on trade passages threaten to drive food prices higher.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-iran-executes-man-accused-of-aiding-u-s-israel-i-2aea821ffd",
-      "title": "Iran executes man accused of aiding U.S., Israel in anti-government protests",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/iran-executes-man-accused-of-aiding-us-israel-in-anti-government-protests/article71380428.ece",
-      "tag": "Europe",
-      "publishedAt": "2026-08-23T08:06:40.000Z",
-      "summary": "The judiciary said Majid Adineh had been convicted of “operational action in favour of hostile groups” in nationwide rallies that broke out late last year",
+      "id": "news-someone-was-impersonating-collien-fernandes-onli-19adf3dc05",
+      "title": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
+      "tag": "US",
+      "publishedAt": "2026-08-23T09:00:33.000Z",
+      "summary": "The German actress Collien Fernandes set out to discover who was pretending to be her online and sending men sexually explicit material. Her answer ignited a feminist movement.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     }
   ]
