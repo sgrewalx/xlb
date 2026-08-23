@@ -10,6 +10,26 @@
     "ga4": true,
     "adsense": false
   },
+  "ga4": {
+    "propertyId": "530268584",
+    "streamVerified": true,
+    "stream": {
+      "name": "properties/530268584/dataStreams/14269082570",
+      "streamId": "14269082570",
+      "type": "WEB_DATA_STREAM",
+      "displayName": "XLB",
+      "measurementId": "G-5JECBDGEMT",
+      "defaultUri": "https://xlb.codemachine.in"
+    },
+    "rowCount": 0,
+    "totals": {
+      "totalUsers": 0,
+      "sessions": 0,
+      "screenPageViews": 0,
+      "eventCount": 0
+    },
+    "dataStatus": "no-events-observed"
+  },
   "pages": [
     {
       "path": "/",
