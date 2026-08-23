@@ -85,7 +85,11 @@ test("evidence hash mismatch is denied", () => {
     ...evidence,
     risk: { level: "medium", reasons: ["changed after readiness calculation"] },
   };
-  const decision = decide(report, { evidence: changedEvidence });
+  const decision = decide(report, {
+    evidence: changedEvidence,
+    trigger: "workflow_dispatch",
+    supervisedOverride: true,
+  });
 
   assert.equal(decision.allowed, false);
   assert.equal(decision.effectiveStatus, "blocked");
@@ -111,6 +115,13 @@ test("fresh evidence-matched ready is allowed", () => {
   assert.equal(decision.effectiveStatus, "ready");
 });
 
+test("fresh evidence-matched ready is allowed for repository_dispatch", () => {
+  const decision = decide(readinessReport(), { trigger: "repository_dispatch" });
+
+  assert.equal(decision.allowed, true);
+  assert.equal(decision.effectiveStatus, "ready");
+});
+
 test("fresh evidence-matched review-required needs explicit workflow_dispatch override", () => {
   const reviewEvidence = { ...evidence, risk: { level: "medium", reasons: ["review"] } };
   const report = readinessReport({ risk: reviewEvidence.risk });
@@ -131,6 +142,13 @@ test("fresh evidence-matched review-required needs explicit workflow_dispatch ov
     trigger: "push",
     supervisedOverride: true,
   }).allowed, false);
+  const automaticDecision = decide(report, {
+    evidence: reviewEvidence,
+    trigger: "repository_dispatch",
+    supervisedOverride: true,
+  });
+  assert.equal(automaticDecision.allowed, false);
+  assert.equal(automaticDecision.effectiveStatus, "review-required");
 });
 
 test("blocked readiness remains non-overridable", () => {

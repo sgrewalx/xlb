@@ -14,6 +14,7 @@
     "validate:content": "node scripts/validate-content.mjs && npm run validate:routes",
     "validate:routes": "node scripts/validate-routes.mjs",
     "audit:routes": "node scripts/audit-route-documents.mjs",
+    "verify:ga-build": "node scripts/verify-ga-build.mjs",
     "automation:news": "node automation/fetch-news/run.mjs",
     "automation:sports": "node automation/fetch-sports/run.mjs",
     "automation:quotes": "node automation/refresh-quotes/run.mjs",
@@ -39,6 +40,9 @@
     "automation:check-deploy-readiness": "node automation/governance/check-deploy-readiness.mjs",
     "automation:ops-summary": "node automation/governance/generate-ops-summary.mjs",
     "automation:enforce-deploy-readiness": "node automation/governance/enforce-deploy-readiness.mjs",
+    "automation:evaluate-release-handoff": "node automation/release/evaluate-release-handoff.mjs",
+    "automation:verify-release-sha": "node automation/release/verify-release-sha.mjs",
+    "automation:dispatch-release-handoff": "node automation/release/dispatch-release-handoff.mjs",
     "automation:content-candidate": "node automation/release/run-content-candidate.mjs",
     "release:build": "node automation/release/build-validated-candidate.mjs"
   },

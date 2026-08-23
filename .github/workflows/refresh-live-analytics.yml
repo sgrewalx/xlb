@@ -14,6 +14,7 @@ concurrency:
 
 env:
   GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
+  VITE_GA_MEASUREMENT_ID: ${{ secrets.VITE_GA_MEASUREMENT_ID }}
   SEARCH_CONSOLE_SITE_URL: ${{ vars.SEARCH_CONSOLE_SITE_URL }}
   XLB_GA4_LOOKBACK_DAYS: ${{ vars.XLB_GA4_LOOKBACK_DAYS }}
   XLB_SEARCH_CONSOLE_LAG_DAYS: ${{ vars.XLB_SEARCH_CONSOLE_LAG_DAYS }}
@@ -189,5 +190,16 @@ jobs:
           git commit -m "chore: promote validated content candidate"
 
       - name: Publish exact validated candidate to main
+        id: candidate-push
         if: steps.candidate-changes.outputs.changed == 'true'
-        run: git push origin HEAD:main
+        run: |
+          git push origin HEAD:main
+          echo "release_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch validated release handoff
+        if: steps.candidate-changes.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          XLB_RELEASE_SHA: ${{ steps.candidate-push.outputs.release_sha }}
+          XLB_RELEASE_SOURCE: refresh-live-analytics
+        run: npm run automation:dispatch-release-handoff

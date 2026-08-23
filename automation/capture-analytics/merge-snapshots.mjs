@@ -27,8 +27,9 @@ async function main() {
   );
 }
 
-function mergeSnapshots(snapshots) {
+export function mergeSnapshots(snapshots) {
   const pageMap = new Map();
+  const ga4Diagnostics = snapshots.find((snapshot) => snapshot.sources?.ga4 && snapshot.ga4)?.ga4;
 
   snapshots.forEach((snapshot) => {
     snapshot.pages.forEach((page) => {
@@ -94,6 +95,7 @@ function mergeSnapshots(snapshots) {
       }),
       { cloudflare: false, searchConsole: false, ga4: false, adsense: false },
     ),
+    ...(ga4Diagnostics ? { ga4: structuredClone(ga4Diagnostics) } : {}),
     pages: [...pageMap.values()].map((page) => ({
       ...page,
       notes: page.notes.join(" | "),
@@ -109,7 +111,9 @@ function weightedPosition(current, next) {
   return Number(((current + next) / 2).toFixed(2));
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

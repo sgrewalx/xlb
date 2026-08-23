@@ -1,18 +1,20 @@
 name: Deploy
 
 on:
+  repository_dispatch:
+    types:
+      - validated-release
   workflow_dispatch:
     inputs:
+      release_sha:
+        description: "Exact validated main commit to release"
+        required: true
+        type: string
       allow_review_required_deploy:
         description: "Explicitly approve a supervised deploy when readiness is review-required"
         required: true
         default: false
         type: boolean
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - automation/snapshots/**
 
 permissions:
   id-token: write
@@ -28,6 +30,7 @@ env:
   CLOUDFRONT_DISTRIBUTION_ID: ESCMUKA0YFHMN
   VITE_GA_MEASUREMENT_ID: ${{ secrets.VITE_GA_MEASUREMENT_ID }}
   XLB_DEPLOY_READINESS_MAX_AGE_HOURS: ${{ vars.XLB_DEPLOY_READINESS_MAX_AGE_HOURS }}
+  XLB_RELEASE_SHA: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.release_sha || inputs.release_sha }}
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
@@ -35,14 +38,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout release commit
+      - name: Checkout release verifier
         uses: actions/checkout@v6
         with:
-          ref: ${{ github.sha }}
+          ref: main
           fetch-depth: 0
-
-      - name: Record release commit
-        run: echo "Deploying immutable candidate $(git rev-parse HEAD)"
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -50,36 +50,61 @@ jobs:
           node-version: 22
           cache: npm
 
+      - name: Verify and checkout exact release SHA
+        run: |
+          git fetch --no-tags origin main
+          npm run automation:verify-release-sha
+
       - name: Install dependencies
         run: npm ci
 
+      - name: Evaluate release handoff
+        id: handoff
+        env:
+          XLB_SUPERVISED_REVIEW_OVERRIDE: ${{ github.event_name == 'workflow_dispatch' && inputs.allow_review_required_deploy || false }}
+        run: npm run automation:evaluate-release-handoff
+
+      - name: Await supervised approval
+        if: steps.handoff.outputs.disposition == 'awaiting-approval'
+        run: echo "Release ${XLB_RELEASE_SHA} requires a supervised workflow_dispatch approval."
+
+      - name: Validate and build immutable release candidate
+        if: steps.handoff.outputs.disposition == 'deploy'
+        run: npm run release:build
+
+      - name: Verify production analytics build
+        if: steps.handoff.outputs.disposition == 'deploy'
+        run: npm run verify:ga-build
+
       - name: Enforce committed deploy readiness
+        if: steps.handoff.outputs.disposition == 'deploy'
         env:
           XLB_SUPERVISED_REVIEW_OVERRIDE: ${{ github.event_name == 'workflow_dispatch' && inputs.allow_review_required_deploy || false }}
         run: npm run automation:enforce-deploy-readiness
 
-      - name: Validate and build immutable release candidate
-        run: npm run release:build
-
       - name: Configure AWS credentials
+        if: steps.handoff.outputs.disposition == 'deploy'
         uses: aws-actions/configure-aws-credentials@v5
         with:
           role-to-assume: ${{ secrets.AWS_DEPLOY_ROLE_ARN }}
           aws-region: ${{ env.AWS_REGION }}
 
       - name: Upload immutable assets
+        if: steps.handoff.outputs.disposition == 'deploy'
         run: |
           aws s3 sync dist/assets "s3://${SITE_BUCKET}/assets" \
             --delete \
             --cache-control "public,max-age=31536000,immutable"
 
       - name: Upload content manifests
+        if: steps.handoff.outputs.disposition == 'deploy'
         run: |
           aws s3 sync dist/content "s3://${SITE_BUCKET}/content" \
             --delete \
             --cache-control "public,max-age=300,must-revalidate"
 
       - name: Upload root files
+        if: steps.handoff.outputs.disposition == 'deploy'
         run: |
           aws s3 sync dist "s3://${SITE_BUCKET}" \
             --delete \
@@ -90,6 +115,7 @@ jobs:
             --cache-control "public,max-age=60,must-revalidate"
 
       - name: Upload route documents as HTML
+        if: steps.handoff.outputs.disposition == 'deploy'
         run: |
           node -e "const fs = require('fs'); for (const item of JSON.parse(fs.readFileSync('dist/route-documents.json', 'utf8'))) console.log(item.documentPath + '\\t' + item.storageKey)" |
           while IFS=$'\t' read -r document key; do
@@ -100,6 +126,7 @@ jobs:
           done
 
       - name: Invalidate CloudFront
+        if: steps.handoff.outputs.disposition == 'deploy'
         run: |
           aws cloudfront create-invalidation \
             --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" \
