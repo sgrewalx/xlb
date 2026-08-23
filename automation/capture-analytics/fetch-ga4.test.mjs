@@ -5,6 +5,7 @@ import {
   fetchGa4Snapshot,
   getGa4Window,
   parseGa4Totals,
+  parseRowCount,
   runGa4Report,
   verifyGa4StreamIdentity,
 } from "./fetch-ga4.mjs";
@@ -41,7 +42,13 @@ function totalsRow(values) {
   return { rows: [{ metricValues: values.map((value) => ({ value: String(value) })) }] };
 }
 
-function gaRequest({ pageRows = [], totals = [0, 0, 0, 0], admin = streamBody() } = {}) {
+function gaRequest({
+  pageRows = [],
+  pageRowCount = pageRows.length,
+  omitPageRowCount = false,
+  totals = [0, 0, 0, 0],
+  admin = streamBody(),
+} = {}) {
   return async (url, options = {}) => {
     if (url.includes("analyticsadmin.googleapis.com")) {
       return response(admin);
@@ -53,7 +60,10 @@ function gaRequest({ pageRows = [], totals = [0, 0, 0, 0], admin = streamBody() 
     if (body.dimensions?.length === 2) {
       return response({ rows: [], rowCount: 0 });
     }
-    return response({ rows: pageRows, rowCount: pageRows.length });
+    return response({
+      rows: pageRows,
+      ...(!omitPageRowCount && { rowCount: pageRowCount }),
+    });
   };
 }
 
@@ -230,7 +240,21 @@ test("GA4 stream mismatch fails closed", async () => {
   );
 });
 
-test("valid zero totals and zero rows produce verified no-events status", async () => {
+test("omitted rowCount with empty rows produces verified no-events status", async () => {
+  const snapshot = await fetchGa4Snapshot({
+    accessToken: "token",
+    propertyId,
+    expectedMeasurementId: measurementId,
+    window,
+    request: gaRequest({ omitPageRowCount: true }),
+  });
+
+  assert.equal(snapshot.ga4.rowCount, 0);
+  assert.equal(snapshot.ga4.dataStatus, "no-events-observed");
+  assert.deepEqual(snapshot.pages, []);
+});
+
+test("explicit rowCount zero with empty rows produces verified no-events status", async () => {
   const snapshot = await fetchGa4Snapshot({
     accessToken: "token",
     propertyId,
@@ -239,6 +263,7 @@ test("valid zero totals and zero rows produce verified no-events status", async 
     request: gaRequest(),
   });
 
+  assert.equal(snapshot.ga4.rowCount, 0);
   assert.equal(snapshot.ga4.dataStatus, "no-events-observed");
   assert.equal(snapshot.ga4.streamVerified, true);
   assert.deepEqual(snapshot.ga4.totals, {
@@ -248,6 +273,29 @@ test("valid zero totals and zero rows produce verified no-events status", async 
     eventCount: 0,
   });
   assert.deepEqual(snapshot.pages, []);
+});
+
+test("omitted rowCount with returned rows fails closed", () => {
+  assert.throws(
+    () => parseRowCount({ rows: [{}] }),
+    /omitted rowCount despite returning rows/,
+  );
+});
+
+test("malformed or negative page rowCount fails closed", () => {
+  for (const rowCount of ["0", "invalid", -1, 1.5, Number.NaN]) {
+    assert.throws(
+      () => parseRowCount({ rows: [], rowCount }),
+      /rowCount is missing or invalid/,
+    );
+  }
+});
+
+test("page rowCount smaller than returned rows fails closed", () => {
+  assert.throws(
+    () => parseRowCount({ rows: [{}, {}], rowCount: 1 }),
+    /smaller than the returned row count/,
+  );
 });
 
 test("non-zero totals and page rows produce data status", async () => {
