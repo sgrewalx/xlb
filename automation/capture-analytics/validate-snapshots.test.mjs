@@ -27,6 +27,7 @@ function ga4Diagnostics(overrides = {}) {
     streamVerified: true,
     stream: {
       name: "properties/530268584/dataStreams/123",
+      streamId: "123",
       type: "WEB_DATA_STREAM",
       displayName: "XLB",
       measurementId: "G-5JECBDGEMT",
@@ -73,6 +74,18 @@ test("missing or mismatched GA4 identity fails closed", () => {
   assert.throws(
     () => validateAnalyticsSnapshotSet({ ga4, searchConsole: snapshot("searchConsole"), merged }),
     /stream must be verified/,
+  );
+});
+
+test("GA4 diagnostics require an exact numeric stream ID binding", () => {
+  const ga4 = snapshot("ga4");
+  const merged = snapshot("merged");
+  ga4.ga4.stream.streamId = "999";
+  merged.ga4.stream.streamId = "999";
+
+  assert.throws(
+    () => validateAnalyticsSnapshotSet({ ga4, searchConsole: snapshot("searchConsole"), merged }),
+    /stream does not belong/,
   );
 });
 

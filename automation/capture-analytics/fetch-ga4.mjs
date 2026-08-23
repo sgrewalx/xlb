@@ -55,14 +55,15 @@ export async function fetchGa4Snapshot({
   request = fetch,
 }) {
   assertGa4Configuration({ propertyId, expectedMeasurementId });
-  const [stream, pageReport, totalsReport, outboundReport] = await Promise.all([
-    verifyGa4StreamIdentity({
-      accessToken,
-      propertyId,
-      expectedMeasurementId,
-      expectedOrigin,
-      request,
-    }),
+  const stream = await verifyGa4StreamIdentity({
+    accessToken,
+    propertyId,
+    expectedMeasurementId,
+    expectedOrigin,
+    request,
+  });
+  const streamFilter = createStreamIdFilter(stream.streamId);
+  const [pageReport, totalsReport, outboundReport] = await Promise.all([
     runGa4Report({
       accessToken,
       propertyId,
@@ -76,6 +77,7 @@ export async function fetchGa4Snapshot({
           { name: "engagementRate" },
           { name: "averageSessionDuration" },
         ],
+        dimensionFilter: streamFilter,
         keepEmptyRows: false,
         limit: "10000",
       },
@@ -87,6 +89,7 @@ export async function fetchGa4Snapshot({
       body: {
         dateRanges: [{ startDate: window.startDate, endDate: window.endDate }],
         metrics: TOTAL_METRICS.map((name) => ({ name })),
+        dimensionFilter: streamFilter,
         keepEmptyRows: true,
       },
     }),
@@ -99,11 +102,18 @@ export async function fetchGa4Snapshot({
         dimensions: [{ name: "pagePath" }, { name: "eventName" }],
         metrics: [{ name: "eventCount" }],
         dimensionFilter: {
-          filter: {
-            fieldName: "eventName",
-            inListFilter: {
-              values: ENGAGEMENT_EVENTS,
-            },
+          andGroup: {
+            expressions: [
+              streamFilter,
+              {
+                filter: {
+                  fieldName: "eventName",
+                  inListFilter: {
+                    values: ENGAGEMENT_EVENTS,
+                  },
+                },
+              },
+            ],
           },
         },
         keepEmptyRows: false,
@@ -277,16 +287,41 @@ export async function verifyGa4StreamIdentity({
     }
   });
 
-  if (!stream || !String(stream.name ?? "").startsWith(`properties/${propertyId}/dataStreams/`)) {
+  if (!stream) {
     throw new Error("GA4 property does not contain the expected XLB web data stream");
   }
+  const streamId = extractGa4StreamId(stream.name, propertyId);
 
   return {
     name: stream.name,
+    streamId,
     type: stream.type,
     displayName: String(stream.displayName ?? ""),
     measurementId: stream.webStreamData.measurementId,
     defaultUri: stream.webStreamData.defaultUri || null,
+  };
+}
+
+export function extractGa4StreamId(streamName, propertyId) {
+  const match = /^properties\/(\d+)\/dataStreams\/(\d+)$/.exec(String(streamName ?? ""));
+  if (!match || match[1] !== String(propertyId)) {
+    throw new Error("GA4 property does not contain the expected XLB web data stream");
+  }
+  return match[2];
+}
+
+export function createStreamIdFilter(streamId) {
+  if (!/^\d+$/.test(String(streamId ?? ""))) {
+    throw new Error("Verified GA4 stream ID must be numeric");
+  }
+  return {
+    filter: {
+      fieldName: "streamId",
+      stringFilter: {
+        matchType: "EXACT",
+        value: String(streamId),
+      },
+    },
   };
 }
 

@@ -12,6 +12,7 @@ test("merged analytics preserves GA4 diagnostic status", () => {
       streamVerified: true,
       stream: {
         name: "properties/530268584/dataStreams/1",
+        streamId: "1",
         type: "WEB_DATA_STREAM",
         displayName: "XLB",
         measurementId: "G-5JECBDGEMT",

@@ -43,9 +43,11 @@ export function validateGa4Diagnostics(diagnostics, { label, pageCount } = {}) {
   assert(diagnostics.streamVerified === true, `${label}: GA4 stream must be verified`);
   assert(diagnostics.stream && typeof diagnostics.stream === "object", `${label}: GA4 stream is required`);
   assert(
-    String(diagnostics.stream.name ?? "").startsWith(`properties/${diagnostics.propertyId}/dataStreams/`),
+    diagnostics.stream.name
+      === `properties/${diagnostics.propertyId}/dataStreams/${diagnostics.stream.streamId}`,
     `${label}: GA4 stream does not belong to the property`,
   );
+  assert(/^\d+$/.test(diagnostics.stream.streamId ?? ""), `${label}: GA4 streamId is invalid`);
   assert(diagnostics.stream.type === "WEB_DATA_STREAM", `${label}: GA4 stream must be a web stream`);
   assert(/^G-[A-Z0-9]+$/i.test(diagnostics.stream.measurementId ?? ""), `${label}: GA4 measurementId is invalid`);
   assert(

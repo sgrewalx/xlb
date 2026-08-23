@@ -75,6 +75,7 @@
           "additionalProperties": false,
           "required": [
             "name",
+            "streamId",
             "type",
             "displayName",
             "measurementId",
@@ -82,6 +83,7 @@
           ],
           "properties": {
             "name": { "type": "string", "minLength": 1 },
+            "streamId": { "type": "string", "pattern": "^[0-9]+$" },
             "type": { "const": "WEB_DATA_STREAM" },
             "displayName": { "type": "string" },
             "measurementId": { "type": "string", "pattern": "^G-[A-Za-z0-9]+$" },

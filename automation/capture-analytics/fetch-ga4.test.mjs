@@ -57,6 +57,20 @@ function gaRequest({ pageRows = [], totals = [0, 0, 0, 0], admin = streamBody() 
   };
 }
 
+function collectFilters(expression) {
+  if (expression?.filter) {
+    return [expression.filter];
+  }
+  return [
+    ...(expression?.andGroup?.expressions ?? []),
+    ...(expression?.orGroup?.expressions ?? []),
+  ].flatMap(collectFilters);
+}
+
+function filterFor(body, fieldName) {
+  return collectFilters(body.dimensionFilter).find((filter) => filter.fieldName === fieldName);
+}
+
 test("GA4 stream identity matches property, measurement ID, and XLB URI", async () => {
   const stream = await verifyGa4StreamIdentity({
     accessToken: "token",
@@ -66,8 +80,115 @@ test("GA4 stream identity matches property, measurement ID, and XLB URI", async 
   });
 
   assert.equal(stream.name, `properties/${propertyId}/dataStreams/123`);
+  assert.equal(stream.streamId, "123");
   assert.equal(stream.measurementId, measurementId);
   assert.equal(stream.defaultUri, "https://xlb.codemachine.in/");
+});
+
+test("GA4 reports are all scoped to the verified stream ID", async () => {
+  const reportBodies = [];
+  const request = gaRequest();
+  await fetchGa4Snapshot({
+    accessToken: "token",
+    propertyId,
+    expectedMeasurementId: measurementId,
+    window,
+    request: async (url, options) => {
+      if (url.includes("analyticsdata.googleapis.com")) {
+        reportBodies.push(JSON.parse(options.body));
+      }
+      return request(url, options);
+    },
+  });
+
+  assert.equal(reportBodies.length, 3);
+  for (const body of reportBodies) {
+    assert.deepEqual(filterFor(body, "streamId"), {
+      fieldName: "streamId",
+      stringFilter: {
+        matchType: "EXACT",
+        value: "123",
+      },
+    });
+  }
+
+  const outboundBody = reportBodies.find((body) => body.dimensions?.some(({ name }) => name === "eventName"));
+  assert.equal(outboundBody.dimensionFilter.andGroup.expressions.length, 2);
+  assert.deepEqual(filterFor(outboundBody, "eventName"), {
+    fieldName: "eventName",
+    inListFilter: {
+      values: [
+        "watch_source",
+        "open_source",
+        "video_play_start",
+        "video_play_complete",
+        "video_scroll_depth",
+        "game_start",
+        "game_complete",
+        "gallery_card_open",
+        "home_live_card_click",
+        "return_visit_entry",
+      ],
+    },
+  });
+});
+
+test("another stream in the property cannot influence XLB totals or status", async () => {
+  const xlbStream = streamBody().dataStreams[0];
+  const admin = {
+    dataStreams: [
+      xlbStream,
+      {
+        name: `properties/${propertyId}/dataStreams/999`,
+        type: "WEB_DATA_STREAM",
+        displayName: "Other site",
+        webStreamData: {
+          measurementId: "G-OTHER123",
+          defaultUri: "https://example.com",
+        },
+      },
+    ],
+  };
+  const otherStreamPage = {
+    dimensionValues: [{ value: "/other-site" }],
+    metricValues: ["12", "4", "0.8", "30"].map((value) => ({ value })),
+  };
+  const request = async (url, options = {}) => {
+    if (url.includes("analyticsadmin.googleapis.com")) {
+      return response(admin);
+    }
+
+    const body = JSON.parse(options.body);
+    const requestedStream = filterFor(body, "streamId")?.stringFilter?.value;
+    const isXlbOnly = requestedStream === "123";
+    if (body.metrics?.[0]?.name === "totalUsers") {
+      return response(totalsRow(isXlbOnly ? [0, 0, 0, 0] : [4, 4, 12, 20]));
+    }
+    if (body.dimensions?.length === 2) {
+      return response({ rows: [], rowCount: 0 });
+    }
+    return response(isXlbOnly
+      ? { rows: [], rowCount: 0 }
+      : { rows: [otherStreamPage], rowCount: 1 });
+  };
+
+  const snapshot = await fetchGa4Snapshot({
+    accessToken: "token",
+    propertyId,
+    expectedMeasurementId: measurementId,
+    window,
+    request,
+  });
+
+  assert.equal(snapshot.ga4.stream.streamId, "123");
+  assert.equal(snapshot.ga4.dataStatus, "no-events-observed");
+  assert.deepEqual(snapshot.ga4.totals, {
+    totalUsers: 0,
+    sessions: 0,
+    screenPageViews: 0,
+    eventCount: 0,
+  });
+  assert.deepEqual(snapshot.pages, []);
 });
 
 test("GA4 stream mismatch fails closed", async () => {
@@ -92,6 +213,18 @@ test("GA4 stream mismatch fails closed", async () => {
       propertyId,
       expectedMeasurementId: measurementId,
       request: gaRequest({ admin: wrongUri }),
+    }),
+    /expected XLB web data stream/,
+  );
+  const invalidResourceName = streamBody({
+    name: `properties/${propertyId}/dataStreams/not-numeric`,
+  });
+  await assert.rejects(
+    verifyGa4StreamIdentity({
+      accessToken: "token",
+      propertyId,
+      expectedMeasurementId: measurementId,
+      request: gaRequest({ admin: invalidResourceName }),
     }),
     /expected XLB web data stream/,
   );
