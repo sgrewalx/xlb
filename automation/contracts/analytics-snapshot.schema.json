@@ -51,6 +51,69 @@
         }
       }
     },
+    "ga4": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "propertyId",
+        "streamVerified",
+        "stream",
+        "rowCount",
+        "totals",
+        "dataStatus"
+      ],
+      "properties": {
+        "propertyId": {
+          "type": "string",
+          "pattern": "^[0-9]+$"
+        },
+        "streamVerified": {
+          "const": true
+        },
+        "stream": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "streamId",
+            "type",
+            "displayName",
+            "measurementId",
+            "defaultUri"
+          ],
+          "properties": {
+            "name": { "type": "string", "minLength": 1 },
+            "streamId": { "type": "string", "pattern": "^[0-9]+$" },
+            "type": { "const": "WEB_DATA_STREAM" },
+            "displayName": { "type": "string" },
+            "measurementId": { "type": "string", "pattern": "^G-[A-Za-z0-9]+$" },
+            "defaultUri": {
+              "type": ["string", "null"],
+              "format": "uri"
+            }
+          }
+        },
+        "rowCount": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "totals": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["totalUsers", "sessions", "screenPageViews", "eventCount"],
+          "properties": {
+            "totalUsers": { "type": "number", "minimum": 0 },
+            "sessions": { "type": "number", "minimum": 0 },
+            "screenPageViews": { "type": "number", "minimum": 0 },
+            "eventCount": { "type": "number", "minimum": 0 }
+          }
+        },
+        "dataStatus": {
+          "type": "string",
+          "enum": ["data", "no-events-observed", "inconsistent"]
+        }
+      }
+    },
     "pages": {
       "type": "array",
       "items": {

@@ -6,6 +6,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,3 +31,28 @@ jobs:
 
       - name: Build site
         run: npm run build
+
+  release-handoff:
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout validated main commit
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.sha }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Dispatch validated main release
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          XLB_RELEASE_SHA: ${{ github.sha }}
+          XLB_RELEASE_SOURCE: build-main
+        run: npm run automation:dispatch-release-handoff

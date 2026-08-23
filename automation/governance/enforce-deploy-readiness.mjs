@@ -94,15 +94,7 @@ export function parseMaxReadinessAgeHours(value) {
 }
 
 async function main() {
-  const [report, health, risk, autonomyState] = await Promise.all([
-    readJsonIfExists(READINESS_FILE),
-    readJsonIfExists(HEALTH_FILE),
-    readJsonIfExists(RISK_FILE),
-    readJsonIfExists(AUTONOMY_STATE_FILE),
-  ]);
-  const decision = evaluateDeploymentPolicy({
-    report,
-    evidence: { health, risk, autonomyState },
+  const decision = await evaluateCurrentDeploymentPolicy({
     trigger: process.env.GITHUB_EVENT_NAME,
     supervisedOverride: process.env.XLB_SUPERVISED_REVIEW_OVERRIDE === "true",
     maxAgeHours: parseMaxReadinessAgeHours(process.env.XLB_DEPLOY_READINESS_MAX_AGE_HOURS),
@@ -112,6 +104,28 @@ async function main() {
   if (!decision.allowed) {
     throw new Error(`Production deployment denied: ${decision.reason}`);
   }
+}
+
+export async function evaluateCurrentDeploymentPolicy({
+  trigger,
+  supervisedOverride = false,
+  now = Date.now(),
+  maxAgeHours = DEFAULT_MAX_READINESS_AGE_HOURS,
+} = {}) {
+  const [report, health, risk, autonomyState] = await Promise.all([
+    readJsonIfExists(READINESS_FILE),
+    readJsonIfExists(HEALTH_FILE),
+    readJsonIfExists(RISK_FILE),
+    readJsonIfExists(AUTONOMY_STATE_FILE),
+  ]);
+  return evaluateDeploymentPolicy({
+    report,
+    evidence: { health, risk, autonomyState },
+    trigger,
+    supervisedOverride,
+    now,
+    maxAgeHours,
+  });
 }
 
 if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
