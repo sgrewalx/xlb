@@ -1,25 +1,45 @@
 {
-  "updatedAt": "2026-08-24T08:36:12.919Z",
+  "updatedAt": "2026-08-24T09:36:19.603Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-vivo-x500-series-launch-set-for-next-month-as-ex-611b85890d",
-      "title": "Vivo X500 Series Launch Set for Next Month as Executive Reveals ‘Major’ Camera Upgrades",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-launch-teased-camera-capabilities-specifications-features-11950806",
+      "id": "tech-they-dedicated-their-lives-to-teaching-then-the--fa98e459d0",
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content",
       "tag": "Technology",
-      "publishedAt": "2026-08-24T08:20:55.000Z",
-      "summary": "Vivo X500 series will be launched in China in September, Vivo Product Manager Han Boxiao announced on Monday in a Weibo post. The company executive has also announced that the u...",
+      "publishedAt": "2026-08-24T09:30:00.000Z",
+      "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-from-pilot-to-platform-a-practical-playbook-for--d87969ca42",
-      "title": "From pilot to platform: A practical playbook for Gemini Enterprise",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/from-pilot-to-platform-a-practical-playbook-for-gemini-enterprise",
+      "id": "tech-apple-reportedly-reworks-stores-ahead-of-homepod-b5112c1b20",
+      "title": "Apple Reportedly Reworks Stores Ahead of HomePod, Apple TV Refreshes",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/smart-home/news/apple-stores-prepare-for-new-home-product-launches-report-11951008",
       "tag": "Technology",
-      "publishedAt": "2026-08-24T07:32:11.000Z",
-      "summary": "Join Google Cloud AI/ML experts for a hands-on session on deploying, grounding, and measuring ROI from your Gemini Enterprise environment.",
+      "publishedAt": "2026-08-24T09:12:10.000Z",
+      "summary": "Apple is reportedly changing parts of its retail stores ahead of new Home hardware expected this autumn. The work will reportedly include modifications to display areas and addi...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-humanoid-robots-smash-usain-bolt-s-100-meter-rec-8d1f01aecf",
+      "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-08-24T09:10:40.000Z",
+      "summary": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-when-payments-grow-beyond-the-gateway-2cb72cc662",
+      "title": "When payments grow beyond the gateway",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/payments-grow-beyond-the-gateway",
+      "tag": "Technology",
+      "publishedAt": "2026-08-24T08:41:44.000Z",
+      "summary": "Accepting payments is only the beginning. As businesses grow, recurring billing, settlements, reconciliation, payouts and compliance create a new layer of operational complexity...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +73,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gta-vi-all-the-news-on-rockstar-s-next-entry-in--d15e14df91",
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-      "tag": "Technology",
-      "publishedAt": "2026-08-23T19:14:37.000Z",
-      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar G...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-due-to-need-for-absolute-success-china-delays-cr-c2dcc4b4c6",
       "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
       "source": "Ars Technica",
@@ -70,16 +80,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-23T14:30:16.000Z",
       "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-asus-rog-swift-rgb-stripe-oled-review-clarity-ki-4696e27fb1",
-      "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm",
-      "tag": "Technology",
-      "publishedAt": "2026-08-23T13:00:00.000Z",
-      "summary": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sony-xperia-10-viii-design-leaked-ahead-of-expec-9a9148d03f",
-      "title": "Sony Xperia 10 VIII Design Leaked Ahead of Expected August 25 Launch",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/sony-xperia-10-viii-image-leaked-launch-report-11950663",
+      "id": "tech-nasa-s-new-space-telescope-is-poised-to-discover-0be3754ca8",
+      "title": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe",
       "tag": "Technology",
-      "publishedAt": "2026-08-24T08:10:18.000Z",
-      "summary": "After several leaks and rumours Sony’s much-awaited Xperia 10 VIII leaks ahead of launch day. The leak which contains what appears to be an official image of the soon to be rele...",
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "summary": "The Nancy Grace Roman Space Telescope is expected to discover as many as 200,000 new planets and reveal details about the elusive nature of dark matter and dark energy.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-veranda-learning-gets-nclt-nod-for-commerce-deme-afa82685f1",
-      "title": "Veranda Learning gets NCLT nod for commerce demerger",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/veranda-learning-gets-nclt-nod-for-commerce-demerger",
+      "id": "tech-vivo-x500-series-launch-set-for-next-month-as-ex-611b85890d",
+      "title": "Vivo X500 Series Launch Set for Next Month as Executive Reveals ‘Major’ Camera Upgrades",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-launch-teased-camera-capabilities-specifications-features-11950806",
       "tag": "Technology",
-      "publishedAt": "2026-08-24T07:32:03.000Z",
-      "summary": "Veranda Learning’s commerce business has secured NCLT approval for demerger into J.K. Shah Commerce Education, with the unit set to pursue independent listing.",
+      "publishedAt": "2026-08-24T08:20:55.000Z",
+      "summary": "Vivo X500 series will be launched in China in September, Vivo Product Manager Han Boxiao announced on Monday in a Weibo post. The company executive has also announced that the u...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
