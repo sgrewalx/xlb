@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-24T15:30:55.059Z",
+  "updatedAt": "2026-08-24T16:26:06.350Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-naa-ramudu-a-simplified-ramayanam-book-released--39ce04d073",
-      "title": "‘Naa Ramudu, a simplified Ramayanam, book released in Srikakulam",
+      "id": "news-can-argentina-s-texas-save-the-country-s-economy-0cc2bb5f28",
+      "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
+      "tag": "US",
+      "publishedAt": "2026-08-24T16:18:37.000Z",
+      "summary": "Thousands of Argentines are flocking to a remote stretch of Patagonia, seeking work with only backpacks, tents and the hope that they and their country can turn around their for...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
+    },
+    {
+      "id": "news-rajnath-singh-to-visit-sri-lanka-on-september-9--160c5f7610",
+      "title": "Rajnath Singh to visit Sri Lanka on September 9-10 to review defence cooperation",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naa-ramudu-a-simplified-ramayanam-book-released-in-srikakulam/article71383923.ece",
+      "url": "https://www.thehindu.com/news/national/rajnath-singh-to-visit-sri-lanka-on-september-9-10-to-review-defence-cooperation/article71385426.ece",
       "tag": "India",
-      "publishedAt": "2026-08-24T15:25:10.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-08-24T16:17:22.000Z",
+      "summary": "Maritime security in the Indian Ocean Region is expected to figure prominently during the visit",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-hindu-baiter-cm-himanta-slams-rahul-gandhi-over--abd75ebb96",
-      "title": "'Hindu baiter': CM Himanta slams Rahul Gandhi over Manusmriti row",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/hindu-baiter-cm-himanta-slams-rahul-gandhi-over-manusmriti-row/articleshow/133471989.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-24T15:22:26.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-burnham-says-uk-with-ukraine-all-the-way-despite-679a67c2e0",
+      "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-08-24T16:13:11.000Z",
+      "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’ Here’s the full quote from Kremlin’s Peskov , via AFP: “ Brita...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-world-s-oceans-hit-highest-temperature-on-record-9e5a850eb4",
-      "title": "World's oceans hit highest temperature on record as El Niño grows",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-08-24T15:17:48.000Z",
-      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next."
     }
   ]
 }
