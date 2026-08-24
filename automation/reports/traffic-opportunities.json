@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-23T17:54:45.164Z",
-  "sourceSnapshot": "2026-08-23T06:00:00.000Z",
+  "updatedAt": "2026-08-24T03:58:56.889Z",
+  "sourceSnapshot": "2026-08-24T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
-    "hasLiveGa4": false,
+    "hasLiveGa4": true,
     "hasLiveSearchConsole": true,
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 11,
+    "pageCount": 12,
     "sitemapPathCount": 24,
     "opportunityCount": 8,
     "searchOpportunityCount": 1,
@@ -16,32 +16,6 @@
     "indexWatchCount": 7
   },
   "opportunities": [
-    {
-      "id": "traffic-index-watch-events-global-earthquake-watch",
-      "path": "/events/global-earthquake-watch",
-      "signal": "index_watch",
-      "score": 8,
-      "risk": "low",
-      "title": "Watch index coverage for /events/global-earthquake-watch",
-      "hypothesis": "/events/global-earthquake-watch is in the sitemap but has not appeared in the current analytics snapshot.",
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 0,
-        "searchCtr": 0,
-        "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
     {
       "id": "traffic-index-watch-events-aurora-watch",
       "path": "/events/aurora-watch",
@@ -63,7 +37,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -89,7 +63,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -115,7 +89,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -141,7 +115,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -167,7 +141,33 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-topics-nasa",
+      "path": "/topics/nasa",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /topics/nasa",
+      "hypothesis": "/topics/nasa is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -193,7 +193,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -211,15 +211,15 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 9,
+        "searchImpressions": 8,
         "searchCtr": 0,
-        "avgPosition": 11.11111111111111,
+        "avgPosition": 11.25,
         "watchClicks": 0,
         "engagementScore": 0
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": false,
+        "hasLiveGa4": true,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }

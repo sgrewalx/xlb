@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:54:45.828Z",
+  "updatedAt": "2026-08-24T03:58:57.373Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-08-23T17:45:38.450Z",
-      "summary": "USGS reported 297 earthquake events in the last 24 hours. Strongest reported event: M6 near 33 km SSW of Honchō, Japan.",
+      "startsAt": "2026-08-24T03:50:57.683Z",
+      "summary": "USGS reported 322 earthquake events in the last 24 hours. Strongest reported event: M6 near 33 km SSW of Honchō, Japan.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-23T17:54:45.828Z",
+      "updatedAt": "2026-08-24T03:58:57.373Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-arunachal-s-viral-kid-tinkle-exclusive-4-yr-old--b6c0a5db90",
-        "video-anti-reservation-protest-what-protesters-said-on-cc8b416492",
-        "video-isro-chief-narayanan-s-big-reveal-at-national-sp-9f61945bca"
+        "video-japan-earthquake-live-japan-hit-by-second-earthq-2774128a95",
+        "video-fire-watch-massive-nevada-wildfire-burns-out-of--2301e8958f",
+        "video-reno-wildfire-hawk-fire-races-toward-homes-90-00-9c62f01e7a"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,7 +46,7 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-08-23T17:50:00.000Z",
+      "startsAt": "2026-08-24T03:54:00.000Z",
       "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
@@ -58,13 +58,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-23T17:54:45.828Z",
+      "updatedAt": "2026-08-24T03:58:57.373Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-arunachal-s-viral-kid-tinkle-exclusive-4-yr-old--b6c0a5db90",
-        "video-gaza-strike-trump-putin-talks-ukraine-election-r-ac3a74c304",
-        "video-anti-reservation-protest-what-protesters-said-on-cc8b416492"
+        "video-isro-chairman-v-narayanan-says-module-for-space--b23c731095",
+        "video-fire-watch-massive-nevada-wildfire-burns-out-of--2301e8958f",
+        "video-reno-wildfire-hawk-fire-races-toward-homes-90-00-9c62f01e7a"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -95,7 +95,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-23T17:54:45.828Z",
+      "updatedAt": "2026-08-24T03:58:57.373Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -115,7 +115,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-23T17:54:45.595Z",
+      "startsAt": "2026-08-24T03:58:57.223Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -127,13 +127,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-23T17:54:45.828Z",
+      "updatedAt": "2026-08-24T03:58:57.373Z",
       "importance": 71,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-putin-warns-ukraine-over-deep-strikes-inside-rus-dd14f74f3a",
-        "video-israel-launches-deadly-airstrike-on-gaza-898490075d"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -151,7 +148,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-23T17:54:45.596Z",
+      "startsAt": "2026-08-24T03:58:57.223Z",
       "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -163,13 +160,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-23T17:54:45.828Z",
+      "updatedAt": "2026-08-24T03:58:57.373Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-putin-warns-ukraine-over-deep-strikes-inside-rus-dd14f74f3a",
-        "video-israel-launches-deadly-airstrike-on-gaza-898490075d"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",

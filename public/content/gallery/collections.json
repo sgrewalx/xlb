@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:54:46.250Z",
+  "updatedAt": "2026-08-24T06:00:00.000Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 297 earthquake events in the last 24 hours. Strongest reported event: M6 near 33 km SSW of Honchō, Japan.",
+          "summary": "USGS reported 322 earthquake events in the last 24 hours. Strongest reported event: M6 near 33 km SSW of Honchō, Japan.",
           "metricLabel": "Updated",
-          "metricValue": "Aug 23, 05:54 PM",
+          "metricValue": "Aug 24, 03:58 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
