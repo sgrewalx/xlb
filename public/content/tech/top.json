@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-08-24T22:15:21.817Z",
+  "updatedAt": "2026-08-24T23:13:37.762Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-oura-is-reportedly-eyeing-a-september-ipo-that-c-342926f905",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b",
+      "tag": "Technology",
+      "publishedAt": "2026-08-24T23:05:44.000Z",
+      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-is-hitting-entry-level-jobs-hardest-stanford--da0d8271ed",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+      "tag": "Technology",
+      "publishedAt": "2026-08-24T21:45:53.000Z",
+      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-how-does-converting-a-video-to-4k-actually-work-e6ebb6fb26",
       "title": "How does converting a video to 4K actually work?",
@@ -10,16 +30,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-24T21:30:00.000Z",
       "summary": "Upscaling software is getting better all the time, but there are still some caveats to be aware of.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-trump-bought-spacex-shares-two-weeks-after-block-6879027ccf",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
-      "tag": "Technology",
-      "publishedAt": "2026-08-24T21:24:17.000Z",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-24T19:50:00.000Z",
       "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an openi...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gm-vehicles-under-federal-scrutiny-after-hundred-fcc537e1bc",
-      "title": "GM vehicles under federal scrutiny after hundreds of reports",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures",
-      "tag": "Technology",
-      "publishedAt": "2026-08-24T19:42:50.000Z",
-      "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-can-you-kill-salmonella-in-eggs-without-cooking--867b2ba922",
-      "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/sous-vide-salmonella-eggs",
+      "id": "tech-data-centers-become-killer-application-for-new-p-a9579b9f3a",
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology",
       "tag": "Technology",
-      "publishedAt": "2026-08-24T20:45:52.000Z",
-      "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
+      "publishedAt": "2026-08-24T21:32:16.000Z",
+      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-zillow-and-redfin-settle-ftc-antitrust-case-0c838be06b",
-      "title": "Zillow and Redfin settle FTC antitrust case",
+      "id": "tech-trump-bought-spacex-shares-two-weeks-after-block-6879027ccf",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
       "tag": "Technology",
-      "publishedAt": "2026-08-24T20:45:33.000Z",
-      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+      "publishedAt": "2026-08-24T21:24:17.000Z",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
