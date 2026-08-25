@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-08-25T20:17:11.611Z",
+  "updatedAt": "2026-08-25T21:17:44.067Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-check-out-this-cool-cyberpunk-2077-edition-commo-bf9cd9a328",
+      "title": "Check out this cool Cyberpunk 2077-edition Commodore 64",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2243450/commodore-64-cyberpunk-2077-commodore-77-edition",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T21:00:00.000Z",
+      "summary": "The revived Commodore has teamed up with CD Projekt Red to create this 2K77-themed Commodore 77.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-x-sends-cease-and-desist-to-open-source-project--dac64d25b4",
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T20:44:12.000Z",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over allege...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-at-just-8-you-owe-it-to-yourself-to-grab-inscryp-55d7d6347d",
+      "title": "At just $8, you owe it to yourself to grab Inscryption",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T20:38:37.000Z",
+      "summary": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you ha...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-tech-life-50291f0de8",
       "title": "Tech Life",
@@ -10,16 +40,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-25T20:00:00.000Z",
       "summary": "The government agency that's encouraging high-risk and high-reward research.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-instagram-s-first-draft-feature-aims-to-make-edi-6a8ab11f37",
-      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T19:22:52.000Z",
-      "summary": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing fe...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -33,16 +53,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-dreame-s-dream-of-a-rocket-powered-car-is-dead-c9f6ed6f47",
-      "title": "Dreame’s dream of a rocket-powered car is dead",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T18:52:53.000Z",
-      "summary": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. A...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-google-pixel-11-pro-fold-review-better-not-best-2fcc45df5c",
       "title": "Google Pixel 11 Pro Fold Review: Better, Not Best",
       "source": "Wired",
@@ -50,16 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-25T18:45:00.000Z",
       "summary": "A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-turn-off-find-my-iphone-and-when-you-defi-4bb816c431",
-      "title": "How to turn off Find My iPhone (and when you definitely should)",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2242751/how-to-turn-off-find-my-iphone-when-should",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T18:30:00.000Z",
-      "summary": "Find My is a vital iPhone security feature that you should keep on almost all the time. Turning it off makes your device much harder to recover.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-stability-ai-maker-of-image-generator-stable-dif-bf1c4e62f6",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+      "id": "tech-benq-s-first-dual-monitor-desk-lamp-will-give-yo-c58d0597db",
+      "title": "BenQ's first dual-monitor desk lamp will give your screens a glow up",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2244137/benq-screenbar-max-first-dual-monitor-desk-lamp",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T19:03:47.000Z",
-      "summary": "The company's new fundraising total now stands at $232 million.",
+      "publishedAt": "2026-08-25T20:30:25.000Z",
+      "summary": "BenQ's first dual-monitor desk lamp is excellent, but it'll cost you.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-google-s-anti-nausea-motion-assist-dots-finally--8361ab2730",
-      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17",
-      "tag": "Running",
-      "publishedAt": "2026-08-25T18:32:30.000Z",
-      "summary": "It's currently only appearing on Pixels running Android 17.",
+      "id": "tech-spacex-to-use-nvidia-gpus-for-its-starmind-proje-a360e3441b",
+      "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T20:30:00.000Z",
+      "summary": "Elon Musk wants to harness solar energy for AI.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
