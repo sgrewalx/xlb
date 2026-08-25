@@ -1,15 +1,55 @@
 {
-  "updatedAt": "2026-08-25T15:32:56.186Z",
+  "updatedAt": "2026-08-25T16:24:16.500Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-pacific-fusion-s-next-fusion-machine-could-clear-01f1eefef7",
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power",
+      "id": "tech-polestar-claims-it-was-blindsided-by-sales-ban-2aa3e75714",
+      "title": "Polestar claims it was blindsided by sales ban",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T15:30:00.000Z",
-      "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
+      "publishedAt": "2026-08-25T16:14:45.000Z",
+      "summary": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-new-bootloader-lets-you-take-the-meta-out-of-the-7eb1ff07d3",
+      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T16:04:37.000Z",
+      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-m6-introduced-as-firm-s-first-2nm-chipset--a07057ed36",
+      "title": "Apple M6 Introduced as Firm’s First 2nm Chipset, Alongside M5 Ultra With a Quad-Die Architecture on 2026 Mac Mini, Studio",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/laptops/news/apple-m6-m5-ultra-chipsets-mac-mini-studio-2026-first-2nm-quad-die-architecture-11958074",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T16:02:42.000Z",
+      "summary": "Apple has introduced its new M6 and M5 Ultra chipsets on its new Mac Mini (2026) and Mac Studio (2026). The new M6 is Apple’s first chipset fabricated using the 2nm process tech...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-that-fake-grand-theft-auto-vi-demo-is-actually-j-7682c45585",
+      "title": "That fake Grand Theft Auto VI demo is actually just malware",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T15:48:38.000Z",
+      "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-waymo-is-expanding-to-germany-with-service-in-mu-46ea5d28be",
+      "title": "Waymo is expanding to Germany, with service in Munich planned for 2027",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2243733/waymo-is-expanding-to-germany-with-service-in-munich-planned-for-2027",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T15:40:02.000Z",
+      "summary": "Waymo has set up subsidiaries in several European countries this summer as it prepares to expand.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -20,26 +60,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-25T15:16:36.000Z",
       "summary": "The Supreme Court has removed one roadblock from the Trump administration’s attempts to impose severe restrictions on voting.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nintendo-reveals-its-latest-switch-2-bundles-jus-d72a52fa5c",
-      "title": "Nintendo reveals its latest Switch 2 bundles just ahead of the console's price increase",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2243642/nintendo-reveals-its-latest-switch-2-bundles-just-ahead-of-the-consoles-price-increase",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T14:32:27.000Z",
-      "summary": "Let this serve as a reminder that the Switch 2 is getting more expensive next week.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-s-new-polishing-cloth-is-the-same-except-1-cc837059c7",
-      "title": "Apple’s ‘new’ polishing cloth is the same except $10 cheaper",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T14:25:52.000Z",
-      "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"mad...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -63,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-monad-proposes-new-wallet-design-focused-on-pass-d8e4452722",
-      "title": "Monad Proposes New Wallet Design Focused on Passkeys and Quantum Security",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/cryptocurrency/news/monad-proposes-new-wallet-design-focused-on-passkeys-and-quantum-security-crypto-security-exploits-flaws-11957120",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T13:03:24.000Z",
-      "summary": "Monad researchers Kushal Babel and Jan Camenisch have proposed a new account design that separates a blockchain address from the credentials used to authorise transactions. The...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-apple-s-new-desktop-computers-are-designed-speci-f42bb53706",
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T13:00:11.000Z",
-      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-songs-created-by-ai-banned-from-australia-s-musi-e66f1d2dc5",
       "title": "Songs created by AI banned from Australia's music charts",
       "source": "BBC Technology",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-gamma-acquires-accel-backed-design-startup-lica-817feed4e6",
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
+      "id": "tech-cmf-buds-neo-review-the-best-bang-for-buck-earbu-8c5417bd2c",
+      "title": "CMF Buds Neo Review: The Best Bang-for-Buck Earbuds Right Now",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/audio/reviews/cmf-buds-neo-review-11955813",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T15:00:00.000Z",
-      "summary": "Lica co-founders are going to work on Gamma's new research team.",
+      "publishedAt": "2026-08-25T15:56:11.000Z",
+      "summary": "The CMF Buds Neo prove that affordable earbuds don't have to feel like a compromise. They offer a comfortable fit, enjoyable sound and noise cancellation that works better than...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-rescues-hide-my-email-feature-from-the-pri-3ac20f8b65",
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap",
+      "id": "tech-apple-refreshes-mac-studio-with-m5-max-m5-ultra--2b5dda0f77",
+      "title": "Apple Refreshes Mac Studio With M5 Max, M5 Ultra Chips; Mac Mini Gets M6 Upgrade: Price, Specifications",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/laptops/news/apple-mac-studio-m5-max-ultra-chip-mac-mini-m6-price-launch-sale-features-specifications-11957957",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T14:46:32.000Z",
-      "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
+      "publishedAt": "2026-08-25T15:42:14.000Z",
+      "summary": "Apple on Tuesday refreshed the Mac Studio and Mac mini in India. The update brings the Cupertino-based tech giant’s latest-generation silicon to the compact desktop lineup. The...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
