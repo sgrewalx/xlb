@@ -1,15 +1,45 @@
 {
-  "updatedAt": "2026-08-25T13:40:12.973Z",
+  "updatedAt": "2026-08-25T14:34:32.251Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-gamescom-opening-night-live-updates-from-the-sho-1cc5777318",
-      "title": "Gamescom Opening Night Live: Updates from the showcase including Final Fantasy and Gears of War previews",
+      "id": "tech-nintendo-reveals-its-latest-switch-2-bundles-jus-d72a52fa5c",
+      "title": "Nintendo reveals its latest Switch 2 bundles just ahead of the console's price increase",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2243580/gamescom-onl-2026-live-blog-final-fantasy-silent-hill-gears-of-war",
+      "url": "https://www.engadget.com/2243642/nintendo-reveals-its-latest-switch-2-bundles-just-ahead-of-the-consoles-price-increase",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T13:33:34.000Z",
-      "summary": "We're liveblogging the two-hour showcase and half hour pre-show of Gamescom's ONL today! Come join us, we'll even start a little early for you.",
+      "publishedAt": "2026-08-25T14:32:27.000Z",
+      "summary": "Let this serve as a reminder that the Switch 2 is getting more expensive next week.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-apple-s-new-polishing-cloth-is-the-same-except-1-cc837059c7",
+      "title": "Apple’s ‘new’ polishing cloth is the same except $10 cheaper",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T14:25:52.000Z",
+      "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"mad...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-s-jalape-o-chip-is-built-for-fast-inferen-96745d8d7a",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T14:22:04.000Z",
+      "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-germany-s-infineon-is-acquiring-bengaluru-s-c2i--09e215f420",
+      "title": "Germany’s Infineon is acquiring Bengaluru’s C2i Semiconductors",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors",
+      "tag": "Technology",
+      "publishedAt": "2026-08-25T14:18:48.000Z",
+      "summary": "Infineon’s acquisition of C2i strengthens its AI data-centre power-management capabilities, combining digital power expertise with semiconductor scale as rising AI workloads int...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,33 +53,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-after-losing-his-42-store-brand-nagmani-roy-empo-239268e499",
-      "title": "After losing his 42-store brand, Nagmani Roy empowered 1,700 Bihar women",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/nagmani-roy-earthomadic-bihar-women-artisans-rural-livelihoods",
+      "id": "tech-monad-proposes-new-wallet-design-focused-on-pass-d8e4452722",
+      "title": "Monad Proposes New Wallet Design Focused on Passkeys and Quantum Security",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/cryptocurrency/news/monad-proposes-new-wallet-design-focused-on-passkeys-and-quantum-security-crypto-security-exploits-flaws-11957120",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T13:19:36.000Z",
-      "summary": "After his retail business shut, Nagmani Roy returned to Bihar and helped 1,700 women turn traditional skills into livelihoods.",
+      "publishedAt": "2026-08-25T13:03:24.000Z",
+      "summary": "Monad researchers Kushal Babel and Jan Camenisch have proposed a new account design that separates a blockchain address from the credentials used to authorise transactions. The...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-where-to-preorder-the-updated-mac-mini-and-mac-s-b303800b0a",
-      "title": "Where to preorder the updated Mac Mini and Mac Studio",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+      "id": "tech-apple-s-new-desktop-computers-are-designed-speci-f42bb53706",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T13:02:18.000Z",
-      "summary": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preo...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-andy-dunn-s-startup-pie-becomes-less-of-an-event-12cf666bd9",
-      "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
+      "publishedAt": "2026-08-25T13:00:11.000Z",
+      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -63,16 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-asus-tuf-gaming-16-fx610-launched-in-india-with--90dbb09657",
-      "title": "Asus TUF Gaming 16 (FX610) Launched in India With Up to Nvidia GeForce RTX 5060 GPU, Alongside Refreshed TUF A15, A16 and F16",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/laptops/news/asus-tuf-gaming-16-a15-a16-f16-price-in-india-launch-specifications-features-11956989",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T12:40:22.000Z",
-      "summary": "Asus has launched multiple new TUF series gaming laptops in India, the Taiwanese tech giant announced on Tuesday. The company has unveiled the new Asus TUF Gaming 16 (FX610), al...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-songs-created-by-ai-banned-from-australia-s-musi-e66f1d2dc5",
       "title": "Songs created by AI banned from Australia's music charts",
       "source": "BBC Technology",
@@ -80,16 +90,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-25T04:54:01.000Z",
       "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-is-hitting-entry-level-jobs-hardest-stanford--da0d8271ed",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-      "tag": "Technology",
-      "publishedAt": "2026-08-24T21:45:53.000Z",
-      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-apple-m6-vs-m5-how-much-faster-is-apple-s-new-ev-71a8f7f1d9",
-      "title": "Apple M6 vs M5: How much faster is Apple's new 'everyday' Silicon?",
+      "id": "tech-sony-phones-in-an-update-to-the-midrange-xperia--d24c2f57e5",
+      "title": "Sony phones in an update to the midrange Xperia 10 and slaps a sizable price hike on it",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2243402/apple-m5-vs-m6-how-much-faster-silicon",
+      "url": "https://www.engadget.com/2243639/sony-phones-in-an-update-to-the-midrange-xperia-10",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T13:30:00.000Z",
-      "summary": "Apple finds respectable performance gains on a new 2nm process, but M5 users shouldn't feel any FOMO.",
+      "publishedAt": "2026-08-25T14:30:52.000Z",
+      "summary": "The Xperia 10 VIII offers few upgrades for a lot more money.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-lens-in-wyze-s-new-40-indoor-camera-retracts-6c029c0763",
-      "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
+      "id": "tech-what-s-the-difference-between-thunderbolt-4-and--bff0998819",
+      "title": "What's the difference between Thunderbolt 4 and 5?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2240370/whats-the-difference-between-thunderbold-4-and-5",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "summary": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can til...",
+      "publishedAt": "2026-08-25T14:30:00.000Z",
+      "summary": "Thunderbolt 5 offers extremely fast data transfer and lots of power, but most devices can't take advantage of it",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
