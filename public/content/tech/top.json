@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-08-24T23:13:37.762Z",
+  "updatedAt": "2026-08-25T00:40:14.924Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-oura-is-reportedly-eyeing-a-september-ipo-that-c-342926f905",
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "id": "tech-situational-awareness-star-ai-hedge-fund-that-ne-a886f3efc2",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec",
       "tag": "Technology",
-      "publishedAt": "2026-08-24T23:05:44.000Z",
-      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+      "publishedAt": "2026-08-25T00:23:12.000Z",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-lenovo-confirms-legion-go-issues-after-gamers-re-4584e53f27",
+      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "tag": "Technology",
+      "publishedAt": "2026-08-24T23:38:10.000Z",
+      "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clea...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-cat-and-mouse-game-over-3d-printed-guns-has--d017c6581e",
-      "title": "The cat-and-mouse game over 3D-printed guns has begun",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-      "tag": "Technology",
-      "publishedAt": "2026-08-24T19:50:00.000Z",
-      "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an openi...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-sharing-dangerous-driving-videos-is-truly-repreh-634b8a8cf5",
       "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
       "source": "BBC Technology",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-oura-is-reportedly-eyeing-a-september-ipo-that-c-342926f905",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b",
+      "tag": "Technology",
+      "publishedAt": "2026-08-24T23:05:44.000Z",
+      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-data-centers-become-killer-application-for-new-p-a9579b9f3a",
       "title": "Data centers become \"killer application\" for new power transformer tech",
       "source": "Ars Technica",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-24T21:32:16.000Z",
       "summary": "Solid-state transformers could also benefit EV charging and someday households.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-trump-bought-spacex-shares-two-weeks-after-block-6879027ccf",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
-      "tag": "Technology",
-      "publishedAt": "2026-08-24T21:24:17.000Z",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
