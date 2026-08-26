@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-08-25T23:16:28.920Z",
+  "updatedAt": "2026-08-26T00:41:11.109Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-firms-scramble-for-battery-power-in-spain-and-po-4bb037b8b0",
-      "title": "Firms scramble for battery power in Spain and Portugal",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "id": "tech-robotics-startup-generalist-reaches-3b-valuation-0ff5cfdf66",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T23:09:31.000Z",
-      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "publishedAt": "2026-08-26T00:40:59.000Z",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-musk-s-spacex-to-build-100bn-launch-site-in-loui-408d066dfa",
+      "title": "Musk's SpaceX to build $100bn launch site in Louisiana",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-26T00:39:33.000Z",
+      "summary": "The project - named Starbase - will be the firm's biggest facility yet and aims to send rockets to space in 2029.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -53,16 +63,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-x-sends-cease-and-desist-to-open-source-project--dac64d25b4",
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T20:44:12.000Z",
-      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleg...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-apple-m6-introduced-as-firm-s-first-2nm-chipset--a07057ed36",
       "title": "Apple M6 Introduced as Firm’s First 2nm Chipset, Alongside M5 Ultra With a Quad-Die Architecture on 2026 Mac Mini, Studio",
       "source": "Gadgets 360",
@@ -103,23 +103,23 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-here-are-three-sick-gibson-guitar-controllers-ma-eb2701f449",
-      "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date",
+      "id": "tech-openai-loses-a-top-data-center-exec-as-stream-of-8ad4dc6098",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T22:42:07.000Z",
-      "summary": "CRKD is mining nostalgia for its latest guitar trio.",
+      "publishedAt": "2026-08-26T00:06:20.000Z",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti i...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-lego-skylines-is-a-cozy-city-builder-from-the-st-c2da1de347",
-      "title": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii",
+      "id": "tech-firms-scramble-for-battery-power-in-spain-and-po-4bb037b8b0",
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-08-25T22:30:31.000Z",
-      "summary": "Iceflake Studios is preparing a cozy new city builder centered on the famous bricks.",
+      "publishedAt": "2026-08-25T23:09:31.000Z",
+      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
