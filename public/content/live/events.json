@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:53:21.345Z",
+  "updatedAt": "2026-08-26T03:57:41.745Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-08-25T03:47:29.700Z",
-      "summary": "USGS reported 267 earthquake events in the last 24 hours. Strongest reported event: M6 near 215 km NNE of Lospalos, Timor Leste.",
+      "startsAt": "2026-08-26T03:50:14.807Z",
+      "summary": "USGS reported 264 earthquake events in the last 24 hours. Strongest reported event: M5.5 near south of the Fiji Islands.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-25T03:53:21.345Z",
-      "importance": 78,
+      "updatedAt": "2026-08-26T03:57:41.745Z",
+      "importance": 81,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-japan-earthquake-live-back-to-back-earthquakes-s-edbf33d60f",
-        "video-inside-colombia-two-weeks-since-7-4-magnitude-ea-23d4eb0add",
-        "video-us-iran-war-trump-announces-biggest-nuclear-war--bcecf3cb23"
+        "video-mamdani-opposes-rss-chief-mohan-bhagwat-s-madiso-c72bef0c54",
+        "video-ex-cds-chauhan-shuts-down-trump-s-ceasefire-clai-d5d8584e37",
+        "video-spain-crisis-in-visuals-chaotic-scenes-erupt-as--647206d4bd"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,8 +46,8 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-08-25T00:50:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-08-26T03:54:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak is Kp 0. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
@@ -58,10 +58,14 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-25T03:53:21.345Z",
+      "updatedAt": "2026-08-26T03:57:41.745Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-mamdani-opposes-rss-chief-mohan-bhagwat-s-madiso-c72bef0c54",
+        "video-ex-cds-chauhan-shuts-down-trump-s-ceasefire-clai-d5d8584e37",
+        "video-spain-crisis-in-visuals-chaotic-scenes-erupt-as--647206d4bd"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -91,7 +95,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-25T03:53:21.345Z",
+      "updatedAt": "2026-08-26T03:57:41.745Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -111,7 +115,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-25T03:53:20.931Z",
+      "startsAt": "2026-08-26T03:57:41.443Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -123,10 +127,12 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-25T03:53:21.345Z",
+      "updatedAt": "2026-08-26T03:57:41.745Z",
       "importance": 71,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [],
+      "relatedVideoIds": [
+        "video-spacex-falcon-9-rocket-seen-flying-over-new-york-8cf2736721"
+      ],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -144,7 +150,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-25T03:53:20.931Z",
+      "startsAt": "2026-08-26T03:57:41.444Z",
       "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -156,7 +162,7 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-25T03:53:21.345Z",
+      "updatedAt": "2026-08-26T03:57:41.745Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
