@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-08-26T09:30:28.871Z",
+  "updatedAt": "2026-08-26T10:24:15.411Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-samsung-galaxy-s27-ultra-design-colourway-spotte-e7ad2010b2",
-      "title": "Samsung Galaxy S27 Ultra Design, Colourway Spotted in Leaked CAD Renders",
+      "id": "tech-iphone-ultra-could-feature-redesigned-internal-l-50e61d28b4",
+      "title": "iPhone Ultra Could Feature Redesigned Internal Layout as Purported Images of Motherboard Surface Online",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-ultra-design-renders-leak-colourway-specifications-features-11960905",
+      "url": "https://www.gadgets360.com/mobiles/news/iphone-ultra-internal-images-leak-a20-pro-chipset-dram-stacking-specifications-features-11961164",
       "tag": "Technology",
-      "publishedAt": "2026-08-26T09:24:09.000Z",
-      "summary": "Samsung Galaxy S27 Ultra computer-aided design (CAD) renders have surfaced online, hinting at the phone’s design. The handset is shown to feature a significantly different rear...",
+      "publishedAt": "2026-08-26T10:14:21.000Z",
+      "summary": "iPhone Ultra, Apple's first book-style foldable, will feature a redesigned internal layout, according to the leaked images of the phone's motherboard. The image of the phone’s m...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ikea-s-xbox-collection-includes-a-giant-thumbsti-1f11624cfa",
+      "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+      "tag": "Technology",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "summary": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. T...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-ikea-turned-a-controller-thumbstick-into-the-d62e93bf5e",
+      "title": "How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range",
+      "tag": "Technology",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "summary": "Xbox and Ikea collab alert! This unique nine-piece collection for gamers arrives this fall and has a slew of Easter eggs.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -30,16 +50,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-26T09:22:09.000Z",
       "summary": "WhatsApp, the instant messaging service owned by Meta, noted that more than 1 billion people had a passkey",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-a-mutation-is-making-it-easier-for-drug-resistan-9c792aeb41",
-      "title": "A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread",
-      "tag": "Technology",
-      "publishedAt": "2026-08-26T09:00:00.000Z",
-      "summary": "New findings shed light on what’s making the parasite less treatable using the drug that’s considered a first line of defense.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -83,16 +93,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-garmin-s-new-fenix-9-adds-brighter-screens-and-s-1d9ee87698",
-      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-      "tag": "Technology",
-      "publishedAt": "2026-08-25T22:20:17.000Z",
-      "summary": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-us-president-biden-s-tiktok-oil-moves-test-the-l-857b212545",
       "title": "US President Biden's TikTok, oil moves test the loyalty of young voters",
       "source": "Business Standard Tech",
@@ -103,6 +103,16 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
+      "id": "tech-samsung-galaxy-s27-ultra-design-colourway-spotte-e7ad2010b2",
+      "title": "Samsung Galaxy S27 Ultra Design, Colourway Spotted in Leaked CAD Renders",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-ultra-design-renders-leak-colourway-specifications-features-11960905",
+      "tag": "Technology",
+      "publishedAt": "2026-08-26T09:24:09.000Z",
+      "summary": "Samsung Galaxy S27 Ultra computer-aided design (CAD) renders have surfaced online, hinting at the phone’s design. The handset is shown to feature a significantly different rear...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-vivo-x500-pro-max-confirmed-to-feature-200-megap-7c10260d10",
       "title": "Vivo X500 Pro Max Confirmed to Feature 200-Megapixel Zeiss Telephoto Camera; X500 Pro to Get 64-Megapixel Sensor",
       "source": "Gadgets 360",
@@ -110,16 +120,6 @@
       "tag": "Technology",
       "publishedAt": "2026-08-26T09:21:37.000Z",
       "summary": "The launch of the Vivo X500 series was recently confirmed in China. Ahead of its anticipated debut, the brand has now begun revealing details about its upcoming lineup, which wi...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ubisoft-reveals-rainbow-six-tactics-at-gamescom--3ceaffc62c",
-      "title": "Ubisoft Reveals Rainbow Six Tactics at Gamescom Opening Night Live",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/games/news/tom-clancys-rainbow-six-tactics-announced-ubisoft-gamescom-opening-night-live-11960897",
-      "tag": "Technology",
-      "publishedAt": "2026-08-26T09:13:22.000Z",
-      "summary": "Ubisoft has announced Tom Clancy's Rainbow Six Tactics, a single-player turn-based tactics game coming to PC and consoles. The title was revealed at Gamescom Opening Night Life....",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
