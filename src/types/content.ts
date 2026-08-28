@@ -8,6 +8,8 @@ export interface FeedItem {
   summary?: string;
   whyItMatters?: string;
   embedUrl?: string;
+  image?: string;
+  imageAlt?: string;
 }
 
 export interface TopFeed {
