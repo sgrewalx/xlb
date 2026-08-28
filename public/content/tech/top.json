@@ -1,65 +1,85 @@
 {
-  "updatedAt": "2026-08-28T10:27:16.680Z",
+  "updatedAt": "2026-08-28T19:47:56.813Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-is-memory-chip-crunch-wiping-out-10k-smartphone--31e64c31f1",
+      "id": "tech-milo-yiannopoulos-detained-by-ice-in-louisiana-eebf83c39d",
+      "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana",
+      "tag": "Technology",
+      "publishedAt": "2026-08-28T19:44:11.000Z",
+      "summary": "The longtime far-right operator and troll, a UK citizen, is being held in a detention center about 200 miles from New Orleans.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-an-anthropic-researcher-just-gave-us-a-peek-at-s-fb5d793af9",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-08-28T19:30:38.000Z",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-early-leak-of-nvidia-s-dlss-5-has-an-uncanny-val-60a408c1fe",
+      "title": "Early leak of NVIDIA's DLSS 5 has an uncanny valley problem",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2246658/early-leak-of-nvidia-dlss5-has-an-uncanny-valley-problem",
+      "tag": "Technology",
+      "publishedAt": "2026-08-28T19:20:33.000Z",
+      "summary": "People are grafting a pre-release version of DLSS 5 onto their favorite games with unspectacular results.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-trump-blacklisting-of-woke-anthropic-deemed-ille-aee0c6c17c",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "tag": "Technology",
+      "publishedAt": "2026-08-28T18:07:55.000Z",
+      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-save-hundreds-on-a-tcl-mini-led-tv-with-quantum--69698f0090",
+      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-08-28T17:03:07.000Z",
+      "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larg...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-delhivery-makes-nominal-adjustment-to-customer-p-998c075939",
+      "title": "Delhivery makes \"nominal adjustment\" to customer pricing amid rising costs",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/delhivery-makes-nominal-adjustment-to-customer-pricing-amid-rising-costs",
+      "tag": "Technology",
+      "publishedAt": "2026-08-28T16:44:46.000Z",
+      "summary": "The Gurugram-based logistics company said increases in manpower, fuel, air movement and other network costs have driven the pricing change.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-best-laser-printers-in-india-check-top-options-f-64e7fe0f07",
+      "title": "Best Laser Printers in India Check Top Options from HP, Brother and Canon",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/laptops/features/best-laser-printers-in-india-check-top-options-from-hp-brother-and-canon-11972334",
+      "tag": "Technology",
+      "publishedAt": "2026-08-28T15:48:19.000Z",
+      "summary": "For those who print frequently at home, in small businesses, or busy offices, laser printers continued to be the preferred choice. This is due to several advantages over basic i...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-is-memory-chip-crunch-wiping-out-10k-smartphone--0f0e7fff35",
       "title": "Is memory chip crunch wiping out ₹10K smartphone market in India?",
       "source": "The Hindu Technology",
       "url": "https://www.thehindu.com/sci-tech/technology/is-memory-chip-crunch-wiping-out-10k-smartphone-market-in-india/article71399887.ece",
       "tag": "Technology",
-      "publishedAt": "2026-08-28T10:15:45.000Z",
+      "publishedAt": "2026-08-28T11:31:10.000Z",
       "summary": "As per an IDC estimate, nearly 173 million sub-₹10K smartphones, which shipped last year, are facing an existential crisis. In Q2 2026, this segment saw an almost 60% YoY drop",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-i-asked-100-companies-for-my-data-i-got-deletion-516f6fd478",
-      "title": "I Asked 100 Companies for My Data. I Got Deletion Notices Instead",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead",
-      "tag": "Technology",
-      "publishedAt": "2026-08-28T10:15:00.000Z",
-      "summary": "California residents have a legal right to access the data that companies collect about them. Actually exercising that right is a burdensome nightmare.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-samsung-odyssey-g-series-gaming-monitors-unveile-9dc188c2f7",
-      "title": "Samsung Odyssey G Series Gaming Monitors Unveiled at Gamescom 2026 With Curved OLED, 1,100Hz Panel",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/laptops/news/samsung-odyssey-oled-g9-g8-g7-g6-series-gaming-monitors-gamescomm-2026-specifications-features-11970804",
-      "tag": "Technology",
-      "publishedAt": "2026-08-28T10:01:27.000Z",
-      "summary": "Samsung has unveiled four new gaming monitors under its Odyssey G series at Gamescom 2026. The monitors come in various shapes, sizes, resolutions and refresh rates. Samsung als...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-as-electric-two-wheelers-gain-a-foothold-belgian-f08c17bf32",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space",
-      "tag": "Technology",
-      "publishedAt": "2026-08-28T09:33:00.000Z",
-      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-flipkart-minutes-cashes-in-on-last-minute-festiv-abcbe4d609",
-      "title": "Flipkart Minutes cashes in on last-minute festive shopping, sees 3X spike during Raksha Bandhan",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/flipkart-minutes-last-minute-shopping-3x-spike-during-raksha-bandhan",
-      "tag": "Technology",
-      "publishedAt": "2026-08-28T08:33:34.000Z",
-      "summary": "Gen Z shopper accounted for 40% of customers during the festive period. Rakhis, maang tikkas, precious earrings, gold and silver coins and bars, and pooja thaali sets were the p...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-stripe-led-group-is-reportedly-abandoning-its-pa-aafc2fd56b",
-      "title": "Stripe-led group is reportedly abandoning its PayPal acquisition",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2246144/stripe-led-group-is-reportedly-abandoning-paypal-acquisition",
-      "tag": "Technology",
-      "publishedAt": "2026-08-28T06:34:44.000Z",
-      "summary": "Stripe and buyout firm Advent are no longer pursuing their acquisition of PayPal as was reported earlier this month.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -73,53 +93,33 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-was-illegally-blacklisted-by-the-trump-5c37be87f5",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "id": "tech-brave-s-browser-one-ups-chrome-with-its-new-supp-6a8ea57e39",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases",
       "tag": "Technology",
-      "publishedAt": "2026-08-28T03:14:06.000Z",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a b...",
+      "publishedAt": "2026-08-28T18:50:00.000Z",
+      "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-s-new-hardware-standard-lets-ai-agents-8932a2197c",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world",
+      "id": "tech-how-long-is-a-new-fire-tv-stick-actually-suppose-399d73c965",
+      "title": "How long is a new Fire TV Stick actually supposed to last?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2245477/how-long-new-fire-tv-stick-last-lifespan",
       "tag": "Technology",
-      "publishedAt": "2026-08-27T22:15:43.000Z",
-      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
+      "publishedAt": "2026-08-28T18:30:00.000Z",
+      "summary": "Fire TV Sticks can last for years, but how many? Here's how to know when support ends for your device and when to upgrade.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-meta-settlement-falls-short-on-teen-mental-healt-93c2b9f530",
-      "title": "Meta settlement falls short on teen mental health protections, whistleblower says",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/meta-settlement-falls-short-on-teen-mental-health-protections-whistleblower-says/article71399169.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-08-28T10:02:26.000Z",
-      "summary": "The settlement involves Meta paying states up to $18 billion over the next decade and remedies such as limiting how teenagers use its Facebook and Instagram social media platforms",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-diesel-s-desire-an-engine-for-everyone-c66d67762f",
-      "title": "Diesel’s desire: an engine for everyone",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-08-28T09:51:12.000Z",
-      "summary": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-there-are-so-many-conspiracy-theories-about-doll-cfbf4b7977",
-      "title": "There Are So Many Conspiracy Theories About Dolly Parton and Vaccines",
+      "id": "tech-microsoft-teams-has-become-a-haven-for-scammers--f7f3f9d370",
+      "title": "Microsoft Teams Has Become a Haven for Scammers in China",
       "source": "Wired",
-      "url": "https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines",
+      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers",
       "tag": "Technology",
-      "publishedAt": "2026-08-28T09:30:00.000Z",
-      "summary": "Influential right-wing conspiracy theorists and MAGA-aligned pundits are falsely claiming that the Covid vaccine killed Dolly Parton, the vaccination advocate and philanthropist.",
+      "publishedAt": "2026-08-28T18:23:17.000Z",
+      "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
