@@ -1,5 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
+import { assessTechArticle } from "../automation/fetch-tech/policy.mjs";
 
 const root = new URL("../public/content/", import.meta.url);
 
@@ -8,8 +10,8 @@ const files = [
   ["news/top.json", validateExpandedFeed],
   ["sports/top3.json", validateTopFeed],
   ["sports/top.json", validateExpandedFeed],
-  ["tech/top3.json", validateTopFeed],
-  ["tech/top.json", validateExpandedFeed],
+  ["tech/top3.json", validateTechTopFeed],
+  ["tech/top.json", validateTechExpandedFeed],
   ["video/top3.json", validateTopFeed],
   ["video/top.json", validateExpandedFeed],
   ["video/shorts.json", validateVideoShorts],
@@ -50,6 +52,11 @@ function validateExpandedFeed(json, label) {
   });
 }
 
+function validateTechExpandedFeed(json, label) {
+  validateExpandedFeed(json, label);
+  validateTechFreshness(json, label);
+}
+
 function isString(value) {
   return typeof value === "string" && value.trim().length > 0;
 }
@@ -66,6 +73,24 @@ function validateTopFeed(json, label) {
     assert(isString(item.url), `${label}: item ${index} url required`);
     assert(isString(item.tag), `${label}: item ${index} tag required`);
     assert(isString(item.publishedAt), `${label}: item ${index} publishedAt required`);
+  });
+}
+
+function validateTechTopFeed(json, label) {
+  validateTopFeed(json, label);
+  validateTechFreshness(json, label);
+}
+
+export function validateTechFreshness(json, label) {
+  const updatedAt = Date.parse(json.updatedAt);
+  assert(Number.isFinite(updatedAt), `${label}: updatedAt must be a valid date-time`);
+
+  json.items.forEach((item, index) => {
+    const assessment = assessTechArticle(item, json.updatedAt);
+    assert(
+      assessment.eligible,
+      `${label}: item ${index} is not eligible Tech content (${assessment.reason})`,
+    );
   });
 }
 
@@ -328,7 +353,9 @@ async function main() {
   }
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : error);
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : error);
+    process.exitCode = 1;
+  });
+}
