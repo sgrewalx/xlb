@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T14:01:52.684Z",
+  "updatedAt": "2026-08-28T15:12:59.782Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -13,9 +13,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 233 earthquake events in the last 24 hours. Strongest reported event: M5.6 near 212 km E of Onagawa Chō, Japan.",
+          "summary": "USGS reported 248 earthquake events in the last 24 hours. Strongest reported event: M6 near 145 km N of Caluula, Somalia.",
           "metricLabel": "Updated",
-          "metricValue": "Aug 27, 02:01 PM",
+          "metricValue": "Aug 28, 03:12 PM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth"
         },
@@ -50,7 +50,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
