@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Launch timeline</title>
+  <desc id="description">Current launch records ordered into one source-backed visual timeline.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #eef6ff; letter-spacing: 0; }
+    .kicker { fill: #84e5c1; font-size: 18px; font-weight: 700; }
+    .title { font-size: 58px; font-weight: 700; }
+    .subtitle { fill: #aebdca; font-size: 22px; }
+    .updated { fill: #7890a3; font-size: 16px; }
+    .metric { font-size: 76px; font-weight: 700; }
+    .metric-small { font-size: 27px; font-weight: 700; }
+    .metric-label, .tick, .row-meta { fill: #91a5b5; font-size: 17px; }
+    .row-title { font-size: 23px; font-weight: 700; }
+  </style>
+  <rect width="1200" height="675" fill="#07111f"/>
+  <rect x="28" y="28" width="1144" height="619" rx="12" fill="#0d1d2a" stroke="#284052" stroke-width="2"/>
+  <text x="72" y="92" class="kicker">NASA SCHEDULE SNAPSHOT</text>
+  <text x="72" y="164" class="title">Launch timeline</text>
+  <text x="72" y="210" class="subtitle">Current launch records ordered into one source-backed visual timeline.</text>
+  <circle cx="120" cy="320" r="11" fill="#84e5c1"/>
+      <line x1="120" y1="334" x2="120" y2="411" stroke="#334654" stroke-width="4"/>
+      <text x="165" y="312" class="row-title">NASA’s SpaceX CRS-35</text>
+      <text x="165" y="348" class="row-meta">2026-08-29 09:55 UTC · NASA launch schedule</text>
+
+      <circle cx="120" cy="425" r="11" fill="#84e5c1"/>
+
+      <text x="165" y="417" class="row-title">NASA’s Northrop Grumman CRS-25</text>
+      <text x="165" y="453" class="row-meta">2026-08-29 09:55 UTC · NASA launch schedule</text>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-08-29 09:55 UTC</text>
+</svg>

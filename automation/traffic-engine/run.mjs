@@ -1,4 +1,5 @@
-import { writeJsonIfChanged } from "../shared/content-writer.mjs";
+import { writeJsonIfChanged, writeTextIfChanged } from "../shared/content-writer.mjs";
+import { buildGalleryVisuals } from "./gallery-visuals.mjs";
 import {
   buildAutonomyState,
   buildExperimentLedger,
@@ -16,6 +17,7 @@ const HOME_MODULES_FILE = new URL("../../public/content/home/modules.json", impo
 const VIDEO_SHORTS_FILE = new URL("../../public/content/video/shorts.json", import.meta.url);
 const GAMES_CATALOG_FILE = new URL("../../public/content/games/catalog.json", import.meta.url);
 const GALLERY_COLLECTIONS_FILE = new URL("../../public/content/gallery/collections.json", import.meta.url);
+const GALLERY_VISUALS_DIR = new URL("../../public/content/gallery/visuals/", import.meta.url);
 
 const SIGNAL_REPORT_FILE = new URL("../../automation/reports/signal-agent.json", import.meta.url);
 const SURFACE_RANKER_FILE = new URL("../../automation/reports/surface-ranker.json", import.meta.url);
@@ -32,6 +34,7 @@ async function main() {
   const videoShorts = buildVideoShorts(context);
   const gamesCatalog = buildGamesCatalog(context);
   const galleryCollections = buildGalleryCollections(context);
+  const galleryVisuals = buildGalleryVisuals(context);
   const signalReport = buildSignalReport(context);
   const surfaceReport = buildSurfaceRankingReport(
     context,
@@ -61,6 +64,7 @@ async function main() {
     writeAndLog(VIDEO_SHORTS_FILE, videoShorts),
     writeAndLog(GAMES_CATALOG_FILE, gamesCatalog),
     writeAndLog(GALLERY_COLLECTIONS_FILE, galleryCollections),
+    ...galleryVisuals.map((visual) => writeVisualAndLog(visual)),
     writeAndLog(SIGNAL_REPORT_FILE, signalReport),
     writeAndLog(SURFACE_RANKER_FILE, surfaceReport),
     writeAndLog(VIDEO_AGENT_FILE, {
@@ -94,6 +98,12 @@ async function main() {
     writeAndLog(AUTONOMY_STATE_FILE, autonomyState),
     writeAndLog(EXPERIMENT_LEDGER_FILE, experimentLedger),
   ]);
+}
+
+async function writeVisualAndLog(visual) {
+  const fileUrl = new URL(`${visual.id}.svg`, GALLERY_VISUALS_DIR);
+  const changed = await writeTextIfChanged(fileUrl, visual.svg);
+  console.log(changed ? `Updated gallery visual ${visual.id}` : `Gallery visual ${visual.id} already matched generated output`);
 }
 
 async function writeAndLog(fileUrl, data) {

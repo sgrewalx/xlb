@@ -9,6 +9,12 @@
       "category": "quake",
       "relatedPath": "/events/global-earthquake-watch",
       "relatedLabel": "Open earthquake watch",
+      "image": "/content/gallery/visuals/earthquake-activity.svg",
+      "imageAlt": "USGS 24-hour earthquake activity summary",
+      "imageCredit": "XLB visualization from USGS earthquake data",
+      "imageOrigin": "generated-official-data",
+      "imageSourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
+      "visualType": "data-visualization",
       "entries": [
         {
           "id": "quake-primary",
@@ -17,7 +23,13 @@
           "metricLabel": "Updated",
           "metricValue": "Aug 29, 09:55 AM",
           "href": "/events/global-earthquake-watch",
-          "accent": "earth"
+          "accent": "earth",
+          "image": "/content/gallery/visuals/earthquake-activity.svg",
+          "imageAlt": "USGS 24-hour earthquake activity summary",
+          "imageCredit": "XLB visualization from USGS earthquake data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
+          "visualType": "data-visualization"
         },
         {
           "id": "quake-earth",
@@ -26,7 +38,13 @@
           "metricLabel": "Live pages",
           "metricValue": "0",
           "href": "/live/earth",
-          "accent": "signal"
+          "accent": "signal",
+          "image": "/content/gallery/visuals/earthquake-activity.svg",
+          "imageAlt": "USGS 24-hour earthquake activity summary",
+          "imageCredit": "XLB visualization from USGS earthquake data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
+          "visualType": "data-visualization"
         },
         {
           "id": "quake-topic",
@@ -35,7 +53,13 @@
           "metricLabel": "Promoted",
           "metricValue": "1",
           "href": "/topics/earthquakes",
-          "accent": "earth"
+          "accent": "earth",
+          "image": "/content/gallery/visuals/earthquake-activity.svg",
+          "imageAlt": "USGS 24-hour earthquake activity summary",
+          "imageCredit": "XLB visualization from USGS earthquake data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
+          "visualType": "data-visualization"
         }
       ]
     },
@@ -46,6 +70,12 @@
       "category": "aurora",
       "relatedPath": "/events/aurora-watch",
       "relatedLabel": "Open aurora watch",
+      "image": "/content/gallery/visuals/aurora-kp.svg",
+      "imageAlt": "NOAA geomagnetic Kp condition summary",
+      "imageCredit": "XLB visualization from NOAA SWPC data",
+      "imageOrigin": "generated-official-data",
+      "imageSourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+      "visualType": "data-visualization",
       "entries": [
         {
           "id": "aurora-primary",
@@ -54,7 +84,13 @@
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
-          "accent": "space"
+          "accent": "space",
+          "image": "/content/gallery/visuals/aurora-kp.svg",
+          "imageAlt": "NOAA geomagnetic Kp condition summary",
+          "imageCredit": "XLB visualization from NOAA SWPC data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+          "visualType": "data-visualization"
         },
         {
           "id": "aurora-space",
@@ -63,7 +99,13 @@
           "metricLabel": "Space views",
           "metricValue": "0",
           "href": "/live/space",
-          "accent": "signal"
+          "accent": "signal",
+          "image": "/content/gallery/visuals/aurora-kp.svg",
+          "imageAlt": "NOAA geomagnetic Kp condition summary",
+          "imageCredit": "XLB visualization from NOAA SWPC data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+          "visualType": "data-visualization"
         },
         {
           "id": "aurora-topic",
@@ -72,7 +114,13 @@
           "metricLabel": "Best score",
           "metricValue": "82",
           "href": "/topics/space-weather",
-          "accent": "space"
+          "accent": "space",
+          "image": "/content/gallery/visuals/aurora-kp.svg",
+          "imageAlt": "NOAA geomagnetic Kp condition summary",
+          "imageCredit": "XLB visualization from NOAA SWPC data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
+          "visualType": "data-visualization"
         }
       ]
     },
@@ -83,6 +131,12 @@
       "category": "launch",
       "relatedPath": "/live/space",
       "relatedLabel": "Open live space",
+      "image": "/content/gallery/visuals/launch-timeline.svg",
+      "imageAlt": "Timeline of current NASA launch schedule records",
+      "imageCredit": "XLB visualization from NASA launch schedule data",
+      "imageOrigin": "generated-official-data",
+      "imageSourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
+      "visualType": "data-visualization",
       "entries": [
         {
           "id": "space-launch-nasa-s-spacex-crs-35",
@@ -91,7 +145,13 @@
           "metricLabel": "Countdown",
           "metricValue": "Starting",
           "href": "/events/nasa-s-spacex-crs-35",
-          "accent": "space"
+          "accent": "space",
+          "image": "/content/gallery/visuals/launch-timeline.svg",
+          "imageAlt": "Timeline of current NASA launch schedule records",
+          "imageCredit": "XLB visualization from NASA launch schedule data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
+          "visualType": "data-visualization"
         },
         {
           "id": "space-launch-nasa-s-northrop-grumman-crs-25",
@@ -100,7 +160,13 @@
           "metricLabel": "Countdown",
           "metricValue": "Starting",
           "href": "/events/nasa-s-northrop-grumman-crs-25",
-          "accent": "space"
+          "accent": "space",
+          "image": "/content/gallery/visuals/launch-timeline.svg",
+          "imageAlt": "Timeline of current NASA launch schedule records",
+          "imageCredit": "XLB visualization from NASA launch schedule data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.nasa.gov/event/nasas-northrop-grumman-crs-25/",
+          "visualType": "data-visualization"
         }
       ]
     },
@@ -111,6 +177,12 @@
       "category": "topic",
       "relatedPath": "/live",
       "relatedLabel": "Open full live inventory",
+      "image": "/content/gallery/visuals/topic-signals.svg",
+      "imageAlt": "Relative strength of current source-backed live topics",
+      "imageCredit": "XLB visualization from current source-backed topic records",
+      "imageOrigin": "generated-official-data",
+      "imageSourceUrl": "https://xlb.codemachine.in/live",
+      "visualType": "data-visualization",
       "entries": [
         {
           "id": "earthquakes",
@@ -119,7 +191,13 @@
           "metricLabel": "Best score",
           "metricValue": "96",
           "href": "/topics/earthquakes",
-          "accent": "signal"
+          "accent": "signal",
+          "image": "/content/gallery/visuals/earthquake-activity.svg",
+          "imageAlt": "USGS 24-hour earthquake activity summary",
+          "imageCredit": "XLB visualization from USGS earthquake data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://xlb.codemachine.in/topics/earthquakes",
+          "visualType": "data-visualization"
         },
         {
           "id": "space-weather",
@@ -128,7 +206,13 @@
           "metricLabel": "Event count",
           "metricValue": "1",
           "href": "/topics/space-weather",
-          "accent": "space"
+          "accent": "space",
+          "image": "/content/gallery/visuals/aurora-kp.svg",
+          "imageAlt": "NOAA geomagnetic Kp condition summary",
+          "imageCredit": "XLB visualization from NOAA SWPC data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://xlb.codemachine.in/topics/space-weather",
+          "visualType": "data-visualization"
         },
         {
           "id": "nasa",
@@ -137,7 +221,13 @@
           "metricLabel": "Event count",
           "metricValue": "1",
           "href": "/topics/nasa",
-          "accent": "signal"
+          "accent": "signal",
+          "image": "/content/gallery/visuals/launch-timeline.svg",
+          "imageAlt": "Timeline of current NASA launch schedule records",
+          "imageCredit": "XLB visualization from NASA launch schedule data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://xlb.codemachine.in/topics/nasa",
+          "visualType": "data-visualization"
         }
       ]
     }

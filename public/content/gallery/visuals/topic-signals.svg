@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Topic signals</title>
+  <desc id="description">Relative topic strength generated from current event and ranking records.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #eef6ff; letter-spacing: 0; }
+    .kicker { fill: #84e5c1; font-size: 18px; font-weight: 700; }
+    .title { font-size: 58px; font-weight: 700; }
+    .subtitle { fill: #aebdca; font-size: 22px; }
+    .updated { fill: #7890a3; font-size: 16px; }
+    .metric { font-size: 76px; font-weight: 700; }
+    .metric-small { font-size: 27px; font-weight: 700; }
+    .metric-label, .tick, .row-meta { fill: #91a5b5; font-size: 17px; }
+    .row-title { font-size: 23px; font-weight: 700; }
+  </style>
+  <rect width="1200" height="675" fill="#07111f"/>
+  <rect x="28" y="28" width="1144" height="619" rx="12" fill="#0d1d2a" stroke="#284052" stroke-width="2"/>
+  <text x="72" y="92" class="kicker">CURRENT SOURCE-BACKED INVENTORY</text>
+  <text x="72" y="164" class="title">Topic signals</text>
+  <text x="72" y="210" class="subtitle">Relative topic strength generated from current event and ranking records.</text>
+  <text x="75" y="300" class="row-title">Earthquakes</text>
+      <rect x="365" y="276" width="720" height="24" rx="4" fill="#1d303e"/>
+      <rect x="365" y="276" width="691.2" height="24" rx="4" fill="#84e5c1"/>
+      <text x="1115" y="297" text-anchor="end" class="row-meta">96 score · 1 events</text>
+
+      <text x="75" y="384" class="row-title">Space Weather</text>
+      <rect x="365" y="360" width="720" height="24" rx="4" fill="#1d303e"/>
+      <rect x="365" y="360" width="590.4" height="24" rx="4" fill="#84e5c1"/>
+      <text x="1115" y="381" text-anchor="end" class="row-meta">82 score · 1 events</text>
+
+      <text x="75" y="468" class="row-title">NASA</text>
+      <rect x="365" y="444" width="720" height="24" rx="4" fill="#1d303e"/>
+      <rect x="365" y="444" width="554.4" height="24" rx="4" fill="#84e5c1"/>
+      <text x="1115" y="465" text-anchor="end" class="row-meta">77 score · 1 events</text>
+
+      <text x="75" y="552" class="row-title">Launches</text>
+      <rect x="365" y="528" width="720" height="24" rx="4" fill="#1d303e"/>
+      <rect x="365" y="528" width="518.4" height="24" rx="4" fill="#84e5c1"/>
+      <text x="1115" y="549" text-anchor="end" class="row-meta">72 score · 2 events</text>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-08-29 09:55 UTC</text>
+</svg>

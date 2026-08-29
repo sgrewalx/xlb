@@ -2,10 +2,12 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import {
   buildAutonomyState,
+  buildGalleryCollections,
   buildHomeModules,
   buildPruneReport,
   buildVideoShorts,
 } from "./shared.mjs";
+import { buildGalleryVisuals } from "./gallery-visuals.mjs";
 
 function makeContext(overrides = {}) {
   return {
@@ -226,6 +228,40 @@ test("buildHomeModules includes multiple upcoming events inside the next 24 hour
   assert.deepEqual(next24.items.map((item) => item.id), ["launch", "second-launch"]);
   assert.equal(next24.emptyState, null);
   assert.equal(next24.metrics[0].value, "2");
+});
+
+test("Gallery collections carry auditable source-backed visual metadata", () => {
+  const gallery = buildGalleryCollections(makeContext());
+
+  assert.equal(gallery.items.length, 4);
+  for (const collection of gallery.items) {
+    assert.match(collection.image, /^\/content\/gallery\/visuals\/[a-z0-9-]+\.svg$/);
+    assert.equal(collection.imageOrigin, "generated-official-data");
+    assert.equal(collection.visualType, "data-visualization");
+    assert.match(collection.imageSourceUrl, /^https:\/\//);
+
+    for (const entry of collection.entries) {
+      assert.match(entry.image, /^\/content\/gallery\/visuals\/[a-z0-9-]+\.svg$/);
+      assert.equal(entry.imageOrigin, "generated-official-data");
+      assert.equal(entry.visualType, "data-visualization");
+    }
+  }
+});
+
+test("Gallery visuals encode current USGS, NOAA, NASA, and topic values", () => {
+  const context = makeContext();
+  context.liveEventsFeed.items[0].summary =
+    "USGS reported 248 earthquake events in the last 24 hours. Strongest reported event: M6 near Somalia.";
+  context.liveEventsFeed.items[1].summary =
+    "Current geomagnetic conditions are near Kp 2. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.";
+  const visuals = new Map(buildGalleryVisuals(context).map((visual) => [visual.id, visual.svg]));
+
+  assert.match(visuals.get("earthquake-activity"), />248<\/text>/);
+  assert.match(visuals.get("earthquake-activity"), />M6<\/text>/);
+  assert.match(visuals.get("aurora-kp"), /Current Kp 2/);
+  assert.match(visuals.get("aurora-kp"), /Recent peak Kp 4/);
+  assert.match(visuals.get("launch-timeline"), /NASA launch/);
+  assert.match(visuals.get("topic-signals"), /Space Weather/);
 });
 
 test("buildAutonomyState and prune report reflect active signals and stale items", () => {

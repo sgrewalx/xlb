@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Aurora conditions</title>
+  <desc id="description">Current and recent Kp readings from the NOAA-backed event record.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #eef6ff; letter-spacing: 0; }
+    .kicker { fill: #84e5c1; font-size: 18px; font-weight: 700; }
+    .title { font-size: 58px; font-weight: 700; }
+    .subtitle { fill: #aebdca; font-size: 22px; }
+    .updated { fill: #7890a3; font-size: 16px; }
+    .metric { font-size: 76px; font-weight: 700; }
+    .metric-small { font-size: 27px; font-weight: 700; }
+    .metric-label, .tick, .row-meta { fill: #91a5b5; font-size: 17px; }
+    .row-title { font-size: 23px; font-weight: 700; }
+  </style>
+  <rect width="1200" height="675" fill="#07111f"/>
+  <rect x="28" y="28" width="1144" height="619" rx="12" fill="#0d1d2a" stroke="#284052" stroke-width="2"/>
+  <text x="72" y="92" class="kicker">NOAA SWPC GEOMAGNETIC SNAPSHOT</text>
+  <text x="72" y="164" class="title">Aurora conditions</text>
+  <text x="72" y="210" class="subtitle">Current and recent Kp readings from the NOAA-backed event record.</text>
+  <line x1="135" y1="340" x2="1017" y2="340" stroke="#334654" stroke-width="18" stroke-linecap="round"/>
+      <line x1="135" y1="340" x2="527" y2="340" stroke="#84e5c1" stroke-width="18" stroke-linecap="round"/>
+
+    <line x1="135" y1="315" x2="135" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="135" y="398" text-anchor="middle" class="tick">0</text>
+
+    <line x1="233" y1="315" x2="233" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="233" y="398" text-anchor="middle" class="tick">1</text>
+
+    <line x1="331" y1="315" x2="331" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="331" y="398" text-anchor="middle" class="tick">2</text>
+
+    <line x1="429" y1="315" x2="429" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="429" y="398" text-anchor="middle" class="tick">3</text>
+
+    <line x1="527" y1="315" x2="527" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="527" y="398" text-anchor="middle" class="tick">4</text>
+
+    <line x1="625" y1="315" x2="625" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="625" y="398" text-anchor="middle" class="tick">5</text>
+
+    <line x1="723" y1="315" x2="723" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="723" y="398" text-anchor="middle" class="tick">6</text>
+
+    <line x1="821" y1="315" x2="821" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="821" y="398" text-anchor="middle" class="tick">7</text>
+
+    <line x1="919" y1="315" x2="919" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="919" y="398" text-anchor="middle" class="tick">8</text>
+
+    <line x1="1017" y1="315" x2="1017" y2="365" stroke="#526576" stroke-width="2"/>
+    <text x="1017" y="398" text-anchor="middle" class="tick">9</text>
+
+      <circle cx="331" cy="340" r="17" fill="#f5b642" stroke="#07111f" stroke-width="7"/>
+      <text x="135" y="490" class="metric-small">Current Kp 2</text>
+      <text x="620" y="490" class="metric-small">Recent peak Kp 4</text>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-08-29 09:55 UTC</text>
+</svg>

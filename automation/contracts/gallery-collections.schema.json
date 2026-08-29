@@ -5,6 +5,28 @@
   "type": "object",
   "additionalProperties": false,
   "required": ["updatedAt", "thesis", "items"],
+  "$defs": {
+    "media": {
+      "type": "object",
+      "properties": {
+        "image": {
+          "type": "string",
+          "pattern": "^(https://|/content/gallery/visuals/[a-z0-9-]+\\.svg$)"
+        },
+        "imageAlt": { "type": "string" },
+        "imageCredit": { "type": "string", "minLength": 1 },
+        "imageOrigin": {
+          "type": "string",
+          "enum": ["official", "generated-official-data"]
+        },
+        "imageSourceUrl": { "type": "string", "pattern": "^https://" },
+        "visualType": {
+          "type": "string",
+          "enum": ["official-image", "data-visualization"]
+        }
+      }
+    }
+  },
   "properties": {
     "updatedAt": { "type": "string", "format": "date-time" },
     "thesis": { "type": "string", "minLength": 1 },
@@ -22,7 +44,36 @@
           "category": { "type": "string", "enum": ["quake", "aurora", "launch", "topic"] },
           "relatedPath": { "type": "string", "minLength": 1 },
           "relatedLabel": { "type": "string", "minLength": 1 },
-          "entries": { "type": "array", "minItems": 1 }
+          "image": { "$ref": "#/$defs/media/properties/image" },
+          "imageAlt": { "$ref": "#/$defs/media/properties/imageAlt" },
+          "imageCredit": { "$ref": "#/$defs/media/properties/imageCredit" },
+          "imageOrigin": { "$ref": "#/$defs/media/properties/imageOrigin" },
+          "imageSourceUrl": { "$ref": "#/$defs/media/properties/imageSourceUrl" },
+          "visualType": { "$ref": "#/$defs/media/properties/visualType" },
+          "entries": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["id", "title", "summary", "metricLabel", "metricValue", "href", "accent"],
+              "properties": {
+                "id": { "type": "string", "minLength": 1 },
+                "title": { "type": "string", "minLength": 1 },
+                "summary": { "type": "string", "minLength": 1 },
+                "metricLabel": { "type": "string", "minLength": 1 },
+                "metricValue": { "type": "string", "minLength": 1 },
+                "href": { "type": "string", "minLength": 1 },
+                "accent": { "type": "string", "enum": ["earth", "space", "signal"] },
+                "image": { "$ref": "#/$defs/media/properties/image" },
+                "imageAlt": { "$ref": "#/$defs/media/properties/imageAlt" },
+                "imageCredit": { "$ref": "#/$defs/media/properties/imageCredit" },
+                "imageOrigin": { "$ref": "#/$defs/media/properties/imageOrigin" },
+                "imageSourceUrl": { "$ref": "#/$defs/media/properties/imageSourceUrl" },
+                "visualType": { "$ref": "#/$defs/media/properties/visualType" }
+              }
+            }
+          }
         }
       }
     }
