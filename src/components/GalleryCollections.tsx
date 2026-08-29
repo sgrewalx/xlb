@@ -1,6 +1,12 @@
 import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { trackGalleryOpen } from "../lib/analytics";
+import {
+  getConsumerMetric,
+  getGalleryCategories,
+  getGalleryDiscoveryItems,
+  type GalleryCategory,
+} from "../lib/galleryPresentation";
 import { GalleryCollectionEntry, GalleryCollectionItem } from "../types/content";
 
 interface GalleryCollectionsProps {
@@ -11,16 +17,13 @@ interface GalleryCollectionsProps {
 }
 
 export function GalleryCollections({ items, loading, error, updatedAt }: GalleryCollectionsProps) {
-  const [selectedCategory, setSelectedCategory] = useState("all");
-  const featured = items?.[0];
+  const [selectedCategory, setSelectedCategory] = useState<"all" | GalleryCategory>("all");
+  const featured = selectedCategory === "all" ? items?.[0] : undefined;
   const discoveryItems = useMemo(
-    () => (items ?? [])
-      .slice(1)
-      .filter((collection) => selectedCategory === "all" || collection.category === selectedCategory)
-      .flatMap((collection) => collection.entries.map((entry) => ({ collection, entry }))),
+    () => getGalleryDiscoveryItems(items ?? [], selectedCategory),
     [items, selectedCategory],
   );
-  const categories = items?.slice(1) ?? [];
+  const categories = useMemo(() => getGalleryCategories(items ?? []), [items]);
 
   return (
     <section className="gallery-browser" id="gallery-collections" aria-labelledby="gallery-title">
@@ -65,16 +68,16 @@ export function GalleryCollections({ items, loading, error, updatedAt }: Gallery
               >
                 All
               </button>
-              {categories.map((collection) => (
+              {categories.map((category) => (
                 <button
-                  aria-selected={selectedCategory === collection.category}
-                  className={selectedCategory === collection.category ? "is-active" : ""}
-                  key={collection.id}
-                  onClick={() => setSelectedCategory(collection.category)}
+                  aria-selected={selectedCategory === category}
+                  className={selectedCategory === category ? "is-active" : ""}
+                  key={category}
+                  onClick={() => setSelectedCategory(category)}
                   role="tab"
                   type="button"
                 >
-                  {categoryLabel(collection.category)}
+                  {categoryLabel(category)}
                 </button>
               ))}
             </div>
@@ -93,7 +96,7 @@ export function GalleryCollections({ items, loading, error, updatedAt }: Gallery
         </section>
       ) : null}
 
-      {!loading && !error && !featured ? (
+      {!loading && !error && (items?.length ?? 0) === 0 ? (
         <div className="gallery-browser-error" role="status">
           <strong>No visual collections are available yet.</strong>
         </div>
@@ -115,17 +118,21 @@ function FeaturedCollection({ collection }: { collection: GalleryCollectionItem 
         </div>
       </Link>
       <div className="gallery-featured-links" aria-label={`${collection.title} links`}>
-        {collection.entries.map((entry) => (
-          <Link
-            key={entry.id}
-            onClick={() => trackGalleryOpen(collection.id, entry.id, entry.href)}
-            to={entry.href}
-          >
-            <span>{entry.metricLabel}</span>
-            <strong>{entry.metricValue}</strong>
-            <h3>{entry.title}</h3>
-          </Link>
-        ))}
+        {collection.entries.map((entry) => {
+          const metric = getConsumerMetric(entry);
+
+          return (
+            <Link
+              key={entry.id}
+              onClick={() => trackGalleryOpen(collection.id, entry.id, entry.href)}
+              to={entry.href}
+            >
+              <span>{categoryLabel(collection.category)}</span>
+              {metric ? <strong>{metric.label}: {metric.value}</strong> : null}
+              <h3>{entry.title}</h3>
+            </Link>
+          );
+        })}
       </div>
     </section>
   );
@@ -141,6 +148,7 @@ function GalleryDiscoveryCard({
   index: number;
 }) {
   const layout = index % 5 === 0 || index % 5 === 4 ? "is-wide" : "is-standard";
+  const metric = getConsumerMetric(entry);
 
   return (
     <Link
@@ -152,8 +160,8 @@ function GalleryDiscoveryCard({
       <div className="gallery-discovery-copy">
         <div className="gallery-discovery-meta">
           <span>{categoryLabel(collection.category)}</span>
-          <span>{entry.metricLabel}</span>
-          <strong>{entry.metricValue}</strong>
+          {metric ? <span>{metric.label}</span> : null}
+          {metric ? <strong>{metric.value}</strong> : null}
         </div>
         <h3>{entry.title}</h3>
         <p>{entry.summary}</p>
