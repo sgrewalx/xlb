@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { getSportsFallbackVisual } from "../lib/editorialVisuals";
 import { FeedItem } from "../types/content";
 
@@ -226,17 +226,34 @@ function StoryVisual({
   compact?: boolean;
   priority?: boolean;
 }) {
-  const [failed, setFailed] = useState(false);
-  const image = item.image || getFallbackVisual(item, section, visualIndex);
+  const [sourceFailed, setSourceFailed] = useState(false);
+  const [fallbackFailed, setFallbackFailed] = useState(false);
+  const fallback = getFallbackVisual(item, section, visualIndex);
+  const useSource = Boolean(item.image && !sourceFailed);
+  const image = useSource ? item.image : fallbackFailed ? "" : fallback;
   const category = getDisplayCategory(item, section);
+
+  useEffect(() => {
+    setSourceFailed(false);
+    setFallbackFailed(false);
+  }, [item.image, fallback]);
 
   return (
     <div className={`editorial-visual editorial-visual-${section} ${compact ? "is-compact" : ""}`}>
-      {!failed && image ? (
+      {image ? (
         <img
-          alt={item.image ? (item.imageAlt || "") : ""}
+          alt={useSource ? (item.imageAlt || "") : ""}
+          decoding="async"
+          fetchPriority={priority ? "high" : "auto"}
           loading={priority ? "eager" : "lazy"}
-          onError={() => setFailed(true)}
+          onError={() => {
+            if (useSource) {
+              setSourceFailed(true);
+            } else {
+              setFallbackFailed(true);
+            }
+          }}
+          referrerPolicy={useSource ? "no-referrer" : undefined}
           src={image}
         />
       ) : (

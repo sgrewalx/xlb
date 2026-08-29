@@ -49,6 +49,7 @@ function validateExpandedFeed(json, label) {
     assert(isString(item.publishedAt), `${label}: item ${index} publishedAt required`);
     assert(isString(item.summary), `${label}: item ${index} summary required`);
     assert(isString(item.whyItMatters), `${label}: item ${index} whyItMatters required`);
+    validateOptionalImageFields(item, `${label}: item ${index}`);
   });
 }
 
@@ -73,6 +74,7 @@ function validateTopFeed(json, label) {
     assert(isString(item.url), `${label}: item ${index} url required`);
     assert(isString(item.tag), `${label}: item ${index} tag required`);
     assert(isString(item.publishedAt), `${label}: item ${index} publishedAt required`);
+    validateOptionalImageFields(item, `${label}: item ${index}`);
   });
 }
 
@@ -290,7 +292,80 @@ function validateGalleryCollections(json, label) {
     assert(isString(item.relatedPath), `${label}: item ${index} relatedPath required`);
     assert(isString(item.relatedLabel), `${label}: item ${index} relatedLabel required`);
     assert(Array.isArray(item.entries) && item.entries.length > 0, `${label}: item ${index} entries required`);
+    validateOptionalImageFields(item, `${label}: item ${index}`, {
+      origins: ["official", "generated-official-data"],
+      visualTypes: ["official-image", "data-visualization"],
+    });
+    item.entries.forEach((entry, entryIndex) => {
+      const entryLabel = `${label}: item ${index} entry ${entryIndex}`;
+      assert(isString(entry.id), `${entryLabel} id required`);
+      assert(isString(entry.title), `${entryLabel} title required`);
+      assert(isString(entry.summary), `${entryLabel} summary required`);
+      assert(isString(entry.metricLabel), `${entryLabel} metricLabel required`);
+      assert(isString(entry.metricValue), `${entryLabel} metricValue required`);
+      assert(isString(entry.href), `${entryLabel} href required`);
+      assert(["earth", "space", "signal"].includes(entry.accent), `${entryLabel} accent invalid`);
+      validateOptionalImageFields(entry, entryLabel, {
+        origins: ["official", "generated-official-data"],
+        visualTypes: ["official-image", "data-visualization"],
+      });
+    });
   });
+}
+
+function validateOptionalImageFields(
+  item,
+  label,
+  {
+    origins = ["rss", "official", "generated-official-data"],
+    visualTypes = [],
+  } = {},
+) {
+  const relatedFields = [
+    "imageAlt",
+    "imageCredit",
+    "imageOrigin",
+    "imageSourceUrl",
+    "visualType",
+  ];
+
+  if (item.image === undefined) {
+    relatedFields.forEach((field) => {
+      assert(item[field] === undefined, `${label} ${field} requires image`);
+    });
+    return;
+  }
+
+  assert(isApprovedImageLocation(item.image), `${label} image must be HTTPS or an approved local visual`);
+  if (item.imageAlt !== undefined) {
+    assert(typeof item.imageAlt === "string", `${label} imageAlt must be a string`);
+  }
+  if (item.imageCredit !== undefined) {
+    assert(isString(item.imageCredit), `${label} imageCredit invalid`);
+  }
+  assert(origins.includes(item.imageOrigin), `${label} imageOrigin invalid`);
+  assert(isHttpsUrl(item.imageSourceUrl), `${label} imageSourceUrl must be HTTPS`);
+
+  if (item.visualType !== undefined) {
+    assert(visualTypes.includes(item.visualType), `${label} visualType invalid`);
+  }
+}
+
+function isApprovedImageLocation(value) {
+  return isHttpsUrl(value) || /^\/content\/gallery\/visuals\/[a-z0-9-]+\.svg$/.test(value);
+}
+
+function isHttpsUrl(value) {
+  if (typeof value !== "string") {
+    return false;
+  }
+
+  try {
+    const url = new URL(value);
+    return url.protocol === "https:" && !url.username && !url.password;
+  } catch {
+    return false;
+  }
 }
 
 function validateLiveScoreboard(json, label) {

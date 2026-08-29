@@ -1,5 +1,6 @@
 import { createHash } from "node:crypto";
-import { fetchRssFeed } from "../shared/rss-fetcher.mjs";
+import { rankEditorialArticles } from "../shared/editorial-ranking.mjs";
+import { fetchRssFeed, verifyArticleImages } from "../shared/rss-fetcher.mjs";
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
 
 const TOP3_OUTPUT_FILE = new URL("../../public/content/news/top3.json", import.meta.url);
@@ -95,8 +96,11 @@ async function main() {
     console.warn(`failed ${feed.source}: ${formatError(result.reason)}`);
   });
 
-  const expanded = selectTopArticles(articles, EXPANDED_COUNT);
+  const ranked = selectTopArticles(articles, EXPANDED_COUNT);
+  const { articles: expanded, diagnostics } = await verifyArticleImages(ranked);
   const selected = expanded.slice(0, TOP3_COUNT);
+
+  logImageDiagnostics(diagnostics);
 
   if (selected.length < 3) {
     throw new Error(`Expected at least 3 unique articles, received ${selected.length}`);
@@ -150,9 +154,7 @@ function selectTopArticles(articles, count) {
   const seenUrls = new Set();
   const seenTitles = new Set();
 
-  const ranked = [...articles].sort(
-    (left, right) => Date.parse(right.publishedAt) - Date.parse(left.publishedAt),
-  );
+  const ranked = rankEditorialArticles(articles);
 
   for (const article of ranked) {
     const normalizedTitle = article.title.toLowerCase();
@@ -208,7 +210,34 @@ function toManifestItem(article) {
     publishedAt: article.publishedAt,
     summary: buildBrief(article),
     whyItMatters: buildWhyItMatters(article),
+    ...imageFields(article),
   };
+}
+
+function imageFields(article) {
+  if (!article.image) {
+    return {};
+  }
+
+  return {
+    image: article.image,
+    ...(article.imageAlt ? { imageAlt: article.imageAlt } : {}),
+    ...(article.imageCredit ? { imageCredit: article.imageCredit } : {}),
+    imageOrigin: article.imageOrigin,
+    imageSourceUrl: article.imageSourceUrl,
+  };
+}
+
+function logImageDiagnostics(diagnostics) {
+  console.log("Source | Published | Image? | Image host | Title");
+  diagnostics.forEach((item) => {
+    console.log(
+      `${item.source} | ${item.publishedAt ?? "-"} | ${item.status === "usable" ? "yes" : "no"} | ${item.host ?? "-"} | ${item.title}`,
+    );
+    if (item.status === "rejected") {
+      console.warn(`dropped image for ${item.title}: ${item.reason}`);
+    }
+  });
 }
 
 function buildBrief(article) {
