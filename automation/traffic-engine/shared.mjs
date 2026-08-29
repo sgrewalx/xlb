@@ -810,7 +810,7 @@ export function buildAutonomyState(context, homeModules, videoShorts, gamesCatal
   };
 }
 
-function promotedLiveItems(context) {
+export function promotedLiveItems(context) {
   return [...(context.liveEventsFeed.items ?? [])]
     .filter((item) => item.safeToPromote)
     .sort((left, right) => scoreLiveItem(context, right) - scoreLiveItem(context, left));

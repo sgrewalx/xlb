@@ -264,6 +264,101 @@ test("Gallery visuals encode current USGS, NOAA, NASA, and topic values", () => 
   assert.match(visuals.get("topic-signals"), /Space Weather/);
 });
 
+test("Gallery earthquake visual uses a safe promoted event", () => {
+  const context = makeContext();
+  context.liveEventsFeed.items[0].summary =
+    "USGS reported 314 earthquake events in the last 24 hours. Strongest reported event: M5.5 near Safe Ridge.";
+
+  const svg = galleryVisual(context, "earthquake-activity");
+
+  assert.match(svg, />314<\/text>/);
+  assert.match(svg, />M5.5<\/text>/);
+});
+
+test("Gallery earthquake visual excludes an unsafe event", () => {
+  const context = makeContext();
+  context.liveEventsFeed.items[0] = {
+    ...context.liveEventsFeed.items[0],
+    safeToPromote: false,
+    summary: "USGS reported 999 earthquake events in the last 24 hours. Strongest reported event: M9.9 near Unsafe Ridge.",
+  };
+
+  const svg = galleryVisual(context, "earthquake-activity");
+
+  assert.match(svg, /No current promoted earthquake signal/);
+  assert.doesNotMatch(svg, />999<\/text>|>M9\.9<\/text>|Unsafe Ridge/);
+});
+
+test("Gallery earthquake visual prefers the safe event when an unsafe duplicate exists", () => {
+  const context = makeContext();
+  const safe = {
+    ...context.liveEventsFeed.items[0],
+    summary: "USGS reported 111 earthquake events in the last 24 hours. Strongest reported event: M4.2 near Safe Ridge.",
+  };
+  const unsafe = {
+    ...safe,
+    id: "unsafe-earthquake",
+    safeToPromote: false,
+    summary: "USGS reported 999 earthquake events in the last 24 hours. Strongest reported event: M9.9 near Unsafe Ridge.",
+  };
+  context.liveEventsFeed.items = [unsafe, safe, ...context.liveEventsFeed.items.slice(1)];
+
+  const svg = galleryVisual(context, "earthquake-activity");
+
+  assert.match(svg, />111<\/text>/);
+  assert.match(svg, />M4.2<\/text>/);
+  assert.doesNotMatch(svg, />999<\/text>|>M9\.9<\/text>|Unsafe Ridge/);
+});
+
+test("Gallery aurora visual excludes an unsafe event", () => {
+  const context = makeContext();
+  context.liveEventsFeed.items[1] = {
+    ...context.liveEventsFeed.items[1],
+    safeToPromote: false,
+    summary: "Current geomagnetic conditions are near Kp 9. Recent peak reached Kp 9. Unsafe aurora signal.",
+  };
+
+  const svg = galleryVisual(context, "aurora-kp");
+
+  assert.match(svg, /No current promoted aurora signal/);
+  assert.doesNotMatch(svg, /Current Kp 9|Recent peak Kp 9|Unsafe aurora signal/);
+});
+
+test("Gallery launch timeline excludes unsafe launches", () => {
+  const context = makeContext();
+  context.liveEventsFeed.items.push({
+    ...context.liveEventsFeed.items[2],
+    id: "unsafe-launch",
+    slug: "unsafe-launch",
+    title: "Unsafe classified launch",
+    safeToPromote: false,
+  });
+
+  const svg = galleryVisual(context, "launch-timeline");
+
+  assert.match(svg, /NASA launch/);
+  assert.doesNotMatch(svg, /Unsafe classified launch/);
+});
+
+test("Gallery launch timeline renders a neutral state when every launch is unsafe", () => {
+  const context = makeContext();
+  context.liveEventsFeed.items = context.liveEventsFeed.items.map((item) =>
+    item.topic === "launches"
+      ? { ...item, title: "Unsafe classified launch", safeToPromote: false }
+      : item,
+  );
+
+  const svg = galleryVisual(context, "launch-timeline");
+
+  assert.match(svg, /No current promoted launch signal/);
+  assert.match(svg, /Awaiting a safe source-backed launch record/);
+  assert.doesNotMatch(svg, /Unsafe classified launch/);
+});
+
+function galleryVisual(context, id) {
+  return buildGalleryVisuals(context).find((visual) => visual.id === id)?.svg ?? "";
+}
+
 test("buildAutonomyState and prune report reflect active signals and stale items", () => {
   const context = makeContext({
     liveEventsFeed: {

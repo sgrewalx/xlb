@@ -1,11 +1,15 @@
+import { promotedLiveItems } from "./shared.mjs";
+
 const VISUAL_WIDTH = 1200;
 const VISUAL_HEIGHT = 675;
 
 export function buildGalleryVisuals(context) {
-  const events = context.liveEventsFeed.items ?? [];
+  const events = promotedLiveItems(context);
   const earthquake = events.find((item) => item.slug === "global-earthquake-watch");
   const aurora = events.find((item) => item.slug === "aurora-watch");
   const launches = events.filter((item) => item.topic === "launches").slice(0, 3);
+  // Topic entities are already public route records and expose no safeToPromote field.
+  // Keep their existing deterministic ranking instead of inferring a new safety policy.
   const topics = [...(context.topicsFeed.items ?? [])]
     .sort((left, right) => right.bestScore - left.bestScore)
     .slice(0, 4);
@@ -31,6 +35,16 @@ export function buildGalleryVisuals(context) {
 }
 
 function earthquakeVisual(event, updatedAt) {
+  if (!event) {
+    return neutralEventVisual({
+      kicker: "USGS 24-HOUR SNAPSHOT",
+      title: "Earthquake activity",
+      subtitle: "Generated from the current USGS live event record.",
+      message: "No current promoted earthquake signal",
+      updatedAt,
+    });
+  }
+
   const count = numberFrom(event?.summary, /reported\s+(\d+)\s+earthquake/i, 0);
   const strongest = numberFrom(event?.summary, /M([\d.]+)\s+near/i, 0);
   const circles = [0.38, 0.56, 0.74, 0.49, 0.65].map((factor, index) => {
@@ -57,6 +71,16 @@ function earthquakeVisual(event, updatedAt) {
 }
 
 function auroraVisual(event, updatedAt) {
+  if (!event) {
+    return neutralEventVisual({
+      kicker: "NOAA SWPC GEOMAGNETIC SNAPSHOT",
+      title: "Aurora conditions",
+      subtitle: "Current and recent Kp readings from the NOAA-backed event record.",
+      message: "No current promoted aurora signal",
+      updatedAt,
+    });
+  }
+
   const current = clamp(numberFrom(event?.summary, /near\s+Kp\s+([\d.]+)/i, 0), 0, 9);
   const peak = clamp(numberFrom(event?.summary, /peak\s+reached\s+Kp\s+([\d.]+)/i, current), 0, 9);
   const scaleX = (value) => 135 + value * 98;
@@ -82,14 +106,16 @@ function auroraVisual(event, updatedAt) {
 }
 
 function launchVisual(launches, updatedAt) {
-  const rows = launches.length > 0 ? launches : [{ title: "No scheduled launches", startsAt: updatedAt }];
+  const rows = launches.length > 0
+    ? launches
+    : [{ title: "No current promoted launch signal", startsAt: null }];
   const body = rows.map((launch, index) => {
     const y = 320 + index * 105;
     return `
       <circle cx="120" cy="${y}" r="11" fill="#84e5c1"/>
       ${index < rows.length - 1 ? `<line x1="120" y1="${y + 14}" x2="120" y2="${y + 91}" stroke="#334654" stroke-width="4"/>` : ""}
       <text x="165" y="${y - 8}" class="row-title">${escapeXml(launch.title)}</text>
-      <text x="165" y="${y + 28}" class="row-meta">${escapeXml(formatDate(launch.startsAt))} UTC · NASA launch schedule</text>
+      <text x="165" y="${y + 28}" class="row-meta">${launch.startsAt ? `${escapeXml(formatDate(launch.startsAt))} UTC · NASA launch schedule` : "Awaiting a safe source-backed launch record"}</text>
     `;
   }).join("");
 
@@ -99,6 +125,20 @@ function launchVisual(launches, updatedAt) {
     subtitle: "Current launch records ordered into one source-backed visual timeline.",
     updatedAt,
     body,
+  });
+}
+
+function neutralEventVisual({ kicker, title, subtitle, message, updatedAt }) {
+  return svgFrame({
+    kicker,
+    title,
+    subtitle,
+    updatedAt,
+    body: `
+      <rect x="72" y="292" width="1056" height="170" rx="10" fill="#102431" stroke="#334654" stroke-width="2"/>
+      <text x="600" y="365" text-anchor="middle" class="metric-small">${escapeXml(message)}</text>
+      <text x="600" y="410" text-anchor="middle" class="row-meta">Awaiting a safe source-backed event record</text>
+    `,
   });
 }
 
