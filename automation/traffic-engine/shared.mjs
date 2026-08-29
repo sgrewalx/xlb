@@ -462,6 +462,11 @@ export function buildGalleryCollections(context) {
         category: "quake",
         relatedPath: "/events/global-earthquake-watch",
         relatedLabel: "Open earthquake watch",
+        ...galleryVisualFields("earthquake-activity", {
+          alt: "USGS 24-hour earthquake activity summary",
+          credit: "XLB visualization from USGS earthquake data",
+          sourceUrl: earthquake?.sourceUrl ?? "https://earthquake.usgs.gov/earthquakes/map/",
+        }),
         entries: [
           {
             id: "quake-primary",
@@ -471,6 +476,11 @@ export function buildGalleryCollections(context) {
             metricValue: formatShortDate(earthquake?.updatedAt ?? context.updatedAt),
             href: "/events/global-earthquake-watch",
             accent: "earth",
+            ...galleryVisualFields("earthquake-activity", {
+              alt: "USGS 24-hour earthquake activity summary",
+              credit: "XLB visualization from USGS earthquake data",
+              sourceUrl: earthquake?.sourceUrl ?? "https://earthquake.usgs.gov/earthquakes/map/",
+            }),
           },
           {
             id: "quake-earth",
@@ -480,6 +490,11 @@ export function buildGalleryCollections(context) {
             metricValue: compactNumber(context.pageMap.get("/live/earth")?.pageviews ?? 0),
             href: "/live/earth",
             accent: "signal",
+            ...galleryVisualFields("earthquake-activity", {
+              alt: "USGS 24-hour earthquake activity summary",
+              credit: "XLB visualization from USGS earthquake data",
+              sourceUrl: earthquake?.sourceUrl ?? "https://earthquake.usgs.gov/earthquakes/map/",
+            }),
           },
           {
             id: "quake-topic",
@@ -491,6 +506,11 @@ export function buildGalleryCollections(context) {
             ),
             href: "/topics/earthquakes",
             accent: "earth",
+            ...galleryVisualFields("earthquake-activity", {
+              alt: "USGS 24-hour earthquake activity summary",
+              credit: "XLB visualization from USGS earthquake data",
+              sourceUrl: earthquake?.sourceUrl ?? "https://earthquake.usgs.gov/earthquakes/map/",
+            }),
           },
         ],
       },
@@ -501,6 +521,11 @@ export function buildGalleryCollections(context) {
         category: "aurora",
         relatedPath: "/events/aurora-watch",
         relatedLabel: "Open aurora watch",
+        ...galleryVisualFields("aurora-kp", {
+          alt: "NOAA geomagnetic Kp condition summary",
+          credit: "XLB visualization from NOAA SWPC data",
+          sourceUrl: aurora?.sourceUrl ?? "https://www.swpc.noaa.gov/products/planetary-k-index",
+        }),
         entries: [
           {
             id: "aurora-primary",
@@ -510,6 +535,11 @@ export function buildGalleryCollections(context) {
             metricValue: compactNumber(context.pageMap.get("/events/aurora-watch")?.pageviews ?? 0),
             href: "/events/aurora-watch",
             accent: "space",
+            ...galleryVisualFields("aurora-kp", {
+              alt: "NOAA geomagnetic Kp condition summary",
+              credit: "XLB visualization from NOAA SWPC data",
+              sourceUrl: aurora?.sourceUrl ?? "https://www.swpc.noaa.gov/products/planetary-k-index",
+            }),
           },
           {
             id: "aurora-space",
@@ -519,6 +549,11 @@ export function buildGalleryCollections(context) {
             metricValue: compactNumber(context.pageMap.get("/live/space")?.pageviews ?? 0),
             href: "/live/space",
             accent: "signal",
+            ...galleryVisualFields("aurora-kp", {
+              alt: "NOAA geomagnetic Kp condition summary",
+              credit: "XLB visualization from NOAA SWPC data",
+              sourceUrl: aurora?.sourceUrl ?? "https://www.swpc.noaa.gov/products/planetary-k-index",
+            }),
           },
           {
             id: "aurora-topic",
@@ -530,6 +565,11 @@ export function buildGalleryCollections(context) {
             ),
             href: "/topics/space-weather",
             accent: "space",
+            ...galleryVisualFields("aurora-kp", {
+              alt: "NOAA geomagnetic Kp condition summary",
+              credit: "XLB visualization from NOAA SWPC data",
+              sourceUrl: aurora?.sourceUrl ?? "https://www.swpc.noaa.gov/products/planetary-k-index",
+            }),
           },
         ],
       },
@@ -540,6 +580,11 @@ export function buildGalleryCollections(context) {
         category: "launch",
         relatedPath: "/live/space",
         relatedLabel: "Open live space",
+        ...galleryVisualFields("launch-timeline", {
+          alt: "Timeline of current NASA launch schedule records",
+          credit: "XLB visualization from NASA launch schedule data",
+          sourceUrl: launches[0]?.sourceUrl ?? "https://www.nasa.gov/events/",
+        }),
         entries: launches.map((item) => ({
           id: item.id,
           title: item.title,
@@ -548,6 +593,11 @@ export function buildGalleryCollections(context) {
           metricValue: countdownLabel(item.startsAt),
           href: `/events/${item.slug}`,
           accent: "space",
+          ...galleryVisualFields("launch-timeline", {
+            alt: "Timeline of current NASA launch schedule records",
+            credit: "XLB visualization from NASA launch schedule data",
+            sourceUrl: item.sourceUrl ?? "https://www.nasa.gov/events/",
+          }),
         })),
       },
       {
@@ -557,6 +607,11 @@ export function buildGalleryCollections(context) {
         category: "topic",
         relatedPath: "/live",
         relatedLabel: "Open full live inventory",
+        ...galleryVisualFields("topic-signals", {
+          alt: "Relative strength of current source-backed live topics",
+          credit: "XLB visualization from current source-backed topic records",
+          sourceUrl: "https://xlb.codemachine.in/live",
+        }),
         entries: topics.map((item, index) => ({
           id: item.slug,
           title: item.title,
@@ -565,10 +620,57 @@ export function buildGalleryCollections(context) {
           metricValue: index === 0 ? String(item.bestScore) : String(item.eventCount),
           href: `/topics/${item.slug}`,
           accent: index % 2 === 0 ? "signal" : "space",
+          ...galleryVisualFields(topicVisualId(item.slug), {
+            alt: topicVisualAlt(item.slug),
+            credit: topicVisualCredit(item.slug),
+            sourceUrl: `https://xlb.codemachine.in/topics/${item.slug}`,
+          }),
         })),
       },
     ].filter((item) => item.entries.length > 0),
   };
+}
+
+function galleryVisualFields(id, { alt, credit, sourceUrl }) {
+  return {
+    image: `/content/gallery/visuals/${id}.svg`,
+    imageAlt: alt,
+    imageCredit: credit,
+    imageOrigin: "generated-official-data",
+    imageSourceUrl: sourceUrl,
+    visualType: "data-visualization",
+  };
+}
+
+function topicVisualId(slug) {
+  if (slug === "earthquakes") {
+    return "earthquake-activity";
+  }
+  if (slug === "space-weather") {
+    return "aurora-kp";
+  }
+  if (slug === "launches" || slug === "nasa") {
+    return "launch-timeline";
+  }
+  return "topic-signals";
+}
+
+function topicVisualAlt(slug) {
+  return {
+    earthquakes: "USGS 24-hour earthquake activity summary",
+    "space-weather": "NOAA geomagnetic Kp condition summary",
+    launches: "Timeline of current NASA launch schedule records",
+    nasa: "Timeline of current NASA launch schedule records",
+  }[slug] ?? "Relative strength of current source-backed live topics";
+}
+
+function topicVisualCredit(slug) {
+  return {
+    earthquakes: "XLB visualization from USGS earthquake data",
+    "space-weather": "XLB visualization from NOAA SWPC data",
+    launches: "XLB visualization from NASA launch schedule data",
+    nasa: "XLB visualization from NASA launch schedule data",
+  }[slug] ?? "XLB visualization from current source-backed topic records";
 }
 
 export function buildSignalReport(context) {
@@ -708,7 +810,7 @@ export function buildAutonomyState(context, homeModules, videoShorts, gamesCatal
   };
 }
 
-function promotedLiveItems(context) {
+export function promotedLiveItems(context) {
   return [...(context.liveEventsFeed.items ?? [])]
     .filter((item) => item.safeToPromote)
     .sort((left, right) => scoreLiveItem(context, right) - scoreLiveItem(context, left));

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Image parser fixtures</title>
+    <item>
+      <title>Media content story</title>
+      <link>https://example.com/media-content?utm_source=fixture</link>
+      <pubDate>Fri, 28 Aug 2026 10:00:00 GMT</pubDate>
+      <description>Media content summary.</description>
+      <category>World</category>
+      <media:content url="https://images.example.com/lead.jpg?width=1200&amp;utm_campaign=test" type="image/jpeg" medium="image" width="1200" height="675" />
+      <media:title>People watch the night sky</media:title>
+      <media:credit>Example Photo Desk</media:credit>
+    </item>
+    <item>
+      <title>Media thumbnail story</title>
+      <link>https://example.com/media-thumbnail</link>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
+      <description>Thumbnail summary.</description>
+      <media:thumbnail url="https://images.example.com/thumb.webp" width="640" height="360" />
+    </item>
+    <item>
+      <title>Image enclosure story</title>
+      <link>https://example.com/enclosure</link>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://images.example.com/enclosed.png" type="image/png" length="12000" />
+    </item>
+    <item>
+      <title>Atom enclosure story</title>
+      <link href="https://example.com/atom-enclosure" rel="alternate" />
+      <link href="https://images.example.com/atom.avif" rel="enclosure" type="image/avif" />
+      <published>2026-08-28T07:00:00Z</published>
+    </item>
+    <item>
+      <title>Video media story</title>
+      <link>https://example.com/video</link>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
+      <media:content url="https://video.example.com/clip.mp4" type="video/mp4" medium="video" />
+    </item>
+    <item>
+      <title>PDF enclosure story</title>
+      <link>https://example.com/pdf</link>
+      <pubDate>Fri, 28 Aug 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://files.example.com/report.pdf" type="application/pdf" />
+    </item>
+    <item>
+      <title>Invalid image story</title>
+      <link>https://example.com/invalid</link>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
+      <media:thumbnail url="javascript:alert(1)" />
+    </item>
+    <item>
+      <title>Tiny image story</title>
+      <link>https://example.com/tiny</link>
+      <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.example.com/tiny.jpg" width="88" height="88" />
+    </item>
+    <item>
+      <title>Preferred image story</title>
+      <link>https://example.com/preferred</link>
+      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
+      <media:content url="https://images.example.com/preferred.jpg" type="image/jpeg" width="900" height="506" />
+      <media:thumbnail url="https://images.example.com/later-thumbnail.jpg" width="640" height="360" />
+      <enclosure url="https://images.example.com/later-enclosure.jpg" type="image/jpeg" />
+      <dc:creator>Article Author, Not Image Credit</dc:creator>
+    </item>
+    <item>
+      <title>No image story</title>
+      <link>https://example.com/no-image</link>
+      <pubDate>Fri, 28 Aug 2026 01:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Existing <strong>excerpt</strong> behavior remains.</p>]]></description>
+      <category>Football</category>
+    </item>
+    <item>
+      <title>Explicit image structure story</title>
+      <link>https://example.com/image-structure</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <image><url>https://images.example.com/explicit.gif</url></image>
+    </item>
+    <item>
+      <title>Identifier image story</title>
+      <link>https://example.com/identifier</link>
+      <pubDate>Thu, 27 Aug 2026 23:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.example.com/private.jpg?user_id=123" />
+    </item>
+  </channel>
+</rss>

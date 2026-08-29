@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Earthquake activity</title>
+  <desc id="description">Generated from the current USGS live event record.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #eef6ff; letter-spacing: 0; }
+    .kicker { fill: #84e5c1; font-size: 18px; font-weight: 700; }
+    .title { font-size: 58px; font-weight: 700; }
+    .subtitle { fill: #aebdca; font-size: 22px; }
+    .updated { fill: #7890a3; font-size: 16px; }
+    .metric { font-size: 76px; font-weight: 700; }
+    .metric-small { font-size: 27px; font-weight: 700; }
+    .metric-label, .tick, .row-meta { fill: #91a5b5; font-size: 17px; }
+    .row-title { font-size: 23px; font-weight: 700; }
+  </style>
+  <rect width="1200" height="675" fill="#07111f"/>
+  <rect x="28" y="28" width="1144" height="619" rx="12" fill="#0d1d2a" stroke="#284052" stroke-width="2"/>
+  <text x="72" y="92" class="kicker">USGS 24-HOUR SNAPSHOT</text>
+  <text x="72" y="164" class="title">Earthquake activity</text>
+  <text x="72" y="210" class="subtitle">Generated from the current USGS live event record.</text>
+  <text x="72" y="350" class="metric">283</text>
+      <text x="72" y="393" class="metric-label">EVENTS REPORTED</text>
+      <text x="405" y="350" class="metric">M5.1</text>
+      <text x="405" y="393" class="metric-label">STRONGEST EVENT</text>
+      <path d="M760 120H1130V510H760Z M760 250H1130 M760 380H1130 M885 120V510 M1010 120V510" fill="none" stroke="#263847" stroke-width="2"/>
+      <circle cx="780" cy="220" r="14" fill="none" stroke="#84e5c1" stroke-width="4" opacity="0.9"/><circle cx="930" cy="330" r="20" fill="none" stroke="#84e5c1" stroke-width="4" opacity="0.79"/><circle cx="1015" cy="175" r="26" fill="none" stroke="#84e5c1" stroke-width="4" opacity="0.68"/><circle cx="855" cy="470" r="17" fill="none" stroke="#84e5c1" stroke-width="4" opacity="0.5700000000000001"/><circle cx="1100" cy="425" r="23" fill="none" stroke="#84e5c1" stroke-width="4" opacity="0.46"/>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-08-29 09:55 UTC</text>
+</svg>

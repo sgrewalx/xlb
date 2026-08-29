@@ -16,9 +16,14 @@ export async function readJsonIfExists(fileUrl) {
 }
 
 export async function writeJsonIfChanged(fileUrl, data) {
+  const nextContents = `${JSON.stringify(data, null, 2)}\n`;
+
+  return writeTextIfChanged(fileUrl, nextContents);
+}
+
+export async function writeTextIfChanged(fileUrl, nextContents) {
   const absolutePath = fileURLToPath(fileUrl);
   const directory = path.dirname(absolutePath);
-  const nextContents = `${JSON.stringify(data, null, 2)}\n`;
 
   await mkdir(directory, { recursive: true });
 

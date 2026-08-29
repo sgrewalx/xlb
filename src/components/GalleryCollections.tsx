@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { trackGalleryOpen } from "../lib/analytics";
 import {
@@ -109,7 +109,7 @@ function FeaturedCollection({ collection }: { collection: GalleryCollectionItem 
   return (
     <section className="gallery-featured" aria-labelledby="gallery-featured-title">
       <Link className="gallery-featured-visual" to={collection.relatedPath}>
-        <GalleryImage category={collection.category} index={0} priority />
+        <GalleryImage category={collection.category} index={0} item={collection} priority />
         <div className="gallery-featured-overlay">
           <span className="gallery-cue">Featured</span>
           <h2 id="gallery-featured-title">{collection.title}</h2>
@@ -156,7 +156,7 @@ function GalleryDiscoveryCard({
       onClick={() => trackGalleryOpen(collection.id, entry.id, entry.href)}
       to={entry.href}
     >
-      <GalleryImage category={collection.category} index={index + 1} />
+      <GalleryImage category={collection.category} index={index + 1} item={entry} />
       <div className="gallery-discovery-copy">
         <div className="gallery-discovery-meta">
           <span>{categoryLabel(collection.category)}</span>
@@ -173,22 +173,41 @@ function GalleryDiscoveryCard({
 function GalleryImage({
   category,
   index,
+  item,
   priority = false,
 }: {
   category: GalleryCollectionItem["category"];
   index: number;
+  item: Pick<GalleryCollectionEntry, "image" | "imageAlt">;
   priority?: boolean;
 }) {
-  const [failed, setFailed] = useState(false);
-  const image = visualFor(category, index);
+  const [sourceFailed, setSourceFailed] = useState(false);
+  const [fallbackFailed, setFallbackFailed] = useState(false);
+  const fallback = visualFor(category, index);
+  const useSource = Boolean(item.image && !sourceFailed);
+  const image = useSource ? item.image : fallbackFailed ? "" : fallback;
+
+  useEffect(() => {
+    setSourceFailed(false);
+    setFallbackFailed(false);
+  }, [item.image, fallback]);
 
   return (
     <div className={`gallery-image gallery-image-${category}`}>
-      {!failed ? (
+      {image ? (
         <img
-          alt=""
+          alt={useSource ? (item.imageAlt || "") : ""}
+          decoding="async"
+          fetchPriority={priority ? "high" : "auto"}
           loading={priority ? "eager" : "lazy"}
-          onError={() => setFailed(true)}
+          onError={() => {
+            if (useSource) {
+              setSourceFailed(true);
+            } else {
+              setFallbackFailed(true);
+            }
+          }}
+          referrerPolicy={useSource && image?.startsWith("https://") ? "no-referrer" : undefined}
           src={image}
         />
       ) : (

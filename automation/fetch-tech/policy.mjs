@@ -1,3 +1,5 @@
+import { rankEditorialArticles } from "../shared/editorial-ranking.mjs";
+
 export const TECH_MAX_AGE_HOURS = 72;
 export const TECH_MAX_FUTURE_SKEW_HOURS = 6;
 
@@ -50,9 +52,7 @@ export function selectTopTechArticles(articles, count, referenceTime) {
   const seenUrls = new Set();
   const seenTitles = new Set();
   const seenSources = new Set();
-  const ranked = [...eligible].sort(
-    (left, right) => Date.parse(right.publishedAt) - Date.parse(left.publishedAt),
-  );
+  const ranked = rankEditorialArticles(eligible);
 
   for (const article of ranked) {
     const normalizedTitle = article.title.toLowerCase();

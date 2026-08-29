@@ -10,6 +10,9 @@ export interface FeedItem {
   embedUrl?: string;
   image?: string;
   imageAlt?: string;
+  imageCredit?: string;
+  imageOrigin?: "rss" | "official" | "generated-official-data";
+  imageSourceUrl?: string;
 }
 
 export interface TopFeed {
@@ -212,6 +215,12 @@ export interface GalleryCollectionEntry {
   metricValue: string;
   href: string;
   accent: "earth" | "space" | "signal";
+  image?: string;
+  imageAlt?: string;
+  imageCredit?: string;
+  imageOrigin?: "official" | "generated-official-data";
+  imageSourceUrl?: string;
+  visualType?: "official-image" | "data-visualization";
 }
 
 export interface GalleryCollectionItem {
@@ -221,6 +230,12 @@ export interface GalleryCollectionItem {
   category: "quake" | "aurora" | "launch" | "topic";
   relatedPath: string;
   relatedLabel: string;
+  image?: string;
+  imageAlt?: string;
+  imageCredit?: string;
+  imageOrigin?: "official" | "generated-official-data";
+  imageSourceUrl?: string;
+  visualType?: "official-image" | "data-visualization";
   entries: GalleryCollectionEntry[];
 }
 

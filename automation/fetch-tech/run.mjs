@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto";
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
-import { fetchRssFeed } from "../shared/rss-fetcher.mjs";
+import { fetchRssFeed, verifyArticleImages } from "../shared/rss-fetcher.mjs";
 import {
   buildTechSelection,
   partitionTechArticles,
@@ -94,6 +94,21 @@ function buildItem(article, source) {
     publishedAt: article.publishedAt,
     summary: buildSummary(article, source),
     whyItMatters: buildWhyItMatters(article, source),
+    ...imageFields(article),
+  };
+}
+
+function imageFields(article) {
+  if (!article.image) {
+    return {};
+  }
+
+  return {
+    image: article.image,
+    ...(article.imageAlt ? { imageAlt: article.imageAlt } : {}),
+    ...(article.imageCredit ? { imageCredit: article.imageCredit } : {}),
+    imageOrigin: article.imageOrigin,
+    imageSourceUrl: article.imageSourceUrl,
   };
 }
 
@@ -190,7 +205,7 @@ async function run() {
     );
   }
 
-  const { expanded, top3 } = buildTechSelection({
+  const selection = buildTechSelection({
     articles,
     existingTop3,
     existingExpanded,
@@ -198,6 +213,10 @@ async function run() {
     topCount: TOP3_COUNT,
     expandedCount: EXPANDED_COUNT,
   });
+  const { articles: expanded, diagnostics } = await verifyArticleImages(selection.expanded);
+  const top3 = expanded.slice(0, TOP3_COUNT);
+
+  logImageDiagnostics(diagnostics);
 
   const nextTop3Items = top3.map((article) => buildItem(article, { source: article.source, defaultTag: article.tag }));
   const nextExpandedItems = expanded.map((article) => buildItem(article, { source: article.source, defaultTag: article.tag }));
@@ -215,6 +234,18 @@ async function run() {
 
   await writeJsonIfChanged(TOP3_OUTPUT_FILE, top3Payload);
   await writeJsonIfChanged(EXPANDED_OUTPUT_FILE, expandedPayload);
+}
+
+function logImageDiagnostics(diagnostics) {
+  console.log("Source | Published | Image? | Image host | Title");
+  diagnostics.forEach((item) => {
+    console.log(
+      `${item.source} | ${item.publishedAt ?? "-"} | ${item.status === "usable" ? "yes" : "no"} | ${item.host ?? "-"} | ${item.title}`,
+    );
+    if (item.status === "rejected") {
+      console.warn(`dropped image for ${item.title}: ${item.reason}`);
+    }
+  });
 }
 
 function summarizeRejections(rejected) {

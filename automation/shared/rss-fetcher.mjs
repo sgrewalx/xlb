@@ -10,16 +10,105 @@ const XML_ENTITIES = {
   nbsp: " ",
   quot: '"',
 };
+const IMAGE_MIME_TYPES = new Set([
+  "image/avif",
+  "image/gif",
+  "image/jpeg",
+  "image/jpg",
+  "image/png",
+  "image/webp",
+]);
+const TRACKING_QUERY_KEYS = new Set([
+  "fbclid",
+  "gclid",
+  "mc_cid",
+  "mc_eid",
+]);
+const IDENTIFIER_QUERY_KEYS = new Set([
+  "email",
+  "session_id",
+  "sessionid",
+  "subscriber_id",
+  "user_id",
+  "userid",
+]);
 
 export async function fetchRssFeed(feed) {
   const xml = await loadFeedXml(feed);
-  const articles = parseFeed(xml, feed);
+  const articles = parseRssFeed(xml, feed);
 
   if (articles.length === 0) {
     throw new Error(`Feed returned no parseable entries: ${feed.source}`);
   }
 
   return articles;
+}
+
+export async function verifyArticleImages(
+  articles,
+  { fetchImpl = fetch, timeoutMs = 10_000 } = {},
+) {
+  const results = await Promise.all(
+    articles.map(async (article) => {
+      if (!article.image) {
+        return {
+          article,
+          diagnostic: {
+            source: article.source,
+            publishedAt: article.publishedAt,
+            title: article.title,
+            image: "",
+            status: "not-supplied",
+          },
+        };
+      }
+
+      const probe = await probeRemoteImage(article.image, { fetchImpl, timeoutMs });
+
+      if (probe.ok) {
+        return {
+          article,
+          diagnostic: {
+            source: article.source,
+            publishedAt: article.publishedAt,
+            title: article.title,
+            image: article.image,
+            host: new URL(article.image).host,
+            contentType: probe.contentType,
+            contentLength: probe.contentLength,
+            status: "usable",
+          },
+        };
+      }
+
+      const {
+        image: _image,
+        imageAlt: _imageAlt,
+        imageCredit: _imageCredit,
+        imageOrigin: _imageOrigin,
+        imageSourceUrl: _imageSourceUrl,
+        ...articleWithoutImage
+      } = article;
+
+      return {
+        article: articleWithoutImage,
+        diagnostic: {
+          source: article.source,
+          publishedAt: article.publishedAt,
+          title: article.title,
+          image: article.image,
+          host: new URL(article.image).host,
+          status: "rejected",
+          reason: probe.reason,
+        },
+      };
+    }),
+  );
+
+  return {
+    articles: results.map((result) => result.article),
+    diagnostics: results.map((result) => result.diagnostic),
+  };
 }
 
 async function loadFeedXml(feed) {
@@ -52,7 +141,7 @@ async function loadFeedXml(feed) {
   return response.text();
 }
 
-function parseFeed(xml, feed) {
+export function parseRssFeed(xml, feed) {
   const blocks = xml.match(BLOCK_REGEX) ?? [];
 
   return blocks
@@ -77,6 +166,8 @@ function normalizeEntry(block, feed) {
     return null;
   }
 
+  const image = extractImage(block, title, url);
+
   return {
     source: feed.source,
     tag,
@@ -84,7 +175,231 @@ function normalizeEntry(block, feed) {
     excerpt,
     url,
     publishedAt,
+    ...(image ?? {}),
   };
+}
+
+function extractImage(block, articleTitle, articleUrl) {
+  const candidates = [
+    ...extractTagCandidates(block, "media:content", "media-content"),
+    ...extractTagCandidates(block, "media:thumbnail", "media-thumbnail"),
+    ...extractTagCandidates(block, "enclosure", "image-enclosure"),
+    ...extractAtomEnclosures(block),
+    ...extractExplicitImageStructures(block),
+  ];
+  const candidate = candidates.find((item) => isUsableImageCandidate(item));
+
+  if (!candidate) {
+    return null;
+  }
+
+  const image = canonicalizeImageUrl(candidate.url);
+  if (!image) {
+    return null;
+  }
+
+  const sourceAlt = cleanText(
+    candidate.alt ||
+      candidate.title ||
+      extractFirst(block, ["media:title", "media:description"]),
+  );
+  const imageAlt = isMeaningfulImageAlt(sourceAlt, articleTitle) ? sourceAlt : "";
+  const imageCredit = cleanText(
+    candidate.credit || extractFirst(block, ["media:credit"]),
+  );
+
+  return {
+    image,
+    ...(imageAlt ? { imageAlt } : {}),
+    ...(imageCredit ? { imageCredit } : {}),
+    imageOrigin: "rss",
+    imageSourceUrl: articleUrl,
+  };
+}
+
+function extractTagCandidates(block, tag, mechanism) {
+  const expression = new RegExp(`<${escapeRegex(tag)}\\b([^>]*)>`, "gi");
+
+  return Array.from(block.matchAll(expression), (match) => ({
+    ...parseAttributes(match[1]),
+    mechanism,
+  }));
+}
+
+function extractAtomEnclosures(block) {
+  return extractTagCandidates(block, "link", "atom-enclosure")
+    .filter((candidate) => candidate.rel?.toLowerCase() === "enclosure")
+    .map((candidate) => ({ ...candidate, url: candidate.href || candidate.url }));
+}
+
+function extractExplicitImageStructures(block) {
+  const expression = /<image\b[^>]*>[\s\S]*?<url\b[^>]*>([\s\S]*?)<\/url>[\s\S]*?<\/image>/gi;
+
+  return Array.from(block.matchAll(expression), (match) => ({
+    mechanism: "image-url",
+    url: cleanText(match[1]),
+  }));
+}
+
+function parseAttributes(value) {
+  const attributes = {};
+  const expression = /([\w:-]+)\s*=\s*(["'])(.*?)\2/gis;
+
+  for (const match of value.matchAll(expression)) {
+    attributes[match[1].toLowerCase()] = decodeXml(match[3].trim());
+  }
+
+  return attributes;
+}
+
+function isUsableImageCandidate(candidate) {
+  const url = candidate.url || candidate.href || "";
+  const type = (candidate.type || "").toLowerCase().split(";")[0].trim();
+  const medium = (candidate.medium || "").toLowerCase();
+
+  if (candidate.mechanism === "media-content") {
+    if (medium === "video" || type.startsWith("video/")) {
+      return false;
+    }
+
+    if (type && !IMAGE_MIME_TYPES.has(type) && medium !== "image") {
+      return false;
+    }
+  }
+
+  if (["image-enclosure", "atom-enclosure"].includes(candidate.mechanism)) {
+    if (!IMAGE_MIME_TYPES.has(type)) {
+      return false;
+    }
+  }
+
+  if (isProvenTiny(candidate.width, candidate.height)) {
+    return false;
+  }
+
+  return Boolean(canonicalizeImageUrl(url));
+}
+
+function isProvenTiny(width, height) {
+  const parsedWidth = parseDimension(width);
+  const parsedHeight = parseDimension(height);
+
+  return (
+    (parsedWidth !== null && parsedWidth < 160) ||
+    (parsedHeight !== null && parsedHeight < 90)
+  );
+}
+
+function parseDimension(value) {
+  if (value === undefined || value === null || value === "") {
+    return null;
+  }
+
+  const parsed = Number(value);
+  return Number.isFinite(parsed) && parsed >= 0 ? parsed : null;
+}
+
+function canonicalizeImageUrl(value) {
+  try {
+    const url = new URL(cleanText(value));
+
+    if (url.protocol !== "https:" || url.username || url.password) {
+      return "";
+    }
+
+    if (/\.(?:avi|mov|mp3|mp4|pdf|webm|zip)$/i.test(url.pathname)) {
+      return "";
+    }
+
+    if (/(?:^|[-_/])(1x1|beacon|blank|pixel|spacer|tracking)(?:[-_.\/]|$)/i.test(url.pathname)) {
+      return "";
+    }
+
+    for (const key of [...url.searchParams.keys()]) {
+      const normalizedKey = key.toLowerCase();
+
+      if (IDENTIFIER_QUERY_KEYS.has(normalizedKey)) {
+        return "";
+      }
+
+      if (normalizedKey.startsWith("utm_") || TRACKING_QUERY_KEYS.has(normalizedKey)) {
+        url.searchParams.delete(key);
+      }
+    }
+
+    const queryWidth = Number(url.searchParams.get("width") ?? url.searchParams.get("w"));
+    const queryHeight = Number(url.searchParams.get("height") ?? url.searchParams.get("h"));
+    if (
+      (Number.isFinite(queryWidth) && queryWidth > 0 && queryWidth < 160) ||
+      (Number.isFinite(queryHeight) && queryHeight > 0 && queryHeight < 90)
+    ) {
+      return "";
+    }
+
+    url.hash = "";
+    return url.toString();
+  } catch {
+    return "";
+  }
+}
+
+function isMeaningfulImageAlt(value, articleTitle) {
+  if (!value || value.length < 4) {
+    return false;
+  }
+
+  const normalize = (text) => text.toLowerCase().replace(/\W+/g, " ").trim();
+  return normalize(value) !== normalize(articleTitle);
+}
+
+async function probeRemoteImage(image, { fetchImpl, timeoutMs }) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+
+  try {
+    const response = await fetchImpl(image, {
+      headers: {
+        accept: "image/avif,image/webp,image/png,image/jpeg,image/gif;q=0.9,*/*;q=0.1",
+        range: "bytes=0-4095",
+        "user-agent": "xlb-image-validator/1.0",
+      },
+      redirect: "follow",
+      signal: controller.signal,
+    });
+
+    if (!response.ok) {
+      return { ok: false, reason: `HTTP ${response.status}` };
+    }
+
+    const rawContentType = response.headers.get("content-type") || "";
+    const contentType = rawContentType
+      .toLowerCase()
+      .split(",")
+      .map((value) => value.split(";")[0].trim())
+      .find((value) => IMAGE_MIME_TYPES.has(value));
+    if (!contentType) {
+      return { ok: false, reason: `unsupported content type ${rawContentType || "missing"}` };
+    }
+
+    const rawLength = response.headers.get("content-length");
+    const contentLength = rawLength === null ? null : Number(rawLength);
+    if (contentLength !== null && (!Number.isFinite(contentLength) || contentLength < 512)) {
+      return { ok: false, reason: `content length ${rawLength} is too small` };
+    }
+
+    if (response.body?.cancel) {
+      await response.body.cancel();
+    }
+
+    return { ok: true, contentType, contentLength };
+  } catch (error) {
+    return {
+      ok: false,
+      reason: error?.name === "AbortError" ? "request timed out" : String(error?.message ?? error),
+    };
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 function extractLink(block) {
