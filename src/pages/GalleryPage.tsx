@@ -12,33 +12,9 @@ export function GalleryPage() {
     <>
       <Seo
         title="Gallery | XLB"
-        description="Explore live visual explainers tied to current events, monitoring pages, and XLB topics."
+        description="Browse image-first visual explainers tied to current events, monitoring pages, and XLB topics."
         path="/gallery"
       />
-      <section className="live-page-hero gallery-page-hero">
-        <div className="live-page-hero-copy">
-          <p className="section-eyebrow">Gallery</p>
-          <h1>Live visuals, not a dead poster lab</h1>
-          <p>
-            The gallery now exists to explain current events visually and route people back into live pages,
-            topic pages, and the embedded video feed.
-          </p>
-        </div>
-        <div className="live-page-hero-rail">
-          <div className="signal-panel signal-panel-accent">
-            <span>Collections</span>
-            <strong>{gallery.data?.items.length ?? "..."}</strong>
-          </div>
-          <div className="signal-panel">
-            <span>Primary use</span>
-            <strong>Retention</strong>
-          </div>
-          <div className="signal-panel">
-            <span>Link depth</span>
-            <strong>Live + Topic</strong>
-          </div>
-        </div>
-      </section>
       <GalleryCollections
         items={gallery.data?.items}
         loading={gallery.loading}

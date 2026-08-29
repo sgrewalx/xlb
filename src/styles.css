@@ -2189,8 +2189,7 @@ img {
 .live-signal-grid,
 .live-stream-grid,
 .live-timeline-grid,
-.short-feed-grid,
-.gallery-collection-grid {
+.short-feed-grid {
   display: grid;
   gap: 16px;
 }
@@ -2277,8 +2276,7 @@ img {
   color: var(--muted);
 }
 
-.traffic-module-card,
-.gallery-collection-card {
+.traffic-module-card {
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -2288,8 +2286,7 @@ img {
   margin: 0;
 }
 
-.traffic-module-card p,
-.gallery-collection-card p {
+.traffic-module-card p {
   margin: 0;
 }
 
@@ -2300,8 +2297,7 @@ img {
   gap: 12px;
 }
 
-.traffic-module-list,
-.gallery-entry-list {
+.traffic-module-list {
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -2322,15 +2318,13 @@ img {
     background 160ms ease;
 }
 
-.traffic-module-entry:hover,
-.gallery-entry-card:hover {
+.traffic-module-entry:hover {
   transform: translateY(-2px);
   border-color: rgba(124, 246, 212, 0.24);
   background: rgba(18, 34, 57, 0.92);
 }
 
-.traffic-module-entry strong,
-.gallery-entry-card h4 {
+.traffic-module-entry strong {
   display: block;
   margin: 4px 0 8px;
 }
@@ -2340,8 +2334,7 @@ img {
   text-align: right;
 }
 
-.traffic-module-label,
-.gallery-entry-metric {
+.traffic-module-label {
   color: #7cf6d4;
   font-size: 0.76rem;
   font-weight: 800;
@@ -2532,52 +2525,423 @@ img {
   gap: 14px;
 }
 
-.gallery-collection-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+.gallery-browser {
+  --gallery-accent: #8fe8c5;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
 }
 
-.gallery-entry-card {
-  display: block;
-  padding: 16px;
-  border: 1px solid rgba(255, 255, 255, 0.06);
-  border-radius: var(--radius-md);
-  background: rgba(255, 255, 255, 0.03);
-  transition:
-    transform 160ms ease,
-    border-color 160ms ease,
-    background 160ms ease;
+.gallery-browser-header {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+  align-items: end;
+  gap: 32px;
+  padding: 20px 0 18px;
+  border-bottom: 1px solid var(--stroke-strong);
 }
 
-.gallery-entry-card strong {
-  display: block;
-  margin: 8px 0 12px;
-  font-size: 1.3rem;
+.gallery-browser-header > div:first-child {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
 }
 
-.gallery-entry-card h4 {
+.gallery-browser-header .section-eyebrow,
+.gallery-discovery-header .section-eyebrow {
+  background: rgba(143, 232, 197, 0.1);
+  color: var(--gallery-accent);
+  letter-spacing: 0;
+}
+
+.gallery-browser-header h1 {
   margin: 0;
+  max-width: 16ch;
+  font-family: "Iowan Old Style", "Baskerville", serif;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 0.98;
+  letter-spacing: 0;
 }
 
-.gallery-entry-card p {
+.gallery-browser-intro {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 4px;
+}
+
+.gallery-browser-intro p {
+  margin: 0;
+  color: #cfdae5;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.gallery-browser-intro span {
   color: var(--muted);
+  font-size: 0.78rem;
+  letter-spacing: 0;
+  text-transform: uppercase;
 }
 
-.gallery-entry-card-earth {
-  background:
-    radial-gradient(circle at top right, rgba(124, 246, 212, 0.14), transparent 28%),
-    rgba(255, 255, 255, 0.035);
+.gallery-featured {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid var(--stroke);
 }
 
-.gallery-entry-card-space {
-  background:
-    radial-gradient(circle at top right, rgba(94, 160, 255, 0.16), transparent 28%),
-    rgba(255, 255, 255, 0.035);
+.gallery-featured-visual {
+  position: relative;
+  min-height: 560px;
+  border: 1px solid var(--stroke);
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  background: #07111f;
 }
 
-.gallery-entry-card-signal {
+.gallery-featured-visual .gallery-image {
+  position: absolute;
+  inset: 0;
+}
+
+.gallery-featured-visual::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(2, 7, 12, 0.04) 28%, rgba(2, 7, 12, 0.9) 100%);
+  pointer-events: none;
+}
+
+.gallery-featured-overlay {
+  position: absolute;
+  z-index: 2;
+  inset: auto 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  max-width: 760px;
+  padding: 34px;
+}
+
+.gallery-cue {
+  padding: 7px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.26);
+  border-radius: 4px;
+  background: rgba(2, 7, 12, 0.56);
+  color: var(--gallery-accent);
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.gallery-featured-overlay h2 {
+  margin: 0;
+  max-width: 15ch;
+  font-family: "Iowan Old Style", "Baskerville", serif;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 0.96;
+  letter-spacing: 0;
+}
+
+.gallery-featured-overlay p {
+  margin: 0;
+  max-width: 52ch;
+  color: rgba(238, 246, 255, 0.82);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.gallery-featured-overlay strong {
+  color: var(--gallery-accent);
+  font-size: 0.86rem;
+}
+
+.gallery-featured-links {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-right: 1px solid var(--stroke);
+  border-left: 1px solid var(--stroke);
+}
+
+.gallery-featured-links a {
+  min-width: 0;
+  padding: 18px 20px 20px;
+  border-right: 1px solid var(--stroke);
+  background: rgba(11, 21, 33, 0.74);
+  transition:
+    background 160ms ease,
+    color 160ms ease;
+}
+
+.gallery-featured-links a:last-child {
+  border-right: 0;
+}
+
+.gallery-featured-links a:hover {
+  background: rgba(22, 40, 52, 0.92);
+}
+
+.gallery-featured-links span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.7rem;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.gallery-featured-links strong {
+  display: block;
+  margin-top: 7px;
+  color: var(--gallery-accent);
+  font-size: 1.2rem;
+}
+
+.gallery-featured-links h3 {
+  margin: 8px 0 0;
+  font-size: 1rem;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+.gallery-discovery {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.gallery-discovery-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--stroke);
+}
+
+.gallery-discovery-header > div:first-child {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.gallery-discovery-header h2 {
+  margin: 0;
+  font-family: "Iowan Old Style", "Baskerville", serif;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.gallery-filter-tabs {
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+}
+
+.gallery-filter-tabs button {
+  flex: 0 0 auto;
+  padding: 9px 12px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  cursor: pointer;
+}
+
+.gallery-filter-tabs button:hover,
+.gallery-filter-tabs button.is-active {
+  border-color: rgba(143, 232, 197, 0.32);
+  background: rgba(143, 232, 197, 0.08);
+  color: var(--text);
+}
+
+.gallery-filter-tabs button:focus-visible,
+.gallery-featured-visual:focus-visible,
+.gallery-featured-links a:focus-visible,
+.gallery-discovery-card:focus-visible {
+  outline: 2px solid var(--gallery-accent);
+  outline-offset: 3px;
+}
+
+.gallery-discovery-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-auto-flow: dense;
+  gap: 12px;
+}
+
+.gallery-discovery-card {
+  display: grid;
+  grid-template-rows: 250px minmax(0, 1fr);
+  min-width: 0;
+  border: 1px solid var(--stroke);
+  border-radius: 8px;
+  overflow: hidden;
+  background: rgba(13, 23, 35, 0.94);
+  transition:
+    transform 170ms ease,
+    border-color 170ms ease,
+    background 170ms ease;
+}
+
+.gallery-discovery-card.is-wide {
+  grid-column: span 8;
+  grid-template-rows: 320px minmax(0, 1fr);
+}
+
+.gallery-discovery-card.is-standard {
+  grid-column: span 4;
+}
+
+.gallery-discovery-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(143, 232, 197, 0.34);
+  background: rgba(19, 33, 46, 0.98);
+}
+
+.gallery-image {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+  background: #08111d;
+}
+
+.gallery-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 220ms ease;
+}
+
+.gallery-featured-visual:hover .gallery-image img,
+.gallery-discovery-card:hover .gallery-image img {
+  transform: scale(1.025);
+}
+
+.gallery-image > span:not(.gallery-image-label) {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: var(--gallery-accent);
+  font-family: "Iowan Old Style", "Baskerville", serif;
+  font-size: 2.4rem;
+}
+
+.gallery-image-label {
+  position: absolute;
+  z-index: 1;
+  top: 12px;
+  left: 12px;
+  padding: 6px 9px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+  background: rgba(3, 8, 14, 0.7);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  backdrop-filter: blur(8px);
+}
+
+.gallery-featured-visual .gallery-image-label {
+  display: none;
+}
+
+.gallery-discovery-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+  padding: 18px;
+}
+
+.gallery-discovery-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px 10px;
+  color: var(--muted);
+  font-size: 0.7rem;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.gallery-discovery-meta span:first-child {
+  color: var(--gallery-accent);
+  font-weight: 800;
+}
+
+.gallery-discovery-meta strong {
+  color: var(--text);
+}
+
+.gallery-discovery-copy h3 {
+  margin: 0;
+  font-size: 1.3rem;
+  line-height: 1.12;
+  letter-spacing: 0;
+}
+
+.gallery-discovery-copy p {
+  display: -webkit-box;
+  margin: 0;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.48;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.gallery-skeleton-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.gallery-skeleton-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.gallery-skeleton,
+.gallery-browser-error {
+  min-height: 240px;
+  border: 1px solid var(--stroke);
+  border-radius: 8px;
   background:
-    radial-gradient(circle at top right, rgba(255, 216, 107, 0.16), transparent 28%),
-    rgba(255, 255, 255, 0.035);
+    linear-gradient(100deg, transparent 30%, rgba(255, 255, 255, 0.06) 50%, transparent 70%),
+    rgba(13, 23, 35, 0.94);
+  background-size: 220% 100%;
+  animation: shimmer 1.5s linear infinite;
+}
+
+.gallery-skeleton-featured {
+  min-height: 560px;
+}
+
+.gallery-browser-error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 7px;
+  padding: 24px;
+  animation: none;
+}
+
+.gallery-browser-error span {
+  color: var(--muted);
 }
 
 .live-signal-grid {
@@ -3117,7 +3481,6 @@ img {
   .traffic-module-grid,
   .home-short-preview-grid,
   .short-feed-grid,
-  .gallery-collection-grid,
   .short-viewer-shell,
   .event-hero,
   .games-grid,
@@ -3188,6 +3551,18 @@ img {
   .editorial-story-card {
     grid-template-columns: 1fr;
     grid-template-rows: 180px minmax(0, 1fr);
+  }
+
+  .gallery-discovery-grid {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .gallery-discovery-card.is-wide {
+    grid-column: span 6;
+  }
+
+  .gallery-discovery-card.is-standard {
+    grid-column: span 3;
   }
 }
 
@@ -3282,7 +3657,8 @@ img {
     justify-content: center;
   }
 
-  .editorial-masthead {
+  .editorial-masthead,
+  .gallery-browser-header {
     grid-template-columns: 1fr;
     gap: 16px;
     padding-top: 8px;
@@ -3330,5 +3706,54 @@ img {
 
   .editorial-section-heading {
     align-items: flex-end;
+  }
+
+  .gallery-browser-header h1 {
+    font-size: 2.8rem;
+  }
+
+  .gallery-featured-visual {
+    min-height: 470px;
+  }
+
+  .gallery-featured-overlay {
+    padding: 20px;
+  }
+
+  .gallery-featured-overlay h2 {
+    font-size: 2.5rem;
+  }
+
+  .gallery-featured-links,
+  .gallery-skeleton-row {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-featured-links a {
+    border-right: 0;
+    border-bottom: 1px solid var(--stroke);
+  }
+
+  .gallery-featured-links a:last-child {
+    border-bottom: 0;
+  }
+
+  .gallery-discovery-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .gallery-filter-tabs {
+    width: 100%;
+  }
+
+  .gallery-discovery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-discovery-card.is-wide,
+  .gallery-discovery-card.is-standard {
+    grid-column: 1;
+    grid-template-rows: 240px minmax(0, 1fr);
   }
 }

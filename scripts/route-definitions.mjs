@@ -164,10 +164,10 @@ const staticRoutes = [
   {
     path: "/gallery",
     title: "Gallery | XLB",
-    description: "Explore live visual explainers tied to current events, monitoring pages, and XLB topics.",
+    description: "Browse image-first visual explainers tied to current events, monitoring pages, and XLB topics.",
     eyebrow: "Gallery",
-    h1: "Live visual explainers",
-    intro: "Use visual collections to understand current signals and continue into the related live, event, and topic pages.",
+    h1: "The world in signals",
+    intro: "Browse visual snapshots from the live events and topics changing now, then continue into their source-backed pages.",
     kind: "collection",
     ogType: "website",
     imagePath: "/media/visuals/tokyo-midnight.svg",
