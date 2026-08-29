@@ -1,15 +1,28 @@
 {
-  "updatedAt": "2026-08-29T14:48:24.328Z",
+  "updatedAt": "2026-08-29T15:38:02.630Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-why-clearing-cache-won-t-always-speed-up-your-de-9841348fee",
-      "title": "Why clearing cache won't always speed up your devices",
+      "id": "tech-don-t-fall-for-this-digital-tv-antenna-myth-00c30fc46c",
+      "title": "Don't fall for this digital TV antenna myth",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2242753/why-clearing-cache-wont-always-speed-up-devices",
+      "url": "https://www.engadget.com/2242754/digital-antenna-range-myth",
       "tag": "Technology",
-      "publishedAt": "2026-08-29T14:30:00.000Z",
-      "summary": "Clearing cache is a handy troubleshooting step, but you shouldn't use it all the time. Reckless use can actually slow your apps and devices down for a while.",
+      "publishedAt": "2026-08-29T15:30:00.000Z",
+      "summary": "No, you can't get an antenna with a 6,000 mile range.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/dont-fall-for-this-digital-tv-antenna-myth/l-intro-1787250128.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2242754/digital-antenna-range-myth"
+    },
+    {
+      "id": "tech-welcome-to-night-vale-cocreator-joseph-fink-lear-a40fbfce7e",
+      "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "tag": "Technology",
+      "publishedAt": "2026-08-29T15:00:00.000Z",
+      "summary": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Al...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -23,14 +36,31 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-the-galaxy-z-flip-8-is-at-its-best-when-there-s--92d04bee12",
-      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+      "id": "tech-soundcore-liberty-5-pro-review-master-of-phone-c-2071cd8d7a",
+      "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/soundcore-liberty-5-pro",
       "tag": "Technology",
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experienc...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-08-29T11:00:00.000Z",
+      "summary": "Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a925150bb3a85e785f50cc3/master/pass/Review--Soundcore-Liberty-5-Pro.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/review/soundcore-liberty-5-pro"
+    },
+    {
+      "id": "tech-i-asked-100-companies-for-my-data-some-deleted-i-a9e859a0c5",
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead",
+      "tag": "Technology",
+      "publishedAt": "2026-08-29T10:50:31.000Z",
+      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
+      "imageCredit": "Sean Gallup/Getty",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead"
     },
     {
       "id": "tech-how-to-check-jio-data-balance-and-plan-validity--3f4511086b",
@@ -53,26 +83,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-soundcore-liberty-5-pro-review-master-of-phone-c-2071cd8d7a",
-      "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/soundcore-liberty-5-pro",
-      "tag": "Technology",
-      "publishedAt": "2026-08-29T11:00:00.000Z",
-      "summary": "Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-i-asked-100-companies-for-my-data-some-deleted-i-a9e859a0c5",
-      "title": "I asked 100 companies for my data. Some deleted it instead.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead",
-      "tag": "Technology",
-      "publishedAt": "2026-08-29T10:50:31.000Z",
-      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-google-rolls-out-gemini-ai-feature-to-help-reade-5a99006f0a",
       "title": "Google rolls out Gemini AI feature to help readers analyse their e-books",
       "source": "The Hindu Technology",
@@ -80,7 +90,10 @@
       "tag": "Technology",
       "publishedAt": "2026-08-29T09:07:26.000Z",
       "summary": "Expert Intelligence allows users to add select e-books from Google Play Books directly to a Gemini Notebook",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://th-i.thgim.com/public/incoming/xmb2jx/article71404049.ece/alternates/LANDSCAPE_1200/2026-08-21T080651Z_118099667_RC229FA3MLRU_RTRMADP_3_INDIA-CYBER-ALPHABET.JPG",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/google-rolls-out-gemini-ai-feature-to-help-readers-analyse-their-e-books/article71404063.ece"
     },
     {
       "id": "tech-matt-lucas-and-hugh-bonneville-among-actors-call-5bed4b248e",
@@ -90,17 +103,36 @@
       "tag": "Technology",
       "publishedAt": "2026-08-28T05:11:16.000Z",
       "summary": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-engadget-review-recap-google-s-pixel-11-series-a-c7f671f786",
-      "title": "Engadget review recap: Google's Pixel 11 series and more",
+      "id": "tech-openai-will-pull-its-models-from-cursor-due-to-s-11a83dceca",
+      "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2246542/engadget-review-recap-googles-pixel-11-series-and-more",
+      "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition",
       "tag": "Technology",
-      "publishedAt": "2026-08-29T14:00:00.000Z",
-      "summary": "A roundup of recent reviews from Engadget.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-08-29T14:58:40.000Z",
+      "summary": "OpenAI is planning to cut off Cursor's access to its models on November 12, 2026.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition"
+    },
+    {
+      "id": "tech-why-clearing-cache-won-t-always-speed-up-your-de-9841348fee",
+      "title": "Why clearing cache won't always speed up your devices",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2242753/why-clearing-cache-wont-always-speed-up-devices",
+      "tag": "Technology",
+      "publishedAt": "2026-08-29T14:30:00.000Z",
+      "summary": "Clearing cache is a handy troubleshooting step, but you shouldn't use it all the time. Reckless use can actually slow your apps and devices down for a while.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/why-clearing-cache-wont-always-speed-up-your-devices/l-intro-1787585286.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2242753/why-clearing-cache-wont-always-speed-up-devices"
     },
     {
       "id": "tech-what-you-should-look-for-in-a-usb-to-bluetooth-a-39c642d19f",
@@ -110,17 +142,10 @@
       "tag": "Technology",
       "publishedAt": "2026-08-29T13:30:00.000Z",
       "summary": "Not all adapters handle Bluetooth devices equally well. The right blend of speed, range, and reliability keeps your wireless gear working the way you expect.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-nvidia-s-ai-advantage-is-moving-beyond-the-gpu-6d17d16ed4",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "tag": "Technology",
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/what-you-should-look-for-in-a-usb-to-bluetooth-adapter-for-pc/l-intro-1787329456.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2242750/usb-to-bluetooth-adapter-for-pc-what-should-look-for"
     }
   ]
 }
