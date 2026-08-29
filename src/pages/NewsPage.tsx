@@ -1,5 +1,5 @@
 import { Seo } from "../components/Seo";
-import { TopListSection } from "../components/TopListSection";
+import { EditorialFeed } from "../components/EditorialFeed";
 import { useContent } from "../hooks/useContent";
 import { TopFeed } from "../types/content";
 
@@ -13,21 +13,11 @@ export function NewsPage() {
         description="Scan selected current stories with concise context and direct links to original reporting."
         path="/news"
       />
-      <section className="static-hero">
-        <p className="section-eyebrow">News</p>
-        <h1>Stories worth checking now</h1>
-        <p>
-          A compact read on the headlines that matter most right now, without turning the page into
-          a general-purpose news dump.
-        </p>
-      </section>
-      <TopListSection
-        id="news"
+      <EditorialFeed
+        section="news"
         eyebrow="News"
-        title="Top stories"
-        description="A wider scan of timely stories with XLB-written briefs and direct links to original reporting."
-        headerTags={["US", "Europe", "India"]}
-        expanded
+        title="Stories shaping the day"
+        description="A concise editorial digest with clear context, source attribution, and direct links to original reporting."
         loading={news.loading}
         error={news.error}
         updatedAt={news.data?.updatedAt}

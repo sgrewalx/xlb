@@ -1,5 +1,5 @@
 import { Seo } from "../components/Seo";
-import { TopListSection } from "../components/TopListSection";
+import { EditorialFeed } from "../components/EditorialFeed";
 import { useContent } from "../hooks/useContent";
 import { TopFeed } from "../types/content";
 
@@ -13,22 +13,11 @@ export function SportsPage() {
         description="Scan selected sports stories, fixtures, and major moments with direct links to their original sources."
         path="/sports"
       />
-      <section className="static-hero">
-        <p className="section-eyebrow">Sports</p>
-        <h1>Fast-moving sports coverage</h1>
-        <p>
-          A focused sports surface for fixtures, major moments, and stories that reward quick check-ins.
-        </p>
-      </section>
-      <TopListSection
-        id="sports"
+      <EditorialFeed
+        section="sports"
         eyebrow="Sports"
-        title="Top sports picks"
-        description="The strongest sports links and stories in one quick scan."
-        headerTags={["Football", "Basketball", "Tennis", "Running", "Cricket"]}
-        hideItemTags
-        visualMode="sports"
-        expanded
+        title="The action now"
+        description="Fast-moving stories, defining moments, and the latest talking points from across sport."
         loading={sports.loading}
         error={sports.error}
         updatedAt={sports.data?.updatedAt}
