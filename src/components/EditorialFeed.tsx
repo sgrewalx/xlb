@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { getSportsFallbackVisual } from "../lib/editorialVisuals";
 import { FeedItem } from "../types/content";
 
 type EditorialSection = "news" | "sports" | "tech";
@@ -13,15 +14,6 @@ interface EditorialFeedProps {
   updatedAt?: string;
   items?: FeedItem[];
 }
-
-const SPORTS_VISUALS: Record<string, string> = {
-  basketball: "/media/sports/basketball.svg",
-  cricket: "/media/sports/football.svg",
-  football: "/media/sports/football.svg",
-  running: "/media/sports/tennis.svg",
-  sports: "/media/sports/football.svg",
-  tennis: "/media/sports/tennis.svg",
-};
 
 const NEWS_VISUALS = [
   "/media/visuals/tokyo-midnight.svg",
@@ -288,7 +280,7 @@ function getDisplayCategory(item: FeedItem, section: EditorialSection) {
 
 function getFallbackVisual(item: FeedItem, section: EditorialSection, index: number) {
   if (section === "sports") {
-    return SPORTS_VISUALS[item.tag.toLowerCase()] ?? SPORTS_VISUALS.sports;
+    return getSportsFallbackVisual(item.tag);
   }
 
   if (section === "tech") {
