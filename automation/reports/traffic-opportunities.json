@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-28T15:12:58.926Z",
-  "sourceSnapshot": "2026-08-28T06:00:00.000Z",
+  "updatedAt": "2026-08-29T09:55:14.503Z",
+  "sourceSnapshot": "2026-08-29T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -10,12 +10,38 @@
   "summary": {
     "pageCount": 12,
     "sitemapPathCount": 24,
-    "opportunityCount": 8,
+    "opportunityCount": 9,
     "searchOpportunityCount": 1,
-    "engagementOpportunityCount": 0,
+    "engagementOpportunityCount": 1,
     "indexWatchCount": 7
   },
   "opportunities": [
+    {
+      "id": "traffic-engagement_expand-video",
+      "path": "/video",
+      "signal": "engagement_expand",
+      "score": 108,
+      "risk": "medium",
+      "title": "Expand high-engagement path /video",
+      "hypothesis": "/video shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
+      "metrics": {
+        "pageviews": 11,
+        "visits": 2,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 100
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
     {
       "id": "traffic-index-watch-events-aurora-watch",
       "path": "/events/aurora-watch",

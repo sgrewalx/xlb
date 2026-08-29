@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-28T15:13:00.120Z",
+  "updatedAt": "2026-08-29T09:55:16.282Z",
   "items": [
+    {
+      "id": "traffic-engagement_expand-video",
+      "title": "Expand high-engagement path /video",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/video shows comparatively strong engagement and should receive more supporting links or adjacent content.",
+      "targetPaths": [
+        "/video"
+      ],
+      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
     {
       "id": "traffic-index-watch-events-aurora-watch",
       "title": "Watch index coverage for /events/aurora-watch",
