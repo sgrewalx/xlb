@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T09:55:15.388Z",
+  "checkedAt": "2026-08-30T09:06:25.522Z",
   "status": "healthy",
   "stability": {
     "status": "stable",
@@ -25,6 +25,12 @@
       "stable": true,
       "recentRuns": [
         {
+          "checkedAt": "2026-08-30T09:06:25.522Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 2
+        },
+        {
           "checkedAt": "2026-08-29T09:55:15.388Z",
           "status": "healthy",
           "fallbackUsed": false,
@@ -98,12 +104,6 @@
         },
         {
           "checkedAt": "2026-06-30T06:59:36.473Z",
-          "status": "healthy",
-          "fallbackUsed": false,
-          "freshSeedCount": 3
-        },
-        {
-          "checkedAt": "2026-06-29T08:20:54.367Z",
           "status": "healthy",
           "fallbackUsed": false,
           "freshSeedCount": 3
@@ -117,16 +117,22 @@
       "earthquakeItemCount": 1,
       "placeholderCount": 0,
       "monitoringItemCount": 1,
-      "fetchedSeedCount": 283,
+      "fetchedSeedCount": 159,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
       "strongestMagnitude": 5.1,
-      "largeCount": 16,
+      "largeCount": 12,
       "error": null,
       "healthyStreak": 14,
       "nonFallbackStreak": 14,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-08-30T09:06:25.522Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-08-29T09:55:15.388Z",
           "status": "healthy",
@@ -201,12 +207,6 @@
         },
         {
           "checkedAt": "2026-06-30T06:59:36.473Z",
-          "status": "healthy",
-          "fallbackUsed": false,
-          "freshSeedCount": 1
-        },
-        {
-          "checkedAt": "2026-06-29T08:20:54.367Z",
           "status": "healthy",
           "fallbackUsed": false,
           "freshSeedCount": 1
@@ -223,14 +223,20 @@
       "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 2,
-      "recentPeakKp": 4,
-      "alertLevel": "active",
+      "latestKp": 0,
+      "recentPeakKp": 3,
+      "alertLevel": "quiet",
       "error": null,
       "healthyStreak": 14,
       "nonFallbackStreak": 14,
       "stable": true,
       "recentRuns": [
+        {
+          "checkedAt": "2026-08-30T09:06:25.522Z",
+          "status": "healthy",
+          "fallbackUsed": false,
+          "freshSeedCount": 1
+        },
         {
           "checkedAt": "2026-08-29T09:55:15.388Z",
           "status": "healthy",
@@ -305,12 +311,6 @@
         },
         {
           "checkedAt": "2026-06-30T06:59:36.473Z",
-          "status": "healthy",
-          "fallbackUsed": false,
-          "freshSeedCount": 1
-        },
-        {
-          "checkedAt": "2026-06-29T08:20:54.367Z",
           "status": "healthy",
           "fallbackUsed": false,
           "freshSeedCount": 1
