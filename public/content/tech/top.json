@@ -1,19 +1,75 @@
 {
-  "updatedAt": "2026-08-31T14:35:48.896Z",
+  "updatedAt": "2026-08-31T20:28:57.656Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-garmin-cirqa-review-a-fine-but-utterly-inessenti-fc23cdc317",
-      "title": "Garmin Cirqa review: A fine but utterly inessential smart band",
+      "id": "tech-how-enterprising-modders-installed-windows-nt-on-c99ff5e1c6",
+      "title": "How Enterprising Modders Installed Windows NT On Nintendo GameCubes",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2246325/garmin-cirqa-review",
+      "url": "https://www.engadget.com/2246406/how-modders-installed-windows-nt-operating-system-nintendo-gamecube",
       "tag": "Technology",
-      "publishedAt": "2026-08-31T14:00:00.000Z",
-      "summary": "Garmin's Cirqa band lacks the software and AI insights to make it a true Whoop rival.",
+      "publishedAt": "2026-08-31T20:00:00.000Z",
+      "summary": "Modders often find purpose for old tech that's collecting dust, like adding an antiquated version of Windows onto a 25-year-old console with this process.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/garmin-cirqa-review-a-fine-but-utterly-inessential-smart-band/l-intro-1787917010.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-enterprising-modders-installed-windows-nt-on-nintendo-gamecubes/l-intro-1787344787.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2246325/garmin-cirqa-review"
+      "imageSourceUrl": "https://www.engadget.com/2246406/how-modders-installed-windows-nt-operating-system-nintendo-gamecube"
+    },
+    {
+      "id": "tech-asus-proart-27-qd-oled-pa279cdv-review-hdr-for-a-5788efce32",
+      "title": "Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All",
+      "source": "Wired",
+      "url": "https://www.wired.com/review/asus-proart-pa279cdv",
+      "tag": "Technology",
+      "publishedAt": "2026-08-31T19:48:26.000Z",
+      "summary": "I wouldn’t call it cheap, but this monitor from Asus brings proper HDR-capable video editing to creators who couldn’t previously afford an OLED display.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a924947fa28f969266ba039/master/pass/Review--Asus-ProArt-27-QD-OLED-(PA279CDV).jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/review/asus-proart-pa279cdv"
+    },
+    {
+      "id": "tech-ftc-accuses-amazon-of-running-a-secret-ad-surcha-3fe1665938",
+      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
+      "tag": "Running",
+      "publishedAt": "2026-08-31T20:20:25.000Z",
+      "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-alienware-s-budget-friendly-qd-oled-is-discounte-eb9f66a9cb",
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-08-31T19:31:59.000Z",
+      "summary": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-could-cause-global-economic-downturn-andrew-b-70162f72e2",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-08-31T16:49:11.000Z",
+      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-xiaomi-pad-9-pro-max-appears-on-geekbench-with-x-d4b0638314",
+      "title": "Xiaomi Pad 9 Pro Max Appears on Geekbench With Xring O3 Chip",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/tablets/news/xiaomi-pad-9-pro-max-geekbench-listing-xring-o3-chip-ram-os-11982476",
+      "tag": "Technology",
+      "publishedAt": "2026-08-31T15:12:23.000Z",
+      "summary": "The Xiaomi Pad 9 Pro Max has appeared in a Geekbench 6.7.1 listing with the company’s Xring O3 chipset. The tablet recorded 3,474 points in single-core testing and 13,229 points...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-chatgpt-and-reddit-now-face-eu-s-toughest-online-52c4fb7fe0",
@@ -30,36 +86,6 @@
       "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules"
     },
     {
-      "id": "tech-new-york-governor-to-3d-printed-gun-leader-tell--f36532e658",
-      "title": "New York governor to 3D printed gun leader: ‘tell Cody I will get ahead of him’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
-      "tag": "Technology",
-      "publishedAt": "2026-08-31T14:20:00.000Z",
-      "summary": "Cody Wilson, the creator of the first 3D printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting g...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-as-tim-cook-steps-down-india-stands-at-the-heart-a556b05bc7",
-      "title": "As Tim Cook steps down, India stands at the heart of Apple’s next chapter",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/08/tim-cook-steps-down-india-heart-of-apples-next-chapter",
-      "tag": "Technology",
-      "publishedAt": "2026-08-31T13:38:12.000Z",
-      "summary": "Tim Cook, once Steve Jobs’ operations man who made Apple’s ‘trains run on time’, turned India from a market of promise into a key centre for sales and production. His successor...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-meeting-notetaker-circleback-adds-a-free-tier-to-8d83e3a191",
-      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers",
-      "tag": "Technology",
-      "publishedAt": "2026-08-31T12:56:46.000Z",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-lava-enters-uk-market-with-agni-4n-launch-2348a2433c",
       "title": "Lava enters UK market with Agni 4N launch",
       "source": "The Hindu Technology",
@@ -73,80 +99,50 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/gadgets/lava-enters-uk-market-with-agni-4n-launch/article71410508.ece"
     },
     {
-      "id": "tech-why-food-keeps-making-everybody-sick-this-summer-5d9349f804",
-      "title": "Why Food Keeps Making Everybody Sick This Summer",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick",
+      "id": "tech-as-tim-cook-steps-down-india-stands-at-the-heart-a556b05bc7",
+      "title": "As Tim Cook steps down, India stands at the heart of Apple’s next chapter",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/tim-cook-steps-down-india-heart-of-apples-next-chapter",
       "tag": "Technology",
-      "publishedAt": "2026-08-31T11:00:00.000Z",
-      "summary": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain suscep...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a8601649e543108a3a61dad/master/pass/Science_From%20Diarrhea%20Lettuce%20to%20Salmonella%20Eggs,%20This%20Is%20a%20Hot,%20Sick%20American%20Summer_v1.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick"
-    },
-    {
-      "id": "tech-boltt-reveals-software-update-policy-for-ace-5g--b5b8682666",
-      "title": "Boltt Reveals Software Update Policy for Ace 5G and Evo Ahead of September 1 Sale",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/boltt-ace-5g-evo-software-support-confirmed-ahead-of-september-1-sale-11982166",
-      "tag": "Technology",
-      "publishedAt": "2026-08-31T12:12:24.000Z",
-      "summary": "Boltt has confirmed its 3+4 software support policy for the Ace 5G and Evo smartphones. Both devices will receive three major Android OS upgrades and four years of security upda...",
+      "publishedAt": "2026-08-31T13:38:12.000Z",
+      "summary": "Tim Cook, once Steve Jobs’ operations man who made Apple’s ‘trains run on time’, turned India from a market of promise into a key centre for sales and production. His successor...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-i-ve-been-to-gamescom-six-times-here-s-what-exci-19d3783c3a",
-      "title": "I've been to Gamescom six times - here's what excited me this year",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-08-29T23:02:28.000Z",
-      "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "tech-a-playstation-state-of-play-double-bill-is-set-f-b8068e097e",
-      "title": "A PlayStation State of Play double bill is set for September 3",
+      "id": "tech-phil-schiller-reportedly-steps-down-as-apple-s-a-0e18bd81c9",
+      "title": "Phil Schiller reportedly steps down as Apple's App Store and product event chief",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2247424/a-playstation-state-of-play-double-bill-is-set-for-september-3",
+      "url": "https://www.engadget.com/2247924/phil-schiller-reportedly-steps-down-as-apple-app-store-and-product-event-chief",
       "tag": "Technology",
-      "publishedAt": "2026-08-31T13:56:12.000Z",
-      "summary": "A PlayStation State of Play double bill is set for September 3.",
+      "publishedAt": "2026-08-31T18:57:48.000Z",
+      "summary": "Phil Schiller will remain an Apple Fellow and focus on \"unspecified initiatives,\" according to Bloomberg.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/a-playstation-state-of-play-double-bill-is-set-for-september-3/l-intro-1788184522.jpg",
+      "image": "https://www.engadget.com/img/gallery/phil-schiller-reportedly-steps-down-as-apples-app-store-and-product-event-chief/l-intro-1788202563.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2247424/a-playstation-state-of-play-double-bill-is-set-for-september-3"
+      "imageSourceUrl": "https://www.engadget.com/2247924/phil-schiller-reportedly-steps-down-as-apple-app-store-and-product-event-chief"
     },
     {
-      "id": "tech-the-upside-of-a-laptop-having-two-charging-ports-579375b354",
-      "title": "The upside of a laptop having two charging ports (and why some don't)",
+      "id": "tech-the-downsides-of-switching-from-windows-to-mac-e2d8077ba2",
+      "title": "The downsides of switching from Windows to Mac",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2243628/laptop-having-two-charging-ports-pro-why-some-dont",
+      "url": "https://www.engadget.com/2244172/downsides-switching-from-windows-to-mac",
       "tag": "Technology",
-      "publishedAt": "2026-08-31T13:30:00.000Z",
-      "summary": "There are some good reasons you might want to look for a laptop with multiple USB-C ports next time you upgrade.",
+      "publishedAt": "2026-08-31T18:30:00.000Z",
+      "summary": "Moving from Windows to macOS will have a bit of a learning curve.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/the-upside-of-a-laptop-having-two-charging-ports-and-why-some-dont/l-intro-1787667073.jpg",
+      "image": "https://www.engadget.com/img/gallery/the-downsides-of-switching-from-windows-to-macs/l-intro-1787689966.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2243628/laptop-having-two-charging-ports-pro-why-some-dont"
+      "imageSourceUrl": "https://www.engadget.com/2244172/downsides-switching-from-windows-to-mac"
     },
     {
-      "id": "tech-nasa-s-next-great-observatory-begins-mission-to--093115479f",
-      "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe",
+      "id": "tech-the-pentagon-now-has-its-own-version-of-chatgpt--d18a484524",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
       "tag": "Technology",
-      "publishedAt": "2026-08-31T13:01:09.000Z",
-      "summary": "\"We would need over half a million 4K TVs to fully display the single Roman image from our largest survey.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HRAzV1dXYAEXjHy-1152x648.jpg",
-      "imageCredit": "SpaceX",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe"
+      "publishedAt": "2026-08-31T20:13:45.000Z",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }
