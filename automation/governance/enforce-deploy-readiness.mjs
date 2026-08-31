@@ -13,9 +13,30 @@ export function evaluateDeploymentPolicy({
   evidence,
   trigger,
   supervisedOverride = false,
+  releaseClassification = "review-required",
   now = Date.now(),
   maxAgeHours = DEFAULT_MAX_READINESS_AGE_HOURS,
 }) {
+  if (releaseClassification === "no-op") {
+    return {
+      allowed: false,
+      effectiveStatus: "no-op",
+      reason: "requested release is already the deployed exact SHA",
+    };
+  }
+
+  if (releaseClassification === "blocked") {
+    return { allowed: false, effectiveStatus: "blocked", reason: "release classification is blocked" };
+  }
+
+  if (!new Set(["content-only", "review-required"]).has(releaseClassification)) {
+    return {
+      allowed: false,
+      effectiveStatus: "blocked",
+      reason: `unknown release classification: ${releaseClassification ?? "missing"}`,
+    };
+  }
+
   if (!report || typeof report !== "object") {
     return { allowed: false, effectiveStatus: "blocked", reason: "readiness report is missing" };
   }
@@ -58,23 +79,27 @@ export function evaluateDeploymentPolicy({
     return { allowed: false, effectiveStatus: "blocked", reason: "readiness is blocked" };
   }
 
-  if (status === "ready") {
-    return { allowed: true, effectiveStatus: "ready", reason: "readiness is ready and evidence-matched" };
+  if (releaseClassification === "content-only") {
+    return {
+      allowed: true,
+      effectiveStatus: status,
+      reason: `content-only release is fresh, evidence-matched, and readiness is ${status}`,
+    };
   }
 
-  if (status === "review-required") {
+  if (status === "ready" || status === "review-required") {
     if (trigger === "workflow_dispatch" && supervisedOverride === true) {
       return {
         allowed: true,
-        effectiveStatus: "review-required",
-        reason: "review-required deployment explicitly approved by a supervised manual run",
+        effectiveStatus: status,
+        reason: "review-required release explicitly approved by a supervised manual run",
       };
     }
 
     return {
       allowed: false,
       effectiveStatus: "review-required",
-      reason: "review-required deployment needs an explicit supervised manual override",
+      reason: "release classification requires an explicit supervised manual override",
     };
   }
 
@@ -97,6 +122,7 @@ async function main() {
   const decision = await evaluateCurrentDeploymentPolicy({
     trigger: process.env.GITHUB_EVENT_NAME,
     supervisedOverride: process.env.XLB_SUPERVISED_REVIEW_OVERRIDE === "true",
+    releaseClassification: process.env.XLB_RELEASE_CLASSIFICATION,
     maxAgeHours: parseMaxReadinessAgeHours(process.env.XLB_DEPLOY_READINESS_MAX_AGE_HOURS),
   });
 
@@ -109,6 +135,7 @@ async function main() {
 export async function evaluateCurrentDeploymentPolicy({
   trigger,
   supervisedOverride = false,
+  releaseClassification = "review-required",
   now = Date.now(),
   maxAgeHours = DEFAULT_MAX_READINESS_AGE_HOURS,
 } = {}) {
@@ -123,6 +150,7 @@ export async function evaluateCurrentDeploymentPolicy({
     evidence: { health, risk, autonomyState },
     trigger,
     supervisedOverride,
+    releaseClassification,
     now,
     maxAgeHours,
   });

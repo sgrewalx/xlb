@@ -17,6 +17,7 @@ on:
         type: boolean
 
 permissions:
+  actions: read
   id-token: write
   contents: read
 
@@ -58,15 +59,32 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Resolve previously deployed exact SHA
+        id: production-base
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: npm run automation:resolve-production-release
+
+      - name: Classify exact release range
+        id: classification
+        env:
+          XLB_DEPLOYED_BASE_SHA: ${{ steps.production-base.outputs.base_sha }}
+        run: npm run automation:classify-release
+
       - name: Evaluate release handoff
         id: handoff
         env:
           XLB_SUPERVISED_REVIEW_OVERRIDE: ${{ github.event_name == 'workflow_dispatch' && inputs.allow_review_required_deploy || false }}
+          XLB_RELEASE_CLASSIFICATION: ${{ steps.classification.outputs.classification }}
         run: npm run automation:evaluate-release-handoff
 
       - name: Await supervised approval
         if: steps.handoff.outputs.disposition == 'awaiting-approval'
         run: echo "Release ${XLB_RELEASE_SHA} requires a supervised workflow_dispatch approval."
+
+      - name: Report no-op release
+        if: steps.handoff.outputs.disposition == 'no-op'
+        run: echo "Release ${XLB_RELEASE_SHA} is already deployed; no production action is required."
 
       - name: Validate and build immutable release candidate
         if: steps.handoff.outputs.disposition == 'deploy'
@@ -80,6 +98,7 @@ jobs:
         if: steps.handoff.outputs.disposition == 'deploy'
         env:
           XLB_SUPERVISED_REVIEW_OVERRIDE: ${{ github.event_name == 'workflow_dispatch' && inputs.allow_review_required_deploy || false }}
+          XLB_RELEASE_CLASSIFICATION: ${{ steps.classification.outputs.classification }}
         run: npm run automation:enforce-deploy-readiness
 
       - name: Configure AWS credentials
@@ -131,3 +150,32 @@ jobs:
           aws cloudfront create-invalidation \
             --distribution-id "${CLOUDFRONT_DISTRIBUTION_ID}" \
             --paths "/*"
+
+      - name: Record deployed exact SHA
+        if: steps.handoff.outputs.disposition == 'deploy'
+        env:
+          XLB_PRODUCTION_RELEASE_STATE_PATH: ${{ runner.temp }}/production-release-state/production-release.json
+        run: npm run automation:write-production-release-state
+
+      - name: Publish production release state
+        if: steps.handoff.outputs.disposition == 'deploy'
+        uses: actions/upload-artifact@v4
+        with:
+          name: production-release-${{ env.XLB_RELEASE_SHA }}
+          path: ${{ runner.temp }}/production-release-state/production-release.json
+          if-no-files-found: error
+          retention-days: 90
+
+      - name: Summarize deployed release
+        if: steps.handoff.outputs.disposition == 'deploy'
+        run: |
+          {
+            echo "## Final release outcome"
+            echo
+            echo "**DEPLOYED**"
+            echo
+            echo "- Base SHA: ${{ steps.classification.outputs.base_sha }}"
+            echo "- Release SHA: ${XLB_RELEASE_SHA}"
+            echo "- Classification: ${{ steps.classification.outputs.classification }}"
+            echo "- Changed paths: ${{ steps.classification.outputs.changed_file_count }}"
+          } >> "$GITHUB_STEP_SUMMARY"

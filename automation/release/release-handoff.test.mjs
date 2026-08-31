@@ -108,4 +108,5 @@ test("handoff maps shared policy decisions without weakening them", () => {
     "awaiting-approval",
   );
   assert.equal(handoffDisposition({ allowed: false, effectiveStatus: "blocked" }), "blocked");
+  assert.equal(handoffDisposition({ allowed: false, effectiveStatus: "no-op" }), "no-op");
 });

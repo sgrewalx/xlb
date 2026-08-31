@@ -69,11 +69,19 @@ test("deploy uses separate automatic and supervised exact-SHA handoffs", async (
   assert.doesNotMatch(workflow, /ref: \$\{\{ github\.sha \}\}/);
   assert.doesNotMatch(workflow, /github\.event\.workflow_run/);
   assert.match(workflow, /npm run automation:verify-release-sha/);
+  assert.match(workflow, /npm run automation:resolve-production-release/);
+  assert.match(workflow, /npm run automation:classify-release/);
   assert.match(workflow, /npm run automation:evaluate-release-handoff/);
   assert.match(workflow, /XLB_DEPLOY_READINESS_MAX_AGE_HOURS/);
+  assert.match(workflow, /XLB_RELEASE_CLASSIFICATION: \$\{\{ steps\.classification\.outputs\.classification \}\}/);
   assert.match(workflow, /npm run automation:enforce-deploy-readiness/);
+  assert.match(workflow, /permissions:\n\s+actions: read/);
   assert.match(workflow, /npm run release:build/);
   assert.match(workflow, /npm run verify:ga-build/);
+  assert.match(workflow, /production-release-\$\{\{ env\.XLB_RELEASE_SHA \}\}/);
+  assert.match(workflow, /npm run automation:write-production-release-state/);
+  assert.match(workflow, /\*\*DEPLOYED\*\*/);
+  assert.match(workflow, /Report no-op release/);
   assert.doesNotMatch(workflow, /automation:apply-opportunities/);
   assert.doesNotMatch(workflow, /automation:source-health/);
   assert.doesNotMatch(workflow, /automation:assess-live-risk/);
@@ -81,11 +89,16 @@ test("deploy uses separate automatic and supervised exact-SHA handoffs", async (
   assert.doesNotMatch(workflow, /ALLOW_SOFT_BETA_AUTO_DEPLOY/);
   ordered(workflow, [
     "- name: Verify and checkout exact release SHA",
+    "- name: Resolve previously deployed exact SHA",
+    "- name: Classify exact release range",
     "- name: Evaluate release handoff",
     "- name: Validate and build immutable release candidate",
     "- name: Enforce committed deploy readiness",
     "- name: Configure AWS credentials",
     "- name: Upload immutable assets",
+    "- name: Invalidate CloudFront",
+    "- name: Record deployed exact SHA",
+    "- name: Publish production release state",
   ]);
 });
 
