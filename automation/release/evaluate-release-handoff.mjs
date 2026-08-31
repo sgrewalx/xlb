@@ -5,6 +5,9 @@ import {
 } from "../governance/enforce-deploy-readiness.mjs";
 
 export function handoffDisposition(decision) {
+  if (decision.effectiveStatus === "no-op") {
+    return "no-op";
+  }
   if (decision.allowed) {
     return "deploy";
   }
@@ -18,9 +21,16 @@ async function main() {
   const decision = await evaluateCurrentDeploymentPolicy({
     trigger: process.env.GITHUB_EVENT_NAME,
     supervisedOverride: process.env.XLB_SUPERVISED_REVIEW_OVERRIDE === "true",
+    releaseClassification: process.env.XLB_RELEASE_CLASSIFICATION,
     maxAgeHours: parseMaxReadinessAgeHours(process.env.XLB_DEPLOY_READINESS_MAX_AGE_HOURS),
   });
   const disposition = handoffDisposition(decision);
+  const outcome = {
+    deploy: "DEPLOY ELIGIBLE",
+    "awaiting-approval": "AWAITING SUPERVISED APPROVAL",
+    blocked: "BLOCKED",
+    "no-op": "NO-OP",
+  }[disposition];
 
   console.log(`Release handoff: ${disposition} (${decision.reason})`);
   if (process.env.GITHUB_OUTPUT) {
@@ -29,7 +39,7 @@ async function main() {
   if (process.env.GITHUB_STEP_SUMMARY) {
     await appendFile(
       process.env.GITHUB_STEP_SUMMARY,
-      `## Release handoff\n\n- Disposition: **${disposition}**\n- Reason: ${decision.reason}\n`,
+      `## Release handoff\n\n- Outcome: **${outcome}**\n- Disposition: **${disposition}**\n- Classification: **${process.env.XLB_RELEASE_CLASSIFICATION || "missing"}**\n- Reason: ${decision.reason}\n`,
       "utf8",
     );
   }

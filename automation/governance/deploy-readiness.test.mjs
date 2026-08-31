@@ -29,6 +29,7 @@ function decide(report, overrides = {}) {
     report,
     evidence,
     trigger: "push",
+    releaseClassification: "content-only",
     now: NOW,
     ...overrides,
   });
@@ -122,30 +123,48 @@ test("fresh evidence-matched ready is allowed for repository_dispatch", () => {
   assert.equal(decision.effectiveStatus, "ready");
 });
 
-test("fresh evidence-matched review-required needs explicit workflow_dispatch override", () => {
+test("fresh evidence-matched review-required content is allowed automatically", () => {
   const reviewEvidence = { ...evidence, risk: { level: "medium", reasons: ["review"] } };
   const report = readinessReport({ risk: reviewEvidence.risk });
 
-  assert.equal(decide(report, { evidence: reviewEvidence }).allowed, false);
+  const decision = decide(report, {
+    evidence: reviewEvidence,
+    trigger: "repository_dispatch",
+  });
+  assert.equal(decision.allowed, true);
+  assert.equal(decision.effectiveStatus, "review-required");
+  assert.match(decision.reason, /content-only/);
+});
+
+test("review-required release needs explicit workflow_dispatch override", () => {
+  const reviewEvidence = { ...evidence, risk: { level: "medium", reasons: ["review"] } };
+  const report = readinessReport({ risk: reviewEvidence.risk });
+  const releaseClassification = "review-required";
+
+  assert.equal(decide(report, { evidence: reviewEvidence, releaseClassification }).allowed, false);
   assert.equal(decide(report, {
     evidence: reviewEvidence,
     trigger: "workflow_dispatch",
     supervisedOverride: false,
+    releaseClassification,
   }).allowed, false);
   assert.equal(decide(report, {
     evidence: reviewEvidence,
     trigger: "workflow_dispatch",
     supervisedOverride: true,
+    releaseClassification,
   }).allowed, true);
   assert.equal(decide(report, {
     evidence: reviewEvidence,
     trigger: "push",
     supervisedOverride: true,
+    releaseClassification,
   }).allowed, false);
   const automaticDecision = decide(report, {
     evidence: reviewEvidence,
     trigger: "repository_dispatch",
     supervisedOverride: true,
+    releaseClassification,
   });
   assert.equal(automaticDecision.allowed, false);
   assert.equal(automaticDecision.effectiveStatus, "review-required");
@@ -162,6 +181,35 @@ test("blocked readiness remains non-overridable", () => {
 
   assert.equal(decision.allowed, false);
   assert.equal(decision.effectiveStatus, "blocked");
+});
+
+test("blocked readiness remains non-overridable for content-only releases", () => {
+  const blockedEvidence = { ...evidence, risk: { level: "high", reasons: ["blocked"] } };
+  const report = readinessReport({ risk: blockedEvidence.risk });
+  const decision = decide(report, {
+    evidence: blockedEvidence,
+    trigger: "repository_dispatch",
+    releaseClassification: "content-only",
+  });
+
+  assert.equal(decision.allowed, false);
+  assert.equal(decision.effectiveStatus, "blocked");
+});
+
+test("ready governance does not auto-deploy a review-required release", () => {
+  const decision = decide(readinessReport(), {
+    trigger: "repository_dispatch",
+    releaseClassification: "review-required",
+  });
+
+  assert.equal(decision.allowed, false);
+  assert.equal(decision.effectiveStatus, "review-required");
+});
+
+test("no-op release does not deploy", () => {
+  const decision = decide(readinessReport(), { releaseClassification: "no-op" });
+  assert.equal(decision.allowed, false);
+  assert.equal(decision.effectiveStatus, "no-op");
 });
 
 test("missing timestamps and evidence bindings fail closed", () => {

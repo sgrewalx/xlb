@@ -42,6 +42,9 @@
     "automation:enforce-deploy-readiness": "node automation/governance/enforce-deploy-readiness.mjs",
     "automation:evaluate-release-handoff": "node automation/release/evaluate-release-handoff.mjs",
     "automation:verify-release-sha": "node automation/release/verify-release-sha.mjs",
+    "automation:classify-release": "node automation/release/classify-release.mjs",
+    "automation:resolve-production-release": "node automation/release/resolve-production-release.mjs",
+    "automation:write-production-release-state": "node automation/release/write-production-release-state.mjs",
     "automation:dispatch-release-handoff": "node automation/release/dispatch-release-handoff.mjs",
     "automation:content-candidate": "node automation/release/run-content-candidate.mjs",
     "release:build": "node automation/release/build-validated-candidate.mjs"
