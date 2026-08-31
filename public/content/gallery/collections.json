@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T09:06:25.740Z",
+  "updatedAt": "2026-08-31T09:34:45.421Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 159 earthquake events in the last 24 hours. Strongest reported event: M5.1 near South Sandwich Islands region.",
+          "summary": "USGS reported 175 earthquake events in the last 24 hours. Strongest reported event: M5.5 near 44 km NNE of Ruteng, Indonesia.",
           "metricLabel": "Updated",
-          "metricValue": "Aug 30, 09:06 AM",
+          "metricValue": "Aug 31, 09:34 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -80,7 +80,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",

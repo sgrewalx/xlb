@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T09:06:25.389Z",
+  "updatedAt": "2026-08-31T09:34:45.018Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-08-30T09:04:12.390Z",
-      "summary": "USGS reported 159 earthquake events in the last 24 hours. Strongest reported event: M5.1 near South Sandwich Islands region.",
+      "startsAt": "2026-08-31T09:26:28.502Z",
+      "summary": "USGS reported 175 earthquake events in the last 24 hours. Strongest reported event: M5.5 near 44 km NNE of Ruteng, Indonesia.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-30T09:06:25.389Z",
+      "updatedAt": "2026-08-31T09:34:45.018Z",
       "importance": 82,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-chintamani-ganpati-arrives-in-mumbai-as-devotees-909e156d92",
-        "video-watch-rfk-jr-outs-secretary-rubio-s-eating-habit-8c6403180e",
-        "video-modi-in-tashkent-watch-grand-welcome-pm-uzbekist-ecd05e4e71"
+        "video-nepal-floods-recovery-work-intensifies-in-devast-7a5b3d6a0f",
+        "video-cuba-s-joana-uranga-wins-miss-teen-international-b2db7abc42",
+        "video-43-year-old-indian-mother-shivani-mehrotra-scale-2e0cf039ca"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,25 +46,25 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-08-30T09:01:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-08-31T09:30:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
       "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 92,
+      "heroPriority": 98,
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-30T09:06:25.389Z",
-      "importance": 71,
+      "updatedAt": "2026-08-31T09:34:45.018Z",
+      "importance": 74,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-chintamani-ganpati-arrives-in-mumbai-as-devotees-909e156d92",
-        "video-watch-rfk-jr-outs-secretary-rubio-s-eating-habit-8c6403180e",
-        "video-modi-in-tashkent-watch-grand-welcome-pm-uzbekist-ecd05e4e71"
+        "video-up-floods-2026-weather-news-top-news-aaj-tak-6a98be87ec",
+        "video-nepal-floods-recovery-work-intensifies-in-devast-7a5b3d6a0f",
+        "video-cuba-s-joana-uranga-wins-miss-teen-international-b2db7abc42"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -95,7 +95,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-30T09:06:25.389Z",
+      "updatedAt": "2026-08-31T09:34:45.018Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -115,7 +115,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-30T09:06:25.103Z",
+      "startsAt": "2026-08-31T09:34:44.729Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -127,13 +127,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-30T09:06:25.389Z",
+      "updatedAt": "2026-08-31T09:34:45.018Z",
       "importance": 71,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-gaza-ceasefire-under-strain-as-israel-launches-f-a64dffd848",
-        "video-crews-recover-spacex-s-starship-from-indian-ocea-84e809828c",
-        "video-man-launches-homemade-flame-thrower-at-deputies-f5f82e5008"
+        "video-nasa-launches-the-roman-space-telescope-3f3bf7b38c"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -152,7 +150,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-30T09:06:25.103Z",
+      "startsAt": "2026-08-31T09:34:44.730Z",
       "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -164,12 +162,11 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-30T09:06:25.389Z",
+      "updatedAt": "2026-08-31T09:34:45.018Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [
-        "video-gaza-ceasefire-under-strain-as-israel-launches-f-a64dffd848",
-        "video-man-launches-homemade-flame-thrower-at-deputies-f5f82e5008"
+        "video-nasa-launches-the-roman-space-telescope-3f3bf7b38c"
       ],
       "relatedGameIds": [
         "headline-match",

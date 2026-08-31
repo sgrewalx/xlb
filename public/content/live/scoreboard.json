@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-30T09:06:25.634Z",
-  "sourceSnapshot": "2026-08-30T06:00:00.000Z",
+  "updatedAt": "2026-08-31T09:34:45.291Z",
+  "sourceSnapshot": "2026-08-31T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -10,8 +10,8 @@
       "scoringMode": "cold-start",
       "coldStartScore": 97,
       "heuristicScore": 87,
-      "observedScore": 88,
-      "pageviews": 4,
+      "observedScore": 87,
+      "pageviews": 2,
       "watchClicks": 0,
       "engagementScore": 72,
       "searchImpressions": 0,
@@ -40,7 +40,7 @@
       "sourceStability": "stable",
       "recencyBand": "continuous",
       "recommendation": "expand",
-      "notes": "cold-start scoring active; priority 92, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
+      "notes": "cold-start scoring active; priority 98, rights public-information, cadence continuous, intent monitor-live, status monitoring, coverage link, safe to promote; heuristics continuous monitoring, source stable, space-weather diversification. Promoted event without a dedicated analytics note yet."
     },
     {
       "slug": "nasa-live-programming",
