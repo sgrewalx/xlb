@@ -1,19 +1,33 @@
 {
-  "updatedAt": "2026-08-30T21:43:26.342Z",
+  "updatedAt": "2026-08-31T00:01:40.146Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-how-to-improve-your-audio-quality-on-android-aut-3d9f8f6c9b",
-      "title": "How to improve your audio quality on Android Auto",
+      "id": "tech-how-to-improve-your-audio-quality-on-apple-carpl-b69cb21352",
+      "title": "How to improve your audio quality on Apple CarPlay",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality",
+      "url": "https://www.engadget.com/2246402/improve-audio-quality-apple-carplay",
       "tag": "Technology",
-      "publishedAt": "2026-08-30T20:00:00.000Z",
-      "summary": "If the sound you're getting through Android Auto is disappointing, there are several components and settings you should check.",
+      "publishedAt": "2026-08-30T23:00:00.000Z",
+      "summary": "Apple CarPlay can sound great, but you have to make sure you're sending it high-quality audio. A few quick checks can boost your audio enjoyment on the road.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-audio-quality-on-android-auto/l-intro-1787849019.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-audio-quality-on-apple-carplay/l-intro-1787324051.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality"
+      "imageSourceUrl": "https://www.engadget.com/2246402/improve-audio-quality-apple-carplay"
+    },
+    {
+      "id": "tech-a-12tb-steam-teraleak-spills-more-than-a-decade--611345b53d",
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history",
+      "tag": "Technology",
+      "publishedAt": "2026-08-30T21:40:56.000Z",
+      "summary": "Cut content from Portal 2 , hints of Half Life 2: Episode 3 , and so much more.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
+      "imageCredit": "Valve / HL_Alyx_NoVR",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history"
     },
     {
       "id": "tech-professor-murder-rides-the-subway-is-a-forgotten-9528e178b1",
@@ -26,18 +40,14 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-it-matters-that-president-trump-just-dialed--572893d9a7",
-      "title": "Why it matters that President Trump just dialed into a NASA news conference",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference",
+      "id": "tech-liux-s-big-microcar-bets-on-sustainability-to-ta-9c176738d0",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals",
       "tag": "Technology",
-      "publishedAt": "2026-08-30T17:40:30.000Z",
-      "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg",
-      "imageCredit": "NASA/John Kraus",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference"
+      "publishedAt": "2026-08-30T18:33:44.000Z",
+      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-google-maps-now-shows-lake-america-instead-of-la-3268f3fdb5",
@@ -51,16 +61,6 @@
       "image": "https://media.wired.com/photos/6a9455859666495a32b503b6/master/pass/Screenshot%202026-08-30%20at%2011.06.40%E2%80%AFAM.png",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario"
-    },
-    {
-      "id": "tech-liux-s-big-microcar-bets-on-sustainability-to-ta-9c176738d0",
-      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals",
-      "tag": "Technology",
-      "publishedAt": "2026-08-30T18:33:44.000Z",
-      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-i-ve-been-to-gamescom-six-times-here-s-what-exci-19d3783c3a",
@@ -109,43 +109,43 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/google-rolls-out-gemini-ai-feature-to-help-readers-analyse-their-e-books/article71404063.ece"
     },
     {
-      "id": "tech-a-decade-s-worth-of-steam-files-totaling-more-th-e6f0d792be",
-      "title": "A decade's worth of Steam files totaling more than 12TB has leaked",
+      "id": "tech-how-to-soft-and-hard-reset-your-iphone-a06d61d163",
+      "title": "How to soft and hard reset your iPhone",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2247128/a-decade-worth-of-steam-files-totaling-more-than-12tb-leaked",
+      "url": "https://www.engadget.com/2242787/how-to-soft-hard-reset-iphone",
       "tag": "Technology",
-      "publishedAt": "2026-08-30T19:16:13.000Z",
-      "summary": "The leak contains beta builds and finished games from Valve and third-party developers.",
+      "publishedAt": "2026-08-30T22:30:00.000Z",
+      "summary": "Is your iPhone acting up? Let's walk through the different kinds of resets, what they do and how to perform them.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/a-decades-worth-of-steam-files-totaling-more-than-12tb-has-leaked/l-intro-1788115795.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-soft-and-hard-reset-your-iphone/l-intro-1785432528.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2247128/a-decade-worth-of-steam-files-totaling-more-than-12tb-leaked"
+      "imageSourceUrl": "https://www.engadget.com/2242787/how-to-soft-hard-reset-iphone"
     },
     {
-      "id": "tech-how-to-adjust-the-audio-settings-for-your-airpod-98c0f5676e",
-      "title": "How to adjust the audio settings for your AirPods (and why you should)",
+      "id": "tech-getting-an-iphone-unavailable-message-here-s-how-d80110b5a5",
+      "title": "Getting an 'iPhone Unavailable' message? Here's how to fix it",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2242791/how-to-adjust-audio-settings-on-airpods",
+      "url": "https://www.engadget.com/2242786/iphone-unavailable-message-how-to-fix",
       "tag": "Technology",
-      "publishedAt": "2026-08-30T18:30:00.000Z",
-      "summary": "If you want to enhance the sound of your AirPods even further, we've got you. Let's dig into some settings that will level up your listening experience.",
+      "publishedAt": "2026-08-30T22:00:00.000Z",
+      "summary": "If you're having trouble getting into your iPhone, you'll need your old passcode or Apple Account password.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/how-to-adjust-the-audio-settings-for-your-airpods-and-why-you-should/l-intro-1787150345.jpg",
+      "image": "https://www.engadget.com/img/gallery/getting-an-iphone-unavailable-message-heres-how-to-fix-it/l-intro-1785417432.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2242791/how-to-adjust-audio-settings-on-airpods"
+      "imageSourceUrl": "https://www.engadget.com/2242786/iphone-unavailable-message-how-to-fix"
     },
     {
-      "id": "tech-nasa-s-nancy-grace-roman-space-telescope-is-now--19a33a6647",
-      "title": "NASA's Nancy Grace Roman Space Telescope is now on its way to study the 'dark universe'",
+      "id": "tech-how-to-improve-your-audio-quality-on-android-aut-3d9f8f6c9b",
+      "title": "How to improve your audio quality on Android Auto",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2247120/nasa-nancy-grace-roman-space-telescope-launches-to-study-dark-universe",
+      "url": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality",
       "tag": "Technology",
-      "publishedAt": "2026-08-30T18:25:11.000Z",
-      "summary": "Its first images are expected to arrive in early 2027.",
+      "publishedAt": "2026-08-30T20:00:00.000Z",
+      "summary": "If the sound you're getting through Android Auto is disappointing, there are several components and settings you should check.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/nasas-nancy-grace-roman-space-telescope-is-now-on-its-way-to-study-the-dark-universe/l-intro-1788113799.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-audio-quality-on-android-auto/l-intro-1787849019.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2247120/nasa-nancy-grace-roman-space-telescope-launches-to-study-dark-universe"
+      "imageSourceUrl": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality"
     }
   ]
 }
