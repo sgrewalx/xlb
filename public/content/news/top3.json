@@ -1,27 +1,28 @@
 {
-  "updatedAt": "2026-08-30T21:45:40.754Z",
+  "updatedAt": "2026-08-31T00:04:48.902Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-pm-modi-likely-to-hold-bilateral-talks-with-iran-7cb08b0e48",
-      "title": "PM Modi likely to hold bilateral talks with Iranian president",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/pm-modi-likely-to-hold-bilateral-talks-with-iranian-president/articleshow/133636865.cms",
-      "tag": "India",
-      "publishedAt": "2026-08-30T21:16:23.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-australia-news-live-labor-working-on-release-of--299997ee85",
+      "title": "Australia news live: Labor working on release of Oscar Jenkins in Russia; record low snowfall in NSW as winter ends",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-08-30T23:53:56.000Z",
+      "summary": "Snowy Hydro data shows 2026 officially the worst end to a season since records began in 1954. Follow the day’s news live Get our breaking news email , free app or daily news pod...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-133636875,imgsize-81078.cms",
+      "image": "https://i.guim.co.uk/img/media/627103bc26cc1e5b09fca760679967d5274a6a73/330_0_1254_1003/master/1254.jpg?width=460&quality=85&auto=format&fit=max&s=4121b61b4344204e9e61841159856bb4",
+      "imageCredit": "Photograph: Chan Han Choi | YouTube",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-likely-to-hold-bilateral-talks-with-iranian-president/articleshow/133636865.cms"
+      "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb"
     },
     {
-      "id": "news-us-strikes-iranian-launchers-on-larak-island-in--f733f1030c",
+      "id": "news-us-strikes-iranian-launchers-on-larak-island-in--799698bb63",
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-08-30T21:15:42.000Z",
+      "publishedAt": "2026-08-30T23:53:03.000Z",
       "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
@@ -29,18 +30,19 @@
       "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-nepal-turns-to-mass-burials-as-thousands-remain--d4584f7a41",
-      "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+      "id": "news-see-nepali-rescue-workers-testing-aid-delivery-b-34ea0e0846",
+      "title": "See Nepali Rescue Workers Testing Aid Delivery by Drone",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+      "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html",
       "tag": "US",
-      "publishedAt": "2026-08-30T21:11:57.000Z",
-      "summary": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.",
+      "publishedAt": "2026-08-30T23:29:13.000Z",
+      "summary": "Some survivors of the deadly flood and landslide have no access to food. Officials and volunteers are testing how drones can help.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30-INT-NEPAL-BODIES-fbtp/30-INT-NEPAL-BODIES-fbtp-mediumSquareAt3X.jpg",
-      "imageAlt": "Officers at a mass burial of unidentified victims in the Devghat forest area of Bharatpur, Nepal, on Sunday. The downstream city has received over 270 sets of remains of flood victims.",
+      "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30int-nepal-relief-tmhf/30int-nepal-relief-tmhf-mediumSquareAt3X.jpg",
+      "imageAlt": "Volunteers and police officers packing relief supplies for delivery by drone in Devighat, Nepal, on Saturday.",
+      "imageCredit": "Atul Loke For The New York Times",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+      "imageSourceUrl": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html"
     }
   ]
 }
