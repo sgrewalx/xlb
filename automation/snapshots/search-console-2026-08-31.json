@@ -1,0 +1,93 @@
+{
+  "capturedAt": "2026-08-31T06:00:00.000Z",
+  "window": {
+    "start": "2026-08-02T00:00:00.000Z",
+    "end": "2026-08-30T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": true,
+    "ga4": false,
+    "adsense": false
+  },
+  "pages": [
+    {
+      "path": "/",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 31,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/advertise",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 7,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/contact",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 6.5,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/events/nasa-s-spacex-crs-35",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 7,
+      "searchCtr": 0,
+      "avgPosition": 9.571428571428571,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 2,
+      "searchCtr": 0,
+      "avgPosition": 8.5,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    },
+    {
+      "path": "/tech",
+      "pageviews": 0,
+      "visits": 0,
+      "searchImpressions": 4,
+      "searchCtr": 0,
+      "avgPosition": 7.5,
+      "watchClicks": 0,
+      "revenueUsd": 0,
+      "engagementScore": 0,
+      "decision": "review",
+      "notes": "Imported from the Search Console API."
+    }
+  ]
+}
