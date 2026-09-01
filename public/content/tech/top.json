@@ -1,19 +1,86 @@
 {
-  "updatedAt": "2026-09-01T10:45:51.643Z",
+  "updatedAt": "2026-09-01T15:18:30.377Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-3-best-sleep-tracker-picks-for-optimizing-your-s-7a7d6e109d",
-      "title": "3 Best Sleep Tracker Picks for Optimizing Your Sleep (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/best-sleep-trackers",
-      "tag": "Running",
-      "publishedAt": "2026-09-01T10:39:00.000Z",
-      "summary": "I tested the top sleep wearables for every type of sleeper, including devices from Oura, Google Fitbit, and Eight Sleep.",
+      "id": "tech-perplexity-s-hybrid-compute-splits-sensitive-tas-7d6c29a99c",
+      "title": "Perplexity's Hybrid Compute splits sensitive tasks between cloud and local AI",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T15:00:00.000Z",
+      "summary": "Perplexity's Hybrid Compute lets you split tasks between cloud and local models.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a95dc99b078e1ba9508d4d3/master/pass/The-Best-Sleep-Trackers-for-an-Optimal-Slumber.jpg",
+      "image": "https://www.engadget.com/img/gallery/perplexitys-hybrid-compute-lets-you-split-tasks-between-cloud-and-local-models/l-intro-1788274229.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/best-sleep-trackers"
+      "imageSourceUrl": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai"
+    },
+    {
+      "id": "tech-sonos-ace-ultra-beam-ultra-sonos-fabric-and-a-ne-40a5dc0552",
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T14:40:00.000Z",
+      "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app"
+    },
+    {
+      "id": "tech-fambot-introduces-an-ai-chief-of-staff-for-famil-f3307d5b1d",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T15:10:58.000Z",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-odisha-s-lok-bhavan-becomes-india-s-first-platin-d1c6e598a5",
+      "title": "Odisha's Lok Bhavan becomes India's first Platinum certified green Lok Bhavan",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/08/lok-bhavan-igbc-platinum-green-campus-odisha",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T14:08:15.000Z",
+      "summary": "Odisha's Lok Bhavan scores 88/100 to become India's first Platinum certified green campus under IGBC's stricter 2024 system.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-sonos-introduces-new-headphones-soundbar-and-sof-cb18d4e062",
+      "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T14:00:00.000Z",
+      "summary": "At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-whatsapp-reportedly-rolling-out-ai-content-label-1be99b0735",
+      "title": "WhatsApp Reportedly Rolling Out AI Content Label for Channels on iOS",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/ai/news/whatsapp-ios-ai-content-label-for-channels-roll-out-report-11987631",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T13:34:14.000Z",
+      "summary": "WhatsApp is testing an AI content label for channel updates on iOS, allowing admins to disclose media created or edited using artificial intelligence. The feature is available t...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-without-new-landers-or-rovers-it-s-helicopters-o-538138fbab",
+      "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T11:00:35.000Z",
+      "summary": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/photo-2-1152x648.jpg",
+      "imageCredit": "AeroVironment",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program"
     },
     {
       "id": "tech-ai-could-cause-global-economic-downturn-andrew-b-253b238aec",
@@ -29,19 +96,6 @@
       "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-dyson-s-camerajet-is-a-500-three-in-one-toothbru-ac0d17b32a",
-      "title": "Dyson's CameraJet is a $500 three-in-one toothbrush that scans your maw",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2248230/dyson-camerajet-is-a-500-three-in-one-toothbrush-that-scans-your-maw",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T09:30:00.000Z",
-      "summary": "For its latest trick, Dyson is coming for your mouth. The CameraJet is a $500 three-in-one toothbrush that can automatically waterfloss and rinse for you.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/dysons-camerajet-is-a-500-three-in-one-toothbrush-that-scans-your-maw/l-intro-1788217372.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2248230/dyson-camerajet-is-a-500-three-in-one-toothbrush-that-scans-your-maw"
-    },
-    {
       "id": "tech-u-s-regulator-22-states-accuse-amazon-of-manipul-c1340ce0b0",
       "title": "U.S. regulator, 22 states accuse Amazon of 'manipulating' ad auctions in lawsuit",
       "source": "The Hindu Technology",
@@ -55,94 +109,43 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/us-regulator-22-states-accuse-amazon-of-manipulating-ad-auctions-in-lawsuit/article71413506.ece"
     },
     {
-      "id": "tech-xiaomi-18-fold-with-xring-o3-chip-allegedly-surf-8f93687857",
-      "title": "Xiaomi 18 Fold With Xring O3 Chip Allegedly Surfaces on Geekbench Ahead of Launch",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/xiaomi-18-fold-geekbench-listing-specifications-leak-11986630",
+      "id": "tech-sonos-ace-ultra-headphones-can-swap-audio-with-a-47f676a3bf",
+      "title": "Sonos' Ace Ultra headphones can swap audio with any Sonos speaker",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248071/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T10:26:10.000Z",
-      "summary": "Xiaomi 18 Fold reportedly surfaced on the Geekbench AI website with model number 2608BPX34C. It got a single-precision score of 629 points and a half-precision score of 799 poin...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tp-link-s-first-wi-fi-8-router-is-almost-here-1f5c01bad2",
-      "title": "TP-Link’s first Wi-Fi 8 router is almost here",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T10:18:36.000Z",
-      "summary": "The Wi-Fi 8 standard is far from finalized, but TP-Link is almost ready to release its first hardware targeting the next-gen spec. It unveiled the Archer 8 Ultra tri-band router...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-if-space-data-centers-feel-far-fetched-why-not-i-25ebc76af1",
-      "title": "If space data centers feel far-fetched, why not interstellar travel?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T10:00:00.000Z",
-      "summary": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-unacademy-upgrad-deal-began-with-an-audacious-pi-abc11fcf4d",
-      "title": "Unacademy-upGrad deal began with an audacious pitch in 2020, says Screwvala",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/unacademy-upgrad-deal-began-with-audacious-pitch-in-2020-says-screwvala",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T09:41:33.000Z",
-      "summary": "Over lunch at Taj Lands End in Mumbai in 2020, Gaurav Munjal approached Ronnie Screwvala and Mayank Kumar about bringing Unacademy and upGrad together. His idea went further tha...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-bentley-supersports-a-stripped-out-engineer--fe6e7a7ed2",
-      "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence",
-      "tag": "Technology",
-      "publishedAt": "2026-08-31T23:01:16.000Z",
-      "summary": "It's the lightest Bentley in 85 years.",
+      "publishedAt": "2026-09-01T14:40:00.000Z",
+      "summary": "The upgraded headphones also feature improved ANC and longer battery life.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
-      "imageCredit": "Bentley",
+      "image": "https://www.engadget.com/img/gallery/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker/l-intro-1788207486.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence"
+      "imageSourceUrl": "https://www.engadget.com/2248071/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker"
     },
     {
-      "id": "tech-dyson-s-next-act-is-an-electric-toothbrush-with--9d829c86c3",
-      "title": "Dyson’s Next Act Is an Electric Toothbrush With a Camera",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser",
+      "id": "tech-sonos-27-brings-a-refreshed-ui-to-the-app-and-le-90d9a2ba6d",
+      "title": "'Sonos 27' brings a refreshed UI to the app and lets AI agents control your system",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T09:30:00.000Z",
-      "summary": "The company known for stick vacuums and hair dryers is coming for your teeth. The $499 Dyson CameraJet uses a tiny camera to aim streams of rinsing fluid into the gaps between y...",
+      "publishedAt": "2026-09-01T14:40:00.000Z",
+      "summary": "Sonos is embracing AI in its next major software update.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a9163be72895b5a248bbc80/master/pass/OC01_PPIDROSSVL_084-CMYK-InSitu-Sink-Tap-A2_MIX.jpeg",
+      "image": "https://www.engadget.com/img/gallery/sonos-will-soon-let-ai-assistants-control-your-system/l-intro-1788221155.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser"
+      "imageSourceUrl": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system"
     },
     {
-      "id": "tech-instagram-takes-aim-at-ai-generated-profiles-lim-0d68650606",
-      "title": "Instagram takes aim at AI-generated profiles, limits reach of unlabelled accounts",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/instagram-takes-aim-at-ai-generated-profiles-limits-reach-of-unlabelled-accounts/article71414285.ece",
+      "id": "tech-sonos-unveils-new-beam-ultra-soundbar-with-true--12aea6ecf4",
+      "title": "Sonos unveils new Beam Ultra soundbar with 'true 7.1.2 Dolby Atmos'",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248155/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T08:40:01.000Z",
-      "summary": "The company observed that users didn’t like seeing profiles that seemed human, only to find out later that the person featured was AI-generated",
+      "publishedAt": "2026-09-01T14:40:00.000Z",
+      "summary": "The refreshed model with better surround sound will cost $699.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/sci-tech/technology/vkubbn/article71414301.ece/alternates/LANDSCAPE_1200/2026-05-04T160931Z_2019578322_RC2VPGAWE2P2_RTRMADP_3_META-LAWSUIT-NEW-MEXICO-TRIAL.jpg",
+      "image": "https://www.engadget.com/img/gallery/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos/l-intro-1788210919.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/instagram-takes-aim-at-ai-generated-profiles-limits-reach-of-unlabelled-accounts/article71414285.ece"
-    },
-    {
-      "id": "tech-samsung-galaxy-s27-series-may-get-scam-detection-d03ea07026",
-      "title": "Samsung Galaxy S27 Series May Get Scam Detection Alongside Galaxy S25 Series, and Older Flagships",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-series-could-get-scam-detection-feature-11986628",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T10:24:26.000Z",
-      "summary": "Samsung could bring its Scam Detection feature to the Galaxy S27 series, Galaxy S25 lineup and several recent foldable phones. References discovered in One UI 9 Beta 7 include m...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "imageSourceUrl": "https://www.engadget.com/2248155/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos"
     }
   ]
 }
