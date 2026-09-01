@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-09-01T21:38:13.278Z",
+  "updatedAt": "2026-09-01T23:40:28.128Z",
   "items": [
     {
-      "id": "tech-tech-life-0b35574a53",
-      "title": "Tech Life",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T20:10:00.000Z",
-      "summary": "AI can only communicate in languages that it's been trained on.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7f0yz.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "tech-openai-is-about-to-release-its-first-ai-model-wi-b3368781dc",
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T20:00:00.000Z",
-      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/master/pass/OpenAI-AI-Safety-Business.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
-    },
-    {
-      "id": "tech-are-expensive-hdmi-cables-worth-it-54acd19d71",
-      "title": "Are expensive HDMI cables worth it?",
+      "id": "tech-are-all-tvs-at-risk-from-burn-in-here-s-how-to-a-10c519aaf0",
+      "title": "Are all TVs at risk from burn-in? Here's how to avoid the problem altogether",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying",
+      "url": "https://www.engadget.com/2246417/tvs-at-risk-of-burn-in",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T20:00:00.000Z",
-      "summary": "You need the right HDMI cable for your setup, but that doesn't mean it has to cost $100. Here's when to spend a bit more and when a cheap cable will do.",
+      "publishedAt": "2026-09-01T23:30:00.000Z",
+      "summary": "OLED screens run the biggest risk of burn-in, but with a little common sense you can mitigate the issue.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/are-expensive-hdmi-cables-worth-it/l-intro-1787591889.jpg",
+      "image": "https://www.engadget.com/img/gallery/are-all-tvs-at-risk-from-burn-in-heres-how-to-avoid-the-problem-altogether/l-intro-1787593136.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying"
+      "imageSourceUrl": "https://www.engadget.com/2246417/tvs-at-risk-of-burn-in"
+    },
+    {
+      "id": "tech-will-self-flying-planes-transform-the-skies-00e99940f9",
+      "title": "Will self-flying planes transform the skies?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T23:27:35.000Z",
+      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-the-range-rover-electric-specs-price-availabilit-1d0bb7f438",
+      "title": "The Range Rover Electric: Specs, Price, Availability",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T23:01:00.000Z",
+      "summary": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper mo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived"
     }
   ]
 }
