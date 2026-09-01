@@ -1,19 +1,65 @@
 {
-  "updatedAt": "2026-09-01T18:59:36.708Z",
+  "updatedAt": "2026-09-01T21:38:13.278Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-the-tv-vs-projector-value-debate-isn-t-close-her-669d118a3f",
-      "title": "The TV vs projector value debate isn't close — here's why",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2244158/why-projector-better-than-tv",
+      "id": "tech-tech-life-0b35574a53",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T18:30:00.000Z",
-      "summary": "If you want the largest image for the least amount of money, a projector is the only choice.",
+      "publishedAt": "2026-09-01T20:10:00.000Z",
+      "summary": "AI can only communicate in languages that it's been trained on.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/the-tv-vs-projector-value-debate-isnt-close-heres-why/l-intro-1787690468.jpg",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7f0yz.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2244158/why-projector-better-than-tv"
+      "imageSourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-openai-is-about-to-release-its-first-ai-model-wi-b3368781dc",
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T20:00:00.000Z",
+      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/master/pass/OpenAI-AI-Safety-Business.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
+    },
+    {
+      "id": "tech-are-expensive-hdmi-cables-worth-it-54acd19d71",
+      "title": "Are expensive HDMI cables worth it?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T20:00:00.000Z",
+      "summary": "You need the right HDMI cable for your setup, but that doesn't mean it has to cost $100. Here's when to spend a bit more and when a cheap cable will do.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/are-expensive-hdmi-cables-worth-it/l-intro-1787591889.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying"
+    },
+    {
+      "id": "tech-apple-maps-follows-google-in-renaming-lake-ontar-409f7ffecb",
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T21:22:56.000Z",
+      "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-open-ai-s-astra-model-is-on-the-way-and-very-goo-418bf94f98",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T21:06:24.000Z",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-cdc-reported-then-deleted-two-measles-deaths-tha-b812689a27",
@@ -30,37 +76,17 @@
       "imageSourceUrl": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr"
     },
     {
-      "id": "tech-john-ternus-sends-first-memo-as-apple-ceo-teasin-0d2c8c3d6f",
-      "title": "John Ternus sends first memo as Apple CEO teasing a ‘huge launch next week’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+      "id": "tech-u-s-regulator-22-states-accuse-amazon-of-manipul-c1340ce0b0",
+      "title": "U.S. regulator, 22 states accuse Amazon of 'manipulating' ad auctions in lawsuit",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/us-regulator-22-states-accuse-amazon-of-manipulating-ad-auctions-in-lawsuit/article71413506.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T18:24:16.000Z",
-      "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a h...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-who-is-john-ternus-the-new-apple-ceo-1b036adfa6",
-      "title": "Who is John Ternus, the new Apple CEO?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T18:02:00.000Z",
-      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, wh...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-sonos-ace-ultra-beam-ultra-sonos-fabric-and-a-ne-40a5dc0552",
-      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T14:40:00.000Z",
-      "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+      "publishedAt": "2026-09-01T08:52:33.000Z",
+      "summary": "California Attorney General Rob Bonta told reporters on Monday that Amazon \"has rigged billions of ad auctions.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG",
+      "image": "https://th-i.thgim.com/public/incoming/kvt15g/article71413526.ece/alternates/LANDSCAPE_1200/2026-08-31T195131Z_460381535_RC2O3LAI4RU3_RTRMADP_3_AMAZON-COM-FTC.JPG",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app"
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/us-regulator-22-states-accuse-amazon-of-manipulating-ad-auctions-in-lawsuit/article71413506.ece"
     },
     {
       "id": "tech-odisha-s-lok-bhavan-becomes-india-s-first-platin-d1c6e598a5",
@@ -83,70 +109,40 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-ai-could-cause-global-economic-downturn-andrew-b-253b238aec",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-the-diamond-moon-and-other-astronomical-events-t-faa897be5a",
+      "title": "The Diamond Moon and Other Astronomical Events to See in September 2026",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T10:18:47.000Z",
-      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "publishedAt": "2026-09-01T20:00:00.000Z",
+      "summary": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+      "image": "https://media.wired.com/photos/6a970ab972949d665b63334c/master/pass/474745466",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026"
     },
     {
-      "id": "tech-u-s-regulator-22-states-accuse-amazon-of-manipul-c1340ce0b0",
-      "title": "U.S. regulator, 22 states accuse Amazon of 'manipulating' ad auctions in lawsuit",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/us-regulator-22-states-accuse-amazon-of-manipulating-ad-auctions-in-lawsuit/article71413506.ece",
+      "id": "tech-best-amazon-labor-day-deals-2026-sony-shark-anke-8f8ad3da85",
+      "title": "Best Amazon Labor Day Deals (2026): Sony, Shark, Anker",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/amazon-labor-day-deals-2026",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T08:52:33.000Z",
-      "summary": "California Attorney General Rob Bonta told reporters on Monday that Amazon \"has rigged billions of ad auctions.\"",
+      "publishedAt": "2026-09-01T19:45:30.000Z",
+      "summary": "These are the 15 best Amazon Labor Day deals on WIRED-tested, WIRED-recommended products in 2026.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/incoming/kvt15g/article71413526.ece/alternates/LANDSCAPE_1200/2026-08-31T195131Z_460381535_RC2O3LAI4RU3_RTRMADP_3_AMAZON-COM-FTC.JPG",
+      "image": "https://media.wired.com/photos/6a9714bfd0250ac0c127b69e/master/pass/WIRED%E2%80%99s-Top-Picks-and-Deals-for-the-Amazon-Labor-Day-Sale-(2026).jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/us-regulator-22-states-accuse-amazon-of-manipulating-ad-auctions-in-lawsuit/article71413506.ece"
+      "imageSourceUrl": "https://www.wired.com/story/amazon-labor-day-deals-2026"
     },
     {
-      "id": "tech-new-android-drop-adds-remembered-items-in-find-h-f232ab5a59",
-      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages",
+      "id": "tech-lenovo-s-2-in-1-yoga-7i-is-a-great-labor-day-dea-4bce188dd9",
+      "title": "Lenovo’s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T18:00:02.000Z",
-      "summary": "New features are rolling out across the Android ecosystem starting today.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-      "imageCredit": "Ryan Whitwam",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages"
-    },
-    {
-      "id": "tech-should-you-remove-the-film-from-your-carplay-inf-c020f2efee",
-      "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T18:00:00.000Z",
-      "summary": "Double-check before you accidentally remove a protective layer of your screen.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/should-you-remove-the-film-from-your-carplay-infotainment-screen-it-depends/l-intro-1785858518.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film"
-    },
-    {
-      "id": "tech-a-new-android-find-hub-feature-will-help-you-rem-62364e22e9",
-      "title": "A new Android Find Hub feature will help you remember where you put important things",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T18:00:00.000Z",
-      "summary": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/a-new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/l-intro-1788124421.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things"
+      "publishedAt": "2026-09-01T20:54:08.000Z",
+      "summary": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }

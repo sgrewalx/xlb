@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-09-01T18:59:36.708Z",
+  "updatedAt": "2026-09-01T21:38:13.278Z",
   "items": [
     {
-      "id": "tech-the-tv-vs-projector-value-debate-isn-t-close-her-669d118a3f",
-      "title": "The TV vs projector value debate isn't close — here's why",
+      "id": "tech-tech-life-0b35574a53",
+      "title": "Tech Life",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T20:10:00.000Z",
+      "summary": "AI can only communicate in languages that it's been trained on.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7f0yz.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-openai-is-about-to-release-its-first-ai-model-wi-b3368781dc",
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T20:00:00.000Z",
+      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/master/pass/OpenAI-AI-Safety-Business.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities"
+    },
+    {
+      "id": "tech-are-expensive-hdmi-cables-worth-it-54acd19d71",
+      "title": "Are expensive HDMI cables worth it?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2244158/why-projector-better-than-tv",
+      "url": "https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T18:30:00.000Z",
-      "summary": "If you want the largest image for the least amount of money, a projector is the only choice.",
+      "publishedAt": "2026-09-01T20:00:00.000Z",
+      "summary": "You need the right HDMI cable for your setup, but that doesn't mean it has to cost $100. Here's when to spend a bit more and when a cheap cable will do.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/the-tv-vs-projector-value-debate-isnt-close-heres-why/l-intro-1787690468.jpg",
+      "image": "https://www.engadget.com/img/gallery/are-expensive-hdmi-cables-worth-it/l-intro-1787591889.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2244158/why-projector-better-than-tv"
-    },
-    {
-      "id": "tech-cdc-reported-then-deleted-two-measles-deaths-tha-b812689a27",
-      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T18:21:16.000Z",
-      "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
-      "imageCredit": "Bloomberg | Getty Images",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr"
-    },
-    {
-      "id": "tech-john-ternus-sends-first-memo-as-apple-ceo-teasin-0d2c8c3d6f",
-      "title": "John Ternus sends first memo as Apple CEO teasing a ‘huge launch next week’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T18:24:16.000Z",
-      "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a h...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "imageSourceUrl": "https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying"
     }
   ]
 }
