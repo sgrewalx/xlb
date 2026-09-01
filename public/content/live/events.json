@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:34:45.018Z",
+  "updatedAt": "2026-09-01T08:30:48.092Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-08-31T09:26:28.502Z",
-      "summary": "USGS reported 175 earthquake events in the last 24 hours. Strongest reported event: M5.5 near 44 km NNE of Ruteng, Indonesia.",
+      "startsAt": "2026-09-01T08:21:31.713Z",
+      "summary": "USGS reported 181 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 89 km SSW of Nikolski, Alaska.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-31T09:34:45.018Z",
-      "importance": 82,
+      "updatedAt": "2026-09-01T08:30:48.092Z",
+      "importance": 81,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-nepal-floods-recovery-work-intensifies-in-devast-7a5b3d6a0f",
-        "video-cuba-s-joana-uranga-wins-miss-teen-international-b2db7abc42",
-        "video-43-year-old-indian-mother-shivani-mehrotra-scale-2e0cf039ca"
+        "video-watch-live-closing-statements-begin-in-tupac-sha-971a877902"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,25 +44,24 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-08-31T09:30:00.000Z",
-      "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.",
+      "startsAt": "2026-09-01T08:27:00.000Z",
+      "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
       "sourceUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
       "watchUrl": "https://www.swpc.noaa.gov/products/planetary-k-index",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 98,
+      "heroPriority": 92,
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-08-31T09:34:45.018Z",
-      "importance": 74,
+      "updatedAt": "2026-09-01T08:30:48.092Z",
+      "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-up-floods-2026-weather-news-top-news-aaj-tak-6a98be87ec",
-        "video-nepal-floods-recovery-work-intensifies-in-devast-7a5b3d6a0f",
-        "video-cuba-s-joana-uranga-wins-miss-teen-international-b2db7abc42"
+        "video-watch-live-closing-statements-begin-in-tupac-sha-971a877902",
+        "video-who-is-being-blocked-from-early-release-and-how--c54f15e155"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -95,7 +92,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-31T09:34:45.018Z",
+      "updatedAt": "2026-09-01T08:30:48.092Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -115,7 +112,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-31T09:34:44.729Z",
+      "startsAt": "2026-09-01T08:30:47.864Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -127,12 +124,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-31T09:34:45.018Z",
+      "updatedAt": "2026-09-01T08:30:48.092Z",
       "importance": 71,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-nasa-launches-the-roman-space-telescope-3f3bf7b38c"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -150,7 +145,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-08-31T09:34:44.730Z",
+      "startsAt": "2026-09-01T08:30:47.864Z",
       "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -162,12 +157,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-08-31T09:34:45.018Z",
+      "updatedAt": "2026-09-01T08:30:48.092Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-nasa-launches-the-roman-space-telescope-3f3bf7b38c"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",

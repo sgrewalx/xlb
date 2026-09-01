@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-31T09:34:45.421Z",
-  "snapshotFile": "merged-2026-08-31.json",
-  "capturedAt": "2026-08-31T06:00:00.000Z",
+  "updatedAt": "2026-09-01T08:30:48.512Z",
+  "snapshotFile": "merged-2026-09-01.json",
+  "capturedAt": "2026-09-01T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -11,10 +11,20 @@
   "topPages": [
     {
       "path": "/tech",
-      "pageviews": 16,
+      "pageviews": 23,
       "searchImpressions": 4,
-      "engagementScore": 72,
-      "returnVisitors": 10,
+      "engagementScore": 80,
+      "returnVisitors": 14,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/news",
+      "pageviews": 18,
+      "searchImpressions": 0,
+      "engagementScore": 95,
+      "returnVisitors": 9,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -31,30 +41,40 @@
     },
     {
       "path": "/gallery",
-      "pageviews": 12,
+      "pageviews": 14,
       "searchImpressions": 2,
-      "engagementScore": 79,
-      "returnVisitors": 6,
+      "engagementScore": 80,
+      "returnVisitors": 7,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
       "path": "/sports",
-      "pageviews": 12,
+      "pageviews": 14,
       "searchImpressions": 0,
-      "engagementScore": 84,
-      "returnVisitors": 6,
+      "engagementScore": 81,
+      "returnVisitors": 7,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
-      "path": "/news",
+      "path": "/live",
       "pageviews": 10,
       "searchImpressions": 0,
-      "engagementScore": 80,
+      "engagementScore": 100,
       "returnVisitors": 5,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/",
+      "pageviews": 8,
+      "searchImpressions": 2,
+      "engagementScore": 65,
+      "returnVisitors": 4,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -70,26 +90,6 @@
       "galleryOpens": 0
     },
     {
-      "path": "/live",
-      "pageviews": 8,
-      "searchImpressions": 0,
-      "engagementScore": 100,
-      "returnVisitors": 4,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/",
-      "pageviews": 6,
-      "searchImpressions": 2,
-      "engagementScore": 65,
-      "returnVisitors": 3,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
       "path": "/events/global-earthquake-watch",
       "pageviews": 2,
       "searchImpressions": 0,
@@ -100,11 +100,11 @@
       "galleryOpens": 0
     },
     {
-      "path": "/advertise",
-      "pageviews": 0,
-      "searchImpressions": 2,
-      "engagementScore": 0,
-      "returnVisitors": 0,
+      "path": "/events/nasa-live-programming",
+      "pageviews": 2,
+      "searchImpressions": 0,
+      "engagementScore": 72,
+      "returnVisitors": 1,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0

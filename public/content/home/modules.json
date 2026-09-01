@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:34:45.421Z",
+  "updatedAt": "2026-09-01T08:30:48.512Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -21,7 +21,7 @@
         },
         {
           "label": "Top pulse",
-          "value": "15"
+          "value": "23"
         }
       ],
       "items": [
@@ -31,15 +31,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Aug 31, 09:26 AM"
-        },
-        {
-          "id": "space-aurora-watch",
-          "title": "Aurora watch",
-          "href": "/events/aurora-watch",
-          "label": "Monitoring",
-          "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Aug 31, 09:30 AM"
+          "meta": "USGS Earthquake Hazards Program · Sep 1, 08:21 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -48,6 +40,14 @@
           "label": "Watch",
           "summary": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
           "meta": "NASA · Mar 27, 12:00 AM"
+        },
+        {
+          "id": "space-aurora-watch",
+          "title": "Aurora watch",
+          "href": "/events/aurora-watch",
+          "label": "Monitoring",
+          "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
+          "meta": "NOAA Space Weather Prediction Center · Sep 1, 08:27 AM"
         }
       ],
       "relatedLinks": [
@@ -83,7 +83,7 @@
         },
         {
           "label": "Return loop",
-          "value": "3"
+          "value": "4"
         }
       ],
       "emptyState": {
@@ -130,27 +130,27 @@
       ],
       "items": [
         {
+          "id": "why-/tech",
+          "title": "Tech",
+          "href": "/tech",
+          "label": "23 views",
+          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
+          "meta": "4 search impressions · engagement 80"
+        },
+        {
+          "id": "why-/news",
+          "title": "News",
+          "href": "/news",
+          "label": "18 views",
+          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
+          "meta": "0 search impressions · engagement 95"
+        },
+        {
           "id": "why-/video",
           "title": "Video",
           "href": "/video",
           "label": "15 views",
           "summary": "Users are already choosing video more often than games or gallery, so the feed needs in-page playback.",
-          "meta": "0 search impressions · engagement 100"
-        },
-        {
-          "id": "why-/tech",
-          "title": "Tech",
-          "href": "/tech",
-          "label": "16 views",
-          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "4 search impressions · engagement 72"
-        },
-        {
-          "id": "why-/live",
-          "title": "Live",
-          "href": "/live",
-          "label": "8 views",
-          "summary": "Live pages work because the information can change between visits and there is a clear reason to come back.",
           "meta": "0 search impressions · engagement 100"
         }
       ],

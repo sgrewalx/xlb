@@ -18,7 +18,7 @@
   <text x="72" y="164" class="title">Aurora conditions</text>
   <text x="72" y="210" class="subtitle">Current and recent Kp readings from the NOAA-backed event record.</text>
   <line x1="135" y1="340" x2="1017" y2="340" stroke="#334654" stroke-width="18" stroke-linecap="round"/>
-      <line x1="135" y1="340" x2="527" y2="340" stroke="#84e5c1" stroke-width="18" stroke-linecap="round"/>
+      <line x1="135" y1="340" x2="331" y2="340" stroke="#84e5c1" stroke-width="18" stroke-linecap="round"/>
 
     <line x1="135" y1="315" x2="135" y2="365" stroke="#526576" stroke-width="2"/>
     <text x="135" y="398" text-anchor="middle" class="tick">0</text>
@@ -50,8 +50,8 @@
     <line x1="1017" y1="315" x2="1017" y2="365" stroke="#526576" stroke-width="2"/>
     <text x="1017" y="398" text-anchor="middle" class="tick">9</text>
 
-      <circle cx="135" cy="340" r="17" fill="#f5b642" stroke="#07111f" stroke-width="7"/>
-      <text x="135" y="490" class="metric-small">Current Kp 0</text>
-      <text x="620" y="490" class="metric-small">Recent peak Kp 4</text>
-  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-08-31 09:34 UTC</text>
+      <circle cx="233" cy="340" r="17" fill="#f5b642" stroke="#07111f" stroke-width="7"/>
+      <text x="135" y="490" class="metric-small">Current Kp 1</text>
+      <text x="620" y="490" class="metric-small">Recent peak Kp 2</text>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-09-01 08:30 UTC</text>
 </svg>
