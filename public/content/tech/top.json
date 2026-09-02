@@ -1,46 +1,79 @@
 {
-  "updatedAt": "2026-09-02T15:37:08.171Z",
+  "updatedAt": "2026-09-02T19:05:20.570Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-uber-is-cutting-around-3-000-jobs-in-the-name-of-75d4ede13c",
-      "title": "Uber is cutting around 3,000 jobs in the name of efficiency",
+      "id": "tech-nyc-bans-the-use-of-generative-ai-tools-in-publi-2fe66c2478",
+      "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2249475/uber-is-cutting-around-3000-jobs-in-the-name-of-efficiency",
+      "url": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade",
       "tag": "Technology",
-      "publishedAt": "2026-09-02T15:11:20.000Z",
-      "summary": "The company is also asking almost all remote employees to move to an office.",
+      "publishedAt": "2026-09-02T18:50:09.000Z",
+      "summary": "NYC public schools are taking a year without generative AI tools.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/uber-is-cutting-around-3000-jobs-in-the-name-of-efficiency/l-intro-1788361775.jpg",
+      "image": "https://www.engadget.com/img/gallery/nyc-bans-the-use-of-generative-ai-tools-in-public-schools-for-students-through-eighth-grade/l-intro-1788374805.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2249475/uber-is-cutting-around-3000-jobs-in-the-name-of-efficiency"
+      "imageSourceUrl": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade"
     },
     {
-      "id": "tech-toyohiro-akiyama-first-japanese-citizen-and-jour-a4b5011b4c",
-      "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84",
+      "id": "tech-trump-administration-sides-with-openai-in-new-yo-bfba246f3e",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit",
       "tag": "Technology",
-      "publishedAt": "2026-09-02T14:47:42.000Z",
-      "summary": "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness.",
+      "publishedAt": "2026-09-02T18:41:02.000Z",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090126a-lg-1152x648.jpg",
-      "imageCredit": "Roscosmos",
+      "image": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/master/pass/GettyImages-2214107176.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84"
+      "imageSourceUrl": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit"
     },
     {
-      "id": "tech-lords-call-for-ai-kill-switch-powers-in-uk-ea24a96534",
-      "title": "Lords call for AI 'kill switch' powers in UK",
+      "id": "tech-here-are-some-of-rei-s-best-labor-day-sale-deals-1232373c44",
+      "title": "Here are some of REI’s best Labor Day sale deals",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-09-02T18:56:59.000Z",
+      "summary": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are man...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-pangram-s-max-spero-on-why-ai-detection-is-harde-52568c5946",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+      "tag": "Technology",
+      "publishedAt": "2026-09-02T17:18:13.000Z",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applic...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-uber-to-cut-over-3-000-jobs-in-major-global-rest-f317a78177",
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-02T14:41:52.000Z",
-      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
+      "publishedAt": "2026-09-02T16:51:49.000Z",
+      "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b07b/live/7b001b20-a6d7-11f1-acae-21b536d72e0e.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-us-court-rules-google-will-not-have-to-sell-ad-e-1782351d3e",
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case",
+      "tag": "Technology",
+      "publishedAt": "2026-09-02T16:30:11.000Z",
+      "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+      "imageCredit": "Ryan Whitwam",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case"
     },
     {
       "id": "tech-zerodha-gets-sebi-nod-to-enter-investment-bankin-aaff4c8012",
@@ -53,47 +86,14 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-hiddenlayer-nabs-100m-as-enterprises-rush-to-sec-c85da9be43",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
-      "tag": "Technology",
-      "publishedAt": "2026-09-02T15:01:23.000Z",
-      "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-belkin-s-kid-friendly-wireless-headphones-are-25-c85a280ee5",
-      "title": "Belkin’s kid-friendly wireless headphones are 25 percent off",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-09-02T14:58:15.000Z",
-      "summary": "Verge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-teases-astra-says-it-is-the-first-model-t-9290098117",
-      "title": "OpenAI Teases Astra, Says It Is the First Model to Meet ‘Critical Cybersecurity Threshold'",
+      "id": "tech-remixpoint-dumps-altcoins-as-it-shifts-crypto-st-2fa27c22a0",
+      "title": "Remixpoint Dumps Altcoins as It Shifts Crypto Strategy Towards Bitcoin",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/ai/news/openai-astra-model-critical-cybersecurity-threshold-feature-cybersecurity-capabilities-11992933",
+      "url": "https://www.gadgets360.com/cryptocurrency/news/remixpoint-dumps-altcoins-as-it-shifts-crypto-strategy-towards-bitcoin-xrp-doge-eth-sol-crypto-tokens-11993261",
       "tag": "Technology",
-      "publishedAt": "2026-09-02T13:54:14.000Z",
-      "summary": "OpenAI published a blog post on Tuesday detailing its new model Astra. The company says that Astra meets the Critical cybersecurity capability threshold under our Preparedness F...",
+      "publishedAt": "2026-09-02T14:20:31.000Z",
+      "summary": "The Japanese firm has consolidated its cryptocurrency portfolio around Bitcoin after selling four altcoins. Ethereum accounted for the largest sale by value, while Solana genera...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-the-cybercab-is-almost-here-now-comes-the-hard-p-9625872370",
-      "title": "The Cybercab Is Almost Here. Now Comes the Hard Part",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/here-comes-the-tesla-cybercab",
-      "tag": "Technology",
-      "publishedAt": "2026-09-02T11:30:00.000Z",
-      "summary": "The electric-auto maker will officially debut its steering-wheel-free robotaxi on Thursday. But building the vehicle is the easy part.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a9737841b1c34eff9cd25ce/master/pass/GettyImages-2259673201.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/here-comes-the-tesla-cybercab"
     },
     {
       "id": "tech-anthropic-announces-claude-fable-5-1-and-mythos--0424642a02",
@@ -109,37 +109,43 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/anthropic-announces-claude-fable-51-and-mythos-51-models/article71418812.ece"
     },
     {
-      "id": "tech-nintendo-s-surprise-free-update-for-mario-kart-8-7a407fe336",
-      "title": "Nintendo's surprise free update for Mario Kart 8 Deluxe on Switch 2 includes eight-player split-screen",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2249394/nintendo-free-update-mario-kart-8-deluxe-switch-2-includes-eight-player-split-screen",
+      "id": "tech-ice-plans-to-pay-5-million-to-create-national-vo-b6c75630ee",
+      "title": "ICE Plans to Pay $5 Million to Create National Voting Database",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database",
       "tag": "Technology",
-      "publishedAt": "2026-09-02T13:33:58.000Z",
-      "summary": "The nine-year-old game that keeps giving.",
+      "publishedAt": "2026-09-02T18:32:01.000Z",
+      "summary": "As part of a broader DHS surge to investigate alleged voter fraud, ICE has announced it plans to pay up to $5 million to create what amounts to a federal voter database.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/nintendos-surprise-free-update-for-mario-kart-8-deluxe-on-switch-2-includes-eight-player-split-screen/l-intro-1788355591.jpg",
+      "image": "https://media.wired.com/photos/6a982e027b4ef34fe0b39044/master/pass/GettyImages-2287296637.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2249394/nintendo-free-update-mario-kart-8-deluxe-switch-2-includes-eight-player-split-screen"
+      "imageSourceUrl": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database"
     },
     {
-      "id": "tech-psa-amazon-s-shopping-ai-can-now-tell-you-if-tha-4d2a9c04d0",
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+      "id": "tech-these-russian-mathematicians-taught-ai-models-ho-e38dc52bf5",
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication",
       "tag": "Technology",
-      "publishedAt": "2026-09-02T14:56:34.000Z",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-02T18:20:00.000Z",
+      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/master/pass/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication"
     },
     {
-      "id": "tech-zerodha-s-nithin-kamath-says-india-s-primary-mar-3dbd721be3",
-      "title": "Zerodha's Nithin Kamath says India's primary market is 'red hot'",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/nithin-kamath-india-primary-market-red-hot",
+      "id": "tech-modding-platform-nexus-mods-now-owns-steamdb-117c988bac",
+      "title": "Modding platform Nexus Mods now owns SteamDB",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb",
       "tag": "Technology",
-      "publishedAt": "2026-09-02T14:41:25.000Z",
-      "summary": "Zerodha founder Nithin Kamath says India’s IPO market is booming despite a subdued broader market, but warns that strong listing gains, and even IPO allotments, aren’t guaranteed.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-02T17:07:41.000Z",
+      "summary": "Nexus Mods said the community-led SteamDB site will operate as it always has, while becoming stronger and better resourced.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/modding-platform-nexus-mods-now-owns-steamdb/l-intro-1788368765.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb"
     }
   ]
 }
