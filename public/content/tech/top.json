@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-09-01T23:40:28.128Z",
+  "updatedAt": "2026-09-02T01:59:06.181Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-apple-maps-changes-name-of-lake-ontario-to-lake--339adae059",
+      "title": "Apple Maps changes name of Lake Ontario to ‘Lake America’",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-maps-changes-name-of-lake-ontario-to-lake-america/article71417921.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-09-02T01:35:51.000Z",
+      "summary": "Users in Canada ‌will ⁠continue to see Lake Ontario, and users in the ⁠rest of the world will see both names, following the same approach Apple used after Mr. Trump renamed the...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://th-i.thgim.com/public/incoming/8gx5vo/article71417930.ece/alternates/LANDSCAPE_1200/Apple_Lake_Ontario__246.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/apple-maps-changes-name-of-lake-ontario-to-lake-america/article71417921.ece"
+    },
+    {
+      "id": "tech-fake-10-downing-street-listing-exposes-unfit-boo-16af0203eb",
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-02T01:27:34.000Z",
+      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-larry-page-s-flying-car-company-pivotal-loses-it-eb51eae93d",
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T23:59:59.000Z",
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of direct...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-are-all-tvs-at-risk-from-burn-in-here-s-how-to-a-10c519aaf0",
       "title": "Are all TVs at risk from burn-in? Here's how to avoid the problem altogether",
@@ -16,17 +52,18 @@
       "imageSourceUrl": "https://www.engadget.com/2246417/tvs-at-risk-of-burn-in"
     },
     {
-      "id": "tech-will-self-flying-planes-transform-the-skies-00e99940f9",
-      "title": "Will self-flying planes transform the skies?",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-here-s-our-first-look-and-drive-of-the-2027-rang-fd7ddf90ed",
+      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv",
       "tag": "Technology",
-      "publishedAt": "2026-09-01T23:27:35.000Z",
-      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "publishedAt": "2026-09-01T23:01:52.000Z",
+      "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
+      "imageCredit": "Range Rover",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv"
     },
     {
       "id": "tech-the-range-rover-electric-specs-price-availabilit-1d0bb7f438",
@@ -40,16 +77,6 @@
       "image": "https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived"
-    },
-    {
-      "id": "tech-reliance-s-jiohotstar-takes-its-streaming-empire-b102dc337b",
-      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T23:00:00.000Z",
-      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-jiohotstar-expands-into-uk-canada-and-singapore-c12080cc23",
@@ -72,33 +99,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-cdc-reported-then-deleted-two-measles-deaths-tha-b812689a27",
-      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T18:21:16.000Z",
-      "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
-      "imageCredit": "Bloomberg | Getty Images",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr"
-    },
-    {
-      "id": "tech-u-s-regulator-22-states-accuse-amazon-of-manipul-c1340ce0b0",
-      "title": "U.S. regulator, 22 states accuse Amazon of 'manipulating' ad auctions in lawsuit",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/us-regulator-22-states-accuse-amazon-of-manipulating-ad-auctions-in-lawsuit/article71413506.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T08:52:33.000Z",
-      "summary": "California Attorney General Rob Bonta told reporters on Monday that Amazon \"has rigged billions of ad auctions.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/incoming/kvt15g/article71413526.ece/alternates/LANDSCAPE_1200/2026-08-31T195131Z_460381535_RC2O3LAI4RU3_RTRMADP_3_AMAZON-COM-FTC.JPG",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/us-regulator-22-states-accuse-amazon-of-manipulating-ad-auctions-in-lawsuit/article71413506.ece"
-    },
-    {
       "id": "tech-whatsapp-reportedly-rolling-out-ai-content-label-1be99b0735",
       "title": "WhatsApp Reportedly Rolling Out AI Content Label for Channels on iOS",
       "source": "Gadgets 360",
@@ -107,6 +107,19 @@
       "publishedAt": "2026-09-01T13:34:14.000Z",
       "summary": "WhatsApp is testing an AI content label for channel updates on iOS, allowing admins to disclose media created or edited using artificial intelligence. The feature is available t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-will-self-flying-planes-transform-the-skies-00e99940f9",
+      "title": "Will self-flying planes transform the skies?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-01T23:27:35.000Z",
+      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "tech-blue-origin-wins-nasa-contract-for-telecommunica-0bff0f086a",
@@ -133,19 +146,6 @@
       "image": "https://www.engadget.com/img/gallery/android-stuck-in-safe-mode-heres-how-to-turn-it-off/l-intro-1785415003.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.engadget.com/2244182/how-to-turn-off-safe-mode-on-android-phone"
-    },
-    {
-      "id": "tech-lake-ontario-is-now-lake-america-on-apple-maps-ebf79ff180",
-      "title": "Lake Ontario is now 'Lake America' on Apple Maps",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2249159/lake-ontario-is-now-lake-america-on-apple-maps",
-      "tag": "Technology",
-      "publishedAt": "2026-09-01T22:54:41.000Z",
-      "summary": "President Trump reportedly \"reached out directly\" to the company.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/lake-ontario-is-now-lake-america-on-apple-maps/l-intro-1788303163.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2249159/lake-ontario-is-now-lake-america-on-apple-maps"
     }
   ]
 }
