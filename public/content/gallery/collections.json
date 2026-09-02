@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:30:48.512Z",
+  "updatedAt": "2026-09-02T07:48:20.265Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 181 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 89 km SSW of Nikolski, Alaska.",
+          "summary": "USGS reported 246 earthquake events in the last 24 hours. Strongest reported event: M5.6 near 159 km WSW of Abepura, Indonesia.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 1, 08:30 AM",
+          "metricValue": "Sep 2, 07:48 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -154,6 +154,21 @@
           "visualType": "data-visualization"
         },
         {
+          "id": "space-launch-roscosmos-progress-97",
+          "title": "Roscosmos Progress 97",
+          "summary": "Roscosmos Progress 97 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "metricLabel": "Countdown",
+          "metricValue": "Starting",
+          "href": "/events/roscosmos-progress-97",
+          "accent": "space",
+          "image": "/content/gallery/visuals/launch-timeline.svg",
+          "imageAlt": "Timeline of current NASA launch schedule records",
+          "imageCredit": "XLB visualization from NASA launch schedule data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.nasa.gov/event/roscosmos-progress-97/",
+          "visualType": "data-visualization"
+        },
+        {
           "id": "space-launch-nasa-s-northrop-grumman-crs-25",
           "title": "NASA’s Northrop Grumman CRS-25",
           "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
@@ -200,33 +215,33 @@
           "visualType": "data-visualization"
         },
         {
-          "id": "space-weather",
-          "title": "Space Weather",
-          "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
-          "metricLabel": "Event count",
-          "metricValue": "1",
-          "href": "/topics/space-weather",
-          "accent": "space",
-          "image": "/content/gallery/visuals/aurora-kp.svg",
-          "imageAlt": "NOAA geomagnetic Kp condition summary",
-          "imageCredit": "XLB visualization from NOAA SWPC data",
-          "imageOrigin": "generated-official-data",
-          "imageSourceUrl": "https://xlb.codemachine.in/topics/space-weather",
-          "visualType": "data-visualization"
-        },
-        {
           "id": "nasa",
           "title": "NASA",
           "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
           "metricLabel": "Event count",
           "metricValue": "1",
           "href": "/topics/nasa",
-          "accent": "signal",
+          "accent": "space",
           "image": "/content/gallery/visuals/launch-timeline.svg",
           "imageAlt": "Timeline of current NASA launch schedule records",
           "imageCredit": "XLB visualization from NASA launch schedule data",
           "imageOrigin": "generated-official-data",
           "imageSourceUrl": "https://xlb.codemachine.in/topics/nasa",
+          "visualType": "data-visualization"
+        },
+        {
+          "id": "space-weather",
+          "title": "Space Weather",
+          "summary": "Aurora watch keeps this topic focused on geomagnetic conditions, aurora potential, and recurring space-weather check-ins.",
+          "metricLabel": "Event count",
+          "metricValue": "1",
+          "href": "/topics/space-weather",
+          "accent": "signal",
+          "image": "/content/gallery/visuals/aurora-kp.svg",
+          "imageAlt": "NOAA geomagnetic Kp condition summary",
+          "imageCredit": "XLB visualization from NOAA SWPC data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://xlb.codemachine.in/topics/space-weather",
           "visualType": "data-visualization"
         }
       ]

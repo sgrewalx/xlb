@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:30:48.092Z",
+  "updatedAt": "2026-09-02T07:48:19.853Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-09-01T08:21:31.713Z",
-      "summary": "USGS reported 181 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 89 km SSW of Nikolski, Alaska.",
+      "startsAt": "2026-09-02T07:40:29.600Z",
+      "summary": "USGS reported 246 earthquake events in the last 24 hours. Strongest reported event: M5.6 near 159 km WSW of Abepura, Indonesia.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,11 +21,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-09-01T08:30:48.092Z",
+      "updatedAt": "2026-09-02T07:48:19.853Z",
       "importance": 81,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-live-closing-statements-begin-in-tupac-sha-971a877902"
+        "video-watch-ferry-capsizes-off-cyprus-as-passengers-cl-0c2c3e8533"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -44,7 +44,7 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-09-01T08:27:00.000Z",
+      "startsAt": "2026-09-02T07:45:00.000Z",
       "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
@@ -56,12 +56,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-09-01T08:30:48.092Z",
+      "updatedAt": "2026-09-02T07:48:19.853Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-live-closing-statements-begin-in-tupac-sha-971a877902",
-        "video-who-is-being-blocked-from-early-release-and-how--c54f15e155"
+        "video-watch-ferry-capsizes-off-cyprus-as-passengers-cl-0c2c3e8533"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -92,8 +91,8 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-01T08:30:48.092Z",
-      "importance": 73,
+      "updatedAt": "2026-09-02T07:48:19.853Z",
+      "importance": 77,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
       "relatedGameIds": [
@@ -106,17 +105,17 @@
       ]
     },
     {
-      "id": "space-launch-nasa-s-spacex-crs-35",
-      "slug": "nasa-s-spacex-crs-35",
-      "title": "NASA’s SpaceX CRS-35",
+      "id": "space-launch-roscosmos-progress-97",
+      "slug": "roscosmos-progress-97",
+      "title": "Roscosmos Progress 97",
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-09-01T08:30:47.864Z",
-      "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
+      "startsAt": "2026-09-02T07:48:19.712Z",
+      "summary": "Roscosmos Progress 97 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
+      "sourceUrl": "https://www.nasa.gov/event/roscosmos-progress-97/",
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
@@ -124,8 +123,41 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-01T08:30:48.092Z",
-      "importance": 71,
+      "updatedAt": "2026-09-02T07:48:19.853Z",
+      "importance": 48,
+      "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
+      "relatedVideoIds": [],
+      "relatedGameIds": [
+        "headline-match",
+        "timeline-sort",
+        "rapid-reaction"
+      ],
+      "relatedGalleryIds": [
+        "gallery-launch-windows",
+        "gallery-topic-rotation"
+      ]
+    },
+    {
+      "id": "space-launch-nasa-s-spacex-crs-35",
+      "slug": "nasa-s-spacex-crs-35",
+      "title": "NASA’s SpaceX CRS-35",
+      "status": "ended",
+      "category": "space",
+      "topic": "launches",
+      "startsAt": "2026-09-02T07:48:19.713Z",
+      "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
+      "sourceName": "NASA Launch Schedule",
+      "sourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
+      "watchUrl": "https://www.nasa.gov/live",
+      "coverageMode": "link",
+      "safeToPromote": true,
+      "heroPriority": 82,
+      "rightsProfile": "public-information",
+      "cadence": "scheduled",
+      "audienceIntent": "watch-live",
+      "updatedAt": "2026-09-02T07:48:19.853Z",
+      "importance": 68,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [
@@ -145,7 +177,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-09-01T08:30:47.864Z",
+      "startsAt": "2026-09-02T07:48:19.713Z",
       "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -153,12 +185,12 @@
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
-      "heroPriority": 82,
+      "heroPriority": 76,
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-01T08:30:48.092Z",
-      "importance": 66,
+      "updatedAt": "2026-09-02T07:48:19.853Z",
+      "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [

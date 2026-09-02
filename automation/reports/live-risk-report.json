@@ -1,5 +1,5 @@
 {
-  "assessedAt": "2026-09-01T08:30:49.263Z",
+  "assessedAt": "2026-09-02T07:48:21.013Z",
   "level": "medium",
   "approval": "pr-required",
   "analyticsSignals": {
@@ -8,7 +8,7 @@
     "hasDecisionCoverage": false,
     "coldStartOverrideEligible": false,
     "heuristicOverrideEligible": false,
-    "eventCoverageRatio": 0.4,
+    "eventCoverageRatio": 0.33,
     "ga4Enabled": true,
     "searchConsoleEnabled": true
   },

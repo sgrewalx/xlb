@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:30:48.512Z",
+  "updatedAt": "2026-09-02T07:48:20.265Z",
   "items": [
     {
       "slug": "earthquakes",
@@ -10,7 +10,7 @@
       "promotedEventCount": 1,
       "bestScore": 96,
       "recommendation": "hold",
-      "updatedAt": "2026-09-01T08:30:48.512Z"
+      "updatedAt": "2026-09-02T07:48:20.265Z"
     },
     {
       "slug": "space-weather",
@@ -21,7 +21,7 @@
       "promotedEventCount": 1,
       "bestScore": 82,
       "recommendation": "hold",
-      "updatedAt": "2026-09-01T08:30:48.512Z"
+      "updatedAt": "2026-09-02T07:48:20.265Z"
     },
     {
       "slug": "nasa",
@@ -30,20 +30,20 @@
       "summary": "NASA live programming anchors repeat-check coverage for NASA streams, mission updates, and major agency moments.",
       "eventCount": 1,
       "promotedEventCount": 1,
-      "bestScore": 77,
+      "bestScore": 90,
       "recommendation": "hold",
-      "updatedAt": "2026-09-01T08:30:48.512Z"
+      "updatedAt": "2026-09-02T07:48:20.265Z"
     },
     {
       "slug": "launches",
       "title": "Launches",
       "category": "space",
-      "summary": "2 source-backed launch pages are active here, led by NASA’s SpaceX CRS-35 around the next scheduled launch window.",
-      "eventCount": 2,
-      "promotedEventCount": 2,
+      "summary": "3 source-backed launch pages are active here, led by Roscosmos Progress 97 around the next scheduled launch window.",
+      "eventCount": 3,
+      "promotedEventCount": 3,
       "bestScore": 72,
       "recommendation": "hold",
-      "updatedAt": "2026-09-01T08:30:48.512Z"
+      "updatedAt": "2026-09-02T07:48:20.265Z"
     }
   ]
 }
