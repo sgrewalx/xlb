@@ -12,6 +12,7 @@ xlb.md
 quotes_dump.txt
 xlb.txt
 z_artifacts/
+.playwright-cli/
 .env
 .env.*
 !.env.example

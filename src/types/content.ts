@@ -148,6 +148,54 @@ export interface TopicsFeed {
   items: TopicItem[];
 }
 
+export interface EarthquakeEvent {
+  id: string;
+  magnitude: number;
+  place: string;
+  occurredAt: string;
+  updatedAt: string;
+  latitude: number;
+  longitude: number;
+  depthKm: number;
+  tsunami: boolean;
+  significance: number | null;
+  felt: number | null;
+  alert: string | null;
+  status: string | null;
+  url: string;
+}
+
+export interface EarthquakeManifest {
+  schemaVersion: 1;
+  updatedAt: string;
+  source: {
+    name: string;
+    url: string;
+    baselineUrl: string;
+    window: "past-24-hours";
+    baselineWindow: "previous-6-days";
+  };
+  summary: {
+    total: number;
+    m4Plus: number;
+    m5Plus: number;
+    shallowCount: number;
+    medianDepthKm: number | null;
+    strongestMagnitude: number | null;
+    strongestEventId: string | null;
+  };
+  baseline: {
+    days: 6;
+    dailyAverage: { total: number; m4Plus: number; m5Plus: number };
+    differenceFromAverage: { total: number; m4Plus: number; m5Plus: number };
+  };
+  trends: {
+    magnitudeBands: Array<{ id: string; label: string; count: number }>;
+    threeHourBuckets: Array<{ start: string; end: string; count: number }>;
+  };
+  events: EarthquakeEvent[];
+}
+
 export interface SurfaceItemLink {
   label: string;
   href: string;

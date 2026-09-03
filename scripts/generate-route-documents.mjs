@@ -129,6 +129,9 @@ function renderStaticRouteMarkup(route) {
   if (route.updatedAt) {
     contextLines.push(`<p>Updated: ${escapeHtml(formatDate(route.updatedAt))}</p>`);
   }
+  for (const detail of route.staticDetails ?? []) {
+    contextLines.push(`<p>${escapeHtml(detail)}</p>`);
+  }
 
   return [
     '<div class="site-shell static-route-shell">',
@@ -210,10 +213,27 @@ function buildStructuredData(route) {
     };
   }
 
+  const dataset = route.dataset ? {
+    "@type": "Dataset",
+    "@id": `${canonical}#dataset`,
+    name: route.dataset.name,
+    description: route.dataset.description,
+    url: canonical,
+    temporalCoverage: route.dataset.temporalCoverage,
+    spatialCoverage: route.dataset.spatialCoverage,
+    isBasedOn: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php",
+    distribution: {
+      "@type": "DataDownload",
+      encodingFormat: "application/json",
+      contentUrl: canonicalUrl(route.dataset.contentUrl),
+    },
+  } : null;
+
   return {
     "@context": "https://schema.org",
     "@graph": [
       page,
+      ...(dataset ? [dataset] : []),
       {
         "@type": "BreadcrumbList",
         "@id": `${canonical}#breadcrumb`,

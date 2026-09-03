@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-03-27T00:00:00.000Z",
+  "updatedAt": "2026-09-03T00:00:00.000Z",
   "items": [
+    {
+      "id": "earthquake-intelligence-v1",
+      "title": "Measure the Earthquake Intelligence MVP",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "A useful live earthquake intelligence tool will generate more search visibility, engagement, and repeat visits than the previous summary-only event page.",
+      "targetPaths": [
+        "/events/global-earthquake-watch"
+      ],
+      "successMetric": "Primary: Search Console impressions and clicks. Secondary: engaged visits, repeat visits, earthquake interactions, and USGS source clicks over at least 14 days.",
+      "rollbackPlan": "Restore the summary-only event treatment if the tool introduces correctness or usability regressions; do not claim significance from low-volume samples.",
+      "notes": "Pre-release baseline captured 2026-09-03: GA4 reported 2 pageviews and 1 visit for the route in the 7-day merged window. The 29-day Search Console page snapshot contained no row for this route, which means no reported route-level search data rather than a confirmed numeric zero. Begin the 14-day measurement window only after supervised deployment."
+    },
     {
       "id": "exp-live-space-foundation",
       "title": "Expand the first space-events landing pages",

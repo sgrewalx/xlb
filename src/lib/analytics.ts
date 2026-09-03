@@ -139,6 +139,51 @@ export function trackReturnVisitEntry(path: string) {
   });
 }
 
+export function trackEarthquakeMapInteraction(eventId: string, magnitude: number, position: number) {
+  trackEvent("earthquake_map_interaction", {
+    event_id: eventId,
+    magnitude_band: magnitudeBand(magnitude),
+    surface: "earthquake_map",
+    position,
+  });
+}
+
+export function trackEarthquakeFilterChange(filter: string) {
+  trackEvent("earthquake_filter_change", { filter, surface: "earthquake_table" });
+}
+
+export function trackEarthquakeEventOpen(eventId: string, magnitude: number, position: number) {
+  trackEvent("earthquake_event_open", {
+    event_id: eventId,
+    magnitude_band: magnitudeBand(magnitude),
+    surface: "earthquake_table",
+    position,
+  });
+}
+
+export function trackEarthquakeUsgsClick(eventId: string, magnitude: number, surface: string) {
+  trackEvent("earthquake_usgs_click", {
+    event_id: eventId,
+    magnitude_band: magnitudeBand(magnitude),
+    surface,
+  });
+}
+
+export function trackEarthquakeReturnDeltaView(newCount: number, newM4Plus: number) {
+  trackEvent("earthquake_return_delta_view", {
+    new_event_count: newCount,
+    new_m4_plus_count: newM4Plus,
+    surface: "earthquake_return_delta",
+  });
+}
+
+function magnitudeBand(magnitude: number) {
+  if (magnitude >= 5) return "m5_plus";
+  if (magnitude >= 4) return "m4_to_4_9";
+  if (magnitude >= 3) return "m3_to_3_9";
+  return "under_m3";
+}
+
 function safeDomain(value: string) {
   try {
     return new URL(value).hostname;

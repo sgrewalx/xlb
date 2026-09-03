@@ -247,35 +247,58 @@ export function buildRouteDefinitions({ eventsFeed, topicsFeed }) {
   const events = Array.isArray(eventsFeed?.items) ? eventsFeed.items : [];
   const topics = Array.isArray(topicsFeed?.items) ? topicsFeed.items : [];
 
-  const eventRoutes = events.map((event) => ({
-    path: `/events/${event.slug}`,
-    title: `${event.title} | XLB`,
-    description: cleanDescription(event.summary),
-    eyebrow: event.status === "live" ? "Live now" : `${titleCase(event.status)} event`,
-    h1: event.title,
-    intro: event.summary,
-    kind: "event",
-    ogType: "article",
-    imagePath: event.category === "earth"
-      ? "/media/modules/earthquakes.svg"
-      : "/media/modules/satellites.svg",
-    updatedAt: event.updatedAt ?? eventsFeed?.updatedAt,
-    sourceName: event.sourceName,
-    category: event.category,
-    topic: event.topic,
-    links: [
-      { label: `${titleCase(event.topic)} topic`, href: `/topics/${event.topic}` },
-      { label: `Live ${event.category}`, href: `/live/${event.category}` },
-      { label: "All live streams", href: "/live" },
-      ...events
-        .filter((candidate) => candidate.slug !== event.slug && candidate.category === event.category)
-        .slice(0, 2)
-        .map((candidate) => ({
-          label: candidate.title,
-          href: `/events/${candidate.slug}`,
-        })),
-    ],
-  }));
+  const eventRoutes = events.map((event) => {
+    const isEarthquakeIntelligence = event.slug === "global-earthquake-watch";
+    return {
+      path: `/events/${event.slug}`,
+      title: isEarthquakeIntelligence
+        ? "Live Earthquake Map: Recent Global Earthquakes | XLB"
+        : `${event.title} | XLB`,
+      description: isEarthquakeIntelligence
+        ? "Explore the latest global earthquakes on a live map with USGS-backed magnitude, depth, location, timing, and recent activity context."
+        : cleanDescription(event.summary),
+      eyebrow: isEarthquakeIntelligence
+        ? "USGS live data"
+        : event.status === "live" ? "Live now" : `${titleCase(event.status)} event`,
+      h1: isEarthquakeIntelligence ? "Live Earthquake Map" : event.title,
+      intro: isEarthquakeIntelligence
+        ? "Explore recent earthquake locations, magnitude, depth, and 24-hour activity using authoritative USGS data refreshed through XLB's publishing pipeline."
+        : event.summary,
+      staticDetails: isEarthquakeIntelligence ? [
+        "Compare current 24-hour earthquake activity with the daily average from the previous six days.",
+        "Filter recent events by magnitude and open each record at the USGS source.",
+        "This activity page does not predict earthquakes or provide a danger assessment.",
+      ] : [],
+      dataset: isEarthquakeIntelligence ? {
+        name: "XLB recent global earthquake snapshot",
+        description: "A daily generated view of recent global earthquake locations, magnitude, depth, and activity context sourced from USGS GeoJSON feeds.",
+        contentUrl: "/content/earthquakes/current.json",
+        temporalCoverage: "P1D",
+        spatialCoverage: "Global",
+      } : null,
+      kind: "event",
+      ogType: "article",
+      imagePath: event.category === "earth"
+        ? "/media/modules/earthquakes.svg"
+        : "/media/modules/satellites.svg",
+      updatedAt: event.updatedAt ?? eventsFeed?.updatedAt,
+      sourceName: event.sourceName,
+      category: event.category,
+      topic: event.topic,
+      links: [
+        { label: `${titleCase(event.topic)} topic`, href: `/topics/${event.topic}` },
+        { label: `Live ${event.category}`, href: `/live/${event.category}` },
+        { label: "All live streams", href: "/live" },
+        ...events
+          .filter((candidate) => candidate.slug !== event.slug && candidate.category === event.category)
+          .slice(0, 2)
+          .map((candidate) => ({
+            label: candidate.title,
+            href: `/events/${candidate.slug}`,
+          })),
+      ],
+    };
+  });
 
   const topicRoutes = topics.map((topic) => {
     const relatedEvents = events.filter((event) => event.topic === topic.slug);

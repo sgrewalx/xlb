@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { LiveEventFeed } from "../components/LiveEventFeed";
+import { EarthquakeIntelligence } from "../components/EarthquakeIntelligence";
 import { Seo } from "../components/Seo";
 import { useContent } from "../hooks/useContent";
 import { trackOutboundClick } from "../lib/analytics";
@@ -109,6 +110,10 @@ export function EventPage() {
         </section>
       </>
     );
+  }
+
+  if (item.slug === "global-earthquake-watch") {
+    return <EarthquakeIntelligence item={item} />;
   }
 
   const relatedItems = feedItems
