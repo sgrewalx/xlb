@@ -40,6 +40,7 @@ test("content-only allowlist is explicit and excludes executable and governance 
     "public/content/home/modules.json",
     "public/content/games/catalog.json",
     "public/content/topics/index.json",
+    "public/content/earthquakes/current.json",
     "public/sitemap.xml",
   ]);
   assert.equal(classify(modified("automation/reports/deploy-readiness.json")).classification, "review-required");
@@ -74,12 +75,24 @@ test("gallery generated SVG and content are content-only", () => {
   )).classification, "content-only");
 });
 
+test("only the exact earthquake intelligence manifest is content-only", () => {
+  assert.equal(
+    classify(modified("public/content/earthquakes/current.json")).classification,
+    "content-only",
+  );
+  assert.equal(
+    classify(modified("public/content/earthquakes/archive.json")).classification,
+    "review-required",
+  );
+});
+
 test("code, workflow, lockfile, schema, validator, and unknown paths require review", () => {
   for (const path of [
     "src/components/EditorialFeed.tsx",
     ".github/workflows/deploy.yml",
     "package-lock.json",
     "automation/contracts/news.schema.json",
+    "automation/snapshots/search-console-queries-2026-09-03.json",
     "scripts/validate-content.mjs",
     "new-unknown-file.txt",
   ]) {

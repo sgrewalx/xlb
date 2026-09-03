@@ -81,6 +81,14 @@ jobs:
       - name: Validate analytics snapshots
         run: npm run automation:validate-analytics
 
+      - name: Upload workflow-only Search Console query evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: search-console-queries-${{ env.XLB_SNAPSHOT_DATE }}
+          path: automation/snapshots/search-console-queries-${{ env.XLB_SNAPSHOT_DATE }}.json
+          if-no-files-found: error
+          retention-days: 90
+
       - name: Detect analytics changes
         id: analytics-changes
         run: |
@@ -160,6 +168,7 @@ jobs:
             public/content/video/shorts.json \
             public/content/games \
             public/content/gallery \
+            public/content/earthquakes/current.json \
             automation/reports \
             automation/experiments \
             public/sitemap.xml)" ]; then
@@ -184,6 +193,7 @@ jobs:
             public/content/video/shorts.json \
             public/content/games \
             public/content/gallery \
+            public/content/earthquakes/current.json \
             automation/reports \
             automation/experiments \
             public/sitemap.xml

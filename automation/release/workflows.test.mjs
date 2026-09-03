@@ -25,18 +25,39 @@ function ordered(text, labels) {
 
 test("analytics persistence is a separate prerequisite failure domain", async () => {
   const workflow = await readFile(refreshFile, "utf8");
+  const detectStep = workflow.slice(
+    workflow.indexOf("- name: Detect analytics changes"),
+    workflow.indexOf("- name: Configure git identity"),
+  );
+  const commitStep = workflow.slice(
+    workflow.indexOf("- name: Commit validated analytics snapshots"),
+    workflow.indexOf("- name: Persist analytics to main"),
+  );
 
   assert.match(workflow, /^  persist-analytics:/m);
   assert.match(workflow, /^  publish-content-candidate:/m);
   assert.match(workflow, /^    needs: persist-analytics$/m);
   assert.match(workflow, /git status --porcelain --untracked-files=all/);
+  assert.match(workflow, /uses: actions\/upload-artifact@v4/);
+  assert.match(workflow, /name: search-console-queries-\$\{\{ env\.XLB_SNAPSHOT_DATE \}\}/);
+  assert.match(workflow, /path: automation\/snapshots\/search-console-queries-\$\{\{ env\.XLB_SNAPSHOT_DATE \}\}\.json/);
+  assert.match(workflow, /retention-days: 90/);
+  assert.doesNotMatch(detectStep, /search-console-queries/);
+  assert.doesNotMatch(commitStep, /search-console-queries/);
+  assert.match(commitStep, /automation\/snapshots\/search-console-\$\{XLB_SNAPSHOT_DATE\}\.json/);
   ordered(workflow, [
     "- name: Validate analytics snapshots",
+    "- name: Upload workflow-only Search Console query evidence",
     "- name: Commit validated analytics snapshots",
     "- name: Persist analytics to main",
     "publish-content-candidate:",
     "- name: Generate and validate content candidate",
   ]);
+});
+
+test("raw Search Console query evidence is ignored by Git", async () => {
+  const ignore = await readFile(new URL("../../.gitignore", import.meta.url), "utf8");
+  assert.match(ignore, /^automation\/snapshots\/search-console-queries-\*\.json$/m);
 });
 
 test("content promotion can only occur after the complete candidate passes", async () => {
@@ -51,6 +72,7 @@ test("content promotion can only occur after the complete candidate passes", asy
   ]);
   assert.doesNotMatch(workflow, /XLB_FAIL_ON_DEGRADED_SOURCES:\s*["']?0/);
   assert.doesNotMatch(workflow, /XLB_FAIL_ON_HIGH_RISK:\s*["']?0/);
+  assert.match(workflow, /public\/content\/earthquakes\/current\.json/);
 });
 
 test("deploy uses separate automatic and supervised exact-SHA handoffs", async () => {

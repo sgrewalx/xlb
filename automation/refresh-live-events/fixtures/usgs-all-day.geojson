@@ -8,30 +8,54 @@
   "features": [
     {
       "type": "Feature",
+      "id": "us7000abcd",
       "properties": {
         "mag": 5.6,
         "place": "87 km SE of Pondaguitan, Philippines",
         "time": 1775015400000,
+        "updated": 1775016000000,
+        "tsunami": 0,
+        "sig": 482,
+        "felt": 12,
+        "alert": "green",
+        "status": "reviewed",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000abcd"
-      }
+      },
+      "geometry": { "type": "Point", "coordinates": [126.84, 5.92, 42.3] }
     },
     {
       "type": "Feature",
+      "id": "us7000abce",
       "properties": {
         "mag": 4.8,
         "place": "South Sandwich Islands region",
         "time": 1775011800000,
+        "updated": 1775012400000,
+        "tsunami": 0,
+        "sig": 354,
+        "felt": null,
+        "alert": null,
+        "status": "reviewed",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000abce"
-      }
+      },
+      "geometry": { "type": "Point", "coordinates": [-26.51, -56.24, 86.2] }
     },
     {
       "type": "Feature",
+      "id": "nc7000abcf",
       "properties": {
         "mag": 2.7,
         "place": "10 km NNW of The Geysers, California",
         "time": 1775008200000,
+        "updated": 1775008500000,
+        "tsunami": 0,
+        "sig": 112,
+        "felt": 2,
+        "alert": null,
+        "status": "automatic",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc7000abcf"
-      }
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.78, 38.84, 2.1] }
     }
   ]
 }

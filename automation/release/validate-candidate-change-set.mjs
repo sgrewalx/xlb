@@ -7,6 +7,7 @@ export const promotablePaths = [
   "public/content/video/shorts.json",
   "public/content/games/",
   "public/content/gallery/",
+  "public/content/earthquakes/current.json",
   "automation/reports/",
   "automation/experiments/",
   "public/sitemap.xml",

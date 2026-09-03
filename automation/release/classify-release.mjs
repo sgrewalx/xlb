@@ -23,6 +23,7 @@ export const CONTENT_ONLY_ALLOWLIST = Object.freeze([
   "public/content/home/modules.json",
   "public/content/games/catalog.json",
   "public/content/topics/index.json",
+  "public/content/earthquakes/current.json",
   "public/sitemap.xml",
 ]);
 

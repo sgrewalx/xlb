@@ -82,6 +82,48 @@
           },
           "notes": {
             "type": "string"
+          },
+          "measurementStart": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "trigger",
+              "state",
+              "minimumDays",
+              "productionReleaseSha",
+              "productionDeployedAt"
+            ],
+            "properties": {
+              "trigger": {
+                "const": "actual-production-deployment"
+              },
+              "state": {
+                "type": "string",
+                "enum": [
+                  "awaiting-production-deployment",
+                  "measuring",
+                  "completed"
+                ]
+              },
+              "minimumDays": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "productionReleaseSha": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "pattern": "^[0-9a-f]{40}$"
+              },
+              "productionDeployedAt": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "format": "date-time"
+              }
+            }
           }
         }
       }

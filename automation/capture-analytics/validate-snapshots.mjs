@@ -37,6 +37,32 @@ export function validateAnalyticsSnapshotSet({ ga4, searchConsole, merged }) {
   );
 }
 
+export function validateSearchConsoleQuerySnapshot(snapshot, { label = "Search Console queries" } = {}) {
+  assert(snapshot && typeof snapshot === "object", `${label}: snapshot must be an object`);
+  assert(Number.isFinite(Date.parse(snapshot.capturedAt)), `${label}: capturedAt must be an ISO date`);
+  assert(Number.isFinite(Date.parse(snapshot.window?.start)), `${label}: window.start must be an ISO date`);
+  assert(Number.isFinite(Date.parse(snapshot.window?.end)), `${label}: window.end must be an ISO date`);
+  assert(snapshot.sources?.searchConsole === true, `${label}: Search Console source must be enabled`);
+  assert(JSON.stringify(snapshot.dimensions) === JSON.stringify(["query", "page"]), `${label}: dimensions are invalid`);
+  assert(
+    ["data", "no-rows", "no-query-column"].includes(snapshot.evidenceStatus),
+    `${label}: evidenceStatus is invalid`,
+  );
+  assert(Array.isArray(snapshot.rows), `${label}: rows must be an array`);
+  if (snapshot.evidenceStatus === "data") {
+    assert(snapshot.rows.length > 0, `${label}: data status requires query rows`);
+  } else {
+    assert(snapshot.rows.length === 0, `${label}: no-evidence status requires no query rows`);
+  }
+  snapshot.rows.forEach((row, index) => {
+    assert(typeof row.query === "string" && row.query.trim(), `${label}: row ${index} query is invalid`);
+    assert(typeof row.path === "string" && row.path.startsWith("/"), `${label}: row ${index} path is invalid`);
+    for (const metric of ["clicks", "impressions", "ctr", "position"]) {
+      assert(Number.isFinite(row[metric]) && row[metric] >= 0, `${label}: row ${index} ${metric} is invalid`);
+    }
+  });
+}
+
 export function validateGa4Diagnostics(diagnostics, { label, pageCount } = {}) {
   assert(diagnostics && typeof diagnostics === "object", `${label}: GA4 diagnostics are required`);
   assert(/^\d+$/.test(diagnostics.propertyId ?? ""), `${label}: GA4 propertyId is invalid`);
@@ -99,13 +125,15 @@ async function main() {
   const date = process.env.XLB_SNAPSHOT_DATE?.trim();
   assert(/^\d{4}-\d{2}-\d{2}$/.test(date ?? ""), "XLB_SNAPSHOT_DATE must use YYYY-MM-DD");
   const directory = new URL("../snapshots/", import.meta.url);
-  const [ga4, searchConsole, merged] = await Promise.all([
+  const [ga4, searchConsole, searchConsoleQueries, merged] = await Promise.all([
     readJson(new URL(`ga4-${date}.json`, directory)),
     readJson(new URL(`search-console-${date}.json`, directory)),
+    readJson(new URL(`search-console-queries-${date}.json`, directory)),
     readJson(new URL(`merged-${date}.json`, directory)),
   ]);
 
   validateAnalyticsSnapshotSet({ ga4, searchConsole, merged });
+  validateSearchConsoleQuerySnapshot(searchConsoleQueries);
   console.log(`Validated analytics snapshot set for ${date}`);
 }
 

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xlb.codemachine.in/schemas/search-console-query-snapshot.schema.json",
+  "title": "XLB workflow-only Search Console query snapshot",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["capturedAt", "window", "sources", "dimensions", "evidenceStatus", "rows"],
+  "properties": {
+    "capturedAt": { "type": "string", "format": "date-time" },
+    "window": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end"],
+      "properties": {
+        "start": { "type": "string", "format": "date-time" },
+        "end": { "type": "string", "format": "date-time" }
+      }
+    },
+    "sources": { "type": "object" },
+    "dimensions": { "const": ["query", "page"] },
+    "evidenceStatus": {
+      "type": "string",
+      "enum": ["data", "no-rows", "no-query-column"]
+    },
+    "rows": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["query", "path", "clicks", "impressions", "ctr", "position"],
+        "properties": {
+          "query": { "type": "string", "minLength": 1 },
+          "path": { "type": "string", "pattern": "^/" },
+          "clicks": { "type": "number", "minimum": 0 },
+          "impressions": { "type": "number", "minimum": 0 },
+          "ctr": { "type": "number", "minimum": 0 },
+          "position": { "type": "number", "minimum": 0 }
+        }
+      }
+    }
+  }
+}

@@ -1,12 +1,39 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
+import {
+  buildEarthquakeManifest,
+  USGS_DAILY_FEED_URL,
+  USGS_WEEKLY_FEED_URL,
+} from "./earthquake-manifest.mjs";
 
-const USGS_EARTHQUAKE_FEED_URL =
-  "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson";
+export async function fetchUsgsEarthquakeSeeds(options = {}) {
+  const result = await fetchUsgsEarthquakePackage(options);
+  return {
+    items: result.items,
+    stats: result.stats,
+    fallbackUsed: result.fallbackUsed,
+  };
+}
 
-export async function fetchUsgsEarthquakeSeeds() {
-  const { json, fallbackUsed } = await loadEarthquakeFeedJson();
-  const { items, stats } = parseEarthquakeFeed(json);
+export async function fetchUsgsEarthquakePackage({
+  fetchImpl = fetch,
+  fixtureDir = process.env.XLB_LIVE_EVENTS_FIXTURE_DIR,
+} = {}) {
+  const [daily, weekly] = await Promise.all([
+    loadEarthquakeFeedJson({
+      fetchImpl,
+      fixtureDir,
+      url: USGS_DAILY_FEED_URL,
+      fixtureName: "usgs-all-day.geojson",
+    }),
+    loadEarthquakeFeedJson({
+      fetchImpl,
+      fixtureDir,
+      url: USGS_WEEKLY_FEED_URL,
+      fixtureName: "usgs-all-week.geojson",
+    }),
+  ]);
+  const { items, stats } = parseEarthquakeFeed(daily.json);
 
   if (!items.length) {
     throw new Error("USGS earthquake feed returned no parseable live event seeds");
@@ -15,20 +42,25 @@ export async function fetchUsgsEarthquakeSeeds() {
   return {
     items,
     stats,
-    fallbackUsed,
+    fallbackUsed: daily.mode !== "live" || weekly.mode !== "live",
+    sourceMode: daily.mode === weekly.mode ? daily.mode : `${daily.mode}+${weekly.mode}`,
+    manifestPublishable: daily.mode !== "bundled-fallback" && weekly.mode !== "bundled-fallback",
+    manifest: buildEarthquakeManifest({
+      currentFeed: daily.json,
+      weeklyFeed: weekly.json,
+    }),
   };
 }
 
-async function loadEarthquakeFeedJson() {
-  const fixtureDir = process.env.XLB_LIVE_EVENTS_FIXTURE_DIR;
-  const bundledFixture = new URL("./fixtures/usgs-all-day.geojson", import.meta.url);
+async function loadEarthquakeFeedJson({ fetchImpl, fixtureDir, url, fixtureName }) {
+  const bundledFixture = new URL(`./fixtures/${fixtureName}`, import.meta.url);
 
   if (fixtureDir) {
-    const fixturePath = path.join(fixtureDir, "usgs-all-day.geojson");
+    const fixturePath = path.join(fixtureDir, fixtureName);
 
     try {
       const contents = await readFile(fixturePath, "utf8");
-      return { json: JSON.parse(contents), fallbackUsed: true };
+      return { json: JSON.parse(contents), mode: "fixture" };
     } catch (error) {
       if (!error || typeof error !== "object" || !("code" in error) || error.code !== "ENOENT") {
         throw error;
@@ -37,7 +69,7 @@ async function loadEarthquakeFeedJson() {
   }
 
   try {
-    const response = await fetch(USGS_EARTHQUAKE_FEED_URL, {
+    const response = await fetchImpl(url, {
       headers: {
         accept: "application/json",
         "user-agent": "xlb-live-events-automation/1.0",
@@ -49,10 +81,10 @@ async function loadEarthquakeFeedJson() {
       throw new Error(`USGS earthquake feed request failed: ${response.status} ${response.statusText}`);
     }
 
-    return { json: await response.json(), fallbackUsed: false };
+    return { json: await response.json(), mode: "live" };
   } catch {
     const contents = await readFile(bundledFixture, "utf8");
-    return { json: JSON.parse(contents), fallbackUsed: true };
+    return { json: JSON.parse(contents), mode: "bundled-fallback" };
   }
 }
 

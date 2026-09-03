@@ -2,6 +2,7 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { assessTechArticle } from "../automation/fetch-tech/policy.mjs";
+import { validateEarthquakeManifest } from "../automation/refresh-live-events/earthquake-manifest.mjs";
 
 const root = new URL("../public/content/", import.meta.url);
 
@@ -24,6 +25,7 @@ const files = [
   ["live/events.json", validateLiveEvents],
   ["live/scoreboard.json", validateLiveScoreboard],
   ["topics/index.json", validateTopics],
+  ["earthquakes/current.json", validateEarthquakes],
 ];
 
 function assert(condition, message) {
@@ -51,6 +53,14 @@ function validateExpandedFeed(json, label) {
     assert(isString(item.whyItMatters), `${label}: item ${index} whyItMatters required`);
     validateOptionalImageFields(item, `${label}: item ${index}`);
   });
+}
+
+function validateEarthquakes(json, label) {
+  try {
+    validateEarthquakeManifest(json);
+  } catch (error) {
+    throw new Error(`${label}: ${error instanceof Error ? error.message : String(error)}`);
+  }
 }
 
 function validateTechExpandedFeed(json, label) {

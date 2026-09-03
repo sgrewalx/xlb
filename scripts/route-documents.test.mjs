@@ -67,6 +67,37 @@ test("route HTML contains route-specific pre-render metadata and content", async
   assert.doesNotMatch(html, /<div id="root"><\/div>/);
 });
 
+test("earthquake route has dedicated search metadata, useful static copy, and Dataset markup", async () => {
+  const baseHtml = await readFile(new URL("../index.html", import.meta.url), "utf8");
+  const earthquakeFeed = {
+    updatedAt: "2026-09-03T00:00:00.000Z",
+    items: [{
+      slug: "global-earthquake-watch",
+      title: "Global earthquake watch",
+      summary: "USGS reported current earthquake activity.",
+      status: "monitoring",
+      category: "earth",
+      topic: "earthquakes",
+      sourceName: "USGS Earthquake Hazards Program",
+      updatedAt: "2026-09-03T00:00:00.000Z",
+    }],
+  };
+  const earthquakeTopics = {
+    items: [{ slug: "earthquakes", title: "Earthquakes", category: "earth", summary: "Recent global earthquake activity." }],
+  };
+  const route = buildRouteDefinitions({ eventsFeed: earthquakeFeed, topicsFeed: earthquakeTopics })
+    .find((candidate) => candidate.path === "/events/global-earthquake-watch");
+  const html = renderRouteDocument(baseHtml, route);
+
+  assert.match(html, /<title>Live Earthquake Map: Recent Global Earthquakes \| XLB<\/title>/);
+  assert.match(html, /<h1>Live Earthquake Map<\/h1>/);
+  assert.match(html, /previous six days/);
+  assert.match(html, /does not predict earthquakes/);
+  assert.match(html, /"@type": "Dataset"/);
+  assert.match(html, /content\/earthquakes\/current\.json/);
+  assert.match(html, /rel="canonical" href="https:\/\/xlb\.codemachine\.in\/events\/global-earthquake-watch"/);
+});
+
 test("404 document is noindex and carries a clear H1", async () => {
   const baseHtml = await readFile(new URL("../index.html", import.meta.url), "utf8");
   const html = renderNotFoundDocument(baseHtml);
