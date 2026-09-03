@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-03T12:24:21.118Z",
+  "updatedAt": "2026-09-03T16:47:23.328Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-badenoch-condemns-reform-uk-s-authoritarian-pres-f295ad9fde",
-      "title": "Badenoch condemns Reform UK’s ‘authoritarian’ press bans – UK politics live",
+      "id": "news-rajnath-singh-releases-raksha-framework-for-defe-1db6ececb8",
+      "title": "Rajnath Singh releases ‘Raksha’ framework for defence diplomacy over next decade",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/rajnath-singh-releases-raksha-framework-for-defence-diplomacy-over-next-decade/article71424839.ece",
+      "tag": "India",
+      "publishedAt": "2026-09-03T16:41:33.000Z",
+      "summary": "The strategic blueprint identifies several key pillars, including deepening bilateral and multilateral defence partnerships, expanding joint military exercises, and training pro...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://th-i.thgim.com/public/incoming/mb5he3/article71425377.ece/alternates/LANDSCAPE_1200/20260903208L.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/news/national/rajnath-singh-releases-raksha-framework-for-defence-diplomacy-over-next-decade/article71424839.ece"
+    },
+    {
+      "id": "news-nvidia-strikes-12-9bn-deal-to-buy-ai-platform-hu-0cca429cd2",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "tag": "US",
+      "publishedAt": "2026-09-03T16:32:05.000Z",
+      "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-labour-condemns-reform-s-plan-for-100bn-in-cuts--4849c1dacf",
+      "title": "Labour condemns Reform’s plan for £100bn in cuts as ‘half-baked’ and ‘incredibly reckless’ – UK politics live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-09-03T12:20:04.000Z",
-      "summary": "Conservative leader says: ‘If Nigel Farage can’t handle difficult questions about his dodgy £5m, then he shouldn’t be a politician’ The Electoral Commission has released politic...",
+      "publishedAt": "2026-09-03T16:30:22.000Z",
+      "summary": "Labour chair says uch cuts ‘could mean vital public services like hospitals, schools and law enforcement are put at risk’ The Electoral Commission has released political donatio...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/1f2a0a3fe32174a75270d3c2a9fb0443ca8f9968/555_0_5000_4000/master/5000.jpg?width=460&quality=85&auto=format&fit=max&s=4bb751ab3f89523a9b3f8f902d8b5dd1",
-      "imageCredit": "Photograph: Yui Mok/PA",
+      "image": "https://i.guim.co.uk/img/media/c67a5bb1a72f622ad8e4c264c37285065deda1a8/535_0_6140_4912/master/6140.jpg?width=460&quality=85&auto=format&fit=max&s=9c3679070c693a560992e27dfcfa3931",
+      "imageCredit": "Photograph: Thomas Krych/ZUMA Press Wire/Shutterstock",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates"
-    },
-    {
-      "id": "news-embattled-spanish-pm-insists-there-were-no-prior-693c2b9091",
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-09-03T12:18:07.000Z",
-      "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8816/live/a45454a0-a76d-11f1-993c-a325009c1935.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-ganga-water-level-likely-to-breach-highest-flood-e81931d51c",
-      "title": "Ganga water level likely to breach ‘highest flood mark’ at Patna’s Gandhi Ghat on Sept. 3 night",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/bihar/ganga-water-level-likely-to-breach-highest-flood-mark-at-patnas-gandhi-ghat-on-sept-3-night/article71423802.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-03T12:17:22.000Z",
-      "summary": "Bihar CM Samrat Choudhary reviews Ganga situation, directs officials to remain vigilant",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/gavwlf/article71423843.ece/alternates/LANDSCAPE_1200/20260903108L.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/bihar/ganga-water-level-likely-to-breach-highest-flood-mark-at-patnas-gandhi-ghat-on-sept-3-night/article71423802.ece"
     }
   ]
 }
