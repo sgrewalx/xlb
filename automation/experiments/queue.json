@@ -13,7 +13,14 @@
       ],
       "successMetric": "Primary: Search Console impressions and clicks. Secondary: engaged visits, repeat visits, earthquake interactions, and USGS source clicks over at least 14 days.",
       "rollbackPlan": "Restore the summary-only event treatment if the tool introduces correctness or usability regressions; do not claim significance from low-volume samples.",
-      "notes": "Pre-release baseline captured 2026-09-03: GA4 reported 2 pageviews and 1 visit for the route in the 7-day merged window. The 29-day Search Console page snapshot contained no row for this route, which means no reported route-level search data rather than a confirmed numeric zero. Begin the 14-day measurement window only after supervised deployment."
+      "notes": "Pre-release baseline captured 2026-09-03: GA4 reported 2 pageviews and 1 visit for the route in the 7-day merged window. The 29-day Search Console page snapshot contained no row for this route, which means no reported route-level search data rather than a confirmed numeric zero. Begin the 14-day measurement window only after supervised deployment, then record the exact production release SHA and deployment timestamp below.",
+      "measurementStart": {
+        "trigger": "actual-production-deployment",
+        "state": "awaiting-production-deployment",
+        "minimumDays": 14,
+        "productionReleaseSha": null,
+        "productionDeployedAt": null
+      }
     },
     {
       "id": "exp-live-space-foundation",
