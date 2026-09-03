@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-09-03T21:30:26.499Z",
+  "updatedAt": "2026-09-03T23:43:13.380Z",
   "items": [
     {
-      "id": "tech-the-apple-vision-pro-was-used-for-a-successful-h-29bf529efa",
-      "title": "The Apple Vision Pro was used for a successful hip surgery",
+      "id": "tech-could-robots-be-the-future-of-theme-parks-9949e24b50",
+      "title": "Could robots be the future of theme parks?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-03T23:34:27.000Z",
+      "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-what-is-the-best-waterproof-rating-for-bluetooth-809d02ac6a",
+      "title": "What Is The Best Waterproof Rating For Bluetooth Speakers?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy",
+      "url": "https://www.engadget.com/2246427/best-waterproof-bluetooth-speaker-rating",
       "tag": "Technology",
-      "publishedAt": "2026-09-03T21:14:11.000Z",
-      "summary": "Stryker says its SportSuite Vision software for the headset received De Novo authorization from the FDA in July.",
+      "publishedAt": "2026-09-03T23:00:00.000Z",
+      "summary": "There's nothing like lounging by the pool, listening to your favorite tunes. But is your Bluetooth speaker waterproof enough to handle a simple splash of water?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-best-waterproof-rating-for-bluetooth-speakers/l-intro-1787683337.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy"
+      "imageSourceUrl": "https://www.engadget.com/2246427/best-waterproof-bluetooth-speaker-rating"
     },
     {
-      "id": "tech-us-senator-calls-on-the-nsa-to-give-guidance-for-53edd08f74",
-      "title": "US senator calls on the NSA to give guidance for use of VPNs",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns",
+      "id": "tech-5-best-video-doorbell-cameras-2026-subscription--bd69309a95",
+      "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
+      "source": "Wired",
+      "url": "https://www.wired.com/gallery/best-video-doorbells",
       "tag": "Technology",
-      "publishedAt": "2026-09-03T19:52:06.000Z",
-      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
+      "publishedAt": "2026-09-03T22:48:55.000Z",
+      "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
-      "imageCredit": "Getty Images",
+      "image": "https://media.wired.com/photos/69c6cf4311f836e20d54dee4/master/pass/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns"
-    },
-    {
-      "id": "tech-startup-arr-is-less-secure-than-ever-new-researc-0004e181e3",
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows",
-      "tag": "Technology",
-      "publishedAt": "2026-09-03T20:59:23.000Z",
-      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "imageSourceUrl": "https://www.wired.com/gallery/best-video-doorbells"
     }
   ]
 }
