@@ -1,8 +1,12 @@
+import { mkdir, readFile, rename, rm, writeFile } from "node:fs/promises";
+import path from "node:path";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
 import { formatTopicTitle, summarizeTopic } from "../shared/live-topic-copy.mjs";
 import { fetchNasaLaunchSeeds } from "./fetch-nasa-launches.mjs";
 import { fetchNoaaSpaceWeatherSeeds } from "./fetch-noaa-space-weather.mjs";
-import { fetchUsgsEarthquakeSeeds } from "./fetch-usgs-earthquakes.mjs";
+import { fetchUsgsEarthquakePackage } from "./fetch-usgs-earthquakes.mjs";
+import { validateEarthquakeManifest } from "./earthquake-manifest.mjs";
 
 const SOURCE_FILE = new URL("./source.json", import.meta.url);
 const EVENTS_FILE = new URL("../../public/content/live/events.json", import.meta.url);
@@ -10,6 +14,7 @@ const TOPICS_FILE = new URL("../../public/content/topics/index.json", import.met
 const SCOREBOARD_FILE = new URL("../../public/content/live/scoreboard.json", import.meta.url);
 const VIDEO_FILE = new URL("../../public/content/video/top.json", import.meta.url);
 const SOURCE_INTAKE_FILE = new URL("../../automation/reports/live-source-intake.json", import.meta.url);
+const EARTHQUAKE_MANIFEST_FILE = new URL("../../public/content/earthquakes/current.json", import.meta.url);
 
 async function main() {
   const source = await readJsonIfExists(SOURCE_FILE);
@@ -18,7 +23,8 @@ async function main() {
     throw new Error("Live-event source inventory is missing or empty");
   }
 
-  const { items: sourceItems, intake } = await hydrateSourceItems(source.items);
+  const { items: sourceItems, intake, earthquakeManifest, earthquakeManifestPublishable } =
+    await hydrateSourceItems(source.items);
 
   const scoreboard = await readJsonIfExists(SCOREBOARD_FILE);
   const videoFeed = await readJsonIfExists(VIDEO_FILE);
@@ -48,6 +54,10 @@ async function main() {
 
   const topics = buildTopics(events, scoreMap, updatedAt);
 
+  if (earthquakeManifestPublishable) {
+    validateEarthquakeManifest(earthquakeManifest);
+  }
+
   const eventsChanged = await writeJsonIfChanged(EVENTS_FILE, {
     updatedAt,
     section: "Live Events",
@@ -61,6 +71,11 @@ async function main() {
   const intakeChanged = await writeJsonIfChanged(SOURCE_INTAKE_FILE, {
     generatedAt: updatedAt,
     ...intake,
+  });
+  const earthquakeChanged = await persistEarthquakeManifest({
+    fileUrl: EARTHQUAKE_MANIFEST_FILE,
+    manifest: earthquakeManifest,
+    publishable: earthquakeManifestPublishable,
   });
 
   console.log(
@@ -78,6 +93,15 @@ async function main() {
       ? "Updated automation/reports/live-source-intake.json"
       : "automation/reports/live-source-intake.json already matched generated output",
   );
+  if (earthquakeManifestPublishable) {
+    console.log(
+      `${earthquakeChanged ? "Updated" : "No change to"} public/content/earthquakes/current.json: ` +
+      `${earthquakeManifest.summary.total} events, strongest M${earthquakeManifest.summary.strongestMagnitude}, ` +
+      `source updated ${earthquakeManifest.updatedAt}`,
+    );
+  } else {
+    console.warn("Preserved last-known-good earthquake manifest because the live USGS source was unavailable");
+  }
 }
 
 async function hydrateSourceItems(items) {
@@ -92,6 +116,8 @@ async function hydrateSourceItems(items) {
     sources: [],
   };
   const hydratedItems = [...staticItems];
+  let earthquakeManifest = null;
+  let earthquakeManifestPublishable = false;
 
   try {
     const { items: nasaLaunchSeeds, fallbackUsed } = await fetchNasaLaunchSeeds();
@@ -129,7 +155,10 @@ async function hydrateSourceItems(items) {
   }
 
   try {
-    const { items: usgsEarthquakeSeeds, stats, fallbackUsed } = await fetchUsgsEarthquakeSeeds();
+    const earthquakePackage = await fetchUsgsEarthquakePackage();
+    const { items: usgsEarthquakeSeeds, stats, fallbackUsed, sourceMode } = earthquakePackage;
+    earthquakeManifest = earthquakePackage.manifest;
+    earthquakeManifestPublishable = earthquakePackage.manifestPublishable;
     intake.sources.push({
       id: "usgs-earthquakes",
       status: usgsEarthquakeSeeds.length >= 1 ? "healthy" : "degraded",
@@ -139,6 +168,8 @@ async function hydrateSourceItems(items) {
       staleSeedCount: 0,
       strongestMagnitude: stats.strongestMagnitude,
       largeCount: stats.largeCount,
+      sourceMode,
+      manifestPublishable: earthquakeManifestPublishable,
     });
     hydratedItems.push(...usgsEarthquakeSeeds);
   } catch (error) {
@@ -181,7 +212,39 @@ async function hydrateSourceItems(items) {
     hydratedItems.push(...auroraSeeds);
   }
 
-  return { items: hydratedItems, intake };
+  return { items: hydratedItems, intake, earthquakeManifest, earthquakeManifestPublishable };
+}
+
+export async function writeValidatedJsonAtomically(fileUrl, value) {
+  validateEarthquakeManifest(value);
+  const contents = `${JSON.stringify(value, null, 2)}\n`;
+  try {
+    if (await readFile(fileUrl, "utf8") === contents) {
+      return false;
+    }
+  } catch (error) {
+    if (!error || typeof error !== "object" || !("code" in error) || error.code !== "ENOENT") {
+      throw error;
+    }
+  }
+
+  const targetPath = fileURLToPath(fileUrl);
+  const temporaryPath = `${targetPath}.${process.pid}.tmp`;
+  await mkdir(path.dirname(targetPath), { recursive: true });
+  try {
+    await writeFile(temporaryPath, contents, "utf8");
+    await rename(temporaryPath, targetPath);
+  } finally {
+    await rm(temporaryPath, { force: true });
+  }
+  return true;
+}
+
+export async function persistEarthquakeManifest({ fileUrl, manifest, publishable }) {
+  if (!publishable) {
+    return false;
+  }
+  return writeValidatedJsonAtomically(fileUrl, manifest);
 }
 
 function filterFreshLaunchSeeds(items) {
@@ -314,7 +377,9 @@ function normalizeText(value) {
   return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

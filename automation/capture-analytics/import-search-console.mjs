@@ -1,4 +1,5 @@
 import { readFile } from "node:fs/promises";
+import { pathToFileURL } from "node:url";
 import { writeJsonIfChanged } from "../shared/content-writer.mjs";
 import { parseCsv } from "./shared/csv.mjs";
 
@@ -9,16 +10,27 @@ const INPUT_FILE = process.env.XLB_SEARCH_CONSOLE_SOURCE
 async function main() {
   const payload = applySnapshotDateOverride(await loadInput());
   const snapshot = normalizeSearchConsoleSnapshot(payload);
+  const querySnapshot = normalizeSearchConsoleQuerySnapshot(payload, snapshot);
+  const date = snapshot.capturedAt.slice(0, 10);
   const outputFile = new URL(
-    `../snapshots/search-console-${snapshot.capturedAt.slice(0, 10)}.json`,
+    `../snapshots/search-console-${date}.json`,
     import.meta.url,
   );
-  const changed = await writeJsonIfChanged(outputFile, snapshot);
+  const queryOutputFile = new URL(`../snapshots/search-console-queries-${date}.json`, import.meta.url);
+  const [changed, queryChanged] = await Promise.all([
+    writeJsonIfChanged(outputFile, snapshot),
+    writeJsonIfChanged(queryOutputFile, querySnapshot),
+  ]);
 
   console.log(
     changed
       ? `Updated automation/snapshots/search-console-${snapshot.capturedAt.slice(0, 10)}.json`
       : `automation/snapshots/search-console-${snapshot.capturedAt.slice(0, 10)}.json already matched normalized output`,
+  );
+  console.log(
+    queryChanged
+      ? `Updated automation/snapshots/search-console-queries-${date}.json`
+      : `automation/snapshots/search-console-queries-${date}.json already matched normalized output`,
   );
 }
 
@@ -48,7 +60,7 @@ async function loadInput() {
   return JSON.parse(contents);
 }
 
-function normalizeSearchConsoleSnapshot(payload) {
+export function normalizeSearchConsoleSnapshot(payload) {
   const capturedAt = toIso(payload.capturedAt ?? new Date().toISOString());
   const start = toIso(payload.window?.start ?? capturedAt);
   const end = toIso(payload.window?.end ?? capturedAt);
@@ -76,6 +88,28 @@ function normalizeSearchConsoleSnapshot(payload) {
       decision: "review",
       notes: "Imported from Search Console-style export.",
     })),
+  };
+}
+
+export function normalizeSearchConsoleQuerySnapshot(payload, pageSnapshot) {
+  const rows = Array.isArray(payload.queryRows)
+    ? payload.queryRows
+    : Array.isArray(payload.rows)
+      ? payload.rows.filter((row) => typeof row.query === "string")
+      : [];
+  return {
+    capturedAt: pageSnapshot.capturedAt,
+    window: pageSnapshot.window,
+    sources: pageSnapshot.sources,
+    dimensions: ["query", "page"],
+    rows: rows.map((row) => ({
+      query: String(row.query ?? "").trim(),
+      path: normalizePath(row.path),
+      clicks: toNumber(row.clicks),
+      impressions: toNumber(row.impressions),
+      ctr: toNumber(row.ctr),
+      position: toNumber(row.position),
+    })).filter((row) => row.query && row.path),
   };
 }
 
@@ -108,6 +142,16 @@ function toNumber(value) {
   return typeof value === "number" && Number.isFinite(value) ? value : 0;
 }
 
+function normalizePath(value) {
+  const text = String(value ?? "").trim();
+  if (!text) return "";
+  try {
+    return new URL(text).pathname || "/";
+  } catch {
+    return text.startsWith("/") ? text : `/${text}`;
+  }
+}
+
 function toIso(value) {
   const date = new Date(String(value));
 
@@ -118,7 +162,9 @@ function toIso(value) {
   return date.toISOString();
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

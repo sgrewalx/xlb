@@ -30,6 +30,7 @@ test("analytics persistence is a separate prerequisite failure domain", async ()
   assert.match(workflow, /^  publish-content-candidate:/m);
   assert.match(workflow, /^    needs: persist-analytics$/m);
   assert.match(workflow, /git status --porcelain --untracked-files=all/);
+  assert.match(workflow, /automation\/snapshots\/search-console-queries-\$\{XLB_SNAPSHOT_DATE\}\.json/);
   ordered(workflow, [
     "- name: Validate analytics snapshots",
     "- name: Commit validated analytics snapshots",
@@ -51,6 +52,7 @@ test("content promotion can only occur after the complete candidate passes", asy
   ]);
   assert.doesNotMatch(workflow, /XLB_FAIL_ON_DEGRADED_SOURCES:\s*["']?0/);
   assert.doesNotMatch(workflow, /XLB_FAIL_ON_HIGH_RISK:\s*["']?0/);
+  assert.match(workflow, /public\/content\/earthquakes\/current\.json/);
 });
 
 test("deploy uses separate automatic and supervised exact-SHA handoffs", async () => {

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1775017200000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
+    "title": "USGS All Earthquakes, Past Week"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "us7000abcd",
+      "properties": { "mag": 5.6, "place": "87 km SE of Pondaguitan, Philippines", "time": 1775015400000, "updated": 1775016000000, "tsunami": 0, "sig": 482, "felt": 12, "alert": "green", "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000abcd" },
+      "geometry": { "type": "Point", "coordinates": [126.84, 5.92, 42.3] }
+    },
+    {
+      "type": "Feature",
+      "id": "us7000abce",
+      "properties": { "mag": 4.8, "place": "South Sandwich Islands region", "time": 1775011800000, "updated": 1775012400000, "tsunami": 0, "sig": 354, "felt": null, "alert": null, "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000abce" },
+      "geometry": { "type": "Point", "coordinates": [-26.51, -56.24, 86.2] }
+    },
+    {
+      "type": "Feature",
+      "id": "nc7000abcf",
+      "properties": { "mag": 2.7, "place": "10 km NNW of The Geysers, California", "time": 1775008200000, "updated": 1775008500000, "tsunami": 0, "sig": 112, "felt": 2, "alert": null, "status": "automatic", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc7000abcf" },
+      "geometry": { "type": "Point", "coordinates": [-122.78, 38.84, 2.1] }
+    },
+    {
+      "type": "Feature",
+      "id": "ak7000base1",
+      "properties": { "mag": 4.2, "place": "Aleutian Islands, Alaska", "time": 1774920000000, "updated": 1774920600000, "tsunami": 0, "sig": 270, "felt": null, "alert": null, "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak7000base1" },
+      "geometry": { "type": "Point", "coordinates": [-167.2, 52.1, 31.4] }
+    },
+    {
+      "type": "Feature",
+      "id": "us7000base2",
+      "properties": { "mag": 5.1, "place": "Kermadec Islands region", "time": 1774830000000, "updated": 1774830600000, "tsunami": 0, "sig": 400, "felt": null, "alert": null, "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000base2" },
+      "geometry": { "type": "Point", "coordinates": [-177.8, -29.7, 18.2] }
+    },
+    {
+      "type": "Feature",
+      "id": "us7000base3",
+      "properties": { "mag": 3.6, "place": "Central Mid-Atlantic Ridge", "time": 1774740000000, "updated": 1774740600000, "tsunami": 0, "sig": 198, "felt": null, "alert": null, "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000base3" },
+      "geometry": { "type": "Point", "coordinates": [-30.5, 2.8, 10.0] }
+    },
+    {
+      "type": "Feature",
+      "id": "us7000base4",
+      "properties": { "mag": 4.7, "place": "Near the coast of Peru", "time": 1774650000000, "updated": 1774650600000, "tsunami": 0, "sig": 340, "felt": 8, "alert": null, "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000base4" },
+      "geometry": { "type": "Point", "coordinates": [-75.1, -15.2, 44.0] }
+    },
+    {
+      "type": "Feature",
+      "id": "us7000base5",
+      "properties": { "mag": 2.9, "place": "Northern Italy", "time": 1774560000000, "updated": 1774560600000, "tsunami": 0, "sig": 129, "felt": 4, "alert": null, "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000base5" },
+      "geometry": { "type": "Point", "coordinates": [11.2, 45.4, 7.8] }
+    },
+    {
+      "type": "Feature",
+      "id": "us7000base6",
+      "properties": { "mag": 4.0, "place": "Hindu Kush region, Afghanistan", "time": 1774470000000, "updated": 1774470600000, "tsunami": 0, "sig": 246, "felt": 22, "alert": null, "status": "reviewed", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000base6" },
+      "geometry": { "type": "Point", "coordinates": [70.4, 36.5, 112.0] }
+    }
+  ]
+}

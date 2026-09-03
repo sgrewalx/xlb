@@ -1,3 +1,4 @@
+import { pathToFileURL } from "node:url";
 import { writeJsonIfChanged } from "../shared/content-writer.mjs";
 import { getGoogleAccessToken } from "./shared/google-auth.mjs";
 
@@ -6,65 +7,81 @@ const SEARCH_CONSOLE_SCOPE = "https://www.googleapis.com/auth/webmasters.readonl
 
 async function main() {
   const siteUrl = process.env.SEARCH_CONSOLE_SITE_URL?.trim();
-
   if (!siteUrl) {
     throw new Error("Missing SEARCH_CONSOLE_SITE_URL.");
   }
 
-  const snapshot = await fetchSearchConsoleSnapshot(siteUrl);
-  const outputFile = new URL(
-    `search-console-${snapshot.capturedAt.slice(0, 10)}.json`,
-    OUTPUT_DIRECTORY,
-  );
-  const changed = await writeJsonIfChanged(outputFile, snapshot);
+  const { pageSnapshot, querySnapshot } = await fetchSearchConsoleDatasets(siteUrl);
+  const date = pageSnapshot.capturedAt.slice(0, 10);
+  const [pagesChanged, queriesChanged] = await Promise.all([
+    writeJsonIfChanged(new URL(`search-console-${date}.json`, OUTPUT_DIRECTORY), pageSnapshot),
+    writeJsonIfChanged(new URL(`search-console-queries-${date}.json`, OUTPUT_DIRECTORY), querySnapshot),
+  ]);
 
-  console.log(
-    changed
-      ? `Updated automation/snapshots/search-console-${snapshot.capturedAt.slice(0, 10)}.json from the Search Console API`
-      : `automation/snapshots/search-console-${snapshot.capturedAt.slice(0, 10)}.json already matched Search Console API output`,
-  );
+  console.log(`${pagesChanged ? "Updated" : "No change to"} page-level Search Console snapshot for ${date}`);
+  console.log(`${queriesChanged ? "Updated" : "No change to"} query-level Search Console snapshot for ${date}`);
 }
 
-async function fetchSearchConsoleSnapshot(siteUrl) {
-  const { accessToken } = await getGoogleAccessToken([SEARCH_CONSOLE_SCOPE]);
-  const window = getSearchConsoleWindow();
-  const rows = await runSearchConsoleQuery({
+export async function fetchSearchConsoleDatasets(
+  siteUrl,
+  {
     accessToken,
-    siteUrl,
-    body: {
-      startDate: window.startDate,
-      endDate: window.endDate,
-      dimensions: ["page"],
-      rowLimit: 25000,
-      dataState: "final",
-    },
-  });
+    getAccessToken = getGoogleAccessToken,
+    queryRunner = runSearchConsoleQuery,
+    window = getSearchConsoleWindow(),
+  } = {},
+) {
+  const token = accessToken ?? (await getAccessToken([SEARCH_CONSOLE_SCOPE])).accessToken;
+  const commonBody = {
+    startDate: window.startDate,
+    endDate: window.endDate,
+    rowLimit: 25000,
+    dataState: "final",
+  };
+  const [pageRows, queryRows] = await Promise.all([
+    queryRunner({ accessToken: token, siteUrl, body: { ...commonBody, dimensions: ["page"] } }),
+    queryRunner({ accessToken: token, siteUrl, body: { ...commonBody, dimensions: ["query", "page"] } }),
+  ]);
+  const metadata = {
+    capturedAt: window.capturedAt,
+    window: { start: window.startIso, end: window.endExclusiveIso },
+    sources: { cloudflare: false, searchConsole: true, ga4: false, adsense: false },
+  };
 
   return {
-    capturedAt: window.capturedAt,
-    window: {
-      start: window.startIso,
-      end: window.endExclusiveIso,
+    pageSnapshot: { ...metadata, pages: pageRows.map(normalizePageRow) },
+    querySnapshot: {
+      ...metadata,
+      dimensions: ["query", "page"],
+      rows: queryRows.map(normalizeQueryRow).filter((row) => row.query && row.path),
     },
-    sources: {
-      cloudflare: false,
-      searchConsole: true,
-      ga4: false,
-      adsense: false,
-    },
-    pages: rows.map((row) => ({
-      path: toPath(row.keys?.[0]),
-      pageviews: 0,
-      visits: 0,
-      searchImpressions: toNumber(row.impressions),
-      searchCtr: toNumber(row.ctr),
-      avgPosition: toNumber(row.position),
-      watchClicks: 0,
-      revenueUsd: 0,
-      engagementScore: 0,
-      decision: "review",
-      notes: "Imported from the Search Console API.",
-    })),
+  };
+}
+
+export function normalizeQueryRow(row) {
+  return {
+    query: String(row?.keys?.[0] ?? "").trim(),
+    path: toPath(row?.keys?.[1]),
+    clicks: toNumber(row?.clicks),
+    impressions: toNumber(row?.impressions),
+    ctr: toNumber(row?.ctr),
+    position: toNumber(row?.position),
+  };
+}
+
+function normalizePageRow(row) {
+  return {
+    path: toPath(row?.keys?.[0]),
+    pageviews: 0,
+    visits: 0,
+    searchImpressions: toNumber(row?.impressions),
+    searchCtr: toNumber(row?.ctr),
+    avgPosition: toNumber(row?.position),
+    watchClicks: 0,
+    revenueUsd: 0,
+    engagementScore: 0,
+    decision: "review",
+    notes: "Imported from the Search Console API.",
   };
 }
 
@@ -73,29 +90,22 @@ async function runSearchConsoleQuery({ accessToken, siteUrl, body }) {
     `https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(siteUrl)}/searchAnalytics/query`,
     {
       method: "POST",
-      headers: {
-        authorization: `Bearer ${accessToken}`,
-        "content-type": "application/json",
-      },
+      headers: { authorization: `Bearer ${accessToken}`, "content-type": "application/json" },
       body: JSON.stringify(body),
     },
   );
-
   const json = await response.json().catch(() => ({}));
-
   if (!response.ok) {
     throw new Error(`Search Console API request failed: ${response.status} ${JSON.stringify(json)}`);
   }
-
   return Array.isArray(json.rows) ? json.rows : [];
 }
 
-function getSearchConsoleWindow() {
+export function getSearchConsoleWindow() {
   const snapshotDate = process.env.XLB_SNAPSHOT_DATE ?? new Date().toISOString().slice(0, 10);
   const lagDays = Number(process.env.XLB_SEARCH_CONSOLE_LAG_DAYS ?? 2);
   const lookbackDays = Number(process.env.XLB_SEARCH_CONSOLE_LOOKBACK_DAYS ?? 7);
   const anchor = new Date(`${snapshotDate}T00:00:00.000Z`);
-
   if (Number.isNaN(anchor.valueOf())) {
     throw new Error(`Invalid XLB_SNAPSHOT_DATE: ${snapshotDate}`);
   }
@@ -118,11 +128,7 @@ function getSearchConsoleWindow() {
 
 function toPath(value) {
   const text = String(value ?? "").trim();
-
-  if (!text) {
-    return "";
-  }
-
+  if (!text) return "";
   try {
     return new URL(text).pathname || "/";
   } catch {
@@ -132,10 +138,12 @@ function toPath(value) {
 
 function toNumber(value) {
   const number = Number(value);
-  return Number.isFinite(number) ? number : 0;
+  return Number.isFinite(number) && number >= 0 ? number : 0;
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

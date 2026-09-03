@@ -87,6 +87,7 @@ jobs:
           if [ -z "$(git status --porcelain --untracked-files=all -- \
             "automation/snapshots/ga4-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/search-console-${XLB_SNAPSHOT_DATE}.json" \
+            "automation/snapshots/search-console-queries-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json")" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -105,6 +106,7 @@ jobs:
           git add -- \
             "automation/snapshots/ga4-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/search-console-${XLB_SNAPSHOT_DATE}.json" \
+            "automation/snapshots/search-console-queries-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json"
           git commit -m "chore: persist analytics snapshots for ${XLB_SNAPSHOT_DATE}"
 
@@ -160,6 +162,7 @@ jobs:
             public/content/video/shorts.json \
             public/content/games \
             public/content/gallery \
+            public/content/earthquakes/current.json \
             automation/reports \
             automation/experiments \
             public/sitemap.xml)" ]; then
@@ -184,6 +187,7 @@ jobs:
             public/content/video/shorts.json \
             public/content/games \
             public/content/gallery \
+            public/content/earthquakes/current.json \
             automation/reports \
             automation/experiments \
             public/sitemap.xml

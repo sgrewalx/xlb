@@ -9,7 +9,7 @@ test("analytics persistence remains complete when downstream homepage generation
 
   await assert.rejects(
     async () => {
-      durableSnapshots.push("ga4", "search-console", "merged");
+      durableSnapshots.push("ga4", "search-console", "search-console-queries", "merged");
       await runCandidatePipeline({
         steps: [{ id: "homepage" }],
         failStep: "homepage",
@@ -20,7 +20,7 @@ test("analytics persistence remains complete when downstream homepage generation
     /Injected candidate failure at homepage/,
   );
 
-  assert.deepEqual(durableSnapshots, ["ga4", "search-console", "merged"]);
+  assert.deepEqual(durableSnapshots, ["ga4", "search-console", "search-console-queries", "merged"]);
 });
 
 test("invalid candidate is not promoted and last-known-good content remains intact", async () => {
@@ -60,6 +60,8 @@ test("validated candidate is promoted only after validation and build", async ()
 
 test("candidate promotion allowlist rejects release code and accepts generated surfaces", () => {
   assert.equal(isPromotablePath("public/content/home/modules.json"), true);
+  assert.equal(isPromotablePath("public/content/earthquakes/current.json"), true);
+  assert.equal(isPromotablePath("public/content/earthquakes/archive.json"), false);
   assert.equal(isPromotablePath("automation/reports/deploy-readiness.json"), true);
   assert.equal(isPromotablePath("automation/release/run-content-candidate.mjs"), false);
   assert.equal(isPromotablePath("package.json"), false);
