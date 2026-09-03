@@ -10,7 +10,20 @@ export interface EarthquakeReturnDelta {
   newM4Plus: number;
   strongestNew: EarthquakeEvent | null;
 }
+export interface EarthquakeVisitMeasurement {
+  delta: EarthquakeReturnDelta | null;
+  shouldTrack: boolean;
+  didPersist: boolean;
+}
+export interface EarthquakeVisitSession {
+  priorVisitAtMount: EarthquakeVisit | null;
+  recordManifest(events: EarthquakeEvent[]): EarthquakeVisitMeasurement;
+}
 export function filterAndSortEarthquakes(events: EarthquakeEvent[], filter: EarthquakeFilter, sort: EarthquakeSort): EarthquakeEvent[];
 export function computeEarthquakeReturnDelta(events: EarthquakeEvent[], previousVisit: EarthquakeVisit | null): EarthquakeReturnDelta | null;
 export function readEarthquakeVisit(storage: Pick<Storage, "getItem">, key?: string): EarthquakeVisit | null;
 export function writeEarthquakeVisit(storage: Pick<Storage, "setItem">, updatedAt: string, events: EarthquakeEvent[], key?: string): void;
+export function createEarthquakeVisitSession(
+  storage: Pick<Storage, "getItem" | "setItem">,
+  options?: { key?: string; mountedAt?: string },
+): EarthquakeVisitSession;

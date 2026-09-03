@@ -10,10 +10,8 @@ import {
   trackEarthquakeUsgsClick,
 } from "../lib/analytics";
 import {
-  computeEarthquakeReturnDelta,
+  createEarthquakeVisitSession,
   filterAndSortEarthquakes,
-  readEarthquakeVisit,
-  writeEarthquakeVisit,
 } from "../lib/earthquake-utils.js";
 import type {
   EarthquakeEvent,
@@ -34,18 +32,18 @@ export function EarthquakeIntelligence({ item }: { item: LiveEventItem }) {
   const [sort, setSort] = useState<EarthquakeSort>("newest");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [returnDelta, setReturnDelta] = useState<EarthquakeReturnDelta | null>(null);
-  const trackedDelta = useRef(false);
+  const visitSession = useRef<ReturnType<typeof createEarthquakeVisitSession> | null>(null);
+  if (visitSession.current === null && typeof window !== "undefined") {
+    visitSession.current = createEarthquakeVisitSession(window.localStorage);
+  }
   const data = feed.data;
 
   useEffect(() => {
-    if (!data) return;
-    const previousVisit = readEarthquakeVisit(window.localStorage);
-    const delta = computeEarthquakeReturnDelta(data.events, previousVisit);
-    setReturnDelta(delta);
-    writeEarthquakeVisit(window.localStorage, data.updatedAt, data.events);
-    if (delta && !trackedDelta.current) {
-      trackedDelta.current = true;
-      trackEarthquakeReturnDeltaView(delta.newCount, delta.newM4Plus);
+    if (!data || !visitSession.current) return;
+    const measurement = visitSession.current.recordManifest(data.events);
+    setReturnDelta(measurement.delta);
+    if (measurement.shouldTrack && measurement.delta) {
+      trackEarthquakeReturnDeltaView(measurement.delta.newCount, measurement.delta.newM4Plus);
     }
   }, [data]);
 
@@ -227,7 +225,7 @@ export function EarthquakeIntelligence({ item }: { item: LiveEventItem }) {
             </div>
             <div className="quake-explainer-grid">
               <article><h3>Magnitude</h3><p>Magnitude measures the size of an earthquake at its source. Each whole-number increase represents a large increase in recorded ground motion.</p></article>
-              <article><h3>Depth</h3><p>Depth is the distance below the surface reported by USGS. XLB labels events under 70 km as shallow only for descriptive grouping.</p></article>
+              <article><h3>Depth</h3><p>Depth is the value reported by USGS. It may occasionally be slightly negative relative to the reference datum. XLB labels values under 70 km as shallow only for descriptive grouping.</p></article>
               <article><h3>Activity context</h3><p>The comparison uses the daily average from the previous six days in the USGS weekly feed. It describes recent reporting, not danger or prediction.</p></article>
             </div>
             <p className="quake-disclaimer">Earthquakes cannot be predicted by this page. Follow local authorities and the USGS for authoritative hazard information.</p>

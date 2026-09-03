@@ -47,3 +47,35 @@ export function writeEarthquakeVisit(storage, updatedAt, events, key = EARTHQUAK
     eventIds: events.map((event) => event.id).slice(0, 300),
   }));
 }
+
+export function createEarthquakeVisitSession(
+  storage,
+  { key = EARTHQUAKE_VISIT_KEY, mountedAt = new Date().toISOString() } = {},
+) {
+  const priorVisitAtMount = readEarthquakeVisit(storage, key);
+  let measured = false;
+  let persisted = false;
+  let delta = null;
+
+  return {
+    priorVisitAtMount,
+    recordManifest(events) {
+      let shouldTrack = false;
+      let didPersist = false;
+
+      if (!measured) {
+        delta = computeEarthquakeReturnDelta(events, priorVisitAtMount);
+        measured = true;
+        shouldTrack = delta !== null;
+      }
+
+      if (!persisted) {
+        writeEarthquakeVisit(storage, mountedAt, events, key);
+        persisted = true;
+        didPersist = true;
+      }
+
+      return { delta, shouldTrack, didPersist };
+    },
+  };
+}

@@ -30,8 +30,7 @@ export function normalizeUsgsEvent(feature) {
     longitude < -180 ||
     longitude > 180 ||
     latitude < -90 ||
-    latitude > 90 ||
-    depthKm < 0
+    latitude > 90
   ) {
     return null;
   }
@@ -172,7 +171,7 @@ export function validateEarthquakeManifest(value) {
     assert(isIso(event.updatedAt), `earthquake event ${index} updatedAt is invalid`);
     assert(Number.isFinite(event.latitude) && event.latitude >= -90 && event.latitude <= 90, `earthquake event ${index} latitude is invalid`);
     assert(Number.isFinite(event.longitude) && event.longitude >= -180 && event.longitude <= 180, `earthquake event ${index} longitude is invalid`);
-    assert(isNonNegativeNumber(event.depthKm), `earthquake event ${index} depth is invalid`);
+    assert(Number.isFinite(event.depthKm), `earthquake event ${index} depth is invalid`);
     assert(typeof event.tsunami === "boolean", `earthquake event ${index} tsunami is invalid`);
     assert(event.significance === null || isNonNegativeNumber(event.significance), `earthquake event ${index} significance is invalid`);
     assert(event.felt === null || Number.isInteger(event.felt) && event.felt >= 0, `earthquake event ${index} felt is invalid`);
@@ -211,7 +210,7 @@ function validateSummary(summary, label, { allowEmpty }) {
   }
   assert(summary.m4Plus >= summary.m5Plus, `earthquake ${label} magnitude counts are inconsistent`);
   assert(summary.total >= summary.m4Plus, `earthquake ${label} total is inconsistent`);
-  assert(summary.medianDepthKm === null || isNonNegativeNumber(summary.medianDepthKm), `earthquake ${label} median depth is invalid`);
+  assert(summary.medianDepthKm === null || Number.isFinite(summary.medianDepthKm), `earthquake ${label} median depth is invalid`);
   assert(summary.strongestMagnitude === null || Number.isFinite(summary.strongestMagnitude), `earthquake ${label} strongest magnitude is invalid`);
   assert(summary.strongestEventId === null || typeof summary.strongestEventId === "string", `earthquake ${label} strongest event is invalid`);
 }

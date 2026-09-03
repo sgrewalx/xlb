@@ -84,6 +84,33 @@ test("USGS event normalization retains coordinates, depth, magnitude, and option
   );
 });
 
+test("signed USGS depths survive normalization, aggregation, validation, and trends", async () => {
+  const currentFeed = JSON.parse(await readFile(fixtureUrl, "utf8"));
+  const weeklyFeed = JSON.parse(
+    await readFile(new URL("./fixtures/usgs-all-week.geojson", import.meta.url), "utf8"),
+  );
+  currentFeed.features[0].geometry.coordinates[2] = -0.8;
+
+  const normalized = normalizeUsgsEvent(currentFeed.features[0]);
+  assert.equal(normalized.depthKm, -0.8);
+
+  const manifest = buildEarthquakeManifest({ currentFeed, weeklyFeed });
+  assert.equal(manifest.events.find((event) => event.id === normalized.id).depthKm, -0.8);
+  assert.equal(manifest.summary.total, 3);
+  assert.equal(manifest.summary.shallowCount, 2);
+  assert.equal(manifest.summary.medianDepthKm, 2.1);
+  assert.equal(manifest.trends.magnitudeBands.reduce((sum, band) => sum + band.count, 0), 3);
+  assert.equal(manifest.trends.threeHourBuckets.reduce((sum, bucket) => sum + bucket.count, 0), 3);
+  assert.equal(validateEarthquakeManifest(manifest), manifest);
+
+  const schema = JSON.parse(await readFile(
+    new URL("../contracts/earthquake-current.schema.json", import.meta.url),
+    "utf8",
+  ));
+  assert.equal(schema.$defs.event.properties.depthKm.minimum, undefined);
+  assert.equal(schema.$defs.summary.properties.medianDepthKm.minimum, undefined);
+});
+
 test("earthquake manifest computes current summary, trends, strongest event, and six-day baseline", async () => {
   const currentFeed = JSON.parse(await readFile(fixtureUrl, "utf8"));
   const weeklyFeed = JSON.parse(

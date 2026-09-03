@@ -85,7 +85,7 @@
         "m4Plus": { "type": "integer", "minimum": 0 },
         "m5Plus": { "type": "integer", "minimum": 0 },
         "shallowCount": { "type": "integer", "minimum": 0 },
-        "medianDepthKm": { "type": ["number", "null"], "minimum": 0 },
+        "medianDepthKm": { "type": ["number", "null"] },
         "strongestMagnitude": { "type": ["number", "null"] },
         "strongestEventId": { "type": ["string", "null"] }
       }
@@ -122,7 +122,7 @@
         "updatedAt": { "type": "string", "format": "date-time" },
         "latitude": { "type": "number", "minimum": -90, "maximum": 90 },
         "longitude": { "type": "number", "minimum": -180, "maximum": 180 },
-        "depthKm": { "type": "number", "minimum": 0 },
+        "depthKm": { "type": "number" },
         "tsunami": { "type": "boolean" },
         "significance": { "type": ["number", "null"], "minimum": 0 },
         "felt": { "type": ["integer", "null"], "minimum": 0 },
