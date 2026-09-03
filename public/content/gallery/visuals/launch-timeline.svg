@@ -19,17 +19,17 @@
   <text x="72" y="210" class="subtitle">Current launch records ordered into one source-backed visual timeline.</text>
   <circle cx="120" cy="320" r="11" fill="#84e5c1"/>
       <line x1="120" y1="334" x2="120" y2="411" stroke="#334654" stroke-width="4"/>
-      <text x="165" y="312" class="row-title">NASA’s SpaceX CRS-35</text>
-      <text x="165" y="348" class="row-meta">2026-09-02 07:48 UTC · NASA launch schedule</text>
+      <text x="165" y="312" class="row-title">Roscosmos Progress 97</text>
+      <text x="165" y="348" class="row-meta">2026-09-03 07:56 UTC · NASA launch schedule</text>
 
       <circle cx="120" cy="425" r="11" fill="#84e5c1"/>
       <line x1="120" y1="439" x2="120" y2="516" stroke="#334654" stroke-width="4"/>
-      <text x="165" y="417" class="row-title">Roscosmos Progress 97</text>
-      <text x="165" y="453" class="row-meta">2026-09-02 07:48 UTC · NASA launch schedule</text>
+      <text x="165" y="417" class="row-title">NASA’s SpaceX CRS-35</text>
+      <text x="165" y="453" class="row-meta">2026-09-03 07:56 UTC · NASA launch schedule</text>
 
       <circle cx="120" cy="530" r="11" fill="#84e5c1"/>
 
       <text x="165" y="522" class="row-title">NASA’s Northrop Grumman CRS-25</text>
-      <text x="165" y="558" class="row-meta">2026-09-02 07:48 UTC · NASA launch schedule</text>
-  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-09-02 07:48 UTC</text>
+      <text x="165" y="558" class="row-meta">2026-09-03 07:56 UTC · NASA launch schedule</text>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-09-03 07:56 UTC</text>
 </svg>

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:48:20.265Z",
+  "updatedAt": "2026-09-03T07:56:51.491Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 246 earthquake events in the last 24 hours. Strongest reported event: M5.6 near 159 km WSW of Abepura, Indonesia.",
+          "summary": "USGS reported 198 earthquake events in the last 24 hours. Strongest reported event: M6.2 near South Sandwich Islands region.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 2, 07:48 AM",
+          "metricValue": "Sep 3, 07:56 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -80,7 +80,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
@@ -135,24 +135,9 @@
       "imageAlt": "Timeline of current NASA launch schedule records",
       "imageCredit": "XLB visualization from NASA launch schedule data",
       "imageOrigin": "generated-official-data",
-      "imageSourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
+      "imageSourceUrl": "https://www.nasa.gov/event/roscosmos-progress-97/",
       "visualType": "data-visualization",
       "entries": [
-        {
-          "id": "space-launch-nasa-s-spacex-crs-35",
-          "title": "NASA’s SpaceX CRS-35",
-          "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-          "metricLabel": "Countdown",
-          "metricValue": "Starting",
-          "href": "/events/nasa-s-spacex-crs-35",
-          "accent": "space",
-          "image": "/content/gallery/visuals/launch-timeline.svg",
-          "imageAlt": "Timeline of current NASA launch schedule records",
-          "imageCredit": "XLB visualization from NASA launch schedule data",
-          "imageOrigin": "generated-official-data",
-          "imageSourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
-          "visualType": "data-visualization"
-        },
         {
           "id": "space-launch-roscosmos-progress-97",
           "title": "Roscosmos Progress 97",
@@ -166,6 +151,21 @@
           "imageCredit": "XLB visualization from NASA launch schedule data",
           "imageOrigin": "generated-official-data",
           "imageSourceUrl": "https://www.nasa.gov/event/roscosmos-progress-97/",
+          "visualType": "data-visualization"
+        },
+        {
+          "id": "space-launch-nasa-s-spacex-crs-35",
+          "title": "NASA’s SpaceX CRS-35",
+          "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "metricLabel": "Countdown",
+          "metricValue": "Starting",
+          "href": "/events/nasa-s-spacex-crs-35",
+          "accent": "space",
+          "image": "/content/gallery/visuals/launch-timeline.svg",
+          "imageAlt": "Timeline of current NASA launch schedule records",
+          "imageCredit": "XLB visualization from NASA launch schedule data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.nasa.gov/event/nasas-spacex-crs-35/",
           "visualType": "data-visualization"
         },
         {

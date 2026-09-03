@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:48:20.265Z",
+  "updatedAt": "2026-09-03T07:56:51.491Z",
   "thesis": "Games are a retention layer tied to live content, not a standalone acquisition thesis.",
   "items": [
     {
@@ -45,7 +45,7 @@
       "description": "Tap through a short focus drill tied to the live-event clock.",
       "relatedPath": "/live/space",
       "relatedLabel": "Go to Live Space",
-      "prompt": "Use a short timer tied to the NASA’s SpaceX CRS-35 cadence.",
+      "prompt": "Use a short timer tied to the Roscosmos Progress 97 cadence.",
       "metricLabel": "Target time",
       "metricValue": "10 taps",
       "featured": true

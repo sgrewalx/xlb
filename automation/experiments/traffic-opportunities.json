@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:48:20.598Z",
+  "updatedAt": "2026-09-03T07:56:51.800Z",
   "items": [
     {
       "id": "traffic-engagement_expand-video",
@@ -100,6 +100,20 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
+      "id": "traffic-index-watch-events-roscosmos-progress-97",
+      "title": "Watch index coverage for /events/roscosmos-progress-97",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/events/roscosmos-progress-97 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/events/roscosmos-progress-97"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
       "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
       "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
       "ownerAgent": "traffic-improvement-agent",
@@ -150,20 +164,6 @@
       "hypothesis": "/topics/nasa is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/topics/nasa"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
-      "id": "traffic-index-watch-topics-launches",
-      "title": "Watch index coverage for /topics/launches",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/topics/launches is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/topics/launches"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
