@@ -20,7 +20,7 @@ Suggested filename pattern:
 
 - `daily-YYYY-MM-DD.json`
 - `search-console-YYYY-MM-DD.json` for page-level search performance
-- `search-console-queries-YYYY-MM-DD.json` for private query-and-page performance
+- `search-console-queries-YYYY-MM-DD.json` for workflow-only query-and-page performance
 
 The data contract for each snapshot lives in:
 
@@ -30,6 +30,10 @@ The data contract for each snapshot lives in:
 Notes:
 
 - the normalized snapshot format is source-agnostic
-- query snapshots remain private automation evidence and are never published under `public/`
+- query snapshots are generated and validated in `Refresh Live Analytics`, ignored by Git, and never published under `public/`
+- validated query snapshots are uploaded as `search-console-queries-YYYY-MM-DD` GitHub Actions artifacts with 90-day retention
+- a future evaluator can retrieve an exact snapshot with `gh run download <run-id> --name search-console-queries-YYYY-MM-DD --dir <private-working-directory>`
+- a cross-run evaluation workflow can use `actions/download-artifact@v4` with the source run ID, repository, and a token permitted to read Actions artifacts
+- page-level `search-console-YYYY-MM-DD.json` and merged snapshots continue to be committed without raw query text
 - XLB should not assume a Cloudflare zone exists
 - zone-based Cloudflare fetching is optional and only applies when the domain is configured as a Cloudflare zone

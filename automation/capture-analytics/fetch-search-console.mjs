@@ -53,8 +53,15 @@ export async function fetchSearchConsoleDatasets(
     querySnapshot: {
       ...metadata,
       dimensions: ["query", "page"],
-      rows: queryRows.map(normalizeQueryRow).filter((row) => row.query && row.path),
+      ...buildQueryEvidence(queryRows.map(normalizeQueryRow).filter((row) => row.query && row.path)),
     },
+  };
+}
+
+function buildQueryEvidence(rows) {
+  return {
+    evidenceStatus: rows.length ? "data" : "no-rows",
+    rows,
   };
 }
 

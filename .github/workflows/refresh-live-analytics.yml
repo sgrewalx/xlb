@@ -81,13 +81,20 @@ jobs:
       - name: Validate analytics snapshots
         run: npm run automation:validate-analytics
 
+      - name: Upload private Search Console query evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: search-console-queries-${{ env.XLB_SNAPSHOT_DATE }}
+          path: automation/snapshots/search-console-queries-${{ env.XLB_SNAPSHOT_DATE }}.json
+          if-no-files-found: error
+          retention-days: 90
+
       - name: Detect analytics changes
         id: analytics-changes
         run: |
           if [ -z "$(git status --porcelain --untracked-files=all -- \
             "automation/snapshots/ga4-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/search-console-${XLB_SNAPSHOT_DATE}.json" \
-            "automation/snapshots/search-console-queries-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json")" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -106,7 +113,6 @@ jobs:
           git add -- \
             "automation/snapshots/ga4-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/search-console-${XLB_SNAPSHOT_DATE}.json" \
-            "automation/snapshots/search-console-queries-${XLB_SNAPSHOT_DATE}.json" \
             "automation/snapshots/merged-${XLB_SNAPSHOT_DATE}.json"
           git commit -m "chore: persist analytics snapshots for ${XLB_SNAPSHOT_DATE}"
 

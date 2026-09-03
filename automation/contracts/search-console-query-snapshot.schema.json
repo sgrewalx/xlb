@@ -1,10 +1,10 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://xlb.codemachine.in/schemas/search-console-query-snapshot.schema.json",
-  "title": "XLB private Search Console query snapshot",
+  "title": "XLB workflow-only Search Console query snapshot",
   "type": "object",
   "additionalProperties": false,
-  "required": ["capturedAt", "window", "sources", "dimensions", "rows"],
+  "required": ["capturedAt", "window", "sources", "dimensions", "evidenceStatus", "rows"],
   "properties": {
     "capturedAt": { "type": "string", "format": "date-time" },
     "window": {
@@ -18,6 +18,10 @@
     },
     "sources": { "type": "object" },
     "dimensions": { "const": ["query", "page"] },
+    "evidenceStatus": {
+      "type": "string",
+      "enum": ["data", "no-rows", "no-query-column"]
+    },
     "rows": {
       "type": "array",
       "items": {

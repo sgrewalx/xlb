@@ -8,6 +8,7 @@ terraform.tfstate.*
 *.tsbuildinfo
 data/analytics/*.json
 data/analytics/*.csv
+automation/snapshots/search-console-queries-*.json
 xlb.md
 quotes_dump.txt
 xlb.txt

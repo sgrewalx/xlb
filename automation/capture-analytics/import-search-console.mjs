@@ -32,32 +32,44 @@ async function main() {
       ? `Updated automation/snapshots/search-console-queries-${date}.json`
       : `automation/snapshots/search-console-queries-${date}.json already matched normalized output`,
   );
+  if (payload.queryColumnPresent === false) {
+    console.log("Search Console CSV has no Query column; query evidence is explicitly empty.");
+  }
 }
 
 async function loadInput() {
   const contents = await readFile(INPUT_FILE, "utf8");
 
   if (INPUT_FILE.pathname.endsWith(".csv")) {
-    const rows = parseCsv(contents);
-    const first = rows[0] ?? {};
-
-    return {
-      capturedAt: first.capturedAt,
-      window: {
-        start: first.windowStart,
-        end: first.windowEnd,
-      },
-      rows: rows.map((row) => ({
-        path: row.path,
-        clicks: toNumber(row.clicks),
-        impressions: toNumber(row.impressions),
-        ctr: toNumber(row.ctr),
-        position: toNumber(row.position),
-      })),
-    };
+    return parseSearchConsoleCsv(contents);
   }
 
   return JSON.parse(contents);
+}
+
+export function parseSearchConsoleCsv(contents, defaults = {}) {
+  const csvRows = parseCsv(contents);
+  const first = csvRows[0] ?? {};
+  const queryColumnPresent = Object.keys(first).some((header) => normalizeCsvHeader(header) === "query");
+  const normalizedRows = csvRows.map((row) => ({
+    query: csvValue(row, "query"),
+    path: csvValue(row, "page", "path"),
+    clicks: toNumber(csvValue(row, "clicks")),
+    impressions: toNumber(csvValue(row, "impressions")),
+    ctr: toNumber(csvValue(row, "ctr")),
+    position: toNumber(csvValue(row, "position")),
+  }));
+
+  return {
+    capturedAt: csvValue(first, "capturedat") || defaults.capturedAt,
+    window: {
+      start: csvValue(first, "windowstart") || defaults.window?.start,
+      end: csvValue(first, "windowend") || defaults.window?.end,
+    },
+    rows: normalizedRows,
+    queryRows: queryColumnPresent ? normalizedRows : [],
+    queryColumnPresent,
+  };
 }
 
 export function normalizeSearchConsoleSnapshot(payload) {
@@ -76,7 +88,7 @@ export function normalizeSearchConsoleSnapshot(payload) {
       adsense: false,
     },
     pages: rows.map((row) => ({
-      path: String(row.path ?? ""),
+      path: normalizePath(row.path),
       pageviews: 0,
       visits: 0,
       searchImpressions: toNumber(row.impressions),
@@ -97,19 +109,25 @@ export function normalizeSearchConsoleQuerySnapshot(payload, pageSnapshot) {
     : Array.isArray(payload.rows)
       ? payload.rows.filter((row) => typeof row.query === "string")
       : [];
+  const normalizedRows = rows.map((row) => ({
+    query: String(row.query ?? "").trim(),
+    path: normalizePath(row.path),
+    clicks: toNumber(row.clicks),
+    impressions: toNumber(row.impressions),
+    ctr: toNumber(row.ctr),
+    position: toNumber(row.position),
+  })).filter((row) => row.query && row.path);
   return {
     capturedAt: pageSnapshot.capturedAt,
     window: pageSnapshot.window,
     sources: pageSnapshot.sources,
     dimensions: ["query", "page"],
-    rows: rows.map((row) => ({
-      query: String(row.query ?? "").trim(),
-      path: normalizePath(row.path),
-      clicks: toNumber(row.clicks),
-      impressions: toNumber(row.impressions),
-      ctr: toNumber(row.ctr),
-      position: toNumber(row.position),
-    })).filter((row) => row.query && row.path),
+    evidenceStatus: payload.queryColumnPresent === false
+      ? "no-query-column"
+      : normalizedRows.length
+        ? "data"
+        : "no-rows",
+    rows: normalizedRows,
   };
 }
 
@@ -139,7 +157,24 @@ function applySnapshotDateOverride(payload) {
 }
 
 function toNumber(value) {
-  return typeof value === "number" && Number.isFinite(value) ? value : 0;
+  if (typeof value === "number") {
+    return Number.isFinite(value) && value >= 0 ? value : 0;
+  }
+  const text = String(value ?? "").trim();
+  const percentage = text.endsWith("%");
+  const number = Number(text.replaceAll(",", "").replace(/%$/, ""));
+  if (!Number.isFinite(number) || number < 0) return 0;
+  return percentage ? number / 100 : number;
+}
+
+function csvValue(row, ...names) {
+  const accepted = new Set(names.map(normalizeCsvHeader));
+  const entry = Object.entries(row).find(([header]) => accepted.has(normalizeCsvHeader(header)));
+  return entry?.[1] ?? "";
+}
+
+function normalizeCsvHeader(value) {
+  return String(value).toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
 function normalizePath(value) {

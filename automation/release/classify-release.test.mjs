@@ -92,6 +92,7 @@ test("code, workflow, lockfile, schema, validator, and unknown paths require rev
     ".github/workflows/deploy.yml",
     "package-lock.json",
     "automation/contracts/news.schema.json",
+    "automation/snapshots/search-console-queries-2026-09-03.json",
     "scripts/validate-content.mjs",
     "new-unknown-file.txt",
   ]) {
