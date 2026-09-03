@@ -81,7 +81,7 @@ jobs:
       - name: Validate analytics snapshots
         run: npm run automation:validate-analytics
 
-      - name: Upload private Search Console query evidence
+      - name: Upload workflow-only Search Console query evidence
         uses: actions/upload-artifact@v4
         with:
           name: search-console-queries-${{ env.XLB_SNAPSHOT_DATE }}

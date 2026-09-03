@@ -47,7 +47,7 @@ test("analytics persistence is a separate prerequisite failure domain", async ()
   assert.match(commitStep, /automation\/snapshots\/search-console-\$\{XLB_SNAPSHOT_DATE\}\.json/);
   ordered(workflow, [
     "- name: Validate analytics snapshots",
-    "- name: Upload private Search Console query evidence",
+    "- name: Upload workflow-only Search Console query evidence",
     "- name: Commit validated analytics snapshots",
     "- name: Persist analytics to main",
     "publish-content-candidate:",
