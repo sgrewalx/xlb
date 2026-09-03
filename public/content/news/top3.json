@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-03T19:31:54.056Z",
+  "updatedAt": "2026-09-03T22:04:33.429Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-karnataka-report-on-plugging-exam-and-recruitmen-519664bce4",
-      "title": "Karnataka: Report on plugging exam and recruitment loopholes sought",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-report-on-plugging-exam-and-recruitment-loopholes-sought/article71424898.ece",
+      "id": "news-isro-successfully-launches-gslv-f17-rocket-carry-2d2600bf31",
+      "title": "ISRO Successfully Launches GSLV F17 Rocket Carrying Imaging Satellite EOS 5",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/isros-gslv-f17-rocket-carrying-imaging-satellite-eos-5-lifts-off-11999834",
       "tag": "India",
-      "publishedAt": "2026-09-03T19:16:39.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-09-03T21:51:27.000Z",
+      "summary": "A GSLV rocket, carrying ISRO's earth observation satellite EOS-05, succssfully lauched from the spaceport in a pre-dawn mission on Friday from Andhra Pradesh Sriharikota.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/xkdfm9/article71425735.ece/alternates/LANDSCAPE_1200/_DSC9185.jpg",
+      "image": "https://c.ndtvimg.com/2026-09/pskjmer_gslv-f17_625x300_04_September_26.jpeg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-report-on-plugging-exam-and-recruitment-loopholes-sought/article71424898.ece"
+      "imageSourceUrl": "https://www.ndtv.com/india-news/isros-gslv-f17-rocket-carrying-imaging-satellite-eos-5-lifts-off-11999834"
     },
     {
-      "id": "news-aix-crew-member-under-scanner-after-handwriting--0af0a3976d",
-      "title": "AIX crew member under scanner after handwriting probe",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/aix-crew-member-under-scanner-after-handwriting-probe/articleshow/133745309.cms",
-      "tag": "India",
-      "publishedAt": "2026-09-03T19:15:33.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-133745356,imgsize-384140.cms",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/aix-crew-member-under-scanner-after-handwriting-probe/articleshow/133745309.cms"
-    },
-    {
-      "id": "news-former-pardon-attorney-sues-doj-over-unlawful-fi-b4ce9c9989",
-      "title": "Former pardon attorney sues DoJ over ‘unlawful’ firing tied to Mel Gibson case",
+      "id": "news-excavation-work-on-trump-s-towering-gilded-arch--02df8dd225",
+      "title": "Excavation work on Trump’s towering, gilded arch to begin over next two weeks",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/pardon-attorney-liz-oyer-mel-gibson",
+      "url": "https://www.theguardian.com/us-news/2026/sep/03/trump-arch-washington-excavation-work",
       "tag": "Europe",
-      "publishedAt": "2026-09-03T19:06:15.000Z",
-      "summary": "Liz Oyer says department fired her after she refused to recommend restoring gun rights of actor and Trump ally The former pardon attorney for the US justice department, Elizabet...",
+      "publishedAt": "2026-09-03T21:49:51.000Z",
+      "summary": "Project that critics say will disrupt historic sightlines in Washington DC is facing a lawsuit The Trump administration said on Thursday that excavation work will start over the...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/16c49addc632ac1fd2a514c0e12a43662f74d963/541_380_3766_3012/master/3766.jpg?width=460&quality=85&auto=format&fit=max&s=6674d8d3d0b37695ab581f172c5ac276",
-      "imageCredit": "Photograph: Evelyn Hockstein/Reuters",
+      "image": "https://i.guim.co.uk/img/media/fad1cf4d1ee44eff53af5407352725fb010648e2/335_0_4680_3744/master/4680.jpg?width=460&quality=85&auto=format&fit=max&s=ad297e1f03ffc9a92af0cc276ba1c06a",
+      "imageCredit": "Photograph: Jacquelyn Martin/AP",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/us-news/2026/sep/03/pardon-attorney-liz-oyer-mel-gibson"
+      "imageSourceUrl": "https://www.theguardian.com/us-news/2026/sep/03/trump-arch-washington-excavation-work"
+    },
+    {
+      "id": "news-isro-s-gslv-f17-carrying-eos-05-lifts-off-from-s-dac30a9013",
+      "title": "ISRO’s GSLV-F17 carrying EOS-05 lifts off from Sriharikota",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
+      "tag": "India",
+      "publishedAt": "2026-09-03T21:40:47.000Z",
+      "summary": "India’s first imaging satellite in geosynchronous orbit lifts off successfully from the spaceport in a pre-dawn mission.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://th-i.thgim.com/public/news/national/qra0vc/article71425915.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-04%20030128.png",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
     }
   ]
 }
