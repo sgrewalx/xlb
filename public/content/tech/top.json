@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-03T23:43:13.380Z",
+  "updatedAt": "2026-09-04T02:04:07.193Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-could-robots-be-the-future-of-theme-parks-9949e24b50",
+      "id": "tech-could-robots-be-the-future-of-theme-parks-a7134f167f",
       "title": "Could robots be the future of theme parks?",
       "source": "BBC Technology",
       "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-03T23:34:27.000Z",
+      "publishedAt": "2026-09-04T02:02:02.000Z",
       "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
@@ -16,30 +16,60 @@
       "imageSourceUrl": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-what-is-the-best-waterproof-rating-for-bluetooth-809d02ac6a",
-      "title": "What Is The Best Waterproof Rating For Bluetooth Speakers?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2246427/best-waterproof-bluetooth-speaker-rating",
+      "id": "tech-wikipedia-workers-unionize-for-the-first-time-58419134e9",
+      "title": "Wikipedia Workers Unionize for the First Time",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize",
       "tag": "Technology",
-      "publishedAt": "2026-09-03T23:00:00.000Z",
-      "summary": "There's nothing like lounging by the pool, listening to your favorite tunes. But is your Bluetooth speaker waterproof enough to handle a simple splash of water?",
+      "publishedAt": "2026-09-04T00:40:06.000Z",
+      "summary": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-best-waterproof-rating-for-bluetooth-speakers/l-intro-1787683337.jpg",
+      "image": "https://media.wired.com/photos/6a9a07338aae3f350260c9af/master/pass/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2246427/best-waterproof-bluetooth-speaker-rating"
+      "imageSourceUrl": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize"
     },
     {
-      "id": "tech-5-best-video-doorbell-cameras-2026-subscription--bd69309a95",
-      "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
-      "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-video-doorbells",
+      "id": "tech-nvidia-will-officially-bring-dlss-5-to-older-gpu-505e904045",
+      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
       "tag": "Technology",
-      "publishedAt": "2026-09-03T22:48:55.000Z",
-      "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
+      "publishedAt": "2026-09-04T01:49:25.000Z",
+      "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in f...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-get-ai-to-work-on-your-terms-microsoft-puneet-ch-a66ca297a5",
+      "title": "Get AI to work on your terms: Microsoft Puneet Chandok's advice to everyone in the modern tech race",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/get-ai-to-work-on-your-terms-microsoft-puneet-chandok",
+      "tag": "Technology",
+      "publishedAt": "2026-09-04T01:30:00.000Z",
+      "summary": "Microsoft’s Puneet Chandok offers a blueprint for navigating the future of work. Young engineers must master AI skills; alongside they must nurture empathy and filter. Enterpris...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-crusoe-reportedly-raises-3b-at-a-30b-valuation-bfb41ebf2d",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation",
+      "tag": "Technology",
+      "publishedAt": "2026-09-04T00:48:42.000Z",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-audacity-s-new-look-is-finally-here-along-with-i-8bdb57841e",
+      "title": "Audacity's new look is finally here, along with its largest feature update in years",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2250830/audacity-4-new-look-is-finally-here-along-with-its-largest-feature-update-in-years",
+      "tag": "Technology",
+      "publishedAt": "2026-09-03T23:50:08.000Z",
+      "summary": "The popular free audio editor gets a colorful dark mode and granular editing tools.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/69c6cf4311f836e20d54dee4/master/pass/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg",
+      "image": "https://www.engadget.com/img/gallery/audacitys-new-look-is-finally-here-along-with-its-largest-feature-update-in-years/l-intro-1788479172.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/gallery/best-video-doorbells"
+      "imageSourceUrl": "https://www.engadget.com/2250830/audacity-4-new-look-is-finally-here-along-with-its-largest-feature-update-in-years"
     },
     {
       "id": "tech-reports-rfk-jr-ordered-measles-deaths-deletion-c-ced9e09d88",
@@ -54,26 +84,6 @@
       "imageCredit": "Getty | Andrew Harnik",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them"
-    },
-    {
-      "id": "tech-steve-ballmer-got-suspended-by-the-nba-because-o-004009cabe",
-      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-      "tag": "Technology",
-      "publishedAt": "2026-09-03T23:37:37.000Z",
-      "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-oura-files-to-go-public-84631b2b16",
-      "title": "Oura files to go public",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public",
-      "tag": "Technology",
-      "publishedAt": "2026-09-03T22:35:41.000Z",
-      "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-chatgpt-gemini-claude-face-widespread-outages-am-d9bfde34f1",
@@ -99,14 +109,27 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-bits-pilani-incubated-apollyon-dynamics-sets-new-3aab1d0caf",
-      "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone",
+      "id": "tech-the-unusually-muted-tesla-cybercab-launch-b56ce731b9",
+      "title": "The unusually muted Tesla Cybercab launch",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
       "tag": "Technology",
-      "publishedAt": "2026-09-03T15:44:43.000Z",
-      "summary": "Evolving from a Rs 2 lakh student grant to a defence-tech breakthrough, the startup’s electric interceptor drone Ahuti Mk II is South Asia’s fastest multirotor UAV.",
+      "publishedAt": "2026-09-04T00:25:06.000Z",
+      "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been h...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-what-is-the-best-waterproof-rating-for-bluetooth-809d02ac6a",
+      "title": "What Is The Best Waterproof Rating For Bluetooth Speakers?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2246427/best-waterproof-bluetooth-speaker-rating",
+      "tag": "Technology",
+      "publishedAt": "2026-09-03T23:00:00.000Z",
+      "summary": "There's nothing like lounging by the pool, listening to your favorite tunes. But is your Bluetooth speaker waterproof enough to handle a simple splash of water?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-best-waterproof-rating-for-bluetooth-speakers/l-intro-1787683337.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2246427/best-waterproof-bluetooth-speaker-rating"
     },
     {
       "id": "tech-openai-says-gpt-6-astra-is-the-most-intelligent--afd8d36c29",
@@ -120,32 +143,6 @@
       "image": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world"
-    },
-    {
-      "id": "tech-netflix-has-ordered-a-live-action-adaptation-of--cb461337cd",
-      "title": "Netflix has ordered a live-action adaptation of D&D's Ravenloft",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2250806/netflix-has-ordered-live-action-adaptation-of-dnd-ravenloft",
-      "tag": "Technology",
-      "publishedAt": "2026-09-03T22:35:24.000Z",
-      "summary": "Alfonso Cuarón will executive produce the dark fantasy vampire story based on the popular D&D campaign setting.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/netflix-has-ordered-a-live-action-adaptation-of-dds-ravenloft/l-intro-1788474684.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2250806/netflix-has-ordered-live-action-adaptation-of-dnd-ravenloft"
-    },
-    {
-      "id": "tech-transplanted-pig-kidney-still-working-after-a-re-a735a1176b",
-      "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months",
-      "tag": "Technology",
-      "publishedAt": "2026-09-03T22:30:00.000Z",
-      "summary": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a99964bab64da8be39c7ad7/master/pass/20250125_kaf_transplant_001_srgb.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months"
     }
   ]
 }
