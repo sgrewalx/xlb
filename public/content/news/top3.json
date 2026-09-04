@@ -1,46 +1,48 @@
 {
-  "updatedAt": "2026-09-04T14:39:22.187Z",
+  "updatedAt": "2026-09-04T17:56:22.395Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-surprisingly-strong-us-jobs-figures-fuel-rate-ri-79d47dcde9",
-      "title": "Surprisingly strong US jobs figures fuel rate rise bets",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-09-04T14:38:19.000Z",
-      "summary": "The number of roles added to the US economy increased by 162,000 in August, almost triple the 56,000 forecast.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2654/live/080d87e0-a85f-11f1-ae45-e9984fc27c77.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-harpercollins-to-publish-sonia-gandhi-s-memoir-i-742a62b418",
-      "title": "HarperCollins to publish Sonia Gandhi’s memoir in India on November 10",
+      "id": "news-tempers-fly-traffic-crawls-as-vehicle-restrictio-a44677329d",
+      "title": "Tempers fly, traffic crawls as vehicle restrictions kick in on Bengaluru airport road",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/books/harpercollins-to-publish-sonia-gandhis-memoir-belonging/article71427379.ece",
+      "url": "https://www.thehindu.com/news/cities/bangalore/tempers-fly-traffic-crawls-as-vehicle-restrictions-kick-in-on-bengaluru-airport-road/article71429665.ece",
       "tag": "India",
-      "publishedAt": "2026-09-04T14:37:23.000Z",
-      "summary": "The domestic release of the book was initially planned through Penguin Random House India; however, the publisher withdrew following differences over the manuscript",
+      "publishedAt": "2026-09-04T17:47:13.000Z",
+      "summary": "The Bengaluru Traffic Police (BTP) began enforcing its recent announcement of a ban on certain categories of vehicles on four elevated corridors in the city on Friday, with only...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/9ly7ps/article71411110.ece/alternates/LANDSCAPE_1200/sonia%20gandhi.jpg",
+      "image": "https://th-i.thgim.com/public/incoming/xmfhmj/article71429708.ece/alternates/LANDSCAPE_1200/DSC_5674.jpeg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/books/harpercollins-to-publish-sonia-gandhis-memoir-belonging/article71427379.ece"
+      "imageSourceUrl": "https://www.thehindu.com/news/cities/bangalore/tempers-fly-traffic-crawls-as-vehicle-restrictions-kick-in-on-bengaluru-airport-road/article71429665.ece"
     },
     {
-      "id": "news-reform-suspends-two-officials-over-donations-sti-14ad2e58f1",
-      "title": "Reform suspends two officials over donations sting as Farage admits their comments ‘don’t look good’ – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-09-04T14:30:15.000Z",
-      "summary": "James Orr and Dan Jukes, aides to Nigel Farage, stepped down after an investigation by Channel 4 News British ministers have hit back after the Argentinian president said “winds...",
+      "id": "news-u-n-approves-african-proposal-for-a-new-world-ma-42b04e54aa",
+      "title": "U.N. Approves African Proposal for a New World Map",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html",
+      "tag": "US",
+      "publishedAt": "2026-09-04T17:45:54.000Z",
+      "summary": "The Equal Earth projection shows countries’ true size relative to one another, unlike the centuries-old Mercator map, which critics say makes Africa look smaller than it is.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/fca8f0fba8db72233f52a071bbdd1601bce4b4ae/458_0_4583_3667/master/4583.jpg?width=460&quality=85&auto=format&fit=max&s=b6e4dc967c8040f9494c88f14591fd43",
-      "imageCredit": "Photograph: Temilade Adelaja/Reuters",
+      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04xp-maps-jfmw/04xp-maps-jfmw-mediumSquareAt3X.jpg",
+      "imageAlt": "People take pictures at a square decorated with a giant world map in Lisbon, Portugal, in 2017.",
+      "imageCredit": "Rafael Marchante/Reuters",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates"
+      "imageSourceUrl": "https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html"
+    },
+    {
+      "id": "news-farage-seeks-to-shore-up-damaged-leadership-as-s-19aa08b290",
+      "title": "Farage seeks to shore up damaged leadership as scandal engulfs Reform conference",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference",
+      "tag": "Europe",
+      "publishedAt": "2026-09-04T17:43:45.000Z",
+      "summary": "Splits emerge within party after resignation of officials reported to police for apparent plot to evade donations law Nigel Farage sought to shore up his damaged leadership on F...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://i.guim.co.uk/img/media/9884b2e9f9016671fff699b1d9843d818460fde6/0_0_5880_4704/master/5880.jpg?width=460&quality=85&auto=format&fit=max&s=f9751207ad13f6b4f9581a4bc8faf040",
+      "imageCredit": "Photograph: Tolga Akmen/EPA",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference"
     }
   ]
 }
