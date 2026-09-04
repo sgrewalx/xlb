@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:56:51.491Z",
+  "updatedAt": "2026-09-04T07:59:55.192Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 198 earthquake events in the last 24 hours. Strongest reported event: M6.2 near South Sandwich Islands region.",
+          "summary": "USGS reported 347 earthquake events in the last 24 hours. Strongest reported event: M6.3 near 84 km SSW of Nikolski, Alaska.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 3, 07:56 AM",
+          "metricValue": "Sep 4, 07:59 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",

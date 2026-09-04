@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:56:51.072Z",
+  "generatedAt": "2026-09-04T07:59:54.768Z",
   "staticItemCount": 1,
   "sources": [
     {
@@ -14,11 +14,13 @@
       "id": "usgs-earthquakes",
       "status": "healthy",
       "fallbackUsed": false,
-      "fetchedSeedCount": 198,
+      "fetchedSeedCount": 347,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 6.2,
-      "largeCount": 11
+      "strongestMagnitude": 6.3,
+      "largeCount": 23,
+      "sourceMode": "live",
+      "manifestPublishable": true
     },
     {
       "id": "noaa-space-weather",

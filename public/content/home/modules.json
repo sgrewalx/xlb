@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:56:51.491Z",
+  "updatedAt": "2026-09-04T07:59:55.192Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -21,7 +21,7 @@
         },
         {
           "label": "Top pulse",
-          "value": "23"
+          "value": "25"
         }
       ],
       "items": [
@@ -31,7 +31,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Sep 3, 07:41 AM"
+          "meta": "USGS Earthquake Hazards Program · Sep 4, 07:54 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -47,7 +47,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Sep 3, 07:53 AM"
+          "meta": "NOAA Space Weather Prediction Center · Sep 4, 07:54 AM"
         }
       ],
       "relatedLinks": [
@@ -83,7 +83,7 @@
         },
         {
           "label": "Return loop",
-          "value": "4"
+          "value": "5"
         }
       ],
       "emptyState": {
@@ -121,7 +121,7 @@
         },
         {
           "label": "Home search impressions",
-          "value": "2"
+          "value": "4"
         },
         {
           "label": "Aurora pageviews",
@@ -133,17 +133,17 @@
           "id": "why-/tech",
           "title": "Tech",
           "href": "/tech",
-          "label": "23 views",
+          "label": "25 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "4 search impressions · engagement 80"
+          "meta": "5 search impressions · engagement 77"
         },
         {
           "id": "why-/news",
           "title": "News",
           "href": "/news",
-          "label": "18 views",
+          "label": "20 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "0 search impressions · engagement 95"
+          "meta": "2 search impressions · engagement 91"
         },
         {
           "id": "why-/video",
