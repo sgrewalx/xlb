@@ -1,47 +1,48 @@
 {
-  "updatedAt": "2026-09-04T20:10:46.522Z",
+  "updatedAt": "2026-09-04T22:40:37.959Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-u-n-approves-african-proposal-for-a-new-world-ma-f59eda3df0",
-      "title": "U.N. Approves African Proposal for a New World Map",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html",
-      "tag": "US",
-      "publishedAt": "2026-09-04T20:06:54.000Z",
-      "summary": "The Equal Earth projection shows countries’ true size relative to one another, unlike the centuries-old Mercator map, which critics say makes Africa look smaller than it is.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/04/world/africa/04vid-maps-africa-cover-image/04vid-maps-africa-cover-image-mediumSquareAt3X.jpg",
-      "imageCredit": "UNTV, via Reuters",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html"
-    },
-    {
-      "id": "news-trump-s-peace-envoys-to-visit-moscow-and-kyiv-ov-140c19e7ff",
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-09-04T20:03:52.000Z",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-judge-declares-mistrial-in-lindsay-clancy-murder-889d64cfd8",
-      "title": "Judge declares mistrial in Lindsay Clancy murder case after jury fails to reach unanimous verdict – live updates",
+      "id": "news-trump-downplays-war-with-iran-in-which-18-us-ser-6bf3631453",
+      "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
       "tag": "Europe",
-      "publishedAt": "2026-09-04T19:57:55.000Z",
-      "summary": "Judge declares mistrial after delay due to defense seeking intervention from higher court Full report: Judge declares mistrial in Lindsay Clancy case Explained: Lindsay Clancy m...",
+      "publishedAt": "2026-09-04T22:10:43.000Z",
+      "summary": "Thousands of Iranians have been killed and more than 750 US service members have been wounded during the ongoing conflict Sign up for US Breaking News emails President Trump thr...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/7de87ac95b4e5ca593e3406607bfb31298d98a85/249_53_2227_1782/master/2227.jpg?width=460&quality=85&auto=format&fit=max&s=886b72b4b4130961444e86452a94e74c",
-      "imageCredit": "Photograph: Greg Derr/AFP/Getty Images",
+      "image": "https://i.guim.co.uk/img/media/adea61021f59162ff2a2ff1fc97d0234b8917a35/526_0_5417_4335/master/5417.jpg?width=460&quality=85&auto=format&fit=max&s=dea02d3ed62c253c6a15d9825f52b9f1",
+      "imageCredit": "Photograph: Evelyn Hockstein/Reuters",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/us-news/live/2026/sep/04/lindsay-clancy-mistrial-live-updates"
+      "imageSourceUrl": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates"
+    },
+    {
+      "id": "news-nepal-bet-nearly-everything-on-hydropower-the-fl-6a8ec955fb",
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-04T22:02:52.000Z",
+      "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-inside-the-nepal-tunnel-rescue-operation-4a04265ab4",
+      "title": "Inside the Nepal Tunnel Rescue Operation",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html",
+      "tag": "US",
+      "publishedAt": "2026-09-04T21:59:13.000Z",
+      "summary": "An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04nepal-floods-rescue-logistics-lhvc/04nepal-floods-rescue-logistics-lhvc-mediumSquareAt3X.jpg",
+      "imageAlt": "Rescue team members working to enter the tunnel at a hydropower project tunnel on Thursday as they search for survivors, following deadly flash floods in Rasuwa, Nepal, last week.",
+      "imageCredit": "Navesh Chitrakar/Reuters",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation-trishuli.html"
     }
   ]
 }
