@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T07:59:55.192Z",
+  "updatedAt": "2026-09-05T07:34:12.333Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -21,7 +21,7 @@
         },
         {
           "label": "Top pulse",
-          "value": "25"
+          "value": "16"
         }
       ],
       "items": [
@@ -31,7 +31,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Sep 4, 07:54 AM"
+          "meta": "USGS Earthquake Hazards Program · Sep 5, 07:31 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -47,7 +47,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Sep 4, 07:54 AM"
+          "meta": "NOAA Space Weather Prediction Center · Sep 5, 07:30 AM"
         }
       ],
       "relatedLinks": [
@@ -83,7 +83,7 @@
         },
         {
           "label": "Return loop",
-          "value": "5"
+          "value": "3"
         }
       ],
       "emptyState": {
@@ -117,11 +117,11 @@
       "metrics": [
         {
           "label": "Video views",
-          "value": "15"
+          "value": "6"
         },
         {
           "label": "Home search impressions",
-          "value": "4"
+          "value": "5"
         },
         {
           "label": "Aurora pageviews",
@@ -130,27 +130,27 @@
       ],
       "items": [
         {
-          "id": "why-/tech",
-          "title": "Tech",
-          "href": "/tech",
-          "label": "25 views",
-          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "5 search impressions · engagement 77"
-        },
-        {
           "id": "why-/news",
           "title": "News",
           "href": "/news",
-          "label": "20 views",
+          "label": "16 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "2 search impressions · engagement 91"
+          "meta": "2 search impressions · engagement 93"
         },
         {
-          "id": "why-/video",
-          "title": "Video",
-          "href": "/video",
-          "label": "15 views",
-          "summary": "Users are already choosing video more often than games or gallery, so the feed needs in-page playback.",
+          "id": "why-/tech",
+          "title": "Tech",
+          "href": "/tech",
+          "label": "19 views",
+          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
+          "meta": "5 search impressions · engagement 74"
+        },
+        {
+          "id": "why-/live",
+          "title": "Live",
+          "href": "/live",
+          "label": "10 views",
+          "summary": "Live pages work because the information can change between visits and there is a clear reason to come back.",
           "meta": "0 search impressions · engagement 100"
         }
       ],

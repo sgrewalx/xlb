@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T07:59:55.192Z",
+  "updatedAt": "2026-09-05T07:34:12.333Z",
   "surfaces": {
     "home": [
       {
@@ -26,109 +26,319 @@
     ],
     "video": [
       {
-        "id": "video-sky-news-crosses-flooded-nepali-river-in-high-wi-64624d8d40",
+        "id": "video-federal-judge-allows-pentagon-to-fire-three-star-37c288aedd",
         "rank": 1,
-        "retentionScore": 95,
-        "freshnessScore": 88,
+        "retentionScore": 96,
+        "freshnessScore": 94,
         "relatedPath": "/news"
       },
       {
-        "id": "video-ex-burnham-adviser-markets-fear-no-one-wants-to--d07240253e",
+        "id": "video-oil-deal-promises-prosperity-as-venezuelans-endu-f58530ac42",
         "rank": 2,
-        "retentionScore": 91,
-        "freshnessScore": 87,
+        "retentionScore": 94,
+        "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-it-s-emotional-a-brother-s-memories-driving-comp-d1cb1d066d",
+        "id": "video-human-poo-and-maggot-infested-food-left-behind-a-556f2baedd",
         "rank": 3,
-        "retentionScore": 87,
-        "freshnessScore": 85,
+        "retentionScore": 94,
+        "freshnessScore": 89,
         "relatedPath": "/news"
       },
       {
-        "id": "video-bread-and-wheat-the-real-indicator-of-world-domi-a8ea2433ba",
+        "id": "video-meet-tsa-s-cutest-canine-officer-cbb8673248",
         "rank": 4,
-        "retentionScore": 84,
-        "freshnessScore": 84,
+        "retentionScore": 92,
+        "freshnessScore": 93,
         "relatedPath": "/news"
       },
       {
-        "id": "video-trump-hints-he-wouldn-t-help-uk-in-potential-fut-ffc3034e1b",
+        "id": "video-how-discarded-oyster-shells-get-a-second-life-8def343508",
         "rank": 5,
-        "retentionScore": 76,
-        "freshnessScore": 89,
+        "retentionScore": 91,
+        "freshnessScore": 90,
         "relatedPath": "/news"
       },
       {
-        "id": "video-robotaxis-on-london-s-streets-are-causing-concer-56dde1f7b0",
+        "id": "video-moment-train-crashes-through-truck-trailer-in-po-255260bc62",
         "rank": 6,
-        "retentionScore": 76,
-        "freshnessScore": 89,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-markets-fear-no-one-wants-to-deal-with-big-issue-53524c7342",
-        "rank": 7,
-        "retentionScore": 75,
+        "retentionScore": 90,
         "freshnessScore": 88,
         "relatedPath": "/news"
       },
       {
-        "id": "video-lindsay-clancy-s-defence-teams-asks-for-removal--8964051822",
+        "id": "video-epstein-survivors-allege-salon-took-instructions-bd7790b644",
+        "rank": 7,
+        "retentionScore": 88,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trent-mcduffie-on-aaron-donald-s-return-to-the-r-0c76d4ac6c",
         "rank": 8,
-        "retentionScore": 75,
-        "freshnessScore": 87,
+        "retentionScore": 87,
+        "freshnessScore": 89,
         "relatedPath": "/news"
       },
       {
-        "id": "video-survivors-in-nepal-cross-flooded-nepali-river-in-5e51c91b69",
+        "id": "video-lindsay-clancy-murder-trial-declared-a-mistrial--b27aa9a36b",
         "rank": 9,
-        "retentionScore": 75,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-lindsay-clancy-trial-jury-deadlocked-for-sixth-d-530e317dc2",
-        "rank": 10,
-        "retentionScore": 75,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-lindsay-clancy-jury-deadlocked-again-as-defence--b222ff5925",
-        "rank": 11,
-        "retentionScore": 75,
-        "freshnessScore": 87,
-        "relatedPath": "/news"
-      },
-      {
-        "id": "video-judge-tells-jury-to-continue-deliberations-in-li-e5381b83e7",
-        "rank": 12,
-        "retentionScore": 74,
+        "retentionScore": 86,
         "freshnessScore": 86,
         "relatedPath": "/news"
       },
       {
-        "id": "video-nepal-floods-joanna-lumley-attends-vigil-for-fla-dc428ecaa9",
+        "id": "video-clancy-trial-observers-react-to-mistrial-declara-242b58dbe2",
+        "rank": 10,
+        "retentionScore": 85,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-why-are-so-many-men-carrying-purses-5acb2dd0c7",
+        "rank": 11,
+        "retentionScore": 84,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-what-caused-the-deadly-nepal-floods-f012634bc7",
+        "rank": 12,
+        "retentionScore": 84,
+        "freshnessScore": 92,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-russia-strikes-ukraine-security-service-headquar-098c751500",
         "rank": 13,
-        "retentionScore": 73,
-        "freshnessScore": 84,
+        "retentionScore": 84,
+        "freshnessScore": 91,
         "relatedPath": "/news"
       },
       {
-        "id": "video-vance-says-us-investigating-alleged-strike-on-we-1d251f539a",
+        "id": "video-nascar-s-kurt-busch-on-growing-up-and-racing-wit-1647f35b70",
         "rank": 14,
-        "retentionScore": 73,
+        "retentionScore": 84,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-breadcrumbing-is-easier-than-ever-33d0a586dd",
+        "rank": 15,
+        "retentionScore": 84,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-resident-recalls-scenes-after-a-strike-hit-a-wed-4bdda3be04",
+        "rank": 16,
+        "retentionScore": 83,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-ice-agent-faces-federal-charges-over-minneapolis-cd14bbfa73",
+        "rank": 17,
+        "retentionScore": 83,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-who-is-lindsay-clancy-s-attorney-kevin-reddingto-4cef04357e",
+        "rank": 18,
+        "retentionScore": 83,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-white-house-arcade-games-spark-criticism-4777267d95",
+        "rank": 19,
+        "retentionScore": 83,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mistrial-declared-in-lindsay-clancy-child-killin-e232af92df",
+        "rank": 20,
+        "retentionScore": 82,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-says-iran-conflict-is-small-potatoes-e70b88d79a",
+        "rank": 21,
+        "retentionScore": 82,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lindsay-clancy-s-attorney-she-grieves-the-loss-o-9e269995c3",
+        "rank": 22,
+        "retentionScore": 82,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-judge-in-lindsay-clancy-case-declares-a-mistrial-4818575d47",
+        "rank": 23,
+        "retentionScore": 82,
+        "freshnessScore": 85,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-if-reform-gain-power-nigel-farage-said-he-will-d-431934a9e4",
+        "rank": 24,
+        "retentionScore": 81,
         "freshnessScore": 84,
         "relatedPath": "/news"
       },
       {
-        "id": "video-from-bread-to-byd-the-story-of-global-trade-told-94247326e2",
-        "rank": 15,
+        "id": "video-nepal-tunnel-rescues-have-given-hope-for-more-fl-ec230b3a6f",
+        "rank": 25,
+        "retentionScore": 80,
+        "freshnessScore": 82,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-clancy-is-charged-with-three-counts-of-first-deg-d90e13c113",
+        "rank": 26,
+        "retentionScore": 80,
+        "freshnessScore": 82,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lindsay-clancy-legal-team-given-hour-to-appeal-m-794606e7fd",
+        "rank": 27,
+        "retentionScore": 80,
+        "freshnessScore": 82,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-0905-today-in-history-01c13bbe85",
+        "rank": 28,
+        "retentionScore": 76,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-is-trump-threatening-to-sabotage-the-economy-to--9ea0730ef9",
+        "rank": 29,
+        "retentionScore": 76,
+        "freshnessScore": 94,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-political-communication-experts-react-to-white-h-79397f2888",
+        "rank": 30,
+        "retentionScore": 75,
+        "freshnessScore": 91,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-bbc-visits-area-near-middlesbrough-at-heart-of-p-49e20dc791",
+        "rank": 31,
+        "retentionScore": 74,
+        "freshnessScore": 89,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-fetterman-faces-resignation-call-from-democrat-o-f6d8683d47",
+        "rank": 32,
+        "retentionScore": 74,
+        "freshnessScore": 90,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-trump-says-iran-conflict-is-small-potatoes-for-u-dfc1ffb87f",
+        "rank": 33,
         "retentionScore": 73,
-        "freshnessScore": 83,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-mistrial-is-declared-in-lindsay-clancy-case-afte-be8103d663",
+        "rank": 34,
+        "retentionScore": 73,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-police-fatally-shoot-a-knife-wielding-man-on-bro-16606b6dba",
+        "rank": 35,
+        "retentionScore": 73,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-endometriosis-can-elude-diagnosis-for-years-here-cb68fc4199",
+        "rank": 36,
+        "retentionScore": 73,
+        "freshnessScore": 86,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lindsay-clancy-murder-trial-collapses-as-jurors--ec58625004",
+        "rank": 37,
+        "retentionScore": 73,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lindsay-clancy-murder-case-ends-without-verdict--7871f92db3",
+        "rank": 38,
+        "retentionScore": 73,
+        "freshnessScore": 88,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-fears-iran-war-could-escalate-after-return-to-mi-839da89058",
+        "rank": 39,
+        "retentionScore": 73,
+        "freshnessScore": 87,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-nepal-flood-survivors-are-rescued-from-a-tunnel--3442683b25",
+        "rank": 40,
+        "retentionScore": 73,
+        "freshnessScore": 86,
         "relatedPath": "/events/global-earthquake-watch"
+      },
+      {
+        "id": "video-why-the-world-loved-dolly-parton-bbc-news-d517f3942f",
+        "rank": 41,
+        "retentionScore": 73,
+        "freshnessScore": 86,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lawyer-for-ice-officer-who-allegedly-lied-about--27f1e1884b",
+        "rank": 42,
+        "retentionScore": 72,
+        "freshnessScore": 85,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-lindsay-clancy-trial-live-mistrial-declared-on-d-15c6d7f71d",
+        "rank": 43,
+        "retentionScore": 72,
+        "freshnessScore": 85,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-what-could-happen-to-the-falkland-islands-bbc-ne-562bb0fdf4",
+        "rank": 44,
+        "retentionScore": 72,
+        "freshnessScore": 84,
+        "relatedPath": "/news"
+      },
+      {
+        "id": "video-kyiv-residents-struggle-to-find-moments-of-norma-9a01f1ef0e",
+        "rank": 45,
+        "retentionScore": 70,
+        "freshnessScore": 81,
+        "relatedPath": "/news"
       }
     ],
     "games": [
