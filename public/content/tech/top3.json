@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-04T23:37:53.145Z",
+  "updatedAt": "2026-09-05T02:00:30.878Z",
   "items": [
+    {
+      "id": "tech-tech-now-dbc928d469",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-05T01:00:00.000Z",
+      "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7zp18.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": "tech-how-to-see-what-s-taking-up-space-on-your-window-8ece6c6b7a",
       "title": "How to see what's taking up space on your Windows PC",
@@ -13,20 +26,6 @@
       "image": "https://www.engadget.com/img/gallery/how-to-see-whats-taking-up-space-on-your-windows-pc/l-intro-1787945949.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.engadget.com/2247848/how-to-see-whats-taking-up-space-windows"
-    },
-    {
-      "id": "tech-after-8-years-europe-s-bepicolombo-mission-is-on-21a2e9e004",
-      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury",
-      "tag": "Technology",
-      "publishedAt": "2026-09-04T22:49:17.000Z",
-      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg",
-      "imageCredit": "ESA/ATG medialab and NASA/JPL",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury"
     },
     {
       "id": "tech-xdof-just-three-months-out-of-stealth-is-in-talk-77d24eebe1",
