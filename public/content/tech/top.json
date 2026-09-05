@@ -1,19 +1,29 @@
 {
-  "updatedAt": "2026-09-05T21:47:25.811Z",
+  "updatedAt": "2026-09-05T23:27:08.028Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-openai-responds-after-report-exposed-another-inc-f6b5bf04ba",
-      "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+      "id": "tech-is-the-steam-deck-still-worth-it-in-2026-c1e22bcb11",
+      "title": "Is the Steam Deck still worth it in 2026?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue",
+      "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it",
       "tag": "Technology",
-      "publishedAt": "2026-09-05T21:17:18.000Z",
-      "summary": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+      "publishedAt": "2026-09-05T22:30:00.000Z",
+      "summary": "The Steam Deck is a solid gaming handheld, but after the arrival of several competitors and higher prices, is it still worth picking one up?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
+      "image": "https://www.engadget.com/img/gallery/is-the-steam-deck-still-worth-it-in-2026/l-intro-1788208373.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue"
+      "imageSourceUrl": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it"
+    },
+    {
+      "id": "tech-seattle-times-and-newsday-are-the-latest-publica-de8e6d5856",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "tag": "Technology",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-explore-the-globe-in-field-recordings-35794bae12",
@@ -33,26 +43,6 @@
       "tag": "Technology",
       "publishedAt": "2026-09-05T21:30:01.000Z",
       "summary": "The Wozoyo Pure Air PA1 is a compact air purifier designed for small rooms and everyday use. It has a four-stage filtration system. The main limitation is the 110m3/h CADR. The...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-hikers-rescued-after-using-google-gemini-for-pla-9c59960b45",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-      "tag": "Technology",
-      "publishedAt": "2026-09-05T19:35:24.000Z",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tata-sons-succession-race-narrows-to-narendran-a-af218bc8c1",
-      "title": "Tata Sons succession race narrows to Narendran, Agrawal; NSE's Ashish Chauhan emerges as dark horse",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/tata-sons-succession-race-narendran-agrawal-ashish-chauhan",
-      "tag": "Technology",
-      "publishedAt": "2026-09-05T15:53:58.000Z",
-      "summary": "Tata Sons has narrowed its search for N Chandrasekaran’s successor to Tata Steel CEO T V Narendran, Group CFO Saurabh Agrawal, and NSE chief Ashish Chauhan, with Narendran emerg...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -109,17 +99,40 @@
       "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-the-reasons-rugged-laptops-are-rarely-bought-by--e1378544ec",
-      "title": "The reasons rugged laptops are rarely bought by consumers",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2247940/reason-why-rugged-laptops-rarely-bought-by-consumers",
+      "id": "tech-tata-sons-succession-race-narrows-to-narendran-a-af218bc8c1",
+      "title": "Tata Sons succession race narrows to Narendran, Agrawal; NSE's Ashish Chauhan emerges as dark horse",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/tata-sons-succession-race-narendran-agrawal-ashish-chauhan",
       "tag": "Technology",
-      "publishedAt": "2026-09-05T20:00:00.000Z",
-      "summary": "There are plenty of durable, versatile rugged laptops on the market, but you'll rarely see one get pulled out at the coffee shop. Why?",
+      "publishedAt": "2026-09-05T15:53:58.000Z",
+      "summary": "Tata Sons has narrowed its search for N Chandrasekaran’s successor to Tata Steel CEO T V Narendran, Group CFO Saurabh Agrawal, and NSE chief Ashish Chauhan, with Narendran emerg...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-to-find-your-macbook-s-diagnostic-menu-25466c2987",
+      "title": "How to find your MacBook's diagnostic menu",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2247996/how-to-find-macbook-diagnostic-menu",
+      "tag": "Technology",
+      "publishedAt": "2026-09-05T22:00:00.000Z",
+      "summary": "Apple Diagnostics is a hidden menu you hopefully won't need to access often. When your Mac gets into hardware trouble, it helps find what's wrong.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/the-reasons-rugged-laptops-are-rarely-bought-by-consumers/l-intro-1787944974.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-find-your-macbooks-diagnostic-menu/l-intro-1788204727.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2247940/reason-why-rugged-laptops-rarely-bought-by-consumers"
+      "imageSourceUrl": "https://www.engadget.com/2247996/how-to-find-macbook-diagnostic-menu"
+    },
+    {
+      "id": "tech-openai-responds-after-report-exposed-another-inc-f6b5bf04ba",
+      "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue",
+      "tag": "Technology",
+      "publishedAt": "2026-09-05T21:17:18.000Z",
+      "summary": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue"
     },
     {
       "id": "tech-iphone-handoff-will-seamlessly-share-one-number--9766eccc4b",
@@ -130,19 +143,6 @@
       "publishedAt": "2026-09-05T20:53:58.000Z",
       "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-track-prices-with-safari-s-notify-me-tool-a330a388f0",
-      "title": "How to track prices with Safari's Notify Me tool on iPhone, iPad and Mac",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2247813/how-to-track-prices-safari-notify-me-tool-iphone-ipad-macbook",
-      "tag": "Running",
-      "publishedAt": "2026-09-05T18:30:00.000Z",
-      "summary": "Apple's Notify Me feature can update you every time a price drops or a product comes back in stock. Tell it what to do and it'll take care of the rest.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/how-to-track-prices-with-safaris-notify-me-tool-on-iphone-ipad-and-mac/l-intro-1788197004.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2247813/how-to-track-prices-safari-notify-me-tool-iphone-ipad-macbook"
     }
   ]
 }
