@@ -1,46 +1,45 @@
 {
-  "updatedAt": "2026-09-06T09:59:08.665Z",
+  "updatedAt": "2026-09-06T13:27:38.982Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-volcano-eruption-leaves-150-000-passengers-stran-ed212caabb",
-      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-09-06T09:56:39.000Z",
-      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-on-camera-hospital-staff-assaulted-by-shiv-sena--ca8229260f",
-      "title": "On Camera, Hospital Staff Assaulted By Shiv Sena Workers Over Bill Dispute",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/india-news/on-camera-hospital-staff-assaulted-by-sena-workers-after-bill-dispute-12008522",
-      "tag": "India",
-      "publishedAt": "2026-09-06T09:53:16.000Z",
-      "summary": "The dispute at the hospital was over the treatment costs of the Govindas injured during a 'Dahi Handi' event.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://c.ndtvimg.com/2026-09/d4mirvps_palghar-hospital-hooliganism_625x300_06_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "imageAlt": "The incident occurred at a hospital in Palghar past midnight on Sunday.",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.ndtv.com/india-news/on-camera-hospital-staff-assaulted-by-sena-workers-after-bill-dispute-12008522"
-    },
-    {
-      "id": "news-no-dj-plasma-displays-during-ganesh-festival-in--ce5978455c",
-      "title": "No DJ, plasma displays during Ganesh festival in Belagavi",
+      "id": "news-delhi-university-students-union-campaigner-recal-c87b0b4b17",
+      "title": "Delhi University Students’ Union campaigner recalls pulling students from Satya Niketan building collapse rubble",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/karnataka/no-dj-plasma-displays-during-ganesh-festival-in-belagavi/article71434798.ece",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-university-campaigner-recalls-pulling-students-from-satya-niketan-building-collapse-rubble/article71435295.ece",
       "tag": "India",
-      "publishedAt": "2026-09-06T09:52:44.000Z",
-      "summary": "Belagavi police have issued a set of guidelines for the Ganesh Mandals",
+      "publishedAt": "2026-09-06T13:25:52.000Z",
+      "summary": "Krishna Bhardwaj, who was among the first to reach the site, said he pulled several students from the debris before rescuers arrived; one boy who pleaded with him to save him wa...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/s2xcvs/article71434932.ece/alternates/LANDSCAPE_1200/9727_10_8_2025_18_47_33_2_11BGMGANESHMAKING1.JPG",
+      "image": "https://th-i.thgim.com/public/incoming/g4c32o/article71435368.ece/alternates/LANDSCAPE_1200/BUILDING%20COLLAPSE%20NEW%20DELHI%2024.JPG",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/karnataka/no-dj-plasma-displays-during-ganesh-festival-in-belagavi/article71434798.ece"
+      "imageSourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-university-campaigner-recalls-pulling-students-from-satya-niketan-building-collapse-rubble/article71435295.ece"
+    },
+    {
+      "id": "news-uttarakhand-cm-dhami-attends-gorkhali-women-s-ha-780401e313",
+      "title": "Uttarakhand CM Dhami attends Gorkhali Women's Hartalika Teej Festival in Dehradun",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-attends-gorkhali-womens-hartalika-teej-festival-in-dehradun/articleshow/133838639.cms",
+      "tag": "India",
+      "publishedAt": "2026-09-06T13:17:24.000Z",
+      "summary": "The Chief Minister said Hartalika Teej symbolises the unwavering penance, faith, devotion and strength of Goddess Parvati. He said the festival inspires people to move towards t...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://static.toiimg.com/photo/msid-133838638,imgsize-149838.cms",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-attends-gorkhali-womens-hartalika-teej-festival-in-dehradun/articleshow/133838639.cms"
+    },
+    {
+      "id": "news-us-envoys-meet-zelensky-in-ukraine-after-talks-w-c760138e66",
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-06T13:16:21.000Z",
+      "summary": "Steve Witkoff and Jared Kushner arrive in Kyiv, having held talks with Putin in Moscow on Saturday.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
