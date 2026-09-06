@@ -1,4 +1,18 @@
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
+import { pathToFileURL } from "node:url";
+
+export const AUTO_APPLICABLE_SIGNALS = Object.freeze(["index_watch", "engagement_expand"]);
+
+export function selectAutoApplicableItems(items) {
+  return (items ?? []).filter(
+    (item) => item.risk === "low" && item.status === "queued" && AUTO_APPLICABLE_SIGNALS.includes(item.signal),
+  );
+}
+
+export function findEventForPath(events, targetPath) {
+  const match = /^\/events\/([a-z0-9-]+)$/.exec(String(targetPath ?? ""));
+  return match ? (events ?? []).find((event) => event.slug === match[1]) : undefined;
+}
 
 const OPPORTUNITIES_FILE = new URL("../../automation/experiments/traffic-opportunities.json", import.meta.url);
 const EVENTS_FILE = new URL("../../public/content/live/events.json", import.meta.url);
@@ -14,9 +28,7 @@ async function main() {
     return;
   }
 
-  const lowRiskQueued = queue.items.filter(
-    (item) => item.risk === "low" && item.status === "queued"
-  );
+  const lowRiskQueued = selectAutoApplicableItems(queue.items);
 
   console.log(`Found ${lowRiskQueued.length} low-risk queued opportunities.`);
 
@@ -39,7 +51,7 @@ async function main() {
     }
 
     if (item.signal === "engagement_expand" && events?.items) {
-      const event = events.items.find((e) => `/${e.slug}` === path || `/events/${e.slug}` === path);
+      const event = findEventForPath(events.items, path);
       if (event && !event.safeToPromote) {
         event.safeToPromote = true;
         applied.push({ id: item.id, action: "promoted_event", path });
@@ -88,7 +100,9 @@ async function addToSitemap(path) {
   await writeFile(SITEMAP_FILE, updated, "utf8");
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

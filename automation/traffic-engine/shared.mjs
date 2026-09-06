@@ -760,8 +760,9 @@ export function buildPruneReport(context) {
   };
 }
 
-export function buildExperimentLedger(context, homeModules, videoShorts, gamesCatalog, galleryCollections) {
+export function buildHeuristicSurfaceLedger(context, homeModules, videoShorts, gamesCatalog, galleryCollections) {
   return {
+    ledgerType: "heuristic-surface-state",
     updatedAt: context.updatedAt,
     items: [
       ledgerItem("home", "entry pageviews", context.pageMap.get("/")?.pageviews ?? 0, homeModules.updatedAt),
@@ -985,14 +986,15 @@ function compactNumber(value) {
   return new Intl.NumberFormat("en", { notation: "compact", maximumFractionDigits: 1 }).format(value ?? 0);
 }
 
-function ledgerItem(surface, targetMetric, observedDelta, version) {
+function ledgerItem(surface, targetMetric, observedValue, version) {
   return {
     surface,
     moduleVersion: version,
     startDate: version.slice(0, 10),
     targetMetric,
-    observedDelta,
-    decision: observedDelta > 0 ? "keep" : "replace",
+    observedValue,
+    heuristicDecision: observedValue > 0 ? "retain-current-priority" : "needs-more-evidence",
+    decisionBasis: "Current absolute signal only; no baseline/treatment comparison is available.",
   };
 }
 

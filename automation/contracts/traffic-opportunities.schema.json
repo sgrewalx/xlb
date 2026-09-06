@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xlb.codemachine.in/schemas/traffic-opportunities.schema.json",
+  "title": "XLB Traffic Opportunity Queue",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["updatedAt", "items"],
+  "properties": {
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "signal", "title", "ownerAgent", "risk", "status", "hypothesis", "targetPaths", "successMetric", "rollbackPlan", "notes"],
+        "properties": {
+          "signal": { "type": "string", "enum": ["search_ctr_lift", "search_striking_distance", "engagement_expand", "engagement_watch_click_lift", "index_watch"] }
+        }
+      }
+    }
+  }
+}

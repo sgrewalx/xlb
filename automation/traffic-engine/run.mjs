@@ -2,7 +2,7 @@ import { writeJsonIfChanged, writeTextIfChanged } from "../shared/content-writer
 import { buildGalleryVisuals } from "./gallery-visuals.mjs";
 import {
   buildAutonomyState,
-  buildExperimentLedger,
+  buildHeuristicSurfaceLedger,
   buildGalleryCollections,
   buildGamesCatalog,
   buildHomeModules,
@@ -51,7 +51,7 @@ async function main() {
     gamesCatalog,
     galleryCollections,
   );
-  const experimentLedger = buildExperimentLedger(
+  const heuristicLedger = buildHeuristicSurfaceLedger(
     context,
     homeModules,
     videoShorts,
@@ -96,7 +96,7 @@ async function main() {
     }),
     writeAndLog(PRUNE_AGENT_FILE, pruneReport),
     writeAndLog(AUTONOMY_STATE_FILE, autonomyState),
-    writeAndLog(EXPERIMENT_LEDGER_FILE, experimentLedger),
+    writeAndLog(EXPERIMENT_LEDGER_FILE, heuristicLedger),
   ]);
 }
 

@@ -1,131 +1,133 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://xlb.codemachine.in/schemas/experiment-queue.schema.json",
-  "title": "XLB Experiment Queue",
+  "title": "XLB Experiment Queue V2",
   "type": "object",
   "additionalProperties": false,
-  "required": [
-    "updatedAt",
-    "items"
-  ],
+  "required": ["schemaVersion", "updatedAt", "items"],
   "properties": {
-    "updatedAt": {
-      "type": "string",
-      "format": "date-time"
-    },
+    "schemaVersion": { "const": 2 },
+    "updatedAt": { "type": "string", "format": "date-time" },
     "items": {
       "type": "array",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": [
-          "id",
-          "title",
-          "ownerAgent",
-          "risk",
-          "status",
-          "hypothesis",
-          "targetPaths",
-          "successMetric"
-        ],
+        "required": ["id", "title", "ownerAgent", "risk", "status", "hypothesis", "targetPaths", "primaryMetric", "secondaryMetrics", "guardrails", "successMetric", "rollbackPlan", "notes", "implementation", "measurementStart", "baseline", "measurement", "decision"],
         "properties": {
-          "id": {
-            "type": "string",
-            "minLength": 1
-          },
-          "title": {
-            "type": "string",
-            "minLength": 1
-          },
-          "ownerAgent": {
-            "type": "string",
-            "minLength": 1
-          },
-          "risk": {
-            "type": "string",
-            "enum": [
-              "low",
-              "medium",
-              "high"
-            ]
-          },
-          "status": {
-            "type": "string",
-            "enum": [
-              "queued",
-              "running",
-              "awaiting_review",
-              "accepted",
-              "rejected",
-              "measuring",
-              "completed"
-            ]
-          },
-          "hypothesis": {
-            "type": "string",
-            "minLength": 1
-          },
-          "targetPaths": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-              "type": "string",
-              "minLength": 1
+          "id": { "type": "string", "minLength": 1 },
+          "title": { "type": "string", "minLength": 1 },
+          "ownerAgent": { "type": "string", "minLength": 1 },
+          "risk": { "type": "string", "enum": ["low", "medium", "high"] },
+          "status": { "type": "string", "enum": ["idea", "queued", "building", "awaiting-production-deployment", "measuring", "evaluating", "completed", "rejected", "paused"] },
+          "hypothesis": { "type": "string", "minLength": 1 },
+          "targetPaths": { "type": "array", "minItems": 1, "items": { "type": "string", "pattern": "^/" } },
+          "primaryMetric": { "type": "string", "minLength": 1 },
+          "secondaryMetrics": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+          "guardrails": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+          "successMetric": { "type": "string", "minLength": 1 },
+          "rollbackPlan": { "type": "string", "minLength": 1 },
+          "notes": { "type": "string" },
+          "implementation": {
+            "type": ["object", "null"],
+            "additionalProperties": false,
+            "required": ["binding", "introducedBySha", "requiredPaths"],
+            "properties": {
+              "binding": { "const": "commit-ancestor-and-paths" },
+              "introducedBySha": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+              "requiredPaths": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } }
             }
-          },
-          "successMetric": {
-            "type": "string",
-            "minLength": 1
-          },
-          "rollbackPlan": {
-            "type": "string"
-          },
-          "notes": {
-            "type": "string"
           },
           "measurementStart": {
             "type": "object",
             "additionalProperties": false,
-            "required": [
-              "trigger",
-              "state",
-              "minimumDays",
-              "productionReleaseSha",
-              "productionDeployedAt"
-            ],
+            "required": ["trigger", "state", "minimumDays", "minimumEvidence", "productionReleaseSha", "productionDeployedAt", "diagnostic"],
             "properties": {
-              "trigger": {
-                "const": "actual-production-deployment"
+              "trigger": { "const": "actual-production-deployment" },
+              "state": { "type": "string", "enum": ["awaiting-production-deployment", "measuring", "completed"] },
+              "minimumDays": { "type": "integer", "minimum": 1 },
+              "minimumEvidence": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["metric", "minimum"],
+                "properties": {
+                  "metric": { "type": "string", "minLength": 1 },
+                  "minimum": { "type": "number", "minimum": 0 }
+                }
               },
-              "state": {
-                "type": "string",
-                "enum": [
-                  "awaiting-production-deployment",
-                  "measuring",
-                  "completed"
-                ]
+              "productionReleaseSha": { "type": ["string", "null"], "pattern": "^[0-9a-f]{40}$" },
+              "productionDeployedAt": { "type": ["string", "null"], "format": "date-time" },
+              "diagnostic": { "type": ["string", "null"] }
+            }
+          },
+          "baseline": { "$ref": "#/$defs/evidence" },
+          "measurement": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["capturedAt", "asOf", "sourceWindow", "evidenceWindows", "evidenceState", "metrics", "daysElapsed", "evidenceSufficient"],
+            "properties": {
+              "capturedAt": { "type": ["string", "null"], "format": "date-time" },
+              "asOf": { "type": ["string", "null"], "format": "date-time" },
+              "sourceWindow": { "$ref": "#/$defs/sourceWindow" },
+              "evidenceWindows": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["ga4", "searchConsole"],
+                "properties": {
+                  "ga4": { "$ref": "#/$defs/evidenceWindow" },
+                  "searchConsole": { "$ref": "#/$defs/evidenceWindow" }
+                }
               },
-              "minimumDays": {
-                "type": "integer",
-                "minimum": 1
-              },
-              "productionReleaseSha": {
-                "type": [
-                  "string",
-                  "null"
-                ],
-                "pattern": "^[0-9a-f]{40}$"
-              },
-              "productionDeployedAt": {
-                "type": [
-                  "string",
-                  "null"
-                ],
-                "format": "date-time"
-              }
+              "evidenceState": { "type": "string", "enum": ["not-yet-comparable", "awaiting-source-lag", "insufficient", "sufficient"] },
+              "metrics": { "$ref": "#/$defs/metrics" },
+              "daysElapsed": { "type": ["integer", "null"], "minimum": 0 },
+              "evidenceSufficient": { "type": "boolean" }
+            }
+          },
+          "decision": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["state", "decidedAt", "result", "confidence", "reason"],
+            "properties": {
+              "state": { "type": "string", "enum": ["pending", "evaluating", "decided"] },
+              "decidedAt": { "type": ["string", "null"], "format": "date-time" },
+              "result": { "type": ["string", "null"], "enum": ["win", "lose", "inconclusive", "guardrail-failure", null] },
+              "confidence": { "type": ["string", "null"], "enum": ["low", "medium", "high", null] },
+              "reason": { "type": ["string", "null"] }
             }
           }
         }
+      }
+    }
+  },
+  "$defs": {
+    "sourceWindow": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": ["start", "end"],
+      "properties": { "start": { "type": "string", "format": "date-time" }, "end": { "type": "string", "format": "date-time" } }
+    },
+    "evidenceWindow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end", "source", "complete", "reason"],
+      "properties": {
+        "start": { "type": ["string", "null"], "format": "date-time" },
+        "end": { "type": ["string", "null"], "format": "date-time" },
+        "source": { "type": "string", "minLength": 1 },
+        "complete": { "type": "boolean" },
+        "reason": { "type": "string", "minLength": 1 }
+      }
+    },
+    "metrics": { "type": "object", "additionalProperties": { "type": ["number", "null"] } },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["capturedAt", "sourceWindow", "metrics"],
+      "properties": {
+        "capturedAt": { "type": ["string", "null"], "format": "date-time" },
+        "sourceWindow": { "$ref": "#/$defs/sourceWindow" },
+        "metrics": { "$ref": "#/$defs/metrics" }
       }
     }
   }

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T06:00:00.000Z",
+  "week": "2026-W36",
+  "periods": {
+    "traffic": {
+      "start": "2026-08-30T00:00:00.000Z",
+      "end": "2026-09-06T00:00:00.000Z",
+      "source": "ga4",
+      "lagDays": 0,
+      "comparableToPrevious": false
+    },
+    "search": {
+      "start": "2026-08-08T00:00:00.000Z",
+      "end": "2026-09-05T00:00:00.000Z",
+      "source": "search-console",
+      "lagDays": 2,
+      "comparableToPrevious": false
+    }
+  },
+  "traffic": {
+    "users": 3,
+    "sessions": 6,
+    "pageviews": 37,
+    "returnVisitors": 19
+  },
+  "search": {
+    "impressions": 43,
+    "clicks": 0,
+    "ctr": 0,
+    "visiblePages": 11
+  },
+  "product": {
+    "videoStarts": 0,
+    "gameStarts": 0,
+    "galleryOpens": 0,
+    "liveCardClicks": 2,
+    "earthquakeInteractions": null
+  },
+  "experiments": {
+    "active": 1,
+    "startedThisWeek": 1,
+    "completedThisWeek": 0,
+    "wins": 0,
+    "losses": 0,
+    "inconclusive": 0
+  },
+  "releases": {
+    "deployments": null,
+    "contentOnlyDeployments": null,
+    "supervisedDeployments": null
+  },
+  "automation": {
+    "sourceHealth": "healthy",
+    "deployReadiness": "review-required",
+    "contentAuditFindings": 0,
+    "lowRiskFixesApplied": 0
+  },
+  "topPages": [
+    {
+      "path": "/news",
+      "pageviews": 10,
+      "searchImpressions": 2
+    },
+    {
+      "path": "/tech",
+      "pageviews": 9,
+      "searchImpressions": 5
+    },
+    {
+      "path": "/",
+      "pageviews": 4,
+      "searchImpressions": 5
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 2,
+      "searchImpressions": 8
+    },
+    {
+      "path": "/sports",
+      "pageviews": 4,
+      "searchImpressions": 1
+    },
+    {
+      "path": "/events/nasa-s-spacex-crs-35",
+      "pageviews": null,
+      "searchImpressions": 13
+    },
+    {
+      "path": "/live",
+      "pageviews": 4,
+      "searchImpressions": null
+    },
+    {
+      "path": "/events/global-earthquake-watch",
+      "pageviews": 2,
+      "searchImpressions": null
+    }
+  ],
+  "notableChanges": [
+    "Measure the Earthquake Intelligence MVP is measuring (Day 2).",
+    "Deploy readiness is review-required."
+  ],
+  "weekOverWeek": {
+    "traffic": {
+      "users": null,
+      "sessions": null,
+      "pageviews": null,
+      "returnVisitors": null
+    },
+    "search": {
+      "impressions": null,
+      "clicks": null,
+      "ctr": null,
+      "visiblePages": null
+    },
+    "product": {
+      "videoStarts": null,
+      "gameStarts": null,
+      "galleryOpens": null,
+      "liveCardClicks": null,
+      "earthquakeInteractions": null
+    },
+    "experiments": {
+      "active": null,
+      "startedThisWeek": null,
+      "completedThisWeek": null,
+      "wins": null,
+      "losses": null,
+      "inconclusive": null
+    },
+    "releases": {
+      "deployments": null,
+      "contentOnlyDeployments": null,
+      "supervisedDeployments": null
+    }
+  }
+}

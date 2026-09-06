@@ -1,4 +1,5 @@
 import { readFile, readdir } from "node:fs/promises";
+import { pathToFileURL } from "node:url";
 import { readJsonIfExists, writeJsonIfChanged } from "../shared/content-writer.mjs";
 
 const SNAPSHOT_FILE = process.env.XLB_ANALYTICS_SNAPSHOT
@@ -51,7 +52,7 @@ async function main() {
   );
 }
 
-function buildOpportunities({ snapshot, sitemapPaths, inputQuality }) {
+export function buildOpportunities({ snapshot, sitemapPaths, inputQuality }) {
   const pages = snapshot.pages
     .filter((page) => page.path && page.path !== "/404")
     .map((page) => ({
@@ -185,13 +186,14 @@ function toOpportunity({
   };
 }
 
-function buildQueue({ updatedAt, opportunities, inputQuality }) {
+export function buildQueue({ updatedAt, opportunities, inputQuality }) {
   const status = inputQuality.quality === "live-api" ? "queued" : "awaiting_review";
 
   return {
     updatedAt,
     items: opportunities.map((opportunity) => ({
       id: opportunity.id,
+      signal: opportunity.signal,
       title: opportunity.title,
       ownerAgent: "traffic-improvement-agent",
       risk: opportunity.risk,
@@ -280,7 +282,9 @@ function slugify(value) {
     .replace(/^-+|-+$/g, "") || "home";
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : String(error));
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error instanceof Error ? error.message : String(error));
+    process.exitCode = 1;
+  });
+}

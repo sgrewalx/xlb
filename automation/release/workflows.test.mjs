@@ -5,6 +5,8 @@ import { readFile } from "node:fs/promises";
 const refreshFile = new URL("../../.github/workflows/refresh-live-analytics.yml", import.meta.url);
 const deployFile = new URL("../../.github/workflows/deploy.yml", import.meta.url);
 const buildFile = new URL("../../.github/workflows/build.yml", import.meta.url);
+const lifecycleFile = new URL("../../.github/workflows/sync-experiment-lifecycle.yml", import.meta.url);
+const weeklyFile = new URL("../../.github/workflows/weekly-progress.yml", import.meta.url);
 const promotionFiles = [
   "refresh-news.yml",
   "refresh-sports.yml",
@@ -157,4 +159,22 @@ test("successful human main build dispatches its exact push SHA", async () => {
   assert.match(workflow, /release-handoff:[\s\S]*permissions:\n\s+contents: write/);
   assert.match(workflow, /XLB_RELEASE_SHA: \$\{\{ github\.sha \}\}/);
   assert.match(workflow, /npm run automation:dispatch-release-handoff/);
+});
+
+test("experiment lifecycle observes only the exact successful Deploy run artifact", async () => {
+  const workflow = await readFile(lifecycleFile, "utf8");
+  assert.match(workflow, /workflow_run:\n\s+workflows:\n\s+- Deploy/);
+  assert.match(workflow, /github\.event\.workflow_run\.conclusion == 'success'/);
+  assert.match(workflow, /actions\/runs\/\$\{RUN_ID\}\/artifacts/);
+  assert.match(workflow, /XLB_PRODUCTION_RELEASE_STATE_PATH/);
+  assert.match(workflow, /npm run automation:sync-experiment-deployment/);
+  assert.doesNotMatch(workflow, /dispatch-release-handoff|aws s3|cloudfront/);
+});
+
+test("weekly progress reads committed evidence without fetching analytics or deploying", async () => {
+  const workflow = await readFile(weeklyFile, "utf8");
+  assert.match(workflow, /cron: "30 2 \* \* 1"/);
+  assert.match(workflow, /npm run automation:measure-experiments/);
+  assert.match(workflow, /npm run automation:weekly-progress/);
+  assert.doesNotMatch(workflow, /fetch-ga4|fetch-search-console|dispatch-release-handoff|aws s3|cloudfront/);
 });

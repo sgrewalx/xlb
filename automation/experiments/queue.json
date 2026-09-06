@@ -1,25 +1,113 @@
 {
-  "updatedAt": "2026-09-03T00:00:00.000Z",
+  "schemaVersion": 2,
+  "updatedAt": "2026-09-06T06:00:00.000Z",
   "items": [
     {
       "id": "earthquake-intelligence-v1",
       "title": "Measure the Earthquake Intelligence MVP",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",
-      "status": "queued",
+      "status": "measuring",
       "hypothesis": "A useful live earthquake intelligence tool will generate more search visibility, engagement, and repeat visits than the previous summary-only event page.",
       "targetPaths": [
         "/events/global-earthquake-watch"
       ],
-      "successMetric": "Primary: Search Console impressions and clicks. Secondary: engaged visits, repeat visits, earthquake interactions, and USGS source clicks over at least 14 days.",
+      "primaryMetric": "searchImpressions",
+      "secondaryMetrics": [
+        "searchClicks",
+        "pageviews",
+        "visits",
+        "returnVisitors",
+        "earthquakeInteractions",
+        "watchClicks"
+      ],
+      "guardrails": [
+        "No route-correctness regression",
+        "No unsafe or misleading earthquake data",
+        "No statistically significant claim from low-volume evidence"
+      ],
+      "successMetric": "Search impressions and clicks increase after at least 14 days, with supporting engagement evidence and no guardrail failure.",
       "rollbackPlan": "Restore the summary-only event treatment if the tool introduces correctness or usability regressions; do not claim significance from low-volume samples.",
-      "notes": "Pre-release baseline captured 2026-09-03: GA4 reported 2 pageviews and 1 visit for the route in the 7-day merged window. The 29-day Search Console page snapshot contained no row for this route, which means no reported route-level search data rather than a confirmed numeric zero. Begin the 14-day measurement window only after supervised deployment, then record the exact production release SHA and deployment timestamp below.",
+      "notes": "Baseline preserves missing Search Console route evidence as unavailable. The exact production deployment was reconciled from workflow run 33756172282 and artifact 9893566759.",
+      "implementation": {
+        "binding": "commit-ancestor-and-paths",
+        "introducedBySha": "c61561cc03501d0f88c254c964db0882ce46a05a",
+        "requiredPaths": [
+          "src/components/EarthquakeIntelligence.tsx",
+          "src/lib/earthquake-utils.js",
+          "public/content/earthquakes/current.json"
+        ]
+      },
       "measurementStart": {
         "trigger": "actual-production-deployment",
-        "state": "awaiting-production-deployment",
+        "state": "measuring",
         "minimumDays": 14,
-        "productionReleaseSha": null,
-        "productionDeployedAt": null
+        "minimumEvidence": {
+          "metric": "searchImpressions",
+          "minimum": 10
+        },
+        "productionReleaseSha": "4556d15d327b810109e8fb807b93715e33464462",
+        "productionDeployedAt": "2026-09-03T12:37:46.945Z",
+        "diagnostic": "Bound by implementation commit ancestry and required paths in the exact deployed release."
+      },
+      "baseline": {
+        "capturedAt": "2026-09-03T06:00:00.000Z",
+        "sourceWindow": {
+          "start": "2026-08-27T00:00:00.000Z",
+          "end": "2026-09-03T00:00:00.000Z"
+        },
+        "metrics": {
+          "searchImpressions": null,
+          "searchClicks": null,
+          "pageviews": 2,
+          "visits": 1,
+          "returnVisitors": 1,
+          "earthquakeInteractions": null,
+          "watchClicks": 0
+        }
+      },
+      "measurement": {
+        "capturedAt": "2026-09-06T06:00:00.000Z",
+        "asOf": "2026-09-06T06:00:00.000Z",
+        "sourceWindow": {
+          "start": "2026-08-30T00:00:00.000Z",
+          "end": "2026-09-06T00:00:00.000Z"
+        },
+        "evidenceWindows": {
+          "ga4": {
+            "start": "2026-08-30T00:00:00.000Z",
+            "end": "2026-09-06T00:00:00.000Z",
+            "source": "ga4",
+            "complete": false,
+            "reason": "The source period overlaps pre-deployment time."
+          },
+          "searchConsole": {
+            "start": "2026-08-08T00:00:00.000Z",
+            "end": "2026-09-05T00:00:00.000Z",
+            "source": "search-console",
+            "complete": false,
+            "reason": "The source period overlaps pre-deployment time."
+          }
+        },
+        "evidenceState": "not-yet-comparable",
+        "metrics": {
+          "searchImpressions": null,
+          "searchClicks": null,
+          "pageviews": null,
+          "visits": null,
+          "returnVisitors": null,
+          "earthquakeInteractions": null,
+          "watchClicks": null
+        },
+        "daysElapsed": 2,
+        "evidenceSufficient": false
+      },
+      "decision": {
+        "state": "pending",
+        "decidedAt": null,
+        "result": null,
+        "confidence": null,
+        "reason": "Minimum duration and complete post-deployment evidence have not both been met."
       }
     },
     {
@@ -27,16 +115,82 @@
       "title": "Expand the first space-events landing pages",
       "ownerAgent": "opportunity-agent",
       "risk": "medium",
-      "status": "queued",
+      "status": "idea",
       "hypothesis": "Dedicated launch and NASA live pages should outperform generic homepage cards for repeat visits and watch-clicks.",
       "targetPaths": [
         "/live",
-        "/live/space",
-        "/events/"
+        "/live/space"
       ],
-      "successMetric": "Higher watch-click rate and repeat sessions from space pages over 28 days.",
+      "primaryMetric": "watchClicks",
+      "secondaryMetrics": [
+        "pageviews",
+        "returnVisitors"
+      ],
+      "guardrails": [
+        "Use authoritative sources",
+        "Do not create missing dynamic routes"
+      ],
+      "successMetric": "Watch-click rate and repeat visits increase over at least 28 days.",
       "rollbackPlan": "Freeze generation for weak topics and remove low-performing internal links.",
-      "notes": "Human review required before enabling new page templates in production."
+      "notes": "Idea only. It has no implementation binding and cannot enter measurement until a reviewed implementation exists.",
+      "implementation": null,
+      "measurementStart": {
+        "trigger": "actual-production-deployment",
+        "state": "awaiting-production-deployment",
+        "minimumDays": 28,
+        "minimumEvidence": {
+          "metric": "watchClicks",
+          "minimum": 10
+        },
+        "productionReleaseSha": null,
+        "productionDeployedAt": null,
+        "diagnostic": "No implementation binding is recorded."
+      },
+      "baseline": {
+        "capturedAt": null,
+        "sourceWindow": null,
+        "metrics": {
+          "watchClicks": null,
+          "pageviews": null,
+          "returnVisitors": null
+        }
+      },
+      "measurement": {
+        "capturedAt": null,
+        "asOf": null,
+        "sourceWindow": null,
+        "evidenceWindows": {
+          "ga4": {
+            "start": null,
+            "end": null,
+            "source": "ga4",
+            "complete": false,
+            "reason": "Awaiting a complete post-deployment source period."
+          },
+          "searchConsole": {
+            "start": null,
+            "end": null,
+            "source": "search-console",
+            "complete": false,
+            "reason": "Awaiting a complete post-deployment source period."
+          }
+        },
+        "evidenceState": "not-yet-comparable",
+        "metrics": {
+          "watchClicks": null,
+          "pageviews": null,
+          "returnVisitors": null
+        },
+        "daysElapsed": null,
+        "evidenceSufficient": false
+      },
+      "decision": {
+        "state": "pending",
+        "decidedAt": null,
+        "result": null,
+        "confidence": null,
+        "reason": "Experiment has not entered implementation."
+      }
     }
   ]
 }

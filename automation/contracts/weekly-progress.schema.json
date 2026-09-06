@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xlb.codemachine.in/schemas/weekly-progress.schema.json",
+  "title": "XLB Weekly Progress",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "generatedAt", "week", "periods", "traffic", "search", "product", "experiments", "releases", "automation", "topPages", "notableChanges", "weekOverWeek"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "week": { "type": "string", "pattern": "^\\d{4}-W\\d{2}$" },
+    "periods": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["traffic", "search"],
+      "properties": {
+        "traffic": { "$ref": "#/$defs/period" },
+        "search": { "$ref": "#/$defs/period" }
+      }
+    },
+    "traffic": { "$ref": "#/$defs/metrics" },
+    "search": { "$ref": "#/$defs/metrics" },
+    "product": { "$ref": "#/$defs/metrics" },
+    "experiments": { "$ref": "#/$defs/metrics" },
+    "releases": { "$ref": "#/$defs/metrics" },
+    "automation": { "type": "object" },
+    "topPages": { "type": "array", "items": { "type": "object" } },
+    "notableChanges": { "type": "array", "items": { "type": "string" } },
+    "weekOverWeek": { "type": "object" }
+  },
+  "$defs": {
+    "period": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end", "source", "lagDays", "comparableToPrevious"],
+      "properties": {
+        "start": { "type": "string", "format": "date-time" },
+        "end": { "type": "string", "format": "date-time" },
+        "source": { "type": "string", "minLength": 1 },
+        "lagDays": { "type": "integer", "minimum": 0 },
+        "comparableToPrevious": { "type": "boolean" }
+      }
+    },
+    "metrics": { "type": "object", "additionalProperties": { "type": ["number", "string", "boolean", "null"] } }
+  }
+}

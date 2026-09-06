@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-09-06T07:48:09.537Z",
+  "updatedAt": "2026-09-06T10:55:59.711Z",
   "items": [
     {
       "id": "traffic-engagement_expand-news",
+      "signal": "engagement_expand",
       "title": "Expand high-engagement path /news",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",
@@ -17,6 +18,7 @@
     },
     {
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
+      "signal": "search_ctr_lift",
       "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",
@@ -31,6 +33,7 @@
     },
     {
       "id": "traffic-index-watch-events-aurora-watch",
+      "signal": "index_watch",
       "title": "Watch index coverage for /events/aurora-watch",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
@@ -45,6 +48,7 @@
     },
     {
       "id": "traffic-index-watch-events-roscosmos-progress-97",
+      "signal": "index_watch",
       "title": "Watch index coverage for /events/roscosmos-progress-97",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
@@ -59,6 +63,7 @@
     },
     {
       "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
+      "signal": "index_watch",
       "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
@@ -73,6 +78,7 @@
     },
     {
       "id": "traffic-index-watch-topics-earthquakes",
+      "signal": "index_watch",
       "title": "Watch index coverage for /topics/earthquakes",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
@@ -87,6 +93,7 @@
     },
     {
       "id": "traffic-index-watch-topics-space-weather",
+      "signal": "index_watch",
       "title": "Watch index coverage for /topics/space-weather",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
@@ -101,6 +108,7 @@
     },
     {
       "id": "traffic-index-watch-topics-launches",
+      "signal": "index_watch",
       "title": "Watch index coverage for /topics/launches",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "low",
@@ -115,6 +123,7 @@
     },
     {
       "id": "traffic-search_striking_distance-events-nasa-s-spacex-crs-35",
+      "signal": "search_striking_distance",
       "title": "Strengthen ranking support for /events/nasa-s-spacex-crs-35",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",
@@ -129,6 +138,7 @@
     },
     {
       "id": "traffic-search_striking_distance-home",
+      "signal": "search_striking_distance",
       "title": "Strengthen ranking support for /",
       "ownerAgent": "traffic-improvement-agent",
       "risk": "medium",

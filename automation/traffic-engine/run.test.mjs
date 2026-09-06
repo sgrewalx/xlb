@@ -2,7 +2,9 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import {
   buildAutonomyState,
+  buildHeuristicSurfaceLedger,
   buildGalleryCollections,
+  buildGamesCatalog,
   buildHomeModules,
   buildPruneReport,
   buildVideoShorts,
@@ -393,4 +395,20 @@ test("buildAutonomyState and prune report reflect active signals and stale items
 
   assert.equal(autonomy.status, "active-learning");
   assert.equal(prune.staleEvents[0].slug, "old-launch");
+});
+
+test("surface ledger labels absolute signals as heuristics rather than experiment deltas", () => {
+  const context = makeContext();
+  const ledger = buildHeuristicSurfaceLedger(
+    context,
+    buildHomeModules(context),
+    buildVideoShorts(context),
+    buildGamesCatalog(context),
+    buildGalleryCollections(context),
+  );
+  assert.equal(Object.hasOwn(ledger.items[0], "observedDelta"), false);
+  assert.equal(ledger.ledgerType, "heuristic-surface-state");
+  assert.equal(Object.hasOwn(ledger.items[0], "decision"), false);
+  assert.equal(typeof ledger.items[0].observedValue, "number");
+  assert.match(ledger.items[0].decisionBasis, /no baseline\/treatment comparison/i);
 });
