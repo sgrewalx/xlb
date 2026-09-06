@@ -1,47 +1,46 @@
 {
-  "updatedAt": "2026-09-06T18:45:38.931Z",
+  "updatedAt": "2026-09-06T20:57:55.415Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-live-updates-germany-s-far-right-has-big-lead-in-dfb3fb8454",
-      "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
-      "tag": "US",
-      "publishedAt": "2026-09-06T18:40:21.000Z",
-      "summary": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority — which would propel...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06germany-election-zjck/06germany-election-zjck-mediumSquareAt3X.jpg",
-      "imageAlt": "Ulrich Siegmund, center, the lead candidate for the far-right party Alternative for Germany, celebrated after polls closed on Sunday.",
-      "imageCredit": "Tobias Schwarz/Agence France-Presse — Getty Images",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/live/2026/09/06/world/germany-election"
-    },
-    {
-      "id": "news-three-bonded-labourers-from-tiruvannamalai-rescu-1bb7f28c83",
-      "title": "Three bonded labourers from Tiruvannamalai rescued in Karnataka",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/three-bonded-labourers-from-tiruvannamalai-rescued-in-karnataka/article71435692.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-06T18:36:38.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/azn1w0/article71436033.ece/alternates/LANDSCAPE_1200/bond-2.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/three-bonded-labourers-from-tiruvannamalai-rescued-in-karnataka/article71435692.ece"
-    },
-    {
-      "id": "news-zelensky-says-he-expects-war-to-continue-into-wi-7c2cd863dc",
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "id": "news-peace-talks-rich-in-symbolism-but-fundamental-di-6dd617e48d",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-09-06T18:33:50.000Z",
-      "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "publishedAt": "2026-09-06T20:52:12.000Z",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-high-level-committee-formed-in-maharashtra-for-t-c64912d817",
+      "title": "High-level committee formed in Maharashtra for transparency in recruitment examinations",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/maharashtra/high-level-committee-formed-in-maharashtra-for-transparency-in-recruitment-examinations/article71436094.ece",
+      "tag": "India",
+      "publishedAt": "2026-09-06T20:46:34.000Z",
+      "summary": "The Committee will visit each Revenue Division in the State and hold discussions and consultations with students, candidates, representatives of educational institutions and oth...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://th-i.thgim.com/public/incoming/wu0xme/article71436484.ece/alternates/LANDSCAPE_1200/iStock-492198143.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/news/national/maharashtra/high-level-committee-formed-in-maharashtra-for-transparency-in-recruitment-examinations/article71436094.ece"
+    },
+    {
+      "id": "news-australia-news-live-parents-of-australians-surfe-a150e7dcf1",
+      "title": "Australia news live: parents of Australians surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+      "tag": "Europe",
+      "publishedAt": "2026-09-06T20:42:40.000Z",
+      "summary": "Follow the day’s news live Welcome to Monday’s live coverage. Nick Visser will be with you shortly for the day’s news. Let’s begin. Continue reading...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/257_0_2462_1970/master/2462.jpg?width=460&quality=85&auto=format&fit=max&s=a6a6b6c16106454137ae67c2b1a04e84",
+      "imageCredit": "Photograph: SUPPLIED/PR IMAGE",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb"
     }
   ]
 }
