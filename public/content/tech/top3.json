@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-09-06T06:43:19.917Z",
+  "updatedAt": "2026-09-06T11:26:13.499Z",
   "items": [
+    {
+      "id": "tech-create-custom-windows-11-notifications-to-remind-a0f86f0f0c",
+      "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything",
+      "tag": "Technology",
+      "publishedAt": "2026-09-06T11:00:00.000Z",
+      "summary": "Take full control of your desktop alerts by sending yourself recurring reminders and custom notifications triggered by specific events.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a980eee0cc86cbb73f68820/master/pass/CustomeReminder.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything"
+    },
     {
       "id": "tech-best-gaming-laptops-under-rs-1-5-lakh-in-india-f844abbd30",
       "title": "Best Gaming Laptops Under Rs. 1.5 Lakh in India",
@@ -12,31 +25,17 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-is-it-safe-to-leave-your-phone-s-bluetooth-runni-c98842411d",
-      "title": "Is It Safe To Leave Your Phone's Bluetooth Running All The Time?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using",
-      "tag": "Running",
-      "publishedAt": "2026-09-05T23:30:00.000Z",
-      "summary": "Bluetooth is a common setting that's typically always on in modern phones, but this feature may be leaving your phone open to a rather significant issue.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/is-it-safe-to-leave-your-phones-bluetooth-running-all-the-time/l-intro-1787153223.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using"
-    },
-    {
-      "id": "tech-tesla-s-cybercab-has-been-deployed-and-it-s-alre-aa6ac2c062",
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation",
+      "id": "tech-google-tcs-and-the-physics-of-air-cooling-a-larg-8736cdc6ae",
+      "title": "Google, TCS, and the physics of air-cooling a large data centre | Explained",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-05T15:17:36.000Z",
-      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+      "publishedAt": "2026-09-06T06:42:24.000Z",
+      "summary": "Using air-cooling alone to cool a 1-GW data centre is considered impractical; while liquid-cooling imposes higher costs upfront, air-cooling imposes a performance and efficiency...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
-      "imageCredit": "David Paul Morris/Bloomberg via Getty Images",
+      "image": "https://th-i.thgim.com/public/todays-paper/tp-international/miwpvu/article71409353.ece/alternates/LANDSCAPE_1200/Data-center-bacGQJGFD9O9.3.jpg.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation"
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece"
     }
   ]
 }
