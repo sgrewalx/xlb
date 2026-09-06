@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T07:34:12.333Z",
+  "updatedAt": "2026-09-06T07:48:09.258Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -21,7 +21,7 @@
         },
         {
           "label": "Top pulse",
-          "value": "16"
+          "value": "10"
         }
       ],
       "items": [
@@ -31,7 +31,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Sep 5, 07:31 AM"
+          "meta": "USGS Earthquake Hazards Program · Sep 6, 07:41 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -47,7 +47,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Sep 5, 07:30 AM"
+          "meta": "NOAA Space Weather Prediction Center · Sep 6, 07:42 AM"
         }
       ],
       "relatedLinks": [
@@ -83,7 +83,7 @@
         },
         {
           "label": "Return loop",
-          "value": "3"
+          "value": "2"
         }
       ],
       "emptyState": {
@@ -117,7 +117,7 @@
       "metrics": [
         {
           "label": "Video views",
-          "value": "6"
+          "value": "0"
         },
         {
           "label": "Home search impressions",
@@ -133,25 +133,25 @@
           "id": "why-/news",
           "title": "News",
           "href": "/news",
-          "label": "16 views",
+          "label": "10 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "2 search impressions · engagement 93"
+          "meta": "2 search impressions · engagement 100"
+        },
+        {
+          "id": "why-/gallery",
+          "title": "Gallery",
+          "href": "/gallery",
+          "label": "2 views",
+          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
+          "meta": "8 search impressions · engagement 83"
         },
         {
           "id": "why-/tech",
           "title": "Tech",
           "href": "/tech",
-          "label": "19 views",
+          "label": "9 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "5 search impressions · engagement 74"
-        },
-        {
-          "id": "why-/live",
-          "title": "Live",
-          "href": "/live",
-          "label": "10 views",
-          "summary": "Live pages work because the information can change between visits and there is a clear reason to come back.",
-          "meta": "0 search impressions · engagement 100"
+          "meta": "5 search impressions · engagement 58"
         }
       ],
       "relatedLinks": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T07:34:12.333Z",
+  "updatedAt": "2026-09-06T07:48:09.258Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 263 earthquake events in the last 24 hours. Strongest reported event: M5.5 near 156 km E of Kuril’sk, Russia.",
+          "summary": "USGS reported 172 earthquake events in the last 24 hours. Strongest reported event: M5.6 near 93 km SE of Kirakira, Solomon Islands.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 5, 07:34 AM",
+          "metricValue": "Sep 6, 07:48 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -80,7 +80,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 2. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",

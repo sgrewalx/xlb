@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-05T07:34:12.333Z",
-  "snapshotFile": "merged-2026-09-05.json",
-  "capturedAt": "2026-09-05T06:00:00.000Z",
+  "updatedAt": "2026-09-06T07:48:09.258Z",
+  "snapshotFile": "merged-2026-09-06.json",
+  "capturedAt": "2026-09-06T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -10,29 +10,9 @@
   },
   "topPages": [
     {
-      "path": "/tech",
-      "pageviews": 19,
-      "searchImpressions": 5,
-      "engagementScore": 74,
-      "returnVisitors": 12,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
       "path": "/news",
-      "pageviews": 16,
-      "searchImpressions": 2,
-      "engagementScore": 93,
-      "returnVisitors": 8,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live",
       "pageviews": 10,
-      "searchImpressions": 0,
+      "searchImpressions": 2,
       "engagementScore": 100,
       "returnVisitors": 5,
       "videoStarts": 0,
@@ -40,53 +20,43 @@
       "galleryOpens": 0
     },
     {
-      "path": "/sports",
-      "pageviews": 10,
-      "searchImpressions": 1,
-      "engagementScore": 75,
+      "path": "/tech",
+      "pageviews": 9,
+      "searchImpressions": 5,
+      "engagementScore": 58,
       "returnVisitors": 5,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
     },
     {
-      "path": "/gallery",
-      "pageviews": 8,
-      "searchImpressions": 5,
-      "engagementScore": 81,
-      "returnVisitors": 4,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
       "path": "/",
-      "pageviews": 7,
-      "searchImpressions": 5,
-      "engagementScore": 49,
-      "returnVisitors": 3,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/video",
-      "pageviews": 6,
-      "searchImpressions": 0,
-      "engagementScore": 93,
-      "returnVisitors": 3,
-      "videoStarts": 14,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/games",
       "pageviews": 4,
-      "searchImpressions": 1,
-      "engagementScore": 74,
+      "searchImpressions": 5,
+      "engagementScore": 38,
       "returnVisitors": 2,
       "videoStarts": 0,
-      "gameStarts": 2,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/live",
+      "pageviews": 4,
+      "searchImpressions": 0,
+      "engagementScore": 78,
+      "returnVisitors": 2,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/sports",
+      "pageviews": 4,
+      "searchImpressions": 1,
+      "engagementScore": 73,
+      "returnVisitors": 2,
+      "videoStarts": 0,
+      "gameStarts": 0,
       "galleryOpens": 0
     },
     {
@@ -105,6 +75,36 @@
       "searchImpressions": 0,
       "engagementScore": 72,
       "returnVisitors": 1,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 2,
+      "searchImpressions": 8,
+      "engagementScore": 83,
+      "returnVisitors": 1,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/advertise",
+      "pageviews": 0,
+      "searchImpressions": 3,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/contact",
+      "pageviews": 0,
+      "searchImpressions": 3,
+      "engagementScore": 0,
+      "returnVisitors": 0,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0

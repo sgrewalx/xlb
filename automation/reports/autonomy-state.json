@@ -1,5 +1,5 @@
 {
-  "assessedAt": "2026-09-05T07:34:13.466Z",
+  "assessedAt": "2026-09-06T07:48:09.866Z",
   "status": "cold-start",
   "isAutoDeployEligible": false,
   "streaks": {
@@ -14,7 +14,7 @@
   },
   "recentRuns": [
     {
-      "assessedAt": "2026-09-05T07:34:13.466Z",
+      "assessedAt": "2026-09-06T07:48:09.866Z",
       "sourceHealthy": true,
       "hasRealAnalyticsCoverage": false,
       "coldStartOverrideEligible": false,
