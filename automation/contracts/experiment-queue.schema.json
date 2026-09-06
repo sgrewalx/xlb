@@ -64,11 +64,21 @@
           "measurement": {
             "type": "object",
             "additionalProperties": false,
-            "required": ["capturedAt", "asOf", "sourceWindow", "metrics", "daysElapsed", "evidenceSufficient"],
+            "required": ["capturedAt", "asOf", "sourceWindow", "evidenceWindows", "evidenceState", "metrics", "daysElapsed", "evidenceSufficient"],
             "properties": {
               "capturedAt": { "type": ["string", "null"], "format": "date-time" },
               "asOf": { "type": ["string", "null"], "format": "date-time" },
               "sourceWindow": { "$ref": "#/$defs/sourceWindow" },
+              "evidenceWindows": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["ga4", "searchConsole"],
+                "properties": {
+                  "ga4": { "$ref": "#/$defs/evidenceWindow" },
+                  "searchConsole": { "$ref": "#/$defs/evidenceWindow" }
+                }
+              },
+              "evidenceState": { "type": "string", "enum": ["not-yet-comparable", "awaiting-source-lag", "insufficient", "sufficient"] },
               "metrics": { "$ref": "#/$defs/metrics" },
               "daysElapsed": { "type": ["integer", "null"], "minimum": 0 },
               "evidenceSufficient": { "type": "boolean" }
@@ -96,6 +106,18 @@
       "additionalProperties": false,
       "required": ["start", "end"],
       "properties": { "start": { "type": "string", "format": "date-time" }, "end": { "type": "string", "format": "date-time" } }
+    },
+    "evidenceWindow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end", "source", "complete", "reason"],
+      "properties": {
+        "start": { "type": ["string", "null"], "format": "date-time" },
+        "end": { "type": ["string", "null"], "format": "date-time" },
+        "source": { "type": "string", "minLength": 1 },
+        "complete": { "type": "boolean" },
+        "reason": { "type": "string", "minLength": 1 }
+      }
     },
     "metrics": { "type": "object", "additionalProperties": { "type": ["number", "null"] } },
     "evidence": {

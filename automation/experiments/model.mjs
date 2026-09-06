@@ -69,7 +69,19 @@ function validateEvidence(value, label, measurement = false) {
   if (measurement) {
     assert(value.daysElapsed === null || (Number.isInteger(value.daysElapsed) && value.daysElapsed >= 0), `${label}.daysElapsed is invalid`);
     assert(typeof value.evidenceSufficient === "boolean", `${label}.evidenceSufficient must be boolean`);
+    assert(["not-yet-comparable", "awaiting-source-lag", "insufficient", "sufficient"].includes(value.evidenceState), `${label}.evidenceState is invalid`);
+    assert(value.evidenceWindows && typeof value.evidenceWindows === "object", `${label}.evidenceWindows is missing`);
+    for (const source of ["ga4", "searchConsole"]) validateEvidenceWindow(value.evidenceWindows[source], `${label}.evidenceWindows.${source}`);
   }
+}
+
+function validateEvidenceWindow(value, label) {
+  assert(value && typeof value === "object", `${label} must be an object`);
+  assert(value.start === null || Number.isFinite(Date.parse(value.start)), `${label}.start is invalid`);
+  assert(value.end === null || Number.isFinite(Date.parse(value.end)), `${label}.end is invalid`);
+  assertText(value.source, `${label}.source`);
+  assert(typeof value.complete === "boolean", `${label}.complete must be boolean`);
+  assertText(value.reason, `${label}.reason`);
 }
 
 function validateDecision(item) {

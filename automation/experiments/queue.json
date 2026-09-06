@@ -73,14 +73,31 @@
           "start": "2026-08-30T00:00:00.000Z",
           "end": "2026-09-06T00:00:00.000Z"
         },
+        "evidenceWindows": {
+          "ga4": {
+            "start": "2026-08-30T00:00:00.000Z",
+            "end": "2026-09-06T00:00:00.000Z",
+            "source": "ga4",
+            "complete": false,
+            "reason": "The source period overlaps pre-deployment time."
+          },
+          "searchConsole": {
+            "start": "2026-08-08T00:00:00.000Z",
+            "end": "2026-09-05T00:00:00.000Z",
+            "source": "search-console",
+            "complete": false,
+            "reason": "The source period overlaps pre-deployment time."
+          }
+        },
+        "evidenceState": "not-yet-comparable",
         "metrics": {
           "searchImpressions": null,
           "searchClicks": null,
-          "pageviews": 2,
-          "visits": 1,
-          "returnVisitors": 1,
+          "pageviews": null,
+          "visits": null,
+          "returnVisitors": null,
           "earthquakeInteractions": null,
-          "watchClicks": 0
+          "watchClicks": null
         },
         "daysElapsed": 2,
         "evidenceSufficient": false
@@ -90,7 +107,7 @@
         "decidedAt": null,
         "result": null,
         "confidence": null,
-        "reason": "Minimum duration and evidence have not both been met."
+        "reason": "Minimum duration and complete post-deployment evidence have not both been met."
       }
     },
     {
@@ -142,6 +159,23 @@
         "capturedAt": null,
         "asOf": null,
         "sourceWindow": null,
+        "evidenceWindows": {
+          "ga4": {
+            "start": null,
+            "end": null,
+            "source": "ga4",
+            "complete": false,
+            "reason": "Awaiting a complete post-deployment source period."
+          },
+          "searchConsole": {
+            "start": null,
+            "end": null,
+            "source": "search-console",
+            "complete": false,
+            "reason": "Awaiting a complete post-deployment source period."
+          }
+        },
+        "evidenceState": "not-yet-comparable",
         "metrics": {
           "watchClicks": null,
           "pageviews": null,

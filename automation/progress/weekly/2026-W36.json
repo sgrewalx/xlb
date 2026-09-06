@@ -2,8 +2,22 @@
   "schemaVersion": 1,
   "generatedAt": "2026-09-06T06:00:00.000Z",
   "week": "2026-W36",
-  "periodStart": "2026-08-30T00:00:00.000Z",
-  "periodEnd": "2026-09-06T00:00:00.000Z",
+  "periods": {
+    "traffic": {
+      "start": "2026-08-30T00:00:00.000Z",
+      "end": "2026-09-06T00:00:00.000Z",
+      "source": "ga4",
+      "lagDays": 0,
+      "comparableToPrevious": false
+    },
+    "search": {
+      "start": "2026-08-08T00:00:00.000Z",
+      "end": "2026-09-05T00:00:00.000Z",
+      "source": "search-console",
+      "lagDays": 2,
+      "comparableToPrevious": false
+    }
+  },
   "traffic": {
     "users": 3,
     "sessions": 6,

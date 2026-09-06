@@ -6,13 +6,17 @@ import { validateExperimentQueue } from "../../experiments/model.mjs";
 const ROOT = new URL("../../../", import.meta.url);
 const OUTPUT_DIRECTORY = new URL("./", import.meta.url);
 
-export function buildWeeklyProgress({ snapshot, queue, reports = {}, previous = null, releases = null, generatedAt = snapshot.capturedAt }) {
+export function buildWeeklyProgress({ snapshot, sourceSnapshots, queue, reports = {}, previous = null, releases = null, generatedAt = snapshot.capturedAt }) {
   validateExperimentQueue(queue);
-  const periodStart = snapshot.window.start;
-  const periodEnd = snapshot.window.end;
-  const gaPages = (snapshot.pages ?? []).filter((page) => String(page.notes ?? "").includes("GA4"));
-  const searchPages = (snapshot.pages ?? []).filter((page) => String(page.notes ?? "").includes("Search Console"));
-  const totals = snapshot.ga4?.dataStatus === "data" ? snapshot.ga4.totals : null;
+  const ga4 = sourceSnapshots?.ga4;
+  const searchConsole = sourceSnapshots?.searchConsole;
+  const periods = {
+    traffic: sourcePeriod(ga4, "ga4", generatedAt, previous?.periods?.traffic),
+    search: sourcePeriod(searchConsole, "search-console", generatedAt, previous?.periods?.search),
+  };
+  const gaPages = ga4?.pages ?? [];
+  const searchPages = searchConsole?.pages ?? [];
+  const totals = ga4?.ga4?.dataStatus === "data" ? ga4.ga4.totals : null;
   const impressions = sum(searchPages.map((page) => page.searchImpressions));
   const clicks = searchPages.length ? sum(searchPages.map((page) => page.searchImpressions * page.searchCtr)) : null;
   const completed = queue.items.filter((item) => item.status === "completed");
@@ -21,8 +25,7 @@ export function buildWeeklyProgress({ snapshot, queue, reports = {}, previous = 
     schemaVersion: 1,
     generatedAt,
     week: isoWeek(generatedAt),
-    periodStart,
-    periodEnd,
+    periods,
     traffic: {
       users: numberOrNull(totals?.totalUsers),
       sessions: numberOrNull(totals?.sessions),
@@ -44,8 +47,8 @@ export function buildWeeklyProgress({ snapshot, queue, reports = {}, previous = 
     },
     experiments: {
       active: queue.items.filter((item) => ["building", "awaiting-production-deployment", "measuring", "evaluating"].includes(item.status)).length,
-      startedThisWeek: queue.items.filter((item) => inPeriod(item.measurementStart.productionDeployedAt, periodStart, periodEnd)).length,
-      completedThisWeek: completed.filter((item) => inPeriod(item.decision.decidedAt, periodStart, periodEnd)).length,
+      startedThisWeek: queue.items.filter((item) => inPeriod(item.measurementStart.productionDeployedAt, periods.traffic.start, periods.traffic.end)).length,
+      completedThisWeek: completed.filter((item) => inPeriod(item.decision.decidedAt, periods.traffic.start, periods.traffic.end)).length,
       wins: completed.filter((item) => item.decision.result === "win").length,
       losses: completed.filter((item) => item.decision.result === "lose" || item.decision.result === "guardrail-failure").length,
       inconclusive: completed.filter((item) => item.decision.result === "inconclusive").length,
@@ -61,14 +64,14 @@ export function buildWeeklyProgress({ snapshot, queue, reports = {}, previous = 
       contentAuditFindings: arrayLengthOrNull(reports.contentAudit?.findings),
       lowRiskFixesApplied: numberOrNull(reports.lowRiskFixes?.appliedCount),
     },
-    topPages: [...(snapshot.pages ?? [])]
+    topPages: combinedPages(gaPages, searchPages)
       .filter((page) => page.path)
       .sort((left, right) => pageScore(right) - pageScore(left))
       .slice(0, 8)
       .map((page) => ({
         path: page.path,
-        pageviews: String(page.notes ?? "").includes("GA4") ? numberOrNull(page.pageviews) : null,
-        searchImpressions: String(page.notes ?? "").includes("Search Console") ? numberOrNull(page.searchImpressions) : null,
+        pageviews: numberOrNull(page.pageviews),
+        searchImpressions: numberOrNull(page.searchImpressions),
       })),
     notableChanges: buildNotableChanges(queue, reports),
     weekOverWeek: {},
@@ -80,9 +83,10 @@ export function buildWeeklyProgress({ snapshot, queue, reports = {}, previous = 
 export function validateWeeklyProgress(record) {
   if (record?.schemaVersion !== 1) throw new Error("weekly progress schemaVersion must be 1");
   if (!/^\d{4}-W\d{2}$/.test(record.week ?? "")) throw new Error("weekly progress week is invalid");
-  for (const [name, value] of [["generatedAt", record.generatedAt], ["periodStart", record.periodStart], ["periodEnd", record.periodEnd]]) {
+  for (const [name, value] of [["generatedAt", record.generatedAt]]) {
     if (!Number.isFinite(Date.parse(value ?? ""))) throw new Error(`weekly progress ${name} is invalid`);
   }
+  for (const name of ["traffic", "search"]) validatePeriod(record.periods?.[name], name);
   for (const section of ["traffic", "search", "product", "experiments", "releases"]) {
     if (!record[section] || typeof record[section] !== "object") throw new Error(`weekly progress ${section} is missing`);
     for (const [metric, value] of Object.entries(record[section])) {
@@ -99,7 +103,8 @@ export function buildDeltas(current, previous) {
   return Object.fromEntries(sections.map((section) => [section, Object.fromEntries(
     Object.entries(current[section]).map(([metric, value]) => {
       const prior = previous?.[section]?.[metric];
-      return [metric, typeof value === "number" && typeof prior === "number" ? Number((value - prior).toFixed(6)) : null];
+      const sourcePeriod = section === "search" ? current.periods.search : current.periods.traffic;
+      return [metric, sourcePeriod.comparableToPrevious && typeof value === "number" && typeof prior === "number" ? Number((value - prior).toFixed(6)) : null];
     }),
   )]));
 }
@@ -113,12 +118,14 @@ export function renderWeeklyMarkdown(record) {
     `Traffic recorded ${metric(record.traffic.users)} users, ${metric(record.traffic.sessions)} sessions, and ${metric(record.traffic.pageviews)} pageviews. ${record.experiments.active} experiment(s) are active.`,
     "",
     "## Growth",
+    `Source period: ${formatPeriod(record.periods.traffic)}`,
     `- Users: ${metric(record.traffic.users)}`,
     `- Sessions: ${metric(record.traffic.sessions)}`,
     `- Pageviews: ${metric(record.traffic.pageviews)}`,
     `- Return visitors: ${metric(record.traffic.returnVisitors)}`,
     "",
     "## Search Visibility",
+    `Source period: ${formatPeriod(record.periods.search)}`,
     `- Impressions: ${metric(record.search.impressions)}`,
     `- Clicks: ${metric(record.search.clicks)}`,
     `- CTR: ${metric(record.search.ctr, true)}`,
@@ -153,6 +160,61 @@ export function renderWeeklyMarkdown(record) {
     "",
   ];
   return lines.join("\n");
+}
+
+function validatePeriod(period, label) {
+  if (!period || typeof period !== "object") throw new Error(`weekly progress ${label} period is missing`);
+  for (const key of ["start", "end"]) if (!Number.isFinite(Date.parse(period[key] ?? ""))) throw new Error(`weekly progress ${label} period ${key} is invalid`);
+  if (typeof period.source !== "string" || !period.source) throw new Error(`weekly progress ${label} period source is invalid`);
+  if (!Number.isInteger(period.lagDays) || period.lagDays < 0) throw new Error(`weekly progress ${label} period lagDays is invalid`);
+  if (typeof period.comparableToPrevious !== "boolean") throw new Error(`weekly progress ${label} period comparability is invalid`);
+}
+
+function sourcePeriod(snapshot, source, generatedAt, previous) {
+  const start = snapshot?.window?.start;
+  const end = snapshot?.window?.end;
+  if (!Number.isFinite(Date.parse(start ?? "")) || !Number.isFinite(Date.parse(end ?? ""))) {
+    throw new Error(`weekly progress ${source} source period is unavailable`);
+  }
+  return {
+    start,
+    end,
+    source,
+    lagDays: source === "search-console" ? sourceLagDays(generatedAt, end) : 0,
+    comparableToPrevious: periodsAreComparable({ start, end }, previous),
+  };
+}
+
+function periodsAreComparable(current, previous) {
+  if (!previous) return false;
+  const currentStart = Date.parse(current.start);
+  const currentEnd = Date.parse(current.end);
+  const previousStart = Date.parse(previous.start);
+  const previousEnd = Date.parse(previous.end);
+  const week = 7 * 86_400_000;
+  return currentEnd - currentStart === week && previousEnd - previousStart === week && previousEnd === currentStart;
+}
+
+function sourceLagDays(generatedAt, end) {
+  const generatedDay = Date.UTC(new Date(generatedAt).getUTCFullYear(), new Date(generatedAt).getUTCMonth(), new Date(generatedAt).getUTCDate());
+  return Math.max(0, Math.round((generatedDay - Date.parse(end)) / 86_400_000) + 1);
+}
+
+function formatPeriod(period) {
+  const lag = period.lagDays ? `; ${period.lagDays}-day source lag` : "";
+  const comparison = period.comparableToPrevious ? "comparable with prior period" : "week-over-week comparison unavailable";
+  return `${period.start} to ${period.end} (${period.source}${lag}; ${comparison})`;
+}
+
+function combinedPages(gaPages, searchPages) {
+  const pages = new Map();
+  for (const page of gaPages) pages.set(page.path, { path: page.path, pageviews: numberOrNull(page.pageviews), searchImpressions: null });
+  for (const page of searchPages) {
+    const current = pages.get(page.path) ?? { path: page.path, pageviews: null, searchImpressions: null };
+    current.searchImpressions = numberOrNull(page.searchImpressions);
+    pages.set(page.path, current);
+  }
+  return [...pages.values()];
 }
 
 function isoWeek(value) {
@@ -190,15 +252,19 @@ async function readJson(url) { return url ? readFile(url, "utf8").then(JSON.pars
 async function main() {
   const snapshotUrl = await latestFile(new URL("automation/snapshots/", ROOT), /^merged-\d{4}-\d{2}-\d{2}\.json$/);
   if (!snapshotUrl) throw new Error("No merged analytics snapshot is available");
-  const [snapshot, queue, sourceHealth, deployReadiness, contentAudit, lowRiskFixes] = await Promise.all([
-    readJson(snapshotUrl), readJson(new URL("automation/experiments/queue.json", ROOT)),
+  const snapshotDate = snapshotUrl.pathname.match(/(\d{4}-\d{2}-\d{2})\.json$/)?.[1];
+  const [snapshot, ga4, searchConsole, queue, sourceHealth, deployReadiness, contentAudit, lowRiskFixes] = await Promise.all([
+    readJson(snapshotUrl),
+    readJson(new URL(`automation/snapshots/ga4-${snapshotDate}.json`, ROOT)),
+    readJson(new URL(`automation/snapshots/search-console-${snapshotDate}.json`, ROOT)),
+    readJson(new URL("automation/experiments/queue.json", ROOT)),
     readJson(new URL("automation/reports/live-source-health.json", ROOT)), readJson(new URL("automation/reports/deploy-readiness.json", ROOT)),
     readJson(new URL("automation/reports/content-audit.json", ROOT)), readJson(new URL("automation/reports/low-risk-autofix.json", ROOT)),
   ]);
   const week = isoWeek(snapshot.capturedAt);
   const existing = (await readdir(OUTPUT_DIRECTORY)).filter((name) => /^\d{4}-W\d{2}\.json$/.test(name) && name < `${week}.json`).sort();
   const previous = existing.length ? await readJson(new URL(existing.at(-1), OUTPUT_DIRECTORY)) : null;
-  const record = buildWeeklyProgress({ snapshot, queue, previous, generatedAt: snapshot.capturedAt, reports: { sourceHealth, deployReadiness, contentAudit, lowRiskFixes } });
+  const record = buildWeeklyProgress({ snapshot, sourceSnapshots: { ga4, searchConsole }, queue, previous, generatedAt: snapshot.capturedAt, reports: { sourceHealth, deployReadiness, contentAudit, lowRiskFixes } });
   await Promise.all([
     writeJsonIfChanged(new URL(`${record.week}.json`, OUTPUT_DIRECTORY), record),
     writeTextIfChanged(new URL(`${record.week}.md`, OUTPUT_DIRECTORY), renderWeeklyMarkdown(record)),

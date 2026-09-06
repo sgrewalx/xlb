@@ -14,6 +14,10 @@ test("experiment queue uses the V2 lifecycle contract without inventing missing 
   assert.equal(experiment.measurementStart.productionReleaseSha, "4556d15d327b810109e8fb807b93715e33464462");
   assert.equal(experiment.baseline.metrics.searchImpressions, null);
   assert.equal(experiment.measurement.metrics.earthquakeInteractions, null);
+  assert.equal(experiment.measurement.metrics.pageviews, null);
+  assert.equal(experiment.measurement.evidenceState, "not-yet-comparable");
+  assert.equal(experiment.measurement.evidenceWindows.ga4.complete, false);
+  assert.equal(experiment.measurement.evidenceWindows.searchConsole.complete, false);
   assert.match(experiment.notes, /workflow run 33756172282/);
 });
 

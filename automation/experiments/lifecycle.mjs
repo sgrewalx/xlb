@@ -54,6 +54,11 @@ export async function bindProductionDeployment(queue, release, { containsCommit,
         asOf: release.deployedAt,
         daysElapsed: 0,
         evidenceSufficient: false,
+        evidenceState: "not-yet-comparable",
+        evidenceWindows: {
+          ga4: emptyEvidenceWindow("ga4"),
+          searchConsole: emptyEvidenceWindow("search-console"),
+        },
       },
     });
   }
@@ -61,6 +66,10 @@ export async function bindProductionDeployment(queue, release, { containsCommit,
   const result = { ...queue, updatedAt: changed ? release.deployedAt : queue.updatedAt, items };
   validateExperimentQueue(result);
   return { queue: result, changed };
+}
+
+function emptyEvidenceWindow(source) {
+  return { start: null, end: null, source, complete: false, reason: "Awaiting a complete post-deployment source period." };
 }
 
 function withDiagnostic(item, diagnostic) {
