@@ -225,6 +225,128 @@ img {
   gap: 24px;
 }
 
+.ops-view-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.ops-tabs {
+  display: flex;
+  gap: 6px;
+  padding: 5px;
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius-md);
+  background: var(--bg-card);
+  width: fit-content;
+  max-width: 100%;
+}
+
+.ops-tabs button {
+  min-height: 40px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+}
+
+.ops-tabs button:hover,
+.ops-tabs button:focus-visible,
+.ops-tabs button.active {
+  background: rgba(124, 246, 212, 0.1);
+  color: var(--text);
+}
+
+.ops-week-heading {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ops-week-heading p,
+.ops-week-heading h2 {
+  margin: 0;
+}
+
+.ops-week-heading > span {
+  color: var(--muted);
+}
+
+.ops-delta-up {
+  color: var(--accent) !important;
+}
+
+.ops-delta-down {
+  color: #ffb7a2 !important;
+}
+
+.ops-delta-neutral {
+  color: var(--muted);
+}
+
+.ops-experiment-board {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  align-items: start;
+}
+
+.ops-experiment-column {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.ops-experiment-column h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.ops-experiment-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--stroke);
+  border-radius: 6px;
+  background: var(--bg-card);
+}
+
+.ops-experiment-card h3,
+.ops-experiment-card p {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.ops-experiment-card h3 {
+  font-size: 1rem;
+}
+
+.ops-experiment-card p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.ops-experiment-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  color: var(--accent);
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
 .ops-hero,
 .ops-panel,
 .ops-stat-card {
@@ -3494,6 +3616,15 @@ img {
     grid-template-columns: 1fr;
   }
 
+  .ops-experiment-board {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .ops-overview-grid,
+  .ops-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .section-header,
   .site-footer,
   .sudoku-toolbar,
@@ -3567,6 +3698,31 @@ img {
 }
 
 @media (max-width: 720px) {
+  .ops-overview-grid,
+  .ops-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ops-experiment-board {
+    grid-template-columns: 1fr;
+  }
+
+  .ops-tabs {
+    width: 100%;
+  }
+
+  .ops-tabs button {
+    flex: 1 1 0;
+    min-width: 0;
+    padding-inline: 8px;
+  }
+
+  .ops-week-heading {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
   .site-shell {
     width: min(100% - 20px, 1240px);
     padding-top: 14px;
