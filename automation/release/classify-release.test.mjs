@@ -46,6 +46,8 @@ test("content-only allowlist is explicit and excludes executable and governance 
   assert.equal(classify(modified("automation/reports/deploy-readiness.json")).classification, "review-required");
   assert.equal(classify(modified("public/content/modules/modules.json")).classification, "review-required");
   assert.equal(classify(modified("public/content/news/new.json")).classification, "review-required");
+  assert.equal(classify(modified("automation/progress/weekly/2026-W36.json")).classification, "review-required");
+  assert.equal(classify(modified("automation/experiments/queue.json")).classification, "review-required");
 });
 
 test("news manifest only is content-only", () => {

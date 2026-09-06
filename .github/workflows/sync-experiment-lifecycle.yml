@@ -1,0 +1,85 @@
+name: Sync Experiment Lifecycle
+
+on:
+  workflow_run:
+    workflows:
+      - Deploy
+    types:
+      - completed
+
+permissions:
+  actions: read
+  contents: write
+
+concurrency:
+  group: experiment-lifecycle-main
+  cancel-in-progress: false
+
+jobs:
+  bind-production-release:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Download exact run production state when present
+        id: release-state
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+        run: |
+          ARTIFACTS="$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}/artifacts" \
+            --jq '[.artifacts[] | select(.expired == false and (.name | startswith("production-release-")))]')"
+          ARTIFACT_COUNT="$(jq 'length' <<< "${ARTIFACTS}")"
+          if [ "${ARTIFACT_COUNT}" -gt 1 ]; then
+            echo "Deploy run exposed multiple production release states; refusing ambiguous binding."
+            exit 1
+          fi
+          ARTIFACT_ID="$(jq -r '.[0].id // empty' <<< "${ARTIFACTS}")"
+          if [ -z "${ARTIFACT_ID}" ]; then
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          mkdir -p "${RUNNER_TEMP}/experiment-release-state"
+          gh api "repos/${GITHUB_REPOSITORY}/actions/artifacts/${ARTIFACT_ID}/zip" > "${RUNNER_TEMP}/experiment-release-state/state.zip"
+          unzip -q "${RUNNER_TEMP}/experiment-release-state/state.zip" -d "${RUNNER_TEMP}/experiment-release-state"
+          echo "available=true" >> "$GITHUB_OUTPUT"
+
+      - name: Bind exact deployment to matching experiments
+        if: steps.release-state.outputs.available == 'true'
+        env:
+          XLB_PRODUCTION_RELEASE_STATE_PATH: ${{ runner.temp }}/experiment-release-state/production-release.json
+          XLB_EXPECTED_DEPLOY_WORKFLOW_RUN_ID: ${{ github.event.workflow_run.id }}
+        run: npm run automation:sync-experiment-deployment
+
+      - name: Commit lifecycle transition
+        if: steps.release-state.outputs.available == 'true'
+        run: |
+          if git diff --quiet -- automation/experiments/queue.json; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- automation/experiments/queue.json
+          git commit -m "chore: bind experiments to production release"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 5
+          done
+          exit 1

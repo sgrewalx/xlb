@@ -47,6 +47,9 @@
     "automation:write-production-release-state": "node automation/release/write-production-release-state.mjs",
     "automation:dispatch-release-handoff": "node automation/release/dispatch-release-handoff.mjs",
     "automation:content-candidate": "node automation/release/run-content-candidate.mjs",
+    "automation:sync-experiment-deployment": "node automation/experiments/lifecycle.mjs",
+    "automation:measure-experiments": "node automation/experiments/measure.mjs",
+    "automation:weekly-progress": "node automation/progress/weekly/run.mjs",
     "release:build": "node automation/release/build-validated-candidate.mjs"
   },
   "dependencies": {
