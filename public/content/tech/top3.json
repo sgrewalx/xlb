@@ -1,41 +1,45 @@
 {
-  "updatedAt": "2026-09-06T11:26:13.499Z",
+  "updatedAt": "2026-09-06T14:37:09.948Z",
   "items": [
     {
-      "id": "tech-create-custom-windows-11-notifications-to-remind-a0f86f0f0c",
-      "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
+      "id": "tech-how-to-check-your-pc-s-hard-drive-health-061afff19e",
+      "title": "How to check your PC's hard-drive health",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248471/how-to-check-hard-drive-health-pc",
+      "tag": "Technology",
+      "publishedAt": "2026-09-06T13:00:00.000Z",
+      "summary": "This is a step-by-step guide to checking the health of your Windows hard drive and what you can do if you get a bad result.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/how-to-check-your-pcs-hard-drive-health/l-intro-1788269225.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2248471/how-to-check-hard-drive-health-pc"
+    },
+    {
+      "id": "tech-german-company-becomes-first-in-europe-to-launch-f7f341f9b5",
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket",
+      "tag": "Technology",
+      "publishedAt": "2026-09-06T11:55:26.000Z",
+      "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
+      "imageCredit": "Isar Aerospace",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket"
+    },
+    {
+      "id": "tech-the-best-laptop-backpacks-for-work-travel-and-ev-71160c1464",
+      "title": "The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)",
       "source": "Wired",
-      "url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything",
+      "url": "https://www.wired.com/story/best-laptop-backpacks",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T11:00:00.000Z",
-      "summary": "Take full control of your desktop alerts by sending yourself recurring reminders and custom notifications triggered by specific events.",
+      "publishedAt": "2026-09-06T11:30:00.000Z",
+      "summary": "The wrong bag can aggravate you every single day. These WIRED-tested picks get comfort, capacity, and organization just right.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a980eee0cc86cbb73f68820/master/pass/CustomeReminder.jpg",
+      "image": "https://media.wired.com/photos/6a9b6e21074e05014033d571/master/pass/The-Best-Laptop-Backpacks-I%E2%80%99ve-Tested-for-Work,-Travel,-and-Everyday-Life.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything"
-    },
-    {
-      "id": "tech-best-gaming-laptops-under-rs-1-5-lakh-in-india-f844abbd30",
-      "title": "Best Gaming Laptops Under Rs. 1.5 Lakh in India",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/laptops/features/best-gaming-laptops-under-rs-1-5-lakh-india-price-specifications-features-11982811",
-      "tag": "Technology",
-      "publishedAt": "2026-09-06T12:30:36.000Z",
-      "summary": "Here are some of the best gaming laptops for buyers with a Rs. 1,50,000 budget. Our picks include the Asus TUF Gaming F16, Dell Alienware 16 Aurora and HP Victus 15.6, among oth...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-tcs-and-the-physics-of-air-cooling-a-larg-8736cdc6ae",
-      "title": "Google, TCS, and the physics of air-cooling a large data centre | Explained",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-09-06T06:42:24.000Z",
-      "summary": "Using air-cooling alone to cool a 1-GW data centre is considered impractical; while liquid-cooling imposes higher costs upfront, air-cooling imposes a performance and efficiency...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/todays-paper/tp-international/miwpvu/article71409353.ece/alternates/LANDSCAPE_1200/Data-center-bacGQJGFD9O9.3.jpg.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece"
+      "imageSourceUrl": "https://www.wired.com/story/best-laptop-backpacks"
     }
   ]
 }

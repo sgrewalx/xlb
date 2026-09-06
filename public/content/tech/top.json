@@ -1,19 +1,56 @@
 {
-  "updatedAt": "2026-09-06T11:26:13.499Z",
+  "updatedAt": "2026-09-06T14:37:09.948Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-create-custom-windows-11-notifications-to-remind-a0f86f0f0c",
-      "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything",
+      "id": "tech-how-to-check-your-pc-s-hard-drive-health-061afff19e",
+      "title": "How to check your PC's hard-drive health",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248471/how-to-check-hard-drive-health-pc",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T11:00:00.000Z",
-      "summary": "Take full control of your desktop alerts by sending yourself recurring reminders and custom notifications triggered by specific events.",
+      "publishedAt": "2026-09-06T13:00:00.000Z",
+      "summary": "This is a step-by-step guide to checking the health of your Windows hard drive and what you can do if you get a bad result.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a980eee0cc86cbb73f68820/master/pass/CustomeReminder.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-check-your-pcs-hard-drive-health/l-intro-1788269225.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything"
+      "imageSourceUrl": "https://www.engadget.com/2248471/how-to-check-hard-drive-health-pc"
+    },
+    {
+      "id": "tech-german-company-becomes-first-in-europe-to-launch-f7f341f9b5",
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket",
+      "tag": "Technology",
+      "publishedAt": "2026-09-06T11:55:26.000Z",
+      "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
+      "imageCredit": "Isar Aerospace",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket"
+    },
+    {
+      "id": "tech-the-best-laptop-backpacks-for-work-travel-and-ev-71160c1464",
+      "title": "The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/best-laptop-backpacks",
+      "tag": "Technology",
+      "publishedAt": "2026-09-06T11:30:00.000Z",
+      "summary": "The wrong bag can aggravate you every single day. These WIRED-tested picks get comfort, capacity, and organization just right.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6a9b6e21074e05014033d571/master/pass/The-Best-Laptop-Backpacks-I%E2%80%99ve-Tested-for-Work,-Travel,-and-Everyday-Life.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/best-laptop-backpacks"
+    },
+    {
+      "id": "tech-the-fairphone-6-plus-is-the-midrange-phone-we-de-94f5fbd01d",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "tag": "Technology",
+      "publishedAt": "2026-09-06T13:00:00.000Z",
+      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-best-gaming-laptops-under-rs-1-5-lakh-in-india-f844abbd30",
@@ -39,33 +76,6 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece"
     },
     {
-      "id": "tech-is-it-safe-to-leave-your-phone-s-bluetooth-runni-c98842411d",
-      "title": "Is It Safe To Leave Your Phone's Bluetooth Running All The Time?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using",
-      "tag": "Running",
-      "publishedAt": "2026-09-05T23:30:00.000Z",
-      "summary": "Bluetooth is a common setting that's typically always on in modern phones, but this feature may be leaving your phone open to a rather significant issue.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/is-it-safe-to-leave-your-phones-bluetooth-running-all-the-time/l-intro-1787153223.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using"
-    },
-    {
-      "id": "tech-tesla-s-cybercab-has-been-deployed-and-it-s-alre-aa6ac2c062",
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation",
-      "tag": "Technology",
-      "publishedAt": "2026-09-05T15:17:36.000Z",
-      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
-      "imageCredit": "David Paul Morris/Bloomberg via Getty Images",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation"
-    },
-    {
       "id": "tech-nclt-stays-disposal-of-byju-s-k3-linked-assets-a-19f84d3665",
       "title": "NCLT stays disposal of Byju's K3-linked assets auctioned for Rs 16 Cr",
       "source": "YourStory",
@@ -86,16 +96,6 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-explore-the-globe-in-field-recordings-35794bae12",
-      "title": "Explore the globe in field recordings",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-      "tag": "Technology",
-      "publishedAt": "2026-09-05T21:31:34.000Z",
-      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're als...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-tech-now-dbc928d469",
       "title": "Tech Now",
       "source": "BBC Technology",
@@ -109,43 +109,43 @@
       "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-these-cyborg-cockroaches-could-save-your-life-76d351c8b5",
-      "title": "These Cyborg Cockroaches Could Save Your Life",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response",
+      "id": "tech-don-t-get-rid-of-your-old-phone-turn-it-into-a-s-99ed6c2b9c",
+      "title": "Don't get rid of your old phone, turn it into a security camera",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248434/keep-old-phone-turn-into-security-camera",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T10:30:00.000Z",
-      "summary": "The team embedded electrodes into live cockroaches, then outfitted them with cameras and injection devices to deliver medication via remote control.",
+      "publishedAt": "2026-09-06T12:30:00.000Z",
+      "summary": "With the right setup, an old, unused phone can be repurposed into a security camera. Even better? It's free.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a9af4664c28b30a706b7171/master/pass/eait-mda-2026-cyborg-cockroach-16.jpg",
+      "image": "https://www.engadget.com/img/gallery/dont-get-rid-of-your-old-phone-turn-it-into-a-security-camera/l-intro-1788266445.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/cyborg-cockroaches-disaster-response"
+      "imageSourceUrl": "https://www.engadget.com/2248434/keep-old-phone-turn-into-security-camera"
     },
     {
-      "id": "tech-my-brief-summer-fling-with-siri-ai-325ab3ce86",
-      "title": "My Brief Summer Fling With Siri AI",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai",
+      "id": "tech-claude-can-help-manage-your-email-inbox-but-ther-661ded035e",
+      "title": "Claude can help manage your email inbox, but there are some risks involved",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2247891/claude-help-manage-emails-risks-involved",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T10:30:00.000Z",
-      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "publishedAt": "2026-09-06T12:00:00.000Z",
+      "summary": "AI has been known to mess up some pretty basic things, but Claude wants to help you with your emails.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a9957d8075950c219e951f8/master/pass/GettyImages-2255802594.jpg",
+      "image": "https://www.engadget.com/img/gallery/claude-can-help-manage-your-email-inbox-but-there-are-some-risks-involved/l-intro-1788200929.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai"
+      "imageSourceUrl": "https://www.engadget.com/2247891/claude-help-manage-emails-risks-involved"
     },
     {
-      "id": "tech-best-water-leak-detectors-2026-moen-phyn-tp-link-0749b21322",
-      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
+      "id": "tech-create-custom-windows-11-notifications-to-remind-a0f86f0f0c",
+      "title": "Create Custom Windows 11 Notifications to Remind Yourself of Anything",
       "source": "Wired",
-      "url": "https://www.wired.com/gallery/best-water-leak-detector",
+      "url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T10:09:00.000Z",
-      "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
+      "publishedAt": "2026-09-06T11:00:00.000Z",
+      "summary": "Take full control of your desktop alerts by sending yourself recurring reminders and custom notifications triggered by specific events.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/69fa2c9773d84c0fe6755fbd/master/pass/Best%20Water%20Leak%20Detectors%20for%20Your%20Home%20052026%20SOURCE%20Amazon.jpg",
+      "image": "https://media.wired.com/photos/6a980eee0cc86cbb73f68820/master/pass/CustomeReminder.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/gallery/best-water-leak-detector"
+      "imageSourceUrl": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything"
     }
   ]
 }
