@@ -1,5 +1,12 @@
 {
-  "updatedAt": "2026-09-06T07:48:09.537Z",
+  "updatedAt": "2026-09-07T08:08:54.141Z",
   "applied": [],
-  "skipped": []
+  "skipped": [
+    "traffic-index-watch-events-aurora-watch",
+    "traffic-index-watch-events-roscosmos-progress-97",
+    "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
+    "traffic-index-watch-topics-earthquakes",
+    "traffic-index-watch-topics-space-weather",
+    "traffic-index-watch-topics-launches"
+  ]
 }

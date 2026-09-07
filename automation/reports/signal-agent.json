@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-06T07:48:09.258Z",
-  "snapshotFile": "merged-2026-09-06.json",
-  "capturedAt": "2026-09-06T06:00:00.000Z",
+  "updatedAt": "2026-09-07T08:08:53.469Z",
+  "snapshotFile": "merged-2026-09-07.json",
+  "capturedAt": "2026-09-07T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -33,7 +33,7 @@
       "path": "/",
       "pageviews": 4,
       "searchImpressions": 5,
-      "engagementScore": 38,
+      "engagementScore": 37,
       "returnVisitors": 2,
       "videoStarts": 0,
       "gameStarts": 0,
@@ -55,6 +55,16 @@
       "searchImpressions": 1,
       "engagementScore": 73,
       "returnVisitors": 2,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/__ops",
+      "pageviews": 2,
+      "searchImpressions": 0,
+      "engagementScore": 72,
+      "returnVisitors": 1,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -82,7 +92,7 @@
     {
       "path": "/gallery",
       "pageviews": 2,
-      "searchImpressions": 8,
+      "searchImpressions": 9,
       "engagementScore": 83,
       "returnVisitors": 1,
       "videoStarts": 0,
@@ -91,16 +101,6 @@
     },
     {
       "path": "/advertise",
-      "pageviews": 0,
-      "searchImpressions": 3,
-      "engagementScore": 0,
-      "returnVisitors": 0,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/contact",
       "pageviews": 0,
       "searchImpressions": 3,
       "engagementScore": 0,
