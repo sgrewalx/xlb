@@ -1,46 +1,47 @@
 {
-  "updatedAt": "2026-09-07T00:33:01.809Z",
+  "updatedAt": "2026-09-07T05:30:17.956Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-australia-news-live-chalmers-says-next-election--ddcadb7f8b",
-      "title": "Australia news live: Chalmers says next election to be fought on super after One Nation reveals plan; Sydney to get urban solar farm",
+      "id": "news-the-bhotekoshi-flood-a-himalayan-tragedy-ae99420011",
+      "title": "The Bhotekoshi flood | A Himalayan tragedy",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+      "tag": "India",
+      "publishedAt": "2026-09-07T05:27:42.000Z",
+      "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this even...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece"
+    },
+    {
+      "id": "news-germany-s-far-right-tops-key-state-race-but-fall-fba3f824ee",
+      "title": "Germany’s Far Right Tops Key State Race, but Falls Short of Power",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "tag": "US",
+      "publishedAt": "2026-09-07T05:23:38.000Z",
+      "summary": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06germany-update-lpct/06germany-update-lpct-mediumSquareAt3X.jpg",
+      "imageCredit": "Matthias Schrader/Associated Press",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.nytimes.com/live/2026/09/06/world/germany-election"
+    },
+    {
+      "id": "news-australia-politics-live-coalition-targets-labor--624df79bfb",
+      "title": "Australia politics live: Coalition targets Labor over ‘plummeting’ Sydney house prices; PM speaks of ‘horror’ of Nepal floods",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-09-07T00:09:14.000Z",
-      "summary": "Follow the day’s news live One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a curre...",
+      "publishedAt": "2026-09-07T05:14:02.000Z",
+      "summary": "Follow the day’s news live Sign up for Guardian Australia’s Politics, really newsletter here One Nation has come up with a plan to give people their superannuation earlier, redu...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/ac2fae3c7ae1defc19d06c0da3a792796b6b1938/504_0_5949_4762/master/5949.jpg?width=460&quality=85&auto=format&fit=max&s=68f39b851b8600caad34c1e6ec873373",
+      "image": "https://i.guim.co.uk/img/media/cb3b9cface8fc80f5b026acce57357fa8855a148/1632_23_6370_5096/master/6370.jpg?width=460&quality=85&auto=format&fit=max&s=44a5b9bb44a26b985103e5a70cf57b2c",
       "imageCredit": "Photograph: Lukas Coch/AAP",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb"
-    },
-    {
-      "id": "news-punjab-govt-objects-to-appointment-of-ashwani-ku-54a403a353",
-      "title": "Punjab govt. objects to appointment of Ashwani Kumar Mishra as HC chief justice, asks Centre to stop oath ceremony",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/punjab/punjab-govt-objects-to-appointment-of-ashwani-kumar-mishra-as-hc-chief-justice-asks-centre-to-stop-oath-ceremony/article71437250.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-07T00:08:39.000Z",
-      "summary": "An official statement after the meeting of the State cabinet said it had resolved that the appointment and administration of oath should be put on hold until Punjab's views are...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/nb4wja/article71437251.ece/alternates/LANDSCAPE_1200/20260902372L.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/punjab/punjab-govt-objects-to-appointment-of-ashwani-kumar-mishra-as-hc-chief-justice-asks-centre-to-stop-oath-ceremony/article71437250.ece"
-    },
-    {
-      "id": "news-austria-s-islamic-headscarf-ban-in-force-as-unde-fa13388707",
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-09-07T00:01:32.000Z",
-      "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd65/live/c08394c0-a843-11f1-b3a7-d5de760fef6e.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
