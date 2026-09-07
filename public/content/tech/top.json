@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-07T01:53:28.636Z",
+  "updatedAt": "2026-09-07T06:47:36.662Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-openai-acknowledges-wiki-incident-and-need-for-m-bf597e0817",
+      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behaviour",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior/article71437319.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-09-07T05:02:08.000Z",
+      "summary": "The statement ​follows a Reuters report that ⁠a swarm of OpenAI agents had hijacked a communally edited German site earlier this year and used ‌it as a springboard",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://th-i.thgim.com/public/incoming/msmc8v/article71437323.ece/alternates/LANDSCAPE_1200/2026-09-05T025550Z_1262585678_RC2WR0AAL3ND_RTRMADP_3_SEATTLE-TIMES-OPENAI-LAWSUIT.JPG",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior/article71437319.ece"
+    },
+    {
+      "id": "tech-flipkart-teases-realme-and-harry-potter-collabor-2151058b81",
+      "title": "Flipkart Teases Realme and Harry Potter Collaboration as Themed Realme 16 Pro With New Design Leaks",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/realme-16-pro-harry-potter-edition-flipkart-teased-design-leaked-12011787",
+      "tag": "Technology",
+      "publishedAt": "2026-09-07T06:18:09.000Z",
+      "summary": "Online retailer Flipkart has teased a new Realme smartphone on its portal, hinting at a Harry Potter-themed device. The banner ad clearly shows Realme’s collaboration with the H...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-women-s-wellness-brand-nua-raises-50m-in-series--2ee279a858",
+      "title": "Women’s wellness brand Nua raises $50M in Series C round led by Peak XV, Filter Capital",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/womens-wellness-brand-nua-raises-series-c-round-peak-xv-filter-capital",
+      "tag": "Technology",
+      "publishedAt": "2026-09-07T05:48:44.000Z",
+      "summary": "Nua will use the funding towards its next phase of growth as it aims to reach Rs 500 crore in annualised revenue in the next two years from Rs 100 crore now.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-is-it-safe-to-buy-a-refurbished-iphone-from-walm-818038f20b",
       "title": "Is it safe to buy a refurbished iPhone from Walmart?",
@@ -14,26 +47,6 @@
       "image": "https://www.engadget.com/img/gallery/is-it-safe-to-buy-a-refurbished-iphone-from-walmart/l-intro-1788289842.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.engadget.com/2248893/is-it-safe-buy-refurbished-iphone-walmart"
-    },
-    {
-      "id": "tech-seattle-times-and-newsday-sue-openai-and-microso-9b670b319d",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "tag": "Technology",
-      "publishedAt": "2026-09-06T23:36:04.000Z",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-phil-schiller-s-app-store-exit-reportedly-driven-9eef68119a",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans",
-      "tag": "Technology",
-      "publishedAt": "2026-09-06T21:41:06.000Z",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-german-company-becomes-first-in-europe-to-launch-f7f341f9b5",
@@ -63,36 +76,23 @@
       "imageSourceUrl": "https://www.wired.com/story/best-laptop-backpacks"
     },
     {
-      "id": "tech-google-tcs-and-the-physics-of-air-cooling-a-larg-8736cdc6ae",
-      "title": "Google, TCS, and the physics of air-cooling a large data centre | Explained",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece",
+      "id": "tech-seattle-times-and-newsday-sue-openai-and-microso-9b670b319d",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T06:42:24.000Z",
-      "summary": "Using air-cooling alone to cool a 1-GW data centre is considered impractical; while liquid-cooling imposes higher costs upfront, air-cooling imposes a performance and efficiency...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/todays-paper/tp-international/miwpvu/article71409353.ece/alternates/LANDSCAPE_1200/Data-center-bacGQJGFD9O9.3.jpg.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece"
-    },
-    {
-      "id": "tech-best-gaming-laptops-under-rs-1-5-lakh-in-india-f844abbd30",
-      "title": "Best Gaming Laptops Under Rs. 1.5 Lakh in India",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/laptops/features/best-gaming-laptops-under-rs-1-5-lakh-india-price-specifications-features-11982811",
-      "tag": "Technology",
-      "publishedAt": "2026-09-06T12:30:36.000Z",
-      "summary": "Here are some of the best gaming laptops for buyers with a Rs. 1,50,000 budget. Our picks include the Asus TUF Gaming F16, Dell Alienware 16 Aurora and HP Victus 15.6, among oth...",
+      "publishedAt": "2026-09-06T23:36:04.000Z",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nclt-stays-disposal-of-byju-s-k3-linked-assets-a-19f84d3665",
-      "title": "NCLT stays disposal of Byju's K3-linked assets auctioned for Rs 16 Cr",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/nclt-stays-disposal-of-byjus-k3-linked-assets-auctioned-for-rs-16-cr-flags-valuation-concern",
+      "id": "tech-phil-schiller-s-app-store-exit-reportedly-driven-9eef68119a",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T05:41:18.000Z",
-      "summary": "The Bengaluru-based bench of the NCLT has put a hold on any further disposal of Byju's K3 Education's assets till the next hearing on September 21 amid allegations that assets w...",
+      "publishedAt": "2026-09-06T21:41:06.000Z",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -109,43 +109,40 @@
       "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-when-are-portable-apple-carplay-screens-actually-86dbe014e0",
-      "title": "When are portable Apple CarPlay screens actually worth it?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2248887/when-portable-apple-carplay-screen-worth-it",
+      "id": "tech-google-tcs-and-the-physics-of-air-cooling-a-larg-f67ea67ebf",
+      "title": "Google, TCS, and the physics of air-cooling a large data centre | Explained",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "summary": "Many recent vehicles had CarPlay and Android Auto built in, but if yours doesn't, you can add a portable one to your dash.",
+      "publishedAt": "2026-09-07T05:01:48.000Z",
+      "summary": "Using air-cooling alone to cool a 1-GW data centre is considered impractical; while liquid-cooling imposes higher costs upfront, air-cooling imposes a performance and efficiency...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/when-are-portable-apple-carplay-screens-actually-worth-it/l-intro-1788289334.jpg",
+      "image": "https://th-i.thgim.com/public/todays-paper/tp-international/miwpvu/article71409353.ece/alternates/LANDSCAPE_1200/Data-center-bacGQJGFD9O9.3.jpg.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2248887/when-portable-apple-carplay-screen-worth-it"
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/science/google-tcs-and-the-physics-of-air-cooling-a-large-data-centre-explained/article71434727.ece"
     },
     {
-      "id": "tech-the-pros-and-cons-of-using-wireless-android-auto-d03987ddbf",
-      "title": "The pros and cons of using wireless Android Auto",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto",
+      "id": "tech-can-dogs-sniff-cancer-ai-joins-the-hunt-in-india-61775644bc",
+      "title": "Can dogs sniff cancer? AI joins the hunt in India",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/can-dogs-sniff-cancer-ai-joins-the-hunt-in-india/article71437315.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T23:30:00.000Z",
-      "summary": "Wireless Android Auto delivers on the promise of making your life easier most of the time, but ditching the cable can come with a number of tradeoffs.",
+      "publishedAt": "2026-09-07T04:42:22.000Z",
+      "summary": "A growing body of global research suggests dogs can be trained to detect cancer and other human illnesses, from Parkinson's to Covid-19",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-wireless-android-auto/l-intro-1788284154.jpg",
+      "image": "https://th-i.thgim.com/public/sci-tech/technology/cxjb8f/article71437328.ece/alternates/LANDSCAPE_1200/AFP__20260907__C3N66UZ__v1__HighRes__IndiaHealthAnimalAi.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto"
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/can-dogs-sniff-cancer-ai-joins-the-hunt-in-india/article71437315.ece"
     },
     {
-      "id": "tech-10-smart-gadgets-that-could-instantly-upgrade-yo-8d7baaaeee",
-      "title": "10 Smart Gadgets That Could Instantly Upgrade Your Backyard",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard",
+      "id": "tech-the-legend-of-zelda-40th-anniversary-direct-and--aae49297f8",
+      "title": "The Legend of Zelda 40th Anniversary Direct and Nintendo Direct Announced for This Week",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/games/news/the-legend-of-zelda-40th-anniversary-nintendo-direct-showcase-september-8-9-12011809",
       "tag": "Technology",
-      "publishedAt": "2026-09-06T23:15:00.000Z",
-      "summary": "Smart outdoor tech is changing how people use their backyards, and this handful of clever upgrades can make your space more useful and enjoyable.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/10-smart-gadgets-that-could-instantly-upgrade-your-backyard/l-intro-1787156050.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard"
+      "publishedAt": "2026-09-07T05:48:16.000Z",
+      "summary": "Nintendo has announced two Direct showcases for thsi week, including The Legend of Zelda 40th Anniversary Direct, which will bring a new look at The Legend of Zelda: Ocarina of...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }
