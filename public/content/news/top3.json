@@ -1,47 +1,46 @@
 {
-  "updatedAt": "2026-09-07T05:30:17.956Z",
+  "updatedAt": "2026-09-07T11:10:16.996Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-the-bhotekoshi-flood-a-himalayan-tragedy-ae99420011",
-      "title": "The Bhotekoshi flood | A Himalayan tragedy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-07T05:27:42.000Z",
-      "summary": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this even...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece"
-    },
-    {
-      "id": "news-germany-s-far-right-tops-key-state-race-but-fall-fba3f824ee",
-      "title": "Germany’s Far Right Tops Key State Race, but Falls Short of Power",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "id": "news-jaguar-land-rover-to-cut-4-000-jobs-over-next-tw-c756bf3ffa",
+      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
       "tag": "US",
-      "publishedAt": "2026-09-07T05:23:38.000Z",
-      "summary": "The Alternative for Germany party is projected to finish first in the eastern state of Saxony-Anhalt. But lacking a majority, without the help of other parties it cannot become...",
+      "publishedAt": "2026-09-07T11:07:12.000Z",
+      "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06germany-update-lpct/06germany-update-lpct-mediumSquareAt3X.jpg",
-      "imageCredit": "Matthias Schrader/Associated Press",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/live/2026/09/06/world/germany-election"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-australia-politics-live-coalition-targets-labor--624df79bfb",
-      "title": "Australia politics live: Coalition targets Labor over ‘plummeting’ Sydney house prices; PM speaks of ‘horror’ of Nepal floods",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-      "tag": "Europe",
-      "publishedAt": "2026-09-07T05:14:02.000Z",
-      "summary": "Follow the day’s news live Sign up for Guardian Australia’s Politics, really newsletter here One Nation has come up with a plan to give people their superannuation earlier, redu...",
+      "id": "news-du-south-campus-remains-deserted-as-colleges-sta-f08580089d",
+      "title": "DU South Campus remains deserted as colleges stay shut after PG collapse",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/du-south-campus-remains-deserted-as-colleges-stay-shut-after-pg-collapse/article71438299.ece",
+      "tag": "India",
+      "publishedAt": "2026-09-07T11:04:18.000Z",
+      "summary": "According to DU officials, at least one of the deceased was a university student, while three students from Motilal Nehru College have been reported missing",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/cb3b9cface8fc80f5b026acce57357fa8855a148/1632_23_6370_5096/master/6370.jpg?width=460&quality=85&auto=format&fit=max&s=44a5b9bb44a26b985103e5a70cf57b2c",
-      "imageCredit": "Photograph: Lukas Coch/AAP",
+      "image": "https://th-i.thgim.com/public/incoming/l3qyxr/article71438322.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2010.57.05.jpeg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb"
+      "imageSourceUrl": "https://www.thehindu.com/news/cities/Delhi/du-south-campus-remains-deserted-as-colleges-stay-shut-after-pg-collapse/article71438299.ece"
+    },
+    {
+      "id": "news-far-right-afd-celebrate-dream-result-in-key-germ-011483815a",
+      "title": "Far-right AfD celebrate ‘dream result’ in key German state as Merz reportedly holds crisis talks – Europe live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
+      "tag": "Europe",
+      "publishedAt": "2026-09-07T10:58:07.000Z",
+      "summary": "Group fail to secure majority in Saxony-Anhalt state parliament leaving uncertainty over next steps Far-right AfD wins key German state election but falls just short of majority...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://i.guim.co.uk/img/media/8903ed3388f833837c41c4cb83402b32d61766e9/476_0_4585_3668/master/4585.jpg?width=460&quality=85&auto=format&fit=max&s=f30a794d8d62a33b3527fb069cfba8e9",
+      "imageCredit": "Photograph: Liesa Johannssen/Reuters",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates"
     }
   ]
 }
