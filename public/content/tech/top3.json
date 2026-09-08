@@ -1,41 +1,44 @@
 {
-  "updatedAt": "2026-09-08T12:23:27.041Z",
+  "updatedAt": "2026-09-08T16:54:44.711Z",
   "items": [
     {
-      "id": "tech-meta-failed-to-catch-hundreds-of-ai-child-abuse--dffc843dfc",
-      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "id": "tech-new-law-to-force-tech-firms-to-prevent-children--1913e35c69",
+      "title": "New law to force tech firms to prevent children from taking nude images",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-08T16:48:29.000Z",
+      "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-openai-just-claimed-a-huge-math-discovery-some-a-684ae2e211",
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
       "source": "Wired",
-      "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics",
       "tag": "Technology",
-      "publishedAt": "2026-09-08T12:00:00.000Z",
-      "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate.",
+      "publishedAt": "2026-09-08T16:42:05.000Z",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg",
+      "image": "https://media.wired.com/photos/6aa02435e4af4176b7305e6a/master/pass/OpenAI-Antrophic-MathProblem.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids"
+      "imageSourceUrl": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics"
     },
     {
-      "id": "tech-what-is-the-anker-smart-display-charger-and-what-08f2a0ba67",
-      "title": "What is the Anker 'smart display charger' and what does that screen even do?",
+      "id": "tech-what-is-the-purpose-of-lidar-on-your-iphone-and--494c312339",
+      "title": "What is the purpose of LiDAR on your iPhone and how do you use it?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2250106/anker-smart-display-charger-what-does-screen-do",
+      "url": "https://www.engadget.com/2250700/iphone-lidar-sensor-purpose-how-to-use",
       "tag": "Technology",
-      "publishedAt": "2026-09-08T12:00:00.000Z",
-      "summary": "Anker's new smart display plug-in wall chargers might be small, but they actually do a lot more than just tell you how fast they're charging your devices.",
+      "publishedAt": "2026-09-08T16:30:00.000Z",
+      "summary": "Some iPhone models are equipped with a LiDAR sensor, which helps the camera better interpret information about what's around you.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-anker-smart-display-charger-and-what-does-that-screen-even-do/l-intro-1788366818.jpg",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-purpose-of-lidar-on-your-iphone-and-how-do-you-use-it/l-intro-1788466085.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2250106/anker-smart-display-charger-what-does-screen-do"
-    },
-    {
-      "id": "tech-apple-says-fold-and-competitors-ask-how-wide-f9990a15be",
-      "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
-      "tag": "Technology",
-      "publishedAt": "2026-09-08T12:00:00.000Z",
-      "summary": "Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late t...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "imageSourceUrl": "https://www.engadget.com/2250700/iphone-lidar-sensor-purpose-how-to-use"
     }
   ]
 }
