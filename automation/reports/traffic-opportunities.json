@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-07T08:08:51.999Z",
-  "sourceSnapshot": "2026-09-07T06:00:00.000Z",
+  "updatedAt": "2026-09-08T07:58:09.871Z",
+  "sourceSnapshot": "2026-09-08T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -8,40 +8,14 @@
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 15,
+    "pageCount": 14,
     "sitemapPathCount": 25,
     "opportunityCount": 10,
     "searchOpportunityCount": 3,
-    "engagementOpportunityCount": 1,
-    "indexWatchCount": 6
+    "engagementOpportunityCount": 0,
+    "indexWatchCount": 7
   },
   "opportunities": [
-    {
-      "id": "traffic-engagement_expand-news",
-      "path": "/news",
-      "signal": "engagement_expand",
-      "score": 107,
-      "risk": "medium",
-      "title": "Expand high-engagement path /news",
-      "hypothesis": "/news shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "recommendation": "Promote the page from adjacent sections and add one related follow-up surface.",
-      "metrics": {
-        "pageviews": 10,
-        "visits": 3,
-        "searchImpressions": 2,
-        "searchCtr": 0,
-        "avgPosition": 6,
-        "watchClicks": 0,
-        "engagementScore": 100
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
     {
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
@@ -76,6 +50,32 @@
       "risk": "low",
       "title": "Watch index coverage for /events/aurora-watch",
       "hypothesis": "/events/aurora-watch is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-events-nasa-live-programming",
+      "path": "/events/nasa-live-programming",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /events/nasa-live-programming",
+      "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
@@ -261,8 +261,8 @@
       "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
       "recommendation": "Add clearer on-page context and link to it from the most relevant section page.",
       "metrics": {
-        "pageviews": 4,
-        "visits": 4,
+        "pageviews": 2,
+        "visits": 2,
         "searchImpressions": 5,
         "searchCtr": 0,
         "avgPosition": 14,

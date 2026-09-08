@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-07T08:08:53.469Z",
-  "snapshotFile": "merged-2026-09-07.json",
-  "capturedAt": "2026-09-07T06:00:00.000Z",
+  "updatedAt": "2026-09-08T07:58:10.928Z",
+  "snapshotFile": "merged-2026-09-08.json",
+  "capturedAt": "2026-09-08T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -10,51 +10,11 @@
   },
   "topPages": [
     {
-      "path": "/news",
-      "pageviews": 10,
-      "searchImpressions": 2,
-      "engagementScore": 100,
-      "returnVisitors": 5,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/tech",
-      "pageviews": 9,
-      "searchImpressions": 5,
-      "engagementScore": 58,
-      "returnVisitors": 5,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
       "path": "/",
-      "pageviews": 4,
+      "pageviews": 2,
       "searchImpressions": 5,
       "engagementScore": 37,
-      "returnVisitors": 2,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live",
-      "pageviews": 4,
-      "searchImpressions": 0,
-      "engagementScore": 78,
-      "returnVisitors": 2,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/sports",
-      "pageviews": 4,
-      "searchImpressions": 1,
-      "engagementScore": 73,
-      "returnVisitors": 2,
+      "returnVisitors": 1,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -80,9 +40,19 @@
       "galleryOpens": 0
     },
     {
-      "path": "/events/nasa-live-programming",
+      "path": "/live",
       "pageviews": 2,
       "searchImpressions": 0,
+      "engagementScore": 82,
+      "returnVisitors": 1,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/news",
+      "pageviews": 2,
+      "searchImpressions": 2,
       "engagementScore": 72,
       "returnVisitors": 1,
       "videoStarts": 0,
@@ -90,10 +60,20 @@
       "galleryOpens": 0
     },
     {
-      "path": "/gallery",
+      "path": "/sports",
       "pageviews": 2,
-      "searchImpressions": 9,
-      "engagementScore": 83,
+      "searchImpressions": 1,
+      "engagementScore": 71,
+      "returnVisitors": 1,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/tech",
+      "pageviews": 2,
+      "searchImpressions": 5,
+      "engagementScore": 36,
       "returnVisitors": 1,
       "videoStarts": 0,
       "gameStarts": 0,
@@ -103,6 +83,26 @@
       "path": "/advertise",
       "pageviews": 0,
       "searchImpressions": 3,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/contact",
+      "pageviews": 0,
+      "searchImpressions": 3,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/events/nasa-s-spacex-crs-35",
+      "pageviews": 0,
+      "searchImpressions": 13,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,

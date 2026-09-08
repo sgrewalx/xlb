@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-07T08:08:54.141Z",
+  "updatedAt": "2026-09-08T07:58:11.282Z",
   "items": [
-    {
-      "id": "traffic-engagement_expand-news",
-      "signal": "engagement_expand",
-      "title": "Expand high-engagement path /news",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "medium",
-      "status": "queued",
-      "hypothesis": "/news shows comparatively strong engagement and should receive more supporting links or adjacent content.",
-      "targetPaths": [
-        "/news"
-      ],
-      "successMetric": "Pageviews and return visits rise without reducing engagement score.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Promote the page from adjacent sections and add one related follow-up surface. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
     {
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "signal": "search_ctr_lift",
@@ -41,6 +26,21 @@
       "hypothesis": "/events/aurora-watch is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/events/aurora-watch"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-events-nasa-live-programming",
+      "signal": "index_watch",
+      "title": "Watch index coverage for /events/nasa-live-programming",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/events/nasa-live-programming is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/events/nasa-live-programming"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:08:53.469Z",
+  "updatedAt": "2026-09-08T07:58:10.928Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -21,7 +21,7 @@
         },
         {
           "label": "Top pulse",
-          "value": "10"
+          "value": "2"
         }
       ],
       "items": [
@@ -31,7 +31,15 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Sep 7, 07:43 AM"
+          "meta": "USGS Earthquake Hazards Program · Sep 8, 07:49 AM"
+        },
+        {
+          "id": "space-aurora-watch",
+          "title": "Aurora watch",
+          "href": "/events/aurora-watch",
+          "label": "Monitoring",
+          "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
+          "meta": "NOAA Space Weather Prediction Center · Sep 8, 07:51 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -40,14 +48,6 @@
           "label": "Watch",
           "summary": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
           "meta": "NASA · Mar 27, 12:00 AM"
-        },
-        {
-          "id": "space-aurora-watch",
-          "title": "Aurora watch",
-          "href": "/events/aurora-watch",
-          "label": "Monitoring",
-          "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Sep 7, 08:06 AM"
         }
       ],
       "relatedLinks": [
@@ -83,7 +83,7 @@
         },
         {
           "label": "Return loop",
-          "value": "2"
+          "value": "1"
         }
       ],
       "emptyState": {
@@ -130,28 +130,28 @@
       ],
       "items": [
         {
+          "id": "why-/live",
+          "title": "Live",
+          "href": "/live",
+          "label": "2 views",
+          "summary": "Live pages work because the information can change between visits and there is a clear reason to come back.",
+          "meta": "0 search impressions · engagement 82"
+        },
+        {
           "id": "why-/news",
           "title": "News",
           "href": "/news",
-          "label": "10 views",
-          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "2 search impressions · engagement 100"
-        },
-        {
-          "id": "why-/gallery",
-          "title": "Gallery",
-          "href": "/gallery",
           "label": "2 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "9 search impressions · engagement 83"
+          "meta": "2 search impressions · engagement 72"
         },
         {
-          "id": "why-/tech",
-          "title": "Tech",
-          "href": "/tech",
-          "label": "9 views",
-          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "5 search impressions · engagement 58"
+          "id": "why-/events/global-earthquake-watch",
+          "title": "Global earthquake watch",
+          "href": "/events/global-earthquake-watch",
+          "label": "2 views",
+          "summary": "Earthquake monitoring gives the site a continuously updating public-information surface.",
+          "meta": "0 search impressions · engagement 72"
         }
       ],
       "relatedLinks": [
