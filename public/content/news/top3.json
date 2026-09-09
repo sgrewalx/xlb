@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-09-08T22:12:55.004Z",
+  "updatedAt": "2026-09-09T00:54:56.398Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-australia-politics-live-victorian-energy-bills-m-36d44a20ac",
-      "title": "Australia politics live: Victorian energy bills may rise by $100 a year under Coalition; Chalmers says One Nation would ‘destroy’ super",
+      "id": "news-u-s-hits-5-iranian-oil-tankers-citing-attempted--863fe9951b",
+      "title": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
+      "tag": "US",
+      "publishedAt": "2026-09-09T00:50:19.000Z",
+      "summary": "Iran retaliated by launching missiles at Jordan, raising the specter of still more fighting.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08iran-1-lptm/08iran-1-lptm-mediumSquareAt3X.jpg",
+      "imageAlt": "A satellite image released by the European Space Agency showing Kharg Island, a key oil export terminal for Iran.",
+      "imageCredit": "European Space Agency",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html"
+    },
+    {
+      "id": "news-putin-meeting-pm-modi-on-friday-energy-defence-h-18ef249364",
+      "title": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms",
+      "tag": "India",
+      "publishedAt": "2026-09-09T00:45:53.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://static.toiimg.com/photo/msid-133947542,imgsize-613148.cms",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms"
+    },
+    {
+      "id": "news-australia-politics-live-mckenzie-very-surprised--356650bb9b",
+      "title": "Australia politics live: McKenzie ‘very surprised’ by PM’s honorary membership at golf course given $6m grant",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-09-08T21:57:20.000Z",
+      "publishedAt": "2026-09-09T00:44:35.000Z",
       "summary": "Follow the day’s news live Albanese dismisses concerns over powers in digital duty of care bill Anthony Albanese says the Nationals leader, Matt Canavan, is being “disingenuous”...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/fb41be9bf72e66f7168f2879fc4905c2f87872b4/0_301_4304_3443/master/4304.jpg?width=460&quality=85&auto=format&fit=max&s=2c9b1ac7d49cf3830e733dee38d5977e",
-      "imageCredit": "Photograph: Asanka Ratnayake/Getty Images",
+      "image": "https://i.guim.co.uk/img/media/1714adfb52a70e35c1df6ed08367ec84abd9ec31/1929_983_2561_2049/master/2561.jpg?width=460&quality=85&auto=format&fit=max&s=e53cb6ca910c37f06704b2c0b871eff1",
+      "imageCredit": "Photograph: Mick Tsikas/AAP",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb"
-    },
-    {
-      "id": "news-israeli-allies-ban-trade-with-settlements-as-u-k-f4e01f7513",
-      "title": "Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-      "tag": "US",
-      "publishedAt": "2026-09-08T21:49:47.000Z",
-      "summary": "Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palest...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-UK-ISRAEL-SETTLEMENTS-hqtv/08int-UK-ISRAEL-SETTLEMENTS-hqtv-mediumSquareAt3X.jpg",
-      "imageAlt": "Palestinian villagers harvesting olives in the village of Turmus Aya, with Israeli settlements in the background, northeast of Ramallah in the occupied West Bank in 2025.",
-      "imageCredit": "Daniel Berehulak/The New York Times",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
-    },
-    {
-      "id": "news-odisha-s-rural-work-does-not-have-adequate-photo-5454dbcbbb",
-      "title": "Odisha’s rural work does not have adequate photographic evidence, says a draft audit report",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-08T21:46:55.000Z",
-      "summary": "Audit analysed 25,038 works executed during 2019- 2026 and of these, 13,083 works (52.25%) had no photograph, finds the report",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/7aia9p/article71444651.ece/alternates/LANDSCAPE_1200/90092_14_1_2026_12_9_15_2_SUKAPAIKA_RIVER_REJUVENATION_3.JPG",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/odisha/odishas-rural-work-does-not-have-adequate-photographic-evidence-says-a-draft-audit-report/article71443035.ece"
     }
   ]
 }
