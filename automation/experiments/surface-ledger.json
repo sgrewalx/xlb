@@ -1,11 +1,11 @@
 {
   "ledgerType": "heuristic-surface-state",
-  "updatedAt": "2026-09-08T07:58:10.928Z",
+  "updatedAt": "2026-09-09T08:01:25.081Z",
   "items": [
     {
       "surface": "home",
-      "moduleVersion": "2026-09-08T07:58:10.928Z",
-      "startDate": "2026-09-08",
+      "moduleVersion": "2026-09-09T08:01:25.081Z",
+      "startDate": "2026-09-09",
       "targetMetric": "entry pageviews",
       "observedValue": 2,
       "heuristicDecision": "retain-current-priority",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "live",
-      "moduleVersion": "2026-09-08T07:58:10.483Z",
-      "startDate": "2026-09-08",
+      "moduleVersion": "2026-09-09T08:01:24.724Z",
+      "startDate": "2026-09-09",
       "targetMetric": "live pageviews",
       "observedValue": 2,
       "heuristicDecision": "retain-current-priority",
@@ -22,17 +22,17 @@
     },
     {
       "surface": "video",
-      "moduleVersion": "2026-09-08T07:58:10.928Z",
-      "startDate": "2026-09-08",
+      "moduleVersion": "2026-09-09T08:01:25.081Z",
+      "startDate": "2026-09-09",
       "targetMetric": "video starts",
-      "observedValue": 1592,
+      "observedValue": 5399,
       "heuristicDecision": "retain-current-priority",
       "decisionBasis": "Current absolute signal only; no baseline/treatment comparison is available."
     },
     {
       "surface": "games",
-      "moduleVersion": "2026-09-08T07:58:10.928Z",
-      "startDate": "2026-09-08",
+      "moduleVersion": "2026-09-09T08:01:25.081Z",
+      "startDate": "2026-09-09",
       "targetMetric": "game starts",
       "observedValue": 0,
       "heuristicDecision": "needs-more-evidence",
@@ -40,8 +40,8 @@
     },
     {
       "surface": "gallery",
-      "moduleVersion": "2026-09-08T07:58:10.928Z",
-      "startDate": "2026-09-08",
+      "moduleVersion": "2026-09-09T08:01:25.081Z",
+      "startDate": "2026-09-09",
       "targetMetric": "gallery opens",
       "observedValue": 0,
       "heuristicDecision": "needs-more-evidence",
