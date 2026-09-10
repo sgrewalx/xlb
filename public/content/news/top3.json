@@ -1,46 +1,48 @@
 {
-  "updatedAt": "2026-09-10T07:41:38.862Z",
+  "updatedAt": "2026-09-10T12:32:50.307Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-nia-looking-into-whether-ukrainians-u-s-national-0db4b13100",
-      "title": "NIA looking into whether Ukrainians, U.S. national were involved in UAPA offences: sources",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/nia-looking-into-whether-ukrainians-us-national-were-involved-in-uapa-offences-sources/article71447911.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-10T07:38:26.000Z",
-      "summary": "In the charge sheet filed against the accused on Tuesday, NIA had not invoked Unlawful Activities (Prevention) Act (UAPA); however, sources say probe is on to determine whether...",
+      "id": "news-russian-drone-incursion-delayed-zelensky-flight--15cca68ca2",
+      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+      "tag": "US",
+      "publishedAt": "2026-09-10T12:26:48.000Z",
+      "summary": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “alm...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/todays-paper/tp-national/vziz3n/article71444910.ece/alternates/LANDSCAPE_1200/TH08-Ishita-NIAGLFGGMC33.3.jpg.jpg",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10xp-drones-Zelensky-gbzw/10xp-drones-Zelensky-gbzw-mediumSquareAt3X.jpg",
+      "imageAlt": "President Volodymyr Zelensky of Ukraine, second from left, at the funeral of King Harald V of Norway in Oslo on Wednesday. His plane’s departure from Moldova on Tuesday was delayed by a Russian drone near Chisinau, officials said.",
+      "imageCredit": "Odd Andersen/Agence France-Presse — Getty Images",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/nia-looking-into-whether-ukrainians-us-national-were-involved-in-uapa-offences-sources/article71447911.ece"
+      "imageSourceUrl": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html"
     },
     {
-      "id": "news-australia-politics-live-rsl-says-one-nation-s-ha-8aa4caf209",
-      "title": "Australia politics live: RSL says One Nation’s Hastie ‘slur’ was an ‘attack on every veteran’s service’; Victoria’s historic work from home laws stall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+      "id": "news-twenty-five-dead-after-fire-on-cargo-ship-in-eas-f86941c39d",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
       "tag": "Europe",
-      "publishedAt": "2026-09-10T07:19:09.000Z",
-      "summary": "Follow the day’s news live Labor introducing new laws to crack down on illegal tobacco Labor will introduce new laws to make it easier to prosecute criminals involved in the ill...",
+      "publishedAt": "2026-09-10T12:24:54.000Z",
+      "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/1e2c96c53b83da24d8e9c5dfb5d68c8b66e52e0b/101_145_2735_2188/master/2735.jpg?width=460&quality=85&auto=format&fit=max&s=9cc9e8d62862c1c5be25d5d98c12ffd6",
-      "imageCredit": "Photograph: Hilary Wardhaugh/Getty Images",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c8/live/9d308770-acfe-11f1-beae-535b95a24b3e.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-they-would-kick-us-stalin-takes-on-vijay-over-ja-60a1196675",
-      "title": "'They would kick us': Stalin takes on Vijay over 'jaw gesture', recalls Emergency-era prison days",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/they-would-kick-us-stalin-takes-on-vijay-over-jaw-gesture-recalls-emergency-era-prison-days/articleshow/133998144.cms",
-      "tag": "India",
-      "publishedAt": "2026-09-10T07:17:10.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "id": "news-openai-not-on-track-to-reduce-risk-of-catastroph-0a25c28159",
+      "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+      "tag": "Running",
+      "publishedAt": "2026-09-10T12:23:21.000Z",
+      "summary": "US government adviser Paul Christiano warns of risks to AI industry as he joins OpenAI’s non-profit foundation OpenAI is not on track to reduce risks of “catastrophic” loss of c...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-133998176,imgsize-59870.cms",
+      "image": "https://i.guim.co.uk/img/media/de993976d5cf433c665692fb79570e93c6c73828/875_399_5472_4378/master/5472.jpg?width=460&quality=85&auto=format&fit=max&s=073520c1552c903e134315d8da164b1e",
+      "imageCredit": "Photograph: Dado Ruvić/Reuters",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/they-would-kick-us-stalin-takes-on-vijay-over-jaw-gesture-recalls-emergency-era-prison-days/articleshow/133998144.cms"
+      "imageSourceUrl": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano"
     }
   ]
 }
