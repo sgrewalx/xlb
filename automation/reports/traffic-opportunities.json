@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T08:01:23.410Z",
-  "sourceSnapshot": "2026-09-09T06:00:00.000Z",
+  "updatedAt": "2026-09-10T08:01:02.267Z",
+  "sourceSnapshot": "2026-09-10T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -10,8 +10,8 @@
   "summary": {
     "pageCount": 14,
     "sitemapPathCount": 25,
-    "opportunityCount": 10,
-    "searchOpportunityCount": 3,
+    "opportunityCount": 11,
+    "searchOpportunityCount": 4,
     "engagementOpportunityCount": 0,
     "indexWatchCount": 7
   },
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_ctr_lift",
-      "score": 39,
+      "score": 33,
       "risk": "medium",
       "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,9 +29,35 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 13,
+        "searchImpressions": 11,
         "searchCtr": 0,
-        "avgPosition": 9.307692307692308,
+        "avgPosition": 9.181818181818182,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-search_ctr_lift-gallery",
+      "path": "/gallery",
+      "signal": "search_ctr_lift",
+      "score": 33,
+      "risk": "medium",
+      "title": "Improve search snippet for /gallery",
+      "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
+      "successMetric": "Search CTR improves over the next 28-day Search Console window.",
+      "recommendation": "Review title, meta description, first-screen copy, and internal anchor text.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 11,
+        "searchCtr": 0,
+        "avgPosition": 6.090909090909091,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -237,9 +263,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 13,
+        "searchImpressions": 11,
         "searchCtr": 0,
-        "avgPosition": 9.307692307692308,
+        "avgPosition": 9.181818181818182,
         "watchClicks": 0,
         "engagementScore": 0
       },

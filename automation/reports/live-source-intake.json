@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:01:24.724Z",
+  "generatedAt": "2026-09-10T08:01:02.845Z",
   "staticItemCount": 1,
   "sources": [
     {
@@ -26,11 +26,11 @@
       "id": "noaa-space-weather",
       "status": "healthy",
       "fallbackUsed": false,
-      "fetchedSeedCount": 359,
+      "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
       "latestKp": 2,
-      "recentPeakKp": 2,
+      "recentPeakKp": 3,
       "alertLevel": "quiet"
     }
   ]

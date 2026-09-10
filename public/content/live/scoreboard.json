@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T08:01:24.966Z",
-  "sourceSnapshot": "2026-09-09T06:00:00.000Z",
+  "updatedAt": "2026-09-10T08:01:03.142Z",
+  "sourceSnapshot": "2026-09-10T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -90,11 +90,11 @@
       "scoringMode": "cold-start",
       "coldStartScore": 83,
       "heuristicScore": 41,
-      "observedScore": 1,
+      "observedScore": 0,
       "pageviews": 0,
       "watchClicks": 0,
       "engagementScore": 0,
-      "searchImpressions": 13,
+      "searchImpressions": 11,
       "searchCtr": 0,
       "categoryPageviews": 0,
       "sourceStability": "stable",
