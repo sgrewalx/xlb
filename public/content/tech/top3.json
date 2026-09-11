@@ -1,41 +1,45 @@
 {
-  "updatedAt": "2026-09-11T10:13:10.622Z",
+  "updatedAt": "2026-09-11T14:42:08.229Z",
   "items": [
     {
-      "id": "tech-how-9-11-made-everyone-a-conspiracy-theorist-25f3116452",
-      "title": "How 9/11 Made Everyone a Conspiracy Theorist",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain",
+      "id": "tech-claude-users-found-ways-around-safeguards-for-bi-82d2456958",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
       "tag": "Technology",
-      "publishedAt": "2026-09-11T10:00:00.000Z",
-      "summary": "Crackpot theories were once the stuff of shortwave radio, but September 11 unleashed the Age of Alex Jones.",
+      "publishedAt": "2026-09-11T13:02:35.000Z",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6aa3274315a68f9c2571c796/master/pass/TheBigStory_Garrett%20Graff%209-11%20Truth%20Anniversary%20Essay_v2.2.jpg",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "imageCredit": "Getty Images | picture alliance",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain"
+      "imageSourceUrl": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research"
     },
     {
-      "id": "tech-anthropic-blocks-possible-attempt-to-use-ai-to-m-837209c7a8",
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "id": "tech-bose-quietcomfort-headphones-2nd-gen-review-upgr-8c3185bbab",
+      "title": "Bose QuietComfort Headphones (2nd gen) review: Upgraded in all the right places",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2253293/bose-quietcomfort-headphones-2nd-gen-review",
+      "tag": "Technology",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "summary": "Ultra-level features and a few design tweaks highlight the updates on the second-gen QuietComfort Headphones.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/bose-quietcomfort-headphones-2nd-gen-review-upgraded-in-all-the-right-places/l-intro-1788899173.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2253293/bose-quietcomfort-headphones-2nd-gen-review"
+    },
+    {
+      "id": "tech-does-this-ai-comic-make-you-laugh-bd7848cc49",
+      "title": "Does this AI comic make you laugh?",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-11T08:15:25.000Z",
-      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "publishedAt": "2026-09-11T12:49:30.000Z",
+      "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a77/live/af54b2d0-addc-11f1-b1d1-571ed4d7ff2c.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "tech-apple-addresses-iphone-duo-copycats-79d40727bc",
-      "title": "Apple addresses iPhone Duo copycats",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T10:02:58.000Z",
-      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "imageSourceUrl": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
