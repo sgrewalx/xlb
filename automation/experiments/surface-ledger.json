@@ -1,38 +1,38 @@
 {
   "ledgerType": "heuristic-surface-state",
-  "updatedAt": "2026-09-10T08:01:03.287Z",
+  "updatedAt": "2026-09-11T07:57:11.947Z",
   "items": [
     {
       "surface": "home",
-      "moduleVersion": "2026-09-10T08:01:03.287Z",
-      "startDate": "2026-09-10",
+      "moduleVersion": "2026-09-11T07:57:11.947Z",
+      "startDate": "2026-09-11",
       "targetMetric": "entry pageviews",
-      "observedValue": 2,
+      "observedValue": 1,
       "heuristicDecision": "retain-current-priority",
       "decisionBasis": "Current absolute signal only; no baseline/treatment comparison is available."
     },
     {
       "surface": "live",
-      "moduleVersion": "2026-09-10T08:01:02.845Z",
-      "startDate": "2026-09-10",
+      "moduleVersion": "2026-09-11T07:57:11.616Z",
+      "startDate": "2026-09-11",
       "targetMetric": "live pageviews",
-      "observedValue": 2,
-      "heuristicDecision": "retain-current-priority",
+      "observedValue": 0,
+      "heuristicDecision": "needs-more-evidence",
       "decisionBasis": "Current absolute signal only; no baseline/treatment comparison is available."
     },
     {
       "surface": "video",
-      "moduleVersion": "2026-09-10T08:01:03.287Z",
-      "startDate": "2026-09-10",
+      "moduleVersion": "2026-09-11T07:57:11.947Z",
+      "startDate": "2026-09-11",
       "targetMetric": "video starts",
-      "observedValue": 5489,
+      "observedValue": 1715,
       "heuristicDecision": "retain-current-priority",
       "decisionBasis": "Current absolute signal only; no baseline/treatment comparison is available."
     },
     {
       "surface": "games",
-      "moduleVersion": "2026-09-10T08:01:03.287Z",
-      "startDate": "2026-09-10",
+      "moduleVersion": "2026-09-11T07:57:11.947Z",
+      "startDate": "2026-09-11",
       "targetMetric": "game starts",
       "observedValue": 0,
       "heuristicDecision": "needs-more-evidence",
@@ -40,8 +40,8 @@
     },
     {
       "surface": "gallery",
-      "moduleVersion": "2026-09-10T08:01:03.287Z",
-      "startDate": "2026-09-10",
+      "moduleVersion": "2026-09-11T07:57:11.947Z",
+      "startDate": "2026-09-11",
       "targetMetric": "gallery opens",
       "observedValue": 0,
       "heuristicDecision": "needs-more-evidence",

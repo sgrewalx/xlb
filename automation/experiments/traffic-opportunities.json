@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-09-10T08:01:03.627Z",
+  "updatedAt": "2026-09-11T07:57:12.299Z",
   "items": [
+    {
+      "id": "traffic-search_ctr_lift-gallery",
+      "signal": "search_ctr_lift",
+      "title": "Improve search snippet for /gallery",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "medium",
+      "status": "queued",
+      "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
+      "targetPaths": [
+        "/gallery"
+      ],
+      "successMetric": "Search CTR improves over the next 28-day Search Console window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Review title, meta description, first-screen copy, and internal anchor text. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
     {
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "signal": "search_ctr_lift",
@@ -17,19 +32,19 @@
       "notes": "Review title, meta description, first-screen copy, and internal anchor text. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-search_ctr_lift-gallery",
-      "signal": "search_ctr_lift",
-      "title": "Improve search snippet for /gallery",
+      "id": "traffic-index-watch-events-global-earthquake-watch",
+      "signal": "index_watch",
+      "title": "Watch index coverage for /events/global-earthquake-watch",
       "ownerAgent": "traffic-improvement-agent",
-      "risk": "medium",
+      "risk": "low",
       "status": "queued",
-      "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
+      "hypothesis": "/events/global-earthquake-watch is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
-        "/gallery"
+        "/events/global-earthquake-watch"
       ],
-      "successMetric": "Search CTR improves over the next 28-day Search Console window.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Review title, meta description, first-screen copy, and internal anchor text. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
       "id": "traffic-index-watch-events-aurora-watch",

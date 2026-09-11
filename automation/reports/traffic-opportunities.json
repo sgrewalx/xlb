@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T08:01:02.267Z",
-  "sourceSnapshot": "2026-09-10T06:00:00.000Z",
+  "updatedAt": "2026-09-11T07:57:10.601Z",
+  "sourceSnapshot": "2026-09-11T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -8,40 +8,14 @@
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 14,
+    "pageCount": 12,
     "sitemapPathCount": 25,
-    "opportunityCount": 11,
+    "opportunityCount": 12,
     "searchOpportunityCount": 4,
     "engagementOpportunityCount": 0,
-    "indexWatchCount": 7
+    "indexWatchCount": 8
   },
   "opportunities": [
-    {
-      "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
-      "path": "/events/nasa-s-spacex-crs-35",
-      "signal": "search_ctr_lift",
-      "score": 33,
-      "risk": "medium",
-      "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
-      "successMetric": "Search CTR improves over the next 28-day Search Console window.",
-      "recommendation": "Review title, meta description, first-screen copy, and internal anchor text.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 11,
-        "searchCtr": 0,
-        "avgPosition": 9.181818181818182,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
     {
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
@@ -58,6 +32,58 @@
         "searchImpressions": 11,
         "searchCtr": 0,
         "avgPosition": 6.090909090909091,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
+      "path": "/events/nasa-s-spacex-crs-35",
+      "signal": "search_ctr_lift",
+      "score": 30,
+      "risk": "medium",
+      "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
+      "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
+      "successMetric": "Search CTR improves over the next 28-day Search Console window.",
+      "recommendation": "Review title, meta description, first-screen copy, and internal anchor text.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 10,
+        "searchCtr": 0,
+        "avgPosition": 9.1,
+        "watchClicks": 0,
+        "engagementScore": 0
+      },
+      "inputQuality": {
+        "quality": "live-api",
+        "hasLiveGa4": true,
+        "hasLiveSearchConsole": true,
+        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
+      }
+    },
+    {
+      "id": "traffic-index-watch-events-global-earthquake-watch",
+      "path": "/events/global-earthquake-watch",
+      "signal": "index_watch",
+      "score": 8,
+      "risk": "low",
+      "title": "Watch index coverage for /events/global-earthquake-watch",
+      "hypothesis": "/events/global-earthquake-watch is in the sitemap but has not appeared in the current analytics snapshot.",
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
+      "metrics": {
+        "pageviews": 0,
+        "visits": 0,
+        "searchImpressions": 0,
+        "searchCtr": 0,
+        "avgPosition": 0,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -263,9 +289,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 11,
+        "searchImpressions": 10,
         "searchCtr": 0,
-        "avgPosition": 9.181818181818182,
+        "avgPosition": 9.1,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -287,13 +313,13 @@
       "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
       "recommendation": "Add clearer on-page context and link to it from the most relevant section page.",
       "metrics": {
-        "pageviews": 2,
-        "visits": 2,
+        "pageviews": 1,
+        "visits": 1,
         "searchImpressions": 5,
         "searchCtr": 0,
         "avgPosition": 14,
         "watchClicks": 0,
-        "engagementScore": 37
+        "engagementScore": 1
       },
       "inputQuality": {
         "quality": "live-api",

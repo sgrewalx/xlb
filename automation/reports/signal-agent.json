@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-10T08:01:03.287Z",
-  "snapshotFile": "merged-2026-09-10.json",
-  "capturedAt": "2026-09-10T06:00:00.000Z",
+  "updatedAt": "2026-09-11T07:57:11.947Z",
+  "snapshotFile": "merged-2026-09-11.json",
+  "capturedAt": "2026-09-11T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -9,16 +9,6 @@
     "adsense": false
   },
   "topPages": [
-    {
-      "path": "/",
-      "pageviews": 2,
-      "searchImpressions": 5,
-      "engagementScore": 37,
-      "returnVisitors": 1,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
     {
       "path": "/__ops",
       "pageviews": 2,
@@ -30,51 +20,11 @@
       "galleryOpens": 0
     },
     {
-      "path": "/events/global-earthquake-watch",
-      "pageviews": 2,
-      "searchImpressions": 0,
-      "engagementScore": 72,
-      "returnVisitors": 1,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/live",
-      "pageviews": 2,
-      "searchImpressions": 0,
-      "engagementScore": 82,
-      "returnVisitors": 1,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/news",
-      "pageviews": 2,
-      "searchImpressions": 2,
-      "engagementScore": 72,
-      "returnVisitors": 1,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/sports",
-      "pageviews": 2,
-      "searchImpressions": 1,
-      "engagementScore": 71,
-      "returnVisitors": 1,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
-      "path": "/tech",
-      "pageviews": 2,
+      "path": "/",
+      "pageviews": 1,
       "searchImpressions": 5,
-      "engagementScore": 36,
-      "returnVisitors": 1,
+      "engagementScore": 1,
+      "returnVisitors": 0,
       "videoStarts": 0,
       "gameStarts": 0,
       "galleryOpens": 0
@@ -102,7 +52,57 @@
     {
       "path": "/events/nasa-s-spacex-crs-35",
       "pageviews": 0,
+      "searchImpressions": 10,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/gallery",
+      "pageviews": 0,
       "searchImpressions": 11,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/games",
+      "pageviews": 0,
+      "searchImpressions": 1,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/news",
+      "pageviews": 0,
+      "searchImpressions": 2,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/privacy",
+      "pageviews": 0,
+      "searchImpressions": 1,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/sports",
+      "pageviews": 0,
+      "searchImpressions": 1,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
