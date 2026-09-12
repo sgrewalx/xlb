@@ -1,0 +1,77 @@
+{
+  "capturedAt": "2026-09-12T06:00:00.000Z",
+  "window": {
+    "start": "2026-09-05T00:00:00.000Z",
+    "end": "2026-09-12T00:00:00.000Z"
+  },
+  "sources": {
+    "cloudflare": false,
+    "searchConsole": false,
+    "ga4": true,
+    "adsense": false
+  },
+  "ga4": {
+    "propertyId": "530268584",
+    "streamVerified": true,
+    "stream": {
+      "name": "properties/530268584/dataStreams/14269082570",
+      "streamId": "14269082570",
+      "type": "WEB_DATA_STREAM",
+      "displayName": "XLB",
+      "measurementId": "G-5JECBDGEMT",
+      "defaultUri": "https://xlb.codemachine.in"
+    },
+    "rowCount": 2,
+    "totals": {
+      "totalUsers": 2,
+      "sessions": 2,
+      "screenPageViews": 3,
+      "eventCount": 10
+    },
+    "dataStatus": "data"
+  },
+  "pages": [
+    {
+      "path": "/__ops",
+      "pageviews": 2,
+      "visits": 1,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "videoStarts": 0,
+      "videoCompletes": 0,
+      "videoScrollDepth": 0,
+      "gameStarts": 0,
+      "gameCompletes": 0,
+      "galleryOpens": 0,
+      "liveCardClicks": 0,
+      "returnVisitors": 1,
+      "revenueUsd": 0,
+      "engagementScore": 72,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    },
+    {
+      "path": "/",
+      "pageviews": 1,
+      "visits": 1,
+      "searchImpressions": 0,
+      "searchCtr": 0,
+      "avgPosition": 0,
+      "watchClicks": 0,
+      "videoStarts": 0,
+      "videoCompletes": 0,
+      "videoScrollDepth": 0,
+      "gameStarts": 0,
+      "gameCompletes": 0,
+      "galleryOpens": 0,
+      "liveCardClicks": 0,
+      "returnVisitors": 0,
+      "revenueUsd": 0,
+      "engagementScore": 1,
+      "decision": "review",
+      "notes": "Imported from the GA4 Data API."
+    }
+  ]
+}
