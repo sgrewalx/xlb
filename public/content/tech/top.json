@@ -1,19 +1,62 @@
 {
-  "updatedAt": "2026-09-12T13:14:26.878Z",
+  "updatedAt": "2026-09-12T16:37:54.286Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-is-a-256gb-ssd-better-than-a-1tb-hard-drive-it-d-45bbd51f99",
-      "title": "Is a 256GB SSD better than a 1TB hard drive? It depends how you're using it",
+      "id": "tech-anthropic-s-ceo-proposes-a-three-step-plan-to-cu-ecf71df437",
+      "title": "Anthropic's CEO proposes a three-step plan to curb AI development",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2252762/256-gb-ssd-vs-1-tb-hard-drive-which-better",
+      "url": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development",
       "tag": "Technology",
-      "publishedAt": "2026-09-12T13:00:00.000Z",
-      "summary": "Should you choose a smaller SSD for speed or a larger HDD for storage space? The answer depends on what you prioritize.",
+      "publishedAt": "2026-09-12T16:37:31.000Z",
+      "summary": "Dario Amodei said that \"we owe it to humanity to try.\"",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/is-a-256gb-ssd-better-than-a-1tb-hard-drive-it-depends-how-youre-using-it/l-intro-1787767507.jpg",
+      "image": "https://www.engadget.com/img/gallery/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/l-intro-1789230534.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252762/256-gb-ssd-vs-1-tb-hard-drive-which-better"
+      "imageSourceUrl": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development"
+    },
+    {
+      "id": "tech-anthropic-boss-dario-amodei-calls-for-ai-develop-c789dc8f82",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T15:53:43.000Z",
+      "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-anthropic-ceo-says-it-s-time-to-pump-the-brakes--08f64e4944",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T16:23:40.000Z",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence t...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-ceo-outlines-plan-to-pace-the-frontier-403b865ff1",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T15:52:11.000Z",
+      "summary": "What would it actually look like to \"pace the frontier\"?",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-brics-backs-startup-incubator-network-considers--080e8c3855",
+      "title": "BRICS backs startup incubator network, considers innovation fund in New Delhi Declaration",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/brics-startup-incubator-network-considers-innovation-fund-new-delhi-declaration",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T15:11:14.000Z",
+      "summary": "The grouping also proposed a digital public infrastructure repository, deeper cooperation on AI and faster cross-border payments among member countries.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-10-best-standing-desks-worth-buying-in-2026-56203031d1",
@@ -43,16 +86,6 @@
       "imageSourceUrl": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china"
     },
     {
-      "id": "tech-laika-s-stop-motion-fantasy-wildwood-looks-so-sm-496be81cf7",
-      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-      "tag": "Technology",
-      "publishedAt": "2026-09-12T13:00:00.000Z",
-      "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and so...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-best-phones-for-video-recording-in-india-iphone--4dafefe019",
       "title": "Best Phones for Video Recording in India: iPhone 17 Pro Max, Galaxy S26 Ultra, and More",
       "source": "Gadgets 360",
@@ -76,76 +109,43 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/gadgets/marvels-wolverine-ferocious-combat-in-a-linear-package/article71459342.ece"
     },
     {
-      "id": "tech-brics-should-help-100-startups-scale-across-memb-e84e08595c",
-      "title": "BRICS should help 100 startups scale across member markets every year: PM Modi",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/brics-should-help-100-startups-scale-across-member-markets-every-year-pm-modi",
-      "tag": "Technology",
-      "publishedAt": "2026-09-12T09:47:40.000Z",
-      "summary": "The Prime Minister also called on the BRICS Business Council to identify the grouping’s top 10 trade barriers and facilitate 1,000 new business partnerships annually.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-tech-now-6ef9e103f2",
-      "title": "Tech Now",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-12T01:00:00.000Z",
-      "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "tech-mecka-ai-nears-500m-valuation-in-sequoia-led-dea-4087208bb1",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T22:58:17.000Z",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-get-the-best-battery-life-for-your-windows-lapto-277a5689cd",
-      "title": "Get the best battery life for your Windows laptop by changing these settings",
+      "id": "tech-how-to-share-your-iphone-s-location-for-just-as--3a2d154c08",
+      "title": "How to share your iPhone's location for just as long as you need",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2252761/best-battery-life-for-windows-laptop-settings",
+      "url": "https://www.engadget.com/2252782/how-to-share-iphone-location-find-my-for-as-long-needed",
       "tag": "Technology",
-      "publishedAt": "2026-09-12T12:30:00.000Z",
-      "summary": "Windows laptops aren't known for having excellent battery life, but a lot of that is because of unoptimized settings. Change these for big improvements.",
+      "publishedAt": "2026-09-12T16:30:00.000Z",
+      "summary": "For some time, Find My sharing was limited to an hour, a day, or indefinitely. That's changing in iOS 27, thanks to more flexible timelines.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/get-the-best-battery-life-for-your-windows-laptop-by-changing-these-settings/l-intro-1787760565.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-share-your-iphones-location-for-just-as-long-as-you-need/l-intro-1787842240.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252761/best-battery-life-for-windows-laptop-settings"
+      "imageSourceUrl": "https://www.engadget.com/2252782/how-to-share-iphone-location-find-my-for-as-long-needed"
     },
     {
-      "id": "tech-engadget-review-recap-lenovo-thinkpad-x1-carbon--5ce7509590",
-      "title": "Engadget review recap: Lenovo ThinkPad X1 Carbon, Insta360 Luna Pro and more",
+      "id": "tech-is-a-free-vpn-worth-using-here-s-why-it-could-be-eb24dc2176",
+      "title": "Is a free VPN worth using? Here's why it could be risky",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2255874/engadget-review-recap-lenovo-thinkpad-x1-carbon",
+      "url": "https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained",
       "tag": "Technology",
-      "publishedAt": "2026-09-12T12:15:00.000Z",
-      "summary": "A roundup of recent reviews from Engadget.",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "summary": "A free VPN might seem like a great deal, but they're not all created equal. While you can expect some compromises, you shouldn't use any old service.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-lenovo-thinkpad-x1-carbon-insta360-luna-pro-and-more/l-intro-1789137096.jpg",
+      "image": "https://www.engadget.com/img/gallery/is-a-free-vpn-worth-using-heres-why-it-could-be-risky/l-intro-1787937397.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2255874/engadget-review-recap-lenovo-thinkpad-x1-carbon"
+      "imageSourceUrl": "https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained"
     },
     {
-      "id": "tech-gamecube-vs-ps2-which-retro-console-is-more-powe-2fdc4f6242",
-      "title": "GameCube vs PS2: Which retro console is more powerful?",
+      "id": "tech-how-to-know-it-s-time-to-replace-your-ev-battery-43b5968409",
+      "title": "How to know it's time to replace your EV battery",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2252758/gamecube-vs-ps2-which-retro-console-more-powerful",
+      "url": "https://www.engadget.com/2252773/how-to-know-time-replace-ev-battery",
       "tag": "Technology",
-      "publishedAt": "2026-09-12T12:00:00.000Z",
-      "summary": "The GameCube and PS2 had different strengths in their exclusive libraries and extra features, but which one had more horsepower for rendering games?",
+      "publishedAt": "2026-09-12T15:30:00.000Z",
+      "summary": "EV batteries usually fade gradually, so the real warning signs are often changes in behavior rather than age alone.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/gamecube-vs-ps2-which-retro-console-is-more-powerful/l-intro-1787756403.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-know-its-time-to-replace-your-ev-battery/l-intro-1787858122.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252758/gamecube-vs-ps2-which-retro-console-more-powerful"
+      "imageSourceUrl": "https://www.engadget.com/2252773/how-to-know-time-replace-ev-battery"
     }
   ]
 }
