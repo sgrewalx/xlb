@@ -50,8 +50,8 @@
     <line x1="1017" y1="315" x2="1017" y2="365" stroke="#526576" stroke-width="2"/>
     <text x="1017" y="398" text-anchor="middle" class="tick">9</text>
 
-      <circle cx="233" cy="340" r="17" fill="#f5b642" stroke="#07111f" stroke-width="7"/>
-      <text x="135" y="490" class="metric-small">Current Kp 1</text>
+      <circle cx="429" cy="340" r="17" fill="#f5b642" stroke="#07111f" stroke-width="7"/>
+      <text x="135" y="490" class="metric-small">Current Kp 3</text>
       <text x="620" y="490" class="metric-small">Recent peak Kp 3</text>
-  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-09-11 07:57 UTC</text>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-09-12 07:49 UTC</text>
 </svg>

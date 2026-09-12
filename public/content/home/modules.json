@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:57:11.947Z",
+  "updatedAt": "2026-09-12T07:49:23.385Z",
   "thesis": "Live events plus embedded short-form video are the primary acquisition and retention loop.",
   "items": [
     {
@@ -31,7 +31,7 @@
           "href": "/events/global-earthquake-watch",
           "label": "Monitoring",
           "summary": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "USGS Earthquake Hazards Program · Sep 11, 07:53 AM"
+          "meta": "USGS Earthquake Hazards Program · Sep 12, 07:44 AM"
         },
         {
           "id": "space-aurora-watch",
@@ -39,7 +39,7 @@
           "href": "/events/aurora-watch",
           "label": "Monitoring",
           "summary": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
-          "meta": "NOAA Space Weather Prediction Center · Sep 11, 07:48 AM"
+          "meta": "NOAA Space Weather Prediction Center · Sep 12, 07:43 AM"
         },
         {
           "id": "space-nasa-live-programming",
@@ -121,7 +121,7 @@
         },
         {
           "label": "Home search impressions",
-          "value": "5"
+          "value": "6"
         },
         {
           "label": "Aurora pageviews",
@@ -135,15 +135,7 @@
           "href": "/gallery",
           "label": "0 views",
           "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "11 search impressions · engagement 0"
-        },
-        {
-          "id": "why-/events/nasa-s-spacex-crs-35",
-          "title": "NASA’s SpaceX CRS-35",
-          "href": "/events/nasa-s-spacex-crs-35",
-          "label": "0 views",
-          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
-          "meta": "10 search impressions · engagement 0"
+          "meta": "12 search impressions · engagement 0"
         },
         {
           "id": "why-/",
@@ -151,7 +143,15 @@
           "href": "/",
           "label": "1 views",
           "summary": "The home page should route visitors into live events and shorts instead of acting like a static section index.",
-          "meta": "5 search impressions · engagement 1"
+          "meta": "6 search impressions · engagement 1"
+        },
+        {
+          "id": "why-/events/nasa-s-spacex-crs-35",
+          "title": "NASA’s SpaceX CRS-35",
+          "href": "/events/nasa-s-spacex-crs-35",
+          "label": "0 views",
+          "summary": "This page is already attracting more attention than the lower-signal utility surfaces.",
+          "meta": "9 search impressions · engagement 0"
         }
       ],
       "relatedLinks": [

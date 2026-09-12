@@ -19,8 +19,8 @@
   <text x="72" y="210" class="subtitle">Relative topic strength generated from current event and ranking records.</text>
   <text x="75" y="300" class="row-title">Earthquakes</text>
       <rect x="365" y="276" width="720" height="24" rx="4" fill="#1d303e"/>
-      <rect x="365" y="276" width="691.2" height="24" rx="4" fill="#84e5c1"/>
-      <text x="1115" y="297" text-anchor="end" class="row-meta">96 score · 1 events</text>
+      <rect x="365" y="276" width="590.4" height="24" rx="4" fill="#84e5c1"/>
+      <text x="1115" y="297" text-anchor="end" class="row-meta">82 score · 1 events</text>
 
       <text x="75" y="384" class="row-title">Space Weather</text>
       <rect x="365" y="360" width="720" height="24" rx="4" fill="#1d303e"/>
@@ -36,5 +36,5 @@
       <rect x="365" y="528" width="720" height="24" rx="4" fill="#1d303e"/>
       <rect x="365" y="528" width="518.4" height="24" rx="4" fill="#84e5c1"/>
       <text x="1115" y="549" text-anchor="end" class="row-meta">72 score · 3 events</text>
-  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-09-11 07:57 UTC</text>
+  <text x="1128" y="615" text-anchor="end" class="updated">UPDATED 2026-09-12 07:49 UTC</text>
 </svg>

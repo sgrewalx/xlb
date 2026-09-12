@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-11T07:57:10.601Z",
-  "sourceSnapshot": "2026-09-11T06:00:00.000Z",
+  "updatedAt": "2026-09-12T07:49:21.977Z",
+  "sourceSnapshot": "2026-09-12T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": true,
@@ -10,8 +10,8 @@
   "summary": {
     "pageCount": 12,
     "sitemapPathCount": 25,
-    "opportunityCount": 12,
-    "searchOpportunityCount": 4,
+    "opportunityCount": 11,
+    "searchOpportunityCount": 3,
     "engagementOpportunityCount": 0,
     "indexWatchCount": 8
   },
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
       "signal": "search_ctr_lift",
-      "score": 33,
+      "score": 36,
       "risk": "medium",
       "title": "Improve search snippet for /gallery",
       "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,35 +29,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 11,
+        "searchImpressions": 12,
         "searchCtr": 0,
-        "avgPosition": 6.090909090909091,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": true,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
-      "path": "/events/nasa-s-spacex-crs-35",
-      "signal": "search_ctr_lift",
-      "score": 30,
-      "risk": "medium",
-      "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
-      "successMetric": "Search CTR improves over the next 28-day Search Console window.",
-      "recommendation": "Review title, meta description, first-screen copy, and internal anchor text.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 10,
-        "searchCtr": 0,
-        "avgPosition": 9.1,
+        "avgPosition": 5.666666666666667,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -289,9 +263,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 10,
+        "searchImpressions": 9,
         "searchCtr": 0,
-        "avgPosition": 9.1,
+        "avgPosition": 9.444444444444445,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -315,9 +289,9 @@
       "metrics": {
         "pageviews": 1,
         "visits": 1,
-        "searchImpressions": 5,
+        "searchImpressions": 6,
         "searchCtr": 0,
-        "avgPosition": 14,
+        "avgPosition": 12.833333333333334,
         "watchClicks": 0,
         "engagementScore": 1
       },
