@@ -1,40 +1,37 @@
 {
-  "updatedAt": "2026-09-12T21:06:29.760Z",
+  "updatedAt": "2026-09-12T23:33:54.519Z",
   "items": [
     {
-      "id": "tech-openai-agents-hacked-a-software-service-before-t-a09410bc43",
-      "title": "OpenAI agents hacked a software service before the Hugging Face incident",
+      "id": "tech-is-there-any-benefit-to-restarting-your-gaming-h-0b635467cd",
+      "title": "Is there any benefit to restarting your gaming handheld regularly?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems",
+      "url": "https://www.engadget.com/2252809/benefits-restarting-gaming-handheld-more-often",
       "tag": "Technology",
-      "publishedAt": "2026-09-12T19:53:01.000Z",
-      "summary": "The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face.",
+      "publishedAt": "2026-09-12T23:30:00.000Z",
+      "summary": "Your Steam Deck, Switch or Ally may benefit from occasional restarts. Here's why you should consider it.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/openai-agents-hacked-a-software-service-before-the-hugging-face-incident/l-intro-1789242724.jpg",
+      "image": "https://www.engadget.com/img/gallery/is-there-any-benefit-to-restarting-your-gaming-handheld-regularly/l-intro-1788786532.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems"
+      "imageSourceUrl": "https://www.engadget.com/2252809/benefits-restarting-gaming-handheld-more-often"
     },
     {
-      "id": "tech-ai-industry-needs-to-slow-down-for-safety-anthro-272c876774",
-      "title": "AI industry needs to slow down for safety: Anthropic CEO",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/ai-industry-needs-to-slow-down-for-safety-anthropic-ceo/article71461300.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-09-12T19:00:35.000Z",
-      "summary": "To help rein in risks, Dario Amodei suggested that all companies at the frontier of AI commit to giving “ongoing, employee-like access” to a team of outside evaluators, who can...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/incoming/8mgnv3/article71461318.ece/alternates/LANDSCAPE_1200/Anthropic_AI_Slowdown__7476.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/ai-industry-needs-to-slow-down-for-safety-anthropic-ceo/article71461300.ece"
-    },
-    {
-      "id": "tech-openai-s-sam-altman-says-it-would-be-ill-advised-2af6bacc75",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "id": "tech-automattic-confirms-mullenweg-has-returned-as-ce-c596014f68",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board",
       "tag": "Technology",
-      "publishedAt": "2026-09-12T20:19:16.000Z",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "publishedAt": "2026-09-12T23:25:38.000Z",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-s-rogue-ai-tried-to-hack-another-company--6860a4a91a",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T21:41:36.000Z",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenA...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
