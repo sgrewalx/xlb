@@ -1,19 +1,39 @@
 {
-  "updatedAt": "2026-09-12T00:47:44.056Z",
+  "updatedAt": "2026-09-12T05:15:31.819Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-playstation-gambles-with-18-rated-wolverine-game-fabf9cb7eb",
-      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+      "id": "tech-iphone-18-pro-iphone-18-pro-max-alternatives-pix-872d40678a",
+      "title": "iPhone 18 Pro, iPhone 18 Pro Max Alternatives: Pixel 11 Pro to Xiaomi 17 Ultra and More",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/features/iphone-18-pro-max-alternatives-in-india-top-5-android-flagship-phones-12029387",
       "tag": "Technology",
-      "publishedAt": "2026-09-12T00:35:50.000Z",
-      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+      "publishedAt": "2026-09-12T04:30:01.000Z",
+      "summary": "The iPhone 18 Pro and iPhone 18 Pro Max sit at the top of Apple's smartphone range, but buyers have several Android options in the same premium segment. Google's Pixel 11 Pro se...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-charm-warmth-and-design-inside-slohh-by-roach-an-a21abfeabd",
+      "title": "Charm, warmth and design: Inside Slohh by Roach and Hilton’s Curio Collection",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/slohh-by-roach-curio-collection-by-hilton-hotel-design-photography",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T03:00:00.000Z",
+      "summary": "In this photo essay, we showcase the Hilton Curio Collections’ first property in India, Slohh by Roach in Bengaluru.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-tech-now-6ef9e103f2",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T01:00:00.000Z",
+      "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "tech-some-satellite-companies-still-have-an-appetite--6100085dd9",
@@ -66,16 +86,6 @@
       "imageSourceUrl": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now"
     },
     {
-      "id": "tech-lawyer-fined-5k-over-ai-hallucinated-witnesses-i-2fe03e18cf",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T20:44:02.000Z",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-37-deep-tech-innovations-on-display-at-bharat-in-69c71e63e4",
       "title": "37 deep-tech innovations on display at Bharat Innovates Exposition on Sep 11-12",
       "source": "The Hindu Technology",
@@ -89,66 +99,47 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/37-deep-tech-innovations-on-display-at-bharat-innovates-exposition-on-sep-11-12/article71456815.ece"
     },
     {
-      "id": "tech-japan-digital-agency-reports-potential-leak-of-2-89c2a02835",
-      "title": "Japan Digital Agency Reports Potential Leak of 246,000 Records After Cyberattack",
+      "id": "tech-lawyer-fined-5k-over-ai-hallucinated-witnesses-i-2fe03e18cf",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "tag": "Technology",
+      "publishedAt": "2026-09-11T20:44:02.000Z",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-to-factory-reset-an-android-phone-safely-a-s-7d208b0456",
+      "title": "How to Factory Reset an Android Phone Safely: A Step-by-Step Guide",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/cryptocurrency/news/japan-digital-agency-reports-potential-leak-of-246000-records-after-cyberattack-crypto-scams-hacks-data-breach-12034550",
+      "url": "https://www.gadgets360.com/how-to/features/how-to-factory-reset-an-android-phone-safely-a-step-by-step-guide-12013186",
       "tag": "Technology",
-      "publishedAt": "2026-09-11T15:41:07.000Z",
-      "summary": "Japan’s Digital Agency said a cyberattack on its Government Solution Service network may have exposed personal information from about 246,000 government workers, public servants...",
+      "publishedAt": "2026-09-12T02:30:01.000Z",
+      "summary": "Google lets Android phone users safely factory reset their handset via two methods. You can either enter recovery mode to factory reset your device or go to the system settings...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-army-design-bureau-visits-garuda-aerospace-s-che-ce328a139d",
-      "title": "Army Design Bureau visits Garuda Aerospace’s Chennai drone facility",
+      "id": "tech-playstation-gambles-with-18-rated-wolverine-game-fabf9cb7eb",
+      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T00:35:50.000Z",
+      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-china-s-ai-labs-siphoned-claude-s-intelligence-6b166aeab7",
+      "title": "China’s AI labs siphoned Claude’s intelligence?",
       "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/army-design-bureau-garuda-aerospace-defence-drone-facility",
+      "url": "https://yourstory.com/2026/09/chinas-ai-labs-siphoned-claudes-intelligence",
       "tag": "Technology",
-      "publishedAt": "2026-09-11T14:58:23.000Z",
-      "summary": "Major General Gopal Kapoor visited Garuda Aerospace’s Chennai facility to review its indigenous defence drone manufacturing, testing and R&D capabilities.",
+      "publishedAt": "2026-09-12T02:28:22.000Z",
+      "summary": "Anthropic’s report reveals that major Chinese AI developers operated illicit proxy networks to harvest Claude’s reasoning capabilities, unintentionally leaking sensitive militar...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-random-rewards-enrich-classic-game-theory-insigh-f6863b57c1",
-      "title": "Random rewards enrich classic game-theory insights",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T21:41:16.000Z",
-      "summary": "Simple games gain rich strategies in the face of noise.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
-      "imageCredit": "NurPhoto",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests"
-    },
-    {
-      "id": "tech-bouncy-castle-launches-horrifying-mrsa-outbreak--51de1d3601",
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T21:14:26.000Z",
-      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597-1152x648.jpg",
-      "imageCredit": "Getty | Marko Stojkovic",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland"
-    },
-    {
-      "id": "tech-trump-s-forced-coal-plant-extensions-thrown-out--6860680d10",
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T20:32:59.000Z",
-      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg",
-      "imageCredit": "UCG",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open"
     }
   ]
 }
