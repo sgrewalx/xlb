@@ -1,7 +1,44 @@
 {
-  "updatedAt": "2026-09-11T22:53:07.170Z",
+  "updatedAt": "2026-09-12T00:47:44.056Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-playstation-gambles-with-18-rated-wolverine-game-fabf9cb7eb",
+      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-12T00:35:50.000Z",
+      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-some-satellite-companies-still-have-an-appetite--6100085dd9",
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services",
+      "tag": "Technology",
+      "publishedAt": "2026-09-11T23:34:45.000Z",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg",
+      "imageCredit": "Isar Aerospace",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services"
+    },
+    {
+      "id": "tech-mecka-ai-nears-500m-valuation-in-sequoia-led-dea-4087208bb1",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+      "tag": "Technology",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-moss-developer-polyarc-has-closed-92324ba199",
       "title": "Moss developer Polyarc has closed",
@@ -14,40 +51,6 @@
       "image": "https://www.engadget.com/img/gallery/moss-developer-polyarc-has-closed/l-intro-1789163813.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.engadget.com/2256562/moss-developer-polyarc-has-closed"
-    },
-    {
-      "id": "tech-random-rewards-enrich-classic-game-theory-contes-f6863b57c1",
-      "title": "Random rewards enrich classic game-theory contests",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T21:41:16.000Z",
-      "summary": "Simple games gain rich strategies in the face of noise.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
-      "imageCredit": "NurPhoto",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests"
-    },
-    {
-      "id": "tech-khosla-ventures-is-opening-a-new-york-office-thi-361bdca715",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T21:19:05.000Z",
-      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-lawyer-fined-5k-over-ai-hallucinated-witnesses-i-2fe03e18cf",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T20:44:02.000Z",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-the-9-best-tv-shows-to-stream-this-month-septemb-eb2297c3b1",
@@ -63,6 +66,16 @@
       "imageSourceUrl": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now"
     },
     {
+      "id": "tech-lawyer-fined-5k-over-ai-hallucinated-witnesses-i-2fe03e18cf",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "tag": "Technology",
+      "publishedAt": "2026-09-11T20:44:02.000Z",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
       "id": "tech-37-deep-tech-innovations-on-display-at-bharat-in-69c71e63e4",
       "title": "37 deep-tech innovations on display at Bharat Innovates Exposition on Sep 11-12",
       "source": "The Hindu Technology",
@@ -74,19 +87,6 @@
       "image": "https://th-i.thgim.com/public/incoming/n9t4zw/article71457742.ece/alternates/LANDSCAPE_1200/PTI09_11_2026_000200B.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/37-deep-tech-innovations-on-display-at-bharat-innovates-exposition-on-sep-11-12/article71456815.ece"
-    },
-    {
-      "id": "tech-uk-government-rejects-kill-switch-idea-for-dange-8d1fbfa427",
-      "title": "UK government rejects 'kill switch' idea for dangerous AI",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T15:07:07.000Z",
-      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "tech-japan-digital-agency-reports-potential-leak-of-2-89c2a02835",
@@ -107,6 +107,20 @@
       "publishedAt": "2026-09-11T14:58:23.000Z",
       "summary": "Major General Gopal Kapoor visited Garuda Aerospace’s Chennai facility to review its indigenous defence drone manufacturing, testing and R&D capabilities.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-random-rewards-enrich-classic-game-theory-insigh-f6863b57c1",
+      "title": "Random rewards enrich classic game-theory insights",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests",
+      "tag": "Technology",
+      "publishedAt": "2026-09-11T21:41:16.000Z",
+      "summary": "Simple games gain rich strategies in the face of noise.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
+      "imageCredit": "NurPhoto",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests"
     },
     {
       "id": "tech-bouncy-castle-launches-horrifying-mrsa-outbreak--51de1d3601",
@@ -135,19 +149,6 @@
       "imageCredit": "UCG",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open"
-    },
-    {
-      "id": "tech-lenovo-s-googlebook-15-seems-decidedly-premium-b-c3fe5d1736",
-      "title": "Lenovo's Googlebook 15 seems decidedly premium based on a new leak",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2256453/lenovo-googlebook-15-seems-decidedly-premium-based-on-a-new-leak",
-      "tag": "Technology",
-      "publishedAt": "2026-09-11T20:01:58.000Z",
-      "summary": "The Lenovo Googlebook 15 will reportedly have a high-resolution, high-refresh rate display and an Intel Core Ultra 5 chip.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/lenovos-googlebook-15-seems-decidedly-premium-based-on-a-new-leak/l-intro-1789156841.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2256453/lenovo-googlebook-15-seems-decidedly-premium-based-on-a-new-leak"
     }
   ]
 }
