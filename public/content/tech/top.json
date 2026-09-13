@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-13T16:45:56.831Z",
+  "updatedAt": "2026-09-13T19:06:06.191Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-trump-downplays-ai-risks-after-dire-expert-warni-ee906a3688",
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+      "id": "tech-trump-downplays-warnings-of-ai-risks-citing-riva-56122d5199",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "source": "BBC Technology",
       "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T16:29:27.000Z",
+      "publishedAt": "2026-09-13T18:49:37.000Z",
       "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
@@ -16,17 +16,27 @@
       "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-what-was-the-psx-the-souped-up-ps2-rarely-sold-o-23810555d1",
-      "title": "What was the PSX? The souped-up PS2 rarely sold outside of Japan",
+      "id": "tech-what-s-the-difference-between-applecare-and-appl-7b0a6a035d",
+      "title": "What's the difference between AppleCare+ and AppleCare One?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan",
+      "url": "https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T16:00:00.000Z",
-      "summary": "The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan.",
+      "publishedAt": "2026-09-13T18:30:00.000Z",
+      "summary": "Should you get AppleCare+ or AppleCare One? We explain the difference in this post.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/what-was-the-psx-the-souped-up-ps2-rarely-sold-outside-of-japan/l-intro-1788802988.jpg",
+      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-applecare-and-applecare-one/l-intro-1788626998.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan"
+      "imageSourceUrl": "https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences"
+    },
+    {
+      "id": "tech-apple-is-reportedly-working-on-iphone-game-contr-2ef5b340eb",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "tag": "Technology",
+      "publishedAt": "2026-09-13T18:30:16.000Z",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game cont...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-obama-urges-democrats-to-have-a-clear-plan-for-a-655f896dbf",
@@ -76,26 +86,6 @@
       "imageSourceUrl": "https://www.wired.com/story/best-smart-bird-feeders"
     },
     {
-      "id": "tech-waymo-pulls-over-calls-cops-on-riders-with-a-gho-4526f5798e",
-      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
-      "tag": "Technology",
-      "publishedAt": "2026-09-13T14:28:12.000Z",
-      "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession o...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-free-up-iphone-storage-without-deleting-p-b0ae979b08",
-      "title": "How to Free Up iPhone Storage Without Deleting Photos",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/how-to/features/how-to-free-up-iphone-storage-without-deleting-photos-steps-guide-12034018",
-      "tag": "Running",
-      "publishedAt": "2026-09-13T12:30:22.000Z",
-      "summary": "Running out of storage on your iPhone can be frustrating. Deleting photos helps to free up some storage. Instead, you can clear app caches, message attachments, duplicate system...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-obama-voices-caution-on-ai-urges-democrats-to-ta-b7ffd80e93",
       "title": "Obama voices caution on AI, urges Democrats to tackle it: reports",
       "source": "The Hindu Technology",
@@ -109,43 +99,53 @@
       "imageSourceUrl": "https://www.thehindu.com/news/international/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-reports/article71462679.ece"
     },
     {
-      "id": "tech-if-your-laptop-trackpad-is-popping-out-stop-usin-3e255d5a4a",
-      "title": "If your laptop trackpad is popping out, stop using it immediately",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling",
+      "id": "tech-how-to-free-up-iphone-storage-without-deleting-p-b0ae979b08",
+      "title": "How to Free Up iPhone Storage Without Deleting Photos",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/how-to/features/how-to-free-up-iphone-storage-without-deleting-photos-steps-guide-12034018",
       "tag": "Running",
-      "publishedAt": "2026-09-13T15:30:00.000Z",
-      "summary": "Your trackpad probably covers a part of your laptop that can become a fire hazard in a hurry, so if your trackpad is shifting, it needs immediate attention.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/if-your-laptop-trackpad-is-popping-out-stop-using-it-immediately/l-intro-1788789654.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling"
+      "publishedAt": "2026-09-13T12:30:22.000Z",
+      "summary": "Running out of storage on your iPhone can be frustrating. Deleting photos helps to free up some storage. Instead, you can clear app caches, message attachments, duplicate system...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-are-apple-s-wired-earpods-still-worth-buying-7f5b5b0c19",
-      "title": "Are Apple's wired EarPods still worth buying?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying",
-      "tag": "Technology",
-      "publishedAt": "2026-09-13T15:00:00.000Z",
-      "summary": "Wired earbuds like EarPods might seem like a relic of the past, but they still have their place (and come at a great price).",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/are-apples-wired-earpods-still-worth-buying/l-intro-1788531895.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying"
-    },
-    {
-      "id": "tech-ai-staff-genuinely-frightened-for-humanity-s-fut-009dc0e84b",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "id": "tech-questions-mount-over-what-an-ai-slowdown-would-l-5a4e8dd8ae",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T14:53:40.000Z",
-      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "publishedAt": "2026-09-13T18:20:22.000Z",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-apple-s-rumored-gaming-controller-for-iphone-cou-6d27e94ac0",
+      "title": "Apple's rumored gaming controller for iPhone could feature Beats branding",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding",
+      "tag": "Technology",
+      "publishedAt": "2026-09-13T18:02:36.000Z",
+      "summary": "Bloomberg's Mark Gurman said there are two gaming controllers in the works.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/l-intro-1789322321.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding"
+    },
+    {
+      "id": "tech-stop-wasting-your-wi-fi-router-s-usb-port-try-th-c2bcfcc980",
+      "title": "Stop wasting your Wi-Fi router's USB port — try this instead",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2252851/wifi-router-usb-port-explained",
+      "tag": "Technology",
+      "publishedAt": "2026-09-13T18:00:00.000Z",
+      "summary": "If you have a USB port on the back of your router and don't know what to do with it, try some of these straightforward options.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/stop-wasting-your-wi-fi-routers-usb-port-try-this-instead/l-intro-1788811827.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2252851/wifi-router-usb-port-explained"
     }
   ]
 }
