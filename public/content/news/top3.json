@@ -1,46 +1,48 @@
 {
-  "updatedAt": "2026-09-13T19:09:04.642Z",
+  "updatedAt": "2026-09-13T21:58:26.949Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-sweden-election-exit-polls-project-centre-left-g-4afcb309ba",
-      "title": "Sweden election: exit polls project centre-left government and bad night for the far-right – live",
+      "id": "news-politics-live-one-nation-reveals-net-negative-mi-ecf87a7a58",
+      "title": "Politics live: One Nation reveals ‘net-negative’ migration policy; electrifying push for Australians to save $5,000 a year",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-09-13T19:01:48.000Z",
-      "summary": "Initial projections put centre-left opposition bloc at 51.3%, with 46.8% for rightwing parties; result worse than expected for far right Sweden Democrats Swedish election – full...",
+      "publishedAt": "2026-09-13T21:49:54.000Z",
+      "summary": "Follow the day’s news live Get our new political email , free app or daily news podcast Labor has ‘refused to adopt’ Coalition migration asks Perhaps one reason for Labor’s dela...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/39480f47abbeee736896ae6263a6046f37b0eb99/245_0_5880_4704/master/5880.jpg?width=460&quality=85&auto=format&fit=max&s=a1afe035b562cb2efcde09d31f67a1eb",
-      "imageCredit": "Photograph: Stefan Jerrevång/TT/Shutterstock",
+      "image": "https://i.guim.co.uk/img/media/b761db48b532645e80099be237c1f8a0d5341fb8/0_0_5707_4569/master/5707.jpg?width=460&quality=85&auto=format&fit=max&s=5b6b94857989fd7c920554726473046e",
+      "imageCredit": "Photograph: Lukas Coch/AAP",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
+      "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb"
     },
     {
-      "id": "news-pre-booking-of-photo-book-on-indira-gandhi-launc-1a2f7b0fb0",
-      "title": "Pre-booking of photo book on Indira Gandhi launched",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece",
+      "id": "news-russian-strikes-on-ukraine-hits-near-david-petra-c16db3704b",
+      "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+      "tag": "US",
+      "publishedAt": "2026-09-13T21:34:48.000Z",
+      "summary": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officia...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-ukraine-strike-HFO-lkfq/13int-ukraine-strike-HFO-lkfq-mediumSquareAt3X.jpg",
+      "imageAlt": "A photo released by the Ukrainian state railway on Sunday showing a damaged locomotive at the Yahodyn railway station.",
+      "imageCredit": "via Associated Press",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html"
+    },
+    {
+      "id": "news-galwan-to-sindoor-calibrated-capitulation-before-7a093b7634",
+      "title": "Galwan to Sindoor, 'calibrated capitulation before China': Cong",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/galwan-to-sindoor-calibrated-capitulation-before-china-cong/articleshow/134226461.cms",
       "tag": "India",
-      "publishedAt": "2026-09-13T18:59:21.000Z",
-      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-09-13T21:32:02.000Z",
+      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/3w26s7/article71463454.ece/alternates/LANDSCAPE_1200/DSC_0454.JPG",
+      "image": "https://static.toiimg.com/photo/msid-134226475,imgsize-138408.cms",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/pre-booking-of-photo-book-on-indira-gandhi-launched/article71463361.ece"
-    },
-    {
-      "id": "news-trump-downplays-warnings-of-ai-risks-citing-riva-677cdf0782",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-09-13T18:49:37.000Z",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/galwan-to-sindoor-calibrated-capitulation-before-china-cong/articleshow/134226461.cms"
     }
   ]
 }
