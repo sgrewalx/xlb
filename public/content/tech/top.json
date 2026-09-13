@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-13T19:06:06.191Z",
+  "updatedAt": "2026-09-13T21:55:59.904Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-sam-altman-says-openai-won-t-file-for-ipo-this-y-9060ee9680",
+      "title": "Sam Altman says OpenAI won't file for IPO this year",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year",
+      "tag": "Technology",
+      "publishedAt": "2026-09-13T20:50:26.000Z",
+      "summary": "OpenAI's CEO called it an \"ill-advised moment to go public\" in an interview with Fortune.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/sam-altman-says-openai-wont-file-for-ipo-this-year/l-intro-1789331786.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year"
+    },
+    {
+      "id": "tech-insight-partners-devin-parekh-on-why-the-firm-is-696385a40c",
+      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic",
+      "tag": "Technology",
+      "publishedAt": "2026-09-13T21:30:00.000Z",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-trump-and-mike-johnson-think-the-ai-industry-is--7373c3c49b",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "tag": "Technology",
+      "publishedAt": "2026-09-13T19:41:48.000Z",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk b...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
     {
       "id": "tech-trump-downplays-warnings-of-ai-risks-citing-riva-56122d5199",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -14,39 +47,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "tech-what-s-the-difference-between-applecare-and-appl-7b0a6a035d",
-      "title": "What's the difference between AppleCare+ and AppleCare One?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences",
-      "tag": "Technology",
-      "publishedAt": "2026-09-13T18:30:00.000Z",
-      "summary": "Should you get AppleCare+ or AppleCare One? We explain the difference in this post.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-applecare-and-applecare-one/l-intro-1788626998.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences"
-    },
-    {
-      "id": "tech-apple-is-reportedly-working-on-iphone-game-contr-2ef5b340eb",
-      "title": "Apple is reportedly working on iPhone game controllers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "tag": "Technology",
-      "publishedAt": "2026-09-13T18:30:16.000Z",
-      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game cont...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-obama-urges-democrats-to-have-a-clear-plan-for-a-655f896dbf",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
-      "tag": "Technology",
-      "publishedAt": "2026-09-13T16:30:00.000Z",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s e...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-hyderabad-houses-515-gccs-to-add-50-70-in-next-1-ff8a421191",
@@ -109,43 +109,37 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-questions-mount-over-what-an-ai-slowdown-would-l-5a4e8dd8ae",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "id": "tech-how-to-adjust-the-liquid-glass-effect-on-your-ip-0d4ca6874d",
+      "title": "How to adjust the Liquid Glass effect on your iPhone with iOS 27",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T18:20:22.000Z",
-      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "publishedAt": "2026-09-13T20:00:00.000Z",
+      "summary": "If you've never been satisfied with Liquid Glass on your Phone, then you'll probably like some of the new customization options Apple offers in iOS 27.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-adjust-the-liquid-glass-effect-on-your-iphone-with-ios-27/l-intro-1788796206.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27"
     },
     {
-      "id": "tech-apple-s-rumored-gaming-controller-for-iphone-cou-6d27e94ac0",
-      "title": "Apple's rumored gaming controller for iPhone could feature Beats branding",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding",
+      "id": "tech-larry-ellison-cancels-7-5-billion-sale-of-oracle-9d4af329d9",
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T18:02:36.000Z",
-      "summary": "Bloomberg's Mark Gurman said there are two gaming controllers in the works.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/l-intro-1789322321.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding"
+      "publishedAt": "2026-09-13T20:49:38.000Z",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-stop-wasting-your-wi-fi-router-s-usb-port-try-th-c2bcfcc980",
-      "title": "Stop wasting your Wi-Fi router's USB port — try this instead",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2252851/wifi-router-usb-port-explained",
+      "id": "tech-the-9-buzziest-startups-from-y-combinator-s-late-6cb04bb27f",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T18:00:00.000Z",
-      "summary": "If you have a USB port on the back of your router and don't know what to do with it, try some of these straightforward options.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/stop-wasting-your-wi-fi-routers-usb-port-try-this-instead/l-intro-1788811827.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252851/wifi-router-usb-port-explained"
+      "publishedAt": "2026-09-13T20:28:00.000Z",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }
