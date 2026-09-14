@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-14T02:23:02.147Z",
+  "updatedAt": "2026-09-14T08:17:35.484Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-samsung-galaxy-s26-fe-launched-in-india-with-exy-dc04bed6e9",
+      "title": "Samsung Galaxy S26 FE Launched in India With Exynos 2500 Chip, 4,900mAh Battery: Price, Specifications",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s26-fe-price-in-india-launch-sale-date-features-specifications-12044001",
+      "tag": "Technology",
+      "publishedAt": "2026-09-14T08:08:44.000Z",
+      "summary": "Samsung Galaxy S26 FE was launched in India on Monday as the company’s latest ‘Fan Edition’ model. It arrives as the successor to last year’s Galaxy S26 FE and sports a 6.7-inch...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-could-make-thinking-cheap-what-happens-to-job-126320c5bc",
+      "title": "AI could make thinking cheap. What happens to jobs, education and human purpose?",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/ai-could-make-thinking-cheap-what-happens-to-jobs-education-and-human-purpose",
+      "tag": "Technology",
+      "publishedAt": "2026-09-14T06:15:52.000Z",
+      "summary": "Dr. Pratosh, an IISc faculty member, warns that AI is not just coming for jobs—it could force a rethink of education, economics and what humans do for a living.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-france-submits-new-proposal-to-ban-social-media--948990ab8c",
+      "title": "France submits new proposal to ban social media for under-15s",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/news/international/france-submits-new-proposal-to-ban-social-media-for-under-15s/article71465480.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-09-14T05:57:42.000Z",
+      "summary": "President Emmanuel Macron has called for similar legislation to be adopted throughout the European Union.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://th-i.thgim.com/public/incoming/mirl9e/article71465487.ece/alternates/LANDSCAPE_1200/2026-07-14T073413Z_1717345313_RC2DDMAN5SAF_RTRMADP_3_AUSTRALIA-SOCIALMEDIA.JPG",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/news/international/france-submits-new-proposal-to-ban-social-media-for-under-15s/article71465480.ece"
+    },
     {
       "id": "tech-magsafe-vs-usb-c-which-is-better-for-charging-yo-e96d9cb740",
       "title": "MagSafe vs. USB-C: Which is better for charging your MacBook?",
@@ -16,16 +49,6 @@
       "imageSourceUrl": "https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option"
     },
     {
-      "id": "tech-deepinder-goyal-s-temple-partners-with-art-of-li-867648c8e4",
-      "title": "Deepinder Goyal’s Temple partners with Art of Living; Why a Japanese entrepreneur sees India as a bridge between rival worlds",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/deepinder-goyals-temple-partners-with-art-of-living-",
-      "tag": "Running",
-      "publishedAt": "2026-09-14T02:00:00.000Z",
-      "summary": "Temple will use its new biomarker, Entropy, to track the body’s parasympathetic state during meditation.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-unvaccinated-pennsylvania-woman-died-of-measles--0fb954cd8b",
       "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
       "source": "Ars Technica",
@@ -38,16 +61,6 @@
       "imageCredit": "Getty | BSIP",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says"
-    },
-    {
-      "id": "tech-insight-partners-deven-parekh-on-why-the-firm-is-696385a40c",
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic",
-      "tag": "Technology",
-      "publishedAt": "2026-09-13T21:30:00.000Z",
-      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-trump-downplays-warnings-of-ai-risks-citing-riva-56122d5199",
@@ -76,17 +89,14 @@
       "imageSourceUrl": "https://www.wired.com/story/best-smart-bird-feeders"
     },
     {
-      "id": "tech-obama-voices-caution-on-ai-urges-democrats-to-ta-b7ffd80e93",
-      "title": "Obama voices caution on AI, urges Democrats to tackle it: reports",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/news/international/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-reports/article71462679.ece",
+      "id": "tech-insight-partners-deven-parekh-on-why-the-firm-is-696385a40c",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T06:31:21.000Z",
-      "summary": "He ‌also called for candidates in the 2028 presidential race to make AI one of their central agendas, with a very clear plan to tackle the surrounding safety and economic concerns",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/incoming/43a5oh/article71462704.ece/alternates/LANDSCAPE_1200/Trump_USAID_54995.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/international/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-reports/article71462679.ece"
+      "publishedAt": "2026-09-13T21:30:00.000Z",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-trump-and-mike-johnson-think-the-ai-industry-is--7373c3c49b",
@@ -99,53 +109,34 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-how-to-free-up-iphone-storage-without-deleting-p-b0ae979b08",
-      "title": "How to Free Up iPhone Storage Without Deleting Photos",
+      "id": "tech-bitcoin-holds-near-77-500-as-institutional-suppo-3c8fd40626",
+      "title": "Bitcoin Holds Near $77,500 as Institutional Support Weakens at Higher Prices",
       "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/how-to/features/how-to-free-up-iphone-storage-without-deleting-photos-steps-guide-12034018",
-      "tag": "Running",
-      "publishedAt": "2026-09-13T12:30:22.000Z",
-      "summary": "Running out of storage on your iPhone can be frustrating. Deleting photos helps to free up some storage. Instead, you can clear app caches, message attachments, duplicate system...",
+      "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-holds-near-usd-77500-as-institutional-support-weakens-at-higher-prices-crypto-markets-prices-btc-eth-12043984",
+      "tag": "Technology",
+      "publishedAt": "2026-09-14T08:05:07.000Z",
+      "summary": "Bitcoin is holding near Rs. 74.2 lakh as subdued selling offers some stability, while recent ETF outflows indicate weaker institutional support at higher prices. On-chain data s...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-at-what-length-do-ethernet-cables-drop-to-lower--6daaa07219",
-      "title": "At what length do Ethernet cables drop to lower speeds?",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds",
-      "tag": "Running",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "summary": "Running an Ethernet cable can provide faster speeds than Wi-Fi in many cases, but the length and type of cable make a difference.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/at-what-length-do-ethernet-cables-drop-to-lower-speeds/l-intro-1788875719.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds"
+      "id": "tech-xiaomi-pad-9-xiaomi-pad-9-pro-with-144hz-display-eba3156e5d",
+      "title": "Xiaomi Pad 9, Xiaomi Pad 9 Pro With 144Hz Displays, Snapdragon Chipsets Launched: Price, Specifications",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/tablets/news/xiaomi-pad-9-pro-price-launch-sale-features-specifications-12043874",
+      "tag": "Technology",
+      "publishedAt": "2026-09-14T07:40:17.000Z",
+      "summary": "Xiaomi Pad 9 and Xiaomi Pad 9 Pro have been launched in China as the latest additions to the company’s tablet lineup. Both tablets sport 3.2K displays with up to a 144Hz adaptiv...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-make-long-drives-easier-with-this-android-auto-f-ae6532c0ab",
-      "title": "Make long drives easier with this Android Auto feature",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive",
+      "id": "tech-iphone-18-pro-max-us-model-reportedly-misses-app-7bca6db9f1",
+      "title": "iPhone 18 Pro Max US Model Reportedly Misses Apple’s C2 Modem",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/mobiles/news/iphone-18-pro-max-us-model-misses-apple-c2-modem-12043849",
       "tag": "Technology",
-      "publishedAt": "2026-09-13T23:30:00.000Z",
-      "summary": "Android Auto added a new capability recently that upgrades the infotainment screen in a big way. Let's activate it.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/make-long-drives-easier-with-this-android-auto-feature/l-intro-1788874315.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive"
-    },
-    {
-      "id": "tech-how-to-use-gpt-6-astra-when-it-rolls-out-to-you-9968b8dde4",
-      "title": "How to use GPT-6 Astra when it rolls out to you",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule",
-      "tag": "Technology",
-      "publishedAt": "2026-09-13T23:00:00.000Z",
-      "summary": "OpenAI's new model, GPT-6 Astra, has begun rolling out to users. Here's how you can get it and pitfalls to avoid.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-gpt-6-astra-when-it-rolls-out-to-you/l-intro-1788872340.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule"
+      "publishedAt": "2026-09-14T07:37:01.000Z",
+      "summary": "Apple has revealed a regional difference in the modem used by the iPhone 18 Pro Max. The company’s updated specifications indicate that the device uses its C2 cellular modem glo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }
