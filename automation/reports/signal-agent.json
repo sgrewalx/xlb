@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-13T08:11:01.220Z",
-  "snapshotFile": "merged-2026-09-13.json",
-  "capturedAt": "2026-09-13T06:00:00.000Z",
+  "updatedAt": "2026-09-14T08:46:02.103Z",
+  "snapshotFile": "merged-2026-09-14.json",
+  "capturedAt": "2026-09-14T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -10,20 +10,10 @@
   },
   "topPages": [
     {
-      "path": "/__ops",
-      "pageviews": 2,
-      "searchImpressions": 0,
-      "engagementScore": 72,
-      "returnVisitors": 1,
-      "videoStarts": 0,
-      "gameStarts": 0,
-      "galleryOpens": 0
-    },
-    {
       "path": "/",
-      "pageviews": 1,
+      "pageviews": 0,
       "searchImpressions": 6,
-      "engagementScore": 1,
+      "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
       "gameStarts": 0,
@@ -52,7 +42,7 @@
     {
       "path": "/events/nasa-s-spacex-crs-35",
       "pageviews": 0,
-      "searchImpressions": 14,
+      "searchImpressions": 13,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -62,7 +52,7 @@
     {
       "path": "/gallery",
       "pageviews": 0,
-      "searchImpressions": 28,
+      "searchImpressions": 26,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -101,6 +91,16 @@
     },
     {
       "path": "/sports",
+      "pageviews": 0,
+      "searchImpressions": 6,
+      "engagementScore": 0,
+      "returnVisitors": 0,
+      "videoStarts": 0,
+      "gameStarts": 0,
+      "galleryOpens": 0
+    },
+    {
+      "path": "/tech",
       "pageviews": 0,
       "searchImpressions": 5,
       "engagementScore": 0,

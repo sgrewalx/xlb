@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-13T08:11:00.271Z",
-  "sourceSnapshot": "2026-09-13T06:00:00.000Z",
+  "updatedAt": "2026-09-14T08:46:00.583Z",
+  "sourceSnapshot": "2026-09-14T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
-    "hasLiveGa4": true,
+    "hasLiveGa4": false,
     "hasLiveSearchConsole": true,
     "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
   },
   "summary": {
-    "pageCount": 12,
+    "pageCount": 11,
     "sitemapPathCount": 25,
     "opportunityCount": 12,
     "searchOpportunityCount": 4,
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
       "signal": "search_ctr_lift",
-      "score": 84,
+      "score": 78,
       "risk": "medium",
       "title": "Improve search snippet for /gallery",
       "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,15 +29,15 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 28,
+        "searchImpressions": 26,
         "searchCtr": 0,
-        "avgPosition": 5,
+        "avgPosition": 4.730769230769231,
         "watchClicks": 0,
         "engagementScore": 0
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -46,7 +46,7 @@
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_ctr_lift",
-      "score": 42,
+      "score": 39,
       "risk": "medium",
       "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -55,15 +55,15 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 14,
+        "searchImpressions": 13,
         "searchCtr": 0,
-        "avgPosition": 8.5,
+        "avgPosition": 8.692307692307693,
         "watchClicks": 0,
         "engagementScore": 0
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -89,7 +89,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -115,7 +115,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -141,7 +141,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -167,7 +167,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -193,7 +193,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -219,7 +219,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -245,7 +245,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -271,7 +271,7 @@
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -280,7 +280,7 @@
       "id": "traffic-search_striking_distance-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_striking_distance",
-      "score": 2,
+      "score": 1,
       "risk": "medium",
       "title": "Strengthen ranking support for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is close enough in search results that better supporting copy and internal links may improve rank.",
@@ -289,15 +289,15 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 14,
+        "searchImpressions": 13,
         "searchCtr": 0,
-        "avgPosition": 8.5,
+        "avgPosition": 8.692307692307693,
         "watchClicks": 0,
         "engagementScore": 0
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
@@ -313,17 +313,17 @@
       "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
       "recommendation": "Add clearer on-page context and link to it from the most relevant section page.",
       "metrics": {
-        "pageviews": 1,
-        "visits": 1,
+        "pageviews": 0,
+        "visits": 0,
         "searchImpressions": 6,
         "searchCtr": 0,
         "avgPosition": 12.833333333333334,
         "watchClicks": 0,
-        "engagementScore": 1
+        "engagementScore": 0
       },
       "inputQuality": {
         "quality": "live-api",
-        "hasLiveGa4": true,
+        "hasLiveGa4": false,
         "hasLiveSearchConsole": true,
         "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
       }
