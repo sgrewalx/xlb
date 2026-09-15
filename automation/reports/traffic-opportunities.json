@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-14T08:46:00.583Z",
-  "sourceSnapshot": "2026-09-14T06:00:00.000Z",
+  "updatedAt": "2026-09-15T08:33:22.370Z",
+  "sourceSnapshot": "2026-09-15T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
       "signal": "search_ctr_lift",
-      "score": 78,
+      "score": 141,
       "risk": "medium",
       "title": "Improve search snippet for /gallery",
       "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,9 +29,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 26,
+        "searchImpressions": 47,
         "searchCtr": 0,
-        "avgPosition": 4.730769230769231,
+        "avgPosition": 4.1063829787234045,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -46,7 +46,7 @@
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_ctr_lift",
-      "score": 39,
+      "score": 42,
       "risk": "medium",
       "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -55,9 +55,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 13,
+        "searchImpressions": 14,
         "searchCtr": 0,
-        "avgPosition": 8.692307692307693,
+        "avgPosition": 8.785714285714285,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -280,7 +280,7 @@
       "id": "traffic-search_striking_distance-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_striking_distance",
-      "score": 1,
+      "score": 2,
       "risk": "medium",
       "title": "Strengthen ranking support for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is close enough in search results that better supporting copy and internal links may improve rank.",
@@ -289,9 +289,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 13,
+        "searchImpressions": 14,
         "searchCtr": 0,
-        "avgPosition": 8.692307692307693,
+        "avgPosition": 8.785714285714285,
         "watchClicks": 0,
         "engagementScore": 0
       },

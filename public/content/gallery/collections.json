@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T08:46:02.103Z",
+  "updatedAt": "2026-09-15T08:33:23.446Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 214 earthquake events in the last 24 hours. Strongest reported event: M5.4 near northern Mid-Atlantic Ridge.",
+          "summary": "USGS reported 198 earthquake events in the last 24 hours. Strongest reported event: M5.6 near 78 km NNE of Tobelo, Indonesia.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 14, 08:46 AM",
+          "metricValue": "Sep 15, 08:33 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -80,7 +80,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 2. Recent peak is Kp 2. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
