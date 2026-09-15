@@ -1,32 +1,65 @@
 {
-  "updatedAt": "2026-09-15T20:44:38.323Z",
+  "updatedAt": "2026-09-15T23:18:33.042Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-how-to-improve-the-audio-quality-on-your-iphone-a0679f1816",
-      "title": "How to improve the audio quality on your iPhone",
+      "id": "tech-are-usb-c-flash-drives-better-than-usb-a-ones-f2f039131d",
+      "title": "Are USB-C flash drives better than USB-A ones?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2256208/how-to-improve-audio-quality-iphone",
+      "url": "https://www.engadget.com/2256491/usb-c-flash-drive-better-usb-a-comparison",
       "tag": "Technology",
-      "publishedAt": "2026-09-15T20:00:00.000Z",
-      "summary": "You can improve your iPhone's audio quality whether you're using the built-in speakers, headphones, or a speaker.",
+      "publishedAt": "2026-09-15T22:30:00.000Z",
+      "summary": "USB-A and USB-C flash drives both have their purposes. USB-C is increasingly common, but USB-A isn't going anywhere yet.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-the-audio-quality-on-your-iphone/l-intro-1789148882.jpg",
+      "image": "https://www.engadget.com/img/gallery/are-usb-c-flash-drives-better-than-usb-a-ones/l-intro-1789158707.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2256208/how-to-improve-audio-quality-iphone"
+      "imageSourceUrl": "https://www.engadget.com/2256491/usb-c-flash-drive-better-usb-a-comparison"
     },
     {
-      "id": "tech-tech-life-55ae59185e",
-      "title": "Tech Life",
+      "id": "tech-nvidia-boss-says-ai-doesn-t-need-new-laws-as-saf-6e44d441d7",
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-15T19:30:00.000Z",
-      "summary": "What should children learn in a world transformed by artificial intelligence?",
+      "publishedAt": "2026-09-15T22:13:10.000Z",
+      "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9s5kz.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6b4/live/8aa4e810-b14c-11f1-a383-57f33d64a166.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-dreamforce-2026-salesforce-ceo-benioff-unveils-a-e6f7388a9f",
+      "title": "Dreamforce 2026 | Salesforce CEO Benioff unveils ‘AIForce’ as protesters demand end to ICE contracts",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/salesforce-dreamforce-2026-aiforce-unveiled-ice-contracts-protesters-ai-safety/article71470012.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-09-15T21:47:49.000Z",
+      "summary": "Anthropic CEO Dario Amodei and Nvidia CEO Jensen Huang, who took part in keynote interviews, expressed drastically different views on regulating the AI industry",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://th-i.thgim.com/public/incoming/sdh08/article71470005.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-16%20at%2002.42.07.jpeg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/salesforce-dreamforce-2026-aiforce-unveiled-ice-contracts-protesters-ai-safety/article71470012.ece"
+    },
+    {
+      "id": "tech-the-ai-data-center-boom-is-colliding-with-cities-ca1736e748",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
+      "tag": "Technology",
+      "publishedAt": "2026-09-15T21:47:38.000Z",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-microsoft-announces-windows-and-surface-event-fo-5deaab96a6",
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "tag": "Technology",
+      "publishedAt": "2026-09-15T20:36:59.000Z",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-18-year-old-dies-of-measles-in-pa-from-severe-ne-df912ed72b",
@@ -41,36 +74,6 @@
       "imageCredit": "Getty | Natalya Maisheva",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases"
-    },
-    {
-      "id": "tech-meta-now-lets-ai-agents-handle-the-boring-parts--d59e71d41d",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
-      "tag": "Technology",
-      "publishedAt": "2026-09-15T20:12:53.000Z",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-cooperation-on-artificial-intelligence-at-a-c-0d73a56eea",
-      "title": "AI cooperation: On Artificial Intelligence at a crossroads",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/opinion/editorial/ai-cooperation-on-artificial-intelligence-at-a-crossroads/article71468418.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-09-15T19:42:03.000Z",
-      "summary": "The BRICS framework is an alternative to a geopolitical view of AI development",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-kia-s-electric-van-lineup-is-getting-more-intere-e20c5695ed",
-      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-09-15T18:39:44.000Z",
-      "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-ai-actor-tilly-norwood-told-me-that-all-lives-ma-6d741045e7",
@@ -106,46 +109,43 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-spacex-declares-starship-ready-for-orbit-sets-la-82e9559538",
-      "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight",
+      "id": "tech-microsoft-will-hold-a-windows-and-surface-event--71475a50bb",
+      "title": "Microsoft will hold a Windows and Surface event on October 7",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2259695/microsoft-will-hold-a-windows-event-on-october-7",
       "tag": "Technology",
-      "publishedAt": "2026-09-15T18:48:08.000Z",
-      "summary": "Reaching orbit would mark a significant milestone.",
+      "publishedAt": "2026-09-15T22:18:07.000Z",
+      "summary": "The event is focused on \"Windows, NVIDIA RTX Spark, Surface, and the broader PC ecosystem,\" with Satya Nadella and Jensen Huang among the speakers.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-1152x648.jpg",
-      "imageCredit": "SpaceX",
+      "image": "https://www.engadget.com/img/gallery/microsoft-will-hold-a-windows-event-on-october-7/l-intro-1789510407.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight"
+      "imageSourceUrl": "https://www.engadget.com/2259695/microsoft-will-hold-a-windows-event-on-october-7"
     },
     {
-      "id": "tech-agility-s-new-humanoid-robot-will-stop-squat-to--f95ade9d35",
-      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers",
+      "id": "tech-wired-vs-wireless-speakers-what-are-the-pros-and-480d4e2d49",
+      "title": "Wired vs wireless speakers: What are the pros and cons?",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2256380/wired-vs-wireless-speakers-pros-cons",
       "tag": "Technology",
-      "publishedAt": "2026-09-15T18:33:02.000Z",
-      "summary": "Robots can start working outside physical cages and without safety barriers.",
+      "publishedAt": "2026-09-15T22:00:00.000Z",
+      "summary": "Wired and wireless speakers each offer different trade-offs, advantages and disadvantages. Plus, what audio you put through them has a big effect.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-1152x648.png",
-      "imageCredit": "Agility Robotics",
+      "image": "https://www.engadget.com/img/gallery/wired-vs-wireless-speakers-what-are-the-pros-and-cons/l-intro-1789154432.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers"
+      "imageSourceUrl": "https://www.engadget.com/2256380/wired-vs-wireless-speakers-pros-cons"
     },
     {
-      "id": "tech-boston-dumps-flock-says-it-shared-data-nationwid-a49590add3",
-      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract",
+      "id": "tech-meta-to-share-child-safety-information-directly--51492499a0",
+      "title": "Meta to share child safety information directly with Indian agencies",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-15T18:14:11.000Z",
-      "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
+      "publishedAt": "2026-09-15T20:14:21.000Z",
+      "summary": "So far, this information has been shared with the U.S.-based National Center for Missing & Exploited Children, which has in turn shared India-specific CSAM reports with the Nati...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-      "imageCredit": "Getty Images | Smith Collection/Gado",
+      "image": "https://th-i.thgim.com/public/incoming/yi1pba/article71467026.ece/alternates/LANDSCAPE_1200/2026-08-31T131640Z_168717986_RC29C3A1CNFM_RTRMADP_3_META-INDIA-ADVERTISING.JPG",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract"
+      "imageSourceUrl": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece"
     }
   ]
 }
