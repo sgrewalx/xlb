@@ -1,5 +1,12 @@
 {
-  "updatedAt": "2026-09-15T08:33:23.446Z",
-  "appliedCount": 0,
-  "changes": []
+  "updatedAt": "2026-09-16T08:27:33.038Z",
+  "appliedCount": 1,
+  "changes": [
+    {
+      "slug": "launches",
+      "updates": [
+        "summary"
+      ]
+    }
+  ]
 }

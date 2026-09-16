@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T08:33:22.370Z",
-  "sourceSnapshot": "2026-09-15T06:00:00.000Z",
+  "updatedAt": "2026-09-16T08:27:31.798Z",
+  "sourceSnapshot": "2026-09-16T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
       "signal": "search_ctr_lift",
-      "score": 141,
+      "score": 183,
       "risk": "medium",
       "title": "Improve search snippet for /gallery",
       "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,9 +29,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 47,
+        "searchImpressions": 61,
         "searchCtr": 0,
-        "avgPosition": 4.1063829787234045,
+        "avgPosition": 4.016393442622951,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -46,7 +46,7 @@
       "id": "traffic-search_ctr_lift-events-nasa-s-spacex-crs-35",
       "path": "/events/nasa-s-spacex-crs-35",
       "signal": "search_ctr_lift",
-      "score": 42,
+      "score": 45,
       "risk": "medium",
       "title": "Improve search snippet for /events/nasa-s-spacex-crs-35",
       "hypothesis": "/events/nasa-s-spacex-crs-35 is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -55,9 +55,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 14,
+        "searchImpressions": 15,
         "searchCtr": 0,
-        "avgPosition": 8.785714285714285,
+        "avgPosition": 8.8,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -289,9 +289,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 14,
+        "searchImpressions": 15,
         "searchCtr": 0,
-        "avgPosition": 8.785714285714285,
+        "avgPosition": 8.8,
         "watchClicks": 0,
         "engagementScore": 0
       },
