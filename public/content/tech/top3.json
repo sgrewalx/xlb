@@ -1,38 +1,44 @@
 {
-  "updatedAt": "2026-09-16T20:37:57.080Z",
+  "updatedAt": "2026-09-16T23:23:56.827Z",
   "items": [
     {
-      "id": "tech-a-deal-hunter-s-guide-to-amazon-prime-big-deal-d-080e226fb9",
-      "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/amazon-prime-day-october-2026-tips",
-      "tag": "Running",
-      "publishedAt": "2026-09-16T19:45:41.000Z",
-      "summary": "Before Amazon’s October sale begins, learn how to investigate prices and track products like a pro.",
+      "id": "tech-would-you-buy-branded-clothing-from-your-favouri-5fe59cc0e5",
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-16T23:18:47.000Z",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6aaaf0696efac6d4d3b8cab6/master/pass/Amazon-Prime-Big-Deal-Days-Are-Coming.-Don%E2%80%99t-Get-Duped.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/amazon-prime-day-october-2026-tips"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-after-accusations-of-selling-perv-glasses-meta-p-fe7c256114",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
+      "id": "tech-japanese-company-develops-a-humanoid-robot-ambul-9b08316c67",
+      "title": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs",
       "tag": "Technology",
-      "publishedAt": "2026-09-16T20:12:00.000Z",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-16T23:00:00.000Z",
+      "summary": "It turns out that breaking down at work isn't a uniquely human experience.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/japanese-company-develops-a-humanoid-robot-ambulance-for-on-the-spot-repairs/l-intro-1789506872.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs"
     },
     {
-      "id": "tech-resident-evil-is-a-comedy-first-and-a-thrilling--7ce80b6fa1",
-      "title": "Resident Evil is a comedy first and a thrilling nightmare second",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+      "id": "tech-openai-creates-a-new-framework-to-disclose-bad-a-61d5cb37c5",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment",
       "tag": "Technology",
-      "publishedAt": "2026-09-16T18:45:35.000Z",
-      "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-16T22:07:24.000Z",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/master/pass/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment"
     }
   ]
 }
