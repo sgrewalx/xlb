@@ -1,32 +1,89 @@
 {
-  "updatedAt": "2026-09-16T13:52:10.220Z",
+  "updatedAt": "2026-09-16T17:50:49.424Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-apple-iphone-18-pro-and-iphone-18-pro-max-review-114ec76302",
-      "title": "Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max",
+      "id": "tech-mindseye-developer-build-a-rocket-boy-is-reporte-1ecec085c1",
+      "title": "MindsEye developer Build A Rocket Boy is reportedly shutting down",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2260473/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down",
       "tag": "Technology",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Fun camera features help make these candy bar iPhones stand out from the dazzle of the folding iPhone Duo.",
+      "publishedAt": "2026-09-16T17:47:51.000Z",
+      "summary": "It's not terribly surprising after repeated rounds of layoffs.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6aa9f7c07a4288876ba476ed/master/pass/DSC_9668.jpg",
+      "image": "https://www.engadget.com/img/gallery/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down/l-intro-1789580821.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max"
+      "imageSourceUrl": "https://www.engadget.com/2260473/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down"
     },
     {
-      "id": "tech-here-s-how-the-iphone-18-pro-s-apple-reference-i-ba65578e18",
-      "title": "Here's how the iPhone 18 Pro's Apple Reference Image tech works",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2259654/how-iphone-18-pro-apple-reference-image-works",
-      "tag": "Technology",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Apple Reference Image is like giving your photos a tamper-proof seal.",
+      "id": "tech-chipotle-is-working-with-palantir-to-track-food--772669647a",
+      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety",
+      "tag": "Running",
+      "publishedAt": "2026-09-16T16:05:14.000Z",
+      "summary": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for fo...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/heres-how-the-iphone-18-pros-apple-reference-image-tech-works/l-intro-1789497687.jpg",
+      "image": "https://media.wired.com/photos/6aaac3f9abaa64afbb2e9683/master/pass/091626-Chipole%20Palantir.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2259654/how-iphone-18-pro-apple-reference-image-works"
+      "imageSourceUrl": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety"
+    },
+    {
+      "id": "tech-apple-might-make-servers-again-to-cash-in-on-the-63f14b9a16",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "tag": "Technology",
+      "publishedAt": "2026-09-16T17:20:29.000Z",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-your-ai-agents-can-now-control-your-google-home--dab5435cef",
+      "title": "Your AI agents can now control your Google Home devices",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+      "tag": "Technology",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries,...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-why-good-grammar-can-make-people-think-you-used--d290efdbb3",
+      "title": "Why good grammar can make people think you used AI",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/why-good-grammar-can-look-ai-written",
+      "tag": "Technology",
+      "publishedAt": "2026-09-16T16:56:38.000Z",
+      "summary": "As AI tools become common, polished grammar and clear writing are increasingly being mistaken for machine-generated content.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-what-happens-when-neutrinos-swap-identities-insi-0f816023b8",
+      "title": "What happens when neutrinos swap identities inside a supernova?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova",
+      "tag": "Technology",
+      "publishedAt": "2026-09-16T15:17:43.000Z",
+      "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x600.png",
+      "imageCredit": "Ken Chen, Academia Sinica Institute of Astronomy and Astrophysics",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova"
+    },
+    {
+      "id": "tech-microsoft-says-ai-rival-anthropic-could-have-dis-4b48b943af",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-16T14:16:14.000Z",
+      "summary": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "tech-viewsonic-google-tv-series-launched-in-india-wit-6d005ccf76",
@@ -37,49 +94,6 @@
       "publishedAt": "2026-09-16T13:42:22.000Z",
       "summary": "ViewSonic has introduced its Google TV Series in India alongside several professional display products at InfoComm India 2026. The Google TV models run Google TV Ref+ 5.0 based...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-sk-hynix-reportedly-in-talks-with-intel-to-build-58312215b0",
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us",
-      "tag": "Technology",
-      "publishedAt": "2026-09-16T13:23:02.000Z",
-      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-from-a-namakkal-village-to-7-countries-how-yaa-c-05cfa15c7f",
-      "title": "From a Namakkal Village to 7 Countries: How Yaa Creations Hit Rs 1.5 Crore",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/yaa-creations-namakkal-software-startup-rs-1-5-crore-revenue",
-      "tag": "Technology",
-      "publishedAt": "2026-09-16T13:22:32.000Z",
-      "summary": "Started with one employee in a Namakkal village, Yaa Creations now serves 7 countries and earned Rs 1.5 crore in 2025.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-a-brief-history-of-ai-executives-calling-for-reg-1894fa078a",
-      "title": "A brief history of AI executives calling for regulation",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "tag": "Technology",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-boss-says-world-right-to-be-afraid-but-sh-1d0cdc490c",
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-16T10:02:05.000Z",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/dc850210-b1b4-11f1-b1d1-571ed4d7ff2c.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "tech-why-meta-s-zuckerberg-rebuffed-dario-amodei-s-ai-96b5c8e273",
@@ -95,51 +109,43 @@
       "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/why-metas-zuckerberg-rebuffed-dario-amodeis-ai-slowdown-calls/article71471837.ece"
     },
     {
-      "id": "tech-how-chimps-teach-their-kids-tool-tricks-9b40d3379b",
-      "title": "How chimps teach their kids tool tricks",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks",
-      "tag": "Technology",
-      "publishedAt": "2026-09-16T04:00:39.000Z",
-      "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chimps1-1152x648.jpg",
-      "imageCredit": "Jane Goodall Institute Spain in Senegal",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks"
-    },
-    {
-      "id": "tech-iphone-18-pro-review-the-standard-setter-3b1e653c66",
-      "title": "iPhone 18 Pro review: The standard setter",
+      "id": "tech-the-boox-note-air6c-e-ink-tablet-flips-pages-nea-43d56a82d9",
+      "title": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2259790/apple-iphone-18-pro-review-cameras-performance-variable-aperture-siri-ai",
+      "url": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster",
       "tag": "Technology",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "The yardstick that all phones, including the Duo, will be measured by.",
+      "publishedAt": "2026-09-16T17:36:21.000Z",
+      "summary": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/apple-iphone-18-pro-review-cameras-performance-variable-aperture-siri-ai/l-intro-1789555938.jpg",
+      "image": "https://www.engadget.com/img/gallery/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/l-intro-1789580101.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2259790/apple-iphone-18-pro-review-cameras-performance-variable-aperture-siri-ai"
+      "imageSourceUrl": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster"
     },
     {
-      "id": "tech-upi-s-new-pricing-phase-who-pays-who-benefits-c1a1a2c181",
-      "title": "UPI's new pricing phase: Who pays, who benefits?",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/upis-new-pricing-phase-who-pays-who-benefits",
+      "id": "tech-google-home-is-going-agentic-via-integration-wit-0884576bf7",
+      "title": "Google Home is going agentic via integration with the MCP standard",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard",
       "tag": "Technology",
-      "publishedAt": "2026-09-16T13:04:37.000Z",
-      "summary": "The introduction of MDR on select UPI transactions has sparked debate among industry leaders including Nithin Kamath, Sameer Nigam, Ashishkumar Chauhan and Ashneer Grover over w...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "summary": "Premium Advanced users will get an early access build \"in the coming weeks.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/google-home-is-going-agentic-via-integration-with-the-mcp-standard/l-intro-1789573336.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard"
     },
     {
-      "id": "tech-ripple-ceo-says-crypto-sector-can-grow-beyond-cl-8ef8c1543b",
-      "title": "Ripple CEO Says Crypto Sector Can Grow Beyond CLARITY Act",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/cryptocurrency/news/ripple-ceo-says-crypto-sector-can-grow-beyond-clarity-act-crypto-adoption-regulations-us-senate-bill-xrp-12054937",
+      "id": "tech-anthropic-s-claude-can-now-create-editable-docum-fbdcc50be9",
+      "title": "Anthropic's Claude can now create editable documents for you",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together",
       "tag": "Technology",
-      "publishedAt": "2026-09-16T13:00:14.000Z",
-      "summary": "Ripple CEO Brad Garlinghouse said the cryptocurrency sector’s long-term growth does not depend solely on the CLARITY Act becoming law. Speaking at The Economic Club of Kansas Ci...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-16T16:30:00.000Z",
+      "summary": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/anthropics-claude-can-now-create-editable-documents-for-you/l-intro-1789573560.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together"
     }
   ]
 }
