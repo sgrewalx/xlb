@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:27:33.038Z",
+  "updatedAt": "2026-09-17T08:32:38.150Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 210 earthquake events in the last 24 hours. Strongest reported event: M5 near 281 km SSE of Dunhuang, China.",
+          "summary": "USGS reported 207 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 191 km SE of Mata-Utu, Wallis and Futuna.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 16, 08:27 AM",
+          "metricValue": "Sep 17, 08:32 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -80,7 +80,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 2. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
