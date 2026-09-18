@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:32:38.506Z",
+  "updatedAt": "2026-09-18T08:07:35.164Z",
   "items": [
     {
       "id": "traffic-search_ctr_lift-gallery",
@@ -150,21 +150,6 @@
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
-      "id": "traffic-search_striking_distance-events-nasa-s-spacex-crs-35",
-      "signal": "search_striking_distance",
-      "title": "Strengthen ranking support for /events/nasa-s-spacex-crs-35",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "medium",
-      "status": "queued",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is close enough in search results that better supporting copy and internal links may improve rank.",
-      "targetPaths": [
-        "/events/nasa-s-spacex-crs-35"
-      ],
-      "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Add clearer on-page context and link to it from the most relevant section page. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
       "id": "traffic-search_striking_distance-home",

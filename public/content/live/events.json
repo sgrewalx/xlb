@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:32:37.697Z",
+  "updatedAt": "2026-09-18T08:07:34.397Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-09-17T07:31:28.057Z",
-      "summary": "USGS reported 207 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 191 km SE of Mata-Utu, Wallis and Futuna.",
+      "startsAt": "2026-09-18T07:57:59.260Z",
+      "summary": "USGS reported 186 earthquake events in the last 24 hours. Strongest reported event: M6.5 near 165 km W of Nikolski, Alaska.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-09-17T08:32:37.697Z",
+      "updatedAt": "2026-09-18T08:07:34.397Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-pakistan-energy-crisis-global-oil-price-surge-de-ff862b38e1",
-        "video-watch-indian-army-combat-k9-s-daredevil-skydive--017fc8acd6",
-        "video-watch-in-chilling-revenge-blitz-idf-kills-hamas--7937ab11b4"
+        "video-watch-bus-driver-appears-to-fall-asleep-crash-wi-f31af1a2ac"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,7 +44,7 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-09-17T08:28:00.000Z",
+      "startsAt": "2026-09-18T08:02:00.000Z",
       "summary": "Current geomagnetic conditions are near Kp 1. Recent peak reached Kp 2. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
@@ -58,13 +56,11 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-09-17T08:32:37.697Z",
+      "updatedAt": "2026-09-18T08:07:34.397Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-watch-indian-army-combat-k9-s-daredevil-skydive--017fc8acd6",
-        "video-watch-in-chilling-revenge-blitz-idf-kills-hamas--7937ab11b4",
-        "video-on-cam-watch-indian-army-s-combat-k9-skydive-in--326b88e71f"
+        "video-watch-bus-driver-appears-to-fall-asleep-crash-wi-f31af1a2ac"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -95,7 +91,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-17T08:32:37.697Z",
+      "updatedAt": "2026-09-18T08:07:34.397Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -115,7 +111,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-09-17T08:32:37.340Z",
+      "startsAt": "2026-09-18T08:07:34.025Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -127,13 +123,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-17T08:32:37.697Z",
+      "updatedAt": "2026-09-18T08:07:34.397Z",
       "importance": 72,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-spacex-falcon-9-launches-from-us-space-force-bas-d76392543a",
-        "video-spacex-launch-live-falcon-9-rocket-launches-ussf-a58f112c2e"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -151,7 +144,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-09-17T08:32:37.340Z",
+      "startsAt": "2026-09-18T08:07:34.026Z",
       "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
       "sourceName": "NASA Launch Schedule",
@@ -163,13 +156,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-17T08:32:37.697Z",
+      "updatedAt": "2026-09-18T08:07:34.397Z",
       "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-spacex-falcon-9-launches-from-us-space-force-bas-d76392543a",
-        "video-spacex-launch-live-falcon-9-rocket-launches-ussf-a58f112c2e"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",
@@ -187,7 +177,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-09-17T08:32:37.341Z",
+      "startsAt": "2026-09-18T08:07:34.026Z",
       "summary": "Roscosmos Progress 97 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -199,13 +189,10 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-17T08:32:37.697Z",
+      "updatedAt": "2026-09-18T08:07:34.397Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-spacex-falcon-9-launches-from-us-space-force-bas-d76392543a",
-        "video-spacex-launch-live-falcon-9-rocket-launches-ussf-a58f112c2e"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",

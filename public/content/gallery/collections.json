@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T08:32:38.150Z",
+  "updatedAt": "2026-09-18T08:07:34.825Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 207 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 191 km SE of Mata-Utu, Wallis and Futuna.",
+          "summary": "USGS reported 186 earthquake events in the last 24 hours. Strongest reported event: M6.5 near 165 km W of Nikolski, Alaska.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 17, 08:32 AM",
+          "metricValue": "Sep 18, 08:07 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",

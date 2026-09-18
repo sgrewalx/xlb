@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T08:32:37.085Z",
-  "sourceSnapshot": "2026-09-17T06:00:00.000Z",
+  "updatedAt": "2026-09-18T08:07:33.794Z",
+  "sourceSnapshot": "2026-09-18T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -10,8 +10,8 @@
   "summary": {
     "pageCount": 11,
     "sitemapPathCount": 25,
-    "opportunityCount": 12,
-    "searchOpportunityCount": 4,
+    "opportunityCount": 11,
+    "searchOpportunityCount": 3,
     "engagementOpportunityCount": 0,
     "indexWatchCount": 8
   },
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
       "signal": "search_ctr_lift",
-      "score": 198,
+      "score": 210,
       "risk": "medium",
       "title": "Improve search snippet for /gallery",
       "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,9 +29,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 66,
+        "searchImpressions": 70,
         "searchCtr": 0,
-        "avgPosition": 3.8181818181818183,
+        "avgPosition": 3.942857142857143,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -57,7 +57,7 @@
         "visits": 0,
         "searchImpressions": 15,
         "searchCtr": 0,
-        "avgPosition": 8.8,
+        "avgPosition": 8,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -266,32 +266,6 @@
         "searchImpressions": 0,
         "searchCtr": 0,
         "avgPosition": 0,
-        "watchClicks": 0,
-        "engagementScore": 0
-      },
-      "inputQuality": {
-        "quality": "live-api",
-        "hasLiveGa4": false,
-        "hasLiveSearchConsole": true,
-        "notes": "Snapshot includes live API data and can be used for supervised optimization decisions."
-      }
-    },
-    {
-      "id": "traffic-search_striking_distance-events-nasa-s-spacex-crs-35",
-      "path": "/events/nasa-s-spacex-crs-35",
-      "signal": "search_striking_distance",
-      "score": 2,
-      "risk": "medium",
-      "title": "Strengthen ranking support for /events/nasa-s-spacex-crs-35",
-      "hypothesis": "/events/nasa-s-spacex-crs-35 is close enough in search results that better supporting copy and internal links may improve rank.",
-      "successMetric": "Average Search Console position improves while impressions are maintained or increase.",
-      "recommendation": "Add clearer on-page context and link to it from the most relevant section page.",
-      "metrics": {
-        "pageviews": 0,
-        "visits": 0,
-        "searchImpressions": 15,
-        "searchCtr": 0,
-        "avgPosition": 8.8,
         "watchClicks": 0,
         "engagementScore": 0
       },
