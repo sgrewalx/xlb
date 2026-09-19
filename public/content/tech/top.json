@@ -1,19 +1,75 @@
 {
-  "updatedAt": "2026-09-19T00:47:00.161Z",
+  "updatedAt": "2026-09-19T05:17:07.295Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-would-australians-support-a-smart-glasses-ban-61d03455e5",
-      "title": "Would Australians support a smart glasses ban?",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+      "id": "tech-ebay-coupons-20-off-in-september-2026-eec211fdce",
+      "title": "eBay Coupons: 20% Off in September 2026",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ebay-coupon-code",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T23:15:10.000Z",
-      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "publishedAt": "2026-09-19T05:00:00.000Z",
+      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.wired.com/story/ebay-coupon-code"
+    },
+    {
+      "id": "tech-google-s-gemini-ai-hacked-three-companies-in-sec-c88bedc6d2",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-19T04:27:11.000Z",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d945/live/2ff63080-b3d7-11f1-87bc-d37d040ffc9c.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-how-to-stop-whatsapp-from-automatically-download-3bd1767953",
+      "title": "How to Stop WhatsApp From Automatically Downloading Photos and Videos: A Step-by-Step Guide",
+      "source": "Gadgets 360",
+      "url": "https://www.gadgets360.com/how-to/features/how-to-stop-whatsapp-from-automatically-downloading-photos-and-videos-a-step-by-step-guide-12049677",
+      "tag": "Technology",
+      "publishedAt": "2026-09-19T04:30:01.000Z",
+      "summary": "WhatsApp is capable of automatically downloading media files for users, including photos, videos, audio files, and documents. However, this feature can cause the storage of you...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-gemini-hacked-three-companies-in-first-known-bre-8922eca419",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/article71483440.ece",
+      "tag": "Technology",
+      "publishedAt": "2026-09-19T01:08:34.000Z",
+      "summary": "The hacks occurred ⁠in May during a cybersecurity test conducted by Irregular, an independent company that conducts cybersecurity evaluations",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://th-i.thgim.com/public/incoming/ivq191/article71483446.ece/alternates/LANDSCAPE_1200/2026-08-25T120003Z_2023830736_RC2UNLARTDCK_RTRMADP_3_ALPHABET-CLOUD-LEGAL-AI.JPG",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/article71483440.ece"
+    },
+    {
+      "id": "tech-design-with-purpose-how-jaipur-s-saraswati-rugs--103fc831e6",
+      "title": "Design with purpose: How Jaipur’s Saraswati Rugs places Indian craft on the global map",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/design-purpose-jaipur-saraswati-rugs-creativity-photography",
+      "tag": "Technology",
+      "publishedAt": "2026-09-19T02:10:00.000Z",
+      "summary": "In this photo essay, we showcase the phases of rug making from Saraswati Rugs in Jaipur, along with leader insights.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-india-forces-caller-id-apps-to-feed-spam-reports-1d33cebcb0",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
+      "tag": "Technology",
+      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-ai-almost-led-the-us-military-to-start-a-war-wit-0fad1ad70d",
@@ -29,16 +85,6 @@
       "imageSourceUrl": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says"
     },
     {
-      "id": "tech-tilly-norwood-s-press-tour-is-going-about-as-wel-d8b594ba56",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-09-19T00:12:07.000Z",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-ai-hallucination-of-chinese-nuclear-components-a-b300ad04ca",
       "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
       "source": "Ars Technica",
@@ -47,23 +93,10 @@
       "publishedAt": "2026-09-18T20:26:33.000Z",
       "summary": "But the military's overall use of AI seems to be accelerating.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
-      "imageCredit": "Getty Images",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
+      "imageCredit": "Aurich Lawson | Getty Images",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report"
-    },
-    {
-      "id": "tech-apple-watch-ultra-4-review-the-series-12-is-clos-8bfebb83a5",
-      "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
-      "source": "Wired",
-      "url": "https://www.wired.com/review/apple-watch-ultra-4",
-      "tag": "Running",
-      "publishedAt": "2026-09-18T19:36:48.000Z",
-      "summary": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/review/apple-watch-ultra-4"
     },
     {
       "id": "tech-openai-and-microsoft-knew-they-were-starting-a-d-5ddb092b2c",
@@ -76,67 +109,43 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-nike-launches-alphafly-4-for-marathon-runners-73dcb7ba4d",
-      "title": "Nike launches Alphafly 4 for marathon runners",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/life-and-style/nike-launches-alphafly-4-for-marathon-runners/article71480519.ece",
-      "tag": "Running",
-      "publishedAt": "2026-09-18T11:27:10.000Z",
-      "summary": "The latest iteration of Nike’s Alphafly is said to balance thrust, cushioning and comfort, offering stability for runners to pace well and stay in the right form",
+      "id": "tech-flock-offers-employees-buyouts-as-customers-flee-57a114e098",
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees",
+      "tag": "Technology",
+      "publishedAt": "2026-09-19T02:22:54.000Z",
+      "summary": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/sci-tech/technology/vzkcxh/article71480484.ece/alternates/LANDSCAPE_1200/006_nike-alphafly-4-mens-1.jpg",
+      "image": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/master/pass/2265184841",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/life-and-style/nike-launches-alphafly-4-for-marathon-runners/article71480519.ece"
+      "imageSourceUrl": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees"
     },
     {
-      "id": "tech-startup-news-and-updates-daily-roundup-september-40bde58e04",
-      "title": "Startup news and updates: Daily roundup (September 18, 2026)",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-18-2026",
+      "id": "tech-tech-now-bfbc07ca28",
+      "title": "Tech Now",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T15:03:35.000Z",
-      "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, September 18, 2026.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-trai-adds-new-rules-for-spam-calls-automated-cal-2d9312a747",
-      "title": "TRAI Adds New Rules for Spam Calls, Automated Calls and A2P Communications",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/ai/news/trai-ucc-rules-revision-with-ai-spam-detection-a2p-call-charges-12065578",
+      "id": "tech-would-australians-support-a-smart-glasses-ban-61d03455e5",
+      "title": "Would Australians support a smart glasses ban?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T14:24:40.000Z",
-      "summary": "TRAI has revised its rules for unsolicited commercial communications, giving telecom operators a framework to identify suspected spam numbers and take action against repeat offe...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-a-startup-that-builds-other-startups-raised-100m-6009ea8f2b",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
-      "tag": "Technology",
-      "publishedAt": "2026-09-18T23:25:01.000Z",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-anthropic-is-operating-a-lab-that-conducts-biolo-819164455d",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
-      "tag": "Technology",
-      "publishedAt": "2026-09-18T23:13:31.000Z",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-hallucination-nearly-triggers-us-military-ope-cfb97e8247",
-      "title": "AI hallucination nearly triggers US military operation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
-      "tag": "Technology",
-      "publishedAt": "2026-09-18T23:12:32.000Z",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-18T23:15:10.000Z",
+      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
