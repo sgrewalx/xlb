@@ -1,39 +1,56 @@
 {
-  "updatedAt": "2026-09-18T22:03:36.837Z",
+  "updatedAt": "2026-09-19T00:47:00.161Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-sony-music-and-umg-say-suno-s-new-models-still-v-fa761218c9",
-      "title": "Sony Music and UMG say Suno's new models still violates their copyright",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright",
+      "id": "tech-would-australians-support-a-smart-glasses-ban-61d03455e5",
+      "title": "Would Australians support a smart glasses ban?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T21:06:27.000Z",
-      "summary": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
+      "publishedAt": "2026-09-18T23:15:10.000Z",
+      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/l-intro-1789765357.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-anthropic-s-first-embedded-evaluator-is-accentur-d99d55f956",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "id": "tech-ai-almost-led-the-us-military-to-start-a-war-wit-0fad1ad70d",
+      "title": "AI almost led the US military to start a war with China, report says",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says",
+      "tag": "Technology",
+      "publishedAt": "2026-09-18T22:44:45.000Z",
+      "summary": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says"
+    },
+    {
+      "id": "tech-tilly-norwood-s-press-tour-is-going-about-as-wel-d8b594ba56",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T21:44:33.000Z",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "publishedAt": "2026-09-19T00:12:07.000Z",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-openai-and-microsoft-knew-they-were-starting-a-d-5ddb092b2c",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "id": "tech-ai-hallucination-of-chinese-nuclear-components-a-b300ad04ca",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T21:07:24.000Z",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"do...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-18T20:26:33.000Z",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
+      "imageCredit": "Getty Images",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report"
     },
     {
       "id": "tech-apple-watch-ultra-4-review-the-series-12-is-clos-8bfebb83a5",
@@ -49,18 +66,14 @@
       "imageSourceUrl": "https://www.wired.com/review/apple-watch-ultra-4"
     },
     {
-      "id": "tech-faa-tees-up-875m-ai-tool-to-help-manage-air-traf-918b9538b9",
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+      "id": "tech-openai-and-microsoft-knew-they-were-starting-a-d-5ddb092b2c",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T19:20:50.000Z",
-      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg",
-      "imageCredit": "Andrew Harnik/Getty Images",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion"
+      "publishedAt": "2026-09-18T21:07:24.000Z",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"do...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-nike-launches-alphafly-4-for-marathon-runners-73dcb7ba4d",
@@ -74,19 +87,6 @@
       "image": "https://th-i.thgim.com/public/sci-tech/technology/vzkcxh/article71480484.ece/alternates/LANDSCAPE_1200/006_nike-alphafly-4-mens-1.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.thehindu.com/life-and-style/nike-launches-alphafly-4-for-marathon-runners/article71480519.ece"
-    },
-    {
-      "id": "tech-the-virtual-worlds-where-robots-are-trained-acde884d8f",
-      "title": "The virtual worlds where robots are trained",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-17T23:00:47.000Z",
-      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "tech-startup-news-and-updates-daily-roundup-september-40bde58e04",
@@ -109,39 +109,33 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-clicks-communicator-shipments-begin-in-december-77d341c4cb",
-      "title": "Clicks Communicator shipments begin in December",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december",
-      "tag": "Technology",
-      "publishedAt": "2026-09-18T20:53:52.000Z",
-      "summary": "The BlackBerry-like phone also got a spec bump and an impending price hike.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/clicks-communicator-shipments-begin-in-december/l-intro-1789764623.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december"
-    },
-    {
-      "id": "tech-what-to-expect-at-meta-connect-2026-new-ai-glass-cbbac7f733",
-      "title": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more",
-      "tag": "Technology",
-      "publishedAt": "2026-09-18T20:35:11.000Z",
-      "summary": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more"
-    },
-    {
-      "id": "tech-automattic-names-interim-cfo-after-exec-departur-0bf98f8b66",
-      "title": "Automattic names interim CFO after exec departures",
+      "id": "tech-a-startup-that-builds-other-startups-raised-100m-6009ea8f2b",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
       "tag": "Technology",
-      "publishedAt": "2026-09-18T20:25:22.000Z",
-      "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+      "publishedAt": "2026-09-18T23:25:01.000Z",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-is-operating-a-lab-that-conducts-biolo-819164455d",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+      "tag": "Technology",
+      "publishedAt": "2026-09-18T23:13:31.000Z",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-ai-hallucination-nearly-triggers-us-military-ope-cfb97e8247",
+      "title": "AI hallucination nearly triggers US military operation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+      "tag": "Technology",
+      "publishedAt": "2026-09-18T23:12:32.000Z",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
