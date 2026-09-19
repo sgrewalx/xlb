@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-18T08:07:34.825Z",
-  "snapshotFile": "merged-2026-09-18.json",
-  "capturedAt": "2026-09-18T06:00:00.000Z",
+  "updatedAt": "2026-09-19T07:56:55.711Z",
+  "snapshotFile": "merged-2026-09-19.json",
+  "capturedAt": "2026-09-19T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -12,7 +12,7 @@
     {
       "path": "/",
       "pageviews": 0,
-      "searchImpressions": 6,
+      "searchImpressions": 5,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -22,7 +22,7 @@
     {
       "path": "/advertise",
       "pageviews": 0,
-      "searchImpressions": 4,
+      "searchImpressions": 3,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -32,7 +32,7 @@
     {
       "path": "/contact",
       "pageviews": 0,
-      "searchImpressions": 5,
+      "searchImpressions": 3,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -102,7 +102,7 @@
     {
       "path": "/tech",
       "pageviews": 0,
-      "searchImpressions": 5,
+      "searchImpressions": 2,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,

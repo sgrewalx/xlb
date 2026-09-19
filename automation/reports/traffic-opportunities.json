@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-18T08:07:33.794Z",
-  "sourceSnapshot": "2026-09-18T06:00:00.000Z",
+  "updatedAt": "2026-09-19T07:56:54.482Z",
+  "sourceSnapshot": "2026-09-19T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -289,9 +289,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 6,
+        "searchImpressions": 5,
         "searchCtr": 0,
-        "avgPosition": 12.833333333333334,
+        "avgPosition": 13.8,
         "watchClicks": 0,
         "engagementScore": 0
       },
