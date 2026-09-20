@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T07:56:55.439Z",
+  "generatedAt": "2026-09-20T08:27:56.563Z",
   "staticItemCount": 1,
   "sources": [
     {
@@ -14,11 +14,11 @@
       "id": "usgs-earthquakes",
       "status": "healthy",
       "fallbackUsed": false,
-      "fetchedSeedCount": 290,
+      "fetchedSeedCount": 249,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "strongestMagnitude": 5.5,
-      "largeCount": 14,
+      "strongestMagnitude": 5.3,
+      "largeCount": 16,
       "sourceMode": "live",
       "manifestPublishable": true
     },
@@ -29,7 +29,7 @@
       "fetchedSeedCount": 358,
       "freshSeedCount": 1,
       "staleSeedCount": 0,
-      "latestKp": 0,
+      "latestKp": 2,
       "recentPeakKp": 3,
       "alertLevel": "quiet"
     }

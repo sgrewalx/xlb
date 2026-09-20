@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T07:56:54.482Z",
-  "sourceSnapshot": "2026-09-19T06:00:00.000Z",
+  "updatedAt": "2026-09-20T08:27:55.946Z",
+  "sourceSnapshot": "2026-09-20T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
       "signal": "search_ctr_lift",
-      "score": 210,
+      "score": 213,
       "risk": "medium",
       "title": "Improve search snippet for /gallery",
       "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,9 +29,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 70,
+        "searchImpressions": 71,
         "searchCtr": 0,
-        "avgPosition": 3.942857142857143,
+        "avgPosition": 3.971830985915493,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -280,7 +280,7 @@
       "id": "traffic-search_striking_distance-home",
       "path": "/",
       "signal": "search_striking_distance",
-      "score": 0,
+      "score": 1,
       "risk": "medium",
       "title": "Strengthen ranking support for /",
       "hypothesis": "/ is close enough in search results that better supporting copy and internal links may improve rank.",
@@ -289,9 +289,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 5,
+        "searchImpressions": 6,
         "searchCtr": 0,
-        "avgPosition": 13.8,
+        "avgPosition": 11.833333333333334,
         "watchClicks": 0,
         "engagementScore": 0
       },
