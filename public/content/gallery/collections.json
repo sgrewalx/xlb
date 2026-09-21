@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:27:56.986Z",
+  "updatedAt": "2026-09-21T08:47:27.816Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 249 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 108 km ESE of Yigo Village, Guam.",
+          "summary": "USGS reported 217 earthquake events in the last 24 hours. Strongest reported event: M6.4 near 49 km NNE of Kainantu, Papua New Guinea.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 20, 08:27 AM",
+          "metricValue": "Sep 21, 08:47 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -80,7 +80,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 2. Recent peak reached Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",

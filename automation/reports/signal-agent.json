@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-20T08:27:56.986Z",
-  "snapshotFile": "merged-2026-09-20.json",
-  "capturedAt": "2026-09-20T06:00:00.000Z",
+  "updatedAt": "2026-09-21T08:47:27.816Z",
+  "snapshotFile": "merged-2026-09-21.json",
+  "capturedAt": "2026-09-21T06:00:00.000Z",
   "sources": {
     "cloudflare": false,
     "searchConsole": true,
@@ -12,7 +12,7 @@
     {
       "path": "/",
       "pageviews": 0,
-      "searchImpressions": 6,
+      "searchImpressions": 5,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -42,7 +42,7 @@
     {
       "path": "/events/nasa-s-spacex-crs-35",
       "pageviews": 0,
-      "searchImpressions": 15,
+      "searchImpressions": 16,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -52,7 +52,7 @@
     {
       "path": "/gallery",
       "pageviews": 0,
-      "searchImpressions": 71,
+      "searchImpressions": 151,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
@@ -102,7 +102,7 @@
     {
       "path": "/tech",
       "pageviews": 0,
-      "searchImpressions": 2,
+      "searchImpressions": 1,
       "engagementScore": 0,
       "returnVisitors": 0,
       "videoStarts": 0,
