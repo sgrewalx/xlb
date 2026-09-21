@@ -1,33 +1,66 @@
 {
-  "updatedAt": "2026-09-21T17:25:28.405Z",
+  "updatedAt": "2026-09-21T21:24:13.682Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-tesla-will-soon-roll-out-fsd-supervised-in-the-c-fc1e9daaa3",
-      "title": "Tesla will soon roll out FSD Supervised in the Czech Republic",
+      "id": "tech-does-your-iphone-s-safari-browser-privacy-featur-35c71607a0",
+      "title": "Does your iPhone's Safari browser privacy features actually make you safer?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2264292/tesla-will-soon-roll-out-fsd-supervised-in-the-czech-republic",
+      "url": "https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T17:17:02.000Z",
-      "summary": "Its foothold in the EU may be growing, but larger countries are still wary of the self-driving tech.",
+      "publishedAt": "2026-09-21T20:00:00.000Z",
+      "summary": "Safari on iPhone is more private than many other browsers by default, but it can't keep your information safe from everything.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/tesla-will-soon-roll-out-fsd-supervised-in-the-czech-republic/l-intro-1790010960.jpg",
+      "image": "https://www.engadget.com/img/gallery/does-your-iphones-safari-browser-privacy-features-actually-make-you-safer/l-intro-1789478473.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2264292/tesla-will-soon-roll-out-fsd-supervised-in-the-czech-republic"
+      "imageSourceUrl": "https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe"
     },
     {
-      "id": "tech-california-settles-lawsuit-against-paramount-war-6c6f6be9c0",
-      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates",
+      "id": "tech-ai-tariffs-rare-minerals-what-to-expect-from-tru-4c70d04e7c",
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T16:15:26.000Z",
-      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+      "publishedAt": "2026-09-21T18:33:02.000Z",
+      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
-      "imageCredit": "Getty Images | SOPA Images",
+      "image": "https://media.wired.com/photos/6ab15a857fffb9bb745696eb/master/pass/trumpxi.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates"
+      "imageSourceUrl": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping"
+    },
+    {
+      "id": "tech-california-tightens-rules-on-ai-data-center-ener-35efca671d",
+      "title": "California tightens rules on AI data center energy and water use",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "tag": "Technology",
+      "publishedAt": "2026-09-21T20:29:45.000Z",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times....",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-openai-forms-math-advisory-group-as-its-ai-resol-616913fba1",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+      "tag": "Technology",
+      "publishedAt": "2026-09-21T20:15:58.000Z",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-google-confirms-gemini-models-hacked-three-compa-5f44e27fd8",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-09-21T16:57:26.000Z",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "imageCredit": "Aurich Lawson",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026"
     },
     {
       "id": "tech-inside-woi-india-s-kashmir-retreat-founders-mou--ebe980eaa0",
@@ -37,26 +70,6 @@
       "tag": "Technology",
       "publishedAt": "2026-09-21T17:16:11.000Z",
       "summary": "WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-oura-s-2-2b-ipo-is-mostly-a-payday-for-existing--da443b4cb1",
-      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders",
-      "tag": "Technology",
-      "publishedAt": "2026-09-21T16:45:47.000Z",
-      "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-bungie-says-it-s-not-done-with-destiny-and-will--40f6ff1be3",
-      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-      "tag": "Technology",
-      "publishedAt": "2026-09-21T16:35:59.000Z",
-      "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverse...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -71,19 +84,6 @@
       "image": "https://th-i.thgim.com/public/news/national/qa3fm/article71492204.ece/alternates/LANDSCAPE_1200/iStock-1223957183.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.thehindu.com/news/national/government-dissolves-37-year-old-digital-communications-commission/article71492164.ece"
-    },
-    {
-      "id": "tech-here-s-the-ifixit-repairability-rating-for-the-i-ee60c51901",
-      "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability",
-      "tag": "Technology",
-      "publishedAt": "2026-09-21T14:15:09.000Z",
-      "summary": "It’s actually pretty good for an iPhone, given Apple’s long-standing reticence to make its products repairable.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6ab12864df29604136e308dd/master/pass/Aperture-(4x3).gif",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability"
     },
     {
       "id": "tech-realme-16-pro-5g-harry-potter-edition-first-impr-46246dfa25",
@@ -109,43 +109,43 @@
       "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-engadget-indie-pitch-dressmaker-76a8ed6c6f",
-      "title": "Engadget Indie Pitch: Dressmaker",
+      "id": "tech-the-eu-will-force-data-centers-to-disclose-their-3418b4b056",
+      "title": "The EU will force data centers to disclose their energy and water use",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2264203/engadget-indie-pitch-dressmaker",
+      "url": "https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T17:00:00.000Z",
-      "summary": "The viral indie game Dressmaker hits Steam today, so here's a juicy QA with the dev team at Cozy Lives.",
+      "publishedAt": "2026-09-21T19:53:53.000Z",
+      "summary": "The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/engadget-indie-pitch-dressmaker/l-intro-1790006620.jpg",
+      "image": "https://www.engadget.com/img/gallery/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/l-intro-1790020155.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2264203/engadget-indie-pitch-dressmaker"
+      "imageSourceUrl": "https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use"
     },
     {
-      "id": "tech-google-vs-samsung-what-features-set-their-digita-57bcd75c89",
-      "title": "Google Vs Samsung: What features set their digital wallets apart?",
+      "id": "tech-x-now-tells-users-when-local-laws-have-reduced-t-38b95d6203",
+      "title": "X now tells users when local laws have reduced their posts' visibility",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2261083/google-vs-samsung-digital-wallet-features-comparison",
+      "url": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T16:30:00.000Z",
-      "summary": "Google and Samsung's digital wallets are solid options for storing cards, passes, tickets and IDs on Android devices, but there are some subtle differences.",
+      "publishedAt": "2026-09-21T19:44:35.000Z",
+      "summary": "The latest addition to X's Under the Hood feature could stave off claims around shadowbanning.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/google-vs-samsung-what-features-set-their-digital-wallets-apart/l-intro-1789650004.jpg",
+      "image": "https://www.engadget.com/img/gallery/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/l-intro-1790019777.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2261083/google-vs-samsung-digital-wallet-features-comparison"
+      "imageSourceUrl": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility"
     },
     {
-      "id": "tech-why-is-there-a-waitlist-for-siri-ai-in-ios-27-84636c4430",
-      "title": "Why is there a waitlist for Siri AI in iOS 27?",
+      "id": "tech-here-s-why-apple-s-mac-studio-has-become-so-expe-707e0512be",
+      "title": "Here's why Apple's Mac Studio has become so expensive",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist",
+      "url": "https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "summary": "Siri AI brings a lot of improvements, but you might not be able to use it for a while, even with iOS 27 and a compatible device.",
+      "publishedAt": "2026-09-21T18:30:00.000Z",
+      "summary": "A big part of the story is soaring memory and storage prices, but other factors come into play as well.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/why-is-there-a-waitlist-for-siri-ai-in-ios-27/l-intro-1789650141.jpg",
+      "image": "https://www.engadget.com/img/gallery/heres-why-apples-mac-studio-has-become-so-expensive/l-intro-1790010905.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist"
+      "imageSourceUrl": "https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive"
     }
   ]
 }
