@@ -1,48 +1,47 @@
 {
-  "updatedAt": "2026-09-21T21:29:02.336Z",
+  "updatedAt": "2026-09-22T00:26:26.399Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-australia-news-live-chalmers-says-migration-need-ad82a44a58",
-      "title": "Australia news live: Chalmers says migration needed for falling birth rate; City of Sydney bans smartglasses",
+      "id": "news-cnn-ms-now-and-politico-file-lawsuit-against-tru-dce516bf4b",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-22T00:16:06.000Z",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-australia-news-live-chalmers-says-monetised-miso-fe43f4b68d",
+      "title": "Australia news live: Chalmers says ‘monetised misogyny’ fuelling DV; Bragg to propose using super to secure mortgages",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
       "tag": "Europe",
-      "publishedAt": "2026-09-21T21:25:02.000Z",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Anthony Albanese has joined the leaders of more than 20 countries in signing a statement...",
+      "publishedAt": "2026-09-22T00:09:39.000Z",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Jim Chalmers was also asked earlier if the government would support a national royal comm...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/1d07b47ba64e0d638bd50a441aa2ed0d011b36e1/282_0_2500_2000/master/2500.jpg?width=460&quality=85&auto=format&fit=max&s=84c5e058ee82c3db1b578bb1ec644746",
-      "imageCredit": "Photograph: Hilary Wardaugh/AAP",
+      "image": "https://i.guim.co.uk/img/media/b14a7051adfb48d8c726dc76cbe60d1833d1fbd4/854_223_4080_3265/master/4080.jpg?width=460&quality=85&auto=format&fit=max&s=1c3aeac600af9caf493b473229cefd2d",
+      "imageCredit": "Photograph: Lukas Coch/AAP",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb"
     },
     {
-      "id": "news-spectre-of-rogue-a-i-looms-over-u-n-talks-on-dig-1c91815ed2",
-      "title": "Spectre of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
-      "tag": "US",
-      "publishedAt": "2026-09-21T21:08:36.000Z",
-      "summary": "Diplomats, dignitaries and tech experts gathered amid the United Nations General Assembly to debate how to address the threats and harness the potential of artificial intelligence.",
+      "id": "news-at-un-s-jaishankar-discusses-regional-global-iss-d383e9a83f",
+      "title": "At UN, S Jaishankar Discusses Regional, Global Issues With Foreign Ministers",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/eam-jaishankar-discusses-regional-global-issues-with-foreign-counterparts-on-margins-of-unga-session-12078527",
+      "tag": "India",
+      "publishedAt": "2026-09-21T23:27:59.000Z",
+      "summary": "S Jaishankar said that regional and global issues, specifically the Ukraine & Gulf crisis were discussed. He Also exchanged views on multilateral issues, including the reform of...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-unga-ai-1-tkgl/21int-unga-ai-1-tkgl-mediumSquareAt3X.jpg",
-      "imageAlt": "The United Nations headquarters on Monday as world leaders convened in New York for the General Assembly.",
-      "imageCredit": "Angelina Katsanis for The New York Times",
+      "image": "https://c.ndtvimg.com/2026-09/ra295rso_s-jaishankar_625x300_22_September_26.jpeg",
+      "imageAlt": "S Jaishankar discussed regional and global issues with foreign counterparts on margins of UNGA session.",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html"
-    },
-    {
-      "id": "news-paramount-settles-lawsuit-with-us-states-clearin-d754b9f022",
-      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-      "tag": "US",
-      "publishedAt": "2026-09-21T21:06:26.000Z",
-      "summary": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b081/live/0dfb6860-b5ee-11f1-aff1-eb6baa3fda4f.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.ndtv.com/india-news/eam-jaishankar-discusses-regional-global-issues-with-foreign-counterparts-on-margins-of-unga-session-12078527"
     }
   ]
 }
