@@ -1,19 +1,53 @@
 {
-  "updatedAt": "2026-09-21T21:24:13.682Z",
+  "updatedAt": "2026-09-22T00:23:32.138Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-does-your-iphone-s-safari-browser-privacy-featur-35c71607a0",
-      "title": "Does your iPhone's Safari browser privacy features actually make you safer?",
+      "id": "tech-why-is-your-laptop-fan-so-loud-dcd9ed8033",
+      "title": "Why is your laptop fan so loud?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe",
+      "url": "https://www.engadget.com/2261591/why-laptop-fan-so-loud",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T20:00:00.000Z",
-      "summary": "Safari on iPhone is more private than many other browsers by default, but it can't keep your information safe from everything.",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "summary": "Laptop fans do an important job, but sometimes they get annoyingly loud. Here's what it might mean and whether you should be concerned.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/does-your-iphones-safari-browser-privacy-features-actually-make-you-safer/l-intro-1789478473.jpg",
+      "image": "https://www.engadget.com/img/gallery/why-is-your-laptop-fan-so-loud/l-intro-1789667073.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe"
+      "imageSourceUrl": "https://www.engadget.com/2261591/why-laptop-fan-so-loud"
+    },
+    {
+      "id": "tech-muse-meta-s-extraordinarily-privileged-ai-assist-c21616ee1f",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "tag": "Technology",
+      "publishedAt": "2026-09-21T22:24:38.000Z",
+      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "imageCredit": "Getty Images",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
+    },
+    {
+      "id": "tech-a-cut-cable-disrupted-hundreds-of-flights-across-819bb8cd6a",
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "tag": "Technology",
+      "publishedAt": "2026-09-21T23:48:56.000Z",
+      "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administr...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-the-man-who-built-apple-s-stores-doesn-t-buy-sil-0f7f14951e",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+      "tag": "Technology",
+      "publishedAt": "2026-09-21T23:44:28.000Z",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-ai-tariffs-rare-minerals-what-to-expect-from-tru-4c70d04e7c",
@@ -29,50 +63,6 @@
       "imageSourceUrl": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping"
     },
     {
-      "id": "tech-california-tightens-rules-on-ai-data-center-ener-35efca671d",
-      "title": "California tightens rules on AI data center energy and water use",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "tag": "Technology",
-      "publishedAt": "2026-09-21T20:29:45.000Z",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times....",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-openai-forms-math-advisory-group-as-its-ai-resol-616913fba1",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
-      "tag": "Technology",
-      "publishedAt": "2026-09-21T20:15:58.000Z",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-google-confirms-gemini-models-hacked-three-compa-5f44e27fd8",
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
-      "tag": "Technology",
-      "publishedAt": "2026-09-21T16:57:26.000Z",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-      "imageCredit": "Aurich Lawson",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026"
-    },
-    {
-      "id": "tech-inside-woi-india-s-kashmir-retreat-founders-mou--ebe980eaa0",
-      "title": "Inside WOI India’s Kashmir Retreat: Founders, MoU and ₹2 Crore Commitment",
-      "source": "YourStory",
-      "url": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups",
-      "tag": "Technology",
-      "publishedAt": "2026-09-21T17:16:11.000Z",
-      "summary": "WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-government-dissolves-37-year-old-digital-communi-293756422e",
       "title": "Government dissolves 37-year-old Digital Communications Commission",
       "source": "The Hindu Technology",
@@ -84,6 +74,16 @@
       "image": "https://th-i.thgim.com/public/news/national/qa3fm/article71492204.ece/alternates/LANDSCAPE_1200/iStock-1223957183.jpg",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.thehindu.com/news/national/government-dissolves-37-year-old-digital-communications-commission/article71492164.ece"
+    },
+    {
+      "id": "tech-inside-woi-india-s-kashmir-retreat-founders-mou--ebe980eaa0",
+      "title": "Inside WOI India’s Kashmir Retreat: Founders, MoU and ₹2 Crore Commitment",
+      "source": "YourStory",
+      "url": "https://yourstory.com/2026/09/woi-india-kashmir-leaders-retreat-jkedi-shurukar-startups",
+      "tag": "Technology",
+      "publishedAt": "2026-09-21T17:16:11.000Z",
+      "summary": "WOI India’s Kashmir retreat united 40+ startup leaders, signed a JKEDI MoU and committed ₹2 crore to Shurukar for founder growth.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-realme-16-pro-5g-harry-potter-edition-first-impr-46246dfa25",
@@ -109,43 +109,43 @@
       "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-the-eu-will-force-data-centers-to-disclose-their-3418b4b056",
-      "title": "The EU will force data centers to disclose their energy and water use",
+      "id": "tech-these-drones-could-cover-up-to-98-percent-of-the-fd588e773d",
+      "title": "These drones could cover up to 98 percent of the world's oceans by 2028",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use",
+      "url": "https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T19:53:53.000Z",
-      "summary": "The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards.",
+      "publishedAt": "2026-09-21T23:30:00.000Z",
+      "summary": "New ocean-sensing drones are being built to withstand the deepest depths of the ocean.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/l-intro-1790020155.jpg",
+      "image": "https://www.engadget.com/img/gallery/these-drones-could-cover-up-to-98-percent-of-the-worlds-oceans-by-2028/l-intro-1789666902.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use"
+      "imageSourceUrl": "https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028"
     },
     {
-      "id": "tech-x-now-tells-users-when-local-laws-have-reduced-t-38b95d6203",
-      "title": "X now tells users when local laws have reduced their posts' visibility",
+      "id": "tech-how-to-turn-your-old-windows-pc-into-a-chromeboo-e22ab886e1",
+      "title": "How to turn your old Windows PC into a Chromebook for free",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility",
+      "url": "https://www.engadget.com/2261523/how-to-turn-your-old-windows-pc-into-chromebook-free",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T19:44:35.000Z",
-      "summary": "The latest addition to X's Under the Hood feature could stave off claims around shadowbanning.",
+      "publishedAt": "2026-09-21T23:00:00.000Z",
+      "summary": "Don't count your old Windows laptop out yet. Installing ChromeOS Flex is a great option to keep it usable, even if it's not as fast as it once was.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/l-intro-1790019777.jpg",
+      "image": "https://www.engadget.com/img/gallery/how-to-turn-your-old-windows-pc-into-a-chromebook-for-free/l-intro-1789665326.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility"
+      "imageSourceUrl": "https://www.engadget.com/2261523/how-to-turn-your-old-windows-pc-into-chromebook-free"
     },
     {
-      "id": "tech-here-s-why-apple-s-mac-studio-has-become-so-expe-707e0512be",
-      "title": "Here's why Apple's Mac Studio has become so expensive",
+      "id": "tech-wired-vs-wireless-keyboards-is-there-really-a-di-0675c72a0a",
+      "title": "Wired vs. wireless keyboards: Is there really a difference in performance?",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive",
+      "url": "https://www.engadget.com/2261521/wired-vs-wireless-keyboard-performance-differences-explained",
       "tag": "Technology",
-      "publishedAt": "2026-09-21T18:30:00.000Z",
-      "summary": "A big part of the story is soaring memory and storage prices, but other factors come into play as well.",
+      "publishedAt": "2026-09-21T22:30:00.000Z",
+      "summary": "Wireless keyboards introduce convenience and portability, but they can't quite keep up with wired keyboards in some cases.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/heres-why-apples-mac-studio-has-become-so-expensive/l-intro-1790010905.jpg",
+      "image": "https://www.engadget.com/img/gallery/wired-vs-wireless-keyboards-is-there-really-a-difference-in-performance/l-intro-1789665077.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive"
+      "imageSourceUrl": "https://www.engadget.com/2261521/wired-vs-wireless-keyboard-performance-differences-explained"
     }
   ]
 }
