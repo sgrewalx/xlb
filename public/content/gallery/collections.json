@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T08:47:27.816Z",
+  "updatedAt": "2026-09-22T08:25:44.350Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 217 earthquake events in the last 24 hours. Strongest reported event: M6.4 near 49 km NNE of Kainantu, Papua New Guinea.",
+          "summary": "USGS reported 241 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 97 km S of Sarangani, Philippines.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 21, 08:47 AM",
+          "metricValue": "Sep 22, 08:25 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
