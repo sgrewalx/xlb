@@ -1,47 +1,48 @@
 {
-  "updatedAt": "2026-09-22T15:17:57.581Z",
+  "updatedAt": "2026-09-22T19:26:02.454Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-u-n-live-updates-trump-says-he-faces-choice-to-m-d9ef79eb6f",
+      "id": "news-what-is-the-white-house-pool-and-why-is-it-in-a--9884e5e884",
+      "title": "What is the White House pool and why is it in a row with Trump?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-22T19:25:16.000Z",
+      "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ffa/live/e7abbca0-b665-11f1-b785-7d19738c6de2.png",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-doordash-to-pay-131-5m-after-underpaying-new-yor-4260abed26",
+      "title": "DoorDash to pay $131.5m after underpaying New York workers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement",
+      "tag": "Europe",
+      "publishedAt": "2026-09-22T19:18:57.000Z",
+      "summary": "Company to award backpay to 264,000 workers as mayor Zohran Mamdani condemns use of ‘greedy algorithms’ DoorDash said it would pay $131.5m ⁠to settle a ​New York City government...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://i.guim.co.uk/img/media/6045a820bbc2f8aa0efdc9b84c104bc81c37fc5b/438_0_4380_3504/master/4380.jpg?width=460&quality=85&auto=format&fit=max&s=3101b3ac663ffdff738ba6876d1305a0",
+      "imageCredit": "Photograph: John Minchillo/AP",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.theguardian.com/us-news/2026/sep/22/doordash-new-york-settlement"
+    },
+    {
+      "id": "news-u-n-live-updates-trump-says-he-faces-choice-to-m-2db46afa1d",
       "title": "U.N. Live Updates: Trump Says He Faces Choice to Make a Deal or ‘Annihilate’ Iran",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
       "tag": "US",
-      "publishedAt": "2026-09-22T15:13:51.000Z",
-      "summary": "President Trump said that Iran had been “the bully of the Middle East, but they are the bully no longer.” Earlier, António Guterres, the U.N. secretary general, called on the Ge...",
+      "publishedAt": "2026-09-22T19:18:51.000Z",
+      "summary": "President Trump delivered the remark before a gathering where world leaders typically present themselves as champions of global harmony. Earlier, António Guterres, the U.N. secr...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22unga-live-promo-11am-mgpw/22unga-live-promo-11am-mgpw-mediumSquareAt3X.jpg",
-      "imageCredit": "Lexi Parra/The New York Times",
+      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22unga-live-promo245p/22unga-live-header245p-hfgj-mediumSquareAt3X.jpg",
+      "imageAlt": "President Emmanuel Macron of France delivering remarks to the United Nations General Assembly on Tuesday.",
+      "imageCredit": "Dave Sanders for The New York Times",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news"
-    },
-    {
-      "id": "news-rajya-sabha-polls-in-12-seats-on-october-16-2076ba60bb",
-      "title": "Rajya Sabha polls in 12 seats on October 16",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajya-sabha-polls-in-12-seats-on-october-16/article71495593.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-22T15:05:33.000Z",
-      "summary": "With BSP MP Ramji Gautam vacating his seat, party to be left without any MPs for first time since 1989; SP or allies may gain this seat in U.P., while BJP likely to gain a seat...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/tl57rn/article71496470.ece/alternates/LANDSCAPE_1200/MSME-DevelopmenGR0GDI6MA.4.jpg.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/rajya-sabha-polls-in-12-seats-on-october-16/article71495593.ece"
-    },
-    {
-      "id": "news-european-drugmakers-say-they-are-losing-ground-t-72020e7275",
-      "title": "European drugmakers say they are ‘losing ground’ to US and Chinese rivals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/22/european-drugmakers-losing-ground-us-chinese-rivals",
-      "tag": "Europe",
-      "publishedAt": "2026-09-22T15:04:10.000Z",
-      "summary": "Some of continent’s biggest pharma firms write to national leaders calling for action to safeguard their futures Some of Europe’s biggest pharmaceutical companies have said the...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/8580a014742f004869d45d989d1cc30707663c7d/255_0_5000_4000/master/5000.jpg?width=460&quality=85&auto=format&fit=max&s=b45e32c0324a01eff8c5f90b39a31c97",
-      "imageCredit": "Photograph: Aleksandr Matveev/Alamy",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/business/2026/sep/22/european-drugmakers-losing-ground-us-chinese-rivals"
     }
   ]
 }
