@@ -1,45 +1,41 @@
 {
-  "updatedAt": "2026-09-22T22:31:23.904Z",
+  "updatedAt": "2026-09-23T01:03:12.617Z",
   "items": [
     {
-      "id": "tech-a-new-skyline-of-data-centres-is-rising-from-the-8930ac67fe",
-      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-22T22:04:31.000Z",
-      "summary": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de91/live/e1c3c1e0-b6b3-11f1-a430-4d16ee157c41.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "tech-why-are-some-songs-grayed-out-on-apple-music-and-28fb2a2ab2",
-      "title": "Why are some songs grayed out on Apple Music (And how to fix it)",
+      "id": "tech-the-pros-and-cons-of-using-a-password-manager-ov-76780ef11a",
+      "title": "The pros and cons of using a password manager over an authenticator app",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2264296/apple-music-songs-grayed-out-why-how-to-fix",
+      "url": "https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons",
       "tag": "Technology",
-      "publishedAt": "2026-09-22T22:00:00.000Z",
-      "summary": "If you've had some songs in your Apple Music app turn gray and become unavailable, there are some things you can try.",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "summary": "There's no perfect solution, but different authentication methods can work better in some circumstances than others.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/why-are-some-songs-grayed-out-on-apple-music-and-how-to-fix-it/l-intro-1789394813.jpg",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-password-manager-over-an-authenticator-app/l-intro-1789411830.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2264296/apple-music-songs-grayed-out-why-how-to-fix"
+      "imageSourceUrl": "https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons"
     },
     {
-      "id": "tech-cities-across-us-oppose-trump-fcc-plan-to-preemp-5c5b562b86",
-      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules",
+      "id": "tech-will-a-switch-to-light-speed-cut-power-use-at-da-a04c223f2b",
+      "title": "Will a switch to light speed cut power use at data centres?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-22T20:38:30.000Z",
-      "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+      "publishedAt": "2026-09-22T23:03:48.000Z",
+      "summary": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg",
-      "imageCredit": "Getty Images | Andrey Denisyuk",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-openai-wants-to-consult-elite-mathematicians-abo-ac902d5c68",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "tag": "Technology",
+      "publishedAt": "2026-09-23T00:17:17.000Z",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path for...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }
