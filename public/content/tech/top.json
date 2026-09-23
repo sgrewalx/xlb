@@ -1,19 +1,65 @@
 {
-  "updatedAt": "2026-09-23T20:50:48.582Z",
+  "updatedAt": "2026-09-23T23:19:55.619Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-microsoft-s-new-surface-pro-12-and-surface-lapto-3244004de8",
-      "title": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips",
+      "id": "tech-indians-are-discovering-the-thrill-of-shopping-w-bafada5794",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-23T20:30:00.000Z",
-      "summary": "Microsoft's smaller Surface Pro 12 and Surface Laptop 13 are getting a much-needed chip upgrade.",
+      "publishedAt": "2026-09-23T23:14:10.000Z",
+      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/l-intro-1790183051.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-the-purpose-of-the-triangle-symbol-on-your-samsu-c4c6b33597",
+      "title": "The purpose of the triangle symbol on your Samsung Galaxy phone",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2265257/triangle-symbol-samsung-galaxy-phone-meaning-data-saver-setting",
+      "tag": "Technology",
+      "publishedAt": "2026-09-23T23:00:00.000Z",
+      "summary": "Samsung phones have a few different triangle symbols that can display in the status bar in different scenarios. This is how to tell what they mean.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/the-purpose-of-the-triangle-symbol-on-your-samsung-galaxy-phone/l-intro-1790087422.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2265257/triangle-symbol-samsung-galaxy-phone-meaning-data-saver-setting"
+    },
+    {
+      "id": "tech-meta-is-making-muse-more-powerful-and-will-let-y-fff19d1c95",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "tag": "Technology",
+      "publishedAt": "2026-09-23T23:19:42.000Z",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are ge...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-anthropic-says-its-biology-lab-has-already-found-5e20a6be2f",
+      "title": "Anthropic says its biology lab has already found something big",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+      "tag": "Technology",
+      "publishedAt": "2026-09-23T22:17:39.000Z",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-a-us-china-ai-hotline-won-t-be-ready-for-a-while-6ded989b2e",
+      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while",
+      "tag": "Technology",
+      "publishedAt": "2026-09-23T21:00:00.000Z",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6ab2ef34ade3d66cae78e17b/master/pass/politics_us_china_ai_talk.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while"
     },
     {
       "id": "tech-xprize-wildfire-winners-spotted-fires-within-10--80d494260a",
@@ -30,50 +76,17 @@
       "imageSourceUrl": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them"
     },
     {
-      "id": "tech-vc-firm-bessemer-now-has-another-5-75b-to-invest-b5a6d24f0e",
-      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai",
+      "id": "tech-anthropic-looks-to-secure-more-data-centre-capac-fc1903bf35",
+      "title": "Anthropic looks to secure more data centre capacity: Report",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-looks-to-secure-more-data-centre-capacity-report/article71499198.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-23T20:35:17.000Z",
-      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-refreshes-its-smaller-surface-pro-and--dd45186002",
-      "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
-      "tag": "Technology",
-      "publishedAt": "2026-09-23T20:30:00.000Z",
-      "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same d...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-ai-agents-teamed-up-to-cheat-at-blackjack-their--23b105b185",
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets",
-      "tag": "Technology",
-      "publishedAt": "2026-09-23T18:30:00.000Z",
-      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+      "publishedAt": "2026-09-23T10:17:43.000Z",
+      "summary": "The Claude-maker is reportedly looking to lease up to 1 gigawatt in compute capacity, per The Information",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6ab16fccade3d66cae78d5ff/master/pass/AI-Lab-How-Bunch-of-AI-Agents-Planned-Casino-Heist-Business.jpg",
+      "image": "https://th-i.thgim.com/public/incoming/twz1jp/article71499193.ece/alternates/LANDSCAPE_1200/2026-09-18T224757Z_1721626475_RC29LNAK8UEQ_RTRMADP_3_ANTHROPIC-IPO-SENTIMENT.JPG",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets"
-    },
-    {
-      "id": "tech-pornhub-investigated-over-its-age-checks-f84154d7b8",
-      "title": "Pornhub investigated over its age checks",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-23T15:56:44.000Z",
-      "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef85/live/76f98710-b72a-11f1-a430-4d16ee157c41.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/anthropic-looks-to-secure-more-data-centre-capacity-report/article71499198.ece"
     },
     {
       "id": "tech-tecno-ellaclaw-gets-customised-workflows-for-res-0164470050",
@@ -96,59 +109,43 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-anthropic-looks-to-secure-more-data-centre-capac-fc1903bf35",
-      "title": "Anthropic looks to secure more data centre capacity: Report",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-looks-to-secure-more-data-centre-capacity-report/article71499198.ece",
+      "id": "tech-openai-and-anthropic-bosses-push-un-for-global-t-ddd9b538b7",
+      "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-23T10:17:43.000Z",
-      "summary": "The Claude-maker is reportedly looking to lease up to 1 gigawatt in compute capacity, per The Information",
+      "publishedAt": "2026-09-23T22:35:14.000Z",
+      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/incoming/twz1jp/article71499193.ece/alternates/LANDSCAPE_1200/2026-09-18T224757Z_1721626475_RC29LNAK8UEQ_RTRMADP_3_ANTHROPIC-IPO-SENTIMENT.JPG",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/anthropic-looks-to-secure-more-data-centre-capacity-report/article71499198.ece"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-discord-age-verification-rolls-out-today-with-ch-a799881b86",
-      "title": "Discord age verification rolls out today with changes spurred by user backlash",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash",
+      "id": "tech-openai-agent-infiltrated-australian-government-w-fc1ec48261",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-23T20:05:13.000Z",
-      "summary": "Discord will try to automatically estimate ages, require verification when it can't.",
+      "publishedAt": "2026-09-23T22:23:28.000Z",
+      "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2195918304-1152x648-1749154130.jpg",
-      "imageCredit": "Silas Stein/Getty",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-youtube-promises-custom-feeds-and-a-lot-more-ai--71792e8e61",
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
+      "id": "tech-ai-superpower-ambitions-take-centre-stage-as-tru-5828995a6a",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-23T19:35:53.000Z",
-      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "publishedAt": "2026-09-23T22:01:17.000Z",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/made-on-youtube-2026.png",
-      "imageCredit": "Google",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year"
-    },
-    {
-      "id": "tech-contrary-to-some-reports-you-don-t-have-two-brai-da5d7f86c7",
-      "title": "Contrary to some reports, you don't have two brains",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains",
-      "tag": "Technology",
-      "publishedAt": "2026-09-23T18:47:36.000Z",
-      "summary": "A bad press release makes a good excuse to look at how developmental biology works.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2230128500-1152x648.jpg",
-      "imageCredit": "KATERYNA KON/SCIENCE PHOTO LIBRARY",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
