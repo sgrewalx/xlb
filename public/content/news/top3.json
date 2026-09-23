@@ -1,47 +1,46 @@
 {
-  "updatedAt": "2026-09-23T13:10:04.240Z",
+  "updatedAt": "2026-09-23T18:05:44.653Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-u-n-live-updates-iran-s-president-to-address-wor-bf46fe3940",
-      "title": "U.N. Live Updates: Iran’s President to Address World Leaders After Trump Threat",
+      "id": "news-harvey-weinstein-sentenced-to-15-years-in-prison-1d92ec888f",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-23T18:03:35.000Z",
+      "summary": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\".",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-u-n-live-updates-zelensky-speaks-hours-after-new-03b1dee9c6",
+      "title": "U.N. Live Updates: Zelensky Speaks Hours After New Russian Strikes on Kyiv",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
       "tag": "US",
-      "publishedAt": "2026-09-23T13:03:09.000Z",
-      "summary": "Masoud Pezeshkian is the first leader whose country is at war with the United States to travel to New York to address the General Assembly. President Trump said he faced a choic...",
+      "publishedAt": "2026-09-23T18:00:55.000Z",
+      "summary": "The Ukrainian president is expected to warn allies that Russia’s attacks may not be confined to his country. Earlier, President Masoud Pezeshkian of Iran said his country would...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23unga-live-promo-lqkw/23unga-live-promo-lqkw-mediumSquareAt3X.jpg",
-      "imageAlt": "The United Nations secretary general António Guterres addressed the gathering of world leaders on Tuesday.",
+      "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23unga-live-promo-11am-zvwp-copy/23unga-live-header-11am-zvwp-mediumSquareAt3X.jpg",
       "imageCredit": "Dave Sanders for The New York Times",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine"
     },
     {
-      "id": "news-india-categorically-rejects-oic-contact-group-s--bb4b3a845e",
-      "title": "India categorically rejects OIC Contact Group’s remarks on Kashmir",
+      "id": "news-notice-issued-to-candidate-for-applying-for-gues-921bbd1446",
+      "title": "Notice issued to candidate for applying for guest lecturer post under two names",
       "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/india-categorically-rejects-oic-contact-groups-remarks-on-kashmir/article71499780.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/notice-issued-to-candidate-for-applying-for-guest-lecturer-post-under-two-names/article71500187.ece",
       "tag": "India",
-      "publishedAt": "2026-09-23T13:01:03.000Z",
-      "summary": "‘The entire Union Territories of Jammu and Kashmir and Ladakh are integral and inalienable part of India, and no amount of repetition of politically motivated propaganda can cha...",
+      "publishedAt": "2026-09-23T17:58:28.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/f60rsc/article71500005.ece/alternates/LANDSCAPE_1200/HS1w3mza0AE3fXN.jpg",
+      "image": "https://th-i.thgim.com/public/incoming/r4xpbk/article71501408.ece/alternates/LANDSCAPE_1200/IMG_iStock-1204101181_2_1_GQ8QF17U.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/india-categorically-rejects-oic-contact-groups-remarks-on-kashmir/article71499780.ece"
-    },
-    {
-      "id": "news-ec-dissent-row-opposition-seeks-cec-s-arrest-fre-1fe84c21e0",
-      "title": "EC 'dissent' row: Opposition seeks CEC's arrest, fresh polls in states; BJP lauds 'pure democracy' - top developments",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/ec-dissent-row-opposition-seeks-cecs-arrest-fresh-polls-in-states-bjp-lauds-pure-democracy-top-developments/articleshow/134437472.cms",
-      "tag": "India",
-      "publishedAt": "2026-09-23T12:56:11.000Z",
-      "summary": "Opposition parties in India are demanding action against Chief Election Commissioner Gyanesh Kumar amid allegations of electoral fraud. Reports indicate that Election Commission...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-134438432,imgsize-1141279.cms",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/ec-dissent-row-opposition-seeks-cecs-arrest-fresh-polls-in-states-bjp-lauds-pure-democracy-top-developments/articleshow/134437472.cms"
+      "imageSourceUrl": "https://www.thehindu.com/news/national/karnataka/notice-issued-to-candidate-for-applying-for-guest-lecturer-post-under-two-names/article71500187.ece"
     }
   ]
 }
