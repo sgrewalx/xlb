@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:25:43.906Z",
+  "updatedAt": "2026-09-23T08:27:16.644Z",
   "section": "Live Events",
   "items": [
     {
@@ -9,8 +9,8 @@
       "status": "monitoring",
       "category": "earth",
       "topic": "earthquakes",
-      "startsAt": "2026-09-22T08:22:44.620Z",
-      "summary": "USGS reported 241 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 97 km S of Sarangani, Philippines.",
+      "startsAt": "2026-09-23T08:23:27.557Z",
+      "summary": "USGS reported 254 earthquake events in the last 24 hours. Strongest reported event: M5.1 near 88 km NNW of Uken, Japan.",
       "whyItMatters": "Earthquake monitoring is a naturally recurring live-information topic with strong revisit potential and authoritative public data.",
       "sourceName": "USGS Earthquake Hazards Program",
       "sourceUrl": "https://earthquake.usgs.gov/earthquakes/map/",
@@ -21,13 +21,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-09-22T08:25:43.906Z",
+      "updatedAt": "2026-09-23T08:27:16.644Z",
       "importance": 76,
       "featuredReason": "USGS Earthquake Hazards Program is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-worsening-el-nino-threatens-asia-with-drought-co-02600c4b98",
-        "video-saudi-forces-drop-bombs-on-crowded-yemen-market--c1e9e2a6e3",
-        "video-jpmorgan-warns-of-dire-consequences-if-hormuz-re-dfebcb52b0"
+        "video-zelenskyy-s-surprise-russia-bid-stuns-us-preside-5dea9f6fa5",
+        "video-bhutan-pm-tshering-tobgay-hails-trusted-friend-i-0550c0e148",
+        "video-russia-ukraine-war-zelenskyy-hopes-us-can-bring--127ceb8f67"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -46,7 +46,7 @@
       "status": "monitoring",
       "category": "space",
       "topic": "space-weather",
-      "startsAt": "2026-09-22T08:22:00.000Z",
+      "startsAt": "2026-09-23T08:21:00.000Z",
       "summary": "Current geomagnetic conditions are near Kp 0. Recent peak reached Kp 1. NOAA SWPC monitoring remains active.",
       "whyItMatters": "Aurora and geomagnetic conditions drive recurring public-interest checking behavior and diversify the space category beyond launches.",
       "sourceName": "NOAA Space Weather Prediction Center",
@@ -58,13 +58,13 @@
       "rightsProfile": "public-information",
       "cadence": "continuous",
       "audienceIntent": "monitor-live",
-      "updatedAt": "2026-09-22T08:25:43.906Z",
+      "updatedAt": "2026-09-23T08:27:16.644Z",
       "importance": 71,
       "featuredReason": "NOAA Space Weather Prediction Center is producing continuously updated public data, which makes this page a repeat-check surface.",
       "relatedVideoIds": [
-        "video-saudi-forces-drop-bombs-on-crowded-yemen-market--c1e9e2a6e3",
-        "video-jpmorgan-warns-of-dire-consequences-if-hormuz-re-dfebcb52b0",
-        "video-trump-claims-russia-has-lost-control-of-its-dies-0f0d2ed627"
+        "video-zelenskyy-s-surprise-russia-bid-stuns-us-preside-5dea9f6fa5",
+        "video-bhutan-pm-tshering-tobgay-hails-trusted-friend-i-0550c0e148",
+        "video-russia-ukraine-war-zelenskyy-hopes-us-can-bring--127ceb8f67"
       ],
       "relatedGameIds": [
         "headline-match",
@@ -95,7 +95,7 @@
       "rightsProfile": "public-information",
       "cadence": "recurring",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-22T08:25:43.906Z",
+      "updatedAt": "2026-09-23T08:27:16.644Z",
       "importance": 73,
       "featuredReason": "NASA is already a direct watch destination, so the event page should keep routing visitors in and back out cleanly.",
       "relatedVideoIds": [],
@@ -115,7 +115,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-09-22T08:25:43.502Z",
+      "startsAt": "2026-09-23T08:27:16.476Z",
       "summary": "NASA’s SpaceX CRS-35 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: spacex.",
       "sourceName": "NASA Launch Schedule",
@@ -127,41 +127,8 @@
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-22T08:25:43.906Z",
+      "updatedAt": "2026-09-23T08:27:16.644Z",
       "importance": 72,
-      "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [],
-      "relatedGameIds": [
-        "headline-match",
-        "timeline-sort",
-        "rapid-reaction"
-      ],
-      "relatedGalleryIds": [
-        "gallery-launch-windows",
-        "gallery-topic-rotation"
-      ]
-    },
-    {
-      "id": "space-launch-nasa-s-northrop-grumman-crs-25",
-      "slug": "nasa-s-northrop-grumman-crs-25",
-      "title": "NASA’s Northrop Grumman CRS-25",
-      "status": "ended",
-      "category": "space",
-      "topic": "launches",
-      "startsAt": "2026-09-22T08:25:43.503Z",
-      "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
-      "sourceName": "NASA Launch Schedule",
-      "sourceUrl": "https://www.nasa.gov/event/nasas-northrop-grumman-crs-25/",
-      "watchUrl": "https://www.nasa.gov/live",
-      "coverageMode": "link",
-      "safeToPromote": true,
-      "heroPriority": 82,
-      "rightsProfile": "public-information",
-      "cadence": "scheduled",
-      "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-22T08:25:43.906Z",
-      "importance": 66,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
       "relatedVideoIds": [],
       "relatedGameIds": [
@@ -181,7 +148,7 @@
       "status": "ended",
       "category": "space",
       "topic": "launches",
-      "startsAt": "2026-09-22T08:25:43.503Z",
+      "startsAt": "2026-09-23T08:27:16.476Z",
       "summary": "Roscosmos Progress 97 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
       "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: launches.",
       "sourceName": "NASA Launch Schedule",
@@ -189,16 +156,49 @@
       "watchUrl": "https://www.nasa.gov/live",
       "coverageMode": "link",
       "safeToPromote": true,
+      "heroPriority": 82,
+      "rightsProfile": "public-information",
+      "cadence": "scheduled",
+      "audienceIntent": "watch-live",
+      "updatedAt": "2026-09-23T08:27:16.644Z",
+      "importance": 66,
+      "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
+      "relatedVideoIds": [
+        "video-ai-progress-is-speeding-up-dramatically-here-s-w-9407753368"
+      ],
+      "relatedGameIds": [
+        "headline-match",
+        "timeline-sort",
+        "rapid-reaction"
+      ],
+      "relatedGalleryIds": [
+        "gallery-launch-windows",
+        "gallery-topic-rotation"
+      ]
+    },
+    {
+      "id": "space-launch-nasa-s-northrop-grumman-crs-25",
+      "slug": "nasa-s-northrop-grumman-crs-25",
+      "title": "NASA’s Northrop Grumman CRS-25",
+      "status": "ended",
+      "category": "space",
+      "topic": "launches",
+      "startsAt": "2026-09-23T08:27:16.477Z",
+      "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+      "whyItMatters": "Launches convert the vague launch placeholder into a real, source-backed event record. Topic hint: cargo.",
+      "sourceName": "NASA Launch Schedule",
+      "sourceUrl": "https://www.nasa.gov/event/nasas-northrop-grumman-crs-25/",
+      "watchUrl": "https://www.nasa.gov/live",
+      "coverageMode": "link",
+      "safeToPromote": true,
       "heroPriority": 76,
       "rightsProfile": "public-information",
       "cadence": "scheduled",
       "audienceIntent": "watch-live",
-      "updatedAt": "2026-09-22T08:25:43.906Z",
+      "updatedAt": "2026-09-23T08:27:16.644Z",
       "importance": 63,
       "featuredReason": "This event stays promoted because it supports a clear internal path across live, topic, and related surfaces.",
-      "relatedVideoIds": [
-        "video-us-china-agreements-remain-a-work-in-progress-as-f9f37150cc"
-      ],
+      "relatedVideoIds": [],
       "relatedGameIds": [
         "headline-match",
         "timeline-sort",

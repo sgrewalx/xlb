@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T08:25:44.350Z",
+  "updatedAt": "2026-09-23T08:27:16.988Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 241 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 97 km S of Sarangani, Philippines.",
+          "summary": "USGS reported 254 earthquake events in the last 24 hours. Strongest reported event: M5.1 near 88 km NNW of Uken, Japan.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 22, 08:25 AM",
+          "metricValue": "Sep 23, 08:27 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -154,21 +154,6 @@
           "visualType": "data-visualization"
         },
         {
-          "id": "space-launch-nasa-s-northrop-grumman-crs-25",
-          "title": "NASA’s Northrop Grumman CRS-25",
-          "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
-          "metricLabel": "Countdown",
-          "metricValue": "Starting",
-          "href": "/events/nasa-s-northrop-grumman-crs-25",
-          "accent": "space",
-          "image": "/content/gallery/visuals/launch-timeline.svg",
-          "imageAlt": "Timeline of current NASA launch schedule records",
-          "imageCredit": "XLB visualization from NASA launch schedule data",
-          "imageOrigin": "generated-official-data",
-          "imageSourceUrl": "https://www.nasa.gov/event/nasas-northrop-grumman-crs-25/",
-          "visualType": "data-visualization"
-        },
-        {
           "id": "space-launch-roscosmos-progress-97",
           "title": "Roscosmos Progress 97",
           "summary": "Roscosmos Progress 97 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
@@ -181,6 +166,21 @@
           "imageCredit": "XLB visualization from NASA launch schedule data",
           "imageOrigin": "generated-official-data",
           "imageSourceUrl": "https://www.nasa.gov/event/roscosmos-progress-97/",
+          "visualType": "data-visualization"
+        },
+        {
+          "id": "space-launch-nasa-s-northrop-grumman-crs-25",
+          "title": "NASA’s Northrop Grumman CRS-25",
+          "summary": "NASA’s Northrop Grumman CRS-25 is on NASA's published launch schedule and is a strong candidate for a source-backed launch event page.",
+          "metricLabel": "Countdown",
+          "metricValue": "Starting",
+          "href": "/events/nasa-s-northrop-grumman-crs-25",
+          "accent": "space",
+          "image": "/content/gallery/visuals/launch-timeline.svg",
+          "imageAlt": "Timeline of current NASA launch schedule records",
+          "imageCredit": "XLB visualization from NASA launch schedule data",
+          "imageOrigin": "generated-official-data",
+          "imageSourceUrl": "https://www.nasa.gov/event/nasas-northrop-grumman-crs-25/",
           "visualType": "data-visualization"
         }
       ]

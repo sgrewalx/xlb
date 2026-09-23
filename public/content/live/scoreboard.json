@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-22T08:25:44.208Z",
-  "sourceSnapshot": "2026-09-22T06:00:00.000Z",
+  "updatedAt": "2026-09-23T08:27:16.877Z",
+  "sourceSnapshot": "2026-09-23T06:00:00.000Z",
   "items": [
     {
       "slug": "global-earthquake-watch",
@@ -83,8 +83,8 @@
       "notes": "cold-start scoring active; priority 88, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Imported from the Search Console API."
     },
     {
-      "slug": "nasa-s-northrop-grumman-crs-25",
-      "pagePath": "/events/nasa-s-northrop-grumman-crs-25",
+      "slug": "roscosmos-progress-97",
+      "pagePath": "/events/roscosmos-progress-97",
       "category": "space",
       "score": 71,
       "scoringMode": "cold-start",
@@ -103,8 +103,8 @@
       "notes": "cold-start scoring active; priority 82, rights public-information, cadence scheduled, intent watch-live, status ended, coverage link, safe to promote; heuristics stale event timing, source stable. Promoted event without a dedicated analytics note yet."
     },
     {
-      "slug": "roscosmos-progress-97",
-      "pagePath": "/events/roscosmos-progress-97",
+      "slug": "nasa-s-northrop-grumman-crs-25",
+      "pagePath": "/events/nasa-s-northrop-grumman-crs-25",
       "category": "space",
       "score": 69,
       "scoringMode": "cold-start",
