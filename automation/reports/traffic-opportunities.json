@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-23T08:27:16.262Z",
-  "sourceSnapshot": "2026-09-23T06:00:00.000Z",
+  "updatedAt": "2026-09-24T08:19:25.745Z",
+  "sourceSnapshot": "2026-09-24T06:00:00.000Z",
   "inputQuality": {
     "quality": "live-api",
     "hasLiveGa4": false,
@@ -20,7 +20,7 @@
       "id": "traffic-search_ctr_lift-gallery",
       "path": "/gallery",
       "signal": "search_ctr_lift",
-      "score": 489,
+      "score": 513,
       "risk": "medium",
       "title": "Improve search snippet for /gallery",
       "hypothesis": "/gallery is earning impressions but has weak CTR, so title/meta copy and internal context should be tested.",
@@ -29,9 +29,9 @@
       "metrics": {
         "pageviews": 0,
         "visits": 0,
-        "searchImpressions": 163,
+        "searchImpressions": 171,
         "searchCtr": 0,
-        "avgPosition": 2.6932515337423313,
+        "avgPosition": 2.7017543859649122,
         "watchClicks": 0,
         "engagementScore": 0
       },
@@ -147,13 +147,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
-      "path": "/events/nasa-s-northrop-grumman-crs-25",
+      "id": "traffic-index-watch-events-roscosmos-progress-97",
+      "path": "/events/roscosmos-progress-97",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
-      "hypothesis": "/events/nasa-s-northrop-grumman-crs-25 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/roscosmos-progress-97",
+      "hypothesis": "/events/roscosmos-progress-97 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {
@@ -173,13 +173,13 @@
       }
     },
     {
-      "id": "traffic-index-watch-events-roscosmos-progress-97",
-      "path": "/events/roscosmos-progress-97",
+      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
+      "path": "/events/nasa-s-northrop-grumman-crs-25",
       "signal": "index_watch",
       "score": 8,
       "risk": "low",
-      "title": "Watch index coverage for /events/roscosmos-progress-97",
-      "hypothesis": "/events/roscosmos-progress-97 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
+      "hypothesis": "/events/nasa-s-northrop-grumman-crs-25 is in the sitemap but has not appeared in the current analytics snapshot.",
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "recommendation": "Keep the page linked and avoid expanding it until first real signals arrive.",
       "metrics": {

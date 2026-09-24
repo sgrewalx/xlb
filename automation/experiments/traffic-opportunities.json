@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:27:17.276Z",
+  "updatedAt": "2026-09-24T08:19:27.556Z",
   "items": [
     {
       "id": "traffic-search_ctr_lift-gallery",
@@ -77,21 +77,6 @@
       "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
     },
     {
-      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
-      "signal": "index_watch",
-      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
-      "ownerAgent": "traffic-improvement-agent",
-      "risk": "low",
-      "status": "queued",
-      "hypothesis": "/events/nasa-s-northrop-grumman-crs-25 is in the sitemap but has not appeared in the current analytics snapshot.",
-      "targetPaths": [
-        "/events/nasa-s-northrop-grumman-crs-25"
-      ],
-      "successMetric": "The path receives first impressions or visits in a future analytics window.",
-      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
-      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
-    },
-    {
       "id": "traffic-index-watch-events-roscosmos-progress-97",
       "signal": "index_watch",
       "title": "Watch index coverage for /events/roscosmos-progress-97",
@@ -101,6 +86,21 @@
       "hypothesis": "/events/roscosmos-progress-97 is in the sitemap but has not appeared in the current analytics snapshot.",
       "targetPaths": [
         "/events/roscosmos-progress-97"
+      ],
+      "successMetric": "The path receives first impressions or visits in a future analytics window.",
+      "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
+      "notes": "Keep the page linked and avoid expanding it until first real signals arrive. Input quality: live-api. Snapshot includes live API data and can be used for supervised optimization decisions."
+    },
+    {
+      "id": "traffic-index-watch-events-nasa-s-northrop-grumman-crs-25",
+      "signal": "index_watch",
+      "title": "Watch index coverage for /events/nasa-s-northrop-grumman-crs-25",
+      "ownerAgent": "traffic-improvement-agent",
+      "risk": "low",
+      "status": "queued",
+      "hypothesis": "/events/nasa-s-northrop-grumman-crs-25 is in the sitemap but has not appeared in the current analytics snapshot.",
+      "targetPaths": [
+        "/events/nasa-s-northrop-grumman-crs-25"
       ],
       "successMetric": "The path receives first impressions or visits in a future analytics window.",
       "rollbackPlan": "Revert the content or internal-link change if the next analytics window shows weaker engagement or CTR.",
