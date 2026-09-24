@@ -1,46 +1,48 @@
 {
-  "updatedAt": "2026-09-24T00:08:40.946Z",
+  "updatedAt": "2026-09-24T05:41:47.756Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-expect-to-host-pm-modi-in-december-canadian-pm-m-dc95540a05",
-      "title": "Expect to host PM Modi in December: Canadian PM Mark Carney",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/expect-to-host-pm-modi-in-december-canadian-pm-mark-carney/articleshow/134448652.cms",
+      "id": "news-jharkhand-minister-deepika-pandey-singh-s-daught-1d8d5f0079",
+      "title": "Jharkhand Minister Deepika Pandey Singh’s daughter and three others die in road accident",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-minister-deepika-pandey-singhs-daughter-and-three-others-die-in-road-accident/article71502834.ece",
       "tag": "India",
-      "publishedAt": "2026-09-24T00:03:10.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-09-24T05:33:27.000Z",
+      "summary": "Chief Minister Hemant Soren and Leader of Opposition Babulal Marandi expressed deep grief over the incident. According to the police officer, the speeding car in which four were...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-134448734,imgsize-60198.cms",
+      "image": "https://th-i.thgim.com/public/incoming/x4qnnc/article71502904.ece/alternates/LANDSCAPE_1200/iStock-1481903146%201.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/expect-to-host-pm-modi-in-december-canadian-pm-mark-carney/articleshow/134448652.cms"
+      "imageSourceUrl": "https://www.thehindu.com/news/national/jharkhand/jharkhand-minister-deepika-pandey-singhs-daughter-and-three-others-die-in-road-accident/article71502834.ece"
     },
     {
-      "id": "news-risking-their-lives-to-find-food-and-water-in-ru-a3b299ccd0",
-      "title": "Risking their lives to find food and water in Russian-occupied city",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-09-23T23:58:50.000Z",
-      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they now have to eat garden weeds to survive.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/a0279100-b76a-11f1-a7b2-f3bdba1cd194.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-u-n-live-updates-zelensky-warns-of-growing-globa-fc0df70eef",
-      "title": "U.N. Live Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+      "id": "news-australia-investigates-openai-hack-on-public-hea-718f963a25",
+      "title": "Australia Investigates OpenAI Hack on Public Health Care Site",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+      "url": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html",
       "tag": "US",
-      "publishedAt": "2026-09-23T23:54:22.000Z",
-      "summary": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the w...",
+      "publishedAt": "2026-09-24T05:32:46.000Z",
+      "summary": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23unga-live-promo-4pm-kgcz-copy-copy/23unga-live-header-245pm-kgcz-mediumSquareAt3X.jpg",
-      "imageCredit": "Dave Sanders for The New York Times",
+      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24int-oz-aihack-tvcg/24int-oz-aihack-tvcg-mediumSquareAt3X.jpg",
+      "imageAlt": "Australian ministers at a news conference in Sydney on Thursday after it was revealed an A.I. agent developed by OpenAI had infiltrated a government website in June.",
+      "imageCredit": "Hollie Adams/Reuters",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine"
+      "imageSourceUrl": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html"
+    },
+    {
+      "id": "news-judge-orders-trump-white-house-to-restore-access-e014c23555",
+      "title": "Judge orders Trump White House to restore access to CNN, MS Now and Politico",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
+      "tag": "Europe",
+      "publishedAt": "2026-09-24T05:25:12.000Z",
+      "summary": "US district judge orders temporary lifting of Trump’s ban on the three media outlets, saying it was likely unconstitutional A federal judge has ordered the Trump administration...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://i.guim.co.uk/img/media/36ddd457efca4547aedac1772d5d8dea18f7c503/454_0_4219_3376/master/4219.jpg?width=460&quality=85&auto=format&fit=max&s=a91442b63d05826f2a0e2a670b7eed64",
+      "imageCredit": "Photograph: Alex Wroblewski/AFP/Getty Images",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban"
     }
   ]
 }
