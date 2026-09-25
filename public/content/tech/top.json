@@ -1,19 +1,66 @@
 {
-  "updatedAt": "2026-09-25T15:39:54.036Z",
+  "updatedAt": "2026-09-25T19:41:57.607Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-war-bros-didn-t-always-rule-silicon-valley-cc1a68e204",
-      "title": "War Bros Didn’t Always Rule Silicon Valley",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley",
+      "id": "tech-review-the-iphone-18-pro-is-apple-s-coolest-smar-520d1fd241",
+      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T15:00:00.000Z",
-      "summary": "Some say that tech was always about the money and the military. Don’t buy that argument.",
+      "publishedAt": "2026-09-25T19:34:42.000Z",
+      "summary": "Better thermals and battery life make this iterative update nicer to use.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6ab58be48f6b080f4d1982f3/master/pass/Backchannel-Silicon-Valley-Pro-War-Or-Not-Business-2269212880.jpg",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
+      "imageCredit": "Samuel Axon",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley"
+      "imageSourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally"
+    },
+    {
+      "id": "tech-cricut-s-new-diy-machines-let-you-print-and-cut--b6ca7ca7b5",
+      "title": "Cricut's new DIY machines let you print and cut your own stickers",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T18:39:54.000Z",
+      "summary": "Surely my sticker budget will break even eventually.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers/l-intro-1790361456.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers"
+    },
+    {
+      "id": "tech-anthropic-to-pay-akamai-11-6-billion-over-seven--426235057b",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T19:13:38.000Z",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akama...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-roku-s-first-oled-tvs-are-up-to-400-off-starting-eb920f56e3",
+      "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T18:18:57.000Z",
+      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with fo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-appeals-court-lets-the-pentagon-designate-anthro-af12fa23cd",
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T16:58:20.000Z",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/master/pass/GettyImages-2235057505.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk"
     },
     {
       "id": "tech-special-agents-blood-and-urine-test-results-stol-42033efe72",
@@ -29,16 +76,6 @@
       "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-tesla-finally-moves-to-electrify-trucking-after--394a987cf4",
-      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T15:24:50.000Z",
-      "summary": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-6-r-f-kuang-book-quotes-that-find-beauty-in-cont-29b879a5e0",
       "title": "6 R.F. Kuang book quotes that find beauty in contradictions",
       "source": "YourStory",
@@ -46,16 +83,6 @@
       "tag": "Technology",
       "publishedAt": "2026-09-25T15:01:51.000Z",
       "summary": "Discover 6 thought-provoking R.F. Kuang quotes that explore contradiction, identity, language, power, and the beauty found in life's complexities.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-cricut-s-new-compact-crafter-prints-cuts-and-lam-5d44409883",
-      "title": "Cricut’s new compact crafter prints, cuts, and laminates stickers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T14:21:25.000Z",
-      "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stick...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -67,19 +94,6 @@
       "publishedAt": "2026-09-25T14:06:04.000Z",
       "summary": "Magic Eden is facing questions over unusual Ethereum NFT transactions involving several thousand tokens that appeared to move for 0 ETH. NFT trader Cirrus first flagged the acti...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-microsoft-s-copilot-app-adds-office-natural-codi-270847ecf8",
-      "title": "Microsoft's Copilot app adds Office, natural coding and automation",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T12:00:00.000Z",
-      "summary": "Microsoft is giving its Copilot app another facelift.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/microsofts-copilot-app-adds-office-natural-coding-and-automation/l-intro-1790274838.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation"
     },
     {
       "id": "tech-why-is-new-york-city-pausing-some-ai-tools-in-sc-a26bb01055",
@@ -95,48 +109,45 @@
       "imageSourceUrl": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece"
     },
     {
-      "id": "tech-cdc-opens-state-ordering-for-covid-19-vaccines-a-f30ed02be1",
-      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+      "id": "tech-ai-was-supposed-to-hit-new-grads-hard-so-far-une-404e7a60fa",
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay",
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
       "tag": "Technology",
-      "publishedAt": "2026-09-24T22:29:48.000Z",
-      "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+      "publishedAt": "2026-09-25T19:11:05.000Z",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-1152x648.jpg",
-      "imageCredit": "Getty | Graeme Sloan",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
+      "imageCredit": "DBenitostock/Getty",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay"
+      "imageSourceUrl": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise"
     },
     {
-      "id": "tech-techcrunch-disrupt-2026-ricursive-intelligence-s-1db604a96d",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware",
+      "id": "tech-paramount-wbd-merger-conditions-give-the-public--d2c654c272",
+      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T15:00:00.000Z",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip deve...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-25T18:42:57.000Z",
+      "summary": "US judge reviews deal with California, says it must not be result of collusion.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
+      "imageCredit": "Getty Images | NurPhoto",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told"
     },
     {
-      "id": "tech-affected-by-layoffs-don-t-miss-this-75-deal-for--7e693f9616",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
+      "id": "tech-candy-crush-maker-signs-collective-bargaining-ag-6b12c636ac",
+      "title": "Candy Crush maker signs collective bargaining agreement, averting strike",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T14:15:00.000Z",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gaming-s-biggest-horror-series-are-more-vital-th-7b9203ca6b",
-      "title": "Gaming’s biggest horror series are more vital than ever",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T14:10:00.000Z",
-      "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+      "publishedAt": "2026-09-25T18:35:21.000Z",
+      "summary": "That's one way to topple a King.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/l-intro-1790361098.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike"
     }
   ]
 }
