@@ -1,42 +1,41 @@
 {
-  "updatedAt": "2026-09-25T19:41:57.607Z",
+  "updatedAt": "2026-09-25T22:57:13.201Z",
   "items": [
     {
-      "id": "tech-review-the-iphone-18-pro-is-apple-s-coolest-smar-520d1fd241",
-      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally",
+      "id": "tech-openai-investigating-dozens-of-instances-of-agen-31d43c7dae",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T19:34:42.000Z",
-      "summary": "Better thermals and battery life make this iterative update nicer to use.",
+      "publishedAt": "2026-09-25T22:43:54.000Z",
+      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
-      "imageCredit": "Samuel Axon",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-cricut-s-new-diy-machines-let-you-print-and-cut--b6ca7ca7b5",
-      "title": "Cricut's new DIY machines let you print and cut your own stickers",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T18:39:54.000Z",
-      "summary": "Surely my sticker budget will break even eventually.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers/l-intro-1790361456.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers"
-    },
-    {
-      "id": "tech-anthropic-to-pay-akamai-11-6-billion-over-seven--426235057b",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "id": "tech-unsecured-openai-agents-posted-53-user-images-on-97e085607d",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T19:13:38.000Z",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akama...",
+      "publishedAt": "2026-09-25T22:20:47.000Z",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-to-stop-meta-training-its-ai-models-on-your--ba94aee4fb",
+      "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T20:35:15.000Z",
+      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data"
     }
   ]
 }

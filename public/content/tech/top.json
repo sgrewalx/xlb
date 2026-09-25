@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-09-25T19:41:57.607Z",
+  "updatedAt": "2026-09-25T22:57:13.201Z",
   "section": "Expanded Tech",
   "items": [
+    {
+      "id": "tech-openai-investigating-dozens-of-instances-of-agen-31d43c7dae",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T22:43:54.000Z",
+      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, t...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-unsecured-openai-agents-posted-53-user-images-on-97e085607d",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T22:20:47.000Z",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-how-to-stop-meta-training-its-ai-models-on-your--ba94aee4fb",
+      "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T20:35:15.000Z",
+      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data"
+    },
+    {
+      "id": "tech-thieves-stole-nvidia-trailers-they-got-20-tons-o-54636379d9",
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T20:30:40.000Z",
+      "summary": "They wanted the silicon. They got the sand.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand"
+    },
     {
       "id": "tech-review-the-iphone-18-pro-is-apple-s-coolest-smar-520d1fd241",
       "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
@@ -17,29 +66,6 @@
       "imageSourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally"
     },
     {
-      "id": "tech-cricut-s-new-diy-machines-let-you-print-and-cut--b6ca7ca7b5",
-      "title": "Cricut's new DIY machines let you print and cut your own stickers",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T18:39:54.000Z",
-      "summary": "Surely my sticker budget will break even eventually.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers/l-intro-1790361456.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers"
-    },
-    {
-      "id": "tech-anthropic-to-pay-akamai-11-6-billion-over-seven--426235057b",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T19:13:38.000Z",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akama...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-roku-s-first-oled-tvs-are-up-to-400-off-starting-eb920f56e3",
       "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
       "source": "The Verge",
@@ -50,30 +76,17 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-appeals-court-lets-the-pentagon-designate-anthro-af12fa23cd",
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk",
+      "id": "tech-why-is-new-york-city-pausing-some-ai-tools-in-sc-a26bb01055",
+      "title": "Why is New York City pausing some AI tools in schools? | Explained",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T16:58:20.000Z",
-      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "publishedAt": "2026-09-25T11:46:16.000Z",
+      "summary": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/master/pass/GettyImages-2235057505.jpg",
+      "image": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk"
-    },
-    {
-      "id": "tech-special-agents-blood-and-urine-test-results-stol-42033efe72",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T13:56:16.000Z",
-      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece"
     },
     {
       "id": "tech-6-r-f-kuang-book-quotes-that-find-beauty-in-cont-29b879a5e0",
@@ -96,17 +109,17 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-why-is-new-york-city-pausing-some-ai-tools-in-sc-a26bb01055",
-      "title": "Why is New York City pausing some AI tools in schools? | Explained",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+      "id": "tech-new-mexico-jury-rules-meta-misled-state-resident-53f87ebd5e",
+      "title": "New Mexico jury rules Meta misled state residents about data privacy",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T11:46:16.000Z",
-      "summary": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth...",
+      "publishedAt": "2026-09-25T20:12:54.000Z",
+      "summary": "The company is still paying for the Cambridge Analytica scandal.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
+      "image": "https://www.engadget.com/img/gallery/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/l-intro-1790367080.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece"
+      "imageSourceUrl": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy"
     },
     {
       "id": "tech-ai-was-supposed-to-hit-new-grads-hard-so-far-une-404e7a60fa",
@@ -135,19 +148,6 @@
       "imageCredit": "Getty Images | NurPhoto",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told"
-    },
-    {
-      "id": "tech-candy-crush-maker-signs-collective-bargaining-ag-6b12c636ac",
-      "title": "Candy Crush maker signs collective bargaining agreement, averting strike",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T18:35:21.000Z",
-      "summary": "That's one way to topple a King.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/l-intro-1790361098.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike"
     }
   ]
 }
