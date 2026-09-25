@@ -1,19 +1,66 @@
 {
-  "updatedAt": "2026-09-24T21:53:27.686Z",
+  "updatedAt": "2026-09-25T00:09:00.924Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-nintendo-wins-4-5-million-from-lawsuit-over-pira-9bc86d2889",
-      "title": "Nintendo wins $4.5 million from lawsuit over pirated Switch games",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2268376/nintendo-wins-4-5-million-from-lawsuit-over-pirated-switch-games",
+      "id": "tech-x-planes-are-they-needed-in-the-new-era-of-drone-83e8cc5698",
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-24T21:34:11.000Z",
-      "summary": "It's easy to win when the defendant is a no-show.",
+      "publishedAt": "2026-09-24T23:03:53.000Z",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/nintendo-wins-4-5-million-from-lawsuit-over-pirated-switch-games/l-intro-1790285481.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2268376/nintendo-wins-4-5-million-from-lawsuit-over-pirated-switch-games"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "tech-call-of-duty-warzone-is-adding-a-button-to-hide--d3bb69bdfd",
+      "title": "Call of Duty: Warzone is adding a button to hide all the goofy skins",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2268423/call-of-duty-warzone-is-adding-a-button-to-hide-all-the-goofy-skins",
+      "tag": "Technology",
+      "publishedAt": "2026-09-24T22:59:24.000Z",
+      "summary": "No more Beavis and Butt-Head in your matches.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://www.engadget.com/img/gallery/call-of-duty-warzone-is-adding-a-button-to-hide-all-the-goofy-skins/l-intro-1790290685.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.engadget.com/2268423/call-of-duty-warzone-is-adding-a-button-to-hide-all-the-goofy-skins"
+    },
+    {
+      "id": "tech-cdc-opens-state-ordering-for-covid-19-vaccines-a-f30ed02be1",
+      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay",
+      "tag": "Technology",
+      "publishedAt": "2026-09-24T22:29:48.000Z",
+      "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-1152x648.jpg",
+      "imageCredit": "Getty | Graeme Sloan",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay"
+    },
+    {
+      "id": "tech-meta-employees-ordered-attorney-client-privilege-1ea8716385",
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "tag": "Technology",
+      "publishedAt": "2026-09-24T23:50:55.000Z",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to tee...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
+    },
+    {
+      "id": "tech-waymo-is-scaling-fast-here-s-what-the-fleet-data-62dfff0ba9",
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows",
+      "tag": "Technology",
+      "publishedAt": "2026-09-24T23:24:33.000Z",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-anonymous-men-have-turned-cyberharassment-into-a-eba7b22e26",
@@ -29,51 +76,17 @@
       "imageSourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side"
     },
     {
-      "id": "tech-nexterity-wants-to-automate-the-hard-dangerous-p-5f85041612",
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting",
+      "id": "tech-sennheiser-launches-momentum-5-wireless-and-mome-39fe84063e",
+      "title": "Sennheiser launches Momentum 5 wireless and Momentum true wireless 5",
+      "source": "The Hindu Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/sennheiser-launches-momentum-5-wireless-and-momentum-true-wireless-5/article71503581.ece",
       "tag": "Technology",
-      "publishedAt": "2026-09-24T20:45:00.000Z",
-      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-gemini-3-8-live-with-live-avatar-gives-google-s--3cbe4cfaad",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "tag": "Technology",
-      "publishedAt": "2026-09-24T19:59:26.000Z",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-f-droid-gets-its-biggest-update-in-a-decade-with-c77df96123",
-      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs",
-      "tag": "Technology",
-      "publishedAt": "2026-09-24T19:30:42.000Z",
-      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
+      "publishedAt": "2026-09-24T10:11:21.000Z",
+      "summary": "Momentum true wireless 5 earbuds are IP54-rated for dust, sweat and splash resistance. Momentum 5 wireless includes both USB-C and 3.5mm audio cables",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-1152x648.jpg",
-      "imageCredit": "Ryan Whitwam",
+      "image": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/b97f6x/article71503592.ece/alternates/LANDSCAPE_1200/Momentum%20combined.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs"
-    },
-    {
-      "id": "tech-why-australia-chose-the-world-s-biggest-politica-d373ec9eb9",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "tag": "Technology",
-      "publishedAt": "2026-09-24T18:06:40.000Z",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/gadgets/sennheiser-launches-momentum-5-wireless-and-momentum-true-wireless-5/article71503581.ece"
     },
     {
       "id": "tech-5-quotes-on-human-connection-from-the-anxious-ge-02a4cf14e4",
@@ -96,56 +109,37 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-sennheiser-launches-momentum-5-wireless-and-mome-39fe84063e",
-      "title": "Sennheiser launches Momentum 5 wireless and Momentum true wireless 5",
-      "source": "The Hindu Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/sennheiser-launches-momentum-5-wireless-and-momentum-true-wireless-5/article71503581.ece",
-      "tag": "Technology",
-      "publishedAt": "2026-09-24T10:11:21.000Z",
-      "summary": "Momentum true wireless 5 earbuds are IP54-rated for dust, sweat and splash resistance. Momentum 5 wireless includes both USB-C and 3.5mm audio cables",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/b97f6x/article71503592.ece/alternates/LANDSCAPE_1200/Momentum%20combined.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/sci-tech/technology/gadgets/sennheiser-launches-momentum-5-wireless-and-momentum-true-wireless-5/article71503581.ece"
-    },
-    {
-      "id": "tech-nicolas-cage-is-anything-but-subtle-in-the-madde-6128e6e1cc",
-      "title": "Nicolas Cage is anything but subtle in the Madden trailer",
+      "id": "tech-ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-the-4d0392d5d9",
+      "title": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2268356/nicolas-cage-is-anything-but-subtle-in-the-madden-trailer",
+      "url": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison",
       "tag": "Technology",
-      "publishedAt": "2026-09-24T21:10:54.000Z",
-      "summary": "The biopic arrives on Prime Video in November.",
+      "publishedAt": "2026-09-24T21:56:17.000Z",
+      "summary": "Meta's newest smart glasses are an iterative, expensive update.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/nicolas-cage-is-anything-but-subtle-in-the-madden-trailer/l-intro-1790284034.jpg",
+      "image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare/l-intro-1790286501.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2268356/nicolas-cage-is-anything-but-subtle-in-the-madden-trailer"
+      "imageSourceUrl": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison"
     },
     {
-      "id": "tech-bungie-shares-more-detail-about-marathon-s-symbi-ed5317a015",
-      "title": "Bungie shares more detail about Marathon's Symbiosis update and 2027 plans",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2268321/bungie-shares-more-detail-about-marathon-symbiosis-update-and-2027-plans",
-      "tag": "Running",
-      "publishedAt": "2026-09-24T20:44:36.000Z",
-      "summary": "Another big overhaul to the game is now due in March.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/bungie-shares-more-detail-about-marathons-symbiosis-update-and-2027-plans/l-intro-1790282536.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2268321/bungie-shares-more-detail-about-marathon-symbiosis-update-and-2027-plans"
+      "id": "tech-qualcomm-s-new-elite-sound-chip-might-finally-de-e89a4be928",
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "tag": "Technology",
+      "publishedAt": "2026-09-24T23:42:39.000Z",
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in th...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-i-think-i-found-an-ai-agent-worth-the-risk-8817a6a41a",
-      "title": "I Think I Found an AI Agent Worth the Risk",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk",
+      "id": "tech-microsoft-puts-brad-smith-in-charge-of-communica-d56b5db24e",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
       "tag": "Technology",
-      "publishedAt": "2026-09-24T19:36:35.000Z",
-      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6ab4547c6d288ac352d9673f/master/pass/Model-Behavior-AI-Worth-the-Risk-Business.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk"
+      "publishedAt": "2026-09-24T22:08:22.000Z",
+      "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vic...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }
