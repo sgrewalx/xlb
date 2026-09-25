@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:19:26.909Z",
+  "updatedAt": "2026-09-25T08:42:07.250Z",
   "thesis": "Gallery is a live visual explainer surface tied to current events, not a detached poster lab.",
   "items": [
     {
@@ -19,9 +19,9 @@
         {
           "id": "quake-primary",
           "title": "Global earthquake watch",
-          "summary": "USGS reported 269 earthquake events in the last 24 hours. Strongest reported event: M5.7 near 180 km NW of Hihifo, Tonga.",
+          "summary": "USGS reported 226 earthquake events in the last 24 hours. Strongest reported event: M5.3 near 72 km NW of Finschhafen, Papua New Guinea.",
           "metricLabel": "Updated",
-          "metricValue": "Sep 24, 08:19 AM",
+          "metricValue": "Sep 25, 08:42 AM",
           "href": "/events/global-earthquake-watch",
           "accent": "earth",
           "image": "/content/gallery/visuals/earthquake-activity.svg",
@@ -80,7 +80,7 @@
         {
           "id": "aurora-primary",
           "title": "Aurora watch",
-          "summary": "Current geomagnetic conditions are near Kp 3. Recent peak is Kp 3. NOAA SWPC monitoring remains active.",
+          "summary": "Current geomagnetic conditions are near Kp 3. Recent peak reached Kp 4. NOAA SWPC monitoring remains active.",
           "metricLabel": "Pageviews",
           "metricValue": "0",
           "href": "/events/aurora-watch",
