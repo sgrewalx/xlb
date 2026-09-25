@@ -1,48 +1,47 @@
 {
-  "updatedAt": "2026-09-25T12:28:01.462Z",
+  "updatedAt": "2026-09-25T17:39:48.227Z",
   "section": "Top 3 News",
   "items": [
     {
-      "id": "news-polanski-heckled-at-jewish-community-hustings-af-8dc806eade",
-      "title": "Polanski heckled at Jewish community hustings after saying that Zionism is a form of racism – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
-      "tag": "Europe",
-      "publishedAt": "2026-09-25T12:21:12.000Z",
-      "summary": "The Green leader, who is Jewish, made the remarks as part of his campaign in the Holborn and St Pancras byelection The communications and governance director of Glasgow city cou...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/64d3d1f971f508e92a1c71196578c532b94cbd46/607_0_5193_4156/master/5193.jpg?width=460&quality=85&auto=format&fit=max&s=c0445728d189374d718be71da6340b26",
-      "imageCredit": "Photograph: Tolga Akmen/EPA",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates"
-    },
-    {
-      "id": "news-openai-agents-hacked-into-an-australian-governme-0c893c14f8",
-      "title": "OpenAI Agents Hacked Into an Australian Government Website. Who’s Responsible?",
+      "id": "news-this-tiny-village-is-picture-perfect-apart-from--226c030618",
+      "title": "This Tiny Village Is Picture Perfect, Apart From All the Tourists",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html",
+      "url": "https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html",
       "tag": "US",
-      "publishedAt": "2026-09-25T12:20:52.000Z",
-      "summary": "The first known breach of a government website by rogue artificial intelligence agents has prompted global calls for more regulation of the technology.",
+      "publishedAt": "2026-09-25T17:33:53.000Z",
+      "summary": "The residents of Vlkolinec in Slovakia — there are 17 — say that since the place was named a world heritage site, gawking hordes have made it unlivable.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static01.nyt.com/images/2026/09/25/multimedia/25oz-ai-hack-pwjl/25oz-ai-hack-pwjl-mediumSquareAt3X.jpg",
-      "imageAlt": "Prime Minister Anthony Albanese of Australia at the U.N. General Assembly in New York on Thursday. He has called for international standards to govern A.I.",
-      "imageCredit": "Lexi Parra/The New York Times",
+      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/00int-slovakia-village-01-gtbl/00int-slovakia-village-01-gtbl-mediumSquareAt3X.jpg",
+      "imageAlt": "Students visiting the “UNESCO House” in Vlkolinec, Slovakia, in June. The village can receive 1,000 visitors a day in peak season.",
+      "imageCredit": "Joe Klamar/Agence France-Presse — Getty Images",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html"
+      "imageSourceUrl": "https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html"
     },
     {
-      "id": "news-delhi-high-court-directs-meta-to-immediately-rem-d44e4f78fe",
-      "title": "Delhi High Court directs Meta to immediately remove objectionable morphed photo of woman with PM Modi",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-directs-meta-to-immediately-remove-objectionable-morphed-photo-of-woman-with-pm/article71508478.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-25T12:18:50.000Z",
-      "summary": "Justice Girish Kathpalia observed that this is an extraordinary position in which the matter is not of one woman but also of the country’s Prime Minister",
+      "id": "news-supreme-court-allows-trump-to-use-controversial--d8588a34db",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-25T17:32:15.000Z",
+      "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/7mogm/article71508641.ece/alternates/LANDSCAPE_1200/DHC.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-directs-meta-to-immediately-remove-objectionable-morphed-photo-of-woman-with-pm/article71508478.ece"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-actor-raveendran-to-head-kerala-chalachitra-acad-810fbde6be",
+      "title": "Actor Raveendran to head Kerala Chalachitra Academy, Priyanka Nair to be vice-chairperson",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/actor-raveendran-to-head-kerala-chalachitra-academy-priyanka-nair-to-be-vice-chairperson/article71510105.ece",
+      "tag": "India",
+      "publishedAt": "2026-09-25T17:31:19.000Z",
+      "summary": "XLB brief: a timely india item from The Hindu, selected from the current source feed for quick context and source-first reading.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://th-i.thgim.com/public/incoming/8yjr2c/article71510218.ece/alternates/LANDSCAPE_1200/Raveendran_%20Chairman.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/news/national/kerala/actor-raveendran-to-head-kerala-chalachitra-academy-priyanka-nair-to-be-vice-chairperson/article71510105.ece"
     }
   ]
 }
