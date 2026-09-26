@@ -1,19 +1,56 @@
 {
-  "updatedAt": "2026-09-25T23:43:48.356Z",
+  "updatedAt": "2026-09-26T02:47:51.151Z",
   "section": "Expanded News",
   "items": [
     {
-      "id": "news-bjp-wins-mayor-elections-at-three-municipal-corp-2c699ac9e7",
-      "title": "BJP wins mayor elections at three municipal corporations in Rajasthan",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece",
-      "tag": "India",
-      "publishedAt": "2026-09-25T23:09:39.000Z",
-      "summary": "Prasanna Chand Mehta was elected Mayor of Jodhpur, while Anusuiya Goswami was elected to the position in Kota",
+      "id": "news-openai-bots-meddled-with-multiple-us-government--576fc1a9ca",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-26T02:33:09.000Z",
+      "summary": "OpenAI said its bots access public data from the US Census and the Securities and Exchange Commission, which looks over US stocks and investors",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://th-i.thgim.com/public/incoming/r8d4e/article71510553.ece/alternates/LANDSCAPE_1200/PTI09_25_2026_000559B.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-iran-suggests-deal-to-reopen-strait-of-hormuz-in-f716d4a752",
+      "title": "Iran suggests deal to reopen Strait of Hormuz in seven days; Trump rejects proposal",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-suggests-deal-to-reopen-the-strait-of-hormuz-in-seven-days/article71510004.ece",
+      "tag": "Europe",
+      "publishedAt": "2026-09-26T02:16:46.000Z",
+      "summary": "Iran's Foreign Minister Abbas Araghchi, who detailed the proposal in a private gathering on September 24 on the sidelines of the UN General Assembly, suggested that a speedy agr...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://th-i.thgim.com/public/incoming/2ob9c0/article71510110.ece/alternates/LANDSCAPE_1200/PTI05_15_2026_000155B.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/news/international/iran-suggests-deal-to-reopen-the-strait-of-hormuz-in-seven-days/article71510004.ece"
+    },
+    {
+      "id": "news-british-climber-28-dies-in-fall-in-northern-spai-43d84e6af9",
+      "title": "British climber, 28, dies in fall in northern Spain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain",
+      "tag": "Europe",
+      "publishedAt": "2026-09-26T02:02:50.000Z",
+      "summary": "Mountaineer’s body recovered about 20 metres below the summit of Torrecerredo, the highest peak of the Picos de Europa range A British man has died after falling about 61 metres...",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://i.guim.co.uk/img/media/1d8af2e9bc7124511714d2fa0469ccef5318d0a9/553_0_4683_3746/master/4683.jpg?width=460&quality=85&auto=format&fit=max&s=8ad0e4bd7d95b63679e6a91ce64c3876",
+      "imageCredit": "Photograph: Iñigo Fdz de Pinedo/Getty Images",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain"
+    },
+    {
+      "id": "news-pope-leo-xiv-makes-first-official-papal-visit-in-7b3a697ba3",
+      "title": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
+      "tag": "Europe",
+      "publishedAt": "2026-09-26T02:18:09.000Z",
+      "summary": "Pope Leo XIV drew huge crowds on the first Papal visit to France in 18 years.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
       "id": "news-combative-bjp-defends-sir-slams-oppn-for-politic-8735026ecd",
@@ -27,33 +64,6 @@
       "image": "https://static.toiimg.com/photo/msid-134495102,imgsize-71700.cms",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://timesofindia.indiatimes.com/india/combative-bjp-defends-sir-slams-oppn-for-political-storm/articleshow/134495072.cms"
-    },
-    {
-      "id": "news-two-people-arrested-in-new-york-city-for-alleged-b87b4e1513",
-      "title": "Two people arrested in New York City for allegedly climbing out of manhole",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/new-york-city-arrests-mole-people",
-      "tag": "Europe",
-      "publishedAt": "2026-09-25T22:57:51.000Z",
-      "summary": "Kevin Rodriguez and Samuel Reveron were booked after reports of ‘mole people’ emerging from sewers across city Two people have been arrested for allegedly emerging from manholes...",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://i.guim.co.uk/img/media/1c29651fe0c43bcd5a50493fc9dfef2739e10180/774_0_4226_3381/master/4226.jpg?width=460&quality=85&auto=format&fit=max&s=25e85f881a98cbcf3896e4fe74d18fe8",
-      "imageCredit": "Photograph: Barry Williams/New York Daily News via Getty Images",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.theguardian.com/us-news/2026/sep/25/new-york-city-arrests-mole-people"
-    },
-    {
-      "id": "news-the-treasured-eternal-snow-on-this-tropical-isla-fc258349e4",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "tag": "World",
-      "publishedAt": "2026-09-25T22:12:48.000Z",
-      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "whyItMatters": "World and politics stories can shift public priorities, safety context, and what people need to understand next.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-chief-justice-to-inaugurate-india-s-1st-victim-r-674856a2db",
@@ -85,26 +95,6 @@
       "imageSourceUrl": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html"
     },
     {
-      "id": "news-pope-leo-xiv-warns-ai-could-undermine-humanity-d-c3bc3e3bd8",
-      "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-      "tag": "Europe",
-      "publishedAt": "2026-09-25T23:21:52.000Z",
-      "summary": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
-      "id": "news-takeaways-from-the-trump-xi-state-visit-pageantr-c3a4e175b6",
-      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-      "tag": "US",
-      "publishedAt": "2026-09-25T19:11:47.000Z",
-      "summary": "The visit comes at an important time for both men.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
-    },
-    {
       "id": "news-vaccination-isn-t-just-for-children-adults-need--bc7e421664",
       "title": "Vaccination isn't just for children: Adults need protection too",
       "source": "Hindustan Times",
@@ -118,43 +108,53 @@
       "imageSourceUrl": "https://www.hindustantimes.com/ht-insight/public-health/vaccination-isnt-just-for-children-adults-need-protection-too-101790335635988.html"
     },
     {
-      "id": "news-3-bjp-allies-say-ec-must-clear-air-can-t-lose-pe-3a2da40993",
-      "title": "3 BJP allies say EC must clear air, can't lose people's trust",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms",
-      "tag": "India",
-      "publishedAt": "2026-09-25T23:08:18.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
-      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-134495099,imgsize-109542.cms",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/3-bjp-allies-say-ec-must-clear-air-cant-lose-peoples-trust/articleshow/134495064.cms"
+      "id": "news-takeaways-from-the-trump-xi-state-visit-pageantr-c3a4e175b6",
+      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+      "tag": "US",
+      "publishedAt": "2026-09-25T19:11:47.000Z",
+      "summary": "The visit comes at an important time for both men.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed."
     },
     {
-      "id": "news-congress-ups-ante-against-cec-stages-protests-ac-96db3dc576",
-      "title": "Congress ups ante against CEC, stages protests across India",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/congress-ups-ante-against-cec-stages-protests-across-india/articleshow/134495076.cms",
+      "id": "news-the-rebranding-of-ahmedabad-s-food-scene-0287aab545",
+      "title": "The rebranding of Ahmedabad’s food scene",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/food/dining/the-rebranding-of-ahmedabads-food-scene/article70646153.ece",
       "tag": "India",
-      "publishedAt": "2026-09-25T23:03:53.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-09-26T02:15:02.000Z",
+      "summary": "Long known for its thalis and street food, Ahmedabad is developing an experimental, ambitious dining culture. With no cocktails to anchor the business, restaurateurs are getting...",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-134495075,imgsize-290628.cms",
+      "image": "https://th-i.thgim.com/public/news/national/karnataka/eycne1/article70646284.ece/alternates/LANDSCAPE_1200/Burma%20Burma_Palladium%20Ahmedabad.%20Photo%20courtesy%20Prashant%20Bhat.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/congress-ups-ante-against-cec-stages-protests-across-india/articleshow/134495076.cms"
+      "imageSourceUrl": "https://www.thehindu.com/food/dining/the-rebranding-of-ahmedabads-food-scene/article70646153.ece"
     },
     {
-      "id": "news-marking-vips-routine-was-part-of-ssr-even-before-310566de60",
-      "title": "Marking 'VIPs' routine, was part of SSR even before SIR: Officials",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/marking-vips-routine-was-part-of-ssr-even-before-sir-officials/articleshow/134495079.cms",
+      "id": "news-sustainable-tourism-in-visakhapatnam-travel-beyo-540f691190",
+      "title": "Sustainable tourism in Visakhapatnam: Travel beyond the checklist",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/life-and-style/travel/sustainable-tourism-in-visakhapatnam-travel-beyond-the-checklist/article71502986.ece",
       "tag": "India",
-      "publishedAt": "2026-09-25T23:00:14.000Z",
-      "summary": "XLB brief: a timely india item from Times of India, selected from the current source feed for quick context and source-first reading.",
+      "publishedAt": "2026-09-26T02:11:27.000Z",
+      "summary": "Ahead of World Tourism Day, a look at how four initiatives from Visakhapatnam and the Eastern Ghats are reshaping travel around Nature, communities and low-impact experiences",
       "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
-      "image": "https://static.toiimg.com/photo/msid-134495086,imgsize-1120523.cms",
+      "image": "https://th-i.thgim.com/public/incoming/e9rtum/article71503183.ece/alternates/LANDSCAPE_1200/IMG_2185.JPG",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://timesofindia.indiatimes.com/india/marking-vips-routine-was-part-of-ssr-even-before-sir-officials/articleshow/134495079.cms"
+      "imageSourceUrl": "https://www.thehindu.com/life-and-style/travel/sustainable-tourism-in-visakhapatnam-travel-beyond-the-checklist/article71502986.ece"
+    },
+    {
+      "id": "news-thiruvonam-bumper-lottery-results-2026-first-pri-58bce4b8b9",
+      "title": "Thiruvonam Bumper lottery results 2026: First prize ₹30 crore; check date and time",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/thiruvonam-bumper-2026-results-br-111-check-result-date-time-and-prize-details/article71508047.ece",
+      "tag": "India",
+      "publishedAt": "2026-09-26T01:50:30.000Z",
+      "summary": "Here is everything you need to know about the upcoming 2026 Thiruvonam Bumper (BR-111) lucky draw, including the schedule and prize details.",
+      "whyItMatters": "It adds one useful signal to the current news mix without turning XLB into an overwhelming news feed.",
+      "image": "https://th-i.thgim.com/public/incoming/rmjir2/article71508296.ece/alternates/LANDSCAPE_1200/image%206.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.thehindu.com/news/national/kerala/thiruvonam-bumper-2026-results-br-111-check-result-date-time-and-prize-details/article71508047.ece"
     }
   ]
 }
