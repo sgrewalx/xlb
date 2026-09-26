@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-25T08:42:08.149Z",
+  "checkedAt": "2026-09-26T08:28:41.777Z",
   "status": "review-required",
   "canAutoDeploy": false,
   "healthStatus": "healthy",
@@ -8,15 +8,15 @@
   "evidence": {
     "sourceHealth": {
       "path": "automation/reports/live-source-health.json",
-      "sha256": "4e5e88bd9124aab6ffac321f79cb75cdfb416805a26173229d6b89e86067efab"
+      "sha256": "992ff486dfec2d21c39a3e782af2fd3532d0a4a2ef3001473bf5f16f936480e8"
     },
     "liveRisk": {
       "path": "automation/reports/live-risk-report.json",
-      "sha256": "823fb2090ca444db49e57d1792ee39c64a4c6ce141bd10f8a938f8db735da322"
+      "sha256": "36bbdea6bbf0b3f4388abe95eefe27b5e6a89c68544f7f099b11cbbcb839841e"
     },
     "autonomyState": {
       "path": "automation/reports/autonomy-state.json",
-      "sha256": "a030ed3f64d16e6d7f425409a057807bfdc4483387c7c122c4c82607c20637b8"
+      "sha256": "d1a8dce6bdf5c4a7a8dc4bb4d0b1f1f5c41bfa6f305276185a2937d6d8bec8e9"
     }
   },
   "reasons": [
