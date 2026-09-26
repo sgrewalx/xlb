@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-09-25T22:57:13.201Z",
+  "updatedAt": "2026-09-26T01:08:43.167Z",
   "items": [
     {
-      "id": "tech-openai-investigating-dozens-of-instances-of-agen-31d43c7dae",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "id": "tech-tech-now-87d8ce6a5d",
+      "title": "Tech Now",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T22:43:54.000Z",
-      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, t...",
+      "publishedAt": "2026-09-26T01:00:00.000Z",
+      "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-unsecured-openai-agents-posted-53-user-images-on-97e085607d",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "id": "tech-quince-luggage-is-affordable-but-doesn-t-feel-ch-60bee45e56",
+      "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage",
+      "tag": "Technology",
+      "publishedAt": "2026-09-26T00:02:00.000Z",
+      "summary": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6ab6f36a22f26e9fe871007e/master/pass/Why-Buy-an-Away-When-Quince-Is-Half-the-Price-.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage"
+    },
+    {
+      "id": "tech-crusoe-abandons-1-25b-plan-to-use-boom-turbines--1721b46a93",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T22:20:47.000Z",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "publishedAt": "2026-09-25T23:11:10.000Z",
+      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
-      "id": "tech-how-to-stop-meta-training-its-ai-models-on-your--ba94aee4fb",
-      "title": "How to stop Meta training its AI models on your smart glasses' visual data",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T20:35:15.000Z",
-      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data"
     }
   ]
 }

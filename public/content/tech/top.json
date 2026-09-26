@@ -1,28 +1,41 @@
 {
-  "updatedAt": "2026-09-25T22:57:13.201Z",
+  "updatedAt": "2026-09-26T01:08:43.167Z",
   "section": "Expanded Tech",
   "items": [
     {
-      "id": "tech-openai-investigating-dozens-of-instances-of-agen-31d43c7dae",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "id": "tech-tech-now-87d8ce6a5d",
+      "title": "Tech Now",
       "source": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T22:43:54.000Z",
-      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, t...",
+      "publishedAt": "2026-09-26T01:00:00.000Z",
+      "summary": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+      "imageSourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-unsecured-openai-agents-posted-53-user-images-on-97e085607d",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+      "id": "tech-quince-luggage-is-affordable-but-doesn-t-feel-ch-60bee45e56",
+      "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T22:20:47.000Z",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "publishedAt": "2026-09-26T00:02:00.000Z",
+      "summary": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
+      "image": "https://media.wired.com/photos/6ab6f36a22f26e9fe871007e/master/pass/Why-Buy-an-Away-When-Quince-Is-Half-the-Price-.jpg",
+      "imageOrigin": "rss",
+      "imageSourceUrl": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage"
+    },
+    {
+      "id": "tech-crusoe-abandons-1-25b-plan-to-use-boom-turbines--1721b46a93",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T23:11:10.000Z",
+      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
@@ -39,19 +52,6 @@
       "imageSourceUrl": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data"
     },
     {
-      "id": "tech-thieves-stole-nvidia-trailers-they-got-20-tons-o-54636379d9",
-      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T20:30:40.000Z",
-      "summary": "They wanted the silicon. They got the sand.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand"
-    },
-    {
       "id": "tech-review-the-iphone-18-pro-is-apple-s-coolest-smar-520d1fd241",
       "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
       "source": "Ars Technica",
@@ -66,16 +66,6 @@
       "imageSourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally"
     },
     {
-      "id": "tech-roku-s-first-oled-tvs-are-up-to-400-off-starting-eb920f56e3",
-      "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-      "tag": "Technology",
-      "publishedAt": "2026-09-25T18:18:57.000Z",
-      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with fo...",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
-    },
-    {
       "id": "tech-why-is-new-york-city-pausing-some-ai-tools-in-sc-a26bb01055",
       "title": "Why is New York City pausing some AI tools in schools? | Explained",
       "source": "The Hindu Technology",
@@ -87,6 +77,16 @@
       "image": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
       "imageOrigin": "rss",
       "imageSourceUrl": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece"
+    },
+    {
+      "id": "tech-roku-s-first-oled-tvs-are-up-to-400-off-starting-eb920f56e3",
+      "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "tag": "Technology",
+      "publishedAt": "2026-09-25T18:18:57.000Z",
+      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with fo...",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
       "id": "tech-6-r-f-kuang-book-quotes-that-find-beauty-in-cont-29b879a5e0",
@@ -109,45 +109,40 @@
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     },
     {
-      "id": "tech-new-mexico-jury-rules-meta-misled-state-resident-53f87ebd5e",
-      "title": "New Mexico jury rules Meta misled state residents about data privacy",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy",
+      "id": "tech-openai-investigating-dozens-of-instances-of-agen-d6e6943551",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T20:12:54.000Z",
-      "summary": "The company is still paying for the Cambridge Analytica scandal.",
+      "publishedAt": "2026-09-26T00:09:45.000Z",
+      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, t...",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://www.engadget.com/img/gallery/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/l-intro-1790367080.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-ai-was-supposed-to-hit-new-grads-hard-so-far-une-404e7a60fa",
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
+      "id": "tech-inside-iconic-horror-game-silent-hill-s-scottish-2e3325bfb9",
+      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T19:11:05.000Z",
-      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+      "publishedAt": "2026-09-25T23:34:20.000Z",
+      "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
       "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
-      "imageCredit": "DBenitostock/Getty",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg",
       "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise"
+      "imageSourceUrl": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "tech-paramount-wbd-merger-conditions-give-the-public--d2c654c272",
-      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told",
+      "id": "tech-automattic-has-a-new-board-after-failed-attempt--575c0a4dfb",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave",
       "tag": "Technology",
-      "publishedAt": "2026-09-25T18:42:57.000Z",
-      "summary": "US judge reviews deal with California, says it must not be result of collusion.",
-      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
-      "imageCredit": "Getty Images | NurPhoto",
-      "imageOrigin": "rss",
-      "imageSourceUrl": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told"
+      "publishedAt": "2026-09-25T23:04:34.000Z",
+      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "whyItMatters": "Technology updates can influence strategy, risk, and the speed of change across digital products."
     }
   ]
 }
